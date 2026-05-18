@@ -57,6 +57,7 @@ Add new values here FIRST, then use them in producer files.
 - Piedmont
 - Tuscany
 - Sicily
+- Sardinia
 - Veneto
 - Lombardy
 - Friuli-Venezia Giulia

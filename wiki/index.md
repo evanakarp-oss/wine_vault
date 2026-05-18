@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 746
+total_pages: 748
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**746 pages indexed.**
+**748 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -67,6 +67,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Saar_Saarburg_Producers|Saar Saarburg Producers]] — **1 producers** tracked.
 - [[Salta_Producers|Salta Producers]] — **5 producers** tracked.
 - [[San_Juan_Producers|San Juan Producers]] — **1 producers** tracked.
+- [[Sardinia_Producers|Sardinia Producers]] — **1 producers** tracked.
 - [[Savoie_Producers|Savoie Producers]] — **1 producers** tracked.
 - [[Sicily_Etna_Producers|Sicily Etna Producers]] — **1 producers** tracked.
 - [[Sicily_Faro_Producers|Sicily Faro Producers]] — **1 producers** tracked.
@@ -99,7 +100,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_372 producers across 56 regions._
+_373 producers across 57 regions._
 
 ### Alsace
 
@@ -583,6 +584,10 @@ _372 producers across 56 regions._
 ### San Juan
 
 - [[cara_sur|Cara Sur]] — San Juan / Valle de Calingasta
+
+### Sardinia
+
+- [[cardedu|Cardedu]] — Sardinia / Ogliastra · organic · CSW ★1/1
 
 ### Savoie
 
