@@ -20,3 +20,13 @@ wine_vault_fromdocuments/
 # Obsidian per-session state (config itself stays tracked)
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+
+# Per-machine UI state (nested anywhere, not just top-level)
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+
+# Regenerable build artifacts (per CLAUDE.md: "build/ is regenerable — never hand-edit")
+build/
+
+# Transient Drive-sync staging
+_drive_sync/
