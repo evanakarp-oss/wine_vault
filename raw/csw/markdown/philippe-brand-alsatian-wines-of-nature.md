@@ -1,0 +1,31 @@
+---
+type: csw_article
+slug: philippe-brand-alsatian-wines-of-nature
+title: "Philippe Brand - Alsatian wines of nature"
+url: https://chambersstwines.com/blogs/articles/philippe-brand-alsatian-wines-of-nature
+date: ""
+word_count: 1023
+fetched_at: "2026-04-21T17:00:45+00:00"
+---
+
+# Philippe Brand - Alsatian wines of nature
+
+8/20/21 -
+
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/Philippe_Brand_480x480.jpg?v=1711122239)
+I believe the first time I met Philippe Brand was at an outdoor wine tasting under a massive circus tent, in the Ardeche, about 4 or 5 years ago. He was manning his "stand," (a used wine barrel) wearing his trademark Kangol hat, as many curious Ardechois locals and winemakers from elsewhere in France walked slowly by and stopped to peek at the lineup of wines on display. Being the only winemaker from Alsace at the fair, and the only one with multiple skin contact wines, with a rainbow of eye-catching colors, there was a bit of a hubbub around his barrel. "Oooh Alsace... ils font du vin la?"... "C'est quoi ça, vin de macération?" I tasted with him and was really impressed with the balance of his wines across the board, the distinctness of the different maceration wines, and how "clean" they all were (i.e. not marked by flaws or "mousiness") for natural wines with no addition of SO2. Since then, we've tasted together numerous times, and I've visited the winery a couple of times as well. To some degree, I found a kindred spirit in Philippe, as we are about the same age, and both following in the footsteps of our fathers, in the world of wine. It was a joy and an honor to begin importing his wines to New York, as we both embarked on our paths to continue our family businesses. We have received Philippe's wines to the shop a few times over the last couple of years, and they have started to develop a bit of a following, thanks mostly to the juice, but a bit to the storytelling and the video I show people of their horse in action, plowing vineyards under the hot July sun (the horse quit at noon, that was the end of the work day). Recently arrived are some "classics" from the Brand lineup, namely a trio of maceration wines, and a zippy and quirky dry Riesling with more to come later this year!
+![](https://www.chambersstwines.com/Home/Image/47386?width=534)
+Philippe waits for his turn (Photo : Eben Lillie)
+A brief history of the family domaine brings us to the 1700s, when Philippe's ancestors started a polycutlure farm in Ergerhseim, about 20 minutes west of Strasbourg. They grew wheat, tobacco, and grapes, and had many farm animals as well. In fact, the numerous stalls and barns created for the animals have since been adapted to accomodate the winemaking activities in recent decades. In the 1950s, Philippe's grandfather, Lucien Brand, began to focus primarily on cultivating vineyards, expanding their surface area from half a hectare to just under 10 hectares, and establishing an official winery in 1956. Charles, Philippe's father, converted to organic viticulture in the 1990s, with certification in 2000. Philippe was always helping out at the winery from an early age, and then in 2006, he began to have a more active role, taking the organic farming a step further by converting to biodynamic agriculture starting around 2010, with certification in 2015.
+
+![](https://www.chambersstwines.com/Home/Image/47387?width=534)
+Like grandfather (Lucien Brand) ....
+![](https://www.chambersstwines.com/Home/Image/47391?width=534)
+...like grandson
+As has been the case with a few family domaines in Alsace, there is a trajectory from long-time organic farming and production of "classic" wines, to a more comprehensive, bio-dynamic approach, with experimentation and introduction of natural winemaking. I should elaborate, as that might seem vague. Organic farming is obvious, and though it wasn't hugely popular in the 90s, there are many domaines in Alsace that converted, so there is a good history of organic farming in the region. "Classic" wines for Alsace would be mono-varietal whites (mostly due to demand and influence from German tourism), in dry and off-dry styles, nary a maceration wine or anything unfiltered or "funky," always with addition of SO2 at various stages in winemaking process and at bottling. The move to biodynamic agriculture is, to me, an obvious choice for estates that have decades of organic farming under their belt, as the soil and vines are already in a much better state to adapt to biodynamics than any chemical drenched vineyards would be. The experimentation, I believe, comes from the exposure that many young winemakers have had to wines from other regions, or other countries, and the influence of the emerging natural wine scene. Philippe, for example, traveled to Burgundy, and as far as Australia, learning at different wineries, and developing a vision for what he wanted to do back home. He then benefited from relationships with some of our favorite Alsatian personalities, like Christian Binner and Pierre Frick, who he consults with regularly. In his words, the idea behind his approach to winemaking "is to capture all the life that gives us beautiful grapes, retain that life during the vinification, and bring it to you in the bottle." He's clearly doing just that, and his work highlights how pure and balanced natural wines can be. I think Charles might even be proud of him! As far as I remember, Philippe told me his father will only drink the no SO2 added wines now, preferring them to the traditional wines they still bottle for the old folks and tourists in the area.
+
+![](https://www.chambersstwines.com/Home/Image/47388?width=534)
+Vibrant vineyards!
+Today's offer is not an expansive one by any means, considering Philippe makes well up to 20 different wines, including several negociant wines, made in collaboration with winemakers in the Jura, Loire Valley, and southern France. However, it does serve as an introduction for folks who are not familiar with his wines, and a preview of what we'll have in store the next time around (including some red wines)!
+
+All the wines in today's offer are vinified naturally and have no added SO2, so we will default to holding out-of-state orders for shipping in the Fall.

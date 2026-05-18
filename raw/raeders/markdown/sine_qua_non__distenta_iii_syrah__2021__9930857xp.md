@@ -1,0 +1,33 @@
+---
+type: raeders_inventory
+product_id: 9930857xp
+producer: "Sine Qua Non"
+producer_slug: sine_qua_non
+cuvee: "Distenta III Syrah"
+vintage: "2021"
+size: "1.5L"
+country: ""
+region: ""
+subregion: ""
+varietal: ""
+wine_type: "Red Wine"
+score_wa: 95
+score_js: 0
+score_we: 0
+score_ws: 0
+price_usd: 999.99
+mixed_case_usd: 899.99
+url: https://www.raederswine.com/wines/Sine-Qua-Non-Distenta-III-Syrah-2021-w9930857xp
+fetched: "2026-04-25"
+---
+
+# Sine Qua Non - Distenta III Syrah 2021
+
+- **Producer:** Sine Qua Non
+- **Cuvée:** Distenta III Syrah
+- **Vintage:** 2021
+- **Size:** 1.5L
+- **Type:** Red Wine
+- **Scores:** WA 95
+- **Price:** $999.99 (mixed case $899.99)
+- **Source:** [https://www.raederswine.com/wines/Sine-Qua-Non-Distenta-III-Syrah-2021-w9930857xp](https://www.raederswine.com/wines/Sine-Qua-Non-Distenta-III-Syrah-2021-w9930857xp)

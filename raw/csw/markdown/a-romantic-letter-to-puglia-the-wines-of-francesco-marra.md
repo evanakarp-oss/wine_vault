@@ -1,0 +1,17 @@
+---
+type: csw_article
+slug: a-romantic-letter-to-puglia-the-wines-of-francesco-marra
+title: "A Romantic Letter to Puglia: The Wines of Francesco Marra"
+url: https://chambersstwines.com/blogs/articles/a-romantic-letter-to-puglia-the-wines-of-francesco-marra
+date: ""
+word_count: 528
+fetched_at: "2026-04-21T16:30:25+00:00"
+---
+
+# A Romantic Letter to Puglia: The Wines of Francesco Marra
+
+1/20/20 -
+
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/Francesco_Marra_600x600.jpg?v=1711067481)
+
+I have never been. I imagine Puglia as a wild and rustic landscape, dry and dusty, where hearty folk live in stone houses with conical roofs and the limestone cliffs fall dramatically into the Adriatic Sea. A hot climate, where the sun beats down and scorches the red earth, and everything that grows must be rugged and steadfast. At least that's the image I have from drinking the wines. On the most recent tour of Vinitaly and the surrounding wine fairs, it was the wines from Puglia that most captured my palate and my imagination, and none more so than the ones from Francesco Marra. In a particularly over-emotional retelling of what happened: after tasting the wines of Guiseppe Rinaldi it is difficult to know what to do next, as everything seems like a step down. So as we approached the table with these unknown wines from Puglia, we weren't expecting much. Yet as we tasted with Francesco, I felt the wines resonate with such an intensity and soulfulness, that I was utterly captivated. I mumbled something about them having as much expressiveness as the great Barolos we just tasted, and as tears were brought to my eyes and Jamie poked me in the ribs and told me to get a grip and not embarrass the store*, a love affair was started with Puglia, at least in my mind's eye. The olive harvest. (Photo from: http://en.francescomarra.it/olive-harvest/) Francesco Marra's family has been farming on the Salento Peninsula in the very south of Puglia for over 150 years. Francesco's father closed the family winery about 50 years ago, but after finishing his education in agronomy, Francesco restarted wine production in 1990. The farm covers a total area of about 70 hectares, though over 40 of those are dedicated to centuries-old olive trees of the Cellina and Ogliarola varieties. 22 hectares are planted to vines (Negroamaro and Primitivo) though most of the grapes are sold in bulk to other wine producers. Francesco uses the grapes from only two hectares to make his own wines, and his annual production is limited to about 5,000 bottles. Francesco has been on a long road towards natural, living wines, and he finally made his first non-intervention wines in 2013 (the first vintage where he added absolutely no sulfur). The estate is being farmed completely without the use of chemicals, with the only fertilizer being green manure. The vines are grown on red soils, rich in clay and iron, and the dry and arid climate and periods of high temperatures stress the vines to produce these deep and brooding expressions. The grapes are dry-farmed and hand-harvested, with native yeast fermentation taking place in large, used oak barrels. The wines are rested for a year in stainless steel before being bottled with very little, or no sulfur. These are dense, rich, and beautiful examples of hearty and rustic wines from the Italian south. Oskar Kostecki * this might be a bit of literary hyperbole

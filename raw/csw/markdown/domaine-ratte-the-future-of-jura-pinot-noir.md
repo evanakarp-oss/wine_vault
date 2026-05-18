@@ -1,0 +1,31 @@
+---
+type: csw_article
+slug: domaine-ratte-the-future-of-jura-pinot-noir
+title: "Domaine Ratte & the Future of Jura Pinot Noir"
+url: https://chambersstwines.com/blogs/articles/domaine-ratte-the-future-of-jura-pinot-noir
+date: ""
+word_count: 1021
+fetched_at: "2026-04-21T16:41:42+00:00"
+---
+
+# Domaine Ratte & the Future of Jura Pinot Noir
+
+11/22/21 -
+
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/Ratte_480x480.jpg?v=1711157937)
+
+A few weeks ago, we took a look at Fabrice Dodane's *Le Dos d'Chat* (VDF) ** lineup of negocient wines. Two bottlings, a Poulsard and a Trousseau, come from his native Jura. Another spectacular bottle is his Syrah made with grapes from the Northern Rhone. Although these wines are delicious, they only exist because of the chaotic and harmful effects of climate change on the Jura. Before this, he produced bottles only under his well-known label *Domaine de Saint Pierre* . After a brutal 2021 season, author Ceylan Yeginsu quoted Fabrice in her recent *New York Times* article as saying, "We have to make *Vin de France* to pay our expenses." He is trying to remain optimistic, but admits "if it continues like this, how will we continue to make wine in the Jura?"
+
+Jura wines skyrocketed onto the world stage with the help of the natural/low-intervention wine movement of the early-21st century, but after only a glimpse of success, the future for this region is uncertain. However, there seems to be one thing agreed upon - Pinot Noir in the Jura is going to become more popular. "Pinot in the Jura is just as fickle as everywhere, and may possibly be the Jura variety most affected by climate change," writes Wink Lorch in the 2015 edition of her book, Jura Wine. "On the positive side, the variety is more likely to ripen properly to give musts with a better sugar-acid balance than previously, and this is reflected in the increase in single varietal Pinots produced." And, six years after Wink published these words, Pinot Noir is still expected to benefit most from the warmer growing periods of this age. Will it, one of the world's most famous international grapes, one day surpass the likes of consumer favorites (and more-regionally rooted) Poulsard and Trousseau? In 2015, Pinot was the second most planted red grape in this corner of France according to Wink, and that might surprise some drinkers, as it definitely wasn't, and still isn't, the star.
+
+When Domaine Ratte's Arbois *Clos Maire* bottling of Pinot/Trousseau found its way in front of me, my interest in tasting Pinot Noir from the Jura was high. I wasn't unfamiliar with them, but I had just read Ceylan Yeginsu's article, and I wanted to taste more considering the potential changes to the winemaking landscape of the area. And when I found out my supplier also had a tiny bit of Ratte's 100% Pinot Noir available, I begged for a taste of that too... and by the end, I ordered all that was left of both (which is the inventory you see below.) Beautiful wines of concentration, forest fruits and earth, and a special, lapping coolness of acidity and minerals.
+
+**Domaine Ratte 2018 Clos Maire** *is a lovely, transparent red cherry in color. On the nose, a medley of fresh raspberry and blackberry comes first, before a scent of candied red cherry and dark pomegranate juice. On the palate, rich and woodsy cherry combines with a touch of tilled earth, black pepper, and black tea . Zippy dark stones spark a structure of good acidity and soft tannin . On the finish, an essence of smoky herbs and spice . An incredibly balanced blend, where Pinot's finesse is matched by Trousseau's attractive, dark grit . Drinking so well today!*
+
+*The 2017 Pinot Noir from Domaine Ratte has a surprisingly dark core , with a clear but plummy center and light violet edges . On the nose, there are fantastic aromas of black cherry, strawberries, with flowers and wispy dark cocoa - culminating in brooding wintery spice . The contrast of high and deep tones makes this wine aromatically very captivating. On the palate, it is slightly leaner , with tart blackberries, blueberries and a zip of grapefruit peel and minerals . Tannic and high in acidity , this Pinot Noir is still snapping in your mouth long after each sip. I finished it on it's second day open, right out of the fridge, and it might have been better than on day one. Drink today or lay it flat for a few years!*
+
+Started by Michel-Henri and Françoise Ratte in 1989, this certified Biodynamic producer has 8 hectares that cover some of the best parcels of Arbois, and all their fruit comes from estate-owned vines. The couple is now helped by their son, Quentin, who recently finished his viticultural studies. Having the next generation join them full-time, at this moment of such drastic change in the fields of the Jura, will hopefully give the Ratte's an upper-hand in the difficult vintages that almost certainly await. As for 2021, the family, like their neighbor Fabrice Dodane, were hurt by a particularly devastating springtime frost. "The harvest is over and needless to tell you that the harvest was minimalist," they wrote on the estate's website.
+
+Here, I have included links to two articles that show exactly how dire the situation is in the Jura, just one of the French agricultural areas dealing with the extreme conditions of climate change. [The first](https://www.theguardian.com/food/2021/apr/15/agricultural-disaster-two-billion-worth-of-french-wine-production-lost-after-cold-snaps) is by Angelique Chrisafis, published 4/15/21 for the *Gaurdian* , and [the second](https://www.nytimes.com/2021/11/03/travel/jura-wine-climate-change.html?searchResultPosition=1) is the article I referenced above, published in the *New York Times* on 11/3/21 by Ceylan Yeginsu. "We must think about what happens next," write the Ratte's on their blog," and we're already working in the vineyards to prepare for winter."
+
+There is no silver lining to this story, but tasting the Pinot Noirs of the Jura right now is tasting a snapshot of this venerable region's winemaking history. They are delicious simply as wine, but are part of a much, much, much larger picture we should all be considering. *David Hatzopoulos*

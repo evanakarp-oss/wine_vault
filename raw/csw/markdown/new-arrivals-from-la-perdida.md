@@ -1,0 +1,39 @@
+---
+type: csw_article
+slug: new-arrivals-from-la-perdida
+title: "New Arrivals from La Perdida!"
+url: https://chambersstwines.com/blogs/articles/new-arrivals-from-la-perdida
+date: ""
+word_count: 886
+fetched_at: "2026-04-21T16:56:27+00:00"
+---
+
+# New Arrivals from La Perdida!
+
+8/16/2024
+
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/8f6a6811-388f-4c85-94b8-07edd1f27c88_eaed9560-6d0e-49d1-9a6d-61c0241f8dcf_480x480.jpg?v=1724179049)
+
+Today we present the beautiful 2022 vintage from La Perdida, the project of Nacho Gonzalez, from rustic and magical vineyards in Galicia, Spain. There have been times that we've recommended aging one or two of Nacho's wines when we sent out a newsletter, but these '22s are positively singing, with elegant tannins and pure fruit. Of course, some time in the cellar for the fuller reds would not hurt, but there is no need to wait to enjoy these singular wines!
+
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/f2b274a4-5c12-4907-ae58-d20e7ed62072_480x480.png?v=1724179149)
+
+Nacho Gonzalez is a storyteller - of his unique corner of the world and the practically unknown obscure local varieties of the region - but he is first and foremost a farmer and a caretaker of local flora (and fauna for that matter). When you meet him for the first time, you can tell he is a person who is immensely proud of the special place he comes from, and ecstatic (literally beaming) to be able to share an artisanal expression from his land and his home. I have tasted with him in Spain and the US, and his appreciativeness and warmth towards everyone who he tastes with is infectious! He may be one of the most selfless winemakers I've ever met, and when you consider his story - the countless years he's spent recuperating abandoned vineyards, his connection to his grandmother and his village and surrounding area - it does seem like he might genuinely see himself as a medium. I'm not sure he cares about international acclaim or "making it" in the wine world, as his joy over sharing the wines with strangers seems to completely satiate him. Maybe I'm glossing a bit, but if you meet him, you'll understand immediately!
+
+Since beginning his La Perdida project, Nacho has experimented with fermentations in various vessels and vats, different types of extraction and infusion, and aging vessels from amphoras to used French barrels and stainless steel. His wines have become more and more focused over the years, and his winemaking more intentional. At this point, I feel he is in full stride, and the wines are showing beautifully. With the 2022 vintage, everything is delicious across the board, with one after another charming, compelling and balanced wines that are expressive and ready to drink, in some cases to age as well.
+
+The history of the Perdida project is well documented in newsletters we've written over the years, so we will summarize here, quoting our esteemed former colleague, Ben Fletcher: "Nacho Gonzalez is a biologist by training. He has been making wine in Valdeorras since 2012. He inherited a vineyard ('O Trancado') from his grandmother. Planted with old vines of Garnacha Tintorera and Mencia, it was in poor shape. He set out to revive it. In doing so, and in continuing to seek out and revive old vineyards in the area, he created one of the most unique wine projects in Spain.
+
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/1d57bcff-92dd-4781-9b6f-579035922446_480x480.jpg?v=1724179274)
+
+The wine region of Valdeorras is increasingly commercialized and industrialized, as large conglomerates move in to produce inexpensive bulk wines. This has led Nacho Gonzalez to search out remote, isolated, difficult to work sites of neglected vines. La Perdida (the lost) is a fitting name for his work. He brings life to these ancient vineyards with careful organic and biodynamic farming. In the cellar and in the vineyard, Nacho is a traditionalist. He employs the Tinaja (a specially-shaped clay amphora) and continues to work and vinify wine from vineyards co-planted with red and white grapes. He often coferments the grapes from these sites, and all of his wines made from white grapes see skin-contact. All vinification and bottling is done without additives and by hand."
+
+In the cellar and in the vineyard, Nacho is a traditionalist. He employs the Tinaja (a specially-shaped clay amphora) and continues to work and vinify wine from vineyards co-planted with red and white grapes. He often coferments the grapes from these sites, and all of his wines made from white grapes see skin-contact. All vinification and bottling is done without additives and by hand." - *Ben Fletcher*
+
+Looking at pictures of Nacho in his vineyards, I've realized that there is a story that wouldn't be told without him. He is the sole person caring for these forgotten vineyards and forgotten grapes that certainly would be "los perdidos" if not for him. These are the least industrial wines that could possibly exist, coming from bush vines, untrained wild vineyards on remote hills scattered around Valdeorras, terraced old vineyards that Nacho spends years personally recuperating through regenerative agriculture. Without him, they would go wild, in inconvenient locations, with no potential to be worked mechanically, requiring sweat and commitment that most would never commit to. These are wines that express a sense of place like none other, and we have this one humble artisan to thank for that. Thank you Nacho!
+
+- *Eben Lillie*
+
+**
+
+## >>> View Wines Here <<<

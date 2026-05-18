@@ -1,0 +1,27 @@
+---
+type: csw_article
+slug: the-beautiful-beaujolais-of-georges-descombes-2014-2015-with-chignard-ducroux-guillot-terres-dorees-and-thevenet
+title: "The Beautiful Beaujolais of Georges Descombes, 2014 & 2015 (with Chignard, Ducroux, Guillot, Terres Dorées and Thevenet)"
+url: https://chambersstwines.com/blogs/articles/the-beautiful-beaujolais-of-georges-descombes-2014-2015-with-chignard-ducroux-guillot-terres-dorees-and-thevenet
+date: ""
+word_count: 775
+fetched_at: "2026-04-21T17:25:18+00:00"
+---
+
+# The Beautiful Beaujolais of Georges Descombes, 2014 & 2015 (with Chignard, Ducroux, Guillot, Terres Dorées and Thevenet)
+
+﻿ ﻿3/30/17 -
+
+![Descombes Vineyard Brouilly Beaujolais](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/Descombes_Vineyard_600x600.jpg?v=1708788696)
+
+2014 was a difficult vintage for much of France as cool weather and abundant rains in the spring and mid-summer had growers working hard in the vines and worrying that a disaster was in the making. Happily, in mid to late august, depending on the region, sunny, dry weather arrived and continued through the harvests, enabling growers to bring in mature fruit with moderate alcohol levels and beautiful balance. A great vintage for Loire Valley reds, we feel that it was a great vintage for Beaujolais as well, as the wines are complex, ripe and pretty, with alcohol averaging about 12.5% while retaining a lovely freshness that enhances the subtle charms of great Beaujolais. One of our most favorite producers is **Georges Descombes** and we have been eagerly awaiting his three Vieilles Vignes cuvées from Regnié, Chiroubles and Morgon. Sadly, the 2014 Regnié VV was delayed, but the Chiroubles and Morgon have arrived - they are beautiful wines that are delicious now and that will repay cellaring of five to eight years or more.
+
+2015 in Beaujolais has been widely praised in the press, and the wines certainly show terrific ripeness and supple textures. Alcohol levels at many estates, however are at 14% and more, bringing a bit of heat to the wines and a more one-dimensional character to the fruit. While there are some impressive wines that should cellar well (from Alain Coudert, for instance) many seem a bit awkward and unbalanced compared to the lovely 2014s. Which brings us back to Georges Descombes whose 2015 "regular" cuvées have recently arrived as well. These are always among the prettiest of Beaujolais, as Descombes' great farming and superb low or zero-sulfur vinifications consistently produce pure and immensely enjoyable wines. His three 2015s weigh in at 13% alcohol, and while they show a riper, more black fruit character than normal, they are well-balanced, supple and quite delicious and will provide happy drinking over the next five years.
+
+We have previously praised the **2014 Cedric Chignard Juliénas "Beauvernay** ," from a south-facing slope of high-density 60 year-old vines on blue volcanic soil. The wine is  simply delicious - a real joy to drink, with gorgeous, complex fruit, moderate alcohol, great balance and wonderful stony density that foretells excellent mid-term aging. Now joined by the equally delicious **2014 Chignard Fleurie "les Moriers,"** these are beautiful examples of this lovely vintage for Beaujolais and they belong on your table and in your cellar.
+
+While we are appreciating great Beaujolais from 2014, we are happy to again offer the superb **2014 Morgon Vieilles Vignes from Jean-Claude Thevenet.** This estate consistently produces beautiful Morgon from 4.75 hectares near Le Clachet, from vines averaging 70 years of age, with some planted before World War One. About 2,000 cases are produced. Vineyard work is biodynamic, fermentation is with wild yeasts at a moderately low temperature (10 - 13 degrees C). Aging is mostly in old barrels from DRC with minimal extraction. This is always one of the most elegant natural wines of Beaujolais and is highly recommended, especially from this excellent vintage. The wines of **Jean-Paul Brun at Domaine des Terres Dorées** are also favorites of ours every year. Jean-Paul vinifies in the normal Burgundy method, rather than with the carbonic-maceration prevalent in Beaujolais, giving the wines a bit more structure and  ageability, as well as different aromatic and fruit profiles. His 2015s remained balanced and elegant in this ripe vintage, particularly the delicious **Côte de Brouilly and Morgon** offered today.
+
+And finally, for lovers of true "natural" wines, there is no finer example than the **Christian Ducroux "Exspectatia,"** a product of unparalleled biodynamic farming and meticulous vinifications with zero added sulfur.  Ducroux' 5 hectare  estate has been certified organic and biodynamic since 1985, and has operated as a nearly self-sufficient farm, producing its own fertilzer and compost, and plowing and harvesting almost entirely without machinery. The vines average over 60 years of age and are replaced by massale selection, giving extremely low yields.  The 2015 Exspectatia shows beautifully, with remarkable complexity, intense aromas of ripe blackberry, violet, musk, pepper, licorice and earth, that continue with a dense, earthy texture on the palate. (12.5% alcohol, zero added SO2) Really a profound wine of terroir that expresses the incredilble farming and winemaking of Christian Ducroux - certainly  one of the finest natural wines of France. (Decanting advised, no added sulfur - consume on the day opened)
+
+**Be Happy - Drink More Beaujolais!**

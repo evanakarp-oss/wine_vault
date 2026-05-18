@@ -1,0 +1,39 @@
+---
+type: csw_article
+slug: what-are-natural-organic-and-biodynamic-wines
+title: "What are \"Natural\", Organic and Biodynamic Wines?"
+url: https://chambersstwines.com/blogs/articles/what-are-natural-organic-and-biodynamic-wines
+date: ""
+word_count: 1196
+fetched_at: "2026-04-21T17:32:04+00:00"
+---
+
+# What are "Natural", Organic and Biodynamic Wines?
+
+7/14/2009 -
+
+Chambers Street Wines is one of the country's leading retailers of organic, biodynamic and "natural" wines. Over the last twenty years there has been a growing movement towards organic agriculture and more natural styles of winemaking in reaction to the international tendency to view wine as a product that can be manipulated by a variety of chemical and physical means in order to appeal to certain reviewers and consumers. Natural winemaking is not a marketing ploy (as is much of the "all natural" labeling and advertising of foodstuffs in the US), but rather it is a traditional view of wine as an expression of specific terroir and grape varieties, with minimal intervention by the winemaker. Why should this be important to the wine consumer?
+
+**Let's look at some of the techniques associated with modern winemaking...** Grapes are mostly grown in sterile vineyards, where herbicides, pesticides and fungicides eliminate plant, insect and microbial populations. The vines themselves are modern clones, chosen for certain characteristics, such as disease resistance or high yields, which reduce the genetic variety of the vineyard and can radically change the nature of the wine. Commercial fertilizers are applied that feed the vines a chemical soup on the surface and then run off to pollute local waters. Machine-harvested grapes are then brought to the winery, often containing bunches that are unripe, rotten or dirty, which are hopefully sorted out before the crush. The grape must (juice) is then sulfited to prevent spoilage and to kill off unwanted wild yeasts. Then selected yeast strains are added to start the fermentation process. These yeasts are selected to create certain flavors or characteristics in the wine. "...the ICV D47 wines were fruity and floral, compared to the QA 23, which were predominated by tropical fruits and spices." Nutrients and enzymes are added to increase viscosity, "mouthfeel", and to assist the selected yeasts. Roto-fermenters and other mechanical manipulations are used to extract the maximum color and concentration, and sugars are added to increase alcohol production if necessary. The resulting product has the desired aromatics, a dark color with supple mouth-feel, an intense palate (with gobs of lush hedonistic fruit) and, well, not usually much of a finish... Wines made in this style tend to taste very much the same, no matter where they are made or with what grape.
+
+**How are organically-farmed natural wines different and what does it mean to the consumer?** Most important, naturally made wines taste better. They have more subtle and complex aromas. They are usually lower in alcohol and lighter in body but have more precise and true fruit characteristics, complemented by flavors derived from the soil and subsoil. Natural wines have better acidity, even in abnormally hot or dry years, and possess a longer and more complex finish that stimulates the palate rather than dulls it. Consequently, they tend to complement food in a much more pleasing way, which is, of course, one of the most important roles of wine. Additionally, there are important environmental concerns, as well as issues of globalization and standardization.
+
+**How do we define "natural" winemaking?** As Pierre Overnoy says "A natural wine is one you want to drink and then drink some more..."
+
+**Grapes are grown in a vineyard that is farmed organically or biodynamically** (see below for specific definitions). Herbicides are not used, and the soil is plowed, where possible, often with cover crops between the rows, encouraging deep root growth and aeration, among other benefits.
+
+**Grapes are harvested by hand,** bringing mature, clean fruit to the winery, and yield (grapes per acre) is controlled by pruning (limiting the number of buds per plant) and by retaining lower-yielding old vines.
+
+**Fermentation occurs using only indigenous yeasts naturally present in the vineyard and cellar,** allowing the true flavors of the grapes and the mineral qualities of the soil to be expressed. (Of course "stuck" fermentaions or vintages with high levels of rot may require added yeasts)
+
+**Sulfur Dioxide is not used or is limited to as small a dose as possible.** Wine-making without SO2 is difficult, and requires, in the opinion of most natural wine-makers, grapes grown organically in vineyards with healthy wild yeast populations, as well as experience and careful work in the cellar. While the results can be uneven and marked by reduction or "off" aromas, low-sulfur wines can also offer beautifully complex and pure aromatics and lovely flavors with more "terroir" character.
+
+Chaptalization is minimized and chemical or physical manipulations in the celllar are not used.
+
+**What do we mean when we say "organic wine?" Please Note; All wines we classify as Organic are certified to be made with orgaincally grown grapes.** With some local variations, a winery that follows the following rules may be considered "organic" after a three year period of conversion: Chemical herbicides and pesticides are banned; only certain natural preparations may be used against rot or mildew; yearly inspections must be carried out by a certifying body, such as Ecocert. Of course, many winemakers who practice organic viticulture prefer not to go through the certification process - they just farm that way because it's better for the wine.
+
+**What do we mean by biodynamic wine?** (Please Note; As above , we only classify as Bio-Dynamic those wineries that are certified , in this case by Demeter.) Biodynamic farming methods are derived from a series of lectures given in the 1920s by Rudolf Steiner. Beginning with the fundamentals of organic farming and observing all of the practices of "natural" winemaking, biodynamics further connects the farm or vineyard with the rhythms of the earth and atmosphere through the performance of vineyard and winery tasks in alignment with lunar and other cycles. It actively promotes the life of the soil, and the organisms within, through the application of specially prepared composts and animal products. Biodynamic certification requires the adherence to a stricter list of permissible/prohibited applications than does organic. Vine disease, pest control and weed control are "based on strategies that emphasize prevention located within the life of the farm itself." Another important aspect of biodynamic farming is the manual selection of new plants (no clonal or mass-produced vines) "to respect and increase the bio-diversity of the vineyard" and requires that a farm or vineyard "evolves towards its maximum potential as a self-contained individuality and that the vineyard be managed "as a living organism."
+
+Biodynamic wines give us a pure and unmodified expression of grapes and terroir through healthier vineyards that are naturally resistant to plant diseases and extremes of weather. (In the heat of 2003, for example, European Biodynamic vineyards produced far more balanced wines than their conventionally farmed neighbors.) Along with the obvious environmental benefits, we feel strongly that Biodynamic wines offer the consumer a level of purity, balance and complexity that is superior to that of "ordinary" wines. Many of our favorite vineyards in Europe are now Biodynamic and we are pleased to see the increased interest in Biodynamic farming in the US.
+
+Biodynamic is the registered certification mark of the Demeter Association. (Quotations from "Guidelines and Standards for the Farmer for Demeter Biodynamic")

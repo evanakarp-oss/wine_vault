@@ -1,0 +1,17 @@
+---
+type: csw_article
+slug: brick-mortar-intriguing-napa-classics
+title: "Brick & Mortar: Intriguing Napa Classics"
+url: https://chambersstwines.com/blogs/articles/brick-mortar-intriguing-napa-classics
+date: ""
+word_count: 523
+fetched_at: "2026-04-21T16:35:53+00:00"
+---
+
+# Brick & Mortar: Intriguing Napa Classics
+
+2/27/18 -
+
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/BrickMortarVines_600x600.jpg?v=1709388595)
+
+Located in Healdsburg, Brick & Mortar is a mix of classic and new Napa styles. They focus on more traditional grapes (pinot noir and chardonnay) but present them in inventive and surprising new ways. Keeping acidity high while still trying to offer wines that show Napa’s iconic signatures, winemaker Matt Iaconis uses inventive blends, earlier harvest times, native yeast fermentation, and nontraditional methods in the winery. With its distinct winemaking philosophy Brick & Mortar has forged an identity all it's own in the ever-changing landscape of California wine. One fascinating experiment being done in the winery provides two intriguing wines. The Vin Clair and Vin Rubis are made with grapes blended from the same two parcels: pinot noir from Block House vineyard in Yountville and chardonnay from Lincoln Creek vineyard in Oakville. Grapes are picked from both sites on the same day, and each lot is then separated upon arrival in the vineyard. Two wines are made, both 53% pinot noir and 47% chardonnay: one (Vin Clair) is white, one (Vin Rubis) is a light red. The Vin Clair is an ode to the still wines that are the building blocks of champagne. The two varieties are pressed together and co-fermented using natural yeast. No oak is used, giving a wine that is zippy, fresh, and lively. The chardonnay that goes into the Vin Rubis is dumped whole cluster in an open tank on top of which the destemmed pinot noir is added. Five days of cold soak follow, with subsequent native yeast fermentation, daily punch-down by hand, and aging in 100% neutral oak barrels. Light and refreshing, with bright red fruit and great lip-smacking acidity, this is a great wine to serve with a slight chill somewhere sunny. Using the same parcels, split up in the same way, the winemaker has made two remarkable wines that are entirely distinct. A more powerful, serious white, the 2014 Sweetwater Springs RRV Chardonnay has primary and secondary native fermentation occur deep in natural caves in 33% new oak, which gives enough new-oak character to detect but not enough to be overblown. As with all their wines this chardonnay is a classic style in a new and vital form: tensile, high-energy, and with graceful reserve, the definitive aspects of Sonoma chardonnay - at times sun-drenched, at times creamy - are sublimated into a delicate and lasting form. Lastly, there is the 2014 Pinot Noir from La Perla vineyard. At 1700 feet above sea level, this steep site is fantastic pinot country. At this elevation and location, the cold air of the Pacific that renders Sonoma so climatically different than Napa drifts over the Mayacamas mountains at night, allowing for increased acidity and structure in the final wines. This wine is native yeast fermented before resting in used French oak barrels for 16 months. As with all Brick & Mortar wines, this pinot noir is an amalgam of traditional and innovative California styles that ultimately converge to create wonderful, exciting, and balanced wines. -Andrew Farquhar

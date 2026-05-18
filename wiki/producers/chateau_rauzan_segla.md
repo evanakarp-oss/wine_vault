@@ -1,0 +1,95 @@
+---
+type: producer
+name: Château Rauzan-Ségla
+slug: chateau_rauzan_segla
+aliases:
+- Chateau Rauzan Segla
+country: France
+region: Bordeaux
+sub_region: Margaux
+appellations: []
+farming:
+- organic
+certifications: []
+importer_us: []
+retailers:
+  chambers:
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
+  dte:
+    in_portfolio: false
+    cuvee_count: 0
+    price_min: 0
+    price_max: 0
+  raeders:
+    in_portfolio: true
+    cuvee_count: 2
+    price_min: 139.99
+    price_max: 139.99
+  fass:
+    in_portfolio: false
+  berserkers_kelley:
+    post_count: 2
+    first_year: 2023
+    last_year: 2023
+    latest_post: https://www.wineberserkers.com/t/figeac-vertical-and-wondering-about-bordeaux-critics/299653/29
+tags:
+- bordeaux
+- margaux
+- wk-coverage
+_sources:
+- raeders_compile_curated_v2:2026-04-25
+berserkers_kelley_body:
+  body_hit_count: 2
+  distinct_topics: 2
+  first_year: 2023
+  last_year: 2023
+  recent_posts:
+  - date: '2023-04-10'
+    url: https://www.wineberserkers.com/t/figeac-vertical-and-wondering-about-bordeaux-critics/299653/29
+  - date: '2023-03-12'
+    url: https://www.wineberserkers.com/t/new-william-kelley-mega-article-on-bordeaux-today/298476/56
+  note: derived from body-text re-pass v2; additive to berserkers_kelley
+---
+
+# Château Rauzan-Ségla
+
+_Margaux 2nd-growth, Wertheimer (Chanel) ownership. Organic conversion; reputation rising under recent administration._
+
+## CSW Write-ups
+
+_Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles._
+
+## Berserkers (William Kelley)
+
+### [Figeac vertical and wondering about Bordeaux critics](https://www.wineberserkers.com/t/figeac-vertical-and-wondering-about-bordeaux-critics/299653/29)
+*post #29 · 2023-04-10*
+
+> I would hope the “in my opinion” is implicit. When a film, theater or restaurant critic writes a review, the “in my opinion” is also generally left implicit. And the opinion is interesting to the extent that it is informed by deep contextual…
+
+### [New William Kelley mega-article on Bordeaux today](https://www.wineberserkers.com/t/new-william-kelley-mega-article-on-bordeaux-today/298476/56)
+*post #56 · 2023-03-12*
+
+> I think they will compare quite favorably, though obviously one has to be quite careful to pick those that are truly balanced for the long haul. A wine such as Canon 2020, for example, for me appears to be the best Canon produced since the early…
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
+
+## Raeder's
+
+Currently tracked at Raeders: **2 cuvée/vintage entries**; prices $139.99–$139.99.
+
+Vintages on offer: 2014, 2019.
+
+| Cuvée | Vintage | Size | Price | Scores |
+|---|---|---|---|---|
+| Margaux | 2019 | 750ml | $139.99 | — |
+| Margaux | 2014 | 750ml | — | WA 93 · WE 95 |
+
+## FASS
+
+_Not yet populated._

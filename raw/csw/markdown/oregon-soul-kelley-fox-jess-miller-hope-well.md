@@ -1,0 +1,21 @@
+---
+type: csw_article
+slug: oregon-soul-kelley-fox-jess-miller-hope-well
+title: "Oregon Soul: Kelley Fox, Jess Miller, Hope Well"
+url: https://chambersstwines.com/blogs/articles/oregon-soul-kelley-fox-jess-miller-hope-well
+date: ""
+word_count: 650
+fetched_at: "2026-04-21T16:59:46+00:00"
+---
+
+# Oregon Soul: Kelley Fox, Jess Miller, Hope Well
+
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/66f62165-28e1-4c18-9c4d-c1146646d18b_f969be60-6bd4-431e-bbfe-243b1dc1e1cd_480x480.jpg?v=1719073506)
+More and more I find myself drawn to the wines from the Willamette Valley. Whether it be due to the long growing season, cooler climate, high elevation vineyards, pockets of volcanic soils or simply the congregation of talented winemakers, some of the most exciting wines I've had recently have come from Oregon. While the region is not immune to the scourge of industrialization, there are still a number of independent growers and winemakers working hard to make incredibly high quality, hand-crafted wines that demonstrate just how great domestic wine can be. Many of us so-called "aficionados" will jump at the opportunity to compare Willamette to Burgundy, as they lie at roughly the same latitude and are both known for great Pinot Noir and Chardonnay. Lately though I've realized that this comparison is rather clunky and does a huge disservice to the diversity and overall character of the Willamette Valley, which is unique unto itself. Today we are excited to highlight three outstanding winemakers who really embody that character, with a common thread of purity: purity of the land, the vineyards, the fruit, the wines, and purity of the soul.~Jeff DiLorenzo
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/29ea3740-6a9e-42bd-8a23-dd020c7a7521_480x480.jpg?v=1719073576)
+Kelley FoxPerhaps no one better exemplifies this purity than Kelley Fox, who has been making some of the most ethereal and soulful Oregon wines since 2007. Her Pinot Noirs are always incredibly precise and show that wines can be both enjoyable young and have the structure to age, with her single vineyard bottlings each letting their individual character shine through. The 2021 Weber Vineyard Pinot is one that we were all blown away by while tasting recently, but the whole lineup is top notch including her outstanding Gruner Veltliner and Chardonnays--and don't sleep on the Vermouth, which is profound in its own right.
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/70eeef25-3822-4438-9ca2-b8ab8969ef73_480x480.png?v=1719073830)
+Jess MillerJess Miller is an accomplished vigneron, spending time working with Julien Pineau at Clos Roche Blanche in the Loire and also in Chablis with Alice and Olivier de Moor before managing twelve acres of vineyards in the Eola-Amity Hills AVA within the Willamette Valley. Between her work in the vineyards she makes a small amount of her own wine, which always show off the quality and character of the fruit while maintaining depth and complexity uncommon for wines one might label as "fun" or "crowd-friendly." The Sound Check rosé is a perfect example, somehow both refreshing and deeply contemplative. The LBJ pinot, done with whole-clusters and partial carbonic maceration, is another shapeshifting, heady wine that still offers immense pleasure right out of the bottle.
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/61e09186-92b6-44cd-9c66-bd87a28ce68a_480x480.jpg?v=1719074195)
+Mimi CasteelFinally we have a very special wine from Mimi Casteel at Hope Well, who grew up in the Willamette and spent time working as a botanist for the National Forest Service, furthering her connection to the land and her devotion to sustainable and organic agriculture. Her family owns and runs Bethel Heights, where she also worked until starting Hope Well in 2015. Her commitment to the land and ecosystem combined with her knowledge of winemaking in the area show through in her wines, which are always indicative of a time and place. In 2022 she got only three boxes of fruit from her small, newly grafted vineyard - two of Pinot Noir and one of Chenin. She layered all of her harvest into one fermenter and ended up with four barrels of wine, which is the 2022 Improbable Rosé.
+## >>> View Wines Here <<<

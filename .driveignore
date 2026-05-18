@@ -1,0 +1,11 @@
+# Files/patterns that should never end up in wine_vault/ on Drive.
+# Drive doesn't enforce this — it's documentation for humans + Claude.
+# Configure Drive for Desktop's "Choose folders to sync" to match.
+
+__pycache__/
+*.pyc
+*.zip
+.DS_Store
+*_addendum.md
+wiki/wiki/
+wine_vault_fromdocuments/

@@ -1,0 +1,27 @@
+---
+type: csw_article
+slug: the-essence-of-malbec-the-rustic-beauty-of-aged-cahors
+title: "The Essence of Malbec? The Rustic Beauty of Aged Cahors"
+url: https://chambersstwines.com/blogs/articles/the-essence-of-malbec-the-rustic-beauty-of-aged-cahors
+date: ""
+word_count: 851
+fetched_at: "2026-04-21T17:26:22+00:00"
+---
+
+# The Essence of Malbec? The Rustic Beauty of Aged Cahors
+
+6/23/16 -
+
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/coutale_600x600.jpg?v=1704257240)
+
+When we think of the nature of a grape one supposes that we associate its identity with its more famous manifestations. For instance, we’ll identify Cabernet Sauvignon with the cedar wood, cassis, violets, pencil lead, and mid-weight elegance of Paulliac on Bordeaux’s left bank or the dense and powerful blackberry fruit, black cherry, tobacco, leather and velvety tannins of a Napa Cabernet. Likewise, one can envision the incisive mineral depth or Sauvignon grown in Chavignol in Sancerre of its riper, citrusy, exotic fruit-driven counterpart in Marlborough, New Zealand. Setting aside a slew of winemaking decisions and fashions, one could say we have an idea of what the character of the many of the wine grapes, even if it’s only crude shorthand.
+
+Which brings me to Malbec, or Côt, or Auxerrois. Our friend William Chance Piper of the excellent Brooklyn wine bar the Four Horsemen posted something to social media about wrapping his head around Malbec, “Trying to confront my fears. 13 years of working in wine and I can't talk credibly about Mendoza vs Maipo.” His post has stuck with me for a few months now, as I find myself with a similar quandary concerning the grape. What is Malbec? Is it the exuberant, high altitude powerhouse of Mendoza, Argentina with big, juicy fruit, high alcohol, and new oak dominating most of its earthy underpinnings? Or is it the seldom-used blending grape from Bordeaux, which because of its finicky nature in the vineyards leaves it relegated to near obscurity? Perhaps, nearer to our hearts is the light-bodied, soil-driven Côt from Touraine, with its red currant, strawberry, and white pepper aromas framed by a pungent minerality. Or do we find the truest expression in Malbec’s most famous manifestation, Cahors?
+
+Located in France’s rugged and beautiful southwest, upstream from Bordeaux, Cahors has a long history of wine exporting which, in the span of last two centuries, nearly slipped into obscurity. Located on a high limestone plateau called a *causse* with the River Lot cutting through it, Cahors consists of three terraces rising from the alluvial valley. From this terroir the dark, flavorful wines made from Malbec, known locally as Auxerrois, were sent downstream in barrel to Bordeaux and shipped as far away as England and Russia. According to Paul Strang in his invaluable book South-West France-The Wines and Winemakers, by first half the 14th century over half the wine shipped out of Bordeaux came from Quercy, the province of which Cahors was the capitol. Among these wines was the famed, if misunderstood, “black wine of Cahors.” Along with the production of the table wines was the ‘black wine’ made by boiling or baking the must, which was then fermented and often fortified then used as an adulterant for the weaker wines produced downstream.
+
+The fame of Cahors was eclipsed by a number of factors. First, as wine production in Bordeaux became more important, the shippers restricted the exports of Cahors to drive down prices. Later as railways allowed more efficient transportation of the wines of Languedoc to Paris, prices were affected further still. In this precarious economic environment the arrival of phylloxera in the late 19th century was calamitous. In addition to the near total loss of production and the immense cost of grafting over to American rootstocks, it turns out that Auxerrois took poorly to the *rupestris* stock. The stock was too productive, yet highlighted the tendency of the grape variety to *coulure* , or fruit failure after flowering. Following depopulation, two world wars, and the disastrous frosts of 1956 and 1957 the production of Cahors was nearly a memory.
+
+Yet from what was surely disaster Cahors was able to arise. VDQS status was granted in 1951 followed by elevation to AOC status in 1971. New grafts and clonal material arrived from Bordeaux in the 1960s and 1970s. Appellation rules were enacted to mandate a minimum of 70% Auxerrois in the wines. And while the co-op proved vital to reviving the wine, many members then left to focus on high quality wines rather that volume production.
+
+One such quality producer is Philippe Bernède, whose Clos La Coutale is a benchmark grower of Cahors. The vines average 25-30 years-old, grown in gravel, clay, and limestone in southwest facing vineyards. Vinification is traditional: fermentation in tank, aging in foudres and used barrels for one year before bottling. The wines are supple yet structured, approachable young, though they age beautifully. Displaying both the lovely black fruits and savory qualities of Malbec. Best of all they are quite affordable. Recently we came across a nice quantity of aged Clos La Coutale, which is just hitting its stride combining still vivid fruit with earthy notes and bottle bouquet. While perhaps it's a bit warm for the traditional cassoulet, with a brief decant off the sediment, the 1999 Clos La Coutale is magnificent with a grilled steak or roasted leg of lamb. *John McIlwain*

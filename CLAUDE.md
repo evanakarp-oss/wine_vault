@@ -1,0 +1,93 @@
+# Wine Vault — Project Orientation
+
+Karpathy-style LLM knowledge base for wine collecting. Markdown is the source
+of truth; code is only for landing data and rendering views. Full architecture
+in `README.md`.
+
+## Three use cases this serves
+
+1. **Study** — browse `wiki/` in Obsidian; producer/region pages teach
+2. **Q&A** — `/ask-cellar` (or any plain question to Claude) against the vault
+3. **Cellar planning** — gap analysis, drink-window urgency, what's owned vs targeted
+
+## Directory map
+
+- `raw/` — source documents, never hand-edited
+  - `csw/markdown/` — 1,623 Chambers Street articles (dated, scraped 2026-04)
+  - `raeders/markdown/` — 3,174 Raeders bottles (scored, scraped 2026-04-25)
+  - `raeders/master_<date>.csv` — structured Raeders snapshot
+  - `dte/`, `fass/` — retailer portfolios from JSX/xlsx
+- `wiki/` — LLM-compiled knowledge base. **Source of truth.**
+  - `producers/` — one .md per producer (~293 entries)
+  - `regions/`, `importers/`, `retailers/` — auto-generated rollups, regenerable
+  - `_SCHEMA.md`, `_TAXONOMY.md` — frontmatter + enum constraints (read these first)
+  - `My Cellar.csv` — CellarTracker export (cp1252-encoded)
+- `cellar/` — one .md per cuvée-vintage owned (~294 entries, ~631 bottles)
+- `scripts/` — Python tools, all idempotent
+- `build/` — derived outputs + ingest reports, regenerable
+- `_drive_sync/` — staging for round-trips with the older Drive `wine_wiki/`
+
+## Source-of-truth rules
+
+- `wiki/*.md` is canonical. Scripts may update retailer sections + frontmatter
+  blocks; **humans rarely hand-edit**.
+- `cellar/*.md` is canonical for owned bottles.
+- `build/` is regenerable — never hand-edit.
+- Wiki edits at scale = LLM-judgment pass: `compile_*.py` with a curated decision
+  table in code that Python applies. Not deterministic slug matching alone.
+
+## Source roles (different inputs, different jobs)
+
+| Source | Role | How it integrates |
+|---|---|---|
+| **CSW** | editorial teacher | drives page creation, summaries, region context |
+| **Raeders** | inventory only | section update on existing pages; doesn't justify new pages alone |
+| **Vinous** | critic depth | `## Vinous Reviews` on producer pages (PENDING — Web Clipper) |
+| **Wine Advocate (Kelley)** | focused critic | `## Wine Advocate (Kelley)` (PENDING — Web Clipper) |
+| **Berserkers** | community pulse | `## Berserkers` body + `community.berserkers.threads.*` frontmatter — drives gap analysis + momentum signals |
+| **Cellar (CT export)** | what Evan owns | `## Cellar` section + cellar/*.md files |
+
+## Common scripts
+
+- `scrape_*.py` + `parse_*.py` — landing layer, deterministic
+- `ingest_*.py` — load structured data into wiki sections
+- `compile_*.py` — LLM-judgment passes (decision tables in code)
+- `build_rollups.py` — regenerate region/importer/retailer index pages
+- `lint.py` — schema/taxonomy/dedup checks (run with `--fix` for safe auto-fixes)
+- `ingest_csw.py` — match CSW articles → producer write-ups (re-run after adding producers)
+- `compile_raeders.py` + `compile_raeders_creates_v2.py` — Raeders integration
+- `scrape_wb_thread.py` + `parse_wb_thread.py` + `compile_wb_signals.py` + `build_wb_rollups.py` — Berserkers thread pipeline. Each thread becomes per-producer frontmatter signals + a `## Berserkers` body section + rollup views (top-100, momentum, cellar-overlap, gap candidates).
+
+## Conventions
+
+- Producer slug = lowercase_underscored ASCII (no accents); slug = filename stem
+- `region:` must be a top-level region in `_TAXONOMY.md`; finer detail in `sub_region:`
+- New producers from a single retailer source require LLM curation; don't auto-create
+- Stripping common prefixes (`Domaine `, `Château `, `Weingut `) when matching names
+
+## Curation taste (Evan's filters)
+
+- **Bordeaux**: WK-style undercovered/value with great farming. Aged classed-growth
+  for drink-now bottles only. Skip generic mid-tier.
+- **Champagne**: aged vintage cuvées, late-disgorged (P2/RD), or grower champagne. Not generic NV.
+- **Napa**: true cult tier (Harlan/Hundred Acre/Ridge Monte Bello/Bond/Colgin/SQN/Schrader),
+  not generic $250 Cab.
+- **Burgundy / Loire / Mosel / Piedmont**: terroir-driven, biodynamic-leaning, grower-scale.
+- **Cellar style**: NYC/US retailers, German biodynamic, US boutique, Italian Friuli/Piedmont.
+
+## Open follow-ups (as of 2026-04-25)
+
+- `/ask-cellar` skill still points at OLD Drive `wine_wiki/` — needs repoint to `wine_vault/wiki/` + `cellar/` + `raw/`
+- Vinous, Wine Advocate (Kelley) — ingest not yet wired. Plan: Obsidian Web Clipper → `raw/clippings/<source>/` → compile pass.
+- Berserkers — wired (2026-05). One thread ingested (`top10_in_cellar`). To add another: scrape → parse → compile, see `raw/berserkers/README.md`.
+- 60 lint issues outstanding: 32 region taxonomy violations, 19 empty regions, 8 surname collisions (Baudry, Paris), 1 duplicate (rousset / domaine_rousset).
+- Widget rewire: `dte_wines_1.jsx` still reads hardcoded arrays, needs `build_widget_json.py`.
+- 387 unselected Raeders new-candidate producers parked in `raw/` — revisit if scope expands.
+- Mobile access: claude.ai Project + Drive connector OR Obsidian mobile via iCloud.
+
+## Anti-patterns
+
+- Don't propose replacing markdown with a SQL schema — markdown IS the database.
+- Don't bulk-create producer pages from a single retailer source without LLM curation.
+- Don't hand-edit `build/` files; regenerate from scripts.
+- Don't claim a producer has critic coverage without verifying in `raw/`; the wiki is incomplete.

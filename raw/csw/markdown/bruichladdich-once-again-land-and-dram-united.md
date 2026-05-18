@@ -1,0 +1,24 @@
+---
+type: csw_article
+slug: bruichladdich-once-again-land-and-dram-united
+title: "Bruichladdich:\"Once Again, Land and Dram United\""
+url: https://chambersstwines.com/blogs/articles/bruichladdich-once-again-land-and-dram-united
+date: ""
+word_count: 780
+fetched_at: "2026-04-21T16:36:14+00:00"
+---
+
+# Bruichladdich:"Once Again, Land and Dram United"
+
+{cke_protected}{C}%3C!%2D%2D%5Bendif%5D%E2%80%94%2D%2D%3E{cke_protected}{C}%3C!%2D%2D%E2%80%94%5Bif%20gte%20mso%209%5D%2D%2D%3E{cke_protected}{C}%3C!%2D%2D%5Bendif%5D%E2%80%94%2D%2D%3E
+{cke_protected}{C}%3C!%2D%2D%5Bendif%5D%E2%80%94%2D%2D%3E {cke_protected}{C}%3C!%2D%2D%E2%80%94%5Bif%20gte%20mso%2010%5D%2D%2D%3E {cke_protected}{C}%3C!%2D%2D%5Bendif%5D%E2%80%94%2D%2D%3E *﻿1/16/12 -*
+
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/844_600x600.jpg?v=1695349404)
+
+Bruchladdich is an old name on the legendary whisky producing island of Islay.  It was founded in 1881, but has since closed and re-opened four times.  The current ownership took over in 2000; they seek nothing short of a revolution in Single Malt Scotch, and have both the means and minds to do it.  Wine industry veteran Mark Reynier and Islay legend Jim McEwan provide the leadership for Bruichladdich’s new course.  Mark is passionate about barley production and looks forward to reviving boutique varieties.  Jim is an Islay native who took his first job in a distillery at Bowmore at the age of 15.  The un-aged spirit coming from this incarnation of Bruichladdich is not peated.  Peat, the dominant flavor in Ardbeg and Laphroaig, is the traditional fuel used to dry malting barley.  Mark Reynier believes that the lack of peat allows the signature aromatics of lemon curd and sea salt to show clearly.  Because Bruichladdich is independently owned and doesn’t answer to any beverage conglomerate, they are allowed to experiment and pursue new expressions of Islay whisky.
+
+Bruichladdich places a strong emphasis on the basis of all Scotch whisky: Barley.  Malted barley ferments and is distilled twice to produce whisky that is then aged in barrel.  Recently, most distilleries are keen to talk about the sorts of barrels they use to age their spirits and the amount of time the spirit spends in barrel, but very little is said about the actual spirit itself.  This is because the barley to be distilled is treated as a commodity and bought at the lowest price possible.  Globalization means that much of the barley used in many brands of Scotch whiskey comes from Ireland or even farther flung locales.  Bruichladdich would like to source all barley from local fields, but at the moment uses about 50% Islay grown barley; the rest is grown elsewhere in Scotland.  Their barley is about 50% organic; their goal is to reach 100%.  No one else is looking at whisky in this barley to bottle way; yet it makes sense that what you distill has a profound effect on the distillate.  While I was at Bruichladdich we tried a non-aged Biodynamic whisky.  The aromatics were absolutely incredible and pure.  Beyond farming practices, they are also starting to release single farm, single vintage, *terroir* -focused bottlings.  It’s experiments like this that makes Bruichladdich arguably the most exciting distillery in Scotland.
+
+Beyond Barley, Bruichladdich tries to keep all of the aspects of Scotch production at the distillery.  All of the whisky is aged in store houses on the coasts of Islay.  There has been an ongoing debate as to whether the location of a barrel of aging whisky has any affect on the flavor.  The big beverage giants store their spirits in warehouses in Glasgow and Edinburgh.  The irony is that they extol the virtues of Islay’s harsh climate, but then allow their whisky to experience the island for only a brief time.  Islay is such a unique place with such majestic shores and rugged terrain; one could see how aging here would impart some sort of character or sense of place.  After the desired aging is complete, barrels are “vatted” or combined for consistency and bottled on Islay.  Once bottled, the whiskies are left at a fairly high 46% alcohol, and are reduced from their cask strength with water from Islay.  There is no chill-filtration and the whisky shows its natural color.  The three whiskies that we offer today represent the new thinking at Bruichladdich.   They are all fairly young whiskies that do not focus on barrel flavors, but instead the beautiful salty and floral aromatics of the Bruichladdich malt.  The new slogan printed on bottles is: “Once again, land and dram united.”  We couldn’t agree more. Cheers!  JR
+
+P. S. In a separate traditional London gin still coined “Ugly Betty” the team at Bruichladdich is making a superb dry gin that includes botanicals found on Islay.  It is delicious and makes a fantastic gin and tonic!

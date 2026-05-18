@@ -1,0 +1,29 @@
+---
+type: csw_article
+slug: what-yonne-star-rises-raphaelle-guyots-stirring-burgundies
+title: "What Yonne Star Rises: Raphaëlle Guyot's Stirring Burgundies"
+url: https://chambersstwines.com/blogs/articles/what-yonne-star-rises-raphaelle-guyots-stirring-burgundies
+date: ""
+word_count: 936
+fetched_at: "2026-04-21T17:32:12+00:00"
+---
+
+# What Yonne Star Rises: Raphaëlle Guyot's Stirring Burgundies
+
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/Guyot_480x480.jpg?v=1711161512)
+[Raphaëlle Guyot and her recent Chardonnay planting in 'Les Robinettes']
+Since I started working at Chambers Street Wines in 2020, I have not been so excited for a boat to come in as I am for that which recently arrived bearing the wines of Raphaëlle **Guyot** , on offer today. At risk of sounding like a broken record, the past decade has been a remarkable one in Burgundy as a new generation of dynamic estates has emerged. These young growers have put a premium on viticulture and microbiological health in their vineyards, with the results being dazzling wines from often humble *terroir* . Raphaëlle Guyot should be firmly counted as a member of this contingent. I had a chance to taste a handful of her 2018s and 2019s last autumn and was immediately transfixed. Now the 2020s are here, to all our benefit!
+
+Like a lot of her peers, Raphaëlle did not set out to work in wine. She was raised in Paris and went to business school. But during her time there a glass of great wine (Muscadet from Jo Landron!) turned her head and she went to work for a French importer in China after receiving her degree. This was followed by harvests and the obligatory degree from the lycée viticole in Beaune. She completed internships with Clos du Rouge Gorge and Thibault Liger-Belair and soon she found herself looking for land. Her family hails from the Yonne, the region just south of Paris that is most famous for producing Chablis. However, her roots lie further south and east in a place closer to Sancerre than the great vineyards of Burgundy. Before phylloxera this was a vibrant viticultural area but the destruction of vineyards by the dreaded louse led many growers to abandon their vineyards entirely. Today much of the area lies fallow or planted with cereals. Raphaëlle took what she saw as an opportunity and purchased ten hectares in and around the village of Puisaye Forterre, though there are just two hectares currently under vine. The rest is given over to a combination of grains, some fruit trees and grazing land, as she has begin to take on cows and sheep. The vineyards and farm both are maintained under strict organic principles.
+
+I had the good fortune to visit her this past spring. After a long drive from Beaune (three hours give or take, it is really the middle of nowhere) Raphaëlle greeted us and took us straight to the vineyard, a parcel called *Les Robinettes* where she has a half hectare of Pinot Noir and then some very young Chardonnay recently planted. It was immediately apparent why she was drawn to the place. The region is a series of rolling hills with steep slopes, most of it overgrown with grass. But where the soil had been turned over to plant vines, it was awash with the kind of broken limestone one finds on the slopes of Chablis. She told us about the research she had done to confirm that the region had once produced serious wine, digging into the area's viticultural past and going through records of harvests going back to the early 19th century.
+
+Now she finds herself in a unique position, with an opportunity to shape the viticultural future of a forgotten place. While she loves Burgundy varieties and intends to plant Aligote in addition to new parcels of Pinot Noir and Chardonnay, she plans to experiment with Sauvignon Blanc, Riesling and Pinot Blanc as well. She has some experience with this already. To supplement the tiny yields of her two vineyards under production, she maintains a small *négociant* business,with fruit from the various outskirts of Chablis. There is Aligote, Pinot Noir, Chardonnay and Sauvignon de St. Bris all  labeled *Vin de France* , as well as an AOC Irancy.
+
+Regardless of their origin, her wines are brimming with life and energy. The whites feel open and ready, deeply textured, with tension and elasticity on the palate. The Pinots share an aromatic richness from the 100% whole cluster fermentations and beautifully ripe fruit. However, they are each an individual - **Les Hâtes** shows a preponderance of bright red fruit and firm limestone minerality, while **Les Robinettes** leans darker, highlighting black cherry and a deep floral character akin to violets.
+
+At this point in the domaine's evolution, the most compelling wine might be the Sauvignon, *La Valse .* The 2019 was one of my favorite wines of last year. It displayed just enough varietal character to be pleasurable but in the end what made it great was its indisputably Burgundian character. It burst with stones and oyster shells. The 2020, while a touch rounder, is no less riveting and all the wines we tasted with her during our visit showed a certain confidence and ease. I was especially impressed with the 2020 Irancy **Le Baiser** , in part because on my first encounter with the wines last year the 2018 edition felt the least successful. Made with 100% Pinot Noir the 2020 was beautifully aromatic, red-fruited and spicy, with the almost seaweed-like salinity that makes Irancy so distinct from its siblings to the south in the Cote D'Or.
+
+Because the total production is tiny at best, not to mention that Raphaelle produced no estate fruit in 2021 (She lost her ENTIRE CROP to frost) please note that we have limited purchase quantities where indicated. We want very much for as many customers have an opportunity to try these wonderful wines. So act fast.
+
+**-Sam Ehrlich**

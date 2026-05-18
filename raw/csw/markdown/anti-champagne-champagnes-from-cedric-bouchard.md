@@ -1,0 +1,17 @@
+---
+type: csw_article
+slug: anti-champagne-champagnes-from-cedric-bouchard
+title: "Anti-Champagne Champagnes from Cedric Bouchard"
+url: https://chambersstwines.com/blogs/articles/anti-champagne-champagnes-from-cedric-bouchard
+date: ""
+word_count: 518
+fetched_at: "2026-04-21T16:33:21+00:00"
+---
+
+# Anti-Champagne Champagnes from Cedric Bouchard
+
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/770_600x600.jpg?v=1695345677)
+[Cédric Bouchard]
+Let’s face it: mass-produced, extensively marketed Champagne is all around us: TV shows, billboards, music videos, glossy magazine ads telling us that expensive bubbly wine in a shiny bottle or box is the ultimate representation of luxury and pleasure, the beverage equivalent of a Carnival Cruise. When did we stop viewing this beverage as a wine, an agricultural product with a connection to the land and its farmers, and begin to view it purely as a status symbol? The region is dominated by the so-called “grandes marques,” brands growing rich and fat on the over cropped, heavily sprayed chunk of French vineyard territory known as Champagne. We are told that because blending is at the heart of great Champagne, vineyard work is less important than what takes place in the cellar, where the real artistry of Champagne occurs. Enter the antidote: Cedric Bouchard, a young grower who has become the poster-child for single vineyard, single variety, single vintage Champagne, a man who has categorically rejected blending and has established a new paradigm for micro-production, terroir-driven grower Champagne. Bouchard began to make wine in 2000, when he took over a small parcel of vines called “les Ursules” from his father, a more traditional Champenois vigneron than Cedric. Rumor has it that Cedric doesn’t actually want to make Champagne, but rather wine (read “still” wine) in Champagne. Because he finds aggressive bubbles - bubbles at all, even - to be a distraction, he bottles using less pressure than usual: 4.5 atmospheres rather than six, which gives a soft and fine mousse to the wines. Ideologically, his wines are far more Burgundian than Champenois: each is the expression of one grape, planted on a miniscule plot, in a given vintage. The wines are made without any dosage and after a recent tasting of the lineup, we would have to agree with our friend Peter Liem that “Bouchard’s wines are among those rare Champagnes that feel perfectly, naturally secure in their dryness, and where the thought of dosage seems even bizarre, as if adding it to a red Burgundy.” Even barrel fermentation, which is presently enjoying popularity amongst Champagne growers, is anathema to Bouchard, who wants no oaky flavor to obscure the terroir he aims to express. The wines are raised in steel or enameled cement. Bouchard presently makes two lines of wines: Inflorescence, from vines owned by Cedric’s father, and Roses de Jeanne, wines from Cedric’s own vineyards. The total production of the estate is around 15,000 bottles, not even remotely enough to satisfy the world’s deep thirst for these wines. We have been fortunate enough to receive a generous allocation of Bouchard’s wines this year. The wines clearly warrant the critic’s accolades and, as impressive as the Roses de Jeanne wines are, we’re equally impressed by the two vintages of Inflorescence “Val Vilaine” that we have currently, true values in their category and well worth stocking up on.
+
+*-MSB*

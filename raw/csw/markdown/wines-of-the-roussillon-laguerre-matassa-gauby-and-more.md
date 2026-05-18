@@ -1,0 +1,31 @@
+---
+type: csw_article
+slug: wines-of-the-roussillon-laguerre-matassa-gauby-and-more
+title: "Wines of the Roussillon: Laguerre, Matassa, Gauby and more!"
+url: https://chambersstwines.com/blogs/articles/wines-of-the-roussillon-laguerre-matassa-gauby-and-more
+date: ""
+word_count: 979
+fetched_at: "2026-04-21T17:32:58+00:00"
+---
+
+# Wines of the Roussillon: Laguerre, Matassa, Gauby and more!
+
+6/25/25 -
+
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/RoussillonMountain.jpg?v=1751384867)
+
+We're very happy to have the full range of the vibrant Roussillon wines from our friend Eric Laguerre back in the store! Eric's granite-based wines are joined today by the unique natural wines of Tom Lubbe at Matassa, and two of our favorites from the Gauby family grown on limestone/schist soils in Calce. We're also happy to introduce a lovely white from a small estate in the Roussillon, Domaine Carterole, started by a native of Collioure named Joachim Roque, who worked with Alain Castex and Bruno Duchêne, before starting his own domaine in 2014.
+
+**Domaine Laguerre** The wines of Eric, Corinne and Paul Laguerre come from the highest vineyards in the Roussillon where the vines grow amid granite outcrops on the upper slopes, with sandier soils of decomposed granite, schist and quartz lower on the mountain. As prices climb due to tariffs and currency fluctuations, we're very proud to offer these unique wines of terroir at moderate prices, offering vibrant flavors and scintillating minerality, perfect for enjoying as aperitifs or as serious accompaniments to summer cuisine.
+
+A visit to Eric Laguerre in Saint-Martin de Fenouillet requires steep climbs through a mountain pass to the hillside vineayrds where the granite soils, cooler climate, very low yields and Eric's superb organic farming produce distinctive, balanced wines with bright fruit and firm acidities. Eric has been farming without pesticides or herbicides for decades, and, speaking of regenerative agriculture, he hasn't plowed in 20 years! His vineyards are beautiful and full of life, and the wines are as vibrant as the place and the people.
+
+The Laguerre's beautiful mountain vineyards have supplied grapes to Matassa and Gauby in past years as the grapes bring a unique bright acidity and minerality to the wines. Don't be put off by the low prices, these are wines of superb quality and character! The entry level **"Eos"** cuvees  are incredible values (named after the Greek goddess of the dawn, the label showing the sun rising over the Pyrenees!) offering refreshing enjoyment in all three colors. The **Eos Rosé** is especially delicious in 2024 showing a pretty, pale pink color with subtle aromas of rose and raspberry. The palate is bright, silky and round with lovely red and yellow fruit flavors, quite crisp and long. This is a complex, refreshing and delicious rosé and a sensational value! The top wines here are named after a flowering bush called Ciste that grows throughout the vineyards contributing to biodiversity and wind protection. **Le Ciste Blanc,** is a unique blend of Marsanne, Roussanne, Vermentino, Grenache Blanc and Maccabeu, and is one of the most interesting whites of the Roussillon. The **2023 Le Ciste Rouge** is once again a Châteauneuf-du-Pape of the mountains to enjoy now or in ten years. These two wines offer sensational quality - they are Grand Crus of the Roussillon that transcend their price point! **Domaine Matassa** I can't remember the first time I met Tom Lubbe, but I will never forget him! Anyone who knows Tom will certainly understand why. He's witty, intelligent, sarcastic, thoughtful, and warm-hearted, and meeting him leaves an impression. He also happens to be a darn good winemaker! Tasting with Tom over the years has revealed an upwards arch in the clarity and balance of his wines. Though this is partly due to changes he has made to his approach at harvest time and in the cellar, it is also a direct effect of the diligent work he does in the vineyard, with cover crops, and regenerative agriculture. Domaine Matassa began in the early 2000s, when Tom and a friend from New Zealand bought a small plot in the Roussillon called Clos Matassa.  He had traveled to the Roussillon to work at Domaine Gauby, and ended up being invited to work full-time. After this time at Gauby, one of the most important estates in the region for producing high quality, low intervention wines, Tom found some land with which to begin his own project. The Matassa project now spans several vineyard sites, many co-planted with white and red varieties, on a variety of terroirs, namely red schist, the rare black schist, granite, limestone and some clay. He is just over a hill from Calce, a commune that has become notable for the attention from wine writers and enthusiasts, due to the amazing potential of the area to produce complex and dynamic wines. Tom's wines are pure and fascinating. They showcase the garrique, spice, and mineral complexity (especially of the schist soils) of the region, while also tasting unlike most of the wines that are typically produced there. ( *Eben Lillie)* **Domaine Gauby** I remember tasting the Gauby wines in the 1990s, which got sensational reviews, but found them heavy and over-extracted. Beginning in 2001 things totally changed at Gauby both in winemaking and farming as Gérard turned to gentle extraction seeking elegance and balance, and to superb organic farming with cover crops and trees throughout the vineyards providing shade and water retention. **
+
+*From an interview with Gérard Gauby in the RVF (Revue Vin de France): "And in 2002, we realized that there was a real Calce character in our wines. Now it was getting serious...we were reaching my dream, making wines that we can drink, wines that flow. We continued. In 2023, when it was hot and dry, we had very low alcohol potentials. We thought we were in Moselle! ... With a very gentle extraction afterwards, this produces fresh and elegant wines." (Exerpts from an interview with Gérard Gauby in the RVF)*
+
+Gérard goes on to describe his dream - a place in the mountains on granite soils...sounds like Domaine Laguerre!
+
+- *David Lillie* **
+
+# >>>VIEW THE WINES<<<

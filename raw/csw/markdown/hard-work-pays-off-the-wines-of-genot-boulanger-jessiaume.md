@@ -1,0 +1,17 @@
+---
+type: csw_article
+slug: hard-work-pays-off-the-wines-of-genot-boulanger-jessiaume
+title: "Hard Work Pays Off - The Wines of Génot-Boulanger & Jessiaume"
+url: https://chambersstwines.com/blogs/articles/hard-work-pays-off-the-wines-of-genot-boulanger-jessiaume
+date: ""
+word_count: 528
+fetched_at: "2026-04-21T16:46:34+00:00"
+---
+
+# Hard Work Pays Off - The Wines of Génot-Boulanger & Jessiaume
+
+12/9/20 -
+
+In the days before quarantine, when I looked at the Burgundy offerings on many restaurant wine lists or on the shelves of wine shops (to say nothing of auction offerings), I found myself disappointed. Over and over, the same names cropped up. To someone unfamiliar with the region, it might have appeared that Burgundy is populated by forty or so estates, all making wines that can run into the many hundreds and occasionally thousands of dollars. This is not to cast aspersion on those wineries - they are some of the greatest anywhere on the planet. But when we all spend time and money chasing the same names, the region becomes static, as though it were preserved in aspic like a piece of jambon persillé. The fact is that Burgundy is as dynamic as it has ever been. There are dozens of growers from Chablis to Pouilly who are working relentlessly to improve the health of their vineyards and their cellar conditions and ultimately to make better wines that are true to the place from which they originate. These kinds of changes often take years to really be felt and seen. Today we are excited to focus on two outstanding domaines whose progress I've kept tabs on for some time, and in 2018 produced wines that are emblematic of this kind of perseverance. I have been tasting the wines of Domaine Génot-Boulanger since they joined their current importer in 2014. Aude Delaby and her husband Guillaume Delavolée took over management of the domaine from her father in 2008. Since that time, she and Guillaume have worked tirelessly to improve the quality of both vineyard and cellar work, with a particular focus on the health of the soil on a microbial level. They achieved organic certification in 2018 and have also made some trials with biodynamics. The wines have always had a certain elegance, but there is an increasing clarity and sense of focus today. The terroir in each cuvée is more keenly felt. I was particularly struck by the '18 whites I tasted recently. They were fresh and elastic and betrayed no trace of the intense warmth of the vintage. Domaine Jessiaume is a different version of this story. The estate dates to 1850 but a new chapter began in 2013 with the sale by the Jessiaume family to a Scotsman named David Murray. Mr. Murray has put a huge amount of energy into revitalizing the domaine. He immediately put the wheels in motion to move to organic viticulture (achieving certification in 2019), hired a talented young winemaker and invested to upgrade the facility and equipment. All this work has paid dividends. When I first moved to Burgundy in 2010 to study viticulture, I spent an afternoon tasting with some classmates at Jessiaume. While the wines were perfectly good, they all had a certain foursquare character and same-iness that spoke more of a house style than a sense of place. Where those wines felt staid, the 2018s on offer today feel exuberant. As one would expect from the vintage they are ripe and full of fruit, but nonetheless balanced and individual.
+
+- *Sam Ehrlich*

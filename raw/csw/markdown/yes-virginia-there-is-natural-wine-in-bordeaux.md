@@ -1,0 +1,33 @@
+---
+type: csw_article
+slug: yes-virginia-there-is-natural-wine-in-bordeaux
+title: "Yes Virginia, There is Natural Wine in Bordeaux!"
+url: https://chambersstwines.com/blogs/articles/yes-virginia-there-is-natural-wine-in-bordeaux
+date: ""
+word_count: 1055
+fetched_at: "2026-04-21T17:33:16+00:00"
+---
+
+# Yes Virginia, There is Natural Wine in Bordeaux!
+
+12/15/2022
+
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/56465_600x600.jpg?v=1745344160)
+
+*Organic farming in the Medoc at Closeries des Moussis (January 2018)*
+
+**Chambers Street is proud to support estates in Bordeaux that practice organic and Biodynamic farming, still unfortunately a very small minority in the region.  Today's email focuses on organic estates that also practice more natural styles of winemaking, with minimal intervention in the cellar - wild yeast fermentations, minimal new oak and minimal or zero use of sulfur-dioxide. These are complex, soulful and delicious wines from living soils - we urge you to try them!**
+
+The Closeries des Moussis was created in 2009, **by oenologist Pascale Choime and ecologist Laurence Alias, with the goal of producing natural wines in Bordeaux.** The estate is certified organic and Biodynamic and has recently grown from 2.5 to 4.5 hectares, producing wines in Margaux, Haut Medoc and Blaye as well as from purchased fruit in the Côte de Duras. These are beautifully vibrant wines without the new oak, over-extraction and effects of industrial farming that are still sadly the norm in Bordeaux. Minimal plowing is done, by small tractor and horse, in order to preserve the life of the soil. The superb 2020 Haut-Médoc is from vines on gravel soils on the plateau of Sénéjac, vinified and bottled with zero additives.
+
+**During our search for organic and natural Bordeaux back in 2013, we were ecstatic to find Didier Michaud's "** Chateau Planquette! **"** Not exactly a "chateau,"  M. Michaud farms 1.7 hectares in Saint Yzans and Couquèques in the northern Medoc on high ground of gravel and clay over the limestone plateau, equal parts Cab and Merlot with a small percentage of an old strain of Petit Verdot. It's a tiny artisanal production, a unique and delicious wine of terroir with zero additives, in the midst of a sea of over-oaked, over-extracted, badly farmed Bordeaux...The terroir is mostly stony clay and silica over the "Dome de Couquèques," a bed of limestone near the surface whch is quite unusual for the Medoc. The grapes are hand-harvested in small baskets (mostly by Didier and his wife) and undergo a long fermentation with wild yeasts, with no attempt to extract - "more of an infusion" says M. Michaud, followed by two years in old barriques. There are no additives or corrections - the finished wine is analyzed at approximately 2 mg/liter total SO2. Didier has taken a much-desrved retirement and happily the estate is being continued with the same philosophy by Blandine Prévot and Jérémy Borde - they will be releasing Didier's last two vintages starting with the superb 2019. We're very happy that we will be able to continue offering these unique wines!
+
+Closerie du Chene Catherine and Christian Grebaut decided to move to Saint Christophe des Bardes in the Libournais (Saint-Emilion) and take over a small hectare of vines planted in 1956, on the "cote nord" of the AOC, inherited from Catherine's family. "The idea was to get the best quality grapes to make it as easy as possible to vinify" and so they started "gardening" their plot, hoping to one day make a wine they could all be happy with. The project starts in 2015 when Catherine and Christian start getting their hands dirty, but still had to provide the local cooperative their fruit, tied to a contract. Right away they start converting the plot to organic viticulture. For the next four vintages, she not only converts her terroir to certified organic but makes one of the great wines of her appellation, following the principles of natural winemaking, naturally fermented, low sulfur the first year and zero sulfur in 2019.  Being alone and going through some medical issues, Catherine decided to call it quits with the 2020 vintage. **Rarely has Saint Emilion been so joyful and drinkable so young. Using a mix of stainless, barriques, and amphora, Catherine managed to strike a fine balance between seriousness, ageability, and immediate pleasure that is not often seen in the grand cru…**
+
+Le Puy "Located at the top of the same clay and fossil-rich limestone plateau as Saint-Emilion, overlooking the districts of Pomerol and Saint-Emilion, le Puy dominates the Dordogne Valley. We have sought to create a harmony with our environment by systematically refusing the use of chemical products. From the micro-organisms living in the soil to the various plants, animals and insects on the estate, we maintain and preserve that balance right to the glass of wine on your table. This process within an eco-system is the fruit of a collaboration between all the elements in the chain of life: humans, animals, plants and bacteria live together in symbiosis to bring you the purest and most enjoyable wines. Labouring the ground with our five horses ensures precise and delicate work around the vines and prevents the soil from being compacted with a tractor. Ploughing is prohibited, we simply score the surface of the soil so as not to disturb the mycorrhizal network . We foster the diversity of our vine plants through massale selection and devote close attention to root growth and the microbial life of the soils." The wine ferments naturally with wild yeasts, no additives are used, aging for Emilien is two years in foudres and used barrels.
+
+Chateau Massereau Jean-Francois and Philippe Chaigneau purchased Chateau Massereau in 2000, with the intention of producing natural and authentic wines. Thirty kilometers south-east of Bordeaux they found Château Massereau, former 16th century estate of the Dukes of Epernon. Château Massereau benefits from a specific microclimate at the confluence of the Ciron and the Garonne, with gravel soils in AOC Graves and Bordeaux Superieur. Château Massereau is an extreme viticulture practiced with passion: organic farming, avoiding the use of copper, green cover throughout the year, replanting by massale selection and natural vinifications with minimal SO2. These beautiful natural wines are released at maturity - thus the 2010 Cuvee K and 2012 Graves - with at least ten more years of aging potential.
+
+Of course there are many more estates of note that we will have to share with you soon. At least this is a good start to showcasing the exceptional, REAL wines from Bordeaux!
+
+*-- David Lillie*

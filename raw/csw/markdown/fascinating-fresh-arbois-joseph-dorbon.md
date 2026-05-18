@@ -1,0 +1,19 @@
+---
+type: csw_article
+slug: fascinating-fresh-arbois-joseph-dorbon
+title: "Fascinating & Fresh Arbois: Joseph Dorbon"
+url: https://chambersstwines.com/blogs/articles/fascinating-fresh-arbois-joseph-dorbon
+date: ""
+word_count: 631
+fetched_at: "2026-04-21T16:44:01+00:00"
+---
+
+# Fascinating & Fresh Arbois: Joseph Dorbon
+
+5/10/21 -
+
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/Dorbon_600x600.png?v=1711080782)
+
+Joseph Dorbon makes wine in the small town of Vadans, a 10 minute drive from Arbois. The village has only 300 residents. He works his land following organic methods, plowing once a year by horse. All fruit is hand picked. Fermentation is natural and without temperature control. His cellar, dug into the village’s yellow marl soil, dates from the 1500s. His wines see little, if any, sulfur additions. After reading this, you might be expecting me to delve into the rustic qualities of Dorbon’s products. In fact, I’m not. I was won over by his wines’ clarity, finesse, and toned structure. Frankly, I’m relieved by the drinkability of the two wines on offer today. I frequently taste low-intervention wines from the Jura that are more challenging than interesting, and far from tasty. The complexity of Dorbon’s old-vine Trousseau and the racey, layered character of his sous voile “Cuvée de Moyne'' are a treat to your taste buds, and will act as a refreshing tonic to any palate. Drink up, drink up! Dorbon’s 2018 Trousseau Vielles Vignes has zero added sulfur. It boasts a clear, glimmering cranberry color. The nose begins with aromas of savory cherry and red flowers. There’s an attractive sweetness. It eventually settles into a lovely bouquet of steeped earl grey, lemon, ginger, and mint. With remarkably clean flavors, the palate is zesty and funk-free. There are evenings that I crave the earthy, barnyard profile Trousseau so often delivers, but I am equally thrilled by examples like Dorbon’s - pure, lively; clocking in a notch below true tartness. Firm and wild red berries, birch, dark citrus and black pepper fill out a fresh structure of sneaky tannin and mouth watering acidity. I finished my last couple glasses with a blue cheese hamburger - one of my favorite pairings of 2021, so far. Since 1996, Dorbon has been working his 3 hectares of hillside vineyards in the Arbois AOC. Along with his Trousseau, he has Poulsard, Pinot Noir, Chardonnay and Savagnin vines. For his whites, he uses the region’s traditional, sous voile method in the cellar. The 2014 “Cuvée de Moyne” (80% Chardonnay and 20% Savagnin) wears its age magnificently. It is a strong wine, balanced so well between the depth of its sous voile character and the absolute refinement and focus of Dorbon’s winemaking. In the glass, the wine shows a color of crisp and stunning gold. The nose is perky with spice and citrus - cured lemons, black pepper, swaths of dried grass and a warm, but lean, scent of golden apples. Above it all is a whiff of white spring flowers, adding a pleasant elegance to its more serious foundation. The palate begins with mixed herbs before gaining richer flavors of lemon, green apple, and salt. The acidity is high, but the wine fattens on the finish, gaining texture and weight. There is also a fantastic bitter, lemony edge that holds to the tongue. I’ve never tasted anything like this wine, and I’m looking forward to seeing how the bottle evolves over the next few years. It’s drinking so young today! It is sometimes fun to wrestle with a wine until you understand it, but that game can get old. Joseph Dorbon’s wines are so satisfying, I’m confident that even the most critical or adventurous of drinkers will find themselves easing up after a glass, sinking into a content, yet ponderous, state with a smile. Like all good wines, these two have more than enough stuff to contemplate… but you don’t need to wonder if they are delicious. They obviously are.
+
+- *David Hatzopoulos*

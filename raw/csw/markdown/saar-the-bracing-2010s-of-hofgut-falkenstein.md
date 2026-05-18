@@ -1,0 +1,17 @@
+---
+type: csw_article
+slug: saar-the-bracing-2010s-of-hofgut-falkenstein
+title: "Saar: The Bracing 2010s of Hofgut Falkenstein"
+url: https://chambersstwines.com/blogs/articles/saar-the-bracing-2010s-of-hofgut-falkenstein
+date: ""
+word_count: 543
+fetched_at: "2026-04-21T17:21:16+00:00"
+---
+
+# Saar: The Bracing 2010s of Hofgut Falkenstein
+
+*3/18/12 -*
+
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/869_600x600.jpg?v=1695350295)
+
+We've been waiting for months to get the chance to send this offer, and the moment is finally here! With as much fanfare as a simple email can muster, we're happy to announce the arrival of the 2010s from Hofgut Falkenstein, one of Germany's great maverick estates. Erich Weber, the proprietor and winemaker, crafts wines that are unlike any others, not just in Germany, but anywhere in the world.  They are light, fresh, and generally much drier than we would expect based on the prädikat each is given (Spätlese, Auslese, etc.) Vibrant acidity and explicit mineral flavors are prominent across the board.  Not buttressed by high levels of residual sugar or ripe, creamy richness, the wines can seem austere at first; to us they are savory, direct and, above all, transparent. The vineyards lie in and around the small villages of Konz-Niedermennig and Krettnach, where the Saar empties into the Mosel, not far from the Ancient Roman city of Trier. The winemaking is as old-school as you can imagine in Germany. The vineyard-work is close to organic and all the grapes are hand-harvested in multiple passes. In the cellar nothing is added or taken away from the wine (with the exception of a small amount of sulfur dioxide): no enzymes, no cultured yeasts, no sugar, no de-acidification. The wines are honest, authentic examples of both their terroir and vintage. Fermentations are long and leisurely in Weber's cool cellar, and the amount of sugar left in the wine is determined by when the yeasts finish working. Everything is done in large old fuder; there's not a stainless steel tank or a barrique to be found in the cellar, nor any artificial temperature control devices. The Saar is a hotbed for top-quality growers making great wine with distinctive voices, and while we remain devoted fans of the likes of Egon Müller, Geltz-Zilliken and Peter Lauer, the delicate, piquant wines of Hofgut Falkenstein stand alone. Today we're pleased to offer a Spätlese Trocken, a Spätlese Feinherb, and an Auslese (a dry wine, an off-dry wine, and a mildly sweet one), all at prices that are stunningly low for these kinds of world-class wines Falkenstein wines have been available in the US before, but this is the first new vintage to be imported since 2006. The '10s are thankfully here now due to the diligent work of the great Lars Carlberg, an American with an undying passion for Mosel Riesling. Living in Trier, he has worked successfully for years as an importer bringing in some of the best lesser-known, artisanal estates on the Mosel. Hofgut Falkenstein is his first release under the label "Lars Carlberg Selections" and will be available exclusively at Chambers Street. For much more technical information on [Hofgut Falkenstein](http://www.larscarlbergselections.com/2011/07/10/hofgut-falkenstein/) and a [preview](http://www.larscarlbergselections.com/2012/01/21/a-guide-to-the-wines-of-the-mosel/) of Lars' upcoming online guide to the best producers and wines of the Mosel, please visit [www.larscarlbergselections.com](http://www.larscarlbergselections.com) -jfr

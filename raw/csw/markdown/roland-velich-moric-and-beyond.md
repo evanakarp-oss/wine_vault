@@ -1,0 +1,29 @@
+---
+type: csw_article
+slug: roland-velich-moric-and-beyond
+title: "Roland Velich: Moric and beyond!"
+url: https://chambersstwines.com/blogs/articles/roland-velich-moric-and-beyond
+date: ""
+word_count: 947
+fetched_at: "2026-04-21T17:20:50+00:00"
+---
+
+# Roland Velich: Moric and beyond!
+
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/44176_480x480.png?v=1721850225)
+
+One of the most memorable wines I had last year was a 2009 Moric Blaufränkisch from Roland Velich. Mind you, this was the "entry level" wine, not the Reserve, or one of the top tier single vineyard bottlings from old vines in the Lutzmannsburg or Neckenmarkt vineyards. There was baking spice, and dark blue fruit on the nose, with layers of perfumed red fruit in the high end. Light-medium body, with an elegance and finesse that I was unaccustomed to, but had been told Blaufränkisch was capable of. I was blown away. My memory is so vivid that I was sure, on starting my first draft of this article, that it must have been the Reserve, but our very own John McIlwain, esteemed colleague and wine collector, has confirmed that it was in fact the "village" Blaufränkisch. This speaks volumes to the level of care and commitment that Velich has for producing high quality wines across the board.
+
+As John was the person who initially turned me on to the Moric wines (and was generous enough to share a bottle of the 2009), I asked him if he could riff on the theme of the first experience with Moric.
+
+Here are some words from John McIlwain:
+
+"It doesn't seem that long ago that everyone was raving about the new Blaufränkisch from Moric in Burgenland. The wines were somewhere between Baudry and Bize we thought. Blessed with pure, blue-fruited energy and a dynamic sense of minerality, even the humble base wine impressed. And though there seemed to be a bit of wood, those of us lucky enough to listen to our friend John Ritchie and not only buy a few bottles, but luckier still forget about them in the back of our cellars, were rewarded by an elegant mature wine that seemed to capture the essence of the bosky Blaufränkisch grape and the limestone and loam soils of the slopes of Mittelburgenland. Case in point, a bottle of the 2010 opened last fall that while offering an lovely autumnal profile of knit fruit, resolved structure, and forest floor revealed even more character on the second day."
+
+A bit of background, as I presume many of our readers are not familiar with the wines or are just peripherally aware from seeing the iconic minimalist labels somewhere. Roland Velich started the Moric (pronounced Moritz) project in the early 2000s, with a single-minded intention to elevate the status of the Austrian grape Blaufränkisch (known as Kékfrankos in Hungary or Lemberger in Germany). Velich's family was already known for fine white wines from the Mittelburgenland, which lies near the Hungarian border and is influenced by the unique micro-climates of the Pannonian plain and Lake Neusiedl. Impressed by the great red wines of the world, from Burgundy, Rhone and Piedmont (to name a few influences), Velich was convinced of the potential of Blaufränkisch, and wanted to produce an age-worthy, "serious" expression - not an emulation of the red wines he admired, but a uniquely Austrian offering. His approach was to find old, high density vineyards, and combine rigorous selection in the vineyard with low yields, natural fermentation, and patient, low-intervention winemaking. It seems the wines were received well by a handful of other producers and some wine drinkers on release, but given that the "top" (expensive) reds in Austria at the time were generally over-extracted and aged in new oak (emulation of trends elsewhere), Velich's wines were not immediately acclaimed. With time however, there was a gradual realization of how special these wines really were. With each vintage, Velich refined his style and deepened his connection to the old vineyards in Neckenmarkt and Lutzmannsburg, and eventually, wine drinkers were able to try aged bottles of Moric. So we see beginning in the latter half of the 2000s, an increasing amount of rave reviews for the Moric wines, and rightly so!
+
+Now in its 20th year (just like Chambers Street Wines!), the Moric project is firmly established, and Roland Velich is keeping himself busy with several side projects that expand on his passion for producing high quality wines from indigenous grapes in the region. He has teamed up with Hannes Schuster to produce Blaufränkisch from old vines in the town of Zagersdorf, under the name M. Jagini, and has spearheaded a project called Hidden Treasures, which highlights little known Hungarian producers and grape varieties. This project is truly noteworthy, as there is a wealth of history in the winemaking regions of Hungary that has been forgotten in today's wine world. As Velich says in an interview, the area where his family's vines are was in Hungary until the 1920s, and the wines of Hungary were at one point the most famous in the world (usually 2 or 3 times more expensive than the finest Burgundy or Chateau Margaux!). Moreover, it is admirable to see him raising up the profile of up and coming winemakers in Hungary, who are following a similar philosophy as Roland, preserving local varieties and producing wines with indigenous yeast and minimal intervention.
+
+Today we offer a little of everything that Roland Velich is involved in. The focus is of course on the Moric wines, but the M. Jagini Blaufränkisch and the Hidden Treasures wines should not be overlooked! If you are like me and having trouble deciding on which vintage(s) to go for, feel free to reach out to office@chambersstwines.com for more details. I have reached out to Roland Velich and should have further insight on the wines soon.
+
+- **﻿Eben Lillie ﻿** ﻿

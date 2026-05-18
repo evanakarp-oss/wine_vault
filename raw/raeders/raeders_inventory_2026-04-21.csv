@@ -1,0 +1,848 @@
+Name,producer_guess,Vintage,Format,Category,Price,price_usd,Region/Notes
+Chateau Petrus,Chateau Petrus,2006,750ml,Red Wine,"$4,999.99",4999.99,"Pomerol (WE: 95-97, WA: 96)"
+Romanee Conti DRC - Corton Charlemagne Grand Cru,Romanee Conti DRC,2022,750ml,White Wine,"$4,999.99",4999.99,Burgundy (Chardonnay)
+Chateau Petrus,Chateau Petrus,1967,750ml,Red Wine,"$3,499.99",3499.99,Pomerol (WA: 99)
+Domaine Armand Rousseau - Chambertin Grand Cru,Domaine Armand Rousseau,2021,750ml,Red Wine,"$2,700.00",2700.0,Burgundy (Pinot Noir)
+A.F. Gros - Richebourg,A.F. Gros,2022,1.5L,Red Wine,"$2,799.99",2799.99,Cote de Nuits (Pinot Noir)
+Domaine de la Romanee-Conti - Echezeaux,Domaine de la Romanee-Conti,2022,750ml,Red Wine,"$2,429.99",2429.99,Burgundy (Pinot Noir)
+Domaine Leflaive - Chevalier-Montrachet,Domaine Leflaive,2022,750ml,White Wine,"$2,099.99",2099.99,Burgundy (D: 97)
+Méo-Camuzet - Vosne-Romanée Au Cros Parantoux,Méo-Camuzet,2023,750ml,Red Wine,"$2,249.99",2249.99,Burgundy (Pinot Noir)
+Domaine Georges & Christophe Roumier - Bonnes Mares Grand Cru,Domaine Georges & Christophe Roumier,2022,750ml,Red Wine,"$1,889.99",1889.99,"Burgundy (WA: 96-98, V: 96-98)"
+Chateau Lafite Rothschild,Chateau Lafite Rothschild,1967,1.5L,Red Wine,"$1,799.99",1799.99,Pauillac (Bordeaux)
+Chateau Lafite Rothschild,Chateau Lafite Rothschild,1983,1.5L,Red Wine,"$1,799.99",1799.99,Pauillac (Bordeaux)
+Chateau La Fleur-Petrus,Chateau La Fleur-Petrus,2018,3L,Red Wine,"$1,529.99",1529.99,"Pomerol (JS: 99, WA: 97+)"
+Domaine du Comte Liger-Belair - Nuits St Georges 1er Cru Aux Cras,Domaine du Comte Liger-Belair,2009,750ml,Red Wine,"$1,529.99",1529.99,Burgundy (Pinot Noir)
+Dom Perignon - Rose P2,Dom Perignon,1995,750ml,Sparkling Wine,"$1,599.99",1599.99,Champagne
+Dom Perignon - Rose P2,Dom Perignon,2000,750ml,Sparkling Wine,"$1,599.99",1599.99,Champagne
+Chateau Haut Brion,Chateau Haut Brion,2019,1.5L,Red Wine,"$1,799.99",1799.99,"Pessac Leognan (JS: 100, V: 99)"
+Bruno Colin - Batard Montrachet Grand Cru,Bruno Colin,2022,750ml,White Wine,"$1,349.99",1349.99,Burgundy (Chardonnay)
+Château Margaux,Château Margaux,2011,1.5L,Red Wine,"$1,259.99",1259.99,"Margaux (D: 96, WE: 95)"
+A.F. Gros - Richebourg,A.F. Gros,2022,750ml,Red Wine,"$1,199.99",1199.99,Burgundy (Pinot Noir)
+Krug - Brut Champagne Collection,Krug,1995,750ml,Sparkling Wine,"$1,169.99",1169.99,Champagne
+Chateau d'Armailhac,Chateau d'Armailhac,2005,6L,Red Wine,"$1,169.99",1169.99,Pauillac (Bordeaux Blend)
+Domaine Leflaive - Puligny-Montrachet Les Pucelles,Domaine Leflaive,2022,750ml,White Wine,$998.99,998.99,"Burgundy (WA: 95, JS: 95)"
+Ramonet - Batard Montrachet Grand Cru,Ramonet,2020,750ml,White Wine,"$1,169.99",1169.99,Burgundy (Chardonnay)
+Chateau Palmer,Chateau Palmer,2019,3L,Red Wine,"$1,169.99",1169.99,Margaux (Bordeaux Blend)
+Domaine Coche Dury - Meursault,Domaine Coche Dury,2022,750ml,White Wine,"$1,169.99",1169.99,Burgundy (Chardonnay)
+Joseph Drouhin - Chambolle Musigny 1er Cru Amoureuses,Joseph Drouhin,2022,750ml,Red Wine,"$1,079.99",1079.99,Burgundy (Pinot Noir)
+Domaine Jacques Prieur - Echezeaux Grand Cru,Domaine Jacques Prieur,2019,750ml,Red Wine,"$1,079.99",1079.99,Burgundy (WS: 94)
+Domaine Leflaive Esprit Corton Grand Cru Grandes Lolieres,Domaine Leflaive Esprit Corton Grand Cru Grandes Lolieres,2019,750ml,Red Wine,$969.99,969.99,Corton Grand Cru
+Olivier Leflaive - Bâtard-Montrachet,Olivier Leflaive,2022,750ml,White Wine,"$1,099.99",1099.99,Burgundy (Chardonnay)
+Louis Roederer - Cristal Vinotheque Brut,Louis Roederer,1999,750ml,Sparkling Wine,"$1,099.99",1099.99,Champagne
+Domaine Leflaive - Puligny-Montrachet Les Pucelles,Domaine Leflaive,2021,750ml,White Wine,$919.99,919.99,Burgundy (Chardonnay)
+Château Lafleur,Château Lafleur,2020,750ml,Red Wine,$971.99,971.99,"Pomerol (WA: 99, D: 98)"
+Chateau Cheval Blanc,Chateau Cheval Blanc,2010,750ml,Red Wine,"$1,039.99",1039.99,"Saint Emilion (WE: 100, WA: 100)"
+Château Pavie,Château Pavie,2012,1.5L,Red Wine,$899.99,899.99,St. Emilion (Bordeaux)
+Château Mouton-Rothschild,Château Mouton-Rothschild,2016,750ml,Red Wine,$724.99,724.99,"Pauillac (WA: 100, JS: 100)"
+Château Mouton-Rothschild,Château Mouton-Rothschild,2018,750ml,Red Wine,$579.99,579.99,"Pauillac (D: 100, JS: 100)"
+Bonneau du Martray - Corton-Charlemagne,Bonneau du Martray,2022,750ml,White Wine,$899.99,899.99,Burgundy (Chardonnay)
+Chateau Haut Brion,Chateau Haut Brion,1964,750ml,Red Wine,$899.99,899.99,Pessac Leognan (Bordeaux Blend)
+Chateau Margaux,Chateau Margaux,2011,750ml,Red Wine,$499.99,499.99,"Margaux (D: 96, JS: 94)"
+Domaine Jean-Jacques Confuron - Romanee St. Vivant Grand Cru,Domaine Jean-Jacques Confuron,2016,750ml,Red Wine,$809.99,809.99,Burgundy (Pinot Noir)
+Château Mouton-Rothschild,Château Mouton-Rothschild,2019,750ml,Red Wine,$559.99,559.99,"Pauillac (JS: 99, WS: 98)"
+Château Lafleur,Château Lafleur,2012,750ml,Red Wine,$809.99,809.99,Pomerol (WA: 94)
+Domaine Dugat Py - Charmes Chambertin Grand Cru,Domaine Dugat Py,2022,750ml,Red Wine,$809.99,809.99,Burgundy (WA: 95+)
+Louis Roederer - Brut Champagne Cristal,Louis Roederer,2012,1.5L,Sparkling Wine,$809.99,809.99,Champagne
+Domaine Armand Rousseau - Mazis Chambertain,Domaine Armand Rousseau,2021,750ml,Red Wine,$899.99,899.99,Burgundy (Pinot Noir)
+Chateau Lafite Rothschild,Chateau Lafite Rothschild,1990,750ml,Red Wine,$809.99,809.99,Pauillac (Bordeaux)
+Château Mouton-Rothschild,Château Mouton-Rothschild,2015,750ml,Red Wine,$589.99,589.99,"Pauillac (JD: 99, JS: 99)"
+Chateau Cos d'Estournel,Chateau Cos d'Estournel,2000,1.5L,Red Wine,$800.99,800.99,"Saint Estephe (WA: 97, JS: 93)"
+Louis Roederer - Brut Rosé Champagne Cristal,Louis Roederer,2013,750ml,Sparkling Wine,$764.99,764.99,Champagne
+Chateau Cos d'Estournel,Chateau Cos d'Estournel,2001,1.5L,Red Wine,$719.99,719.99,"Saint Estephe (D: 95, WA: 94)"
+Château Latour,Château Latour,1999,750ml,Red Wine,$719.99,719.99,Pauillac (Bordeaux Red)
+Jean Marie Fourrier - Corton Charlemagne Grand Cru,Jean Marie Fourrier,2022,750ml,White Wine,$719.99,719.99,Burgundy (Chardonnay)
+Lucien Le Moine - Chambolle Musigny Les Amoureuses,Lucien Le Moine,2022,750ml,Red Wine,$719.99,719.99,Burgundy (Pinot Noir)
+Chateau La Fleur-Petrus,Chateau La Fleur-Petrus,2016,1.5L,Red Wine,$719.99,719.99,"Pomerol (WA: 97, WE: 95)"
+Domaine Comte Georges de Vogue - Bonne Mares Grand Cru,Domaine Comte Georges de Vogue,2016,750ml,Red Wine,$719.99,719.99,Burgundy (Pinot Noir)
+Domaine Dugat Py - Corton Charlemagne Grand Cru,Domaine Dugat Py,2022,750ml,White Wine,$759.99,759.99,Burgundy (WA: 96+)
+Domaine Leroy - Bourgogne Aligote,Domaine Leroy,2017,750ml,White Wine,$629.99,629.99,Burgundy (Chardonnay)
+Chateau Margaux,Chateau Margaux,2021,750ml,Red Wine,$499.99,499.99,"Margaux (WE: 98, JS: 98)"
+Chateau Lafite Rothschild,Chateau Lafite Rothschild,2020,750ml,Red Wine,$675.99,675.99,"Pauillac (WE: 100, JD: 100)"
+Chateau Lafite Rothschild,Chateau Lafite Rothschild,2021,750ml,Red Wine,$575.99,575.99,"Pauillac (WE: 98, D: 97)"
+Chateau La Mission Haut Brion,Chateau La Mission Haut Brion,1969,1.5L,Red Wine,$629.99,629.99,Pessac Leognan (Bordeaux Blend)
+Olivier Bernstein - Chambertin Grand Cru,Olivier Bernstein,2014,750ml,Red Wine,$629.99,629.99,Burgundy (WS: 96)
+Dom Perignon - Brut,Dom Perignon,2013,1.5L,Sparkling Wine,$699.99,699.99,Champagne
+Chateau Latour,Chateau Latour,1970,750ml,Red Wine,$629.99,629.99,Pauillac (Bordeaux Blend)
+Chateau Lafite Rothschild,Chateau Lafite Rothschild,2017,750ml,Red Wine,$699.99,699.99,"Pauillac (JS: 98, WA: 97+)"
+Domaine Leflaive - Puligny-Montrachet Les Folatières,Domaine Leflaive,2021,750ml,White Wine,$645.99,645.99,"Burgundy (WS: 94, V: 94)"
+A.F. Gros - Echezeaux Grand Cru,A.F. Gros,2022,750ml,Red Wine,$629.99,629.99,Burgundy (Pinot Noir)
+Chateau Haut Brion,Chateau Haut Brion,2021,750ml,Red Wine,$459.99,459.99,"Pessac Leognan (WE: 98, WA: 97)"
+Philippe Pacalet - Echezeaux Grand Cru,Philippe Pacalet,2020,750ml,Red Wine,$499.99,499.99,Burgundy (Pinot Noir)
+Chateau Latour,Chateau Latour,2015,750ml,Red Wine,$635.99,635.99,"Pauillac (WE: 98, D: 98)"
+Chateau Latour,Chateau Latour,2014,750ml,Red Wine,$599.99,599.99,"Pauillac (WS: 97, WA: 97+)"
+Méo-Camuzet - Corton Charlemagne Grand Cru,Méo-Camuzet,2022,750ml,White Wine,$539.99,539.99,Burgundy (Chardonnay)
+Château Pavie,Château Pavie,2016,750ml,Red Wine,$364.99,364.99,"St. Emilion (WA: 100, WE: 96)"
+Chateau Gruaud Larose,Chateau Gruaud Larose,1975,1.5L,Red Wine,$449.99,449.99,Saint Julien (Bordeaux Blend)
+Chateau Angelus,Chateau Angelus,2020,750ml,Red Wine,$449.99,449.99,"Saint Emilion (WE: 99, WA: 98-100)"
+Chateau Margaux,Chateau Margaux,1976,750ml,Red Wine,$449.99,449.99,Margaux (Bordeaux Blend)
+Méo-Camuzet - Clos De Vougeot Grand Cru,Méo-Camuzet,2022,750ml,Red Wine,$499.99,499.99,Burgundy (WS: 95)
+Château L'Evangile,Château L'Evangile,2010,750ml,Red Wine,$449.99,449.99,Pomerol (WA: 94)
+Château de la Tour - Clos Vougeot,Château de la Tour,1986,750ml,Red Wine,$449.99,449.99,Burgundy (Pinot Noir)
+Yann Durieux - Gevrey Chambertin GC,Yann Durieux,2020,750ml,Red Wine,$449.99,449.99,Burgundy (Pinot Noir)
+Chateau Angelus,Chateau Angelus,2017,750ml,Red Wine,$384.99,384.99,"Saint Emilion (JD: 97, WE: 96)"
+Domaine Sylvain Cathiard - Nuits-Saint-Georges Aux Thorey,Domaine Sylvain Cathiard,2021,750ml,Red Wine,$449.99,449.99,Burgundy
+Chateau Batailley,Chateau Batailley,1982,750ml,Red Wine,$449.99,449.99,Pauillac (Bordeaux Blend)
+Ramonet - Chassagne-Montrachet Les Ruchottes,Ramonet,2021,750ml,White Wine,$440.99,440.99,Burgundy (Chardonnay)
+Domaine Faiveley - Echezeaux Grand Cru en Orveaux,Domaine Faiveley,2023,750ml,Red Wine,$489.99,489.99,"Burgundy (JS: 98, WS: 96)"
+Domaine Leflaive - Esprit Pouilly Fuisse Clos Reyssier,Domaine Leflaive,2019,1.5L,White Wine,$422.99,422.99,Pouilly Fuisse
+Ramonet - Puligny-Montrachet Les Enseignères,Ramonet,2022,750ml,White Wine,$422.99,422.99,Burgundy (Chardonnay)
+E. Guigal - Côte-Rôtie La Turque,E. Guigal,2004,750ml,Red Wine,$405.89,405.89,Rhone Valley (Rhone Blend)
+Domaine Harmand-Geoffroy - Mazis Chambertain,Domaine Harmand-Geoffroy,2020,750ml,Red Wine,$404.99,404.99,Burgundy (Pinot Noir)
+Domaine Georges & Christophe Roumier - Chambolle Musigny,Domaine Georges & Christophe Roumier,2023,750ml,Red Wine,$404.99,404.99,Burgundy
+Louis Roederer - Collection 245 Brut Champagne,Louis Roederer,NV,3L,Sparkling Wine,$395.99,395.99,Champagne
+Domaine Leflaive Esprit - St Romain Sous La Velle,Domaine Leflaive Esprit,2019,1.5L,White Wine,$386.99,386.99,Burgundy
+Château Lynch-Bages,Château Lynch-Bages,2020,1.5L,Red Wine,$359.99,359.99,"Pauillac (JS: 99, WS: 96)"
+Château Léoville Las Cases,Château Léoville Las Cases,1996,750ml,Red Wine,$365.99,365.99,St. Julien (Bordeaux Blend)
+Gosset - Celebris Extra Brut,Gosset,2007,1.5L,Sparkling Wine,$359.99,359.99,"Champagne (JS: 96, WE: 95)"
+Moët & Chandon - Brut Grand Vintage,Moët & Chandon,1985,750ml,Sparkling Wine,$359.99,359.99,Champagne
+Chateau Cos d'Estournel,Chateau Cos d'Estournel,2009,750ml,Red Wine,$399.99,399.99,"Saint Estephe (WA: 100, JD: 100)"
+Chateau Bellevue Mondotte,Chateau Bellevue Mondotte,2009,750ml,Red Wine,$399.99,399.99,"Saint Emilion (WA: 100, JS: 97)"
+Château La Cabanne,Château La Cabanne,2021,3L,Red Wine,$359.99,359.99,Pomerol (Bordeaux Blend)
+Jacques-Frédéric Mugnier - Chambolle-Musigny,Jacques-Frédéric Mugnier,2022,750ml,Red Wine,$359.99,359.99,Burgundy (Pinot Noir)
+Le Petit Mouton de Mouton-Rothschild,Le Petit Mouton de Mouton-Rothschild,1998,750ml,Red Wine,$359.99,359.99,Pauillac (Bordeaux Blend)
+Meo-Camuzet - Corton Perrieres Grand Cru,Meo-Camuzet,2022,750ml,Red Wine,$399.99,399.99,Burgundy (WS: 96)
+Domaine Leflaive - Puligny Montrachet,Domaine Leflaive,2023,750ml,White Wine,$299.99,299.99,Burgundy (WS: 93)
+Chateau La Mission Haut Brion,Chateau La Mission Haut Brion,2018,750ml,Red Wine,$333.99,333.99,"Pessac Leognan (JD: 100, WA: 99)"
+Château Fourcas-Hosten,Château Fourcas-Hosten,2000,5L,Red Wine,$399.99,399.99,Listrac (Proprietary Blend)
+Chateau Figeac,Chateau Figeac,2005,750ml,Red Wine,$359.99,359.99,Saint Emilion (WE: 93)
+Chateau Palmer,Chateau Palmer,1981,750ml,Red Wine,$359.99,359.99,Margaux (Bordeaux Blend)
+Jacques-Frédéric Mugnier - Clos de la Maréchale 1er Cru,Jacques-Frédéric Mugnier,2022,1.5L,Red Wine,$359.99,359.99,Burgundy (Pinot Noir)
+Château La Tour Blanche,Château La Tour Blanche,1975,1.5L,White Wine,$359.99,359.99,Sauternes (Bordeaux Blend)
+Chateau Palmer,Chateau Palmer,2020,750ml,Red Wine,$306.99,306.99,"Margaux (WE: 98, WA: 97)"
+Chateau Bellevue Mondotte,Chateau Bellevue Mondotte,2005,750ml,Red Wine,$393.99,393.99,"Saint Emilion (WA: 100, WS: 97)"
+Dom Ruinart - Brut Rose,Dom Ruinart,2009,750ml,Sparkling Wine,$389.99,389.99,Champagne
+Louis Roederer - Brut Champagne Cristal,Louis Roederer,2005,750ml,Sparkling Wine,$349.99,349.99,Champagne
+Domaine Leflaive Esprit Pouilly Fuisse,Domaine Leflaive Esprit Pouilly Fuisse,2018,1.5L,White Wine,$332.99,332.99,Burgundy (Chardonnay)
+Veuve Clicquot - Brut Rose Champagne La Grande Dame,Veuve Clicquot,2015,750ml,Sparkling Wine,$332.99,332.99,Champagne
+Jean-Louis Chave - Hermitage White,Jean-Louis Chave,2021,750ml,White Wine,$332.99,332.99,Rhone Valley
+Château Pavie,Château Pavie,2015,750ml,Red Wine,$329.99,329.99,"St. Emilion (JD: 100, WS: 98)"
+Dom Perignon - Brut,Dom Perignon,2002,750ml,Sparkling Wine,$369.99,369.99,Champagne
+Domaine Leflaive Esprit Pommard 1er Cru Les Arvelets,Domaine Leflaive Esprit Pommard 1er Cru Les Arvelets,2019,750ml,Red Wine,$332.09,332.09,Burgundy (Pinot Noir)
+Ramonet - Puligny-Montrachet Les Enseignères,Ramonet,2021,750ml,White Wine,$323.99,323.99,Burgundy (Chardonnay)
+Méo-Camuzet - Nuits-St.-Georges Aux Murgers,Méo-Camuzet,2018,750ml,Red Wine,$323.99,323.99,Burgundy (WS: 93)
+Chateau Cos d'Estournel,Chateau Cos d'Estournel,NV,750ml,Red Wine,$323.99,323.99,Saint Estephe (Bordeaux Blend)
+Chateau Palmer,Chateau Palmer,2017,750ml,Red Wine,$254.99,254.99,"Margaux (JS: 98, WA: 97+)"
+Méo-Camuzet - Vosne-Romanée Les Chaumes,Méo-Camuzet,2023,750ml,Red Wine,$314.99,314.99,Burgundy (Pinot Noir)
+Méo-Camuzet - Vosne-Romanée Les Chaumes,Méo-Camuzet,2019,750ml,Red Wine,$314.99,314.99,Burgundy (Pinot Noir)
+Joseph Drouhin - Corton Grand Cru,Joseph Drouhin,2022,750ml,Red Wine,$305.99,305.99,Burgundy
+Chateau Gilette - Sauternes Creme De Tete,Chateau Gilette,1997,750ml,White Wine,$289.99,289.99,Sauternes
+Domaine Rene Leclerc - Griotte-Chambertin Grand Cru,Domaine Rene Leclerc,2014,750ml,Red Wine,$296.99,296.99,Burgundy (Pinot Noir)
+Chateau Figeac,Chateau Figeac,2010,750ml,Red Wine,$275.99,275.99,"Saint Emilion (JS: 98, V: 98)"
+Méo-Camuzet - Nuits-St.-Georges Aux Murgers,Méo-Camuzet,2020,750ml,Red Wine,$296.99,296.99,Burgundy (Pinot Noir)
+Chateau Figeac,Chateau Figeac,2018,750ml,Red Wine,$296.99,296.99,"Saint Emilion (WE: 100, WS: 97+)"
+Dom Ruinart - Blanc De Blancs Extra Brut,Dom Ruinart,2013,750ml,Sparkling Wine,$319.99,319.99,"Champagne (WS: 95, WE: 94)"
+Chateau Cos d'Estournel,Chateau Cos d'Estournel,2022,750ml,Red Wine,$287.99,287.99,Saint Estephe (Bordeaux Blend)
+Henri Boillot - Meursault Les Genevrieres 1er Cru,Henri Boillot,2023,750ml,White Wine,$287.99,287.99,Burgundy (Chardonnay)
+Chateau La Mission Haut Brion,Chateau La Mission Haut Brion,2011,750ml,Red Wine,$248.99,248.99,"Pessac Leognan (D: 96, WE: 95)"
+Krug - 165th edition Brut Champagne Grande Cuvée,Krug,NV,750ml,Sparkling Wine,$278.99,278.99,Champagne
+Chateau Haut Batailley,Chateau Haut Batailley,1966,750ml,Red Wine,$269.99,269.99,Pauillac (Bordeaux Blend)
+Château La Fleur-Pétrus,Château La Fleur-Pétrus,2022,750ml,Red Wine,$269.99,269.99,Pomerol (Bordeaux Blend)
+Chateau Grand Puy Ducasse,Chateau Grand Puy Ducasse,1978,750ml,Red Wine,$269.99,269.99,Pauillac (Bordeaux Blend)
+Ramonet - Chassagne-Montrachet,Ramonet,2023,750ml,White Wine,$269.99,269.99,Burgundy (Chardonnay)
+Dom Perignon - Brut Jean Michel Basquiat Edition,Dom Perignon,2015,750ml,Sparkling Wine,$269.99,269.99,Champagne
+Nicole Lamarche - Echezeaux Grand Cru,Nicole Lamarche,2019,750ml,Red Wine,$269.99,269.99,Burgundy (Pinot Noir)
+Chateau Batailley,Chateau Batailley,1967,750ml,Red Wine,$269.99,269.99,Pauillac (Bordeaux Blend)
+Château Lynch-Bages,Château Lynch-Bages,1978,750ml,Red Wine,$269.99,269.99,Pauillac (Bordeaux Blend)
+Philippe Pacalet - Chambolle Musigny Les Sentiers 1er Cru,Philippe Pacalet,2020,750ml,Red Wine,$269.99,269.99,Burgundy (Pinot Noir)
+Chateau Lafite Rothschild - Carruades De Lafite Pauillac,Chateau Lafite Rothschild,2022,750ml,Red Wine,$229.99,229.99,"Pauillac (JS: 96, D: 94)"
+Château La Lagune,Château La Lagune,1970,1.5L,Red Wine,$269.99,269.99,Haut-Medoc (Bordeaux Blend)
+Armand de Brignac - Ace of Spades Brut Gold Champagne,Armand de Brignac,NV,750ml,Sparkling Wine,$299.99,299.99,Champagne
+Ramonet - Chassagne Montrachet Morgeot 1er Cru,Ramonet,2021,750ml,White Wine,$269.99,269.99,Burgundy (Chardonnay)
+Château Pape Clément,Château Pape Clément,1970,750ml,Red Wine,$269.99,269.99,Pessac-Leognan (Bordeaux Blend)
+Chateau La Tour - Haut Brion,Chateau La Tour,1995,750ml,Red Wine,$269.99,269.99,Pessac-Leognan (Bordeaux Red)
+Delas Freres - Hermitage Les Bessards,Delas Freres,2011,750ml,Red Wine,$269.99,269.99,"Hermitage (WA: 99, WS: 94)"
+Château de Beaucastel,Château de Beaucastel,1999,1.5L,Red Wine,$269.99,269.99,Rhone Valley (Rhone Blend)
+Chateau Margaux - Pavillon Rouge,Chateau Margaux,2018,750ml,Red Wine,$208.99,208.99,"Margaux (JS: 95, WE: 95)"
+Chateau La Fleur-Petrus,Chateau La Fleur-Petrus,2020,750ml,Red Wine,$248.99,248.99,"Pomerol (JS: 100, JD: 100)"
+Chateau Lafite Rothschild - Carruades De Lafite,Chateau Lafite Rothschild,2020,750ml,Red Wine,$269.99,269.99,"Pauillac (JS: 96, WE: 95)"
+Méo-Camuzet - Vosne-Romanée Les Chaumes,Méo-Camuzet,2022,750ml,Red Wine,$269.99,269.99,Burgundy (Pinot Noir)
+Les Forts de Latour,Les Forts de Latour,2018,750ml,Red Wine,$219.99,219.99,"Pauillac (JD: 95, WS: 94)"
+Louis Roederer - Brut Champagne Cristal,Louis Roederer,2014,750ml,Sparkling Wine,$299.99,299.99,"Champagne (WS: 98, WE: 97)"
+Chateau Cos d'Estournel,Chateau Cos d'Estournel,2020,750ml,Red Wine,$269.99,269.99,"Saint Estephe (JD: 99, JS: 98)"
+Domaine Leflaive Esprit Nuits St Georges,Domaine Leflaive Esprit Nuits St Georges,2019,750ml,Red Wine,$247.99,247.99,Nuits St Georges
+Joseph Drouhin - Puligny Montrachet Premier Cru Pucelles,Joseph Drouhin,2022,750ml,White Wine,$260.99,260.99,Burgundy
+Chateau Figeac,Chateau Figeac,2011,750ml,Red Wine,$219.99,219.99,"Saint Emilion (D: 95, WE: 94)"
+Domaine Du Pegau - Chateauneuf Du Pape Reservee,Domaine Du Pegau,2010,1.5L,Red Wine,$279.99,279.99,Rhone Valley (Rhone Red Blend)
+Ponsot - Morey-St.-Denis Cuvée des Alouettes,Ponsot,2016,750ml,Red Wine,$251.99,251.99,Burgundy (Pinot Noir)
+Chateau Gilette - Sauternes Creme De Tete,Chateau Gilette,1999,750ml,White Wine,$218.99,218.99,Sauternes
+Taittinger - Brut Blanc de Blancs Champagne Comtes de Champagne,Taittinger,2013,750ml,Sparkling Wine,$251.99,251.99,Champagne
+Nicole Lamarche - Echezeaux Grand Cru,Nicole Lamarche,2020,750ml,Red Wine,$251.99,251.99,Burgundy (Pinot Noir)
+Les Forts de Latour,Les Forts de Latour,2019,750ml,Red Wine,$251.99,251.99,"Pauillac (JS: 97, WA: 94+)"
+Chateau Trotanoy,Chateau Trotanoy,2012,750ml,Red Wine,$251.99,251.99,"Pomerol (WS: 96, WA: 96)"
+Château Gruaud-Larose,Château Gruaud-Larose,1989,750ml,Red Wine,$251.99,251.99,St.-Julien (Bordeaux Blend)
+Moet & Chandon - Brut Nature Colle Imperial No.1,Moet & Chandon,NV,750ml,Sparkling Wine,$251.99,251.99,Champagne
+Joseph Drouhin - Chassagne-Montrachet Morgeot Marquis de Laguiche,Joseph Drouhin,2022,750ml,White Wine,$242.99,242.99,Burgundy
+Joseph Drouhin - Chassagne Montrachet Morgeot Marquis de Laguiche,Joseph Drouhin,1998,750ml,White Wine,$242.99,242.99,Burgundy (Chardonnay)
+Chapelle d'Ausone by Chateau Ausone,Chapelle d'Ausone by Chateau Ausone,2012,750ml,Red Wine,$215.99,215.99,"Saint Emilion (JS: 95, WE: 93)"
+Méo-Camuzet - Nuits St Georges Les Perrieres 1er Cru,Méo-Camuzet,2018,750ml,Red Wine,$242.99,242.99,Burgundy (Pinot Noir)
+Dujac - Chambolle-Musigny,Dujac,2023,750ml,Red Wine,$233.99,233.99,Burgundy (Pinot Noir)
+Le Petit Mouton de Mouton-Rothschild,Le Petit Mouton de Mouton-Rothschild,2019,750ml,Red Wine,$234.99,234.99,"Pauillac (JS: 97, JD: 95)"
+Château Lynch-Bages,Château Lynch-Bages,2003,750ml,Red Wine,$233.99,233.99,"Pauillac (WE: 94, WA: 94)"
+Domaine Jean Grivot - Nuits St Georges 1er Aux Boudots,Domaine Jean Grivot,2022,750ml,Red Wine,$259.99,259.99,Burgundy (WS: 96)
+Château Lynch-Bages,Château Lynch-Bages,2010,750ml,Red Wine,$233.99,233.99,"Pauillac (JS: 98, WA: 97)"
+Le Petit Mouton de Mouton-Rothschild,Le Petit Mouton de Mouton-Rothschild,2020,750ml,Red Wine,$259.99,259.99,"Pauillac (JS: 98, D: 94)"
+Veuve Clicquot - La Grande Dame - Yayoi Kusama Limited Edition,Veuve Clicquot,2012,750ml,Sparkling Wine,$224.99,224.99,Champagne
+Château d'Yquem,Château d'Yquem,2016,375ml,White Wine,$199.99,199.99,"Sauternes (JD: 99, JS: 99)"
+Domaine Roulot - Meursault,Domaine Roulot,2023,750ml,White Wine,$224.99,224.99,Burgundy (Chardonnay)
+Domaine Marquis D'Angerville - Volnay 1er Cru Champans,Domaine Marquis D'Angerville,2021,750ml,Red Wine,$224.99,224.99,"Burgundy (V: 95, RP: 94)"
+Pensées de Lafleur,Pensées de Lafleur,2002,750ml,Red Wine,$249.99,249.99,Pomerol (Bordeaux Blend)
+Chateau Tertre Roteboeuf,Chateau Tertre Roteboeuf,2019,750ml,Red Wine,$216.99,216.99,Saint Emillion (Bordeaux Blend)
+Perrier-Jouët - Fleur de Champagne Belle Epoque Brut Rosé,Perrier-Jouët,NV,750ml,Sparkling Wine,$224.99,224.99,Champagne
+Claude Dugat - Gevrey-Chambertin,Claude Dugat,2023,750ml,Red Wine,$224.99,224.99,Burgundy (WA: 93)
+Louis Jadot - Corton-Charlemagne,Louis Jadot,2003,750ml,White Wine,$224.99,224.99,Burgundy (Chardonnay)
+Château d'Yquem,Château d'Yquem,2006,375ml,White Wine,$218.99,218.99,"Sauternes (WA: 98, WS: 96)"
+Pensées de Lafleur,Pensées de Lafleur,2011,750ml,Red Wine,$224.99,224.99,Pomerol (Bordeaux Blend)
+Château Pichon Longueville Comtesse de Lalande,Château Pichon Longueville Comtesse de Lalande,1966,750ml,Red Wine,$224.99,224.99,Pauillac (Bordeaux Blend)
+Pensées de Lafleur,Pensées de Lafleur,2014,750ml,Red Wine,$224.99,224.99,Pomerol (Bordeaux Blend)
+Chateau Leoville Barton,Chateau Leoville Barton,2000,750ml,Red Wine,$249.99,249.99,"St Julien (WS: 97, WE: 96)"
+Domaine de Beaurenard - Châteauneuf-du-Pape Boisrenard,Domaine de Beaurenard,2020,1.5L,Red Wine,$224.99,224.99,"Rhone Valley (JD: 99, WE: 96)"
+Chateau Duhart-Milon Rothschild,Chateau Duhart-Milon Rothschild,1966,750ml,Red Wine,$224.99,224.99,Pauillac (Bordeaux Blend)
+Joseph Drouhin - Puligny Montrachet Folatieres Premier Cru,Joseph Drouhin,2022,750ml,White Wine,$215.99,215.99,Burgundy
+Michel Niellon - Chassagne-Montrachet Clos de la Maltroie,Michel Niellon,2022,750ml,White Wine,$215.99,215.99,Burgundy (Chardonnay)
+Dom Perignon - Brut,Dom Perignon,2015,750ml,Sparkling Wine,$228.99,228.99,Champagne
+Chateau Beaucastel - Chateauneuf Du Pape,Chateau Beaucastel,1989,750ml,Red Wine,$215.99,215.99,Rhone Valley (WA: 97)
+Michel Niellon - Chassagne-Montrachet Les Chaumées,Michel Niellon,2022,750ml,White Wine,$215.99,215.99,Burgundy (Chardonnay)
+Michel Niellon - Chassagne-Montrachet Les Champgains,Michel Niellon,2022,750ml,White Wine,$215.99,215.99,Burgundy (Chardonnay)
+Domaine Leflaive - Esprit Savigny Les Beaune 1er Cru,Domaine Leflaive,2019,750ml,White Wine,$211.99,211.99,Savigny Les Beaune
+Chateau Calon Segur,Chateau Calon Segur,2018,750ml,Red Wine,$206.99,206.99,"Saint Estephe (JD: 99, D: 99)"
+Château Canon,Château Canon,2010,750ml,Red Wine,$175.99,175.99,St.-Emilion (Bordeaux Blend)
+Perrier Jouet - Cuvee Belle Epoque,Perrier Jouet,NV,750ml,Sparkling Wine,$206.99,206.99,Champagne
+Bruno Colin - Chassagne-Montrachet 1er Cru La Maltroie,Bruno Colin,2022,750ml,White Wine,$206.99,206.99,Burgundy (Chardonnay)
+Jacques-Frédéric Mugnier - Clos de la Maréchale 1er Cru,Jacques-Frédéric Mugnier,2022,750ml,Red Wine,$206.99,206.99,Burgundy (Pinot Noir)
+Faiveley - Meursault,Faiveley,2022,1.5L,White Wine,$206.99,206.99,Burgundy (Chardonnay)
+Chateau Cos d'Estournel,Chateau Cos d'Estournel,2019,750ml,Red Wine,$177.99,177.99,"Saint Estephe (JS: 99, WE: 98)"
+Château d'Yquem,Château d'Yquem,2010,375ml,White Wine,$229.99,229.99,"Sauternes (WE: 98, WS: 97)"
+Gosset - Celebris Extra Brut,Gosset,2008,750ml,Sparkling Wine,$202.49,202.49,Champagne
+Veuve Clicquot - Brut Champagne La Grande Dame,Veuve Clicquot,2006,750ml,Sparkling Wine,$197.99,197.99,Champagne
+Bollinger - Grand Année Brut Champagne,Bollinger,2014,750ml,Sparkling Wine,$197.99,197.99,Champagne
+Chateau La Fleur-Petrus,Chateau La Fleur-Petrus,2017,750ml,Red Wine,$199.99,199.99,"Pomerol (JS: 96, V: 96)"
+Gosset - Brut Rosé Champagne Celebris,Gosset,2008,750ml,Sparkling Wine,$219.99,219.99,"Champagne (V: 96, WE: 95)"
+Château Hosanna,Château Hosanna,2018,750ml,Red Wine,$197.99,197.99,"Pomerol (JD: 99, JS: 97)"
+Ruinart - Brut Rosé Champagne,Ruinart,NV,1.5L,Sparkling Wine,$219.99,219.99,Champagne
+Geantet Pansiot - Chambolle Musigny Les Feusselotte,Geantet Pansiot,2022,750ml,Red Wine,$197.99,197.99,Burgundy (Pinot Noir)
+Geantet Pansiot - Chambolle Musigny Les Plantes 1er Cru,Geantet Pansiot,2022,750ml,Red Wine,$197.99,197.99,Burgundy (Pinot Noir)
+Paul Jaboulet Aîné - La Chapelle Hermitage,Paul Jaboulet Aîné,2017,750ml,Red Wine,$188.99,188.99,Rhone Valley (WA: 98)
+Domaine Dugat Py - Pommard La Levriere,Domaine Dugat Py,2022,750ml,Red Wine,$188.99,188.99,Burgundy (Pinot Noir)
+Château Pichon-Longueville-Baron,Château Pichon-Longueville-Baron,2020,750ml,Red Wine,$189.99,189.99,"Pauillac (JS: 99, WE: 98)"
+Château Lafon-Rochet,Château Lafon-Rochet,1964,750ml,Red Wine,$179.99,179.99,Saint Estèphe (Bordeaux Blend)
+Billecart Salmon - Cuvee Louis Salmon Blanc De Blanc,Billecart Salmon,2012,750ml,Sparkling Wine,$199.99,199.99,"Champagne (JS: 99, WE: 96)"
+William Fèvre - Chablis Bougros,William Fèvre,2006,750ml,White Wine,$179.99,179.99,Burgundy (Chardonnay)
+Piper-Heidsieck - Cuvée Rare Brut Champagne,Piper-Heidsieck,2008,750ml,Sparkling Wine,$178.99,178.99,Champagne
+Château Hosanna,Château Hosanna,2003,750ml,Red Wine,$179.99,179.99,Pomerol (Bordeaux Blend)
+Chateau Gloria,Chateau Gloria,1971,750ml,Red Wine,$179.99,179.99,Saint Julien (Bordeaux Blend)
+Château La Cabanne,Château La Cabanne,1967,750ml,Red Wine,$179.99,179.99,Pomerol (Bordeaux Blend)
+Château La Dominique,Château La Dominique,1979,750ml,Red Wine,$179.99,179.99,St.-Emilion (Bordeaux Blend)
+Château Camensac,Château Camensac,1982,750ml,Red Wine,$179.99,179.99,Haut-Médoc (Bordeaux Blend)
+Chateau Gloria,Chateau Gloria,1978,750ml,Red Wine,$179.99,179.99,Saint Julien (Bordeaux Blend)
+A.F. Gros - Pommard 1er Cru Les Arvelets,A.F. Gros,2022,750ml,Red Wine,$179.99,179.99,Burgundy (Pinot Noir)
+Chateau Calon Segur,Chateau Calon Segur,1995,750ml,Red Wine,$179.99,179.99,"Saint Estephe (JS: 97, WS: 95)"
+Geantet-Pansiot - Chambolle-Musigny 1er Cru Les Baudes,Geantet-Pansiot,2022,750ml,Red Wine,$179.99,179.99,Burgundy (Pinot Noir)
+Chateau Margaux - Pavillon Rouge,Chateau Margaux,2019,750ml,Red Wine,$199.99,199.99,"Margaux (WE: 96, WA: 95)"
+Méo-Camuzet - Vosne-Romanée,Méo-Camuzet,2021,750ml,Red Wine,$148.99,148.99,Burgundy (Pinot Noir)
+Louis Latour - Corton-Charlemagne,Louis Latour,2019,750ml,White Wine,$178.99,178.99,"Burgundy (JS: 98, WE: 95)"
+Chateau Lascombes,Chateau Lascombes,1970,750ml,Red Wine,$179.99,179.99,Margaux (Bordeaux Blend)
+Clos Fourtet,Clos Fourtet,1970,750ml,Red Wine,$179.99,179.99,St.-Emilion (Bordeaux Blend)
+Château Hosanna,Château Hosanna,2012,750ml,Red Wine,$179.99,179.99,"Pomerol (WA: 97, WE: 94)"
+Faiveley - Chambolle Musigny 1er Cru Aux Beaux Bruns,Faiveley,2022,750ml,Red Wine,$174.99,174.99,Burgundy (Pinot Noir)
+Larmandier-Bernier - Vieille Vigne Du Levant Grand Cru,Larmandier-Bernier,2014,750ml,Sparkling Wine,$159.99,159.99,Champagne
+Chateau Monbousquet,Chateau Monbousquet,1996,1.5L,Red Wine,$199.99,199.99,Saint Emilion (Bordeaux Blend)
+Domaine Faiveley - Gevrey-Chambertin Vieilles Vignes,Domaine Faiveley,2023,1.5L,Red Wine,$179.99,179.99,Burgundy (Pinot Noir)
+Domaine De Beaurenard - Chateauneuf Du Pape Gran Partita,Domaine De Beaurenard,2016,750ml,Red Wine,$159.99,159.99,Rhone Valley (Grenache/Syrah)
+Gosset Grand - Blanc de Blancs Brut Champagne,Gosset Grand,NV,1.5L,Sparkling Wine,$179.99,179.99,Champagne
+Château Pichon-Longueville-Baron,Château Pichon-Longueville-Baron,2015,750ml,Red Wine,$179.99,179.99,"Pauillac (JD: 98, WA: 97)"
+Chateau Pichon Longueville - Comtesse de Lalande,Chateau Pichon Longueville,2017,750ml,Red Wine,$179.99,179.99,"Pauillac (WS: 96, WA: 96)"
+Château Canon,Château Canon,2018,750ml,Red Wine,$179.99,179.99,"St.-Emilion (D: 98, V: 98)"
+Château Smith-Haut-Lafitte,Château Smith-Haut-Lafitte,2015,750ml,Red Wine,$179.99,179.99,"Pessac-Léognan (JS: 99, D: 98)"
+Pensées de Lafleur,Pensées de Lafleur,2020,750ml,Red Wine,$179.99,179.99,Pomerol (Bordeaux Blend)
+Hospice De Beaune - Meursault Cuvee Loppin,Hospice De Beaune,2023,750ml,White Wine,$179.99,179.99,Burgundy (Chardonnay)
+Krug - 171th edition Brut Champagne Grande Cuvée,Krug,NV,750ml,Sparkling Wine,$179.99,179.99,Champagne
+Chateau Lascombes,Chateau Lascombes,1966,750ml,Red Wine,$179.99,179.99,Margaux (Bordeaux Blend)
+Chateau Beausejour,Chateau Beausejour,1970,750ml,Red Wine,$179.99,179.99,St. Emilion (Bordeaux Blend)
+A.F. Gros - Gevrey Chambertin,A.F. Gros,2022,750ml,Red Wine,$179.99,179.99,Burgundy (Pinot Noir)
+Chateau Haut Brion - Le Clarence De Haut Brion,Chateau Haut Brion,2018,750ml,Red Wine,$148.99,148.99,"Pessac Leognan (JS: 97, WS: 94)"
+Pavillon De Leoville Poyferre,Pavillon De Leoville Poyferre,2014,750ml,Red Wine,$170.99,170.99,Saint Julien (Bordeaux Blend)
+Piper-Heidsieck - Cuvée Rare Brut Champagne,Piper-Heidsieck,2013,750ml,Sparkling Wine,$159.99,159.99,Champagne
+Chateau Giscours,Chateau Giscours,1998,750ml,Red Wine,$170.99,170.99,Margaux (D: 92)
+Chateau Calon Segur,Chateau Calon Segur,2015,750ml,Red Wine,$170.99,170.99,"Saint Estephe (WE: 96, JS: 95)"
+Domaine Michel Gros - Vosne-Romanee 1er Cru Clos Des Reas,Domaine Michel Gros,2022,750ml,Red Wine,$171.99,171.99,Burgundy (Pinot Noir)
+Domaine Parent - Pommard Les Épenots 1er Cru,Domaine Parent,2018,750ml,Red Wine,$165.99,165.99,Burgundy (Pinot Noir)
+Hubert Lignier - Morey-St.-Denis Les Chaffots,Hubert Lignier,2022,750ml,Red Wine,$188.99,188.99,Burgundy (Pinot Noir)
+Domaine Dugat Py - Gevrey Chambertin Vielles Vignes,Domaine Dugat Py,2022,750ml,Red Wine,$154.99,154.99,Burgundy (Pinot Noir)
+Chateau d'Armailhac,Chateau d'Armailhac,2018,1.5L,Red Wine,$161.99,161.99,"Pauillac (JS: 95, D: 94)"
+Domaine Odoul-Coquard - Vosne-Romanée,Domaine Odoul-Coquard,2021,750ml,Red Wine,$161.99,161.99,Burgundy (Pinot Noir)
+Gosset - Brut Rosé Champagne Celebris,Gosset,2007,750ml,Sparkling Wine,$179.99,179.99,"Champagne (WA: 96, JS: 96)"
+Château Hosanna,Château Hosanna,2014,750ml,Red Wine,$161.99,161.99,"Pomerol (JS: 95, WE: 94)"
+Domaine Leflaive Esprit Chablis 1er Cru Fourchaume,Domaine Leflaive Esprit Chablis 1er Cru Fourchaume,2019,750ml,White Wine,$164.99,164.99,Chablis
+Famille Joly - Clos de la Coulee De Serrant,Famille Joly,2023,750ml,White Wine,$161.99,161.99,Loire Valley (Chenin Blanc)
+Chateau de Beaucastel - Chateauneuf-du-Pape Blanc Vielles Vignes,Chateau de Beaucastel,2002,750ml,White Wine,$161.99,161.99,Burgundy (Roussanne)
+Chateau Kirwan,Chateau Kirwan,1998,750ml,Red Wine,$152.99,152.99,Margaux (Bordeaux Blend)
+Veuve Clicquot - Brut Champagne La Grande Dame,Veuve Clicquot,2015,750ml,Sparkling Wine,$152.99,152.99,Champagne
+Chateau Gloria,Chateau Gloria,1988,750ml,Red Wine,$152.99,152.99,Saint Julien (Bordeaux Blend)
+Domaine De La Commaraine - Nuits St Georges 1er Cru Aux Bousselots,Domaine De La Commaraine,2021,750ml,Red Wine,$134.99,134.99,Burgundy (Pinot Noir)
+Château Lynch-Bages,Château Lynch-Bages,2020,750ml,Red Wine,$138.99,138.99,"Pauillac (JS: 99, WE: 98)"
+Château Pape Clément,Château Pape Clément,2006,750ml,Red Wine,$138.99,138.99,"Pessac-Léognan (WA: 94, WE: 90-92)"
+Antonin Guyon - Gevrey Chambertin La Justice,Antonin Guyon,2011,1.5L,Red Wine,$169.99,169.99,Burgundy (Pinot Noir)
+Hospices De Beaune - Beaune 1er Cru Montrevenots Blanc,Hospices De Beaune,2019,750ml,White Wine,$152.99,152.99,Burgundy (Chardonnay)
+Gosset - Celebris Extra Brut,Gosset,2007,750ml,Sparkling Wine,$169.99,169.99,"Champagne (JS: 96, WE: 95)"
+Domaine de Marcoux - Châteauneuf-du-Pape Vieilles Vignes,Domaine de Marcoux,2010,750ml,Red Wine,$168.99,168.99,Rhone Valley (WA: 96)
+Domaine Leflaive - Esprit Pouilly Fuisse Clos Reyssier,Domaine Leflaive,2019,750ml,White Wine,$143.99,143.99,Pouilly Fuisse
+Roland Lavantureux - Chablis Bougros,Roland Lavantureux,2022,750ml,White Wine,$129.99,129.99,Burgundy (Chardonnay)
+Domaine De Villaine - Rully 1er Les Champs Cloux,Domaine De Villaine,2021,750ml,Red Wine,$132.99,132.99,Burgundy (Pinot Noir)
+Gonet Medeville - Le Mesnil Champ D'Alouette Extra Brut,Gonet Medeville,2007,750ml,Sparkling Wine,$139.99,139.99,Champagne (WS: 93)
+Ramonet - Chassagne Montrachet,Ramonet,2021,750ml,White Wine,$143.99,143.99,Burgundy (Chardonnay)
+Château Troplong-Mondot,Château Troplong-Mondot,2016,750ml,Red Wine,$159.99,159.99,"St.-Emilion (JD: 97, JS: 96)"
+Château Canon,Château Canon,2011,750ml,Red Wine,$115.99,115.99,St.-Emilion (WE: 93-95)
+Lucien Boillot - Gevrey Chambertin 1er Cru Les Cherbaudes,Lucien Boillot,2016,750ml,Red Wine,$143.99,143.99,Burgundy (Pinot Noir)
+Château Smith-Haut-Lafitte,Château Smith-Haut-Lafitte,2019,750ml,Red Wine,$143.99,143.99,"Pessac-Léognan (JS: 99, JD: 98)"
+Chateau Rauzan Segla,Chateau Rauzan Segla,2022,750ml,Red Wine,$106.99,106.99,"Margaux (JD: 98, JS: 98)"
+Chateau Haut-Bailly,Chateau Haut-Bailly,2018,750ml,Red Wine,$124.99,124.99,"Pessac-Leognan (WE: 96, WA: 96)"
+Domaine Leflaive Esprit - St Romain Sous La Velle,Domaine Leflaive Esprit,2019,750ml,White Wine,$147.99,147.99,Burgundy
+Château Montrose,Château Montrose,2011,750ml,Red Wine,$124.99,124.99,"St.-Estèphe (WE: 94, WS: 93)"
+Domaine de la Mordorée - Châteauneuf-du-Pape Cuvée Reine des Bois,Domaine de la Mordorée,2010,750ml,Red Wine,$143.99,143.99,Rhone Valley
+Château Smith-Haut-Lafitte,Château Smith-Haut-Lafitte,2018,750ml,Red Wine,$143.99,143.99,"Pessac-Léognan (D: 99, JD: 99)"
+Domaine Leflaive - Bourgogne White,Domaine Leflaive,2023,750ml,White Wine,$158.99,158.99,Burgundy (Chardonnay)
+Domaine de Marcoux - Châteauneuf-du-Pape Vieilles Vignes,Domaine de Marcoux,2020,750ml,Red Wine,$155.99,155.99,"Rhone Valley (WA: 97-99, WS: 95)"
+Chateau Clerc Milon,Chateau Clerc Milon,2005,750ml,Red Wine,$128.99,128.99,"Pauillac (JD: 96, WS: 95)"
+Domaine Bertagna - Vougeot Les Cras 1er Cru,Domaine Bertagna,2022,750ml,Red Wine,$134.99,134.99,Burgundy (Pinot Noir)
+Château Gazin,Château Gazin,1970,750ml,Red Wine,$134.99,134.99,Pomerol (Bordeaux Blend)
+Domaine Roulot - Auxey Duresses 1er Cru Rouge,Domaine Roulot,2022,750ml,Red Wine,$134.99,134.99,Burgundy (Pinot Noir)
+A.F. Gros - Aloxe Corton 1er Cru Les Valozieres,A.F. Gros,2022,750ml,Red Wine,$134.99,134.99,Burgundy (Pinot Noir)
+Lucien Boillot - Gevrey Chambertin Les Evocelles,Lucien Boillot,2018,750ml,Red Wine,$134.99,134.99,Burgundy (Pinot Noir)
+Château Rieussec,Château Rieussec,2010,750ml,White Wine,$134.99,134.99,"Sauternes (WA: 96, WE: 94-96)"
+Château Cantenac-Brown,Château Cantenac-Brown,1966,750ml,Red Wine,$134.99,134.99,Margaux
+Lucien Boillot - Nuits-St Georges 1er Cru Les Pruliers,Lucien Boillot,2017,750ml,Red Wine,$134.99,134.99,Burgundy (Pinot Noir)
+Chateau Pavie Decesse,Chateau Pavie Decesse,2021,750ml,Red Wine,$129.99,129.99,Saint Emilion (Bordeaux Red Blend)
+Nicolas Feuillatte - Cuvée Palmes d'Or Brut,Nicolas Feuillatte,1998,750ml,Sparkling Wine,$134.99,134.99,Champagne
+Château Le Bon-Pasteur,Château Le Bon-Pasteur,2009,750ml,Red Wine,$109.99,109.99,"Pomerol (WA: 94, WE: 93)"
+Château Latour à Pomerol,Château Latour à Pomerol,1999,750ml,Red Wine,$149.99,149.99,Pomerol (Bordeaux Blend)
+Olivier Leflaive - Chassagne Montrachet Houilleres,Olivier Leflaive,2018,750ml,White Wine,$134.99,134.99,Burgundy (Chardonnay)
+Clos Saint Jean - Chateauneuf du Pape Deus Ex Machina,Clos Saint Jean,2022,750ml,Red Wine,$129.99,129.99,"Rhone Valley (WS: 97, JD: 97)"
+Chateau Le Gay,Chateau Le Gay,2018,750ml,Red Wine,$142.99,142.99,"Pomerol (JD: 97, JS: 97)"
+Chateau d'Issan,Chateau d'Issan,2010,750ml,Red Wine,$117.99,117.99,"Margaux (WE: 96, JD: 96)"
+Chateau Monbousquet,Chateau Monbousquet,2000,750ml,Red Wine,$139.99,139.99,Saint Emilion (Bordeaux Blend)
+Château Guiraud,Château Guiraud,1990,750ml,White Wine,$125.99,125.99,Sauternes (Bordeaux Blend)
+Château Pape Clément,Château Pape Clément,2016,750ml,Red Wine,$112.99,112.99,"Pessac-Léognan (JS: 98, JD: 97)"
+Domaine Laroche - Chablis Les Clos Grand Cru,Domaine Laroche,2016,750ml,White Wine,$124.99,124.99,"Chablis (V: 94, WA: 91+)"
+Domaine Parent - Pommard Les Épenots 1er Cru,Domaine Parent,2016,750ml,Red Wine,$125.99,125.99,Burgundy (Pinot Noir)
+Bertagna - Vosne-Romanée Les Beaux Monts,Bertagna,2022,750ml,Red Wine,$125.99,125.99,Burgundy (Pinot Noir)
+Chateau Pavie - Aromes De Pavie,Chateau Pavie,2016,750ml,Red Wine,$104.99,104.99,"St. Emilion (WE: 94, JD: 94)"
+Pauillac De Chateau Latour,Pauillac De Chateau Latour,2018,750ml,Red Wine,$102.99,102.99,"Pauillac (JD: 93, WS: 92)"
+William Fevre - Chablis Grand Cru Bougros,William Fevre,2021,750ml,White Wine,$125.99,125.99,"Chablis (WA: 94, WS: 93)"
+Domaine Leflaive - Pouilly Fuisse,Domaine Leflaive,2017,750ml,White Wine,$125.99,125.99,Burgundy (WA: 91)
+Clos Saint Jean - Chateauneuf du Pape Deus Ex Machina,Clos Saint Jean,2004,750ml,Red Wine,$125.99,125.99,Rhone Valley (WA: 96)
+Château Pichon-Longueville-Baron,Château Pichon-Longueville-Baron,2021,750ml,Red Wine,$139.99,139.99,"Pauillac (WE: 96, WA: 95)"
+Domaine Francois Gaunoux - Meursault Le Clos De Taraux,Domaine Francois Gaunoux,2022,750ml,White Wine,$125.99,125.99,Burgundy (Chardonnay)
+Jean-Marie Fourrier - Vigne Comte de Chapelle Puligny Montrachet,Jean-Marie Fourrier,2022,750ml,White Wine,$125.99,125.99,Burgundy (Chardonnay)
+Hubert Lignier - Morey St Denis Trilogie,Hubert Lignier,2022,750ml,Red Wine,$125.99,125.99,Burgundy (Pinot Noir)
+Domaine Bertagna - Chambolle Musigny Les Plantes,Domaine Bertagna,2022,750ml,Red Wine,$125.99,125.99,Burgundy (Pinot Noir)
+Hubert Lignier - Volnay,Hubert Lignier,2022,750ml,Red Wine,$125.99,125.99,Burgundy (Pinot Noir)
+Gosset - Grande Réserve Brut Champagne,Gosset,NV,1.5L,Sparkling Wine,$121.49,121.49,Champagne (WA: 92)
+Domaine De Villaine - Rully Blanc 1er Cru,Domaine De Villaine,2021,750ml,White Wine,$110.99,110.99,Burgundy (Chardonnay)
+Domaine Rene Leclerc - Gevrey-Chambertin 1er Cru Combe aux Moines,Domaine Rene Leclerc,2014,750ml,Red Wine,$116.99,116.99,Burgundy (Pinot Noir)
+Blason de L'Evangile,Blason de L'Evangile,2018,750ml,Red Wine,$116.99,116.99,Pomerol (WA: 93)
+Château Troplong-Mondot,Château Troplong-Mondot,2017,750ml,Red Wine,$95.99,95.99,"St.-Emilion (V: 98+, WE: 96)"
+Olivier Leflaive - Chassagne Montrachet Blanc,Olivier Leflaive,2020,750ml,White Wine,$94.99,94.99,Burgundy (Chardonnay)
+Hospices De Beaune - Beaune 1er Cru Montrevenots,Hospices De Beaune,2019,750ml,Red Wine,$116.99,116.99,Burgundy (Pinot Noir)
+Chateau Grand Puy Lacoste,Chateau Grand Puy Lacoste,2007,750ml,Red Wine,$91.99,91.99,"Pauillac (D: 93, WA: 91)"
+Bertagna - Nuits-St.-Georges Les Murgers,Bertagna,2018,750ml,Red Wine,$116.99,116.99,Burgundy (Pinot Noir)
+Ruinart - Singulier Blanc de Blancs Brut Natural 18th Edition,Ruinart,NV,750ml,Sparkling Wine,$116.99,116.99,Champagne
+Château Rieussec,Château Rieussec,2009,750ml,White Wine,$116.99,116.99,"Sauternes (WA: 98, WE: 95)"
+Louis Roederer - Brut Blanc de Blancs,Louis Roederer,2015,750ml,Sparkling Wine,$116.99,116.99,Champagne
+Hubert Lignier - Gevrey Chambertin Regnard,Hubert Lignier,2022,750ml,Red Wine,$116.99,116.99,Burgundy (Pinot Noir)
+Domaine de la Janasse - Châteauneuf-du-Pape,Domaine de la Janasse,2012,750ml,Red Wine,$116.99,116.99,Rhone Valley
+Lucien Boillot - Gevrey Chambertin 1er Cru La Perriere,Lucien Boillot,2019,750ml,Red Wine,$116.99,116.99,Burgundy (Pinot Noir)
+Jean-Marie Fourrier - Vigne Comte de Chapelle Meursault,Jean-Marie Fourrier,2022,750ml,White Wine,$116.99,116.99,Burgundy (Chardonnay)
+Château Brane-Cantenac,Château Brane-Cantenac,2016,750ml,Red Wine,$116.99,116.99,Margaux (Bordeaux Blend)
+Louis Roederer - Brut Nature Rose Philippe Starck,Louis Roederer,2015,750ml,Sparkling Wine,$116.99,116.99,Champagne
+Domaine Vacheron - Le Pave Sancerre,Domaine Vacheron,2022,750ml,White Wine,$116.99,116.99,Loire Valley (JS: 96)
+Château Pontet-Canet,Château Pontet-Canet,2017,750ml,Red Wine,$107.99,107.99,"Pauillac (WA: 96, WE: 96)"
+Olivier Leflaive - Meursault,Olivier Leflaive,2020,750ml,White Wine,$116.99,116.99,Burgundy (Chardonnay)
+Chateau Beychevelle,Chateau Beychevelle,2019,750ml,Red Wine,$105.99,105.99,"Saint-Julien (WE: 96, JS: 96)"
+Domaine Roulot - Bourgogne Blanc,Domaine Roulot,2023,750ml,White Wine,$116.99,116.99,Burgundy (Chardonnay)
+Lucien Boillot - Pommard Les Fremiers,Lucien Boillot,2015,750ml,Red Wine,$109.99,109.99,Burgundy (Pinot Noir)
+Domaine Leflaive Esprit Pouilly Fuisse,Domaine Leflaive Esprit Pouilly Fuisse,2018,750ml,White Wine,$116.99,116.99,Burgundy (Chardonnay)
+Grand Veneur - Chateauneuf Du Pape Vielle Vignes,Grand Veneur,2012,750ml,Red Wine,$112.49,112.49,Rhone Valley (Rhone Blend)
+Domaine Leflaive - Esprit Pouilly Fuisse Clos Reyssier,Domaine Leflaive,2018,750ml,White Wine,$123.99,123.99,Burgundy
+Château Léoville Poyferré,Château Léoville Poyferré,2018,750ml,Red Wine,$122.99,122.99,"St.-Julien (JD: 100, WA: 97)"
+Château Duhart-Milon Rothschild,Château Duhart-Milon Rothschild,2020,750ml,Red Wine,$72.99,72.99,"Pauillac (WE: 94, WA: 94)"
+Domaine des Croix - Beaune 1er Cru Les Cents Vignes,Domaine des Croix,2022,750ml,Red Wine,$99.99,99.99,Burgundy (WA: 92)
+Moet & Chandon - Grand Vintage Rose,Moet & Chandon,2015,750ml,Sparkling Wine,$119.99,119.99,Champagne
+Faiveley - Puligny Montrachet,Faiveley,2023,750ml,White Wine,$109.99,109.99,Burgundy
+Louis Roederer - Brut Nature Philippe Starck,Louis Roederer,2015,750ml,Sparkling Wine,$107.99,107.99,Champagne
+Yann Durieux - La Gouzotte Rouge,Yann Durieux,2021,750ml,Red Wine,$107.99,107.99,Burgundy (Pinot Noir)
+Domaine Leflaive - Macon Verze Les Chenes,Domaine Leflaive,2023,750ml,White Wine,$107.99,107.99,Burgundy (Chardonnay)
+Château Léoville Barton,Château Léoville Barton,2018,750ml,Red Wine,$98.99,98.99,"St.-Julien (WS: 97, WE: 97)"
+Ramonet - Chassagne Montrachet Rouge,Ramonet,2021,750ml,Red Wine,$107.99,107.99,Burgundy (Chardonnay)
+Lucien Boillot - Gevrey Chambertin 1er Cru Les Corbeaux,Lucien Boillot,2017,750ml,Red Wine,$107.99,107.99,Burgundy (Pinot Noir)
+Château Smith-Haut-Lafitte,Château Smith-Haut-Lafitte,2017,750ml,Red Wine,$98.99,98.99,"Pessac-Léognan (WE: 97, JS: 97)"
+Chateau Lascombes,Chateau Lascombes,2018,750ml,Red Wine,$107.99,107.99,"Margaux (JS: 95, WE: 94)"
+Domaine du Vieux Télégraphe - Châteauneuf-du-Pape,Domaine du Vieux Télégraphe,2021,750ml,Red Wine,$107.99,107.99,"Rhone (WS: 95, V: 95)"
+Olivier Leflaive Frères - Puligny-Montrachet,Olivier Leflaive Frères,2023,750ml,White Wine,$113.99,113.99,Burgundy (Chardonnay)
+Lucien Boillot - Volnay 1er Cru Clos Des Angles,Lucien Boillot,2019,750ml,Red Wine,$99.99,99.99,Burgundy (Pinot Noir)
+Chateau Canon La Gaffeliere,Chateau Canon La Gaffeliere,2018,750ml,Red Wine,$107.99,107.99,"Saint Emilion (V: 97, WS: 96)"
+Domaine de Beaurenard - Châteauneuf-du-Pape Boisrenard,Domaine de Beaurenard,2021,750ml,Red Wine,$98.99,98.99,"Rhone Valley (WA: 94, JD: 94)"
+Domaine de la Mordorée - Châteauneuf-du-Pape Cuvée Reine des Bois,Domaine de la Mordorée,2009,750ml,Red Wine,$107.99,107.99,Rhone Valley
+Domaine Chavy-Chouet - Meursault Les Casse-Tetes,Domaine Chavy-Chouet,2020,750ml,White Wine,$107.99,107.99,Burgundy (Chardonnay)
+Jean Pascal - Puligny Montrachet,Jean Pascal,2019,750ml,White Wine,$107.99,107.99,Burgundy (Chardonnay)
+Famille Isabel Ferrando Châteauneuf-du-Pape Rouge,Famille Isabel Ferrando Châteauneuf-du-Pape Rouge,2020,750ml,Red Wine,$104.39,104.39,"Rhone Valley (JD: 98, WA: 95)"
+Domaine de la Janasse - Châteauneuf-du-Pape,Domaine de la Janasse,2011,750ml,Red Wine,$104.39,104.39,Rhone
+Domaine de Beaurenard - Châteauneuf-du-Pape Boisrenard,Domaine de Beaurenard,2020,750ml,Red Wine,$88.99,88.99,"Rhone Valley (JD: 99, WE: 96)"
+Gosset - Brut Champagne Grand Millésime,Gosset,2015,750ml,Sparkling Wine,$83.99,83.99,"Champagne (WS: 94, WE: 94)"
+Méo-Camuzet - Volnay,Méo-Camuzet,2019,750ml,Red Wine,$98.99,98.99,Burgundy (Pinot Noir)
+La Bouche Du Roi - Chardonnay La Voie Roy,La Bouche Du Roi,2023,750ml,Red Wine,$98.99,98.99,Burgundy
+Chateau Grand Puy Lacoste,Chateau Grand Puy Lacoste,2022,750ml,Red Wine,$98.99,98.99,"Pauillac (JS: 97, WS: 96)"
+Chateau Grand Puy Lacoste,Chateau Grand Puy Lacoste,2018,750ml,Red Wine,$98.99,98.99,"Pauillac (V: 96, D: 95)"
+Domaine de Beaurenard - Chateauneuf-du-Pape Boisrenard Blanc,Domaine de Beaurenard,2019,750ml,White Wine,$98.99,98.99,"Rhone Valley (D: 96, WS: 95)"
+Thibault Liger Belair - Nuits Saint Georges La Charmotte,Thibault Liger Belair,2019,750ml,Red Wine,$109.99,109.99,Burgundy (Pinot Noir)
+Faiveley - Chassagne Montrachet,Faiveley,2023,750ml,White Wine,$98.99,98.99,Burgundy
+Domaine Faiveley - Gevrey-Chambertin Vieilles Vignes,Domaine Faiveley,2022,750ml,Red Wine,$94.99,94.99,Burgundy (WS: 91)
+Barons de Rothschild - Champagne Concordia Brut,Barons de Rothschild,NV,750ml,Sparkling Wine,$98.99,98.99,Champagne (Kosher)
+Moët & Chandon - Brut Grand Vintage,Moët & Chandon,2015,750ml,Sparkling Wine,$98.99,98.99,Champagne
+Anseillan - Pauillac,Anseillan,2020,750ml,Red Wine,$94.99,94.99,Pauillac (Bordeaux Blend)
+Domaine Du Pegau - Châteauneuf-du-Pape Cuvée Réservée,Domaine Du Pegau,2012,750ml,Red Wine,$98.99,98.99,Rhone Valley (Rhone Blend)
+Le Clos Peyrassol Red,Le Clos Peyrassol Red,2019,750ml,Red Wine,$98.99,98.99,Provence
+Faiveley - Meursault,Faiveley,2023,750ml,White Wine,$89.99,89.99,Burgundy
+Château Guiraud,Château Guiraud,2001,750ml,White Wine,$98.99,98.99,Sauternes (WA: 92)
+Michel Niellon - Chassagne Montrachet Rouge,Michel Niellon,2022,750ml,Red Wine,$98.99,98.99,Burgundy (Pinot Noir)
+Chateau Rauzan Segla,Chateau Rauzan Segla,2014,750ml,Red Wine,$88.99,88.99,"Margaux (WE: 95, WA: 93)"
+Chateau Cormey Figeac,Chateau Cormey Figeac,1962,375ml,Red Wine,$89.99,89.99,St Emilion (Bordeaux Red Blend)
+Château Langoa Barton,Château Langoa Barton,2014,750ml,Red Wine,$89.99,89.99,"St.-Julien (JS: 94, WS: 93)"
+Chêne Bleu - Heloise Red,Chêne Bleu,2009,750ml,Red Wine,$89.99,89.99,"Southern Rhone (WS: 92, V: 92)"
+Geantet-Pansiot - Gevrey-Chambertin Vieilles Vignes,Geantet-Pansiot,2021,750ml,Red Wine,$89.99,89.99,Burgundy (Pinot Noir)
+Château Ducru-Beaucaillou,Château Ducru-Beaucaillou,1966,375ml,Red Wine,$89.99,89.99,St.-Julien (Bordeaux Blend)
+Château Lagrange,Château Lagrange,1970,375ml,Red Wine,$89.99,89.99,St.-Julien (Bordeaux Blend)
+Camille Giroud - Morey St Denis Premier Cru Clos des Godelles,Camille Giroud,2019,750ml,Red Wine,$89.99,89.99,Burgundy (Pinot Noir)
+Bruno Lorenzon - Montagny 1er Cru Le Choix Du Roi Blanc,Bruno Lorenzon,2022,750ml,White Wine,$89.99,89.99,Burgundy (Chardonnay)
+Château de Beaucastel - Châteauneuf-du-Pape,Château de Beaucastel,2021,750ml,Red Wine,$89.99,89.99,"Rhone Valley (WS: 94, WA: 94)"
+Château Guiraud,Château Guiraud,2011,750ml,White Wine,$89.99,89.99,"Sauternes (WE: 95, WA: 92)"
+Valentin Leflaive - Blanc De Blanc Le Mesnil 15 50,Valentin Leflaive,2015,750ml,White Wine,$79.99,79.99,Champagne
+Château Suduiraut,Château Suduiraut,1999,750ml,White Wine,$89.99,89.99,Sauternes (Bordeaux Blend)
+Valentin Leflaive - Blanc De Blanc Avize 16 40,Valentin Leflaive,2016,750ml,White Wine,$79.99,79.99,Champagne
+Chateau Gruaud Larose,Chateau Gruaud Larose,2020,750ml,Red Wine,$89.99,89.99,"Saint Julien (D: 98, WA: 96)"
+Château Rieussec,Château Rieussec,1998,750ml,White Wine,$89.99,89.99,Sauternes (Bordeaux Blend)
+Chateau Grand Puy Lacoste,Chateau Grand Puy Lacoste,2020,750ml,Red Wine,$73.99,73.99,"Pauillac (JS: 97, WS: 96)"
+Château Petit-Figeac,Château Petit-Figeac,2016,750ml,Red Wine,$89.99,89.99,"St.-Emilion (JD: 94, WE: 93-95)"
+Domaine De Chevalier,Domaine De Chevalier,2022,750ml,Red Wine,$89.99,89.99,"Pessac-Leognan (JS: 98, JD: 98)"
+Chateau d'Armailhac,Chateau d'Armailhac,2010,750ml,Red Wine,$99.99,99.99,"Pauillac (D: 94, WS: 93)"
+Chene Bleu - Abelard,Chene Bleu,2007,750ml,Red Wine,$88.99,88.99,Southern Rhone (WS: 92)
+Chateau Talbot,Chateau Talbot,2022,750ml,Red Wine,$78.99,78.99,"St.-Julien (WS: 96, JS: 96)"
+Les Heritiers - Gevrey Chambertin Les Crais,Les Heritiers,2020,750ml,Red Wine,$89.99,89.99,Burgundy (Pinot Noir)
+Domaine Maillard - Corton Grand Cru,Domaine Maillard,2017,750ml,Red Wine,$99.99,99.99,Burgundy (Pinot Noir)
+Lucien Boillot - Volnay 1er Cru Les Brouillards,Lucien Boillot,2017,750ml,Red Wine,$89.99,89.99,Burgundy (Pinot Noir)
+Domaine Dugat Py - Hautes Cotes De Nuits Blanc,Domaine Dugat Py,2022,750ml,White Wine,$89.99,89.99,Burgundy (Chardonnay)
+Château Brane-Cantenac,Château Brane-Cantenac,2012,750ml,Red Wine,$89.99,89.99,"Margaux (WE: 92-94, WA: 90-92)"
+Chateau La Couspaude,Chateau La Couspaude,1998,750ml,Red Wine,$99.99,99.99,Saint Emilion (Bordeaux Red)
+Domaine Faiveley - Gevrey-Chambertin Vieilles Vignes,Domaine Faiveley,2021,750ml,Red Wine,$77.99,77.99,"Burgundy (WS: 91, JS: 91)"
+Dremont & Savart - Ephemere 017 Bouzy Grand Cru,Dremont & Savart,NV,750ml,Sparkling Wine,$89.99,89.99,Champagne
+Antonin Guyon - Aloxe Corton Les Fournières,Antonin Guyon,2020,750ml,Red Wine,$73.99,73.99,Burgundy (WE: 95)
+Chateau Gruaud Larose,Chateau Gruaud Larose,2019,750ml,Red Wine,$89.99,89.99,"Saint Julien (WA: 95+, JD: 94)"
+Domaine Robert-Denogent - Pouilly Fuisse 1er Cru Ver Cras,Domaine Robert-Denogent,2021,750ml,White Wine,$89.99,89.99,Burgundy (Chardonnay)
+Louis Latour - Chassagne Montrachet,Louis Latour,2019,750ml,White Wine,$89.99,89.99,"Burgundy (JS: 94, WE: 93)"
+Dominique Lafon - 1er Cru Beaune Les Avaux,Dominique Lafon,2020,750ml,Red Wine,$81.99,81.99,Burgundy (Pinot Noir)
+Louis Roederer - Brut Champagne Vintage,Louis Roederer,2016,750ml,Sparkling Wine,$89.99,89.99,Champagne
+Chene Bleu - Abelard,Chene Bleu,2009,750ml,Red Wine,$79.99,79.99,"Southern Rhone (V: 92, WS: 91)"
+Philippe Bouzereu - Maursault Les Grands Charrons,Philippe Bouzereu,2022,750ml,Red Wine,$89.99,89.99,Burgundy (Chardonnay)
+Chene Bleu - Abelard,Chene Bleu,2006,750ml,Red Wine,$79.99,79.99,Bordeaux (Rhone Red Blend)
+Chateau Malescot St.Exupery,Chateau Malescot St.Exupery,2022,750ml,Red Wine,$89.99,89.99,"Margaux (JS: 97, WS: 96)"
+Pierre Ponnelle - Nuits St Georges,Pierre Ponnelle,1983,750ml,Red Wine,$89.99,89.99,Burgundy (Pinot Noir)
+Domaine du Vieux Télégraphe - Châteauneuf-du-Pape White,Domaine du Vieux Télégraphe,2020,750ml,Red Wine,$89.99,89.99,"Rhone (WS: 95, WA: 93)"
+Chêne Bleu - Heloise Red,Chêne Bleu,2006,750ml,Red Wine,$89.99,89.99,Southern Rhone (Syrah/Grenache)
+Château Duhart-Milon Rothschild,Château Duhart-Milon Rothschild,2016,750ml,Red Wine,$99.99,99.99,"Pauillac (JS: 95, JD: 94)"
+Château de Beaucastel - Châteauneuf-du-Pape,Château de Beaucastel,2022,750ml,Red Wine,$79.99,79.99,"Rhone Valley (JS: 97, D: 96)"
+A.F. Gros - Signature Mathias Parent,A.F. Gros,2022,750ml,Red Wine,$89.99,89.99,Burgundy (Pinot Noir)
+William Fevre - Chablis Premier Cru Vaulorent,William Fevre,2021,750ml,White Wine,$89.99,89.99,"Chablis (D: 95, WA: 94)"
+Michel Niellon - Chassagne Montrachet Rouge,Michel Niellon,2021,750ml,Red Wine,$89.99,89.99,Burgundy (Pinot Noir)
+Gosset - Brut 12 Ans de Cave à minima,Gosset,2012,750ml,Sparkling Wine,$99.99,99.99,"Champagne (WS: 93, WA: 93)"
+Château Ducru-Beaucaillou,Château Ducru-Beaucaillou,1964,375ml,Red Wine,$89.99,89.99,St.-Julien (Bordeaux Blend)
+Château Canon,Château Canon,1970,375ml,Red Wine,$89.99,89.99,St.-Emilion (Bordeaux Blend)
+Chateau Belair,Chateau Belair,2005,750ml,Red Wine,$99.99,99.99,St.-Emilion (Bordeaux Blend)
+Domaine Antonin Guyon - Volnay 1er Cru Clos des Chénes,Domaine Antonin Guyon,2019,750ml,Red Wine,$99.99,99.99,"Burgundy (WE: 95, BH: 93)"
+Château Duhart-Milon Rothschild,Château Duhart-Milon Rothschild,2018,750ml,Red Wine,$99.99,99.99,"Pauillac (JS: 96, D: 95)"
+Morin Pere & Fils Puligny Montrachet,Morin Pere & Fils Puligny Montrachet,2021,750ml,White Wine,$89.99,89.99,Burgundy (Chardonnay)
+Domaine Leflaive - Leflaive and Associes Bourgogne Blanc,Domaine Leflaive,2020,750ml,White Wine,$99.99,99.99,Burgundy (Chardonnay)
+Domaine Vacheron - Les Garennes Sancerre,Domaine Vacheron,2022,750ml,White Wine,$89.99,89.99,Loire Valley (Sauvignon Blanc)
+Chateau Lascombes,Chateau Lascombes,2012,750ml,Red Wine,$89.09,89.09,Margaux (WA: 94)
+Billecart-Salmon - Brut Rose Champagne,Billecart-Salmon,NV,750ml,Sparkling Wine,$86.39,86.39,"Champagne (WW: 96, JD: 94)"
+Jean-Marc Boillot - Beaune 1er Cru Epenottes,Jean-Marc Boillot,2020,750ml,Red Wine,$88.99,88.99,Burgundy (Pinot Noir)
+La Gravette De Certan,La Gravette De Certan,2020,750ml,Red Wine,$77.99,77.99,"Pomerol (JS: 96, JD: 95)"
+Louis Roederer - Brut Rose Champagne Vintage,Louis Roederer,2017,750ml,Sparkling Wine,$86.39,86.39,Champagne
+Lucien Boillot - Pommard,Lucien Boillot,2019,750ml,Red Wine,$85.49,85.49,Burgundy (Pinot Noir)
+Ruinart - Brut Rosé Champagne,Ruinart,NV,750ml,Sparkling Wine,$93.99,93.99,Champagne
+Chateau d'Armailhac,Chateau d'Armailhac,2018,750ml,Red Wine,$80.99,80.99,"Pauillac (JS: 95, D: 94)"
+Domaine du Nozay - Clos du Nozay Sancerre,Domaine du Nozay,2023,750ml,White Wine,$80.99,80.99,Sancerre
+Chateau Lynch Bages - Blanc De Lynch Bages,Chateau Lynch Bages,2020,750ml,White Wine,$80.99,80.99,"Pauillac (JS: 95, WA: 90-92)"
+Louis Barruol Cote Rotie La Boisselee,Louis Barruol Cote Rotie La Boisselee,2015,750ml,Red Wine,$80.99,80.99,Rhone Valley (Syrah)
+Laurent-Perrier - Brut Rosé Champagne,Laurent-Perrier,NV,750ml,Sparkling Wine,$89.99,89.99,"Champagne (D: 95, WE: 94)"
+Billecart Salmon - Brut Le Sous Bois,Billecart Salmon,NV,750ml,Sparkling Wine,$89.99,89.99,Champagne (WE: 93)
+Domaine Bois de Boursan - Châteauneuf-du-Pape Cuvée des Felix,Domaine Bois de Boursan,2005,750ml,Red Wine,$80.99,80.99,Southern Rhone
+Chateau D Esclan - Rose Garrus,Chateau D Esclan,NV,750ml,Rose Wine,$89.99,89.99,Cotes de Provence
+Chateau Belair,Chateau Belair,2004,750ml,Red Wine,$89.99,89.99,St.-Emilion (Bordeaux Blend)
+Domaine des Bosquets - Gigondas Le Lieu Dit,Domaine des Bosquets,2020,750ml,Red Wine,$80.99,80.99,"Rhone Valley (JD: 97, WS: 95)"
+Chateau Talbot,Chateau Talbot,2015,750ml,Red Wine,$79.99,79.99,St-Julien (WE: 94)
+Chateau Clerc Milon,Chateau Clerc Milon,2019,750ml,Red Wine,$89.99,89.99,"Pauillac (WE: 96, JS: 96)"
+Chateau Peyrassol Rose,Chateau Peyrassol Rose,2020,1.5L,Rose Wine,$80.99,80.99,"Provence (V: 92, WA: 91)"
+Lucien Boillot - Gevrey Chambertin,Lucien Boillot,2019,750ml,Red Wine,$80.99,80.99,Burgundy (Pinot Noir)
+Château La Grave à Pomerol,Château La Grave à Pomerol,2009,750ml,Red Wine,$89.99,89.99,Pomerol (Bordeaux Blend)
+Domaine de Beaurenard - Châteauneuf-du-Pape Boisrenard,Domaine de Beaurenard,2017,750ml,Red Wine,$78.99,78.99,"Rhone Valley (JD: 97+, WA: 96)"
+Chêne Bleu - Heloise Red,Chêne Bleu,2011,750ml,Red Wine,$86.99,86.99,"Southern Rhone (JD: 96, WS: 93)"
+Château Brane-Cantenac,Château Brane-Cantenac,2019,750ml,Red Wine,$83.99,83.99,"Margaux (WA: 97, JD: 96)"
+A. & P. de Villaine - Mercurey Les Montots,A. & P. de Villaine,2022,750ml,Red Wine,$80.99,80.99,Burgundy (Pinot Noir)
+Domaine Genot-Boulanger - Pommard Vieilles Vignes,Domaine Genot-Boulanger,2022,750ml,Red Wine,$89.99,89.99,Burgundy (Pinot Noir)
+Chateau La Croix De Millorit,Chateau La Croix De Millorit,1982,750ml,Red Wine,$80.99,80.99,Cotes De Bourg (Bordeaux Red Blend)
+Clos Saint Jean - La Combe Des Fous Chateauneuf Du Pape,Clos Saint Jean,2004,750ml,Red Wine,$80.99,80.99,Rhone Valley (WA: 94)
+Jean Louis Chave Selection - Hermitage Farconnet,Jean Louis Chave Selection,2021,750ml,Red Wine,$69.99,69.99,Rhone (Syrah)
+Ramonet - Bourgogne Aligoté,Ramonet,2022,750ml,White Wine,$80.99,80.99,Burgundy (Aligote)
+Domaine Saint Prefert - Châteauneuf-du-Pape Reserve Auguste Favier,Domaine Saint Prefert,2012,750ml,Red Wine,$80.99,80.99,Rhone Valley (WA: 94)
+Domaine Jessiaume - Volnay 1er Cru Brouillards,Domaine Jessiaume,2021,750ml,Red Wine,$70.99,70.99,Burgundy (Pinot Noir)
+Roc De Cambes - Cotes De Bourg Rouge,Roc De Cambes,2019,750ml,Red Wine,$75.99,75.99,Cotes De Bourg (Bordeaux Red Blend)
+Louis Jadot - Nuits-St.-Georges,Louis Jadot,1983,750ml,Red Wine,$80.99,80.99,Burgundy (Pinot Noir)
+Ropiteau Frères - Meursault,Ropiteau Frères,2021,750ml,White Wine,$80.99,80.99,Burgundy (Chardonnay)
+Veuve Clicquot - Rich Rose,Veuve Clicquot,NV,750ml,Sparkling Wine,$77.39,77.39,Champagne
+Chateau d'Armailhac,Chateau d'Armailhac,2011,750ml,Red Wine,$85.99,85.99,"Pauillac (D: 92, WE: 91)"
+Chateau Pichon Longueville - Reserve de la Comtesse Pauillac,Chateau Pichon Longueville,2016,750ml,Red Wine,$69.99,69.99,"Pauillac (JS: 94, JD: 92)"
+Gosset Grand - Blanc de Blancs Brut Champagne,Gosset Grand,NV,750ml,Sparkling Wine,$85.99,85.99,Champagne
+Chateau Gazin,Chateau Gazin,2021,750ml,Red Wine,$76.99,76.99,"Pomerol (JS: 94, WA: 93)"
+Billaud Simon - Chables 1er Cru Fourchaume,Billaud Simon,2021,750ml,White Wine,$76.49,76.49,Chablis
+Billaud Simon Chablis Les Vaillons 1er Cru,Billaud Simon Chablis Les Vaillons 1er Cru,2023,750ml,White Wine,$73.99,73.99,Chablis (Chardonnay)
+Domaine Gerard Thomas - Puligny Montrachet Le Trezin,Domaine Gerard Thomas,2022,750ml,White Wine,$76.49,76.49,Burgundy (Chardonnay)
+Domaine de Beaurenard - Châteauneuf-du-Pape Boisrenard,Domaine de Beaurenard,2005,750ml,Red Wine,$74.69,74.69,Rhone Valley
+Veuve Clicquot - Rich,Veuve Clicquot,NV,750ml,Sparkling Wine,$71.99,71.99,Champagne
+Arnaud Lambert - Saumur Blanc La Rue Breze,Arnaud Lambert,2020,750ml,White Wine,$69.99,69.99,Loire (Chenin Blanc)
+Moët & Chandon - Rosé Champagne Nectar Impérial,Moët & Chandon,NV,750ml,Sparkling Wine,$71.99,71.99,Champagne
+Domaine Mikulski - Hautes Cotes De Beaune Chardonnay,Domaine Mikulski,2023,750ml,White Wine,$71.99,71.99,Burgundy (Chardonnay)
+Domaine Saint Prefert - Châteauneuf-du-Pape,Domaine Saint Prefert,2010,750ml,Red Wine,$71.99,71.99,Rhone Valley (WA: 92)
+Domaine Chandon De Briailles - Pernand Vergelesses Les Vergelesses 1er Cru,Domaine Chandon De Briailles,NV,750ml,Red Wine,$79.99,79.99,Burgundy (Pinot Noir)
+Moët & Chandon - Ice Imperial Brut,Moët & Chandon,NV,750ml,Sparkling Wine,$71.99,71.99,Champagne
+Domaine Leflaive - Macon Verze Maconnais,Domaine Leflaive,2023,750ml,White Wine,$61.99,61.99,Burgundy (Chardonnay)
+Domaine Roulot - Bourgogne Aligote,Domaine Roulot,2023,750ml,White Wine,$71.99,71.99,Burgundy (Chardonnay)
+Billaud Simon Chablis Les Vaillons 1er Cru,Billaud Simon Chablis Les Vaillons 1er Cru,2021,750ml,White Wine,$71.99,71.99,Chablis
+Domaine Georges Lignier - Gevrey Chambertin,Domaine Georges Lignier,2019,750ml,Red Wine,$67.99,67.99,Burgundy (Pinot Noir)
+Domaines Peyronie - Chateau Pauillac - Pauillac,Domaines Peyronie,2019,750ml,Red Wine,$79.99,79.99,Pauillac (JS: 96)
+Chêne Bleu - Rose,Chêne Bleu,NV,1.5L,Rose Wine,$79.99,79.99,Provence
+Bruno Lorenzon - Mercurey Le Chapitre,Bruno Lorenzon,2022,750ml,Red Wine,$71.99,71.99,Burgundy (Pinot Noir)
+Chateau Monbousquet - Saint Emilion Grand Cru,Chateau Monbousquet,2015,750ml,Red Wine,$78.99,78.99,"St.-Emilion (WA: 93, WE: 93)"
+Chateau Lascombes - Margaux,Chateau Lascombes,2020,750ml,Red Wine,$79.99,79.99,"Margaux (WE: 95, JS: 95)"
+Chateau Talbot - St-Julien Bordeaux Red Blend,Chateau Talbot,2020,750ml,Red Wine,$63.99,63.99,"St-Julien (WS: 95, WE: 95)"
+Château Lagrange - St.-Julien,Château Lagrange,2014,750ml,Red Wine,$68.99,68.99,"St.-Julien (WE: 94, JS: 93)"
+Pierre Peters - Cuvee Reserve Blanc De Blanc,Pierre Peters,NV,750ml,Sparkling Wine,$71.99,71.99,Champagne (Chardonnay)
+Chateau La Croix Toulifaut - Pomerol,Chateau La Croix Toulifaut,2007,750ml,Red Wine,$71.99,71.99,Pomerol (Merlot & Cabernet Franc)
+Château Langoa Barton - St.-Julien,Château Langoa Barton,2012,750ml,Red Wine,$79.99,79.99,"St.-Julien (WE: 93, WA: 90)"
+Clos du Marquis - Saint Julien,Clos du Marquis,2011,750ml,Red Wine,$69.99,69.99,"Saint Julien (WE: 93, JS: 92)"
+Domaine Lucien Jacob - Beaune Les Toussaints 1er Cru,Domaine Lucien Jacob,1999,750ml,Red Wine,$71.99,71.99,Burgundy (Pinot Noir)
+Hubert Lignier - Monthelie,Hubert Lignier,2022,750ml,Red Wine,$71.99,71.99,Burgundy (Pinot Noir)
+Domaine Henri Gouges Nuits Saint Georges,Domaine Henri Gouges Nuits Saint Georges,2017,750ml,Red Wine,$71.99,71.99,Burgundy (WS: 93)
+Gosset - 'Grand Rose' Brut,Gosset,NV,750ml,Sparkling Wine,$79.99,79.99,"Champagne (WS: 92, WA: 92)"
+Delamotte - Brut Blanc de Blancs Champagne,Delamotte,NV,750ml,Sparkling Wine,$71.99,71.99,Champagne
+Domaine Laroche - Chablis Les Fourchaumes Vieilles Vignes,Domaine Laroche,2019,750ml,White Wine,$70.19,70.19,Chablis (Chardonnay)
+Château La Nerthe - Châteauneuf-du-Pape,Château La Nerthe,2021,750ml,Red Wine,$70.19,70.19,Rhone Valley (Rhone Blend)
+Les Pagodes De Cos By Cos D'Estournel - St Estephe,Les Pagodes De Cos By Cos D'Estournel,2006,750ml,Red Wine,$76.99,76.99,Bordeaux Blend
+Chateau des Quarts - Clos des Quarts Pouilly-Fuisse 1er Cru Aux Quarts,Chateau des Quarts,2022,750ml,White Wine,$75.99,75.99,Burgundy (Chardonnay)
+La Dame de Montrose - St.-Estèphe,La Dame de Montrose,2011,750ml,Red Wine,$75.99,75.99,Bordeaux Blend
+Chateau Lafaurie-Peyraguey - Sauternes,Chateau Lafaurie-Peyraguey,2003,750ml,White Wine,$67.49,67.49,Bordeaux Blend
+Albert Boxler - Riesling Reserve,Albert Boxler,2023,750ml,White Wine,$67.49,67.49,Alsace (Riesling)
+Familie Joly - Les Vieux Clos Savennieres,Familie Joly,2023,750ml,White Wine,$74.99,74.99,Loire Valley (Chenin Blanc)
+Domaine de Beaurenard - Châteauneuf-du-Pape,Domaine de Beaurenard,2020,750ml,Red Wine,$67.49,67.49,"Rhone Valley (WE: 95, JD: 94)"
+Yann Durieux - Love And Pif Blanc,Yann Durieux,2021,750ml,White Wine,$67.49,67.49,Burgundy (Aligote)
+Chateau Talbot - St-Julien Bordeaux Red Blend,Chateau Talbot,2019,750ml,Red Wine,$66.99,66.99,"St-Julien (WE: 96, WS: 95)"
+Château Phélan-Ségur - St.-Estèphe,Château Phélan-Ségur,2015,750ml,Red Wine,$58.99,58.99,"St.-Estèphe (WE: 93, D: 93)"
+Landot - Haut Medoc,Landot,2010,1.5L,Red Wine,$69.99,69.99,Haut Medoc (Bordeaux Blend)
+Saint Cosme - Châteauneuf-du-Pape,Saint Cosme,2020,750ml,Red Wine,$62.99,62.99,"Rhone (WS: 93, V: 92)"
+Chateau Branaire-Ducru - Saint Julien,Chateau Branaire-Ducru,2022,750ml,Red Wine,$62.99,62.99,"St Julien (D: 97, WA: 96)"
+Chateau Haut Batailley - Pauillac,Chateau Haut Batailley,2020,750ml,Red Wine,$69.99,69.99,"Pauillac (WS: 95, JD: 94)"
+Chateau de Saint Cosme - Gigondas,Chateau de Saint Cosme,2020,750ml,Red Wine,$62.99,62.99,"Rhone (WS: 94, WE: 92)"
+Valentin Leflaive - Blanc De Blanc Gr 14 45,Valentin Leflaive,2014,750ml,Sparkling Wine,$62.99,62.99,Champagne (WA: 90)
+Jean Chauvenet - Nuits-St.-Georges,Jean Chauvenet,2019,750ml,Red Wine,$58.99,58.99,Burgundy (Pinot Noir)
+Domaine Laroche - Chablis Les Vaudevey,Domaine Laroche,2021,750ml,White Wine,$53.99,53.99,"Burgundy (WS: 91, V: 90)"
+Domaine Vacheron - Sancerre,Domaine Vacheron,2024,750ml,White Wine,$62.99,62.99,Loire Valley (Sauvignon Blanc)
+Taittinger - Brut Rosé Champagne Prestige,Taittinger,NV,750ml,Sparkling Wine,$69.99,69.99,Champagne
+Chateau Maltroye - Chassagne Montrachet Rouge,Chateau Maltroye,2009,750ml,Red Wine,$62.99,62.99,Burgundy (Pinot Noir)
+Chateau d'Armailhac - Pauillac,Chateau d'Armailhac,2019,750ml,Red Wine,$69.99,69.99,"Pauillac (WE: 95, WS: 94)"
+Domaine de Beaurenard - Châteauneuf-du-Pape,Domaine de Beaurenard,2021,750ml,Red Wine,$62.99,62.99,Rhone Valley (Rhone Blend)
+Chateau De La Maltroye - Chassagne Montrachet 1er Cru Clos St Jean Rouge,Chateau De La Maltroye,2013,750ml,Red Wine,$62.99,62.99,Burgundy (Pinot Noir)
+Domaine Mikulski - Hautes Cotes De Beaune Chardonnay,Domaine Mikulski,2022,750ml,White Wine,$62.99,62.99,Burgundy (Chardonnay)
+Château Lafon-Rochet - St.-Estèphe,Château Lafon-Rochet,2016,750ml,Red Wine,$54.99,54.99,"St.-Estèphe (V: 95, WE: 94)"
+Chateau Haut Batailley - Pauillac,Chateau Haut Batailley,2012,750ml,Red Wine,$59.99,59.99,"Pauillac (WA: 92, JS: 92)"
+Roland Lavantureux - Chablis Vauprin,Roland Lavantureux,2022,750ml,White Wine,$62.99,62.99,Burgundy (Chardonnay)
+Jeeper Brut Rose,Jeeper Brut Rose,NV,750ml,Rose Wine,$69.99,69.99,Champagne (WS: 92)
+Jean-Marc Boillot - Volnay,Jean-Marc Boillot,2020,750ml,Red Wine,$59.99,59.99,Burgundy (Pinot Noir)
+Château Phélan-Ségur - St.-Estèphe,Château Phélan-Ségur,2022,750ml,Red Wine,$62.99,62.99,"St.-Estèphe (WS: 95, JD: 95)"
+Chateau Les Ormes De Pez St Estephe,Chateau Les Ormes De Pez St Estephe,2011,750ml,Red Wine,$49.99,49.99,"Bordeaux (WE: 91, JS: 91)"
+Domaine De La Janasse - Chateauneuf Du Pape,Domaine De La Janasse,2017,750ml,Red Wine,$62.09,62.09,Rhone Valley (Chateauneuf du Pape)
+Bollinger - Brut Champagne Special Cuvée,Bollinger,NV,750ml,Sparkling Wine,$67.99,67.99,Champagne
+Au Pied du Mont Chauve - Meursault,Au Pied du Mont Chauve,2017,750ml,White Wine,$54.99,54.99,Meursault (Chardonnay)
+Château Marquis-d'Alesme-Becker - Margaux,Château Marquis-d'Alesme-Becker,2016,750ml,Red Wine,$59.39,59.39,"Margaux (WA: 96, JD: 96)"
+Louis Roederer - Collection 246 Brut Champagne,Louis Roederer,NV,750ml,Sparkling Wine,$59.39,59.39,Champagne
+Chateau De Lamarque - Haut Medoc,Chateau De Lamarque,2020,1.5L,Red Wine,$59.39,59.39,Haut Medoc (Bordeaux Blend)
+Domaine Faiveley - Mercurey La Framboisiere Monopole,Domaine Faiveley,2023,750ml,Red Wine,$58.49,58.49,Burgundy (WA: 90)
+Domaine De La Galopiere - Pommard,Domaine De La Galopiere,2020,750ml,Red Wine,$58.49,58.49,Burgundy (Pinot Noir)
+Veuve Clicquot - Brut Rosé Champagne,Veuve Clicquot,NV,750ml,Sparkling Wine,$64.99,64.99,Champagne
+Domaine Brun Avril - Chateauneuf Du Pape,Domaine Brun Avril,2020,750ml,Red Wine,$54.99,54.99,Burgundy
+Les Marronniers - Chablis 1er Cru Montmains,Les Marronniers,NV,750ml,White Wine,$55.79,55.79,Burgundy (Chardonnay)
+Saisons De Bourgneuf - Pomerol,Saisons De Bourgneuf,2023,750ml,Red Wine,$53.99,53.99,Bordeaux (Bordeaux Red Blend)
+Le Clos Peyrassol Rose,Le Clos Peyrassol Rose,2021,750ml,Rose Wine,$59.99,59.99,"Provence (V: 94, WA: 92)"
+Domaine Labruyere - Le Clos Du Moulin-a-Vent Monopole,Domaine Labruyere,2019,750ml,Red Wine,$53.99,53.99,Burgundy (WE: 94)
+Domaine Du Chancelier - Cotes De Beaune La Rave Nord,Domaine Du Chancelier,2022,750ml,Red Wine,$53.99,53.99,Burgundy (Pinot Noir)
+Ruinart - Brut Rose,Ruinart,NV,375ml,Sparkling Wine,$53.99,53.99,Champagne
+Moët & Chandon - Brut Rosé Champagne,Moët & Chandon,NV,750ml,Sparkling Wine,$59.99,59.99,Champagne
+Pol Roger - Brut Rich Demi Sec,Pol Roger,NV,750ml,Sparkling Wine,$53.99,53.99,Champagne
+Bouchard Pere & Fils Clos Saint-Landry Monopole,Bouchard Pere & Fils Clos Saint-Landry Monopole,2012,750ml,Red Wine,$59.99,59.99,Burgundy (Pinot Noir)
+Valentin Leflaive - Blanc De Blanc CV 18 30 Champagne,Valentin Leflaive,2018,750ml,Sparkling Wine,$59.99,59.99,Champagne
+La Réserve de Léoville Barton - St.-Julien,La Réserve de Léoville Barton,2015,750ml,Red Wine,$59.99,59.99,"St.-Julien (WS: 91, CT: 91)"
+Chateau d'Armailhac - Pauillac,Chateau d'Armailhac,2021,750ml,Red Wine,$53.99,53.99,Pauillac (WA: 92)
+Chateau Gloria - Saint Julien,Chateau Gloria,2018,750ml,Red Wine,$53.99,53.99,"Saint Julien (WE: 94, JD: 94)"
+Billaud-Simon - Chablis Tête d'Or,Billaud-Simon,2021,750ml,White Wine,$53.99,53.99,Chablis
+Valentin Leflaive - Blanc De Blanc CV 17 50 Champagne,Valentin Leflaive,2017,750ml,Sparkling Wine,$59.99,59.99,Champagne
+Jean-Marie Fourrier - Vigne Comte de Chapelle Bourgogne Rouge,Jean-Marie Fourrier,2022,750ml,Red Wine,$53.99,53.99,Burgundy (Pinot Noir)
+Moet & Chandon - Nectar Imperial,Moet & Chandon,NV,750ml,Sparkling Wine,$59.99,59.99,Champagne
+Schoffit - Tokay Pinot Gris Alsace Grand Cru Rangen,Schoffit,2000,750ml,White Wine,$59.99,59.99,Alsace (Pinot Gris)
+J De Villebois - Pouilly Fume Les Silex Blancs,J De Villebois,2023,750ml,White Wine,$53.99,53.99,Loire (Sauvignon Blanc)
+Chateau La Grave - Pomerol,Chateau La Grave,2014,750ml,Red Wine,$53.99,53.99,"Pomerol (JS: 94, WS: 92)"
+Ropiteau Frères - Meursault,Ropiteau Frères,2019,750ml,White Wine,$59.99,59.99,Meursault (Chardonnay)
+Jean-Marie Fourrier - Vigne Comte de Chapelle Bourgogne Blanc,Jean-Marie Fourrier,2022,750ml,White Wine,$53.99,53.99,Burgundy (Chardonnay)
+Château Meyney - St.-Estèphe,Château Meyney,2016,750ml,Red Wine,$59.99,59.99,"St.-Estèphe (JS: 96, V: 95)"
+Chateau d'Armailhac - Pauillac,Chateau d'Armailhac,2020,750ml,Red Wine,$53.99,53.99,"Pauillac (JS: 95, WE: 93)"
+Chateau La Croix Bellevue - Lalande De Pomerol,Chateau La Croix Bellevue,2000,750ml,Red Wine,$59.99,59.99,Bordeaux (Bordeaux Red Blend)
+Chateau Branaire-Ducru - Saint Julien,Chateau Branaire-Ducru,2020,750ml,Red Wine,$53.99,53.99,"Saint Julien (WE: 95, WS: 94)"
+Chateau Duhart Milon - Moulin de Duhart Pauillac,Chateau Duhart Milon,2019,750ml,Red Wine,$59.99,59.99,Pauillac (D: 92)
+La Dame de Montrose - St.-Estèphe,La Dame de Montrose,2015,750ml,Red Wine,$48.99,48.99,"St.-Estèphe (JS: 94, WE: 93)"
+Domaine Vincent Ledy - Bourgogne Hautes Cotes de Nuits VV,Domaine Vincent Ledy,2022,750ml,Red Wine,$53.99,53.99,Burgundy (Pinot Noir)
+Chateau Lafaurie-Peyraguey - Grand Vin Sec Blanc,Chateau Lafaurie-Peyraguey,NV,750ml,White Wine,$52.19,52.19,Bordeaux (Sauvignon Blanc & Semillon)
+Domaine Laroche - Chablis Les Vaillons Vieilles Vignes,Domaine Laroche,2019,750ml,White Wine,$57.99,57.99,"Chablis (WE: 94, WA: 92)"
+Domaine Laroche - Chablis Les Vaillons Vieilles Vignes,Domaine Laroche,2018,750ml,White Wine,$57.99,57.99,"Chablis (WA: 91, V: 91)"
+Chateau Coutet - Sauternes Barsac,Chateau Coutet,2003,750ml,White Wine,$56.99,56.99,Sauternes (Bordeaux Blend)
+Chateau du Moulin-a-Vent - Champ de Cour,Chateau du Moulin-a-Vent,2019,750ml,Red Wine,$51.29,51.29,Moulin-a-Vent (WE: 92)
+Jean-Baptiste Souillard - Crozes-Hermitage Les Habrards,Jean-Baptiste Souillard,2017,750ml,Red Wine,$50.39,50.39,Burgundy (Red Rhone Blend)
+Domaine de Beaurenard - Châteauneuf-du-Pape,Domaine de Beaurenard,2019,750ml,Red Wine,$49.99,49.99,"Rhone Valley (JD: 95, WS: 93)"
+Domaine Vacheron - Sancerre Rose,Domaine Vacheron,2023,750ml,Rose Wine,$50.39,50.39,Loire Valley (Pinot Noir)
+Domaine du Roc des Boutires - Pouilly-Fuissé Chardonnay,Domaine du Roc des Boutires,2020,750ml,White Wine,$49.49,49.49,"Pouilly-Fuissé (WE: 91, WS: 90)"
+Chateau Gloria - St.-Julien,Chateau Gloria,2019,750ml,Red Wine,$43.99,43.99,"St.-Julien (JD: 96, V: 96)"
+Domaine De Villaine - Bouzeron Aligote Bourgogne,Domaine De Villaine,2022,750ml,White Wine,$49.49,49.49,Burgundy (Aligote)
+Domaine de Beaurenard - Châteauneuf-du-Pape,Domaine de Beaurenard,2017,750ml,Red Wine,$54.99,54.99,"Rhone Valley (JD: 95, WA: 93)"
+Chateau Monbousquet - Saint Emilion Grand Cru,Chateau Monbousquet,2020,750ml,Red Wine,$47.99,47.99,"Saint Emilion (JD: 96, JS: 95)"
+Chateau De Fieuzal - Pessac-Leognan,Chateau De Fieuzal,2022,750ml,Red Wine,$49.49,49.49,Pessac-Leognan (WA: 96)
+Domaine de Beaurenard - Châteauneuf-du-Pape White,Domaine de Beaurenard,2020,750ml,White Wine,$54.99,54.99,Rhone Valley (WA: 92)
+Château Mont-Redon - Châteauneuf-du-Pape,Château Mont-Redon,2021,750ml,Red Wine,$54.99,54.99,Rhone Valley (Rhone Blend)
+Domaine Robert-Denogent - Macon-Fuisse Les Taches,Domaine Robert-Denogent,2017,750ml,White Wine,$48.59,48.59,Burgundy (WA: 90+)
+Domaine Jessiaume - Santennay 1er Cru Les Gravieres,Domaine Jessiaume,2022,750ml,Red Wine,$48.59,48.59,Burgundy (Pinot Noir)
+Domaine La Roquete - Chateauneuf-du-Pape Clos La Roquete Blanc,Domaine La Roquete,NV,750ml,White Wine,$48.59,48.59,Rhone (Chateauneuf-du-Pape)
+Château Marquis-d'Alesme-Becker - Margaux,Château Marquis-d'Alesme-Becker,2019,750ml,Red Wine,$48.59,48.59,"Margaux (JD: 96, V: 95)"
+Chateau Haut Bages Liberal - Pauillac,Chateau Haut Bages Liberal,2012,750ml,Red Wine,$51.99,51.99,"Pauillac (WE: 94, JS: 91)"
+Pierre Sparr - Pinot Gris Mambourg Grand Cru Alsace,Pierre Sparr,NV,750ml,White Wine,$44.99,44.99,Alsace (Pinot Gris)
+Domaine du Grand Tinel - Alexis Establet Châteauneuf-du-Pape,Domaine du Grand Tinel,2007,750ml,Red Wine,$49.99,49.99,Rhone Valley (Grenache)
+Clau De Nell Violette Cuvee,Clau De Nell Violette Cuvee,2018,750ml,Red Wine,$49.99,49.99,"Loire Valley (WA: 96, WS: 92)"
+Chateau Caronne Ste Gemme - Haut medoc,Chateau Caronne Ste Gemme,2008,1.5L,Red Wine,$49.99,49.99,Bordeaux Blend
+Chateau Cantemerle - Haut Medoc,Chateau Cantemerle,2014,750ml,Red Wine,$44.99,44.99,"Haut Medoc (JS: 94, WE: 93)"
+Fernand & Laurent Pillot - Santenay Les Prarons Dessus,Fernand & Laurent Pillot,2017,750ml,Red Wine,$44.99,44.99,Burgundy (Pinot Noir)
+Domaine Gachot-Monot - Cotes De Nuits-Villages,Domaine Gachot-Monot,2022,750ml,Red Wine,$44.99,44.99,Burgundy (Pinot Noir)
+Chateau Du Tertre - Margaux,Chateau Du Tertre,2019,750ml,Red Wine,$49.99,49.99,"Margaux (JD: 94, JS: 94)"
+Veuve Clicquot - Brut Champagne Yellow Label,Veuve Clicquot,NV,750ml,Sparkling Wine,$49.99,49.99,Champagne
+Moreau-Naudet - Petit Chablis,Moreau-Naudet,2023,750ml,White Wine,$41.99,41.99,Burgundy (Chardonnay)
+Domaine Raspail-Ay - Gigondas,Domaine Raspail-Ay,2020,750ml,Red Wine,$44.99,44.99,"Rhone Valley (V: 95, JD: 94)"
+Bruno Colin - Bourgogne Aligote,Bruno Colin,2022,750ml,White Wine,$44.99,44.99,Burgundy (Aligote)
+Domaine Ott - Rose Chateau de Selle Cotes de Provence,Domaine Ott,2023,750ml,Rose Wine,$49.99,49.99,Côtes de Provence (Rosé)
+Moët & Chandon - Brut Champagne Impérial,Moët & Chandon,NV,750ml,Sparkling Wine,$49.99,49.99,Champagne
+Pauillac by Pichon-Longueville - Pauillac,Pauillac by Pichon-Longueville,2019,750ml,Red Wine,$44.99,44.99,Pauillac
+Gosset - Grande Réserve Brut Champagne,Gosset,NV,750ml,Sparkling Wine,$49.99,49.99,Champagne (WA: 92)
+Château Lynch-Bages - Echo de Lynch Bages,Château Lynch-Bages,2019,750ml,Red Wine,$47.99,47.99,"Pauillac (JD: 93, WS: 90)"
+Pierre Sparr - Riesling Alsace Grand Cru Schoenenbourg,Pierre Sparr,NV,750ml,White Wine,$44.99,44.99,Alsace (Riesling)
+Domaine Faiveley - Mercurey Rouge,Domaine Faiveley,2020,750ml,Red Wine,$44.99,44.99,Burgundy (Pinot Noir)
+Pierre Sparr - Crémant d'Alsace Brut Rosé,Pierre Sparr,NV,1.5L,Sparkling Wine,$44.99,44.99,Champagne (WE: 93)
+Pierre Sparr - Gewürztraminer Alsace Grand Cru Mambourg,Pierre Sparr,2018,750ml,White Wine,$44.99,44.99,Alsace (Gewürztraminer)
+Chateau Fuisse - Tete de Cuvee Pouilly Fuisse,Chateau Fuisse,2021,750ml,White Wine,$44.99,44.99,Burgundy (Chardonnay)
+Arnaud Lambert - Saumur Champigny Montee des Roches,Arnaud Lambert,2021,750ml,Red Wine,$43.99,43.99,Burgundy (Cabernet Franc)
+Alphonse Mellot - Sancerre La Moussière,Alphonse Mellot,2024,750ml,White Wine,$44.99,44.99,Loire Valley (Sauvignon Blanc)
+Domaine Faiveley - Mercurey Le Vallon Blanc,Domaine Faiveley,2023,750ml,White Wine,$44.99,44.99,Burgundy (Chardonnay)
+Domaine Faiveley - Mercurey Rouge,Domaine Faiveley,2022,750ml,Red Wine,$38.99,38.99,Burgundy (Pinot Noir)
+Domaine Jean Claude Marsanne - Saint Joseph,Domaine Jean Claude Marsanne,2022,750ml,Red Wine,$44.99,44.99,Rhone Valley (Syrah)
+Gonet Medeville - Tradition Brut Premier Cru,Gonet Medeville,NV,750ml,Sparkling Wine,$44.99,44.99,Champagne (WS: 92)
+Chateau Malmaison Red Bordeaux Kosher UP,Chateau Malmaison Red Bordeaux Kosher UP,2001,750ml,Red Wine,$49.99,49.99,Bordeaux Blend (Kosher)
+Domaine Antonin Guyon - Beaune Clos De La Chaume Gaufriot,Domaine Antonin Guyon,2013,750ml,Red Wine,$49.99,49.99,Burgundy (Pinot Noir)
+Landot - Haut Medoc,Landot,2014,750ml,Red Wine,$44.99,44.99,Haut Medoc (Bordeaux Blend)
+Michel Genet Champagne - Brut Rose,Michel Genet Champagne,NV,750ml,Sparkling Wine,$49.99,49.99,Champagne
+Chateau Maillet - Pomerol,Chateau Maillet,2020,750ml,Red Wine,$44.99,44.99,Bordeaux (Bordeaux Red Blend)
+Chateau Candale - Haut Medoc,Chateau Candale,2000,750ml,Red Wine,$44.99,44.99,Haut Medoc (Bordeaux Red Blend)
+Taittinger - Brut La Française,Taittinger,NV,750ml,Sparkling Wine,$49.99,49.99,Champagne
+Dominique Lafon - Bourgogne Aligote,Dominique Lafon,2023,750ml,White Wine,$44.99,44.99,Burgundy (Aligote)
+Chateau Du Tertre - Margaux,Chateau Du Tertre,2020,750ml,Red Wine,$49.99,49.99,"Margaux (JS: 95, WA: 93)"
+Chateau Marquis De Terme - Cuvee 1762 Margaux,Chateau Marquis De Terme,2018,750ml,Red Wine,$44.99,44.99,"Margaux (WS: 93, WE: 93)"
+Chateau Cantemerle - Haut Medoc,Chateau Cantemerle,2013,750ml,Red Wine,$44.99,44.99,Haut Medoc (Bordeaux Blend)
+Domaine Belleville - Rully La Cree,Domaine Belleville,2022,750ml,White Wine,$44.09,44.09,Burgundy (Chardonnay)
+Pol Roger - Brut Reserve,Pol Roger,NV,750ml,Sparkling Wine,$46.99,46.99,"Champagne (WS: 92, WE: 92)"
+Piper-Heidsieck - Brut Cuvee 1785,Piper-Heidsieck,NV,750ml,Sparkling Wine,$47.99,47.99,Champagne
+Chateau Clarke - Listrac Medoc,Chateau Clarke,2012,750ml,Red Wine,$36.99,36.99,"Listrac Medoc (WE: 90, D: 90)"
+Claude Riffault - Sancerre Les Boucauds,Claude Riffault,2023,750ml,White Wine,$41.39,41.39,Sancerre (WS: 92)
+Billaud Simon - Chablis,Billaud Simon,2023,750ml,White Wine,$39.99,39.99,Chablis
+M. Lapierre - Morgon,M. Lapierre,NV,750ml,Red Wine,$41.39,41.39,Proprietary Blend
+Domaine Faiveley - Mercurey Rouge,Domaine Faiveley,2023,750ml,Red Wine,$41.39,41.39,Burgundy (Pinot Noir)
+Croix Courbet - Savadonnay Cotes Du Jura,Croix Courbet,2022,750ml,White Wine,$41.39,41.39,Jura (Chardonnay - Savagnin)
+Chateau Pibran - Pauillac,Chateau Pibran,2020,750ml,Red Wine,$40.49,40.49,"Pauillac (JS: 95, WS: 92)"
+Domaine Vocoret & Fils - Chablis,Domaine Vocoret & Fils,2022,750ml,White Wine,$40.49,40.49,Burgundy (Chardonnay)
+Le Clémentin du Pape Clément - Pessac-Léognan,Le Clémentin du Pape Clément,2012,750ml,Red Wine,$40.49,40.49,Pessac-Leognan (Bordeaux Blend)
+Chateau Le Pape - Ch Le Pape Pessac Leognan,Chateau Le Pape,2014,750ml,Red Wine,$44.99,44.99,Bordeaux (Bordeaux Style Blend)
+Gosset - Brut Rosé Champagne Grand Rosé,Gosset,NV,375ml,Rose Wine,$40.49,40.49,Champagne
+Michel Gros - Bourgogne Hautes Au Vallon,Michel Gros,2023,750ml,Red Wine,$40.49,40.49,Burgundy (Pinot Noir)
+Louis Chenu Pere & Filles - Chorey-les-Beaune Les Beaumonts,Louis Chenu Pere & Filles,2020,750ml,Red Wine,$44.99,44.99,Burgundy (Pinot Noir)
+La Bouche Du Roi - Grand Lever Chenin Blanc,La Bouche Du Roi,2023,750ml,White Wine,$40.49,40.49,Chenin Blanc
+C Des Carmes - Haut Brion Pessac-Leognan,C Des Carmes,2021,750ml,Red Wine,$40.49,40.49,"Pessac-Leognan (JS: 94, WA: 92)"
+Vivens par Chateau Durfort Vivens Margaux,Vivens par Chateau Durfort Vivens Margaux,2017,750ml,Red Wine,$43.99,43.99,Margaux (WE: 94)
+Château Prieuré-Lichine - Margaux,Château Prieuré-Lichine,2020,750ml,Red Wine,$42.99,42.99,"Margaux (JS: 96, WE: 95)"
+Chateau Clarke - Listrac Medoc,Chateau Clarke,2011,750ml,Red Wine,$41.99,41.99,Listrac Medoc
+Louis Barruol Crozes Hermitage Gervans,Louis Barruol Crozes Hermitage Gervans,2020,750ml,Red Wine,$37.79,37.79,Northern Rhône (Syrah)
+Château Carbonnieux - Pessac-Léognan White,Château Carbonnieux,2022,750ml,White Wine,$41.99,41.99,Pessac-Leognan (Bordeaux Blanc)
+Edmond Cornu & Fils - Chorey-lès-Beaune Les Bons Ores,Edmond Cornu & Fils,2017,750ml,Red Wine,$37.79,37.79,Burgundy (Pinot Noir)
+Famille Savary - Chablis Selection Vieilles Vignes,Famille Savary,2023,750ml,White Wine,$35.99,35.99,Burgundy (Chardonnay)
+Daniel Chotard - Sancerre,Daniel Chotard,2023,750ml,White Wine,$35.99,35.99,Sancerre (Sauvignon Blanc)
+Arnaud Lambert - Saumur Rouge Tue Loup,Arnaud Lambert,2021,750ml,Red Wine,$35.99,35.99,Loire Valley (Cabernet Franc)
+Chateau Haut Bergey - Pessac Leognan,Chateau Haut Bergey,2016,750ml,Red Wine,$35.99,35.99,Pessac Leognan (WS: 90)
+Landot - Haut Medoc,Landot,2015,750ml,Red Wine,$39.99,39.99,Haut Medoc (Bordeaux Blend)
+Paul Jaboulet Aîné - Crozes-Hermitage Les Jalets,Paul Jaboulet Aîné,2000,750ml,Red Wine,$35.99,35.99,Rhone Valley (Rhone Blend)
+Domaine du Roc des Boutires - Mâcon-Solutré,Domaine du Roc des Boutires,2020,750ml,White Wine,$35.99,35.99,Mâcon-Solutré
+Chateau Clarke - Listrac Medoc,Chateau Clarke,2015,750ml,Red Wine,$38.99,38.99,"Listrac Medoc (WE: 93, D: 92)"
+Paul Jaboulet Aîné - Crozes-Hermitage Les Jalets,Paul Jaboulet Aîné,2001,750ml,Red Wine,$35.99,35.99,Rhone Valley (Rhone Blend)
+Domaine Chapel - Fleurie Charbonniers,Domaine Chapel,2022,750ml,Red Wine,$29.99,29.99,Burgundy (Gamay)
+La Bouche Du Roi - Coquille Rogue Cabernet Franc,La Bouche Du Roi,2022,750ml,Red Wine,$35.99,35.99,Burgundy (Cabernet Franc)
+Lucien Crochet - Sancerre La Croix du Roy,Lucien Crochet,NV,750ml,White Wine,$35.99,35.99,Sancerre
+Anne Sophie Dubois - Fleurie L'Alchimiste,Anne Sophie Dubois,2023,750ml,Red Wine,$35.99,35.99,Burgundy (Gamay)
+Lapierre - Le Beaujolais,Lapierre,NV,750ml,Red Wine,$35.99,35.99,Beaujolais Villages (Gamay)
+Chateau Les Tuileries Bordeaux,Chateau Les Tuileries Bordeaux,NV,3L,Red Wine,$35.99,35.99,Bordeaux Blend
+Les Fiefs de Lagrange - St.-Julien,Les Fiefs de Lagrange,2018,750ml,Red Wine,$35.99,35.99,St.-Julien (Bordeaux Blend)
+Faiveley - Bourgogne Rouge Pinot Noir,Faiveley,2021,750ml,Red Wine,$35.99,35.99,Pinot Noir
+Chateau L'Avocat - Graves,Chateau L'Avocat,2016,750ml,Red Wine,$35.99,35.99,Graves (Cabernet Sauvignon Blend)
+E. Guigal - Gigondas,E. Guigal,2020,750ml,Red Wine,$34.19,34.19,"JD: 93, WS: 92"
+Chateau Tour Pibran - Paulillac,Chateau Tour Pibran,2016,750ml,Red Wine,$37.99,37.99,Pauillac (Bordeaux Blend)
+Blason D'Issan - Margaux,Blason D'Issan,2019,750ml,Red Wine,$34.19,34.19,"Margaux (JS: 94, JD: 91)"
+La Bouche Du Roi - Sauvignon Blanc Grande Vue,La Bouche Du Roi,2023,750ml,White Wine,$34.19,34.19,Burgundy (Sauvignon Blanc)
+Domaine Georges Vernay - Le Pied de Samson Viognier,Domaine Georges Vernay,2015,750ml,White Wine,$34.19,34.19,Viognier
+Domaine Du Nozay - Sancerre,Domaine Du Nozay,2023,750ml,White Wine,$36.99,36.99,Sancerre
+Chateau des Laurets - Puisseguin Saint Emilion,Chateau des Laurets,2015,750ml,Red Wine,$33.29,33.29,Bordeaux (JS: 91)
+Domaine de la Jobeline - Mâcon-Villages,Domaine de la Jobeline,2019,750ml,White Wine,$33.29,33.29,Burgundy (Chardonnay)
+Château Prieuré-Lichine - Margaux,Château Prieuré-Lichine,2019,375ml,Red Wine,$32.39,32.39,"Margaux (JS: 95, WE: 96)"
+Edmond Cornu & Fils - Les Barrigards Bourgogne,Edmond Cornu & Fils,2023,750ml,Red Wine,$32.39,32.39,Burgundy (Pinot Noir)
+Chêne Bleu - Rose,Chêne Bleu,2022,750ml,Rose Wine,$35.99,35.99,"WS: 92, V: 91"
+Domaine Reverdy-Ducroux - Sancerre Les Vignes Silex,Domaine Reverdy-Ducroux,2022,750ml,White Wine,$32.39,32.39,Sancerre (Sauvignon Blanc)
+Chêne Bleu - Rose,Chêne Bleu,NV,750ml,Rose Wine,$35.99,35.99,Rosé
+Moët & Chandon - Brut Champagne Impérial,Moët & Chandon,NV,375ml,Sparkling Wine,$32.39,32.39,Champagne
+Domaine De Panquelaine - Sancerre,Domaine De Panquelaine,2024,750ml,White Wine,$32.39,32.39,Burgundy (Sauvignon Blanc)
+Chateau Montlandrie - Castillon Cotes de Bordeaux,Chateau Montlandrie,2010,750ml,Red Wine,$32.39,32.39,Bordeaux Blend
+Chataeu Suduiraut - Lions De Suduiraut Sauternes,Chataeu Suduiraut,2016,750ml,White Wine,$32.39,32.39,Sauternes
+Jean Foillard - Beaujolais Villages,Jean Foillard,NV,750ml,Red Wine,$32.39,32.39,Burgundy (Gamay)
+Gosset - Grande Réserve Brut Champagne,Gosset,NV,375ml,Sparkling Wine,$31.49,31.49,Champagne (WA: 92)
+Château de Merande - Arbin Mondeuse,Château de Merande,2019,750ml,Red Wine,$31.49,31.49,Mondeuse
+Domaine de Beaurenard - Côtes du Rhône-Villages Rasteau,Domaine de Beaurenard,2020,750ml,Red Wine,$23.99,23.99,Rhone Valley (WS: 90)
+Chateau de Sales - Pomerol,Chateau de Sales,2014,750ml,Red Wine,$32.99,32.99,Pomerol (Bordeaux Blend)
+Pascal Jolivet - Sancerre,Pascal Jolivet,NV,750ml,White Wine,$34.99,34.99,Sancerre (Sauvignon Blanc)
+Jean Louis Chave - Crozes Hermitage Silene,Jean Louis Chave,2023,750ml,Red Wine,$31.49,31.49,Rhone Red Blend
+Chateau Peyrassol - Cotes de Provence Blanc,Chateau Peyrassol,2019,750ml,White Wine,$33.99,33.99,Cotes de Provence
+Chateau Peyrassol Rose,Chateau Peyrassol Rose,2023,750ml,Rose Wine,$33.99,33.99,Cotes de Provence
+Roblin Reserve de Maimbray Terres Blanches,Roblin Reserve de Maimbray Terres Blanches,2022,750ml,White Wine,$30.59,30.59,Sancerre (Sauvignon Blanc)
+Domaine de la Jobeline - Mâcon Verze,Domaine de la Jobeline,2019,750ml,Red Wine,$32.99,32.99,Burgundy (Gamay)
+Chateau des Laurets - Puisseguin Saint Emilion,Chateau des Laurets,2014,750ml,Red Wine,$32.99,32.99,Bordeaux (Merlot)
+La Bouche Du Roi - Merlot Cabernet Franc,La Bouche Du Roi,2022,750ml,Red Wine,$29.69,29.69,Red Blend
+Domaine Chatelain - Sancerre Selection,Domaine Chatelain,2022,750ml,White Wine,$29.69,29.69,Sancerre (Sauvignon Blanc)
+Roger Champault - Sancerre Les Pierris,Roger Champault,2024,750ml,White Wine,$29.69,29.69,Loire (Sauvignon Blanc)
+Domaine de Marquiliani - Le Rose Gris de Pauiline,Domaine de Marquiliani,2023,750ml,Rose Wine,$29.69,29.69,Corsica
+Peyrassol - Cuvee des Commandeurs' Rouge,Peyrassol,2020,750ml,Red Wine,$29.69,29.69,Provence (Syrah)
+Chateau Gloria - St.-Julien,Chateau Gloria,2021,375ml,Red Wine,$29.69,29.69,Saint Julien (Bordeaux Blend)
+Barons Edmond & Benjamin de Rothschild - Haut Medoc,Barons Edmond & Benjamin de Rothschild,2022,750ml,Red Wine,$29.69,29.69,Haut Medoc (Kosher)
+Les Hauts De Larrivet - Haut Brion Pessac Leognan,Les Hauts De Larrivet,2019,750ml,Red Wine,$31.99,31.99,Bordeaux Blend
+Reverdy - Sancerre La Villaudiere,Reverdy,NV,750ml,White Wine,$28.79,28.79,Sancerre (Sauvignon Blanc)
+Domaine Laroche - Chablis St.-Martin,Domaine Laroche,NV,750ml,White Wine,$31.99,31.99,Chablis (Chardonnay)
+Olivier Leflaive - Les Sétilles Bourgogne White,Olivier Leflaive,2023,750ml,White Wine,$31.99,31.99,Burgundy (Chardonnay)
+J.J. Vincent & Fils - Pouilly-Fuissé,J.J. Vincent & Fils,2022,750ml,White Wine,$29.99,29.99,Burgundy (Chardonnay)
+Château du Glana - Saint-Julien,Château du Glana,2014,750ml,Red Wine,$26.99,26.99,Saint-Julien (WE: 91)
+Clos De L'ours L'accent Rose,Clos De L'ours L'accent Rose,NV,750ml,Rose Wine,$26.99,26.99,Provence
+Louis Jadot - Pouilly-Fuissé,Louis Jadot,2023,750ml,White Wine,$29.99,29.99,Burgundy (Chardonnay)
+Chateau Gassier - Le Pas Du Moine Rose,Chateau Gassier,2024,750ml,Rose Wine,$26.99,26.99,Cotes de Provence
+Domaine Siret-Courtaud - Quincy Sancerre,Domaine Siret-Courtaud,2023,750ml,White Wine,$26.99,26.99,Loire (Sauvignon Blanc)
+Domaine Smith Chapel - Bourgogne Aligote,Domaine Smith Chapel,2022,750ml,White Wine,$26.99,26.99,Burgundy (Aligote)
+Lingot Martin - Cerdon Sparkling Rose,Lingot Martin,NV,750ml,Sparkling Wine,$26.99,26.99,Gamay
+Domaine Ogereau - Rouge Les Tailles,Domaine Ogereau,2019,750ml,Red Wine,$26.99,26.99,Loire (Cabernet Franc)
+Clos du Caillou - Cotes du Rhone Reserve,Clos du Caillou,2000,750ml,Red Wine,$26.99,26.99,Rhone Red Blend
+Clos Sainte Magdeleine - Provence Rose,Clos Sainte Magdeleine,2023,750ml,Rose Wine,$26.99,26.99,Provence
+Jean Colin Sancerre,Jean Colin Sancerre,2022,750ml,White Wine,$26.99,26.99,Sancerre
+Domaine de l'Abbaye - Clos Beylesse Provence Rosé,Domaine de l'Abbaye,NV,750ml,Rose Wine,$26.99,26.99,Cotes de Provence
+Chateau Pradeaux - Bandol Rose,Chateau Pradeaux,2022,750ml,Rose Wine,$26.99,26.99,Provence
+Chateau Pierre Bise - Coteaux du Layon-Beaulieu,Chateau Pierre Bise,2000,500ml,White Wine,$29.99,29.99,Loire Valley
+Château Labégorce - Margaux,Château Labégorce,2021,750ml,Red Wine,$23.99,23.99,"Margaux (JD: 92, D: 91)"
+Chateau Monbousquet,Chateau Monbousquet,2014,375ml,Red Wine,$26.99,26.99,Saint Emilion (Bordeaux Blend)
+Meurgey-croses - St Veran,Meurgey-croses,2019,750ml,White Wine,$26.99,26.99,Burgundy (Chardonnay)
+Marc Deschamps - Pouilly-Fumé,Marc Deschamps,NV,750ml,White Wine,$26.99,26.99,Sauvignon Blanc
+Hugel - Riesling Estate,Hugel,2018,750ml,White Wine,$26.99,26.99,Alsace (Riesling)
+Château Mont-Redon - Lirac,Château Mont-Redon,2020,750ml,Red Wine,$26.99,26.99,Rhone Valley (Rhone Red Blend)
+Domaine Cabirau - Serge & Nicholas,Domaine Cabirau,2013,750ml,Red Wine,$26.98,26.98,"Garnacha, Syrah, Carignan"
+Whispering Angel Kosher Rose,Whispering Angel Kosher Rose,NV,750ml,Rose Wine,$26.09,26.09,Provence (Kosher)
+Chateau Labat - Haut Medoc Grand Vin,Chateau Labat,2016,750ml,Red Wine,$28.99,28.99,Haut Medoc
+Chateau D'Estoublon - Roseblood Rose,Chateau D'Estoublon,2024,750ml,Rose Wine,$26.09,26.09,Provence (Rhone Red Blend)
+Rumor - Rose Cotes de Provence,Rumor,NV,750ml,Rose Wine,$28.99,28.99,Provence
+Alain Jaume - Chateau Mazane Vacqueyras,Alain Jaume,2013,750ml,Red Wine,$25.19,25.19,Rhone (Grenache)
+Joseph Drouhin - St.-Véran,Joseph Drouhin,2022,750ml,White Wine,$25.19,25.19,Burgundy (Chardonnay)
+Louis Jadot - Chablis,Louis Jadot,2023,750ml,White Wine,$25.19,25.19,Burgundy (Chardonnay)
+Trimbach - Pinot Gris Alsace Réserve,Trimbach,NV,750ml,White Wine,$25.19,25.19,Alsace (Pinot Gris)
+Chateau Saint Julien - Rose,Chateau Saint Julien,2021,750ml,Rose Wine,$24.29,24.29,Provence
+JL Chave Selection - Mon Coeur,JL Chave Selection,NV,750ml,Red Wine,$23.39,23.39,Rhone Red Blend
+Chateau De Parsac - Saint Emilion,Chateau De Parsac,2021,750ml,Red Wine,$23.39,23.39,Bordeaux (Kosher)
+Pascal Jolivet - Sancerre Les Caillottes,Pascal Jolivet,NV,375ml,White Wine,$23.39,23.39,Sancerre (Sauvignon Blanc)
+Summer in a Bottle Rose Winter Edition,Summer in a Bottle Rose Winter Edition,NV,750ml,Rose Wine,$23.39,23.39,Cotes de Provence
+Champalou - Vouvray Pétillant Brut,Champalou,NV,750ml,Sparkling Wine,$23.39,23.39,Loire (Chenin Blanc)
+Jean Marc Gilet - Gilet Brut Vouvray,Jean Marc Gilet,NV,750ml,Sparkling Wine,$23.39,23.39,Loire
+Pascal Jolivet - Sancerre,Pascal Jolivet,NV,375ml,White Wine,$22.49,22.49,Sancerre (Sauvignon Blanc)
+Château Landat - Haut-Médoc,Château Landat,2019,750ml,Red Wine,$22.49,22.49,Haut-Medoc
+Protege Par Lamour - Cotes Du Rhone,Protege Par Lamour,2024,750ml,Red Wine,$22.49,22.49,Rhone (Kosher)
+Prince Estivac - Blanc De Blancs,Prince Estivac,NV,750ml,Sparkling Wine,$22.49,22.49,Champagne
+Alain Jaume - Lirac Domaine du Clos de Sixte,Alain Jaume,2016,750ml,Red Wine,$24.99,24.99,"Rhone (WA: 93+, WE: 93)"
+Jean Marc Gilet - Vouvray Sec Les Perruches,Jean Marc Gilet,NV,750ml,White Wine,$22.49,22.49,Loire
+Trimbach - Gewürztraminer Alsace,Trimbach,NV,750ml,White Wine,$21.59,21.59,Alsace
+Chateau La Condamine - Corbieres,Chateau La Condamine,2019,750ml,Red Wine,$21.59,21.59,Languedoc
+Avaline - Provence Rose,Avaline,NV,750ml,Rose Wine,$21.59,21.59,Provence (Organic)
+Jean-Jacques Vincent - Bourgogne Blanc,Jean-Jacques Vincent,NV,750ml,White Wine,$21.59,21.59,Burgundy (Chardonnay)
+Villa Aurelia - Provence Rose,Villa Aurelia,2021,750ml,Rose Wine,$21.59,21.59,Provence
+Serre De Guery - Viognier,Serre De Guery,NV,750ml,White Wine,$21.59,21.59,Pays d'Oc
+Hugel & Fils - Riesling Alsace,Hugel & Fils,NV,750ml,White Wine,$20.69,20.69,Alsace
+Pascal Jolivet - Pinot Noir Attitude,Pascal Jolivet,2023,750ml,Red Wine,$22.99,22.99,Loire Valley
+Château Miraval - Rose Cotes De Provence,Château Miraval,NV,750ml,Rose Wine,$22.99,22.99,Provence
+Domaine des Aubuisières - Vouvray Cuvée de Silex,Domaine des Aubuisières,NV,750ml,White Wine,$20.69,20.69,Vouvray
+Domaine Laroche - Chablis St.-Martin,Domaine Laroche,2023,375ml,White Wine,$20.69,20.69,Chablis (Chardonnay)
+François Cazin - Cour-Cheverny Le Petit Chambord,François Cazin,NV,375ml,Red Wine,$20.69,20.69,Loire
+Château Puech-Haut - Argali Rosé,Château Puech-Haut,NV,750ml,Rose Wine,$20.69,20.69,Languedoc
+Domaine Soleyrade - Cotes Du Rhone,Domaine Soleyrade,2020,750ml,Red Wine,$19.79,19.79,Rhone Valley
+Chateau Minuty - M de Minuty Rose,Chateau Minuty,NV,750ml,Rose Wine,$19.79,19.79,Provence
+Peyrassol - Les Commandeurs Rose,Peyrassol,2022,750ml,Rose Wine,$21.99,21.99,Provence (V: 91)
+Hecht & Bannier - Minervois,Hecht & Bannier,2015,750ml,Red Wine,$18.89,18.89,Languedoc
+The Beach Rose,The Beach Rose,NV,750ml,Rose Wine,$17.99,17.99,Provence
+Chateau de Roquefort - Petit Sale,Chateau de Roquefort,NV,750ml,White Wine,$17.99,17.99,Provence (Clairette)
+Domaine Saint Aix - AIX Rose,Domaine Saint Aix,NV,750ml,Rose Wine,$19.99,19.99,Provence
+Dom LaFage - Miraflors Rose,Dom LaFage,NV,750ml,Rose Wine,$17.99,17.99,Rousillon (Organic)
+Chateau du Moulin-à-Vent - Des Thorins,Chateau du Moulin-à-Vent,2017,750ml,Red Wine,$19.99,19.99,Burgundy
+Shatter - Grenache,Shatter,NV,750ml,Red Wine,$19.99,19.99,Languedoc (Grenache)
+Louis Jadot - Pinot Noir,Louis Jadot,NV,750ml,Red Wine,$17.99,17.99,Burgundy
+Pierre Sparr - Crémant d'Alsace Brut Rosé,Pierre Sparr,NV,750ml,Sparkling Wine,$19.99,19.99,Alsace (WE: 93)
+Pierre Sparr Gewurztraminer Grande Reserve,Pierre Sparr Gewurztraminer Grande Reserve,NV,750ml,White Wine,$17.99,17.99,Alsace
+Pascal Jolivet - Attitude Sauvignon Blanc,Pascal Jolivet,2023,750ml,White Wine,$19.99,19.99,Loire Valley
+Domaine Laroche - Bourgogne Blanc,Domaine Laroche,2017,750ml,White Wine,$19.99,19.99,Burgundy
+Whispering Angel Rose,Whispering Angel Rose,NV,750ml,Rose Wine,$19.99,19.99,Provence
+Domaine Des Banquettes - Vin Doux Naturel Rasteau,Domaine Des Banquettes,NV,500ml,White Wine,$17.99,17.99,Rhone
+Domaine De La Prebende - Beaujolais,Domaine De La Prebende,2023,750ml,Red Wine,$17.99,17.99,Burgundy (Gamay)
+Foncastel - La Serre Picpoul De Pinet,Foncastel,NV,750ml,White Wine,$17.99,17.99,Languedoc
+Hampton Water - Rose,Hampton Water,NV,750ml,Rose Wine,$17.99,17.99,Languedoc
+Domaine de Beaurenard - Côtes du Rhône,Domaine de Beaurenard,2022,750ml,Red Wine,$17.99,17.99,Rhone Valley (Organic)
+Pierre Sparr - Cremant d'Alsace Brut Reserve,Pierre Sparr,NV,750ml,Sparkling Wine,$17.99,17.99,"Alsace (WE: 90, D: 90)"
+Louis Jadot - Chardonnay,Louis Jadot,2023,750ml,White Wine,$17.09,17.09,Burgundy
+Chateau L Escarelle - Rumeurs Rose,Chateau L Escarelle,NV,750ml,Rose Wine,$18.99,18.99,Provence
+Pierre Sparr - One Alsace,Pierre Sparr,NV,750ml,White Wine,$17.09,17.09,Alsace
+Chateau Saint-Roch Maury Sec,Chateau Saint-Roch Maury Sec,2012,750ml,Red Wine,$17.09,17.09,Rhone
+Hecht & Bannier - Cote de Provence Rose,Hecht & Bannier,NV,750ml,Rose Wine,$17.09,17.09,Provence
+Hugel & Fils - Gewürztraminer Alsace,Hugel & Fils,NV,750ml,White Wine,$18.99,18.99,Alsace
+Chateau de L'Escarelle Rose,Chateau de L'Escarelle Rose,NV,750ml,Rose Wine,$17.99,17.99,Provence
+Pierre Sparr Pinot Blanc Grande Reserve,Pierre Sparr Pinot Blanc Grande Reserve,NV,750ml,White Wine,$16.19,16.19,Alsace
+Domaine du Rey - Côtes de Gascogne White,Domaine du Rey,2020,750ml,White Wine,$16.19,16.19,Gascogne
+St.-Cosme - Côtes du Rhône,St.-Cosme,NV,750ml,Red Wine,$16.19,16.19,Rhone Valley
+Château Lamothe de Haux - Bordeaux White,Château Lamothe de Haux,NV,750ml,Red Wine,$16.19,16.19,Bordeaux
+Dubonnet - Rouge,Dubonnet,NV,1L,Red Wine,$16.19,16.19,Proprietary Red
+Grand Veneur - Cotes Du Rhone,Grand Veneur,NV,750ml,Red Wine,$16.19,16.19,Rhone (Organic)
+Hugel & Fils - Pinot Blanc Alsace Cuvée Les Amours,Hugel & Fils,NV,750ml,White Wine,$16.19,16.19,Alsace
+Domaine Laroche - Mas La Chevaliere Pinot Noir,Domaine Laroche,NV,750ml,Red Wine,$16.19,16.19,Languedoc (Sustainable)
+Domaine de Triennes - Rose,Domaine de Triennes,NV,750ml,Rose Wine,$16.19,16.19,Provence (Organic)
+Chateau Les Tuileries Bordeaux,Chateau Les Tuileries Bordeaux,2020,750ml,Red Wine,$16.19,16.19,Bordeaux
+E. Guigal - Côtes du Rhône,E. Guigal,NV,750ml,Red Wine,$15.29,15.29,Rhone Valley
+Gerard Bertrand - Cote des Roses,Gerard Bertrand,NV,750ml,Rose Wine,$15.29,15.29,Provence
+Peyrassol - La Croix Rouge,Peyrassol,2019,750ml,Red Wine,$16.99,16.99,Provence (Organic)

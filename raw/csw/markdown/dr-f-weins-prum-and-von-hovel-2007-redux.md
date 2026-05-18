@@ -1,0 +1,21 @@
+---
+type: csw_article
+slug: dr-f-weins-prum-and-von-hovel-2007-redux
+title: "Dr. F. Weins-Prum and Von Hovel 2007 Redux"
+url: https://chambersstwines.com/blogs/articles/dr-f-weins-prum-and-von-hovel-2007-redux
+date: ""
+word_count: 752
+fetched_at: "2026-04-21T16:41:57+00:00"
+---
+
+# Dr. F. Weins-Prum and Von Hovel 2007 Redux
+
+*6/25/2008* -
+
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/462_600x600.jpg?v=1694668354)
+
+So the 2007 Rudi Wiest offer went out and I was mildly surprised that not much Von Hovel and F. Weins-Prum sold, considering that those were the BEST values in the room. In this slightly depressed economy, and the terrible dollar/euro thing, I was extra surprised these wines did not sell as well as they should have. So I need to prime the pump, as they say, and let you know how good these wines were. Let's throw price out the window for a minute and just judge these wines on the merits of what's in the bottle. Bert Selbach, at F. Weins-Prum is a quiet yet effective man who has been churning out brilliant wines from this estate, right next to the revered JJ Prum, since 1911. The wines are filigreed, elegant, devastatingly pure and very accurate of terroir. They are not thick wines but wines of grace and classicism with the ability to age extremely well. I love these wines. I want you to love them too because in 2007 Bert Selbach made the best wines I have tasted at this estate since the brilliant 2001's. At these prices these wines are no brainers if you like classic expressions of the Mosel. He is a man that goes with the vintage. In 2005 he made five Auslesen in the vintage as the conditions were perfect for Auslese. In 2007 he made five Spatlesen as this was a perfect, classic Spatlese vintage. And what Spatlesen they are. But before I wax poetic about the Spatlesen, his Wehlener Sonnenuhr Kabinett is worth a mention as it was one of a myriad of Kabinetts that showed very well. It had excellent concentration with nice filigree and finesse and the classical creaminess of the Wehlener Sonnenuhr along with perfect ripeness. If Kabinett was in the dictionary this wine would be pictured. Then he stepped it up a notch with the Wehlener Sonnenuhr Spatlese which was creamier, richer and riper but with great cut and clarity. The wine was amazing. A wine that is accessible early, unlike say a JJ Prum, and one that will age just as long as JJ Prum. Now, don't get me wrong, I have more JJ Prum in my cellar than any other producer but they take a looooooong time to come around. F. Weins-Prum's wines are accessible from day one, age a long time and are lighter and perhaps have even more finesse than JJ Prum. If it was not for JJ Prum, F. Weins-Prum would  be the rock star of the Middle Mosel. The final wine that was shown on this day was the Graacher Himmelreich Spatlese which was brilliant in all of its shimmering beauty. Much rockier than the Sonnenuhr, with lovely apple and spice aromas and just great crisp acidity that gives this wine insane crunch. Delicious! These wines are the bargains of the vintage in the Mosel and every German wine lover, novice, or just plain wine lover should buy some of these wines, as they are just so damn good, and you could not be supporting a nicer more humble man.
+
+The other estate that did not sell well, and I am in shock as a result of it, is the Von Hovel estate in the Saar. Located in the Oberemmel, they have a wonderful monopole in the Hutte vineyard which has to be one of the great vineyards of the Saar. The profile is creamy and rich but with a laser beam of acidity that gives the wines great focus. The Kabinett from Hutte is a lovely, delicate and elegant Kabinett, as there were many in this vintage. It is ripe and has that wonderful creaminess that Hutte is famous for. Just a classic Saar Kabinett that is gulpable and priced to move. A lovely wine and one not to miss. The Spatlese is even a notch better. This exuberant wine is rich, ripe and has lovely cooler-climate Saar fruits and a lovely granular crunchy-like texture. The wine has the structure to age for at least 10-15 years, probably longer. Lovely pure wine.
+
+So the long and the short of it is that these wines are astonishing on their own, and even more astonishing for the money, so step up and throw some of these in the cellar. I know I will.

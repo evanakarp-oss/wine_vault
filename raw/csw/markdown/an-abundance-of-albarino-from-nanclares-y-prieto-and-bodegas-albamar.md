@@ -1,0 +1,29 @@
+---
+type: csw_article
+slug: an-abundance-of-albarino-from-nanclares-y-prieto-and-bodegas-albamar
+title: "An Abundance of Albarino From Nanclares y Prieto and Bodegas Albamar"
+url: https://chambersstwines.com/blogs/articles/an-abundance-of-albarino-from-nanclares-y-prieto-and-bodegas-albamar
+date: ""
+word_count: 916
+fetched_at: "2026-04-21T16:32:49+00:00"
+---
+
+# An Abundance of Albarino From Nanclares y Prieto and Bodegas Albamar
+
+3/20/26 -
+
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/NanclaresVineyard.jpg?v=1774063828)
+
+Though we at Chambers Street Wines are longtime fans of the wines of Alberto Nanclares and Silvia Prieto, it’s a rare privilege to be presented with the opportunity to taste a full lineup of 12 wines from the two. When I was recently invited to do so, I accepted with glee. Like any tasting of this sort, I walked in familiar with some wines, less so with others, and had first encounters with a few more. I can think of countless wines or winemakers who, for a time, really caught my attention and invigorated both my palate as well as a keen interest to learn more and “get to the source,” only for that desire to ultimately fade. Though I’m hugely grateful for those experiences, these Albariños are no such wines. For wine lovers, there are good producers, and then there are the producers who capture our imaginations and have a place in our hearts. Nanclares y Prieto are the latter. There is such a present through-line in each of their wines, but never over-imposing (more on their approach to winemaking later). It’s as though the cuvées make up their own family: different personalities, maturities, even responsibilities, but soulfully connected nonetheless. This year marks the addition of a new member to the family in the form of their entry-level Blanco. It’s 100% Albariño sourced from a variety of plots both young and old, and full of easy-drinking joy. The ‘24 vintage in Rías Baixas, more specifically in the Val do Salnés, provided growing conditions for good ripeness and excellent acidity, something well reflected in the wines (plenty of them age-worthy). To those who are, like us here at Chambers Street, years into following these wines, I am sure this vintage will meet, if not exceed expectations. As for anyone new to Nanclares y Prieto, you’d be hard pressed to not seriously enjoy these special wines. We’re happy to be offering our full allocation with you today!
+
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/Nanclares_y_Prieto_480x480.jpg?v=1711079025)
+
+Having written about Alberto and Silvia several times over the years, we’ll keep the long story relatively short: Alberto began winemaking out of his garage in 1997 after a career as an economist. Over the years he became increasingly skeptical of spraying herbicides and pesticides, eventually abandoning them altogether. Queue Silvia Prieto, who, prior to joining forces with Alberto, had founded her own company that worked with and assisted wineries transitioning towards traditional methods and organic viticulture. The two’s meeting in 2009 turned out to be the fortuitous beginning of a successful partnership; Silvia joined Alberto full-time in 2015, and they continue making beautiful wines to this day. The Val do Salnés is widely regarded as the top subregion for Albariño within Rías Baixas, and while regional hierarchies may be an ineffective shorthand for terroir, the Nanclares y Prieto wines are hugely defined by this subregion. Though they do sometimes source fruit from other farmers across Rías Baixas, the sharp acidity and distinct salinity that the Val do Salnés is known for is indeed omnipresent in their wines. In a world where Albariño has shot to fame in recent years, it’s easy to take its mineral texture and high acidity for granted. But if you cared to venture out and taste, say, a dozen bottles from different Albariño producers, you would notice that there are drastically different interpretations of the grape as well as the terroir of Rías Baixas. Wines too rich, with cloying fruit, and which often display excessive alcohol, are typically the result of simply inferior winemaking. Picking at the right time, sensitivity to winemaking processes (i.e. lees aging or oxidation from oak barrels), as well as good farming in general are all key distinctions between these varying styles of Albariño. This brings us to a fundamental factor in every winemaking operation: style. It’s not as though there was anything ever stopping Alberto and Silvia from producing a richer, oaky Albariño; these wines, bursting with acidity, revealing a mineral core, are simply their style.
+
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/ParajeMinaVyd_480x480.jpg?v=1775019715)
+
+Without spraying, clarification or filtration, the wines are wild fermented and aged in a wide variety of vessels including stainless steel, used oak barrels, chestnut barrels, as well as clay tinaja. The differences in each cuvée can range from subtle to quite pronounced, though their varying structures never deviate from the through-line of well balanced ripeness and potent minerality. Ultimately, Alberto and Silvia’s farming and winemaking methods give the wines a character that is at once down to earth and elegant. Back to the point I made earlier, these wines have really captivated me over the years in a way that's been dynamic and evolving. This many vintages in and I still left that tasting a few weeks ago buzzing, knowing I’d learned and detected something in the wines that I hadn’t before. With that all said, I’ll allow the wines to speak for themselves, and mention that today’s offer also features a special guest in the form of Xurxo Alba’s famed Albamar! Consider it the cherry on top of this lovely assortment of Galician goods.
+
+*-Nick Douglas*
+
+# >>>VIEW THE WINES<<<

@@ -1,0 +1,22 @@
+# Mirrors .driveignore + standard patterns. Keeps the snapshot repo clean.
+
+# Python execution artifacts (regenerate on next run)
+__pycache__/
+*.pyc
+*.pyo
+
+# Archive blobs (Drive sync leaks; merged content already lives in tree)
+*.zip
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Drive-sync conflict artifacts
+*_addendum.md
+wiki/wiki/
+wine_vault_fromdocuments/
+
+# Obsidian per-session state (config itself stays tracked)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json

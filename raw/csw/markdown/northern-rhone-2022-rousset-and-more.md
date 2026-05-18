@@ -1,0 +1,17 @@
+---
+type: csw_article
+slug: northern-rhone-2022-rousset-and-more
+title: "Northern Rhone: 2022 Rousset and More!"
+url: https://chambersstwines.com/blogs/articles/northern-rhone-2022-rousset-and-more
+date: ""
+word_count: 515
+fetched_at: "2026-04-21T16:59:03+00:00"
+---
+
+# Northern Rhone: 2022 Rousset and More!
+
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/f1100a4b-de19-400b-8240-b6d9dd6fd8af_6adae06c-971f-4c47-a06a-f44009088ce9_480x480.jpg?v=1718812103)
+We're proud to offer the 2022 Crozes-Hermitages and Saint-Joseph from Domaine Stéphane Rousset! The Rousset family goes back eleven generations in Erome -  Stéphane's great uncle was the legendary Raymond Roure, from whom the Roussets purchased the "Picaudières" vineyard in Gervans, and his father Robert, while officially retired, still helps out.The vineyards, mostly in Gervans and Erôme in the northern sector of Crozes, produce wines from granite hillsides, similar to Hermitage in stye and quality. The Rousset Saint-Joseph comes from "Les Rivoires" in Tournon, a superb granite terroir producing classic age-worthy wines.2022 is a particularly great vintage for Domaine Rousset, and especially for the superb "Les Picaudieres." This isolated steep vineyard of granite terraces, pictured above, is a carbon copy of the Hermitage hill a few miles to the south, and the wine it produces ages beautifully, becoming the magical Syrah that we love from the region's most traditional estates. The 2022 was harvested late as "the phenolic ripening took time due to the impact of the drought on the granite," said Stéphane - the resulting wine, at 13% alcohol is deep and complex but with a lovely freshness. It's a superb and classic Northern Rhone Syrah that will age beautifully for twenty years.
+![](https://cdn.shopify.com/s/files/1/0602/3790/6145/files/53e533ee-7564-4849-9547-97cf745cdcdd_480x480.jpg?v=1718812162)
+Stéphane in the cellar, a few years ago...﻿﻿The Crozes-Hermitage Rouge is excellent as well in 2022.  Coming from granite and limestone hillside vineyards, the 2022 is dense, complex and ripe, with freshness and finesse - more forward than the "Picaudieres" for early drinking, it will repay aging for 5 to 15 years.The Rousset Saint-Joseph is a serious example from great terroir, ½ hectare on granite in Tournon, that is often overlooked, but any lover of good Saint-Joseph should try this wine - certainly comparable to the Gonon "Les Iles Feray" and worthy of ten to fifteen years of cellaring.The estates white wines are beautifully ripe, complex and elegantwith stone and exotic fruits, citrus and minerals on the palate. The2022 "Marsanne Vieilles Vignes" is from 60 to 90 year-old vines on sandy granite hillsides; The2022 Crozes-Hermitage Blancadds 15% Roussanne from young vines - it's wonderfully ripe and stylish, for drinking over the next 5 years.For those seeking traditional wines of terroir in the Northern Rhone, these are fine examples and great values - we thank the Rousset family for their fine work on these steep hillsides, and in the cellar. For drinking now in their youthful intensity or for enjoying after ten-plus years of aging, these are profound wines that we heartily recommend!And we've added a few wines from our friends in Mauves.The Rousset wines discount 10% on a case or mixed case. The wines are in stock and available for pick-up or shipping on Tuesday 6/18.
+## >>> View Wines Here <<<

@@ -1,0 +1,17 @@
+---
+type: csw_article
+slug: thierry-valettes-clos-puy-arnaud-two-bottles-two-soils-in-castillon
+title: "Thierry Valette's Clos Puy Arnaud: Two Bottles, Two Soils in Castillon"
+url: https://chambersstwines.com/blogs/articles/thierry-valettes-clos-puy-arnaud-two-bottles-two-soils-in-castillon
+date: ""
+word_count: 523
+fetched_at: "2026-04-21T17:29:39+00:00"
+---
+
+# Thierry Valette's Clos Puy Arnaud: Two Bottles, Two Soils in Castillon
+
+3/15/21 -
+
+Clos Puy Arnaud is located near the town of Belvès-de-Castillon, which is perched along a large plateau of limestone - a geological formation similar to the neighboring long stretch of elevated limestone belonging to the St.-Emilion AOC. Thierry Valette purchased the estate in 1999 after selling his shares in Chateau Pavie. Valette is a staunch supporter of biodynamic farming, and his fields have been certified by both Demeter and Biodyvin. His focus is freshness and drinkability. His wines rely on a dazzlingly focused mineral core as a foundation for both flavor and structure. At Clos Puy Arnaud, as with every great estate, the story here starts with the soil. Just like in St.-Emilion, vineyards planted in the soils atop the plateau are the most prized. Ninety percent of Clos Puy Arnaud's 32 plots (15 hectares) enjoy this esteemed location. This portion of vines represents the original property that Valette purchased more than 20 years ago, and it is from this area the estate's incredibly special, red-and-black-fruited, Grand Vin is derived. The 'Grand Vin' 2014 from Clos Puy Arnaud has a bold nose, with herbs and dried fruits, along with dramatic, dark floral aromas. The palate is tense. A mineral-driven wine wrapped in a cloak of plums and cherries. Structure is high-toned, with youthful tannic edges and bright acid. Drinking very well now, especially after a few hours open. No denying the energy in this wine - should live a good 7 to 10 years in your cellar if you were to choose to lay it down. A more recently purchased set of plots, just a short jump away in St.-Gene-de-Castillon, is planted to soils that are denser, with a higher percentage of clay mixed into the region's important limestone base. This does what you might think - creates a broader wine, with a touch more handsome grit. Clos Puy Arnaud's 'Les Ormeaux' 2015 shows the more rugged side of the estate. Aromas of milled coffee beans and cocoa mix with dark cherries and blackberries. The palate has spicy, black pepper, zingy green herbs, and a more gravelly stoniness than the more supple mineral-tones of Valette's 'Grand Vin.' A wonderfully warm wine. Allow at least an hour for this bottle to show its best stuff, but this can be your go-to, 'pop & pour' Bordeaux, no problem. If laying down, 5 to 8 years seems appropriate. I've discovered that one will inevitably encounter Burgundian analogies if involved with the wines of Bordeaux. "If we are speaking in [terms of] Burgundy," an expert told me in a recent email, "then the 2014 Grand Vin is grand cru and the Les Ormeaux is premier cru." There is something ethereal that the Grand Vin has, that Les Ormeaux doesn't. But there is an earthiness, something deliciously humble, about Les Ormeaux that the Grand Vin floats above. I think it's safe to say, whether you're from Valette's 'grand cru' or 'premier cru' vineyard sites, you're a wine that tastes very, very good.
+
+- *David Hatzopoulos*
