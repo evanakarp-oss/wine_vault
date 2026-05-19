@@ -217,6 +217,15 @@ _Not yet populated._
 
 _Not yet populated._
 
+## FASS Offers
+
+1 email offer from FASS Selections (raw/fass/markdown/).
+
+### [Among the Hardest to Get Wines in Italy Bar None – His 2 (Still) Affordable Wines – Brilliant Barbera and Dolcetto](https://www.fassselections.com/blog/among-the-hardest-to-get-wines-in-italy-bar-none-his-2-still-affordable-wines-brilliant-barbera-and-dolcetto/)
+*$23.99 · fetched 2026-05-05*
+
+> On the Top Langhe Wine Group, This Producer Is the Talk of the Town – Changed Voerzio to Start Making Classic Wines – His Barolo Top Crus Go for $400+ – Started His Own Micro Estate on the Side – Top, Top, Top Tier…
+
 ## Cross-references
 
 - [[Loire_Producers|Loire]]

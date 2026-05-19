@@ -110,6 +110,45 @@ Currently tracked: **13 cuvée/vintage entries**; prices $0–$0.
 | Pinot Noir “Vom Keuper” | 2022 | — |
 | Sven Enderle Pinot Noir “Vom Keuper” | 2022 | — |
 
+## FASS Offers
+
+7 email offers from FASS Selections (raw/fass/markdown/).
+
+### [The Incomparable 2021 Domberg from Andi Schneider – One of 2021’s Greatest German Rieslings!](https://www.fassselections.com/blog/the-incomparable-2021-domberg-from-andi-schneider-one-of-2021s-greatest-german-rieslings/)
+*2021 · $27.99 · fetched 2026-05-05*
+
+> 2021 at Schneider Is Andi’s Greatest Vintage And The 2021 Domberg Is The Feather In His Cap – An Ethereal, Cerebral, Contemplative Riesling – Nothing Can Be Compared To It – At $27.99 On A Case I am Struggling To…
+
+### [The First Grand Cru Offer in the World from Sven Enderle’s New Estate – One of the Laciest Pinot Noirs I’ve Ever Had](https://www.fassselections.com/blog/the-first-grand-cru-offer-in-the-world-from-sven-enderles-new-estate-one-of-the-laciest-pinot-noirs-ive-ever-had/)
+*$199.96 · fetched 2026-05-05*
+
+> Sven Enderle – The Founder of Germany’s Top Cult Pinot Noir Producer Enderle & Moll – From One Brilliant Estate, Now We have Two – His Debut Wine in His Debut Vintage – The First Offer in the World
+
+### [The First Grand Cru Offer in the World from Sven Enderle’s New Estate – One of the Laciest Pinot Noirs I’ve Ever Had](https://www.fassselections.com/blog/the-first-grand-cru-offer-in-the-world-from-sven-enderles-new-estate-one-of-the-laciest-pinot-noirs-ive-ever-had-3/)
+*$199.96 · fetched 2026-05-05*
+
+> Sven Enderle – The Founder of Germany’s Top Cult Pinot Noir Producer Enderle & Moll – From One Brilliant Estate, Now We have Two – His Debut Wine in His Debut Vintage – The First Offer in the World
+
+### [The First Grand Cru Offer in the World from Sven Enderle’s New Estate – One of the Laciest Pinot Noirs I’ve Ever Had](https://www.fassselections.com/blog/the-first-grand-cru-offer-in-the-world-from-sven-enderles-new-estate-one-of-the-laciest-pinot-noirs-ive-ever-had-2/)
+*$199.96 · fetched 2026-05-05*
+
+> Sven Enderle – The Founder of Germany’s Top Cult Pinot Noir Producer Enderle & Moll – From One Brilliant Estate, Now We have Two – His Debut Wine in His Debut Vintag – The First Offer in the World
+
+### [The Day Has Finally Arrived – Sven Enderle’s New Estate ﻿- First Global Offer of His First Pinot Noir](https://www.fassselections.com/blog/the-day-has-finally-arrived-sven-enderles-new-estate-first-global-offer-of-his-first-pinot-noir/)
+*2022 · $359.88 · fetched 2026-05-05*
+
+> Sven Enderle – The Founder of Germany’s Top Cult Pinot Noir Producer Enderle & Moll – From One Brilliant Estate, Now We have Two – His Debut Wine in His Debut Vintage – The First Offer in the World
+
+### [The Day Has Finally Arrived – Sven Enderle’s New Estate ﻿- First Global Offer of His First Pinot Noir](https://www.fassselections.com/blog/the-day-has-finally-arrived-sven-enderles-new-estate-first-global-offer-of-his-first-pinot-noir-2/)
+*2022 · $359.88 · fetched 2026-05-05*
+
+> Sven Enderle – The Founder of Germany’s Top Cult Pinot Noir Producer Enderle & Moll – From One Brilliant Estate, Now We have Two – His Debut Wine in His Debut Vintage – The First Offer in the World
+
+### [96 Point Pinot Noir, $29.99 – if Brisset and Buffet Had a Love Child – The Thunderous Arrival of Thorle 2021 Pinots – Better Call Saul’s “Chicanery”](https://www.fassselections.com/blog/96-point-pinot-noir-29-99-if-brisset-and-buffet-had-a-love-child-the-thunderous-arrival-of-thorle-2021-pinots-better-call-sauls-chicanery/)
+*2021 · $29.99 · 96 pts · fetched 2026-05-05*
+
+> The 2021 Vintage – Stunning Classically Styled Fruit – Remarkable Fruit Clarity – These Are Must Buys for Pinot Lovers. Must Buys.
+
 ## Cellar
 
 Own **2 bottle(s)** across 1 cuvée-vintage(s):

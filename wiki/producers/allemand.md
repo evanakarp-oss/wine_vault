@@ -157,6 +157,20 @@ _Not yet populated._
 
 _Not yet populated._
 
+## FASS Offers
+
+2 email offers from FASS Selections (raw/fass/markdown/).
+
+### [The Best Quality Price Ratio in All of St. Joseph – Absurd These are $32 A Bottle](https://www.fassselections.com/blog/the-best-quality-price-ratio-in-all-of-st-joseph-absurd-these-are-32-a-bottle/)
+*2022 · $32 · fetched 2026-05-05*
+
+> 2022 Domaine Des Pierres Seches St. Joseph Rouge – Nose: A Fabulous Maelstrom – Dark Flowers – Spicy, Almost Black Fruits – Massive, Stunning – Elegant Olives – One Is Taken Back by the Beautiful Aromatic Spectrum –…
+
+### [The Best Quality Price Ratio in All of St. Joseph – Absurd These are $32 A Bottle](https://www.fassselections.com/blog/the-best-quality-price-ratio-in-all-of-st-joseph-absurd-these-are-32-a-bottle-2/)
+*2022 · $32 · fetched 2026-05-05*
+
+> 2022 Domaine Des Pierres Seches St. Joseph Rouge – Nose: A Fabulous Maelstrom – Dark Flowers – Spicy, Almost Black Fruits – Massive, Stunning – Elegant Olives – One Is Taken Back by the Beautiful Aromatic Spectrum –…
+
 ## Cross-references
 
 - [[Rhône_Producers|Rhône]]

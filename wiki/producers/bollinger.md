@@ -227,3 +227,18 @@ Vintages on offer: 2015, NV.
 ## FASS
 
 _Not yet populated._
+
+## FASS Offers
+
+2 email offers from FASS Selections (raw/fass/markdown/).
+
+### [The “Emperor’s Underwear” – Where I Taste 2 Blingy “Unicorn” Champagnes and Realize that Perseval Farge Jean Baptiste Is Better at 15-25% of the Price](https://www.fassselections.com/blog/the-emperors-underwear-where-i-taste-2-blingy-unicorn-champagnes-and-realize-that-perseval-farge-jean-baptiste-is-better-at-15-25-of-the-price/)
+*$49.99 · fetched 2026-05-05*
+
+> “This is like Krug” “This is like Bollinger RD” “This is like Salon” “This is as perfect a Champagne as I’ve ever had.”
+
+### [Perseval Farge Jean Baptiste Brut 1er Cru – One of the 4 Horsemen – One of the Best Champagnes That We Sell – It’s All About the Mousse](https://www.fassselections.com/blog/perseval-farge-jean-baptiste-brut-1er-cru-one-of-the-4-horsemen-one-of-the-best-champagnes-that-we-sell-its-all-about-the-mousse/)
+*$296.97 · fetched 2026-05-05*
+
+> “This stuff is stunning. Can you get more?” “This is like Krug” “This is like Bollinger RD” “This is like Salon” “This is as perfect a Champagne as I’ve ever had.”
+

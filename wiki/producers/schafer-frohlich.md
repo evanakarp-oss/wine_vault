@@ -76,6 +76,15 @@ _Not yet populated._
 
 _Not yet populated._
 
+## FASS Offers
+
+1 email offer from FASS Selections (raw/fass/markdown/).
+
+### [Brisset’s 2022 “Cuvee Cassaneas” – The Final Leap – Tastes Exactly Like a 1er Cru Chassagne – Under $40 On A Case](https://www.fassselections.com/blog/brissets-2022-cuvee-cassaneas-the-final-leap-tastes-exactly-like-a-1er-cru-chassagne-under-40-on-a-case/)
+*2022 · $40 · fetched 2026-05-05*
+
+> The Final Leap – Brisset Was at the Top When I Started Working with Him – I Didn’t Expect the Wines to Get Even Better – In 2022 They Did
+
 ## Cross-references
 
 - [[Germany_Producers|Germany]]

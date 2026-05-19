@@ -132,3 +132,58 @@ _Not yet populated._
 ## FASS
 
 _Not yet populated._
+
+## FASS Offers
+
+10 email offers from FASS Selections (raw/fass/markdown/).
+
+### [Your Windfall from Steinmetz’s Faustian Pact – 97 Point Zeltinger Sonnenuhr GG (GZ) – Maybe the Most Elegant Mosel Riesling I’ve Ever Had](https://www.fassselections.com/blog/your-windfall-from-steinmetzs-faustian-pact-97-point-zeltinger-sonnenuhr-gg-gz-maybe-the-most-elegant-mosel-riesling-ive-ever-had/)
+*$151.96 · 97 pts · fetched 2026-05-05*
+
+> Only 60 Bottles – Please DO NOT FORWARD OR SHARE ON SOCIAL MEDIA Gunther Steinmetz Zeltinger Sonnenuhr GZ – 97 Points, Stuart Pigott – The Most Elegant Mosel Wine I Have Ever Had – A Wine of Pure Emotion – Nose: a 10…
+
+### [Stefan’s Ode to Coche-Dury – His “Meursault 1er Cru Perrieres” aka Hofberger Reserve- 97 Points, Under $45 On a Case – DO NOT MISS THIS!Stefan’s Ode to Coche-Dury – His “Meursault 1er Cru Perrieres” aka Hofberger Reserve- 97 Points, Under $45 On a Case – DO NOT MISS THIS!](https://www.fassselections.com/blog/stefans-ode-to-coche-dury-his-meursault-1er-cru-perrieres-aka-hofberger-reserve-97-points-under-45-on-a-case-do-not-miss-thisstefans-ode-to-coche-dury-his-meursault-1er-cru-perrier/)
+*$45 · 97 pts · fetched 2026-05-05*
+
+> Stefan Steinmetz – One of the Smartest and Most Knowledgeable Winemakers in Europe – One of the Greatest Tasters I’ve Ever Met – One of My Oldest Friends in Wine – He’s Been Snatching Up The Top Small Vineyards in…
+
+### [Stefan Steimmetz Unties the Gordian Knot – 2023 Piesporter Goldtropfchen Kabinett – One of the Finest Kabinett’s I’ve Ever Had](https://www.fassselections.com/blog/stefan-steimmetz-unties-the-gordian-knot-2023-piesporter-goldtropfchen-kabinett-one-of-the-finest-kabinetts-ive-ever-had/)
+*2023 · $22.99 · fetched 2026-05-05*
+
+> 2023 Gunther Steinmetz Piesporter Goldtropfchen Kabinett – For Me a 9.8 – One of the Finest Kabinetts I’ve Ever Had – 96 Points, Pigott, 2022
+
+### [Spectacular Steinmetz Kabinett – from Red Slate – Very Distinctive Mineral Spiciness, Perfect Balance – Among the Best Kabinetts in the Mosel](https://www.fassselections.com/blog/spectacular-steinmetz-kabinett-from-red-slate-very-distinctive-mineral-spiciness-perfect-balance-among-the-best-kabinetts-in-the-mosel/)
+*$87.96 · fetched 2026-05-05*
+
+> Red Slate – Highly Distinctive Mineral “Spice” – Clemens Busch Made Famous with His Rothenpfad GG – I Love It in a Kabinett
+
+### [Perhaps Stefan’s Most Elegant Wine: A Jewel of a Micro Parcel in Piesporter Goldtropfchen Plus 92 Point Geeky Red](https://www.fassselections.com/blog/perhaps-stefans-most-elegant-wine-a-jewel-of-a-micro-parcel-in-piesporter-goldtropfchen-plus-92-point-geeky-red/)
+*2022 · $91.96 · 92 pts · fetched 2026-05-05*
+
+> Stefan Steinmetz’s Rieslings – Top 5 in the Mosel – Top 10 in Germany – Tasted His Lineup and Have Been Blown Away – Teeming with Energy and Shimmer like Diamonds
+
+### [Once in a Lifetime? Stefan Steinmetz Makes a Historic Kabinett from this GG Quality Vineyard for the First Time (Long Story)](https://www.fassselections.com/blog/once-in-a-lifetime-stefan-steinmetz-makes-a-historic-kabinett-from-this-gg-quality-vineyard-for-the-first-time-long-story/)
+*2023 · $23.99 · fetched 2026-05-05*
+
+> 2023 Gunther Steinmetz Piesporter Treppchen Kabinett – Made from One of His Top 2 Vineyards – Utterly Electrifying – A Top Tier Wine Made Into Kabinettx
+
+### [From His Brilliant Collection of 2022 Kabinetts, Steinmetz’s Classic Brauneberger Juffer](https://www.fassselections.com/blog/from-his-brilliant-collection-of-2022-kabinetts-steinmetzs-classic-brauneberger-juffer/)
+*2022 · $99.96 · fetched 2026-05-05*
+
+> Maybe the Greatest Kabinett Vintage I’ve Ever Tasted – Throwbacks to When Kabinetts were Kabinetts – The Last Bastion of German Wine That is Vastly Underpriced
+
+### [95 Point *** Pinot Noir from Stefan Steinmetz – Under $35 – “a stunning collection” – An Iconic German Pinot – Will Age for a Decade or Longer](https://www.fassselections.com/blog/95-point-pinot-noir-from-stefan-steinmetz-under-35-a-stunning-collection-an-iconic-german-pinot-will-age-for-a-decade-or-longer/)
+*2019 · $35 · 95 pts · fetched 2026-05-05*
+
+> The Style – Laser-Like Precision and Purity of Fruit – Amazing Depth – Terrific Energy to the Fruit – Crunchy, Explosive Tiny Berry Fruit – Very, Very Important German Pinot Noir Producer – Classically Structured,…
+
+### [100 Points Twice in 2022 and 2019- Neumagener Rosengartchen – An Apogeal Dry Riesling – Will it Be 100 in 2023?](https://www.fassselections.com/blog/100-points-twice-in-2022-and-2019-neumagener-rosengartchen-an-apogeal-dry-riesling-will-it-be-100-in-2023/)
+*2022 · $49.99 · 100 pts · fetched 2026-05-05*
+
+> 2023 Gunther Steinmetz Neumagener Rosengartchen Riesling Von den Terrasen “GG” – 100 Points Stuart Pigott (2022 and 2019)
+
+### [100 Points 2022 Neumagener Rosengartchen – An Apogeal Dry Riesling](https://www.fassselections.com/blog/100-points-2022-neumagener-rosengartchen-an-apogeal-dry-riesling/)
+*2022 · $199.96 · 100 pts · fetched 2026-05-05*
+
+> 2022 Gunther Steinmetz Neumagener Rosengartchen Riesling Von den Terrasen “GG” – 100 Points Stuart Pigott – One of the Top Micro Vineyards in Germany – Crazy Old Vines – Crazy Low Yields – One of His Most Burgundian…
+

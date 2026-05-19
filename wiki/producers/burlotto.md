@@ -102,6 +102,20 @@ _Not yet populated._
 
 _Not yet populated._
 
+## FASS Offers
+
+2 email offers from FASS Selections (raw/fass/markdown/).
+
+### [If Brisset Made Nebbiolo – If You Buy Ar.Pe.Pe and Don’t Own Cases of La Badina, You Need to Re Examine Your Life Choices – One of the Best Nebbiolos Made. Period.](https://www.fassselections.com/blog/if-brisset-made-nebbiolo-if-you-buy-ar-pe-pe-and-dont-own-cases-of-la-badina-you-need-to-re-examine-your-life-choices-one-of-the-best-nebbiolos-made-period/)
+*2015 · $147.96 · fetched 2026-05-05*
+
+> I Just Had the 2015 La Badina – I Feel Like My Brain Is On Fire – A Thing of Beauty – Pink Roses, So Perfect They Smelled Still Alive – As Good As Any Nebbiolo in Italy – So Elegant, Linear and Perfect – Old School…
+
+### [A Passion Project from One of Barolo’s Old Guard – On a Par with Bartolo Mascarello, Conterno, – Psychotically Aromatic](https://www.fassselections.com/blog/a-passion-project-from-one-of-barolos-old-guard-on-a-par-with-bartolo-mascarello-conterno-psychotically-aromatic/)
+*2019 · $27.99 · fetched 2026-05-05*
+
+> Gillardi – Third Generation Producer – Father Started As a Winemaker at Barolo Legend Ceretto and Has Worked there for 40 Years – He Supervises Winemaking at Gillardi
+
 ## Cross-references
 
 - [[Italy_Producers|Italy]]

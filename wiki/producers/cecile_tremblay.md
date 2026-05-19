@@ -148,6 +148,20 @@ _Not yet populated._
 
 _Not yet populated._
 
+## FASS Offers
+
+2 email offers from FASS Selections (raw/fass/markdown/).
+
+### [The Next German Cult Wine – Reminds Me of Prieure Roche – JVM’s Song Wine – Collector’s Item for Spatburgunder Lovers](https://www.fassselections.com/blog/the-next-german-cult-wine-reminds-me-of-prieure-roche-jvms-song-wine-collectors-item-for-spatburgunder-lovers/)
+*$173.97 · fetched 2026-05-05*
+
+> Jürgen Von der Mark – Fewer Than 500 People Have Passed the Master of Wine Exam – One of the Top Wine Tasting Palates on Earth – He Intentionally Under Prices His Wines to Make Sales Easy – To Create A Thing It Is…
+
+### [The Next German Cult Wine – Reminds Me of Prieure Roche – JVM’s Song Wine – Collector’s Item for Spatburgunder Lovers](https://www.fassselections.com/blog/the-next-german-cult-wine-reminds-me-of-prieure-roche-jvms-song-wine-collectors-item-for-spatburgunder-lovers-2/)
+*$173.97 · fetched 2026-05-05*
+
+> Jürgen Von der Mark – Fewer Than 500 People Have Passed the Master of Wine Exam – One of the Top Wine Tasting Palates on Earth – He Intentionally Under Prices His Wines to Make Sales Easy – To Create A Thing It Is…
+
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]

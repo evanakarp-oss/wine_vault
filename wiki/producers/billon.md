@@ -81,3 +81,18 @@ _Not yet populated._
 ## FASS
 
 _Not yet populated._
+
+## FASS Offers
+
+2 email offers from FASS Selections (raw/fass/markdown/).
+
+### [The Old Man and the Sea – Christophe Billon’s Stunning Classic Cote Rotie – from the Brilliant 2021 Vintage](https://www.fassselections.com/blog/the-old-man-and-the-sea-christophe-billons-stunning-classic-cote-rotie-from-the-brilliant-2021-vintage/)
+*2021 · $211.96 · fetched 2026-05-05*
+
+> No Press, no Pundits, No Care – Making Brilliant Wines for Decades – A “Winemaker’s Winemaker” – A Favorite of the Greek (Even Though We Buy Direct) – Just Churns Out Amazing Wines Year After Year After Year
+
+### [Insider Wine – High Scoring Cote Rotie from Billon – Starting in 2020, Approachable Young AND He Took “The Leap”](https://www.fassselections.com/blog/insider-wine-high-scoring-cote-rotie-from-billon-starting-in-2020-approachable-young-and-he-took-the-leap/)
+*2020 · $230.97 · fetched 2026-05-05*
+
+> No Press, no Pundits, No Care – Making Brilliant Wines for Decades – A “Winemaker’s Winemaker” – A Favorite of the Greek (Even Though We Buy Direct) – Just Churns Out Amazing Wines Year After Year After Year – He…
+

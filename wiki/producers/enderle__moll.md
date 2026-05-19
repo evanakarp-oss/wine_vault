@@ -94,6 +94,55 @@ _Not yet populated._
 
 _Not yet populated._
 
+## FASS Offers
+
+9 email offers from FASS Selections (raw/fass/markdown/).
+
+### [Tiny Allocation of One of the Hardest to Get and Best Pinots in Germany + Grand Cru Chablis (German Style!)- The Cultiest Wine from the Enderle & Moll of Franken](https://www.fassselections.com/blog/tiny-allocation-of-one-of-the-hardest-to-get-and-best-pinots-in-germany-grand-cru-chablis-german-style-the-cultiest-wine-from-the-enderle-moll-of-franken/)
+*2021 · $49.99 · fetched 2026-05-05*
+
+> **Richard Oestreicher: Sven Enderle without the Beard** **– Certified Organic** **– No Pumps Used at All** **– No Temperature Controlled Fermentation** **– Cult, Cult, Cult** **– Sold to the Top German Collectors**…
+
+### [The Pinot Noir for a Price You Don’t Have to Think About for Any Wine You’ll Ever Buy – Enderle & Moll’s Basis](https://www.fassselections.com/blog/the-pinot-noir-for-a-price-you-dont-have-to-think-about-for-any-wine-youll-ever-buy-enderle-molls-basis/)
+*2022 · $27.99 · fetched 2026-05-05*
+
+> **The 2022 Vintage at Enderle & Moll** **– “Mr. X” Has Had More Enderle & Moll Than Any Collector on Earth** **– He Says That 2022 Is Their Best Vintage Yet – I Agree!** **– It Still Has The Magic Wonder of Enderle &…
+
+### [The Cultiest Wines that We Sell – 2022 Enderle & Moll Muschelkalk and Bundstanstein](https://www.fassselections.com/blog/the-cultiest-wines-that-we-sell-2022-enderle-moll-muschelkalk-and-bundstanstein/)
+*2022 · $155.96 · fetched 2026-05-05*
+
+> **The Top 2 Bottlings in 2022 of Cult Producer Enderle & Moll** **– Among the Hardest to Get Wines in Germany** **– Perhaps Our Most Distinctive Pinot Noirs** **– These Wines Can Be Pure Magic**
+
+### [The Cultiest Wines that We Sell – 2022 Enderle & Moll Muschelkalk and Bundstanstei](https://www.fassselections.com/blog/the-cultiest-wines-that-we-sell-2022-enderle-moll-muschelkalk-and-bundstanstei/)
+*2022 · $51.99 · fetched 2026-05-05*
+
+> The Top 2 Bottlings in 2022 of Cult Producer Enderle & Moll – Among the Hardest to Get Wines in Germany – Perhaps Our Most Distinctive Pinot Noirs – These Wines Can Be Pure Magic
+
+### [The Biggest Sleeper German Pinot in Our Book – The Quiet Genius](https://www.fassselections.com/blog/the-biggest-sleeper-german-pinot-in-our-book-the-quiet-genius/)
+*2021 · $34.99 · fetched 2026-05-05*
+
+> 2021 Sven Klundt Kastanienbusch Pinot Noir – Delicious, and Very Interesting in a Unique Way – Fantastic Out of the Gate – Nose: Deep, Ripe, Pinot Noir Perfume – Layered, Deep and Precise – Cherries, Licorice, Spice,…
+
+### [Special Enderle & Moll Grand Cru Back Vintages From Florian Moll’s Personal Stash](https://www.fassselections.com/blog/special-enderle-moll-grand-cru-back-vintages-from-florian-molls-personal-stash/)
+*2018 · $49.99 · fetched 2026-05-05*
+
+> The Top Bottlng of of Cult Producer Enderle & Moll – From the Cellar – Among the Hardest to Get Wines in Germany – Perhaps Our Most Distinctive Pinot Noirs – These Wines Can Be Pure Magic
+
+### [Enderle & Moll’s – 22 Liason – the Best Since 18 – Our Biggest Selling Red Wine – An Iconic German Pinot Noir + Insane Value White – $17.99 a Case!](https://www.fassselections.com/blog/enderle-molls-22-liason-the-best-since-18-our-biggest-selling-red-wine-an-iconic-german-pinot-noir-insane-value-white-17-99-a-case/)
+*$17.99 · fetched 2026-05-05*
+
+> The Cult of Enderle & Moll – As Close to Art As Wine Can Get – Yes, Their Wines Are Delicious… – But in a Totally Different Way from Anything, Anywhere in Germany or Burgundy – So Culty, All of Their Single Vinevard…
+
+### [“A New Genre of Wines” – The Category Defining Grand Cru Whites from Enderle & Moll – Arguably the Best Natural Whites in the World](https://www.fassselections.com/blog/a-new-genre-of-wines-the-category-defining-grand-cru-whites-from-enderle-moll-arguably-the-best-natural-whites-in-the-world/)
+*$171.96 · fetched 2026-05-05*
+
+> Enderle & Moll Whites – Huge Cult Following for the Standard Ones – They Finally Made Ageworthy Super Cuvees of the Whites – Florian Thinks Easily the Best Whites He’s Ever Made
+
+### [“A New Genre of Wines” – The Category Defining Grand Cru Whites from Enderle & Moll – Arguably the Best Natural Whites in the World](https://www.fassselections.com/blog/a-new-genre-of-wines-the-category-defining-grand-cru-whites-from-enderle-moll-arguably-the-best-natural-whites-in-the-world-2/)
+*$171.96 · fetched 2026-05-05*
+
+> Enderle & Moll Whites – Huge Cult Following for the Standard Ones – They Finally Made Ageworthy Super Cuvees of the Whites – Florian Thinks Easily the Best Whites He’s Ever Made
+
 ## Cross-references
 
 - [[Germany_Producers|Germany]]

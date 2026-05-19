@@ -158,3 +158,13 @@ Currently tracked: **1 cuvée/vintage entries**; prices —–—.
 ## FASS
 
 _Not yet populated._
+
+## FASS Offers
+
+1 email offer from FASS Selections (raw/fass/markdown/).
+
+### [An Unheralded Value in the Côte de Beaune?!? The Grand Crus Are Famous, the 1er Crus Are Ignored by Critics – High End Value](https://www.fassselections.com/blog/an-unheralded-value-in-the-cote-de-beaune-the-grand-crus-are-famous-the-1er-crus-are-ignored-by-critics-high-end-value/)
+*2020 · $159.96 · fetched 2026-05-05*
+
+> Aloxe-Corton – Hidden in Plain Sight – The Grand Crus Are Well Regarded – The 1er Crus Are Mostly Ignored by Critics – (Mallard’s 2020 Got 93-95 from William Kelley) – A “High Quality Value Play”
+
