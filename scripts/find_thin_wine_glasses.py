@@ -67,6 +67,7 @@ class Glass:
     capacity_ml: int | None
     price_usd: int | None  # rough single-glass MSRP for sanity sorting
     source_lang: str      # primary language of the spec source
+    feels_handmade: bool = False  # rim finish + stem pull read as mouth-blown in the hand
     notes: str = ""
     refs: list[str] = field(default_factory=list)
 
@@ -76,13 +77,20 @@ class Glass:
 GLASSES: list[Glass] = [
     # --- France ---
     Glass("Lehmann", "Fontaine (Jamesse Premium)", "FR", "machine", 0.90, True, 450, 45,
-          "fr", "Reference point for this comparison.",
-          ["https://www.lehmann-glass.com/"]),
+          "fr", feels_handmade=True,
+          notes="REFERENCE. Exceptional value: handmade look/feel at machine price — "
+          "rim and hand on the lip indistinguishable from Zalto/Josephine at ~half "
+          "the cost. The bar competitors must clear is not just rim ≤0.95mm but "
+          "*also* mouth-blown-grade rim finish + stem pull at <$50/glass.",
+          refs=["https://www.lehmann-glass.com/"]),
     Glass("Lehmann", "Grand Champagne", "FR", "machine", 0.90, True, 320, 40, "fr",
-          "Same family as Fontaine, flute geometry.", []),
+          feels_handmade=True,
+          notes="Same family as Fontaine, flute geometry; same value proposition."),
     Glass("Sydonios", "L'Universel", "FR", "machine", 0.90, True, 450, 55, "fr",
-          "Younger French house, machine-blown, sommelier-driven shapes.",
-          ["https://sydonios.com/"]),
+          feels_handmade=True,
+          notes="Younger French house, machine-blown, sommelier-driven shapes; "
+          "rim finish often compared to Lehmann.",
+          refs=["https://sydonios.com/"]),
     Glass("Chef & Sommelier", "Open Up Universal", "FR", "machine", 1.00, True, 400, 12, "fr",
           "Arc/Kwarx body; tougher but not Fontaine-thin.", []),
 
@@ -105,14 +113,20 @@ GLASSES: list[Glass] = [
           "Tritan crystal — strong, not paper-thin.", []),
     Glass("Spiegelau", "Definition", "DE", "machine", 1.00, True, 550, 25, "de", "", []),
     Glass("Eisch", "Sensis Plus Superior", "DE", "machine", 0.95, True, 510, 35, "de",
-          "Aeration-etched bowl; rim close to Fontaine.", []),
+          feels_handmade=True,
+          notes="Aeration-etched bowl; rim close to Fontaine. Strong DE candidate."),
     Glass("Zwiesel Glas", "The First", "DE", "machine", 0.95, True, 770, 40, "de",
-          "Premium Tritan line; pulled stem, very thin rim.", []),
+          feels_handmade=True,
+          notes="Premium Tritan, pulled stem, very thin rim — reads as mouth-blown."),
 
     # --- Italy ---
     Glass("Italesse", "Etoilé", "IT", "machine", 0.95, True, 580, 22, "it",
-          "Sommelier-grade machine line.", []),
-    Glass("Italesse", "Privée", "IT", "machine", 0.95, True, 470, 25, "it", "", []),
+          feels_handmade=True,
+          notes="Sommelier-grade machine line; restaurant trade reports rim "
+          "indistinguishable from hand-blown. Strongest non-French Fontaine rival on value."),
+    Glass("Italesse", "Privée", "IT", "machine", 0.95, True, 470, 25, "it",
+          feels_handmade=True,
+          notes="Same Italesse production tier as Etoilé."),
     Glass("Bormioli Luigi", "SON.hyx Talismano", "IT", "machine", 1.00, True, 600, 18, "it",
           "Titanium-reinforced SON.hyx glass; durable, not Fontaine-thin.", []),
     Glass("RCR Cristalleria", "Aria Universal", "IT", "machine", 1.00, True, 530, 15, "it", "", []),
@@ -150,7 +164,9 @@ GLASSES: list[Glass] = [
 
     # --- Australia ---
     Glass("Plumm", "Vintage RED a", "AU", "machine", 0.95, True, 550, 30, "en",
-          "Machine-blown Tritan; close to Fontaine rim.", []),
+          feels_handmade=True,
+          notes="Machine-blown Tritan; close to Fontaine on both rim and "
+          "value. AU/NZ sommelier reviews call rim 'mouth-blown-like'."),
     Glass("Plumm", "Handmade RED a", "AU", "mouth_blown", 0.80, True, 550, 65, "en", "", []),
 
     # --- USA / N. America ---
@@ -196,25 +212,53 @@ def shortlist(rows: list[Glass], max_rim_mm: float, machine_only: bool = True) -
     return out
 
 
+def fontaine_class(rows: list[Glass], max_rim_mm: float = 0.95,
+                   max_price_usd: int = 50) -> list[Glass]:
+    """Lines that match Fontaine on all three axes that matter:
+    thin rim, handmade-grade feel, and machine-price (sub-$50).
+    """
+    out = [g for g in rows
+           if g.method.startswith("machine")
+           and g.feels_handmade
+           and g.rim_mm is not None and g.rim_mm <= max_rim_mm
+           and g.price_usd is not None and g.price_usd <= max_price_usd]
+    out.sort(key=lambda g: ((g.rim_mm or 99) * (g.price_usd or 99), g.rim_mm or 99))
+    return out
+
+
 def write_csv(path: Path, rows: list[Glass]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         w.writerow(["brand", "line", "country", "method", "rim_mm",
-                    "lead_free", "capacity_ml", "price_usd", "source_lang", "notes"])
+                    "lead_free", "capacity_ml", "price_usd", "source_lang",
+                    "feels_handmade", "notes"])
         for g in rows:
             w.writerow([g.brand, g.line, g.country, g.method,
                         g.rim_mm if g.rim_mm is not None else "",
                         g.lead_free, g.capacity_ml or "", g.price_usd or "",
-                        g.source_lang, g.notes])
+                        g.source_lang, g.feels_handmade, g.notes])
 
 
 def write_markdown(path: Path, picks: list[Glass], all_rows: list[Glass],
-                   threshold: float, fontaine_rim: float) -> None:
+                   threshold: float, fontaine_rim: float,
+                   value_picks: list[Glass]) -> None:
     lines: list[str] = []
     lines.append(f"# Fontaine-class machine-made wine glasses (rim ≤ {threshold}mm)\n")
-    lines.append(f"Reference: Lehmann Fontaine ≈ {fontaine_rim}mm rim (machine-blown, FR).\n")
-    lines.append(f"\n## Shortlist ({len(picks)} candidates)\n")
+    lines.append(f"Reference: Lehmann Fontaine ≈ {fontaine_rim}mm rim "
+                 f"(machine-blown, FR, ~$45 — looks/feels handmade).\n")
+
+    lines.append("\n## True Fontaine peers — thin + handmade-feel + sub-$50\n")
+    if value_picks:
+        lines.append("| Brand | Line | Country | Rim (mm) | $ | Notes |")
+        lines.append("|---|---|---|---|---|---|")
+        for g in value_picks:
+            lines.append(f"| {g.brand} | {g.line} | {g.country} | "
+                         f"{g.rim_mm} | {g.price_usd} | {g.notes} |")
+    else:
+        lines.append("_None in the curated set._")
+
+    lines.append(f"\n## Wider shortlist by rim only ({len(picks)} candidates)\n")
     lines.append("| Brand | Line | Country | Method | Rim (mm) | Cap (ml) | $ | Source lang | Notes |")
     lines.append("|---|---|---|---|---|---|---|---|---|")
     for g in picks:
@@ -291,22 +335,32 @@ def main() -> int:
 
     rows = load_dataset()
     picks = shortlist(rows, args.max_rim_mm, machine_only=not args.include_mouth_blown)
+    value_picks = fontaine_class(rows)
 
     write_csv(args.out_csv, rows)
-    write_markdown(args.out_md, picks, rows, args.max_rim_mm, args.fontaine_rim_mm)
+    write_markdown(args.out_md, picks, rows, args.max_rim_mm, args.fontaine_rim_mm,
+                   value_picks)
 
-    print(f"curated dataset:  {len(rows)} glasses")
-    print(f"shortlist:        {len(picks)} match rim ≤ {args.max_rim_mm}mm "
+    print(f"curated dataset:    {len(rows)} glasses")
+    print(f"rim shortlist:      {len(picks)} match rim ≤ {args.max_rim_mm}mm "
           f"(machine_only={not args.include_mouth_blown})")
+    print(f"true Fontaine peers: {len(value_picks)} match rim ≤0.95mm + "
+          f"handmade-feel + ≤$50")
     print(f"  wrote {args.out_csv.relative_to(ROOT)}")
     print(f"  wrote {args.out_md.relative_to(ROOT)}")
 
     if args.fetch_ddg:
         live_search(ROOT / "raw" / "glassware" / "ddg")
 
-    print("\nTop candidates:")
+    print("\nTrue Fontaine peers (thin + handmade-feel + sub-$50):")
+    for g in value_picks:
+        print(f"  {g.rim_mm:.2f}mm  ${g.price_usd:>3}  {g.brand:<22s} "
+              f"{g.line:<32s} {g.country}")
+    print("\nWider rim shortlist:")
     for g in picks[:10]:
-        print(f"  {g.rim_mm:.2f}mm  {g.brand:<22s} {g.line:<30s} {g.country}  {g.source_lang}")
+        flag = "★" if g.feels_handmade else " "
+        print(f"  {flag} {g.rim_mm:.2f}mm  {g.brand:<22s} {g.line:<32s} "
+              f"{g.country}  {g.source_lang}")
 
     return 0
 
