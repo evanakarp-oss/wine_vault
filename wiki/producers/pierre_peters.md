@@ -10,7 +10,8 @@ appellations: []
 farming:
 - sustainable
 certifications: []
-importer_us: []
+importer_us:
+- Grand Cru Selections
 retailers:
   chambers:
     championed: false

@@ -1,6 +1,6 @@
 ---
 type: log
-total_entries: 5
+total_entries: 6
 generator: scripts/build_wiki_log.py
 ---
 
@@ -48,4 +48,12 @@ Chronological, append-only record of vault operations. Each entry's `## ` prefix
 - Hand-patched `wiki/importers/Skurnik.md` (1 → 18 producers). Added `importer_us: Skurnik` to 14 producer pages that already existed in the wiki: barraud, georges_noellat, chateau_de_pibarnon, clos_du_mont_olivet, altar_uco, altos_las_hormigas, matias_riccitelli, escala_humana, stella_crinita, ver_sacrum, zorzal_wines, elio_altare, cavallotto, sottimano. Four pages already had Skurnik tagged (aj_adam, willi_schaefer, donnhoff, schafer-frohlich).
 - **Resolution**: Bernhard Huber question from previous Rosenthal log entry — Huber appears on Skurnik's current Baden list (one of Skurnik's two Baden producers, alongside Ziereisen). Flipped `importer_us` on bernhard_huber.md from `["Neal Rosenthal"]` → `["Skurnik"]`. Removed "Pending verification" section from `wiki/importers/Neal_Rosenthal.md`; added a "Resolved" note instead.
 - New open question: Schäfer-Fröhlich (Nahe) tagged `["Skurnik", "Theise"]` but not on current Skurnik paste (Nahe section lists Hexamer, Krüger-Rumpf, Schlossgut Diel, Schneider, Dönnhoff only). Could be a Skurnik dropout (still with Theise) or a paste gap. Flagged on `wiki/importers/Skurnik.md` as pending verification.
+
+## [2026-05-21] ingest | Grand Cru Selections portfolio cross-checked against Raeders
+
+- Source landed: `raw/grand_cru/portfolio_2026-05-21.md` (72 producers — Burgundy 27 / Loire 11 / Champagne 11 / Rhône 4 / Beaujolais 4 / Chablis 3 / Bordeaux 3 / Roussillon 3 / Jura 2 / Corsica 2 / Provence 1 / Normandy 1).
+- Cross-check view: `wiki/_views/grand_cru_at_raeders.md` — **19 GCS producers found at Raeder's (35 bottles)** — 26% hit rate, second only to Skurnik. Headline bottle: Domaine Georges Roumier Ruchottes-Chambertin GC 2023 at $1,799.99. Other major bottles: Château Lafleur Pomerol 2020 ($1,079.99), Fourrier Corton-Charlemagne 2022 ($799.99), Comtes Lafon Meursault Porusots 2022 ($469.99), JL Chave Hermitage Blanc 2021 ($369.99), Pierre Péters Montjolys 2017 ($329.99).
+- Created `wiki/importers/Grand_Cru_Selections.md` with 1 currently-tagged producer (Pierre Péters — flipped `importer_us` to add Grand Cru Selections). Eighteen producers at Raeder's lack wiki pages — flagged as top-tier curation candidates (Roumier, Lafleur, Comtes Lafon, Roulot, Fourrier, Chave, Clusel-Roch, Bourgneuf).
+- **Conflict flagged**: Domaine Roulot appears on BOTH the Kermit Lynch and Grand Cru Selections pastes. Real-world Roulot moved from KL to GCS around 2022, so the KL paste likely has a stale entry. No wiki action yet (no producer page exists); flagged on both `wiki/importers/Grand_Cru_Selections.md` and the GCS view.
+- Ambiguous match: Savart Champagne → "Dremont & Savart Éphémère 017 Bouzy GC" at Raeder's looks like a joint cuvée, possibly related to the GCS "Ephemeral Champagne" entry. Flagged.
 
