@@ -9,7 +9,8 @@ sub_region: "Vosne-Romanée"
 appellations: []
 farming: ['sustainable']
 certifications: []
-importer_us: []
+importer_us:
+- Kermit Lynch
 retailers:
   chambers:
     championed: false
