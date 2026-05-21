@@ -81,24 +81,9 @@ Of the 30 KL producers confirmed at Raeder's, **28 have no producer page** in `w
 **Lower priority** (rosé / sparkling / single-cuvée):
 - Champalou, Daniel Chotard, Domaine de Marquiliani, Domaine de la Prébende, Domaine du Vieux Télégraphe (white only at Raeder's), Clos Sainte Magdeleine, Benevelli Piero, Castagnoli, A. & G. Fantino, Villa di Geggiano, Silvio Giamello, Tintero.
 
-## Discrepancies with existing wiki data
+## Discrepancies with existing wiki data — resolved
 
-**Issue 1 — 8 of the 10 wiki producers tagged `importer_us: Kermit Lynch` are NOT on the pasted portfolio**:
-
-| Wiki producer | Status on new portfolio |
-|---|---|
-| Domaine Pierre Gonon | ✓ present (as "Pierre Gonon") |
-| Thierry Allemand | ✓ present |
-| Domaine Pierre André | ✗ not listed |
-| Clos du Joncuas | ✗ not listed |
-| Domaine Charvin | ✗ not listed |
-| Domaine Barou | ✗ not listed |
-| Domaine Levet | ✗ not listed |
-| Franck Balthazar | ✗ not listed |
-| Sylvie Esmonin | ✗ not listed |
-| Ferme Saint-Martin | ✗ not listed |
-
-These 8 producers were tagged `importer_us: Kermit Lynch` based on older CSW write-ups. Either (a) KL dropped them, (b) they shifted importer, or (c) the paste is incomplete. **Recommend Evan verify and either keep or strip the importer tag.**
+**Issue 1 (resolved 2026-05-21) — KL dropouts stripped.** Of the 10 wiki producers previously tagged `importer_us: Kermit Lynch`, only 2 (Pierre Gonon, Allemand) remain on the current portfolio. The other 8 (Pierre André, Clos du Joncuas, Charvin, Barou, Levet, Balthazar, Esmonin, Ferme Saint-Martin) had `importer_us: Kermit Lynch` stripped — they were historical KL imports inferred from older CSW write-ups but are no longer on kermitlynch.com/growers. Their CSW write-ups remain intact. Two new pages (lucien_boillot, meo_camuzet) gained the tag, so the current count is 4. See `wiki/importers/Kermit_Lynch.md`.
 
 **Issue 2 — Portfolio completeness verified.** Re-pasted the full kermitlynch.com/growers page (single alphabetized list mixing France + Italy) on 2026-05-21 and diffed against the stored source: **zero deltas** (193 = 193). The earlier "GROWER" string was the page-level filter chip, not a category divider — no other sections exist on that page.
 

@@ -2,29 +2,34 @@
 type: importer
 name: "Kermit Lynch"
 slug: kermit_lynch
-producer_count: 12
+producer_count: 4
 focus: ['Burgundy', 'Rhône']
-notable_producers: ['Domaine Pierre Gonon', 'Méo-Camuzet', 'Domaine Pierre André', 'Clos du Joncuas', 'Allemand']
+notable_producers: ['Domaine Pierre Gonon', 'Méo-Camuzet', 'Allemand', 'Lucien Boillot']
 updated: 2026-05-21
 ---
 
 # Kermit Lynch
 
-**12 producer(s)** in the vault imported by Kermit Lynch (US). The full KL portfolio is 193 producers (146 France + 47 Italy Grower) — see `raw/kermit_lynch/portfolio_2026-05-21.md`. For the cross-check against Raeder's inventory, see [[kermit_lynch_at_raeders|Kermit Lynch at Raeder's]] (30 producers, 67 bottles).
+**4 producer(s)** in the vault currently imported by Kermit Lynch (US). The full KL portfolio is 193 producers (kermitlynch.com/growers, verified 2026-05-21) — source at `raw/kermit_lynch/portfolio_2026-05-21.md`. Cross-check against Raeder's: [[kermit_lynch_at_raeders|Kermit Lynch at Raeder's]] — 30 KL producers in stock (67 bottles).
 
 | Producer | Country | Region | CSW | Cellar |
 |---|---|---|---:|---:|
 | [[domaine_pierre_gonon|Domaine Pierre Gonon]] | France | Rhône | 34 | — |
-| [[domaine_pierre_andre|Domaine Pierre André]] | France | Rhône | 12 | — |
-| [[clos_du_joncuas|Clos du Joncuas]] | France | Rhône | 10 | — |
 | [[allemand|Allemand]] | France | Rhône | 9 | — |
-| [[sylvie_esmonin|Sylvie Esmonin]] | France | Burgundy | 8 | — |
-| [[domaine_charvin|Domaine Charvin]] | France | Rhône | 7 | — |
-| [[domaine_barou|Domaine Barou]] | France | Rhône | 6 | — |
-| [[domaine_levet|Domaine Levet]] | France | Rhône | 6 | — |
-| [[franck_balthazar|Franck Balthazar]] | France | Rhône | 5 | — |
-| [[ferme_saint-martin|Ferme Saint-Martin]] | France | Rhône | 4 | — |
 | [[meo_camuzet|Méo-Camuzet]] | France | Burgundy | 1 | — |
 | [[lucien_boillot|Lucien Boillot]] | France | Burgundy | 0 | — |
 
-*Hand-patched 2026-05-21. `scripts/build_rollups.py` has a latent bug — `get_list()` regex only matches inline-style YAML lists (`importer_us: ["Kermit Lynch"]`) but the wiki uses block style (`importer_us:\n- Kermit Lynch`), so the rollup grouped only 3 of 12 producers. Fix `get_list` in build_rollups.py to also parse block lists, then this file can be regenerated.*
+## Recently dropped from KL portfolio (2026-05-21 reconciliation)
+
+The following 8 producers were tagged `importer_us: Kermit Lynch` based on older CSW write-ups but are no longer on the current kermitlynch.com/growers page. The tag was stripped from their producer pages on 2026-05-21; the historical CSW relationship is still recorded in each page's CSW Write-ups section.
+
+- [[domaine_pierre_andre|Domaine Pierre André]] *(Rhône — Châteauneuf)*
+- [[clos_du_joncuas|Clos du Joncuas]] *(Rhône — Gigondas)*
+- [[sylvie_esmonin|Sylvie Esmonin]] *(Burgundy — Gevrey)*
+- [[domaine_charvin|Domaine Charvin]] *(Rhône — Châteauneuf)*
+- [[domaine_barou|Domaine Barou]] *(Rhône — Saint-Joseph)*
+- [[domaine_levet|Domaine Levet]] *(Rhône — Côte-Rôtie)*
+- [[franck_balthazar|Franck Balthazar]] *(Rhône — Cornas)*
+- [[ferme_saint-martin|Ferme Saint-Martin]] *(Rhône — Ventoux)*
+
+*Hand-maintained 2026-05-21. `scripts/build_rollups.py` has a latent bug — `get_list()` regex only matches inline-flow YAML lists, not block style — so it can't currently regenerate this page from `importer_us:` frontmatter. Fix in a follow-up.*

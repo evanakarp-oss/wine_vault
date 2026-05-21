@@ -10,8 +10,7 @@ appellations: []
 farming:
 - biodynamic
 certifications: []
-importer_us:
-- Kermit Lynch
+importer_us: []
 retailers:
   chambers:
     championed: true
