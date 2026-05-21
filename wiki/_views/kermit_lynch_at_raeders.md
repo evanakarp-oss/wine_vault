@@ -100,7 +100,7 @@ Of the 30 KL producers confirmed at Raeder's, **28 have no producer page** in `w
 
 These 8 producers were tagged `importer_us: Kermit Lynch` based on older CSW write-ups. Either (a) KL dropped them, (b) they shifted importer, or (c) the paste is incomplete. **Recommend Evan verify and either keep or strip the importer tag.**
 
-**Issue 2 — Italy section may be incomplete.** The pasted Italy list was preceded by the header "GROWER", suggesting there may be additional categories (Négoce / NV / etc.) on the KL Italy page that weren't pasted. The 47 producers captured are the "Grower" segment only.
+**Issue 2 — Portfolio completeness verified.** Re-pasted the full kermitlynch.com/growers page (single alphabetized list mixing France + Italy) on 2026-05-21 and diffed against the stored source: **zero deltas** (193 = 193). The earlier "GROWER" string was the page-level filter chip, not a category divider — no other sections exist on that page.
 
 **Issue 3 — Ambiguous: "Domaine Jolivet" (Northern Rhône)**. Raeder's stocks "Pascal Jolivet" Sancerre (4 bottles incl. Sancerre Les Caillottes NV $25.99) — but Pascal Jolivet is Loire, and the KL entry is Northern Rhône. These appear to be different producers; **excluded from confirmed matches**.
 
