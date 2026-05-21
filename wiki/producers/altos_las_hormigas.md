@@ -9,7 +9,8 @@ sub_region: "Paraje Altamira / Luján de Cuyo / Gualtallary"
 appellations: []
 farming: ["biodynamic"]
 certifications: []
-importer_us: []
+importer_us:
+- Skurnik
 retailers:
   chambers:
     championed: false

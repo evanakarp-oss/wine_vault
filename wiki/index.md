@@ -86,7 +86,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Louis|Louis]] — Burgundy, Jura, Rhône, Sicily (Etna), Sicily (Vittoria)
 - [[Neal_Rosenthal|Neal Rosenthal]] — Burgundy, Italy, Jura, Bordeaux
 - [[Polaner|Polaner]] — Barbaresco, Barolo / Barbaresco, Burgundy, Loire
-- [[Skurnik|Skurnik]] — Nahe
+- [[Skurnik|Skurnik]] — Mosel, Piedmont, Mendoza, Burgundy, Nahe
 - [[Theise|Theise]] — Nahe
 - [[Wilson_Daniels|Wilson Daniels]] — Burgundy
 

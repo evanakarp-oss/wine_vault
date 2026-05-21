@@ -22,9 +22,9 @@ updated: 2026-05-21
 | [[jacques_puffeney|Jacques Puffeney]] | France | Jura | — | — |
 | [[michel_gahier|Michel Gahier]] | France | Jura | — | — |
 
-## Pending verification — not on the current portfolio paste (1)
+## Resolved — Bernhard Huber moved to Skurnik (2026-05-21)
 
-- [[bernhard_huber|Bernhard Huber]] *(Germany — Baden)* — currently tagged `importer_us: Neal Rosenthal` but not present on the 2026-05-21 paste. The pasted page contains no German producers at all, so this may be (a) Huber dropped from Rosenthal, (b) Huber moved importer, or (c) the page is country-filtered and Germany is on a separate view. **Verify before stripping the importer tag.**
+The earlier "pending verification" flag on Bernhard Huber (Baden) is now resolved. Huber appears on the current Skurnik Baden list (one of only two Baden producers Skurnik carries, alongside Ziereisen). The `importer_us` tag on [[bernhard_huber]] was flipped from `["Neal Rosenthal"]` → `["Skurnik"]`, and Huber dropped from this rollup. See [[Skurnik]] and [[skurnik_at_raeders]].
 
 ## Producers at Raeder's not yet in the wiki (curation candidates)
 

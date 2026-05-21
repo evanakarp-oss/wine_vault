@@ -79,6 +79,8 @@ These 6 producer pages already exist in the wiki and are on the current Rosentha
 
 Of these 6, only [[brovia]] is currently surfaced in the `wiki/importers/Neal_Rosenthal.md` rollup (and even that is brittle — the rollup script's YAML parser misses block-style `importer_us:` lists; see the latent bug flagged on the [[Kermit_Lynch]] page).
 
+**Resolution (2026-05-21)**: [[bernhard_huber]] (Baden) — previously flagged as pending verification because the Rosenthal paste contained no German producers — is now confirmed on **Skurnik's** Baden list. Tag flipped on the producer page; see [[skurnik_at_raeders]].
+
 ## False positives caught and excluded
 
 These token collisions matched in the first pass but are different producers (recorded so future re-runs can skip them):

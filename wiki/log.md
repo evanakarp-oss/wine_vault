@@ -1,6 +1,6 @@
 ---
 type: log
-total_entries: 4
+total_entries: 5
 generator: scripts/build_wiki_log.py
 ---
 
@@ -40,4 +40,12 @@ Chronological, append-only record of vault operations. Each entry's `## ` prefix
 - New match found: **Paolo and Giampiero Bea — 5 bottles at Raeder's** (Sagrantino Pagliaro 2020, Cerrete 2019, Pipparello 2019, San Valentino 2020, De Veo 2019). Rosenthal Raeder's total bumped 8 → 9 producers, 13 → 18 bottles.
 - Re-ran same fix against Kermit Lynch portfolio: 8 surname-only candidates surfaced, all audited as false positives (Bellevue Mondotte ≠ Château de Bellevue, Nino Negri ≠ Giulia Negri, Pascal Jolivet ≠ KL's Northern-Rhône "Domaine Jolivet", Joseph Drouhin/Carr ≠ Clos Saint-Joseph, etc.). KL total stays at 30 producers / 67 bottles.
 - Updated `wiki/_views/rosenthal_at_raeders.md` + `wiki/importers/Neal_Rosenthal.md` with the new Bea entry.
+
+## [2026-05-21] ingest | Skurnik portfolio cross-checked against Raeders + resolves Huber
+
+- Source landed: `raw/skurnik/portfolio_2026-05-21.md` (443 wine producers across France 133 / Italy 107 / USA 110 / Spain 54 / Germany 25 / Argentina 14). Spirits / distilleries / ciders / sojus (46 entries) filtered out at parse time.
+- Cross-check view: `wiki/_views/skurnik_at_raeders.md` — **32 Skurnik producers found at Raeder's (53 bottles)** — the densest importer overlap by far, driven by Skurnik's California/Oregon/Washington coverage matching Raeder's specialty. Highlights: Ramey 5 bottles, Cayuse 5, Peter Michael 3, Patricia Green 3, La Rioja Alta 3.
+- Hand-patched `wiki/importers/Skurnik.md` (1 → 18 producers). Added `importer_us: Skurnik` to 14 producer pages that already existed in the wiki: barraud, georges_noellat, chateau_de_pibarnon, clos_du_mont_olivet, altar_uco, altos_las_hormigas, matias_riccitelli, escala_humana, stella_crinita, ver_sacrum, zorzal_wines, elio_altare, cavallotto, sottimano. Four pages already had Skurnik tagged (aj_adam, willi_schaefer, donnhoff, schafer-frohlich).
+- **Resolution**: Bernhard Huber question from previous Rosenthal log entry — Huber appears on Skurnik's current Baden list (one of Skurnik's two Baden producers, alongside Ziereisen). Flipped `importer_us` on bernhard_huber.md from `["Neal Rosenthal"]` → `["Skurnik"]`. Removed "Pending verification" section from `wiki/importers/Neal_Rosenthal.md`; added a "Resolved" note instead.
+- New open question: Schäfer-Fröhlich (Nahe) tagged `["Skurnik", "Theise"]` but not on current Skurnik paste (Nahe section lists Hexamer, Krüger-Rumpf, Schlossgut Diel, Schneider, Dönnhoff only). Could be a Skurnik dropout (still with Theise) or a paste gap. Flagged on `wiki/importers/Skurnik.md` as pending verification.
 

@@ -9,7 +9,7 @@ sub_region: ""
 appellations: []
 farming: []
 certifications: []
-importer_us: ["Neal Rosenthal"]
+importer_us: ["Skurnik"]
 retailers:
   chambers:
     championed: true
