@@ -11,7 +11,7 @@ farming:
 - organic
 certifications: []
 importer_us:
-- Polaner
+- Kermit Lynch
 retailers:
   chambers:
     championed: true

@@ -11,6 +11,7 @@ farming:
 - organic
 certifications: []
 importer_us:
+- Polaner
 - Kysela
 retailers:
   chambers:

@@ -9,7 +9,8 @@ sub_region: California Trousseau / Jura varieties
 appellations: []
 farming: []
 certifications: []
-importer_us: []
+importer_us:
+- Polaner
 retailers:
   chambers:
     championed: true

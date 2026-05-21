@@ -1,6 +1,6 @@
 ---
 type: log
-total_entries: 6
+total_entries: 7
 generator: scripts/build_wiki_log.py
 ---
 
@@ -56,4 +56,12 @@ Chronological, append-only record of vault operations. Each entry's `## ` prefix
 - Created `wiki/importers/Grand_Cru_Selections.md` with 1 currently-tagged producer (Pierre Péters — flipped `importer_us` to add Grand Cru Selections). Eighteen producers at Raeder's lack wiki pages — flagged as top-tier curation candidates (Roumier, Lafleur, Comtes Lafon, Roulot, Fourrier, Chave, Clusel-Roch, Bourgneuf).
 - **Conflict flagged**: Domaine Roulot appears on BOTH the Kermit Lynch and Grand Cru Selections pastes. Real-world Roulot moved from KL to GCS around 2022, so the KL paste likely has a stale entry. No wiki action yet (no producer page exists); flagged on both `wiki/importers/Grand_Cru_Selections.md` and the GCS view.
 - Ambiguous match: Savart Champagne → "Dremont & Savart Éphémère 017 Bouzy GC" at Raeder's looks like a joint cuvée, possibly related to the GCS "Ephemeral Champagne" entry. Flagged.
+
+## [2026-05-21] ingest | Polaner Selections portfolio cross-checked against Raeders + tag corrections
+
+- Source landed: `raw/polaner/portfolio_2026-05-21.md` (323 producers across France 131 / Italy 77 / USA 57 / Spain 32 / Portugal 15 / Argentina 6 / Chile 3 / Hungary 1 / Austria 1).
+- Cross-check view: `wiki/_views/polaner_at_raeders.md` — **24 Polaner producers found at Raeder's (58+ bottles)** — heaviest absolute bottle count of the five importers checked so far. Driven by Roagna (6 bottles), Carlisle (~10 bottles), Bedrock (5), Maybach (5). Headline bottles: Giacomo Conterno Barolo Cerretta 2021 ($379.99), Roagna Barbaresco Pajé VV 2018 ($359.99), Giuseppe Mascarello Monprivato 2017 ($249.99).
+- Hand-patched `wiki/importers/Polaner.md`: bumped from 10 (mostly stale) to 19 confirmed-current producers. Added `importer_us: Polaner` to 17 producer pages (agrapart, boulay, cascina_delle_rose, collestefano, georges_glantenay, giacomo_conterno, goisot, julien_sunier, larmandier_bernier, montenidoli, roagna, sigaut, trediberri, vincent_paris, franck_balthazar, arnot-roberts, domaine_boisson). Added Polaner alongside Kysela on domaine_de_montille.
+- Tag corrections: (1) flipped `importer_us` on domaine_baudry from Polaner → Kermit Lynch (new KL paste lists "Bernard Baudry"; Polaner paste has none); (2) added Polaner to franck_balthazar (we stripped this from KL earlier; now confirmed on Polaner Rhône list — resolves the KL dropout).
+- Open question for Evan: 8 wiki producers tagged `importer_us: Polaner` not on the freshly-pasted Polaner portfolio: Rateau, Lafouge, Chevalerie, Ceretto, Produttori del Barbaresco, Rapet Père & Fils, Jane et Sylvain, Stéphane Guion. Following the KL precedent these are probable stale tags; flagged on the Polaner rollup as pending verification.
 
