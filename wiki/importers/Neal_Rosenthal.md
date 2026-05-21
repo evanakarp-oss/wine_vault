@@ -28,9 +28,10 @@ updated: 2026-05-21
 
 ## Producers at Raeder's not yet in the wiki (curation candidates)
 
-Eight Rosenthal producers were confirmed at Raeder's in the 2026-04-25 snapshot but have no wiki page. See [[rosenthal_at_raeders]] for the full bottle-level list. Top candidates:
+Nine Rosenthal producers were confirmed at Raeder's in the 2026-04-25 snapshot but have no wiki page. See [[rosenthal_at_raeders]] for the full bottle-level list. Top candidates:
 
 - Hubert Lignier *(Morey — 5 cuvées at Raeder's incl. Trilogie 2022, Volnay 2022, Gevrey 2022)*
+- Paolo and Giampiero Bea *(Umbria — Montefalco; 5 cuvées incl. Sagrantino Pagliaro 2020, Cerrete 2019, Pipparello Riserva 2019 — cult biodynamic, call for price)*
 - Domaine Harmand-Geoffroy *(Gevrey — Mazis-Chambertin GC 2020 $449.99)*
 - Edmond Cornu & Fils *(Ladoix value — Chorey 2017, Bourgogne 2023)*
 - Jean Chauvenet *(NSG 2019)*

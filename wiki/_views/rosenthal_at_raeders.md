@@ -9,8 +9,8 @@ rosenthal_by_country:
   switzerland: 5
   austria: 4
   spain: 4
-raeders_hits: 8
-raeders_bottles: 13
+raeders_hits: 9
+raeders_bottles: 18
 updated: 2026-05-21
 ---
 
@@ -18,13 +18,14 @@ updated: 2026-05-21
 
 Cross-checks the newly-pasted Rosenthal Wine Merchant portfolio (145 producers across France 86 / Italy 46 / Switzerland 5 / Austria 4 / Spain 4, pasted 2026-05-21) against the Raeder's master inventory snapshot from 2026-04-25.
 
-**8 of 145 Rosenthal producers** have bottles at Raeder's (13 total). Matching is **whole-token** on the producer field after normalization (lowercased, accents stripped, hyphens → spaces, prefixes like *Domaine* / *Château* / *Cave* / *Mas* / *Tenuta* dropped).
+**9 of 145 Rosenthal producers** have bottles at Raeder's (18 total). Matching is **whole-token** on the producer field after normalization (lowercased, accents stripped, hyphens → spaces, prefixes like *Domaine* / *Château* / *Cave* / *Mas* / *Tenuta* dropped). Surnames ≥3 chars are kept so short surnames like "Bea" can match.
 
-## Confirmed at Raeder's (8 producers)
+## Confirmed at Raeder's (9 producers)
 
 | Rosenthal Producer | Region | Raeder's listings |
 |---|---|---|
 | Hubert Lignier | Burgundy — Morey-Saint-Denis | 5 bottles incl. Morey-St-Denis Trilogie 2022 ($139.99), Volnay 2022 ($139.99), Gevrey-Chambertin Regnard 2022 ($129.99), Monthélie 2022 ($79.99), Morey-St-Denis Les Chaffots 2022 |
+| Paolo and Giampiero Bea | Italy — Umbria — Montefalco | 5 bottles, all *(call for price)*: Sagrantino di Montefalco Secco Pagliaro 2020, Montefalco Sagrantino Cerrete 2019, Montefalco Rosso Riserva Pipparello 2019, Montefalco Rosso Vigna San Valentino 2020, Rosso De Veo Umbria Rosso 2019 |
 | Domaine Harmand-Geoffroy | Burgundy — Gevrey-Chambertin | Mazis-Chambertin GC 2020 — $449.99 |
 | Edmond Cornu & Fils | Burgundy — Ladoix | Chorey-lès-Beaune Les Bons Ores 2017 ($41.99); Bourgogne Les Barrigards 2023 ($35.99) |
 | Jean Chauvenet | Burgundy — Nuits-Saint-Georges | NSG 2019 |
@@ -37,7 +38,7 @@ Cross-checks the newly-pasted Rosenthal Wine Merchant portfolio (145 producers a
 
 Producers worth flagging in case Raeder's takes them in future, or worth seeking elsewhere — these are the editorial-tier Rosenthal names that did not show in the snapshot:
 
-- **Italy**: Montevertine, Gravner, Vodopivec, Cappellano, Brovia, Bea, Monastero Suore Cistercensi, Podere Le Boncie, Pacina, Joaquin, Casa Setaro, De Fermo, Luigi Ferrando, Figli Luigi Oddero
+- **Italy**: Montevertine, Gravner, Vodopivec, Cappellano, Brovia, Monastero Suore Cistercensi, Podere Le Boncie, Pacina, Joaquin, Casa Setaro, De Fermo, Luigi Ferrando, Figli Luigi Oddero
 - **France — Burgundy**: Ghislaine Barthod, Jacques Carillon, Jean & Sébastien Dauvissat, Daniel-Etienne Defaix, Domaine Bitouzet-Prieur, Henri & Gilles Buisson, Jean-Marc Pillot, Sylvain Morey, Domaine Rollin
 - **France — Loire**: Philippe Foreau (Clos Naudin), Philippe Gilbert (Menetou-Salon), Château de Chaintres
 - **France — Bordeaux**: Le Puy, Château de Fargues, Domaine du Jaugaret
@@ -52,8 +53,9 @@ Producers worth flagging in case Raeder's takes them in future, or worth seeking
 
 All 8 confirmed Rosenthal-at-Raeder's producers are **absent from `wiki/producers/`**:
 
-**Highest priority** (Burgundy grand cru / Premier cru, drink-now or short-term cellar):
+**Highest priority** (Burgundy grand cru / Premier cru / cult Italian, drink-now or short-term cellar):
 - Hubert Lignier *(Morey, 5 cuvées in stock)*
+- Paolo and Giampiero Bea *(Umbria — Montefalco; 5 cuvées incl. Sagrantino Pagliaro & Cerrete, cult biodynamic)*
 - Domaine Harmand-Geoffroy *(Gevrey, Mazis-Chambertin GC)*
 - Edmond Cornu & Fils *(Ladoix value)*
 - Jean Chauvenet *(NSG)*
@@ -91,5 +93,6 @@ These token collisions matched in the first pass but are different producers (re
 1. Source landed at `raw/rosenthal/portfolio_2026-05-21.md` (single dump of rosenthalwinemerchant.com/growers; producer + location pairs, country inferred from location keywords).
 2. Cross-check script: normalize name (NFKD ASCII, lowercase, hyphens→spaces, strip prefixes like *Domaine/Château/Cave/Mas/Tenuta/Bodega/Cantina*), drop generic words `{de, la, saint, …}` and tokens ≤3 chars. Require **all** remaining tokens to appear as whole words in the Raeder's `producer` field.
 3. Hand-audit each match against the Rosenthal region tag and Raeder's cuvée — false positives noted above.
+4. **Surname-only fallback**: drop given-name particles (Paolo, Pierre, Jean, etc.) from the token set so multi-given-name producers like "Paolo and Giampiero Bea" reduce to the shared surname "Bea" and match Raeder's stored "Paolo Bea". Min-token-length lowered from 4 to 3 to keep short surnames. Same fallback re-run against the Kermit Lynch portfolio confirmed no missed matches there (8 surname-only candidates audited as false positives — Bellevue Mondotte ≠ Château de Bellevue, Nino Negri ≠ Giulia Negri, Pascal Jolivet ≠ Domaine Jolivet, etc.).
 
 *Compiled 2026-05-21 against `raw/raeders/master_2026-04-25.csv`.*

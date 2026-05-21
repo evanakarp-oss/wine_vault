@@ -1,6 +1,6 @@
 ---
 type: log
-total_entries: 3
+total_entries: 4
 generator: scripts/build_wiki_log.py
 ---
 
@@ -32,4 +32,12 @@ Chronological, append-only record of vault operations. Each entry's `## ` prefix
 - Cross-check view: `wiki/_views/rosenthal_at_raeders.md` — 8 Rosenthal producers found at Raeder's (13 bottles in stock). Hubert Lignier dominant with 5 cuvées; Harmand-Geoffroy Mazis-Chambertin GC 2020 is the headline grand-cru bottle.
 - Hand-patched `wiki/importers/Neal_Rosenthal.md`: bumped from 1 to 7 confirmed-current Rosenthal producers already in the wiki (Brovia, Le Puy, Cheveau, Lionnet, Elio Sandri, Puffeney, Gahier — the rollup script's YAML block-list bug had hidden 6 of these). Added a "Curation candidates" section for the 8 Raeder's-stocked producers without wiki pages, top picks Hubert Lignier and Harmand-Geoffroy.
 - Open question for Evan: Bernhard Huber (Baden) is tagged `importer_us: Neal Rosenthal` but the pasted portfolio has NO German producers at all. Could be (a) Huber dropped, (b) moved importer, or (c) the rosenthalwinemerchant.com/growers page is region-filtered and Germany is on a separate view. Flagged on the importer page as pending verification.
+
+## [2026-05-21] lint | Catch Paolo Bea miss; re-run KL+Rosenthal cross-checks with improved matcher
+
+- Bug: discriminative-tokens function required tokens ≥4 chars, which dropped the 3-letter surname "Bea" from "Paolo and Giampiero Bea". Combined with KEEPING "Paolo" and "Giampiero" (given names), the all-tokens match against Raeder's stored "Paolo Bea" failed.
+- Fix: lowered min token length 4 → 3 and added an explicit drop-list for common given names (Paolo, Pierre, Jean, Michel, Jacques, Hubert, Henri, Georges, Sylvain, Xavier, Etienne, Lucien, etc.). Surnames now become the discriminator.
+- New match found: **Paolo and Giampiero Bea — 5 bottles at Raeder's** (Sagrantino Pagliaro 2020, Cerrete 2019, Pipparello 2019, San Valentino 2020, De Veo 2019). Rosenthal Raeder's total bumped 8 → 9 producers, 13 → 18 bottles.
+- Re-ran same fix against Kermit Lynch portfolio: 8 surname-only candidates surfaced, all audited as false positives (Bellevue Mondotte ≠ Château de Bellevue, Nino Negri ≠ Giulia Negri, Pascal Jolivet ≠ KL's Northern-Rhône "Domaine Jolivet", Joseph Drouhin/Carr ≠ Clos Saint-Joseph, etc.). KL total stays at 30 producers / 67 bottles.
+- Updated `wiki/_views/rosenthal_at_raeders.md` + `wiki/importers/Neal_Rosenthal.md` with the new Bea entry.
 
