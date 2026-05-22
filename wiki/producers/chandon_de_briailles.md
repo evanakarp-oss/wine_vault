@@ -12,7 +12,7 @@ farming:
 - biodynamic
 certifications: []
 importer_us:
-- Skurnik
+- Bowler
 retailers:
   chambers:
     championed: true

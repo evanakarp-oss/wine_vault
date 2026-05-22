@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 747
+total_pages: 748
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**747 pages indexed.**
+**748 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -80,6 +80,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Importers
 
+- [[Bowler|Bowler]] — Burgundy, Champagne, Piedmont, Mosel, Rhône
 - [[Dressner|Dressner]] — Burgundy, Jura, Rhône, Sicily (Etna), Sicily (Vittoria)
 - [[Grand_Cru_Selections|Grand Cru Selections]] — Champagne
 - [[Kermit_Lynch|Kermit Lynch]] — Burgundy, Rhône

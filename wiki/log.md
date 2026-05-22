@@ -1,6 +1,6 @@
 ---
 type: log
-total_entries: 7
+total_entries: 8
 generator: scripts/build_wiki_log.py
 ---
 
@@ -64,4 +64,12 @@ Chronological, append-only record of vault operations. Each entry's `## ` prefix
 - Hand-patched `wiki/importers/Polaner.md`: bumped from 10 (mostly stale) to 19 confirmed-current producers. Added `importer_us: Polaner` to 17 producer pages (agrapart, boulay, cascina_delle_rose, collestefano, georges_glantenay, giacomo_conterno, goisot, julien_sunier, larmandier_bernier, montenidoli, roagna, sigaut, trediberri, vincent_paris, franck_balthazar, arnot-roberts, domaine_boisson). Added Polaner alongside Kysela on domaine_de_montille.
 - Tag corrections: (1) flipped `importer_us` on domaine_baudry from Polaner → Kermit Lynch (new KL paste lists "Bernard Baudry"; Polaner paste has none); (2) added Polaner to franck_balthazar (we stripped this from KL earlier; now confirmed on Polaner Rhône list — resolves the KL dropout).
 - Open question for Evan: 8 wiki producers tagged `importer_us: Polaner` not on the freshly-pasted Polaner portfolio: Rateau, Lafouge, Chevalerie, Ceretto, Produttori del Barbaresco, Rapet Père & Fils, Jane et Sylvain, Stéphane Guion. Following the KL precedent these are probable stale tags; flagged on the Polaner rollup as pending verification.
+
+## [2026-05-21] ingest | Bowler Wine portfolio cross-checked against Raeders + tag corrections
+
+- Source landed: `raw/bowler/portfolio_2026-05-21.md` (309 producers across France 114 / Italy 71 / USA 44 / Spain 33 / Germany 16 / Austria 11 / Argentina 8 / Chile 8 / NZ 2 / Switzerland 1 / Portugal 1).
+- Cross-check view: `wiki/_views/bowler_at_raeders.md` — **14 Bowler producers found at Raeder's (17 bottles)**. Modest hit rate (~5%) but high-quality matches: 3 Washington cult Cabs (Leonetti 3 bottles, Quilceda Creek 1, Figgins 1), Philip Togni Napa Spring Mountain, Lopez de Heredia, Mount Eden, Arianna Occhipinti, La Gerla.
+- Resolution from prior session: "Famille Isabel Ferrando" bottle at Raeders (Châteauneuf-du-Pape Rouge 2020 $115.99) is BOWLER-imported (Domaine Saint-Préfert). This closes the loop on the Rosenthal "Luigi Ferrando" false positive I flagged earlier.
+- Created `wiki/importers/Bowler.md` with 15 currently-tagged producers. Added `importer_us: Bowler` to 13 producer pages (arnoux_lachaux, bruna, cara_sur, carmelo_patti, clos_de_la_roilette, desvignes, fratelli_alessandria, magnien, piane, pielihueso, ployez_jacquemart, steinmetz, berthaut-gerbet).
+- Tag corrections: (1) flipped `importer_us` on chandon_de_briailles from Skurnik → Bowler (Bowler paste lists it, Skurnik paste does not). (2) flipped clemens_busch from `["Skurnik", "Theise"]` → `["Bowler", "Theise"]` (Bowler is current; Theise tag preserved since Theise paste not yet sourced).
 

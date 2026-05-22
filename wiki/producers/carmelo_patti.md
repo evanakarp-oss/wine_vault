@@ -9,7 +9,8 @@ sub_region: "Perdriel, Luján de Cuyo"
 appellations: []
 farming: []
 certifications: []
-importer_us: []
+importer_us:
+- Bowler
 retailers:
   chambers:
     championed: false

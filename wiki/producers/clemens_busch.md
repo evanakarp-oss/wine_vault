@@ -11,7 +11,7 @@ farming:
 - biodynamic
 certifications: []
 importer_us:
-- Skurnik
+- Bowler
 - Theise
 retailers:
   chambers:
