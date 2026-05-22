@@ -11,6 +11,7 @@ farming: ['sustainable']
 certifications: []
 importer_us:
 - Kermit Lynch
+- Wildman
 retailers:
   chambers:
     championed: false

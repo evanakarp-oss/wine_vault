@@ -1,6 +1,6 @@
 ---
 type: log
-total_entries: 8
+total_entries: 9
 generator: scripts/build_wiki_log.py
 ---
 
@@ -72,4 +72,12 @@ Chronological, append-only record of vault operations. Each entry's `## ` prefix
 - Resolution from prior session: "Famille Isabel Ferrando" bottle at Raeders (Châteauneuf-du-Pape Rouge 2020 $115.99) is BOWLER-imported (Domaine Saint-Préfert). This closes the loop on the Rosenthal "Luigi Ferrando" false positive I flagged earlier.
 - Created `wiki/importers/Bowler.md` with 15 currently-tagged producers. Added `importer_us: Bowler` to 13 producer pages (arnoux_lachaux, bruna, cara_sur, carmelo_patti, clos_de_la_roilette, desvignes, fratelli_alessandria, magnien, piane, pielihueso, ployez_jacquemart, steinmetz, berthaut-gerbet).
 - Tag corrections: (1) flipped `importer_us` on chandon_de_briailles from Skurnik → Bowler (Bowler paste lists it, Skurnik paste does not). (2) flipped clemens_busch from `["Skurnik", "Theise"]` → `["Bowler", "Theise"]` (Bowler is current; Theise tag preserved since Theise paste not yet sourced).
+
+## [2026-05-21] ingest | Frederick Wildman & Sons portfolio cross-checked against Raeders
+
+- Source landed: `raw/wildman/portfolio_2026-05-21.md` (297 wine producers — USA 84 / Italy 73 / France 58 / Spain 25 / Australia 16 / Argentina 8 / Austria 8 / Germany 6 / NZ 5 / South Africa 4 / Chile 3 / Portugal 3 / Peru 2 / Mexico 1 / Japan 1; 15 spirits filtered out).
+- Cross-check view: `wiki/_views/wildman_at_raeders.md` — **~60 Wildman producers at Raeder's (~110 bottles)** — by a wide margin the heaviest Raeder's overlap of all importers cross-checked. Driven by Wildman's deep Napa book (Stag's Leap, Ridge, Larkmead, PlumpJack, Chappellet, Darioush, Cade, HALL) + Burgundy grand cru (Armand Rousseau 4 bottles incl. Chambertin GC 2022 $2,999.99, Jacques Prieur Echezeaux 2019 $1,199.99, Mugnier Maréchale, Nicole Lamarche Echezeaux, Sylvain Cathiard NSG Aux Thorey 2021 $499.99). Headline single bottle: Vega Sicilia Único Reserva Especial R24 3-pack 2010/11/12 NV at $2,999.99.
+- Created `wiki/importers/Wildman.md` with 4 currently-tagged producers. Added `importer_us: Wildman` to 3 wiki pages (burlotto, guyon, otronia). Added Wildman alongside Kermit Lynch on meo_camuzet.md.
+- **Conflict — Méo-Camuzet**: both KL paste and Wildman paste claim Méo-Camuzet. Same pattern as the earlier Roulot conflict (KL vs GCS). Wiki tag now carries both `Kermit Lynch` and `Wildman` pending resolution. Real-world MC has historically been Wilson Daniels in many markets — likely one paste is stale.
+- **Resolution**: Pascal Jolivet ambiguity (flagged on the KL view) is resolved — Wildman's portfolio lists "Maison Pascal Jolivet" under LOIRE VALLEY, matching the Raeder's bottles. KL's "Domaine Jolivet" Northern Rhône entry is likely a separate producer or a paste error.
 
