@@ -1,6 +1,6 @@
 ---
 type: log
-total_entries: 9
+total_entries: 10
 generator: scripts/build_wiki_log.py
 ---
 
@@ -80,4 +80,10 @@ Chronological, append-only record of vault operations. Each entry's `## ` prefix
 - Created `wiki/importers/Wildman.md` with 4 currently-tagged producers. Added `importer_us: Wildman` to 3 wiki pages (burlotto, guyon, otronia). Added Wildman alongside Kermit Lynch on meo_camuzet.md.
 - **Conflict — Méo-Camuzet**: both KL paste and Wildman paste claim Méo-Camuzet. Same pattern as the earlier Roulot conflict (KL vs GCS). Wiki tag now carries both `Kermit Lynch` and `Wildman` pending resolution. Real-world MC has historically been Wilson Daniels in many markets — likely one paste is stale.
 - **Resolution**: Pascal Jolivet ambiguity (flagged on the KL view) is resolved — Wildman's portfolio lists "Maison Pascal Jolivet" under LOIRE VALLEY, matching the Raeder's bottles. KL's "Domaine Jolivet" Northern Rhône entry is likely a separate producer or a paste error.
+
+## [2026-05-21] ingest | Wine Source (partial — Selection page screenshot) cross-checked against Raeders
+
+- Source landed: `raw/wine_source/portfolio_2026-05-21.md` (12 producer logos visible in a user-supplied screenshot of winesourcestore.us/selection). winesourcestore.us is blocked by the remote network policy, so the "Our Portfolio" section below the fold could not be captured — view is partial.
+- Cross-check view: `wiki/_views/wine_source_at_raeders.md` — **1 of 12 visible Wine Source producers at Raeder's (3 bottles)**: Yann Durieux Gevrey-Chambertin Grand Cru 2020 ($499.99), La Gouzotte Rouge 2021 ($119.99), Love And Pif Blanc 2021 ($74.99). Cult natural-wine producer; Raeder's stores him as plain "Yann Durieux" (Wine Source labels the project "Recrue des Sens").
+- Created `wiki/importers/Wine_Source.md` with 1 currently-tagged producer. Added `importer_us: Wine Source` to fanny_sabre.md (the only Wine Source producer already in the wiki).
 

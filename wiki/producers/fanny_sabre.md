@@ -10,7 +10,8 @@ appellations: []
 farming:
 - organic
 certifications: []
-importer_us: []
+importer_us:
+- Wine Source
 retailers:
   chambers:
     championed: true

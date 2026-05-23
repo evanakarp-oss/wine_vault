@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 749
+total_pages: 750
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**749 pages indexed.**
+**750 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -92,6 +92,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Theise|Theise]] — Nahe
 - [[Wildman|Wildman]] — Burgundy, Piedmont, Patagonia
 - [[Wilson_Daniels|Wilson Daniels]] — Burgundy
+- [[Wine_Source|Wine Source]] — Burgundy, Champagne, Roussillon
 
 ## Retailers
 
