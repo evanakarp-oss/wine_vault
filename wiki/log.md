@@ -1,6 +1,6 @@
 ---
 type: log
-total_entries: 11
+total_entries: 12
 generator: scripts/build_wiki_log.py
 ---
 
@@ -93,4 +93,11 @@ Chronological, append-only record of vault operations. Each entry's `## ` prefix
 - Cross-check view: `wiki/_views/banville_at_raeders.md` — **12 Banville producers at Raeder's (13 bottles)**, 20% hit rate. Headline bottle: **Jean-Jacques Confuron Romanée-Saint-Vivant Grand Cru 2016 — $899.99**. Other notable: Odoul-Coquard Vosne 2021 ($179.99), Trinoro Le Cupole NV ($69.99), Parusso Barolo Perarmando ($59.99), Tolaini Valdisanti, Terlano, Illuminati.
 - Created `wiki/importers/Banville.md` with 1 currently-tagged producer (Marc Sorrel — added Banville tag). Other 12 Raeder's-stocked producers are curation candidates.
 - **Wildman correction**: the Wildman cross-check credited Bodegas Fariña (Toro, Spain) with Raeder's "Farina | Lugana" — that was a token collision. Lugana is Italian Garda; the producer is Banville's Italian Farina, not Wildman's Spanish Fariña. Updated Wildman view's false-positive list and corrected the entry.
+
+## [2026-05-21] ingest | BNP Distributing portfolio cross-checked against Raeders — Bordeaux anchor
+
+- Source landed: `raw/bnp/portfolio_2026-05-21.md` (172 producers, **heavily Bordeaux** — source page is machine-translated to English: "Castle" for Château, "Pope Clement's" for Pape Clément, "Castle The Gospel" for L'Évangile, "Little Horse" for Petit Cheval). Parser un-translates the obvious cases at compile time.
+- Cross-check view: `wiki/_views/bnp_at_raeders.md` — **~60 BNP producers at Raeder's, ~150 bottles** — the highest-value importer overlap of any source checked. BNP anchors all 5 Bordeaux First Growths at Raeder's. Headline bottles: Lafite Pauillac 1967 ($1,999.99), Margaux 2011 ($1,399.99), Latour 1970 ($699.99), La Mission Haut-Brion 1969 ($699.99), Cos d'Estournel 2000 ($889.99) and 2001 ($799.99), Mouton 1978 ($599.99), Palmer 1964 ($499.99).
+- Created `wiki/importers/BNP.md` with 6 currently-tagged producers (chateau_lafite_rothschild, chateau_palmer, chateau_ducru_beaucaillou, chateau_gruaud_larose, chateau_leoville_barton, chateau_calon_segur — all had empty importer_us). 50+ more BNP producers found at Raeder's are curation candidates (Latour, Mouton, Margaux, Haut-Brion, Cheval Blanc, Yquem, etc.).
+- Resolution: the Bordeaux first growths at Raeder's are now anchored to BNP — they didn't appear on any of the previous 9 importer pastes, leaving an obvious gap that this commit closes.
 
