@@ -106,7 +106,7 @@ Cross-checks the Frederick Wildman & Sons portfolio (297 wine producers — past
 | Wildman Producer | Region | Raeder's listings |
 |---|---|---|
 | Bodegas Vega Sicilia | Ribera del Duero | Único Reserva Especial R24 3-pack ($2,999.99); Macán 2018 ($119.99); Alion 2020; Valbuena 2019 |
-| Bodegas Fariña | Toro | Farina Lugana NV ($17.99) |
+| Bodegas Fariña *(Banville-correction: see note)* | Toro | *(no real match — earlier "Farina Lugana" was misattributed; that's Italian Banville-imported Farina, not Spanish Fariña)* |
 | Piratas del Ebro | Rioja | Rioja NV ($14.99) |
 
 ### USA — California (Napa heavy)
@@ -173,6 +173,7 @@ Cross-checks the Frederick Wildman & Sons portfolio (297 wine producers — past
 
 ## False positives caught and excluded
 
+- *Bodegas Fariña* (Spain, Wildman — Toro) ≠ "Farina | Lugana" at Raeder's — different producer (Italian Farina is Banville-imported)
 - *Bacio* (Italy, Wildman — no region) → "Bacio Divino" (Napa proprietary red) — different producer
 - *Bodegas Fontana* (Castilla La Mancha) → "Cascina Fontana" (Barolo) — surname collision
 - *Greg Norman Estates* → "Dana Estates" / "Kinsella Estates" — generic "estates" token

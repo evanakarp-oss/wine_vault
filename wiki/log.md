@@ -1,6 +1,6 @@
 ---
 type: log
-total_entries: 10
+total_entries: 11
 generator: scripts/build_wiki_log.py
 ---
 
@@ -86,4 +86,11 @@ Chronological, append-only record of vault operations. Each entry's `## ` prefix
 - Source landed: `raw/wine_source/portfolio_2026-05-21.md` (12 producer logos visible in a user-supplied screenshot of winesourcestore.us/selection). winesourcestore.us is blocked by the remote network policy, so the "Our Portfolio" section below the fold could not be captured — view is partial.
 - Cross-check view: `wiki/_views/wine_source_at_raeders.md` — **1 of 12 visible Wine Source producers at Raeder's (3 bottles)**: Yann Durieux Gevrey-Chambertin Grand Cru 2020 ($499.99), La Gouzotte Rouge 2021 ($119.99), Love And Pif Blanc 2021 ($74.99). Cult natural-wine producer; Raeder's stores him as plain "Yann Durieux" (Wine Source labels the project "Recrue des Sens").
 - Created `wiki/importers/Wine_Source.md` with 1 currently-tagged producer. Added `importer_us: Wine Source` to fanny_sabre.md (the only Wine Source producer already in the wiki).
+
+## [2026-05-21] ingest | Banville Wine Merchants portfolio cross-checked against Raeders
+
+- Source landed: `raw/banville/portfolio_2026-05-21.md` (59 producers — Italy 31 / France 19 / Germany 2 / NZ 2 / Oregon 2 / Argentina 1 / Austria 1 / Slovenia 1).
+- Cross-check view: `wiki/_views/banville_at_raeders.md` — **12 Banville producers at Raeder's (13 bottles)**, 20% hit rate. Headline bottle: **Jean-Jacques Confuron Romanée-Saint-Vivant Grand Cru 2016 — $899.99**. Other notable: Odoul-Coquard Vosne 2021 ($179.99), Trinoro Le Cupole NV ($69.99), Parusso Barolo Perarmando ($59.99), Tolaini Valdisanti, Terlano, Illuminati.
+- Created `wiki/importers/Banville.md` with 1 currently-tagged producer (Marc Sorrel — added Banville tag). Other 12 Raeder's-stocked producers are curation candidates.
+- **Wildman correction**: the Wildman cross-check credited Bodegas Fariña (Toro, Spain) with Raeder's "Farina | Lugana" — that was a token collision. Lugana is Italian Garda; the producer is Banville's Italian Farina, not Wildman's Spanish Fariña. Updated Wildman view's false-positive list and corrected the entry.
 
