@@ -9,7 +9,8 @@ sub_region: "Willamette Valley (Oregon)"
 appellations: []
 farming: ['biodynamic']
 certifications: []
-importer_us: []
+importer_us:
+- Wilson Daniels
 retailers:
   chambers:
     championed: false

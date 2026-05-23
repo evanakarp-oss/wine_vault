@@ -9,7 +9,8 @@ sub_region: "Barolo (Novello)"
 appellations: []
 farming: ['organic']
 certifications: []
-importer_us: []
+importer_us:
+- Wilson Daniels
 retailers:
   chambers:
     championed: false

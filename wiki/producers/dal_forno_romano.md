@@ -9,7 +9,8 @@ sub_region: "Valpolicella"
 appellations: []
 farming: []
 certifications: []
-importer_us: []
+importer_us:
+- Wilson Daniels
 retailers:
   chambers:
     championed: false

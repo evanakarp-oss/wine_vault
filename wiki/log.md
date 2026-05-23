@@ -1,6 +1,6 @@
 ---
 type: log
-total_entries: 13
+total_entries: 14
 generator: scripts/build_wiki_log.py
 ---
 
@@ -110,4 +110,15 @@ Chronological, append-only record of vault operations. Each entry's `## ` prefix
   3. **Kobrand** — 14 négoce bottles (Louis Jadot 8, Louis Latour 6).
   4. **Wilson Daniels** — 3 cult bottles (Comte Georges de Vogüé Bonnes-Mares GC 2016 $799.99, Ponsot Morey Alouettes 2016 $279.99, Dujac Chambolle 2023 $259.99). Pasting this would likely also resolve the Méo-Camuzet (KL vs Wildman) and Roulot (KL vs GCS) conflicts.
   5. **Becky Wasserman / Le Serbet** — 9 grower-domaine bottles (Dugat-Py 3, Geantet-Pansiot 3, Niellon, Bruno Lorenzon 2).
+
+## [2026-05-21] ingest | Wilson Daniels portfolio cross-checked against Raeders — densest single-importer relationship
+
+- Source landed: `raw/wilson_daniels/portfolio_2026-05-21.md` (52 producers across France 18 / Italy 19 / USA 10 / Spain 5).
+- Cross-check view: `wiki/_views/wilson_daniels_at_raeders.md` — **30 of 52 WD producers at Raeder's (~252 bottles in stock)** — by a wide margin the densest single-importer relationship at Raeder's, more than 60% of WD's portfolio represented. WD anchors Raeder's largest Italian collections and a critical Burgundy chunk.
+- Headline bottle: **Domaine de la Romanée-Conti Corton-Charlemagne Grand Cru 2022 — $4,999.99** (highest-priced bottle in the entire Raeder's catalog). Other headlines: Gaja Barolo Conteisa 2018 ($1,199), Dal Forno Romano Amarone 2003 ($1,099), Biondi-Santi Brunello Riserva 2016 ($899), Gaja Sperss 2018 ($499), J. Davies Jamie Cab 2021 ($299).
+- Heaviest single-producer counts at Raeder's: Domaine Leflaive 38 bottles (Bienvenues-Bâtard, Chevalier-Montrachet, Esprit Pommard 1er Cru), GAJA 32, Elvio Cogno 28, Castello di Volpaia 26, Dal Forno Romano 22, Champagne Gosset 15, Val di Suga 15, Domaine Faiveley 14, Domaine de Beaurenard 13, Bergström 12, Domaine Laroche 12, Arista 11, Pierre Sparr 10.
+- Bumped Wilson Daniels importer rollup from 1 to 9 confirmed-current producers. Added `importer_us: Wilson Daniels` to 8 wiki pages (bergstrom, biondi_santi, dal_forno_romano, domaine_de_beaurenard, domaine_laroche, elvio_cogno, feudo_montoni, gaja).
+- **Conflicts resolved by this paste**: (1) Chêne Bleu (9 Rhône bottles) — earlier a Skurnik false positive ("Domaine Chêne Père et Fils"); now correctly attributed to WD. (2) Hyde de Villaine (9 California bottles) — earlier attributed via KL's "Domaine de Villaine" match (which is Aubert's Bouzeron estate); HDV is Aubert's California project with separate US importer (WD).
+- **Conflicts NOT resolved**: Méo-Camuzet (KL + Wildman) and Roulot (KL + GCS) — neither on the WD paste. Likely Wildman is correct for Méo-Camuzet and GCS for Roulot, with KL paste being stale on both.
+- **Burgundy gap update**: WD closed ~70 bottles of the Burgundy gap (Leflaive 38, Faiveley 14, Laroche 12, Billaud-Simon 5). Remaining: Joseph Drouhin (3, MMD), A.F. Gros + Michel Gros (6, MMD), William Fèvre (1, MMD), Ramonet (9, Vineyard Brands), Louis Jadot (8, Kobrand), Louis Latour (6, Kobrand), Comte de Vogüé / Ponsot / Dujac (3 total — NOT WD as predicted, revise to Becky Wasserman or specialty), Dugat-Py / Geantet-Pansiot / Niellon / Lorenzon (9, Becky Wasserman).
 

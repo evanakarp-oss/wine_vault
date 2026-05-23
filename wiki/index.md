@@ -93,7 +93,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Skurnik|Skurnik]] — Mosel, Piedmont, Mendoza, Burgundy, Nahe
 - [[Theise|Theise]] — Nahe
 - [[Wildman|Wildman]] — Burgundy, Piedmont, Patagonia
-- [[Wilson_Daniels|Wilson Daniels]] — Burgundy
+- [[Wilson_Daniels|Wilson Daniels]] — Burgundy, Piedmont, Veneto, Tuscany, California
 - [[Wine_Source|Wine Source]] — Burgundy, Champagne, Roussillon
 
 ## Retailers
