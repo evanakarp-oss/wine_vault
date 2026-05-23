@@ -1,6 +1,6 @@
 ---
 type: log
-total_entries: 12
+total_entries: 13
 generator: scripts/build_wiki_log.py
 ---
 
@@ -100,4 +100,14 @@ Chronological, append-only record of vault operations. Each entry's `## ` prefix
 - Cross-check view: `wiki/_views/bnp_at_raeders.md` — **~60 BNP producers at Raeder's, ~150 bottles** — the highest-value importer overlap of any source checked. BNP anchors all 5 Bordeaux First Growths at Raeder's. Headline bottles: Lafite Pauillac 1967 ($1,999.99), Margaux 2011 ($1,399.99), Latour 1970 ($699.99), La Mission Haut-Brion 1969 ($699.99), Cos d'Estournel 2000 ($889.99) and 2001 ($799.99), Mouton 1978 ($599.99), Palmer 1964 ($499.99).
 - Created `wiki/importers/BNP.md` with 6 currently-tagged producers (chateau_lafite_rothschild, chateau_palmer, chateau_ducru_beaucaillou, chateau_gruaud_larose, chateau_leoville_barton, chateau_calon_segur — all had empty importer_us). 50+ more BNP producers found at Raeder's are curation candidates (Latour, Mouton, Margaux, Haut-Brion, Cheval Blanc, Yquem, etc.).
 - Resolution: the Bordeaux first growths at Raeder's are now anchored to BNP — they didn't appear on any of the previous 9 importer pastes, leaving an obvious gap that this commit closes.
+
+## [2026-05-21] lint | Burgundy gap analysis — what importers are we still missing?
+
+- Reverse-direction analysis: pulled all 198 Burgundy/Chablis/Beaujolais bottles at Raeder's, subtracted producers already attributed via the 10 pasted importers, then grouped the residual ~81 bottles by most-likely US importer.
+- View: `wiki/_views/burgundy_gap_analysis.md` — 5 high-priority importers to paste next to close the gap. In order of leverage:
+  1. **Maisons Marques & Domaines (Roederer Group)** — 18 bottles incl. Joseph Drouhin Chambolle Amoureuses 2022 $1,199.99, Drouhin Echezeaux 2022 $599.99, Faiveley/Faiveley négoce 5 bottles, A.F. Gros + Michel Gros 6 bottles (Echezeaux GC $699.99), Domaine Laroche 3 Chablis, William Fèvre.
+  2. **Vineyard Brands** — 11 bottles incl. **Ramonet Bâtard-Montrachet GC 2020 $1,299.99** (the single biggest unattributed bottle in the entire vault), plus 8 more Ramonet, Henri Boillot, Camille Giroud.
+  3. **Kobrand** — 14 négoce bottles (Louis Jadot 8, Louis Latour 6).
+  4. **Wilson Daniels** — 3 cult bottles (Comte Georges de Vogüé Bonnes-Mares GC 2016 $799.99, Ponsot Morey Alouettes 2016 $279.99, Dujac Chambolle 2023 $259.99). Pasting this would likely also resolve the Méo-Camuzet (KL vs Wildman) and Roulot (KL vs GCS) conflicts.
+  5. **Becky Wasserman / Le Serbet** — 9 grower-domaine bottles (Dugat-Py 3, Geantet-Pansiot 3, Niellon, Bruno Lorenzon 2).
 
