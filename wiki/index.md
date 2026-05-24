@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 794
+total_pages: 799
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**794 pages indexed.**
+**799 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -102,7 +102,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_417 producers across 66 regions._
+_422 producers across 67 regions._
 
 ### Alsace
 
@@ -500,11 +500,13 @@ _417 producers across 66 regions._
 ### Mosel
 
 - [[alex_loersch|Alex Loersch]] — Mosel · DTE 3
+- [[jonas_dostert|Jonas Dostert]] — Mosel / Nittel (Obermosel)
 - [[max_ferdinand_richter|Max Ferdinand Richter]] — Mosel · DTE 17
 - [[melsheimer|Melsheimer]] — Mosel · CSW 1 · DTE 3
 - [[richter|Richter]] — Mosel · DTE 11
 - [[steinmetz|Steinmetz]] — Mosel · CSW 9 · DTE 37
 - [[thanisch|Thanisch]] — Mosel · DTE 7
+- [[trossen_rita_rudolf|Rita & Rudolf Trossen]] — Mosel / Kinheim
 - [[ulli_stein|Ulli Stein]] — Mosel · natural · CSW ★3/9
 - [[weiser_kunstler|Weiser-Künstler]] — Mosel · organic · CSW ★6/15
 - [[wwe_dr_h_thanisch|Wwe Dr H Thanisch]] — Mosel · DTE 8
@@ -568,6 +570,8 @@ _417 producers across 66 regions._
 
 ### Rheinhessen
 
+- [[carsten_saalwachter|Carsten Saalwächter]] — Rheinhessen / Ingelheim
+- [[kissinger_bahr_moritz_jasmin|Moritz & Jasmin Kissinger-Bähr]] — Rheinhessen
 - [[wagner_stempel|Wagner Stempel]] — Rheinhessen · DTE 3
 
 ### Rhône
@@ -718,6 +722,10 @@ _417 producers across 66 regions._
 
 - [[martin_muthenthaler|Martin Muthenthaler]] — Wachau / Wachau
 - [[nikolaihof|Nikolaihof]] — Wachau / Wachau
+
+### Württemberg
+
+- [[roterfaden|Roterfaden]] — Württemberg
 
 ## Events
 

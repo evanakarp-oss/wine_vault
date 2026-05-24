@@ -37,6 +37,7 @@ retailers:
 tags: []
 _sources:
 - short:short__Enderle__Moll.md
+- newcomer_wines:portfolio_2026-05
 ---
 
 # Enderle & Moll

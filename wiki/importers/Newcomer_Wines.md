@@ -4,7 +4,7 @@ name: "Newcomer Wines"
 slug: newcomer_wines
 url: "https://newcomerwines.com"
 focus: ["Austria", "Central Europe", "France (natural)", "Germany (organic)", "Italy / Switzerland (alpine)"]
-notable_producers: ["Claus Preisinger", "Christian Tschida", "Andreas, Lydia & Martin Nittnaus", "Franz & Petra Weninger", "Werlitsch (Ewald Tscheppe)", "Sepp & Maria Muster", "Franz Strohmeier", "Nikolaihof", "Martin Muthenthaler", "Alwin & Stefanie Jurtschitsch", "Milan Nestarec", "Nicolas Carmarans", "Matassa (Tom Lubbe)", "Martin Texier", "Valentin Morel", "Martin, Carole & David Léclapart", "Agricola Foradori", "Paolo Vodopivec", "Chanterêves", "Wasenhaus", "Enderle & Moll", "Thorsten Melsheimer", "Raphaëlle Guyot"]
+notable_producers: ["Claus Preisinger", "Christian Tschida", "Andreas, Lydia & Martin Nittnaus", "Franz & Petra Weninger", "Werlitsch (Ewald Tscheppe)", "Sepp & Maria Muster", "Franz Strohmeier", "Nikolaihof", "Martin Muthenthaler", "Alwin & Stefanie Jurtschitsch", "Milan Nestarec", "Nicolas Carmarans", "Matassa (Tom Lubbe)", "Martin Texier", "Valentin Morel", "Martin, Carole & David Léclapart", "Agricola Foradori", "Paolo Vodopivec", "Chanterêves", "Wasenhaus", "Enderle & Moll", "Thorsten Melsheimer", "Raphaëlle Guyot", "Rita & Rudolf Trossen", "Moritz & Jasmin Kissinger-Bähr", "Carsten Saalwächter", "Jonas Dostert", "Roterfaden"]
 updated: 2026-05-24
 ---
 
@@ -37,6 +37,11 @@ _Compiled from portfolio snapshot 2026-05-24. See `scripts/build_rollups.py` for
 - [[enderle__moll|Enderle & Moll]]
 - [[melsheimer|Thorsten Melsheimer]]
 - [[raphaelle_guyot|Raphaëlle Guyot]]
+- [[trossen_rita_rudolf|Rita & Rudolf Trossen]] (Mosel)
+- [[kissinger_bahr_moritz_jasmin|Moritz & Jasmin Kissinger-Bähr]] (Rheinhessen)
+- [[carsten_saalwachter|Carsten Saalwächter]] (Rheinhessen)
+- [[jonas_dostert|Jonas Dostert]] (Mosel — Obermosel)
+- [[roterfaden|Roterfaden]] (Württemberg)
 
 
 _Note: Newcomer Wines is a Vienna + London retailer/importer — not a US importer. Producers on their list are tracked here for European distribution context. See `wiki/_resources.md` for the importer reference table._

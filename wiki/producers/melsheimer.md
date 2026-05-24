@@ -27,7 +27,7 @@ retailers:
   fass:
     in_portfolio: false
 tags: []
-_sources: ["dte_jsx:dte_wines_1.jsx"]
+_sources: ["dte_jsx:dte_wines_1.jsx", "newcomer_wines:portfolio_2026-05"]
 ---
 
 # Melsheimer

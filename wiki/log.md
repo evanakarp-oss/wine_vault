@@ -1,6 +1,6 @@
 ---
 type: log
-total_entries: 1
+total_entries: 2
 generator: scripts/build_wiki_log.py
 ---
 
@@ -22,3 +22,13 @@ Taxonomy extended: added Austria (Burgenland, Styria, Wachau, Kamptal, Kremstal,
 
 Net result: +43 producer pages, +3 importer rollups, +13 producer-page importer tags. Lint: 51 region issues unchanged net (pre-existing).
 
+
+## [2026-05-24] ingest | Newcomer Wines — German producers
+
+Extended the Newcomer Wines portfolio coverage to the German section:
+
+- Created 5 new producer stubs: Rita & Rudolf Trossen (Mosel/Kinheim), Moritz & Jasmin Kissinger-Bähr (Rheinhessen), Carsten Saalwächter (Rheinhessen/Ingelheim), Jonas Dostert (Mosel/Obermosel/Nittel), Roterfaden (Württemberg).
+- Tagged 3 existing German pages with `_sources: newcomer_wines:portfolio_2026-05`: Wasenhaus, Melsheimer, Enderle & Moll.
+- Updated `wiki/importers/Newcomer_Wines.md` notable_producers + body list with the 5 new + 3 existing names.
+
+Net +5 producer pages, +3 source-tag updates. Lint unchanged.

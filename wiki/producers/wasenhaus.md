@@ -37,6 +37,7 @@ retailers:
 tags: []
 _sources:
 - short:short__Wasenhaus.md
+- newcomer_wines:portfolio_2026-05
 berserkers_kelley_body:
   body_hit_count: 1
   distinct_topics: 1
