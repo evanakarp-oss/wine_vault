@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 752
+total_pages: 753
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**752 pages indexed.**
+**753 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -92,6 +92,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Polaner|Polaner]] — Burgundy, Piedmont, Champagne, California, Rhône
 - [[Skurnik|Skurnik]] — Mosel, Piedmont, Mendoza, Burgundy, Nahe
 - [[Theise|Theise]] — Nahe
+- [[Vineyard_Brands|Vineyard Brands]] — Bordeaux — Pomerol, Rhône — Châteauneuf, Burgundy, Loire, Languedoc
 - [[Wildman|Wildman]] — Burgundy, Piedmont, Patagonia
 - [[Wilson_Daniels|Wilson Daniels]] — Burgundy, Piedmont, Veneto, Tuscany, California
 - [[Wine_Source|Wine Source]] — Burgundy, Champagne, Roussillon

@@ -1,6 +1,6 @@
 ---
 type: log
-total_entries: 14
+total_entries: 15
 generator: scripts/build_wiki_log.py
 ---
 
@@ -121,4 +121,12 @@ Chronological, append-only record of vault operations. Each entry's `## ` prefix
 - **Conflicts resolved by this paste**: (1) Chêne Bleu (9 Rhône bottles) — earlier a Skurnik false positive ("Domaine Chêne Père et Fils"); now correctly attributed to WD. (2) Hyde de Villaine (9 California bottles) — earlier attributed via KL's "Domaine de Villaine" match (which is Aubert's Bouzeron estate); HDV is Aubert's California project with separate US importer (WD).
 - **Conflicts NOT resolved**: Méo-Camuzet (KL + Wildman) and Roulot (KL + GCS) — neither on the WD paste. Likely Wildman is correct for Méo-Camuzet and GCS for Roulot, with KL paste being stale on both.
 - **Burgundy gap update**: WD closed ~70 bottles of the Burgundy gap (Leflaive 38, Faiveley 14, Laroche 12, Billaud-Simon 5). Remaining: Joseph Drouhin (3, MMD), A.F. Gros + Michel Gros (6, MMD), William Fèvre (1, MMD), Ramonet (9, Vineyard Brands), Louis Jadot (8, Kobrand), Louis Latour (6, Kobrand), Comte de Vogüé / Ponsot / Dujac (3 total — NOT WD as predicted, revise to Becky Wasserman or specialty), Dugat-Py / Geantet-Pansiot / Niellon / Lorenzon (9, Becky Wasserman).
+
+## [2026-05-21] ingest | Vineyard Brands portfolio cross-checked against Raeders
+
+- Source landed: `raw/vineyard_brands/portfolio_2026-05-21.md` (127 producers across France 49 / South Africa 18 / Italy 11 / Argentina 11 / Portugal 7 / Chile 6 / Australia 6 / USA 5 / Austria 5 / NZ 3 / Spain 3 / others).
+- Cross-check view: `wiki/_views/vineyard_brands_at_raeders.md` — **9 of 127 VB producers at Raeder's (19 bottles)**. Modest count, but headlined by **Château Pétrus Pomerol 1967 at $3,499.99** — the 2nd most expensive bottle in Raeder's catalog (after DRC Corton-Charlemagne $4,999 via Wilson Daniels). Plus Château La Fleur-Pétrus 2018 $1,699.99, Château Beaucastel 1999 $599.99, Ponsot Morey Alouettes 2016 $279.99.
+- No new wiki tags added — none of the 9 confirmed VB Raeder's producers have existing wiki pages (Pétrus, La Fleur-Pétrus, Beaucastel, Ponsot, Gouges, T. Liger-Belair, Jean-Marc Boillot, Hecht & Bannier, Gradis'ciutta, Forman, J. de Villebois). All are curation candidates.
+- **Burgundy gap update**: VB resolved 1 of 4 predicted Burgundy items (**Ponsot** confirmed). Three predictions wrong: Ramonet (9 bottles incl. $1,299 Bâtard-Montrachet GC — STILL unidentified, revise to Becky Wasserman or specialty), Henri Boillot (only Jean-Marc on VB paste — STILL unidentified), Camille Giroud (STILL unidentified).
+- Open Burgundy gaps remaining: Joseph Drouhin / A.F. Gros / William Fèvre (MMD predicted), Louis Jadot / Louis Latour (Kobrand predicted), Vogüé / Dujac / Dugat-Py / Geantet-Pansiot / Niellon / Lorenzon (Becky Wasserman predicted), Ramonet / Henri Boillot / Camille Giroud (revised — likely Becky Wasserman or Mosaic).
 
