@@ -13,6 +13,7 @@ certifications: []
 importer_us:
 - Dressner
 - Louis
+- Becky Wasserman
 retailers:
   chambers:
     championed: true

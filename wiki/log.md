@@ -1,6 +1,6 @@
 ---
 type: log
-total_entries: 0
+total_entries: 1
 generator: scripts/build_wiki_log.py
 ---
 
@@ -10,5 +10,15 @@ generator: scripts/build_wiki_log.py
 
 Chronological, append-only record of vault operations. Each entry's `## ` prefix makes the log greppable with simple unix tools — e.g. `grep "^## \[" wiki/log.md | tail -5` for the five most recent operations.
 
-_No entries yet._
+## [2026-05-24] ingest | Wasserman + MFW + Newcomer portfolio pass
+
+Three importer/source portfolios processed in one pass:
+
+- **Becky Wasserman (US importer)**: tagged `importer_us: ["Becky Wasserman"]` on 13 confirmed producer pages already in the vault (Arnoux-Lachaux, Denis Bachelet, Berthaut-Gerbet, Chanterêves, Rudolf Fürst, Lignier-Michelot, Gérard Mugneret, Georges Noëllat, Sylvain Pataille, Simon Bize, Jean-Marc & Thomas Bouley, David Moreau, Pavelot). Created `wiki/importers/Wasserman.md`. ~91 portfolio producers without existing pages parked for future curation passes — not auto-created per source-attribution rule.
+- **MFW Wine Co. (US importer)**: full portfolio audit from mfwwineco.com (May 2026). Tagged 6 existing producers (Saint Pierre, La Grolet, Peybonhomme, Chanterêves, Elian Da Ros, Hofgut Falkenstein), created 25 stub pages across France, Italy, California, and Mendoza. Created `wiki/importers/MFW_Wine_Co.md`. Skipped Eclectik (cider) + Michel Couvreur (whisky) as out of scope.
+- **Newcomer Wines (Vienna + London, EU-only)**: curated subset of 18 stub pages created — Burgenland (Preisinger, Tschida, Nittnaus, Weninger), Styria (Werlitsch, Muster, Strohmeier), Wachau/Kamptal (Nikolaihof, Muthenthaler, Jurtschitsch), Moravia (Nestarec), French naturals (Carmarans, Matassa, Texier, Morel, Léclapart), Italian (Foradori, Vodopivec). No `importer_us` tagging — Newcomer is EU/UK, not US; recorded in body + `_sources`. Created `wiki/importers/Newcomer_Wines.md` and added to `wiki/_resources.md`.
+
+Taxonomy extended: added Austria (Burgenland, Styria, Wachau, Kamptal, Kremstal, Wagram, Wien), Czechia (Moravia), and United States (California, Oregon, Washington, New York) to `wiki/_TAXONOMY.md`.
+
+Net result: +43 producer pages, +3 importer rollups, +13 producer-page importer tags. Lint: 51 region issues unchanged net (pre-existing).
 

@@ -12,6 +12,7 @@ certifications: []
 importer_us:
 - Skurnik
 - Theise
+- MFW Wine Co.
 retailers:
   chambers:
     championed: true

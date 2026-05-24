@@ -18,7 +18,8 @@ David Bowler Wine                | https://www.bowlerwine.com          | NYC. Di
 T. Edward Wines                  | https://www.tedwardwines.com        | NYC. Italy, France, Spain. Artisan focus.  
 Vom Boden                        | https://www.vomboden.com            | NYC. German specialist. Rheinhessen, Mosel, natural.  
 Brazos Wine Imports              | https://www.brazoswine.com          | Argentina, Chile, Uruguay. Artisan/single vineyard. Distributed by Bowler.  
-MFW Wine Co.                     | https://www.mfwwineco.com           | NYC. France, Italy, Georgia. Natural/terroir focus. Jason Malumed.  
+MFW Wine Co.                     | https://www.mfwwineco.com           | NYC. France (natural/artisan), Italy, Germany (Saar - Falkenstein), California, Argentina (Mendoza). Jason Malumed. Portfolio inventory 2026-05.  
+Newcomer Wines (EU)              | https://newcomerwines.com           | Vienna + London. Austria + Central Europe natural focus; also French/German/Italian naturals. NOT a US importer — tracked here for EU/UK distribution context.  
 Grand Cru Selections             | https://www.grandcruselections.com  | Burgundy, France.  
 Savio Soares Selections          | https://www.saviosoares.com         | NYC. France, Italy, Germany, Portugal. Natural focus.  
 Zev Rovine Selections            | https://www.zrswines.com            | Brooklyn. Natural wines. France, Italy, Austria, Spain, Middle East. Frank Cornelissen.  

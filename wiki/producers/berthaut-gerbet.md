@@ -10,7 +10,7 @@ appellations: []
 farming:
 - organic
 certifications: []
-importer_us: []
+importer_us: ["Becky Wasserman"]
 retailers:
   chambers:
     championed: true

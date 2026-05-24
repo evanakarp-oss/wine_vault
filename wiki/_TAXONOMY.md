@@ -16,6 +16,7 @@ Add new values here FIRST, then use them in producer files.
 - Italy
 - Spain
 - Austria
+- Czechia
 - Portugal
 - Greece
 - Georgia
@@ -84,6 +85,24 @@ Add new values here FIRST, then use them in producer files.
 - Jujuy
 - San Juan
 - Buenos Aires Province
+
+### Austria
+- Burgenland
+- Styria (Steiermark)
+- Wachau
+- Kamptal
+- Kremstal
+- Wagram
+- Wien (Vienna)
+
+### Czechia
+- Moravia
+
+### United States
+- California
+- Oregon
+- Washington
+- New York
 
 ## `farming`
 

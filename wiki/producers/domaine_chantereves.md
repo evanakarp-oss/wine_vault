@@ -9,7 +9,7 @@ sub_region: ''
 appellations: []
 farming: []
 certifications: []
-importer_us: []
+importer_us: ["Becky Wasserman", "MFW Wine Co."]
 retailers:
   chambers:
     championed: true
