@@ -1,6 +1,6 @@
 ---
 type: log
-total_entries: 15
+total_entries: 16
 generator: scripts/build_wiki_log.py
 ---
 
@@ -129,4 +129,13 @@ Chronological, append-only record of vault operations. Each entry's `## ` prefix
 - No new wiki tags added — none of the 9 confirmed VB Raeder's producers have existing wiki pages (Pétrus, La Fleur-Pétrus, Beaucastel, Ponsot, Gouges, T. Liger-Belair, Jean-Marc Boillot, Hecht & Bannier, Gradis'ciutta, Forman, J. de Villebois). All are curation candidates.
 - **Burgundy gap update**: VB resolved 1 of 4 predicted Burgundy items (**Ponsot** confirmed). Three predictions wrong: Ramonet (9 bottles incl. $1,299 Bâtard-Montrachet GC — STILL unidentified, revise to Becky Wasserman or specialty), Henri Boillot (only Jean-Marc on VB paste — STILL unidentified), Camille Giroud (STILL unidentified).
 - Open Burgundy gaps remaining: Joseph Drouhin / A.F. Gros / William Fèvre (MMD predicted), Louis Jadot / Louis Latour (Kobrand predicted), Vogüé / Dujac / Dugat-Py / Geantet-Pansiot / Niellon / Lorenzon (Becky Wasserman predicted), Ramonet / Henri Boillot / Camille Giroud (revised — likely Becky Wasserman or Mosaic).
+
+## [2026-05-21] ingest | Becky Wasserman & Co. portfolio cross-checked against Raeders — brokerage role confirmed
+
+- Source landed: `raw/wasserman/portfolio_2026-05-21.md` (132 producers, predominantly Burgundy plus some Champagne/Loire/Beaujolais/Jura and German Riesling outliers Rudolf Fürst + Schätzel).
+- Cross-check view: `wiki/_views/wasserman_at_raeders.md` — only 3 *newly resolved* bottles at Raeder's (Comte Georges de Vogüé Bonnes-Mares GC 2016 $799.99, Camille Giroud Morey 1er Clos des Godelles 2019 $99.99, Pierre Morey Bourgogne Aligoté 2023 $38.99). Plus ~13 co-importer overlap with Wildman / GCS / Skurnik / Bowler (Cathiard, Mugnier, Ogereau, Souillard, Chapel, Croix, Comtes Lafon, Lambert, Quarts, Saisons, Heritiers du Comte Lafon, Mikulski, Croix & Courbet).
+- **Key context**: Wasserman is a Burgundy *brokerage/agent* not a pure US importer. Producers on their list typically have a *primary* US importer partner (Wildman, GCS, Skurnik, etc.). View tracks the brokerage relationship without stripping prior `importer_us` tags.
+- Predictions verified: Comte Georges de Vogüé (predicted Wasserman) ✓. Camille Giroud (had predicted Vineyard Brands — wrong; actually Wasserman) ✓.
+- Predictions wrong: Dujac, Dugat-Py, Geantet-Pansiot, Michel Niellon, Bruno Lorenzon, Henri Boillot, Ramonet — none on Wasserman paste. These cult producers are with specialty importers I haven't pasted yet (likely Joe Dressner, Mosaic, Roy Cloud, or direct distribution).
+- Remaining Burgundy gap after WD + VB + Wasserman: Ramonet (9 bottles, $1,299), Dujac, Dugat-Py, Geantet-Pansiot, Niellon, Lorenzon, Henri Boillot, plus Hospices de Beaune (2). Next priority: **Maisons Marques & Domaines** (would close Drouhin, A.F. Gros, William Fèvre) + a cult-Burgundy specialty paste (Joe Dressner / Mosaic / Roy Cloud).
 
