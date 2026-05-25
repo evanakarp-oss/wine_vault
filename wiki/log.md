@@ -12,3 +12,16 @@ Chronological, append-only record of vault operations. Each entry's `## ` prefix
 
 _No entries yet._
 
+## [2026-05-25] view | Vosne-Romanée adjacent parcels (N & S)
+
+New study view at `wiki/_views/vosne_adjacent_parcels.md` covering the climats on
+either flank of Vosne-Romanée — the NSG "Vosne shoulder" (Boudots / Damodes / Cras /
+Murgers / Thorey / Chaignots) on the south side, and the Flagey-Échézeaux / Vougeot /
+Chambolle-Musigny continuum on the north — with terroir notes pulled from the *World
+Atlas of Wine* and a tiered value pick-list pulled from current DTE / Raeder's / CSW
+coverage in the vault. Headline NSG-adjacent value: [[domaine_jean_chauvenet|Jean
+Chauvenet]] (CSW's literal "Vosne value" framing), [[chicotot|Chicotot]] (DTE depth
+$45–$179), [[domaine_forey|Forey]] (CSW championed, aging-grade 1). Logs gaps:
+Chevillon, Gouges, Clavelier, Mugneret-Gibourg, Grivot, Lamarche, Anne Gros all
+missing from the vault.
+
