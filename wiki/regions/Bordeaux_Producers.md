@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Bordeaux"
-updated: 2026-05-14
+updated: 2026-05-25
 producer_count: 24
 ---
 

@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Mosel (Enkirch)"
-updated: 2026-05-14
+updated: 2026-05-25
 producer_count: 1
 ---
 

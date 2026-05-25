@@ -5,7 +5,7 @@ slug: neal_rosenthal
 producer_count: 1
 focus: ['Baden']
 notable_producers: ['Bernhard Huber']
-updated: 2026-05-14
+updated: 2026-05-25
 ---
 
 # Neal Rosenthal

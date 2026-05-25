@@ -5,7 +5,7 @@ slug: theise
 producer_count: 1
 focus: ['Nahe']
 notable_producers: ['Schafer-Frohlich']
-updated: 2026-05-14
+updated: 2026-05-25
 ---
 
 # Theise

@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Burgundy"
-updated: 2026-05-14
-producer_count: 92
+updated: 2026-05-25
+producer_count: 100
 ---
 
 # Burgundy — Producer Index
 
-**92 producers** tracked.
+**100 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -68,19 +68,25 @@ producer_count: 92
 | [[robert_ampeau|Robert Ampeau]] | France | Meursault / Auxey | 1 | — | — | — | — |
 | [[simon_colin|Simon Colin]] | France | Chassagne-Montrachet | 1 | — | — | — | — |
 | [[sirugue|Sirugue]] | France | — | 1 | 4 | — | — | — |
+| [[anne_gros|Anne Gros]] | France | Vosne-Romanée | — | — | — | — | — |
 | [[arnoux_lachaux|Arnoux Lachaux]] | France | '' | — | 16 | — | — | — |
 | [[audoin|Audoin]] | France | '' | — | 7 | — | — | — |
 | [[barraud|Barraud]] | France | '' | — | 5 | — | — | — |
+| [[bruno_clavelier|Bruno Clavelier]] | France | Vosne-Romanée | — | — | — | — | — |
 | [[charles_audoin|Charles Audoin]] | France | '' | — | 19 | — | — | — |
 | [[chicotot|Chicotot]] | France | '' | — | 20 | — | — | — |
 | [[cyril_audoin|Cyril Audoin]] | France | '' | — | 3 | — | — | — |
 | [[denis_bachelet|Denis Bachelet]] | France | '' | — | 1 | — | — | — |
+| [[domaine_de_l_arlot|Domaine de l'Arlot]] | France | Nuits-Saint-Georges (Prémeaux-Prissey) | — | — | — | — | — |
+| [[domaine_lamarche|Domaine François Lamarche]] | France | Vosne-Romanée | — | — | — | — | — |
+| [[domaine_grivot|Domaine Grivot]] | France | Vosne-Romanée | — | — | — | — | — |
 | [[francois_bertheau|Francois Bertheau]] | France | '' | — | 5 | — | — | — |
 | [[francois_buffet|François Buffet]] | France | — | — | 3 | — | 24 | — |
 | [[georges_noellat|Georges Noëllat]] | France | '' | — | 13 | — | — | — |
 | [[gerard_julien|Gerard Julien]] | France | '' | — | 5 | — | — | — |
 | [[gilles__jean__maxime_lafouge|Gilles / Jean / Maxime Lafouge]] | France | Auxey-Duresses | — | — | — | — | — |
 | [[guyon|Guyon]] | France | '' | — | 1 | — | — | — |
+| [[henri_gouges|Henri Gouges]] | France | Nuits-Saint-Georges | — | — | — | — | — |
 | [[henri_magnien|Henri Magnien]] | France | '' | — | 15 | — | — | — |
 | [[hudelot_noellat|Hudelot Noellat]] | France | '' | — | 12 | — | — | — |
 | [[jean_collet|Jean Collet]] | France | '' | — | 3 | — | — | — |
@@ -98,7 +104,9 @@ producer_count: 92
 | [[michel_niellon|Michel Niellon]] | France | Chassagne-Montrachet | — | — | 3 | — | — |
 | [[michel_rebourgeon|Michel Rebourgeon]] | France | — | — | 13 | — | 17 | — |
 | [[modot_guyon|Modot Guyon]] | France | — | — | 6 | — | — | — |
+| [[mugneret_gibourg|Mugneret-Gibourg]] | France | Vosne-Romanée | — | — | — | — | — |
 | [[patrice_rion|Patrice Rion]] | France | — | — | 3 | — | — | — |
+| [[robert_chevillon|Robert Chevillon]] | France | Nuits-Saint-Georges | — | — | — | — | — |
 | [[roty|Roty]] | France | — | — | 1 | — | — | — |
 | [[sigaut|Sigaut]] | France | — | — | 9 | — | — | — |
 | [[tawse|Tawse]] | France | '' | — | 2 | — | — | — |
