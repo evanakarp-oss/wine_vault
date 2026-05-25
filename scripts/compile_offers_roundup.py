@@ -84,6 +84,8 @@ class Offer:
     themes: list
     kind: str
     body_excerpt: str
+    landing_page_url: str = ""
+    landing_page_fetched: bool = False
 
 
 def split_frontmatter(text: str) -> tuple[dict, str]:
@@ -172,6 +174,8 @@ def load_offers(vault_root: Path, date: str) -> list[Offer]:
             themes=list(fm.get("themes") or []),
             kind=fm.get("kind") or "feature",
             body_excerpt=body.strip(),
+            landing_page_url=fm.get("landing_page_url") or "",
+            landing_page_fetched=bool(fm.get("landing_page_fetched")),
         ))
     return out
 
@@ -210,7 +214,11 @@ def render_offer(offer: Offer, producers: dict[str, Producer], cellar_idx: dict[
     date = offer.date
     kind_tag = f" `{offer.kind}`" if offer.kind and offer.kind != "feature" else ""
     lines.append(f"### {date} — {offer.subject}{kind_tag}")
-    lines.append(f"*from {offer.sender}* · [Gmail thread](https://mail.google.com/mail/u/0/#all/{offer.gmail_thread_id})")
+    links = [f"[Gmail thread](https://mail.google.com/mail/u/0/#all/{offer.gmail_thread_id})"]
+    if offer.landing_page_url:
+        fetch_note = "" if offer.landing_page_fetched else " ⚠︎ unfetched"
+        links.append(f"[landing page]({offer.landing_page_url}){fetch_note}")
+    lines.append(f"*from {offer.sender}* · " + " · ".join(links))
     lines.append("")
     if offer.body_excerpt:
         lines.append(f"> {offer.body_excerpt.replace(chr(10), ' ').strip()}")

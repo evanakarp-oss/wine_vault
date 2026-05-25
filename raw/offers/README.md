@@ -40,10 +40,12 @@ sender: office@chambersstwines.com
 date: 2026-05-23                # date of the email
 gmail_thread_id: 19e557a0fd3a1c85
 subject: "An Array of New Arrivals From Spain and Portugal..."
+landing_page_url: ""            # "View the Wines" target — recorded even if unfetched
+landing_page_fetched: false     # true if producer list below came from the live page
 producers_in_vault: []          # slugs that match wiki/producers/<slug>.md
 producers_not_in_vault: []      # raw producer names that don't (yet) have a page
 themes: [spain, portugal]       # free-form tags
-kind: feature                   # feature | meta | flash_sale | private_collection | new_arrivals
+kind: feature                   # feature | meta | flash_sale | private_collection | new_arrivals | auction
 ---
 
 One-paragraph excerpt or summary of the offer body. Producers mentioned
@@ -53,11 +55,25 @@ inline so the page is greppable.
 ## Workflow (weekly)
 
 1. **Capture** — In a Claude Code session, search Gmail for the past 7 days
-   from each retailer's sender (via the Gmail MCP). For each email, write
-   a raw offer file with subject, snippet, body excerpt, and the
+   from each retailer's sender (via the Gmail MCP). For each email, fetch
+   the full thread (`get_thread` with `FULL_CONTENT`) and read the
+   `plaintextBody` field — this is where the producer detail usually lives
+   (e.g. Flatiron's Northern Rhône offer named Marcel Juge / Jamet / Levet
+   in the prose; Leon's Muscadet auction listed every lot inline). Write a
+   raw offer file with subject, body excerpt, landing-page URL, and the
    LLM-extracted `producers_in_vault` + `producers_not_in_vault` lists.
    This is the LLM-judgment step: map "Bruno Clair" → `bruno_clair` (slug
    exists) or note it as `not_in_vault`.
+
+   **Network caveat.** This vault's remote execution container blocks
+   outbound HTTP to retailer hostnames (chambersstwines.com,
+   nyc.flatiron-wines.com, etc.) — landing pages cannot be fetched
+   directly. Record the URL in `landing_page_url` with
+   `landing_page_fetched: false` so the output view surfaces a ⚠︎ marker
+   and the user can open it manually. If the container's egress policy is
+   relaxed, try the Shopify JSON endpoint
+   (`/collections/<slug>/products.json?limit=250`) for a complete product
+   list.
 
 2. **Overlay** — Run `python scripts/compile_offers_roundup.py
    --date 2026-05-25`. The script:
