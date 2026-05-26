@@ -2,12 +2,12 @@
 type: region_index
 region: "Champagne"
 updated: 2026-05-26
-producer_count: 16
+producer_count: 23
 ---
 
 # Champagne — Producer Index
 
-**16 producers** tracked.
+**23 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -22,10 +22,17 @@ producer_count: 16
 | [[jacques_lassaigne|Jacques Lassaigne]] | France | '' | 1 | 3 | — | — | — |
 | [[larmandier_bernier|Larmandier Bernier]] | France | '' | 1 | 3 | 1 | — | — |
 | [[aurore_casanova|Aurore Casanova]] | France | — | — | 4 | — | — | — |
+| [[benoit_lahaye|Benoit Lahaye]] | France | Bouzy | — | — | — | — | — |
+| [[de_sousa|Champagne De Sousa]] | France | Avize (Côte des Blancs) | — | — | — | — | — |
+| [[eric_rodez|Champagne Eric Rodez]] | France | Ambonnay | — | — | — | — | — |
+| [[franck_pascal|Champagne Franck Pascal]] | France | Baslieux-sous-Châtillon (Vallée de la Marne) | — | — | — | — | — |
+| [[christophe_mignon|Christophe Mignon]] | France | Festigny (Vallée de la Marne) | — | — | — | — | — |
 | [[louis_roederer|Louis Roederer]] | France | '' | — | — | 12 | — | — |
 | [[nathalie_falmet|Nathalie Falmet]] | France | — | — | 1 | — | — | — |
+| [[pascal_doquet|Pascal Doquet]] | France | Vertus (Côte des Blancs) | — | — | — | — | — |
 | [[petit_clergeot|Petit Clergeot]] | France | '' | — | 1 | — | — | — |
 | [[ployez_jacquemart|Ployez Jacquemart]] | France | — | — | 6 | — | — | — |
+| [[suenen|Suenen]] | France | Côte des Blancs (Cramant) | — | — | — | — | — |
 | [[taittinger|Taittinger]] | France | '' | — | — | 3 | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

@@ -58,3 +58,11 @@ _Not yet populated._
 ## FASS
 
 _Not yet populated._
+
+## E&R Wine Shop
+
+<!-- BEGIN E&R WINE SHOP -->
+Portrait: [Elio Ottin — E & R Wine Shop](https://www.erwineshop.com/producer-portraits/elio-ottin)
+
+> Aosta-based grower working with Petite Arvine, Fumin and other Valle d'Aosta indigenous varieties from sun-exposed terraces around Saint-Christophe.
+<!-- END E&R WINE SHOP -->

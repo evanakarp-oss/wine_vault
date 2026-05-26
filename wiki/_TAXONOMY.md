@@ -86,6 +86,12 @@ Add new values here FIRST, then use them in producer files.
 - San Juan
 - Buenos Aires Province
 
+### United States
+- California
+- Oregon
+- Washington
+- Columbia Gorge
+
 ## `farming`
 
 - conventional

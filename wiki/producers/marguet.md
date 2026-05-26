@@ -104,3 +104,11 @@ _Not yet populated._
 ## FASS
 
 _Not yet populated._
+
+## E&R Wine Shop
+
+<!-- BEGIN E&R WINE SHOP -->
+Portrait: [Benoît Marguet — E & R Wine Shop](https://www.erwineshop.com/producer-portraits/benoit-marguet)
+
+> Benoît officially took over the family domaine in 2005 and made what many Champenois call radical changes — converting to biodynamics and parcel-vinifying the family's Ambonnay grand-cru holdings.
+<!-- END E&R WINE SHOP -->

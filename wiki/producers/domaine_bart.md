@@ -67,6 +67,14 @@ Own **1 bottle(s)** across 1 cuvée-vintage(s):
 
 - 1 × Marsannay Es Chezots 2022 (750ml) @ $54 — drink 2026–2035
 
+## E&R Wine Shop
+
+<!-- BEGIN E&R WINE SHOP -->
+Portrait: [Domaine Bart — E & R Wine Shop](https://www.erwineshop.com/producer-portraits/domaine-bart)
+
+> The family home and winery at Domaine Bart dates from 1765 — 24 years before the Revolution. The Bart style is wedded to tradition: away from new wood, toward elegance, balance and authenticity of place in Marsannay.
+<!-- END E&R WINE SHOP -->
+
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]

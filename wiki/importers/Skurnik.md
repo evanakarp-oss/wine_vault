@@ -6,9 +6,9 @@ producer_count: 17
 focus: ['Burgundy', 'Jura', 'Mosel', 'Nahe']
 notable_producers: ['Clemens Busch', 'Knebel', 'Weiser-Künstler', 'Immich-Batterieberg', 'Stéphane Tissot']
 updated: 2026-05-26
+_source: wiki/_resources.md
 tags: ['grower', 'grower-champagne']
 url: "https://www.skurnik.com"
-_source: wiki/_resources.md
 ---
 # Skurnik
 

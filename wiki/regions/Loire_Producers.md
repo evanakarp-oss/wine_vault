@@ -2,12 +2,12 @@
 type: region_index
 region: "Loire"
 updated: 2026-05-26
-producer_count: 6
+producer_count: 8
 ---
 
 # Loire — Producer Index
 
-**6 producers** tracked.
+**8 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -17,5 +17,7 @@ producer_count: 6
 | [[domaine_de_la_chevalerie|Domaine de la Chevalerie]] | France | Bourgueil | 15 | — | — | — | — |
 | [[clos_rougeard|Clos Rougeard]] | France | Saumur-Champigny | 11 | — | — | — | — |
 | [[boulay|Boulay]] | France | '' | 2 | 1 | — | — | — |
+| [[florian_roblin|Florian Roblin]] | France | Coteaux du Giennois | — | — | — | — | — |
+| [[la_grange_tiphaine|La Grange Tiphaine]] | France | Amboise (Touraine) | — | — | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

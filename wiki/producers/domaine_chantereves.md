@@ -75,6 +75,14 @@ Own **1 bottle(s)** across 1 cuvée-vintage(s):
 
 - 1 × Bourgogne Hautes-Côtes de Beaune Mainbey 2022 (750ml) @ $71.99 — drink 2028–2035
 
+## E&R Wine Shop
+
+<!-- BEGIN E&R WINE SHOP -->
+Portrait: [Domaine Chanterêves — E & R Wine Shop](https://www.erwineshop.com/producer-portraits/domaine-chantereves)
+
+> Guillaume Bott and Tomoko Kuriyama's Savigny-lès-Beaune domaine. Lovely wines that get swept up faster and faster every release; spans Burgundy classics and Aligoté projects.
+<!-- END E&R WINE SHOP -->
+
 ## Cross-references
 
 - [[Burgundy Producers]]

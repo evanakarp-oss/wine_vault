@@ -2,12 +2,12 @@
 type: region_index
 region: "Burgundy"
 updated: 2026-05-26
-producer_count: 85
+producer_count: 91
 ---
 
 # Burgundy — Producer Index
 
-**85 producers** tracked.
+**91 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -69,8 +69,12 @@ producer_count: 85
 | [[barraud|Barraud]] | France | '' | — | 5 | — | — | — |
 | [[charles_audoin|Charles Audoin]] | France | '' | — | 19 | — | — | — |
 | [[chicotot|Chicotot]] | France | '' | — | 20 | — | — | — |
+| [[chateau_de_beru|Château de Béru]] | France | Chablis | — | — | — | — | — |
 | [[cyril_audoin|Cyril Audoin]] | France | '' | — | 3 | — | — | — |
 | [[denis_bachelet|Denis Bachelet]] | France | '' | — | 1 | — | — | — |
+| [[michel_lafarge|Domaine Michel Lafarge]] | France | Volnay | — | — | — | — | — |
+| [[nathalie_gilles_fevre|Domaine Nathalie & Gilles Fèvre]] | France | Chablis | — | — | — | — | — |
+| [[sangouard_guyot|Domaine Sangouard-Guyot]] | France | Mâconnais (Vergisson) | — | — | — | — | — |
 | [[francois_bertheau|Francois Bertheau]] | France | '' | — | 5 | — | — | — |
 | [[francois_buffet|François Buffet]] | France | — | — | 3 | — | 24 | — |
 | [[georges_noellat|Georges Noëllat]] | France | '' | — | 13 | — | — | — |
@@ -84,6 +88,7 @@ producer_count: 85
 | [[jean_marc_et_thomas_bouley|Jean-Marc et Thomas Bouley]] | France | — | — | 4 | — | — | — |
 | [[julien_guillot__vignes_du_maynes|Julien Guillot / Vignes du Maynes]] | France | Mâcon / Cruzille | — | — | — | — | — |
 | [[latour_giraud|Latour Giraud]] | France | — | — | 10 | — | — | — |
+| [[les_faverelles|Les Faverelles]] | France | Vézelay | — | — | — | — | — |
 | [[loersch|Loersch]] | France | — | — | 9 | — | — | — |
 | [[louis_latour|Louis Latour]] | France | Beaune | — | — | 9 | — | — |
 | [[lucien_boillot|Lucien Boillot]] | France | Gevrey-Chambertin | — | — | 9 | — | — |
@@ -93,6 +98,7 @@ producer_count: 85
 | [[michel_rebourgeon|Michel Rebourgeon]] | France | — | — | 13 | — | 17 | — |
 | [[modot_guyon|Modot Guyon]] | France | — | — | 6 | — | — | — |
 | [[patrice_rion|Patrice Rion]] | France | — | — | 3 | — | — | — |
+| [[raphaelle_guyot|Raphaëlle Guyot]] | France | Puisaye-sur-Forterre | — | — | — | — | — |
 | [[roty|Roty]] | France | — | — | 1 | — | — | — |
 | [[sigaut|Sigaut]] | France | — | — | 9 | — | — | — |
 | [[thomas_et_jean_marc_bouley|Thomas et Jean Marc Bouley]] | France | — | — | 10 | — | — | — |

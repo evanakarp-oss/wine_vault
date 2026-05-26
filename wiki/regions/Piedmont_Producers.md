@@ -2,12 +2,12 @@
 type: region_index
 region: "Piedmont"
 updated: 2026-05-26
-producer_count: 20
+producer_count: 24
 ---
 
 # Piedmont — Producer Index
 
-**20 producers** tracked.
+**24 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -27,8 +27,12 @@ producer_count: 20
 | [[lorenzo_accomasso|Lorenzo Accomasso]] | Italy | Barolo (La Morra) | 2 | — | — | — | — |
 | [[domenico_clerico|Domenico Clerico]] | Italy | — | 1 | 2 | — | — | — |
 | [[le_piane|Le Piane]] | Italy | Alto Piemonte | 1 | 6 | — | — | — |
+| [[alberto_burzi|Alberto Burzi]] | Italy | La Morra (Barolo) | — | — | — | — | — |
+| [[matteo_correggia|Azienda Agricola Matteo Correggia]] | Italy | Roero (Canale) | — | — | — | — | — |
+| [[cecilia_monte|Cecilia Monte]] | Italy | Barbaresco (Neive) | — | — | — | — | — |
 | [[elio_altare|Elio Altare]] | Italy | — | — | 1 | — | — | — |
 | [[gaja|Gaja]] | Italy | Barbaresco / Barolo | — | — | 30 | — | — |
+| [[giovanni_prandi|Giovanni Prandi]] | Italy | Diano d'Alba | — | — | — | — | — |
 | [[pianelle|Pianelle]] | Italy | Alto Piemonte | — | 6 | — | — | — |
 | [[sottimano|Sottimano]] | Italy | — | — | 12 | — | — | — |
 

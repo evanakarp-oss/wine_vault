@@ -2,12 +2,12 @@
 type: region_index
 region: "Rhône"
 updated: 2026-05-26
-producer_count: 32
+producer_count: 33
 ---
 
 # Rhône — Producer Index
 
-**32 producers** tracked.
+**33 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -38,6 +38,7 @@ producer_count: 32
 | [[clos_saouma|Clos Saouma]] | France | — | — | 1 | — | — | — |
 | [[clusel_roch|Clusel Roch]] | France | '' | — | 3 | 1 | — | — |
 | [[domaine_de_beaurenard|Domaine de Beaurenard]] | France | Châteauneuf-du-Pape | — | — | 11 | — | — |
+| [[jean_louis_chave|Domaine Jean-Louis Chave]] | France | Hermitage / Mauves | — | — | — | — | — |
 | [[eric_et_joel_durand|Eric et Joel Durand]] | France | — | — | 1 | — | — | — |
 | [[georges_vernay|Georges Vernay]] | France | — | — | 1 | 1 | — | — |
 | [[jean_royer|Jean Royer]] | France | — | — | 1 | — | — | — |
