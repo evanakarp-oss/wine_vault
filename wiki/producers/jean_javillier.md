@@ -24,8 +24,6 @@ retailers:
     price_max: 79
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 2
     first_year: 2021
@@ -95,9 +93,5 @@ Currently tracked: **14 cuvée/vintage entries**; prices $26–$79.
 | Volnay villages | 2023 | $45 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

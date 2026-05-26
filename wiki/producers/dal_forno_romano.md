@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 22
     price_min: 129.99
     price_max: 2999.99
-  fass:
-    in_portfolio: false
 tags: ['amarone', 'valpolicella', 'cult']
 _sources: ["raeders_compile_curated:2026-04-25"]
 ---
@@ -105,7 +103,3 @@ _[Raeders link](https://www.raederswine.com/wines/Dal-Forno-Romano-Amarone-della
 > V 95+ This is a real bruiser of a wine, and it marks the first of three excellent back-to-back vintages (2011, 2012 and 2013). The growing season was full of surprises and many farming decisions had to be made at the spur of the moment.…
 
 _[Raeders link](https://www.raederswine.com/wines/Dal-Forno-Romano-Amarone-della-Valpolicella-2011-w43998471s)_
-
-## FASS
-
-_Not yet populated._

@@ -28,8 +28,6 @@ retailers:
     cuvee_count: 11
     price_min: 13.99
     price_max: 77.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 2
     first_year: 2019
@@ -114,7 +112,3 @@ Currently tracked at Raeders: **11 cuvée/vintage entries**; prices $13.99–$77
 | Chablis Les Vaillons Vieilles Vignes | 2019 | 750ml | — | WA 92 · WE 94 |
 | Chablis Les Vaudevey | 2021 | 750ml | — | — |
 | Chablis St.-Martin | NV | 750ml | — | — |
-
-## FASS
-
-_Not yet populated._

@@ -24,8 +24,6 @@ retailers:
     price_max: 299
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 1
     first_year: 2022
@@ -75,9 +73,5 @@ Currently tracked: **5 cuvée/vintage entries**; prices $45–$299.
 | Echezeaux Grand cru | 2022 | $299 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

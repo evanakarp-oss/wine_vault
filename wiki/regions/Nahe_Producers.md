@@ -11,7 +11,7 @@ producer_count: 3
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
-| [[donnhoff|Dönnhoff]] | Germany | '' | 10 | — | — | — | — |
+| [[donnhoff|Dönnhoff]] | Germany | '' | 10 | — | — | 2 | — |
 | [[schafer-frohlich|Schafer-Frohlich]] | Germany | — | 6 | — | — | — | — |
 | [[emrich_schonleber|Emrich-Schönleber]] | Germany | '' | 3 | — | — | — | — |
 

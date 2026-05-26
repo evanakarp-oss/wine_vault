@@ -28,8 +28,6 @@ retailers:
     cuvee_count: 1
     price_min: 0
     price_max: 0
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 9
     first_year: 2019
@@ -144,7 +142,3 @@ Currently tracked: **1 cuvée/vintage entries**; prices —–—.
 | Cuvée | Vintage | Size | Price | Scores |
 |---|---|---|---|---|
 | Vieille Vigne Du Levant Grand Cru Extra Brut | 2014 | 750ml | — | — |
-
-## FASS
-
-_Not yet populated._

@@ -24,8 +24,6 @@ retailers:
     price_max: 79
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 12
     first_year: 2018
@@ -212,9 +210,5 @@ Currently tracked: **2 cuvée/vintage entries**; prices $23–$79.
 | Morgon la Voûte Saint Vincent | 2022 | $23 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

@@ -11,6 +11,11 @@ farming: []
 certifications: []
 importer_us: []
 retailers:
+  fass:
+    in_portfolio: true
+    cuvee_count: 1
+    price_min: 45
+    price_max: 45
   chambers:
     championed: true
     article_count: 2
@@ -24,11 +29,6 @@ retailers:
     price_max: 59
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: true
-    cuvee_count: 1
-    price_min: 0
-    price_max: 0
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -78,9 +78,9 @@ _Not yet populated._
 
 ## FASS
 
-Currently tracked: **1 cuvée/vintage entries**; prices $0–$0.
+Currently tracked: **1 cuvée/vintage entries**; prices $46–$46.
 
 | Cuvée | Vintage | Price |
 |---|---|---|
-| Cornas Granit 60 | 2021 | — |
+| Cornas Granit 60 | 2021 | $46 |
 

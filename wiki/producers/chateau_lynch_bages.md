@@ -28,8 +28,6 @@ retailers:
     cuvee_count: 5
     price_min: 259.99
     price_max: 399.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 9
     first_year: 2017
@@ -155,7 +153,3 @@ _[Raeders link](https://www.raederswine.com/wines/Chateau-Lynch-Bages-Pauillac-2
 > WE 98 D 96 JD 96 JS 99 RP 95 V 96 WW 98 Blend: 60% Cabernet Sauvignon, 31% Merlot, 4% Cabernet Franc, 5% Petit Verdot
 
 _[Raeders link](https://www.raederswine.com/wines/Chateau-Lynch-Bages-Pauillac-2020-w023408228)_
-
-## FASS
-
-_Not yet populated._

@@ -29,8 +29,6 @@ retailers:
     cuvee_count: 2
     price_min: 139.99
     price_max: 139.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 2
     first_year: 2023
@@ -89,7 +87,3 @@ Vintages on offer: 2014, 2019.
 |---|---|---|---|---|
 | Margaux | 2019 | 750ml | $139.99 | — |
 | Margaux | 2014 | 750ml | — | WA 93 · WE 95 |
-
-## FASS
-
-_Not yet populated._

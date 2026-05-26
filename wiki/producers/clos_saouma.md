@@ -24,8 +24,6 @@ retailers:
     price_max: 179
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
 ---
@@ -47,9 +45,5 @@ Currently tracked: **1 cuvée/vintage entries**; prices $179–$179.
 | Arioso Chateauneuf du Pape | 2009 | $179 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

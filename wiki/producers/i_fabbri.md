@@ -24,8 +24,6 @@ retailers:
     price_max: 55
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
 ---
@@ -57,9 +55,5 @@ Currently tracked: **3 cuvée/vintage entries**; prices $29–$55.
 | Chianti Classico Riserva | 2021 | $55 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

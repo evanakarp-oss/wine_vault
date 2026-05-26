@@ -24,8 +24,6 @@ retailers:
     price_max: 69
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 2
     first_year: 2016
@@ -81,9 +79,5 @@ Currently tracked: **1 cuvée/vintage entries**; prices $69–$69.
 | Chateauneuf du Pape Cuvee du Papet | 2015 | $69 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

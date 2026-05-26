@@ -29,8 +29,6 @@ retailers:
     cuvee_count: 3
     price_min: 189.99
     price_max: 229.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 2
     first_year: 2019
@@ -119,7 +117,3 @@ _[Raeders link](https://www.raederswine.com/wines/Chateau-Calon-Segur-Saint-Este
 > WA 94 JS 97 V 91 Tasted from an ex-château bottle at BI Wine & Spirits Calon-Segur dinner in London. The 1995 Calon-Segur was the vintage that raised the profile of this estate and heralded the start of the late Mme Gasqueton’s era.…
 
 _[Raeders link](https://www.raederswine.com/wines/Chateau-Calon-Segur-Saint-Estephe-1995-w28589664e)_
-
-## FASS
-
-_Not yet populated._

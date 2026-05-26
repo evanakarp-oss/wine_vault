@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 1
     price_min: 0
     price_max: 0
-  fass:
-    in_portfolio: false
 tags: []
 _sources: ["short:short__Domaine_Jean_Chauvenet.md"]
 ---
@@ -58,11 +56,6 @@ Currently tracked: **1 cuvée/vintage entries**; prices —–—.
 | Cuvée | Vintage | Size | Price | Scores |
 |---|---|---|---|---|
 | Nuits-St.-Georges | 2019 | 750ml | — | — |
-
-## FASS
-
-_Not yet populated._
-
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]

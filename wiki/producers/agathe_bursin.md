@@ -24,8 +24,6 @@ retailers:
     price_max: 18
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
 ---
@@ -47,9 +45,5 @@ Currently tracked: **1 cuvée/vintage entries**; prices $18–$18.
 | Sylvaner Lutzeltal | 2017 | $18 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

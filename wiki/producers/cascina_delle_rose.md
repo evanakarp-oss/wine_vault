@@ -27,8 +27,6 @@ retailers:
     price_max: 0
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
 roscioli:
   in_portfolio: true
   profile_url: "https://www.roscioliwineclub.com/cascina-delle-rose-barbaresco/"
@@ -77,11 +75,6 @@ _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 ## Raeder's
 
 _Not yet populated._
-
-## FASS
-
-_Not yet populated._
-
 ## Roscioli Wine Club
 
 **Profile:** [Cascina delle Rose, Barbaresco](https://www.roscioliwineclub.com/cascina-delle-rose-barbaresco/)  

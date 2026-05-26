@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 2
     price_min: 0
     price_max: 0
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 18
     first_year: 2016
@@ -223,7 +221,3 @@ Vintages on offer: 2015, NV.
 |---|---|---|---|---|
 | Brut Champagne Special Cuvée | NV | 750ml | — | — |
 | Grand Année Brut Champagne | 2015 | 750ml | — | — |
-
-## FASS
-
-_Not yet populated._

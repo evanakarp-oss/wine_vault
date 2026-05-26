@@ -24,8 +24,6 @@ retailers:
     price_max: 649
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 1
     first_year: 2023
@@ -81,9 +79,5 @@ Currently tracked: **5 cuvée/vintage entries**; prices $89–$649.
 | Chambolle Musigny villages | 2022 | $89 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

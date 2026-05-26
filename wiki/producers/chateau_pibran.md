@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 1
     price_min: 44.99
     price_max: 44.99
-  fass:
-    in_portfolio: false
 tags: ['bordeaux', 'pauillac', 'value', 'wk-coverage']
 _sources: ["raeders_compile_curated_v2:2026-04-25"]
 ---
@@ -62,7 +60,3 @@ Vintages on offer: 2020.
 > WA 90+ JS 95 Aromas of cassis, raw cocoa, licorice and loamy soil introduce the 2020 Pibran, a medium to full-bodied, layered and velvety wine framed by powdery tannins that assert themselves on the finish. Read More...
 
 _[Raeders link](https://www.raederswine.com/wines/Chateau-Pibran-Pauillac-2020-w1231521pj)_
-
-## FASS
-
-_Not yet populated._

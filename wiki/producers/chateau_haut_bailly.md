@@ -29,8 +29,6 @@ retailers:
     cuvee_count: 1
     price_min: 0
     price_max: 0
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 9
     first_year: 2016
@@ -135,7 +133,3 @@ Vintages on offer: 2018.
 | Cuvée | Vintage | Size | Price | Scores |
 |---|---|---|---|---|
 | Pessac-Leognan | 2018 | 750ml | — | WA 96 · WE 96 |
-
-## FASS
-
-_Not yet populated._

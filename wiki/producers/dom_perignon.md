@@ -28,8 +28,6 @@ retailers:
     cuvee_count: 7
     price_min: 499.99
     price_max: 499.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 23
     first_year: 2017
@@ -242,7 +240,3 @@ Vintages on offer: 1995, 2000, 2002, 2008, 2013, 2015.
 | Brut Jean Michel Basquiat Edition | 2015 | 750ml | — | — |
 | Rose P2 | 1995 | 750ml | — | — |
 | Rose P2 | 2000 | 750ml | — | — |
-
-## FASS
-
-_Not yet populated._

@@ -24,8 +24,6 @@ retailers:
     price_max: 25
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 1
     first_year: 2016
@@ -66,9 +64,5 @@ Currently tracked: **2 cuvée/vintage entries**; prices $20–$25.
 | Sand und Kiesel Portugieser | 2019 | $25 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

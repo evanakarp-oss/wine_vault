@@ -11,6 +11,11 @@ farming: []
 certifications: []
 importer_us: []
 retailers:
+  fass:
+    in_portfolio: true
+    cuvee_count: 3
+    price_min: 54
+    price_max: 59
   chambers:
     championed: true
     article_count: 2
@@ -23,8 +28,6 @@ retailers:
     price_min: 0
     price_max: 0
   raeders:
-    in_portfolio: false
-  fass:
     in_portfolio: false
 tags: []
 _sources: ["short:short__Domaine_Pavelot.md"]
@@ -51,13 +54,19 @@ _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 ## Raeder's
 
 _Not yet populated._
-
-## FASS
-
-_Not yet populated._
-
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
 - [[Pernand-Vergelesses]]
 - [[CSW Article Archive]]
+
+## FASS
+
+Currently tracked: **3 cuvée/vintage entries**; prices $55–$60.
+
+| Cuvée | Vintage | Price |
+|---|---|---|
+| Savigny Les Beaune 1er Cru Aux Gravains | 2022 | $55 |
+| Savigny Les Beaune 1er Cru La Dominode | 2021 | $60 |
+| Savigny Les Beaune 1er Cru La Dominode | 2022 | $58 |
+

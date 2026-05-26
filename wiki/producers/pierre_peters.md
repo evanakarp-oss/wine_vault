@@ -28,8 +28,6 @@ retailers:
     cuvee_count: 2
     price_min: 79.99
     price_max: 329.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 4
     first_year: 2016
@@ -119,7 +117,3 @@ Vintages on offer: 2017, NV.
 |---|---|---|---|---|
 | Montjolys Blanc De Blancs | 2017 | 750ml | $329.99 | — |
 | Cuvee Reserve Blanc De Blanc | NV | 750ml | $79.99 | — |
-
-## FASS
-
-_Not yet populated._

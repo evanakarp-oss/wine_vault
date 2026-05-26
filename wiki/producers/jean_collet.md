@@ -24,8 +24,6 @@ retailers:
     price_max: 39
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 1
     first_year: 2018
@@ -73,9 +71,5 @@ Currently tracked: **3 cuvée/vintage entries**; prices $25–$39.
 | Chablis AOC | 2022 | $25 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

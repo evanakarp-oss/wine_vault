@@ -24,8 +24,6 @@ retailers:
     price_max: 109
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
 ---
@@ -52,9 +50,5 @@ Currently tracked: **6 cuvée/vintage entries**; prices $25–$109.
 | Extra Quality Brut Magnum | NV | $85 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

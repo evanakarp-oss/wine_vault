@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 7
     price_min: 249.99
     price_max: 999.99
-  fass:
-    in_portfolio: false
 tags: ['california', 'cult', 'rhone-style', 'syrah', 'grenache']
 _sources: ["raeders_compile_curated_v2:2026-04-25"]
 ---
@@ -80,7 +78,3 @@ _[Raeders link](https://www.raederswine.com/wines/Sine-Qua-Non-Distenta-III-Gren
 > JD 97-99 V 96-99 Based around the Eleven Confessions Vineyard with inclusions from The Third Twin and Cumulus, the 2021 Grenache Distenta III includes 8.4% Syrah, 7.4% Mourvèdre, and 3.2% Petite Sirah with dollops of Petit Manseng and Muscat.…
 
 _[Raeders link](https://www.raederswine.com/wines/Sine-Qua-Non-Distenta-III-Grenache-2021-w2758511xw)_
-
-## FASS
-
-_Not yet populated._

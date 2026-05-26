@@ -21,8 +21,6 @@ retailers:
     in_portfolio: false
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
 events: []
 tags: ["emerging", "low-intervention", "patagonia", "argentina"]
 _sources: ["arg_jsx:arg-natural-wine_3.jsx"]

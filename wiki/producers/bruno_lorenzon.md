@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 2
     price_min: 79.99
     price_max: 99.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 12
     first_year: 2019
@@ -165,11 +163,6 @@ Currently tracked: **2 cuvée/vintage entries**; prices $79.99–$99.99.
 |---|---|---|---|---|
 | Montagny 1er Cru Le Choix Du Roi Blanc | 2022 | 750ml | $99.99 | — |
 | Mercurey Le Chapitre | 2022 | 750ml | $79.99 | — |
-
-## FASS
-
-_Not yet populated._
-
 ## Cellar
 
 Own **3 bottle(s)** across 2 cuvée-vintage(s):

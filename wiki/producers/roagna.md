@@ -30,8 +30,6 @@ retailers:
     cuvee_count: 6
     price_min: 59.99
     price_max: 359.99
-  fass:
-    in_portfolio: false
 roscioli:
   in_portfolio: true
   profile_url: "https://www.roscioliwineclub.com/roagna-langhe-barbaresco/"
@@ -162,11 +160,6 @@ _[Raeders link](https://www.raederswine.com/wines/Roagna-Barbaresco-Paje-2017-w3
 > JD 96 V 96 This pure red features cherry, raspberry, rose and licorice flavors, underlined by mineral and tobacco elements. Taut and linear, with the essence of fruit, floral and mineral notes, showing terrific harmony and length on an elegant…
 
 _[Raeders link](https://www.raederswine.com/wines/Roagna-Barbaresco-Paje-Vecchie-Viti-2018-w04018362l)_
-
-## FASS
-
-_Not yet populated._
-
 ## Roscioli Wine Club
 
 **Profile:** [Roagna, Langhe | Barbaresco](https://www.roscioliwineclub.com/roagna-langhe-barbaresco/)  

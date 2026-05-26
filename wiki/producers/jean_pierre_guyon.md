@@ -24,8 +24,6 @@ retailers:
     price_max: 1099
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 1
     first_year: 2019
@@ -82,9 +80,5 @@ Currently tracked: **21 cuvée/vintage entries**; prices $59–$1099.
 | Vosne Romanée villages les Charmes de Maizières | 2023 | $275 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

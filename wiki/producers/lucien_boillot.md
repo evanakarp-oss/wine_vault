@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 9
     price_min: 89.99
     price_max: 149.99
-  fass:
-    in_portfolio: false
 tags: ['pinot-noir', 'burgundy']
 _sources: ["raeders_compile_curated:2026-04-25"]
 ---
@@ -60,7 +58,3 @@ Currently tracked at Raeders: **9 cuvée/vintage entries**; prices $89.99–$149
 | Gevrey Chambertin 1er Cru La Perriere | 2019 | 750ml | — | — |
 | Pommard Les Fremiers | 2015 | 750ml | — | — |
 | Volnay 1er Cru Clos Des Angles | 2019 | 750ml | — | — |
-
-## FASS
-
-_Not yet populated._

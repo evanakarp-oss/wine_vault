@@ -29,8 +29,6 @@ retailers:
     cuvee_count: 19
     price_min: 89.99
     price_max: 599.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 44
     first_year: 2015
@@ -421,7 +419,3 @@ _[Raeders link](https://www.raederswine.com/wines/Domaine-Leflaive-Pouilly-Fuiss
 > Silky and almost racy, with lemon, apple and floral flavors backed by crisp acidity. Light bodied, focused and long, with elegance and precision.
 
 _[Raeders link](https://www.raederswine.com/wines/Domaine-Leflaive-Macon-Verze-Les-Chenes-2020-w6804421ib)_
-
-## FASS
-
-_Not yet populated._

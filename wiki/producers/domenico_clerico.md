@@ -24,8 +24,6 @@ retailers:
     price_max: 349
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
 ---
@@ -51,9 +49,5 @@ Currently tracked: **2 cuvée/vintage entries**; prices $75–$349.
 | Barolo Percristina MAGNUM | 2004 | $349 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

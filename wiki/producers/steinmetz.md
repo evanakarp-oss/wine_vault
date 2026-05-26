@@ -11,6 +11,11 @@ farming: []
 certifications: []
 importer_us: []
 retailers:
+  fass:
+    in_portfolio: true
+    cuvee_count: 41
+    price_min: 22
+    price_max: 61
   chambers:
     championed: false
     article_count: 9
@@ -23,8 +28,6 @@ retailers:
     price_min: 17
     price_max: 149
   raeders:
-    in_portfolio: false
-  fass:
     in_portfolio: false
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
@@ -131,4 +134,49 @@ _Not yet populated._
 
 ## FASS
 
-_Not yet populated._
+Currently tracked: **41 cuvée/vintage entries**; prices $23–$62.
+
+| Cuvée | Vintage | Price | Color | Variety |
+|---|---|---|---|---|
+| Alter Satz | 2021 | $23 | — | — |
+| Alter Satz | 2021 | $23 | — | — |
+| Brauneberger Juffer GB | 2022 | $29 | — | — |
+| Brauneberger Juffer HL | 2014 | $37 | — | — |
+| Brauneberger Juffer Kabinett | 2023 | $24 | — | — |
+| Detzemer Maximin Klosterlay Riesling | 2023 | $47 | White | Riesling |
+| Dhroner Grosser Hengelberg Monopollage Riesling GG | 2024 | $48 | — | — |
+| Dhroner Grosser Hengelberg Monopollage Riesling GG | 2024 | $46 | — | — |
+| Dhroner Grosser Hengelberg Riesling Monopollage | 2023 | $38 | — | — |
+| Dhroner Großer Hengelberg "Monopollage" Riesling GG | 2024 | $46 | — | — |
+| Dhroner Hofberger Reserve | 2023 | $46 | — | — |
+| Gunther Steinmetz Brauneberger Juffer Rielsing HL | 2014 | $35 | — | — |
+| Kestener Herrenberg Kabinett | 2020 | $28 | — | — |
+| Kestener Herrenberg Pinot Noir | 2023 | $30 | — | — |
+| Kestener Paulinsberg Pinot Noir* | 2020 | $26 | — | — |
+| Kestener Paulinsberg Pinot Noir* | 2020 | $26 | — | — |
+| Muhlheimer Sonnenlay Pinot Noir*** | 2020 | $35 | — | — |
+| Neumagener Rosengärtchen Von den Terrassen | 2024 | $62 | — | — |
+| Neumagener Rosengärtchen von der Terrasen | 2022 | $48 | — | — |
+| Piesporter Domherr Kabinett | 2023 | $25 | — | — |
+| Piesporter Goldtropfchen Kabinett | 2023 | $24 | — | — |
+| Piesporter Grafenberg Kabinett | 2022 | $23 | — | — |
+| Piesporter Treppchen Auslese | 2022 | $39 | — | — |
+| Piesporter Treppchen Kabinett | 2024 | $34 | — | — |
+| Piesporter Treppchen Kabinett | 2024 | $30 | — | — |
+| Riesling Kestener Paulinshofberg GK | 2016 | $36 | White | Riesling |
+| Rose Reserve | 2024 | $36 | Rosé | — |
+| Steinmetz "Alter Satz" | 2021 | $25 | — | — |
+| Steinmetz Kestener Herrenberg Pinot Noir | 2020 | $32 | Red | Pinot Noir |
+| Steinmetz Muhlheimer Sonnenlay Pinot Noir*** | 2020 | $37 | Red | Pinot Noir |
+| Steinmetz Piesporter Goldtröpfchen "GP" | 2016 | $37 | — | — |
+| Steinmetz Piesporter Goldtröpfchen Kabinett | 2023 | $30 | — | — |
+| Steinmetz Wehlener Sonnenuhr Kanbinett | 2023 | $30 | — | — |
+| Steinmetz Wintricher Großer Herrgott Kabinett | 2024 | $29 | — | — |
+| Wehlener Sonnenuhr Kabinett | 2023 | $24 | — | — |
+| Wintricher Geierslay "Rondel" | 2023 | $29 | — | — |
+| Wintricher Ohligsberg "Rondel" | 2023 | $28 | — | — |
+| Wintricher Ohligsberg Kabinett | 2024 | $30 | — | — |
+| Wintricher Ohligsberg Rondel | 2023 | $26 | — | — |
+| Zeltinger Sonnenuhr GZ | 2022 | $37 | — | — |
+| _… 1 more entries_ | | | | |
+

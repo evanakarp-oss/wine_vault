@@ -24,8 +24,6 @@ retailers:
     price_max: 65
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 2
     first_year: 2018
@@ -102,9 +100,5 @@ Currently tracked: **19 cuvée/vintage entries**; prices $45–$65.
 | Marsannay Longeroies | 2023 | $59 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

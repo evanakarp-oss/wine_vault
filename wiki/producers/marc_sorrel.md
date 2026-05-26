@@ -24,8 +24,6 @@ retailers:
     price_max: 599
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 1
     first_year: 2019
@@ -83,9 +81,5 @@ Currently tracked: **15 cuvée/vintage entries**; prices $69–$599.
 | Hermitage rouge le Gréal Magnum | 2023 | $599 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

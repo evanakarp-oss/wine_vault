@@ -24,8 +24,6 @@ retailers:
     price_max: 1199
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 7
     first_year: 2015
@@ -126,9 +124,5 @@ Currently tracked: **12 cuvée/vintage entries**; prices $49–$1199.
 | Vougeot 1er Petits Vougeot | 2022 | $159 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

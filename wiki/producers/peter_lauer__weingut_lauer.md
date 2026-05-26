@@ -13,6 +13,11 @@ importer_us:
 - Skurnik
 - Theise
 retailers:
+  fass:
+    in_portfolio: true
+    cuvee_count: 4
+    price_min: 29
+    price_max: 185
   chambers:
     championed: false
     article_count: 0
@@ -27,8 +32,6 @@ retailers:
     price_min: 0
     price_max: 0
   raeders:
-    in_portfolio: false
-  fass:
     in_portfolio: false
   berserkers_kelley:
     post_count: 0
@@ -175,13 +178,20 @@ _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 ## Raeder's
 
 _Not yet populated._
-
-## FASS
-
-_Not yet populated._
-
 ## Cross-references
 
 - [[Germany_Producers|Germany]]
 - [[Saar]]
 - [[CSW Article Archive]]
+
+## FASS
+
+Currently tracked: **4 cuvée/vintage entries**; prices $30–$185.
+
+| Cuvée | Vintage | Price | Color | Variety |
+|---|---|---|---|---|
+| Riesling Brut | 2022 | $30 | White | Riesling |
+| Riesling Brut Grande Réserve | 1984 | $185 | White | Riesling |
+| Riesling Brut Nature Prestige | 2016 | $50 | White | Riesling |
+| Schönfels GG Trocken N°11 | 2023 | $56 | — | — |
+

@@ -29,8 +29,6 @@ retailers:
     cuvee_count: 8
     price_min: 399.99
     price_max: 1299.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 17
     first_year: 2015
@@ -207,7 +205,3 @@ Vintages on offer: 1964, 1981, 2014, 2017, 2019, 2020, 2022.
 > WA 96 D 98 JD 97 JS 99 The 2019 Palmer is a rich, dramatic wine that soars from the glass with aromas of cherries, blackberries and berry fruit liqueur mingled with notions of violets, rose petals and sweet spices. Full-bodied, layered and seamless,…
 
 _[Raeders link](https://www.raederswine.com/wines/Chateau-Palmer-Margaux-2019-w8299634bd)_
-
-## FASS
-
-_Not yet populated._

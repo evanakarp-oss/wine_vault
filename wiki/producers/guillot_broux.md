@@ -24,8 +24,6 @@ retailers:
     price_max: 49
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 1
     first_year: 2020
@@ -85,9 +83,5 @@ Currently tracked: **2 cuvée/vintage entries**; prices $42–$49.
 | Macon Cruzille Les Genevrières Rouge | 2019 | $42 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

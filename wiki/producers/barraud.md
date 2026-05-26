@@ -24,8 +24,6 @@ retailers:
     price_max: 55
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 5
     first_year: 2019
@@ -94,9 +92,5 @@ Currently tracked: **5 cuvée/vintage entries**; prices $26–$55.
 | Pouilly Fuissé En Buland | 2023 | $55 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

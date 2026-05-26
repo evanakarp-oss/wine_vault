@@ -24,8 +24,6 @@ retailers:
     price_max: 69
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
 ---
@@ -53,9 +51,5 @@ Currently tracked: **7 cuvée/vintage entries**; prices $23–$69.
 | Bernkasteler Lay Kabinett Cuvée Christina | 2022 | $27 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

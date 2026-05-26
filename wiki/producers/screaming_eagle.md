@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 1
     price_min: 0
     price_max: 0
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 1
     first_year: 2016
@@ -83,7 +81,3 @@ Vintages on offer: 2021.
 | Cuvée | Vintage | Size | Price | Scores |
 |---|---|---|---|---|
 | The Flight - Second Flight | 2021 | 750ml | — | — |
-
-## FASS
-
-_Not yet populated._

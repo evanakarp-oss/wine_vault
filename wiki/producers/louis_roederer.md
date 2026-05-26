@@ -28,8 +28,6 @@ retailers:
     cuvee_count: 12
     price_min: 65.99
     price_max: 899.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -92,7 +90,3 @@ Vintages on offer: 1999, 2005, 2008, 2012, 2013, 2015, 2016, 2017, NV.
 | Brut Champagne Cristal | 2005 | 750ml | — | — |
 | Brut Champagne Cristal | 2008 | 750ml | — | — |
 | Cristal Vinotheque Brut | 1999 | 750ml | — | — |
-
-## FASS
-
-_Not yet populated._

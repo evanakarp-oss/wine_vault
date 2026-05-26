@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 1
     price_min: 339.99
     price_max: 339.99
-  fass:
-    in_portfolio: false
 tags: ['napa', 'stags-leap', 'cult']
 _sources: ["raeders_compile_curated_v2:2026-04-25"]
 ---
@@ -62,7 +60,3 @@ Vintages on offer: 2011.
 > The 2011 Proprietary Red Estate is a blend of 74% Cabernet Sauvignon, 11% Cabernet Franc, 9% Petit Verdot and 6% Merlot. It offers sweet blackcurrant and blueberry fruit intermixed with hints of toast and white flowers, beautiful…
 
 _[Raeders link](https://www.raederswine.com/wines/Futo-Estate-Red-Blend-2011-w3331855nu)_
-
-## FASS
-
-_Not yet populated._

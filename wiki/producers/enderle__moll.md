@@ -12,6 +12,11 @@ farming:
 certifications: []
 importer_us: []
 retailers:
+  fass:
+    in_portfolio: true
+    cuvee_count: 18
+    price_min: 19
+    price_max: 51
   chambers:
     championed: true
     article_count: 7
@@ -26,8 +31,6 @@ retailers:
     price_min: 0
     price_max: 0
   raeders:
-    in_portfolio: false
-  fass:
     in_portfolio: false
   berserkers_kelley:
     post_count: 0
@@ -89,13 +92,34 @@ _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 ## Raeder's
 
 _Not yet populated._
-
-## FASS
-
-_Not yet populated._
-
 ## Cross-references
 
 - [[Germany_Producers|Germany]]
 - [[Baden]]
 - [[CSW Article Archive]]
+
+## FASS
+
+Currently tracked: **18 cuvée/vintage entries**; prices $20–$52.
+
+| Cuvée | Vintage | Price |
+|---|---|---|
+| Bundsandstein | 2022 | $52 |
+| Bundsandstein | 2022 | $52 |
+| Bundsandstein | 2022 | $50 |
+| Grauburgunder (4867) | 2021 | $23 |
+| Grauburgunder / Pinot Gris Skins | 2021 | $41 |
+| Grauburgunder / Pinot Gris Skins | 2021 | $41 |
+| Grauburgunder / Pinot Gris Skins | 2021 | $40 |
+| Muller Thurgau Muller | 2022 | $20 |
+| Muller Thurgau Muller | 2022 | $20 |
+| Muller Thurgau Pur | 2021 | $21 |
+| Muller Thurgau Pur | 2021 | $21 |
+| Muschelkalk | 2022 | $52 |
+| Muschelkalk | 2022 | $52 |
+| Muschelkalk | 2022 | $50 |
+| Weißburgunder / Pinot Blanc Sphere | 2021 | $43 |
+| Weißburgunder / Pinot Blanc Sphere | 2021 | $41 |
+| Weißburgunder / Pinot Blanc Sphere | 2021 | $43 |
+| Weißburgunder / Pinot Blanc Sphere | 2021 | $41 |
+

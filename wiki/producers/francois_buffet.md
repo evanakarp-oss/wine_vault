@@ -11,6 +11,11 @@ farming: []
 certifications: []
 importer_us: []
 retailers:
+  fass:
+    in_portfolio: true
+    cuvee_count: 33
+    price_min: 43
+    price_max: 94
   chambers:
     championed: false
     article_count: 0
@@ -24,11 +29,6 @@ retailers:
     price_max: 65
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: true
-    cuvee_count: 24
-    price_min: 0
-    price_max: 0
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
 ---
@@ -57,32 +57,41 @@ _Not yet populated._
 
 ## FASS
 
-Currently tracked: **24 cuvée/vintage entries**; prices $0–$0.
+Currently tracked: **33 cuvée/vintage entries**; prices $44–$95.
 
-| Cuvée | Vintage | Price |
-|---|---|---|
-| Pernand Vergelesses 1er Cru Les Vergelesses | 2022 | — |
-| Pommard | 2023 | — |
-| Pommard 1er Cru "Les Rugiens" | 2023 | — |
-| Pommard 1er Cru "Rugiens" | 2023 | — |
-| Pommard 1er Cru Le Clos Micot | 2021 | — |
-| Pommard 1er Cru Le Clos Micot | 2022 | — |
-| Pommard 1er Cru “Les Poutures” | 2023 | — |
-| Savigny Les Beaune 1er Cru | 2023 | — |
-| Savigny Les Beaune 1er Cru Narbantons | 2022 | — |
-| Volnay | 2022 | — |
-| Volnay | 2023 | — |
-| Volnay 1er Carelle Sous la Chapelle | 2022 | — |
-| Volnay 1er Cru " Taillepieds" | 2023 | — |
-| Volnay 1er Cru "Carelle-sous-la-Chapelle" | 2023 | — |
-| Volnay 1er Cru "Champans | 2023 | — |
-| Volnay 1er Cru "Clos de la Rougeotte" MONOPOLE | 2023 | — |
-| Volnay 1er Cru "Clos des Chenes" | 2023 | — |
-| Volnay 1er Cru 'Carelle-sous-la-Chapelle' | 2023 | — |
-| Volnay 1er Cru 'Le Village' | 2023 | — |
-| Volnay 1er Cru Clos de Chenes | 2022 | — |
-| Volnay 1er Cru Clos de la Rougeotte Monopole | 2022 | — |
-| Volnay 1er Cru La Village | 2022 | — |
-| Volnay 1er Cru “Champans” | 2023 | — |
-| Volnay 1er Cru “Le Village" | 2023 | — |
+| Cuvée | Vintage | Price | Color | Variety |
+|---|---|---|---|---|
+| Pernand Vergelesses 1er Cru Les Vergelesses | 2022 | $45 | — | — |
+| Pommard | 2023 | $46 | Red | Pinot Noir |
+| Pommard | 2023 | $54 | Red | Pinot Noir |
+| Pommard | 2023 | $49 | Red | Pinot Noir |
+| Pommard 1er Cru "Les Poutures" | 2023 | $82 | Red | Pinot Noir |
+| Pommard 1er Cru "Les Rugiens" | 2023 | $95 | Red | Pinot Noir |
+| Pommard 1er Cru "Rugiens" | 2023 | $85 | Red | Pinot Noir |
+| Pommard 1er Cru Le Clos Micot | 2021 | $66 | — | — |
+| Pommard 1er Cru Le Clos Micot | 2022 | $66 | — | — |
+| Savigny Les Beaune 1er Cru | 2023 | $56 | Red | Pinot Noir |
+| Savigny Les Beaune 1er Cru Narbantons | 2022 | $45 | — | — |
+| Volnay | 2022 | $46 | Red | Pinot Noir |
+| Volnay | 2022 | $44 | Red | Pinot Noir |
+| Volnay | 2023 | $58 | Red | Pinot Noir |
+| Volnay | 2023 | $46 | Red | Pinot Noir |
+| Volnay | 2023 | $54 | Red | Pinot Noir |
+| Volnay | 2023 | $49 | Red | Pinot Noir |
+| Volnay 1er Carelle Sous la Chapelle | 2022 | $65 | — | — |
+| Volnay 1er Cru "Carelle-sous-la-Chapelle" | 2023 | $82 | — | — |
+| Volnay 1er Cru "Champans" | 2023 | $82 | Red | Pinot Noir |
+| Volnay 1er Cru "Champans" | 2023 | $78 | Red | Pinot Noir |
+| Volnay 1er Cru "Champans" | 2023 | $82 | Red | Pinot Noir |
+| Volnay 1er Cru "Clos de la Rougeotte" MONOPOLE | 2023 | $78 | Red | Pinot Noir |
+| Volnay 1er Cru "Clos de la Rougeotte" MONOPOLE | 2023 | $82 | Red | Pinot Noir |
+| Volnay 1er Cru "Clos des Chenes" | 2023 | $70 | Red | Pinot Noir |
+| Volnay 1er Cru "Clos des Chenes" | 2023 | $77 | Red | Pinot Noir |
+| Volnay 1er Cru "Le Village" | 2023 | $82 | Red | Pinot Noir |
+| Volnay 1er Cru "Taillepieds" | 2023 | $70 | Red | Pinot Noir |
+| Volnay 1er Cru 'Carelle-sous-la-Chapelle' | 2023 | $82 | — | — |
+| Volnay 1er Cru 'Le Village' | 2023 | $82 | — | — |
+| Volnay 1er Cru Clos de Chenes | 2022 | $68 | — | — |
+| Volnay 1er Cru Clos de la Rougeotte Monopole | 2022 | $67 | — | — |
+| Volnay 1er Cru La Village | 2022 | $65 | — | — |
 

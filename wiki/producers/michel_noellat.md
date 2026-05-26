@@ -24,8 +24,6 @@ retailers:
     price_max: 45
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 1
     first_year: 2022
@@ -76,9 +74,5 @@ Currently tracked: **1 cuvée/vintage entries**; prices $45–$45.
 | Morey St Denis villages Tres Girard | 2012 | $45 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

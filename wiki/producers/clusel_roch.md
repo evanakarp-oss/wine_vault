@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 1
     price_min: 99.99
     price_max: 99.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -67,7 +65,3 @@ Currently tracked: **1 cuvée/vintage entries**; prices $99.99–$99.99.
 | Cuvée | Vintage | Size | Price | Scores |
 |---|---|---|---|---|
 | Cote Rotie Les Schistes | 2022 | 750ml | $99.99 | — |
-
-## FASS
-
-_Not yet populated._

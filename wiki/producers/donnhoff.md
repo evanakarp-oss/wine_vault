@@ -13,6 +13,11 @@ importer_us:
 - Skurnik
 - Theise
 retailers:
+  fass:
+    in_portfolio: true
+    cuvee_count: 2
+    price_min: 51
+    price_max: 51
   chambers:
     championed: true
     article_count: 10
@@ -27,8 +32,6 @@ retailers:
     price_min: 0
     price_max: 0
   raeders:
-    in_portfolio: false
-  fass:
     in_portfolio: false
   berserkers_kelley:
     post_count: 1
@@ -121,13 +124,18 @@ _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 ## Raeder's
 
 _Not yet populated._
-
-## FASS
-
-_Not yet populated._
-
 ## Cross-references
 
 - [[Germany_Producers|Germany]]
 - [[Nahe]]
 - [[CSW Article Archive]]
+
+## FASS
+
+Currently tracked: **2 cuvée/vintage entries**; prices $52–$52.
+
+| Cuvée | Vintage | Price |
+|---|---|---|
+| Dönnhoff Niederhäuser Hermannshöhle Spätlese | 2023 | $52 |
+| Niederhäuser Hermannshöhle Spätlese | 2023 | $52 |
+

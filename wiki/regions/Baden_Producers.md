@@ -11,8 +11,8 @@ producer_count: 4
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
-| [[sven_enderle|Sven Enderle]] | Germany | — | 7 | 5 | — | 13 | 2 btl |
-| [[enderle__moll|Enderle & Moll]] | Germany | '' | 7 | — | — | — | — |
+| [[sven_enderle|Sven Enderle]] | Germany | — | 7 | 5 | — | 18 | 2 btl |
+| [[enderle__moll|Enderle & Moll]] | Germany | '' | 7 | — | — | 18 | — |
 | [[wasenhaus|Wasenhaus]] | Germany | '' | 4 | — | — | — | — |
 | [[bernhard_huber|Bernhard Huber]] | Germany | — | 1 | — | — | — | — |
 

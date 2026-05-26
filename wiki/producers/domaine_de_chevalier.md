@@ -28,8 +28,6 @@ retailers:
     cuvee_count: 2
     price_min: 99.99
     price_max: 169.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 4
     first_year: 2015
@@ -122,7 +120,3 @@ Currently tracked at Raeders: **2 cuvée/vintage entries**; prices $99.99–$169
 > WE 96 WA 96 D 96 JD 98 JS 98 V 96 Commemorating his 40th harvest at the helm of the estate, Olivier Bernard has crafted a wine of abundant promise. Evoking aromas of dark wild berries, spices, smoke and licorice, framed by a deft touch of new oak, the 2022 Domaine…
 
 _[Raeders link](https://www.raederswine.com/wines/Domaine-De-Chevalier-Pessac-Leognan-2022-w3731779yx)_
-
-## FASS
-
-_Not yet populated._

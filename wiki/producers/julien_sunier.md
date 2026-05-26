@@ -24,8 +24,6 @@ retailers:
     price_max: 59
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 1
     first_year: 2018
@@ -71,9 +69,5 @@ Currently tracked: **1 cuvée/vintage entries**; prices $59–$59.
 | Morgon MAGNUM | 2014 | $59 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

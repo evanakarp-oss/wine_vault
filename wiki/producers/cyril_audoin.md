@@ -24,8 +24,6 @@ retailers:
     price_max: 49
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -68,9 +66,5 @@ Currently tracked: **3 cuvée/vintage entries**; prices $45–$49.
 | Marsannay Clos de Jeu | 2018 | $49 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

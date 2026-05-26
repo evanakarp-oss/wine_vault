@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 7
     price_min: 21.99
     price_max: 69.99
-  fass:
-    in_portfolio: false
 tags: []
 _sources: ["short:short__Feudo_Montoni.md"]
 ---
@@ -77,11 +75,6 @@ Currently tracked: **7 cuvée/vintage entries**; prices $21.99–$69.99.
 > WE 92 WA 93 V 93 Tasting Notes A bright ruby red color, Vrucara is intense and persistent on the nose with earthy aromas, notes of red plum and dark berries, which are in harmony with notes of rose petal, vanilla, balsamic, eucalyptus and licorice.…
 
 _[Raeders link](https://www.raederswine.com/wines/Feudo-Montoni-Feudo-Montoni-Nero-d-Avola-Vrucara-Sicily-2018-w97396123k)_
-
-## FASS
-
-_Not yet populated._
-
 ## Cross-references
 
 - [[Italy_Producers|Italy]]

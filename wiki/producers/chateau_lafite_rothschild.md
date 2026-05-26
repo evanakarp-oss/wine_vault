@@ -28,8 +28,6 @@ retailers:
     cuvee_count: 10
     price_min: 299.99
     price_max: 1999.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 2
     first_year: 2020
@@ -108,7 +106,3 @@ Vintages on offer: 1964, 1967, 1979, 1983, 2017, 2018, 2020, 2021, 2022.
 > WA 91 D 95 JD 93 JS 96 V 92 A blend of 52% Cabernet Sauvignon, 42% Merlot and the balance Cabernet Franc and Petit Verdot, the 2020 Carruades de Lafite offers up aromas of dark berries, cassis, cigar wrapper, violets and loamy soil. Medium to full-bodied,…
 
 _[Raeders link](https://www.raederswine.com/wines/Chateau-Lafite-Rothschild-Carruades-De-Lafite-Pauillac-2020-w8448297zf)_
-
-## FASS
-
-_Not yet populated._

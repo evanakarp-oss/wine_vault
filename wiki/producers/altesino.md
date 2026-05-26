@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 9
     price_min: 64.99
     price_max: 168.99
-  fass:
-    in_portfolio: false
 tags: ['sangiovese', 'brunello']
 _sources: ["raeders_compile_curated:2026-04-25"]
 ---
@@ -92,7 +90,3 @@ _[Raeders link](https://www.raederswine.com/wines/Altesino-Brunello-di-Montalcin
 > WA 92 This wine opens to a thin and streamlined appearance. The 2014 Brunello di Montalcino mirrors the main characteristics of the vintage with a clean mouthfeel and bright berry aromas. The Brunellos from 2014 are better suited to…
 
 _[Raeders link](https://www.raederswine.com/wines/Altesino-Brunello-di-Montalcino-2014-w1619315z8)_
-
-## FASS
-
-_Not yet populated._

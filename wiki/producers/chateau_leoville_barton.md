@@ -29,8 +29,6 @@ retailers:
     cuvee_count: 2
     price_min: 0
     price_max: 0
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 9
     first_year: 2015
@@ -152,7 +150,3 @@ Vintages on offer: 2000, 2018.
 |---|---|---|---|---|
 | St Julien | 2000 | 750ml | — | JS 96 · WE 96 |
 | St.-Julien | 2018 | 750ml | — | JS 97 · WE 97 |
-
-## FASS
-
-_Not yet populated._

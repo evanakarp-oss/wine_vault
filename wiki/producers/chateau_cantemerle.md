@@ -28,8 +28,6 @@ retailers:
     cuvee_count: 2
     price_min: 49.99
     price_max: 49.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 3
     first_year: 2022
@@ -109,7 +107,3 @@ Vintages on offer: 2013, 2014.
 > WE 93 JS 94 Barrel Sample. While the wine does have a strongly dry element, it also has a creamy, black currant background that shows promise for the future. With great acidity offering freshness, this wine will balance well. Read More...
 
 _[Raeders link](https://www.raederswine.com/wines/Chateau-Cantemerle-Haut-Medoc-2014-w09263948w)_
-
-## FASS
-
-_Not yet populated._

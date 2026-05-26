@@ -28,8 +28,6 @@ retailers:
     cuvee_count: 8
     price_min: 249.99
     price_max: 899.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 3
     first_year: 2016
@@ -125,7 +123,3 @@ _[Raeders link](https://www.raederswine.com/wines/Biondi-Santi-Brunello-di-Monta
 > WA 97+ The Biondi-Santi 2015 Brunello di Montalcino exudes dark, velvety fruit and concentration while maintaining the signature elegance, suppleness and lithe personalty that distinguishes the iconic Il Greppo estate. I found this new…
 
 _[Raeders link](https://www.raederswine.com/wines/Biondi-Santi-Brunello-di-Montalcino-2015-w4299695zk)_
-
-## FASS
-
-_Not yet populated._

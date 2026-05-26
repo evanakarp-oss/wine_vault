@@ -24,8 +24,6 @@ retailers:
     price_max: 0
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
 tags: []
 _sources:
 - normalized_from_no_frontmatter:clos_cibonne.md

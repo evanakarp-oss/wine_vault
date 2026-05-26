@@ -31,8 +31,6 @@ retailers:
     cuvee_count: 7
     price_min: 24.99
     price_max: 399.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -135,11 +133,6 @@ _[Raeders link](https://www.raederswine.com/wines/Ceretto-Barolo-Prapo-2000-w757
 > Aromas of mature berry, menthol, coffee bean, toast and dark cooking spice emerge on this bracing wine. The firmly structured palate delivers dried black cherry, espresso, French oak, licorice, chopped herb and tobacco set against…
 
 _[Raeders link](https://www.raederswine.com/wines/Ceretto-Barolo-Prapo-2011-w2815843yt)_
-
-## FASS
-
-_Not yet populated._
-
 ## Cross-references
 
 - [[Italy_Producers|Italy]]

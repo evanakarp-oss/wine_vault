@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 9
     price_min: 39.99
     price_max: 104.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 2
     first_year: 2020
@@ -100,7 +98,3 @@ Currently tracked at Raeders: **9 cuvée/vintage entries**; prices $39.99–$104
 | Corton Château Corton Grancey | 2022 | 750ml | — | JS 98 |
 | Corton-Charlemagne | 2023 | 750ml | — | WA 94 · JS 98 |
 | Puligny-Montrachet Sous le Puits Premier Cru | 2022 | 750ml | — | JS 95 |
-
-## FASS
-
-_Not yet populated._

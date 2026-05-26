@@ -24,8 +24,6 @@ retailers:
     price_max: 79
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 1
     first_year: 2023
@@ -69,9 +67,5 @@ Currently tracked: **1 cuvée/vintage entries**; prices $79–$79.
 | Brut Nature Les Commes | 2022 | $79 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

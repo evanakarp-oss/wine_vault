@@ -11,6 +11,11 @@ farming: []
 certifications: []
 importer_us: []
 retailers:
+  fass:
+    in_portfolio: true
+    cuvee_count: 14
+    price_min: 38
+    price_max: 89
   chambers:
     championed: true
     article_count: 2
@@ -25,8 +30,6 @@ retailers:
     price_min: 0
     price_max: 0
   raeders:
-    in_portfolio: false
-  fass:
     in_portfolio: false
   berserkers_kelley:
     post_count: 0
@@ -63,13 +66,30 @@ _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 ## Raeder's
 
 _Not yet populated._
-
-## FASS
-
-_Not yet populated._
-
 ## Cross-references
 
 - [[Rhône_Producers|Rhône]]
 - [[Saint-Joseph / Saint-Péray]]
 - [[CSW Article Archive]]
+
+## FASS
+
+Currently tracked: **14 cuvée/vintage entries**; prices $39–$90.
+
+| Cuvée | Vintage | Price |
+|---|---|---|
+| Fabrice Gripa St.Joseph Blanc "Le Berceau" | 2023 | $90 |
+| Fabrice Gripa St.Peray Blanc "Les Figuiers" | 2023 | $52 |
+| St Joseph Le Berceau Blanc | 2022 | $73 |
+| St Joseph Le Berceau Blanc | 2023 | $70 |
+| St. Joseph Le Berceau Rouge | 2020 | $73 |
+| St. Joseph Le Berceau Rouge | 2021 | $73 |
+| St. Joseph Le Berceau Rouge | 2022 | $76 |
+| St. Joseph Parady | 2020 | $65 |
+| St. Joseph Parady | 2021 | $63 |
+| St. Joseph Parady | 2022 | $65 |
+| St. Joseph Rouge | 2022 | $45 |
+| St. Peray Les Figuiers | 2023 | $39 |
+| St.Joseph Blanc "Le Berceau" | 2023 | $90 |
+| St.Peray Blanc "Les Figuiers" | 2023 | $52 |
+

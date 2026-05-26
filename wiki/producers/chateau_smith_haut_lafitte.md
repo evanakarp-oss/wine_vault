@@ -30,8 +30,6 @@ retailers:
     cuvee_count: 5
     price_min: 159.99
     price_max: 199.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 1
     first_year: 2021
@@ -127,7 +125,3 @@ _[Raeders link](https://www.raederswine.com/wines/Chateau-Smith-Haut-Lafitte-Pes
 > WA 96 D 97 JD 98 JS 99 V 96 The 2019 Smith Haut Lafitte has turned out very well indeed, unwinding in the glass with a complex bouquet of dark berries, cassis, forest floor, pencil shavings, licorice and spices. Full-bodied, broad and velvety, it's layered…
 
 _[Raeders link](https://www.raederswine.com/wines/Chateau-Smith-Haut-Lafitte-Pessac-Leognan-2019-w6624166fc)_
-
-## FASS
-
-_Not yet populated._

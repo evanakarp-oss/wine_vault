@@ -11,6 +11,11 @@ farming: []
 certifications: []
 importer_us: []
 retailers:
+  fass:
+    in_portfolio: true
+    cuvee_count: 18
+    price_min: 23
+    price_max: 61
   chambers:
     championed: false
     article_count: 7
@@ -24,11 +29,6 @@ retailers:
     price_max: 69
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: true
-    cuvee_count: 13
-    price_min: 0
-    price_max: 0
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
 ---
@@ -89,29 +89,34 @@ Currently tracked: **5 cuvée/vintage entries**; prices $39–$69.
 ## Raeder's
 
 _Not yet populated._
-
-## FASS
-
-Currently tracked: **13 cuvée/vintage entries**; prices $0–$0.
-
-| Cuvée | Vintage | Price |
-|---|---|---|
-| Blanc de Noirs | 0 | — |
-| Chardonnay 'Buntsandstein' | 2023 | — |
-| Lemberger | 2023 | — |
-| Muller Thurgau | 2022 | — |
-| Müller-Thurgau | 2022 | — |
-| Pinot Noir | 2022 | — |
-| Pinot Noir "Kalk" | 2022 | — |
-| Pinot Noir 'Buntsandstein' | 2023 | — |
-| Pinot Noir / Pinot Gris Rose Alea | NV | — |
-| Pinot Noir Kalk | 2022 | — |
-| Pinot Noir Vom Keuper | 2022 | — |
-| Pinot Noir “Vom Keuper” | 2022 | — |
-| Sven Enderle Pinot Noir “Vom Keuper” | 2022 | — |
-
 ## Cellar
 
 Own **2 bottle(s)** across 1 cuvée-vintage(s):
 
 - 2 × Pinot Noir vom Keuper 2022 (750ml) @ $49.99 — drink 2025–2030
+
+## FASS
+
+Currently tracked: **18 cuvée/vintage entries**; prices $24–$62.
+
+| Cuvée | Vintage | Price | Color | Variety |
+|---|---|---|---|---|
+| Blanc de Noirs | 0 | $56 | — | — |
+| Chardonnay 'Buntsandstein' | 2023 | $38 | — | — |
+| Lemberger | 2023 | $38 | — | — |
+| Muller Thurgau | 2022 | $24 | — | — |
+| Müller-Thurgau | 2022 | $27 | — | — |
+| Pinot Noir | 2022 | $34 | Red | Pinot Noir |
+| Pinot Noir | 2022 | $30 | Red | Pinot Noir |
+| Pinot Noir | 2022 | $30 | Red | Pinot Noir |
+| Pinot Noir "Kalk" | 2022 | $62 | Red | Pinot Noir |
+| Pinot Noir "Vom Keuper" | 2022 | $52 | Red | Pinot Noir |
+| Pinot Noir 'Buntsandstein' | 2023 | $58 | — | — |
+| Pinot Noir / Pinot Gris Rose Alea | NV | $24 | — | — |
+| Pinot Noir Kalk | 2022 | $58 | — | — |
+| Pinot Noir Kalk | 2022 | $58 | — | — |
+| Pinot Noir Vom Keuper | 2022 | $50 | — | — |
+| Pinot Noir Vom Keuper | 2022 | $49 | — | — |
+| Pinot Noir Vom Keuper | 2022 | $50 | — | — |
+| Sven Enderle Pinot Noir "Vom Keuper" | 2022 | $52 | — | — |
+

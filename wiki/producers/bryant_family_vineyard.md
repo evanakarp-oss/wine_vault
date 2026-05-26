@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 1
     price_min: 0
     price_max: 0
-  fass:
-    in_portfolio: false
 tags: ['napa', 'pritchard-hill', 'cult', 'cabernet-sauvignon']
 _sources: ["raeders_compile_curated_v2:2026-04-25"]
 ---
@@ -54,7 +52,3 @@ Vintages on offer: 2019.
 | Cuvée | Vintage | Size | Price | Scores |
 |---|---|---|---|---|
 | Cabernet Sauvignon Napa Valley | 2019 | 750ml | — | WA 97 |
-
-## FASS
-
-_Not yet populated._

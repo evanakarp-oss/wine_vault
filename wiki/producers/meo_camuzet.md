@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 12
     price_min: 109.99
     price_max: 2499.99
-  fass:
-    in_portfolio: false
 tags: ['pinot-noir', 'burgundy']
 _sources: ["raeders_compile_curated:2026-04-25"]
 ---
@@ -74,7 +72,3 @@ Currently tracked at Raeders: **12 cuvée/vintage entries**; prices $109.99–$2
 > Dark, rich tones of blackberry, black cherry and blueberry mark this plush red. There is enough lift from the acidity on the finish and a light rasp of tannins. Charming and harmonious. Drink now through 2035. 59 cases imported.…
 
 _[Raeders link](https://www.raederswine.com/wines/Meo-Camuzet-Nuits-St-Georges-Aux-Murgers-2018-w2493197zn)_
-
-## FASS
-
-_Not yet populated._

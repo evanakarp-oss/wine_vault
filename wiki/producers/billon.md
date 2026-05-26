@@ -11,6 +11,11 @@ farming: []
 certifications: []
 importer_us: []
 retailers:
+  fass:
+    in_portfolio: true
+    cuvee_count: 6
+    price_min: 44
+    price_max: 74
   chambers:
     championed: false
     article_count: 0
@@ -23,8 +28,6 @@ retailers:
     price_min: 39
     price_max: 72
   raeders:
-    in_portfolio: false
-  fass:
     in_portfolio: false
   berserkers_kelley:
     post_count: 3
@@ -80,4 +83,14 @@ _Not yet populated._
 
 ## FASS
 
-_Not yet populated._
+Currently tracked: **6 cuvée/vintage entries**; prices $45–$75.
+
+| Cuvée | Vintage | Price |
+|---|---|---|
+| Condrieu Les Matisses | 2022 | $45 |
+| Cote Rotie La Brocarde | 2021 | $75 |
+| Cote Rotie La Vialliere | 2020 | $65 |
+| Cote Rotie Les Elotins | 2021 | $50 |
+| Cote Rotie Les Rozier | 2019 | $68 |
+| Cote Rotie Les Rozier | 2020 | $70 |
+

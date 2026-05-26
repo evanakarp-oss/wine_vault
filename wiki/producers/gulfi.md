@@ -24,8 +24,6 @@ retailers:
     price_max: 59
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
 ---
@@ -71,9 +69,5 @@ Currently tracked: **7 cuvée/vintage entries**; prices $19–$59.
 | Rossojbleo | 2023 | $20 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

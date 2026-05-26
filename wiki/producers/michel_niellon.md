@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 3
     price_min: 109.99
     price_max: 239.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 2
     first_year: 2018
@@ -106,7 +104,3 @@ _[Raeders link](https://www.raederswine.com/wines/Michel-Niellon-Chassagne-Montr
 > D 94 This white is linear in feel, sporting peach, lemon cake, floral and oak spice flavors. Supple and mouthwatering, with notes of fruit, baking spices and chalk on the finish.
 
 _[Raeders link](https://www.raederswine.com/wines/Michel-Niellon-Chassagne-Montrachet-Les-Champgains-2022-w9887112of)_
-
-## FASS
-
-_Not yet populated._

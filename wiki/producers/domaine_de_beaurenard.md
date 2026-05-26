@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 11
     price_min: 69.99
     price_max: 249.99
-  fass:
-    in_portfolio: false
 tags: ['grenache', 'chateauneuf', 'biodynamic']
 _sources: ["raeders_compile_curated:2026-04-25"]
 ---
@@ -82,7 +80,3 @@ _[Raeders link](https://www.raederswine.com/wines/Domaine-de-Beaurenard-Chateaun
 > WA 93+ D 96 JD 94+ Tasting Notes Made from old vines of different varieties growing together, with moderate yields, the Boisrenard Blanc is characterized by its beautiful smoothness and notes of salinity. A highly distinguished wine.…
 
 _[Raeders link](https://www.raederswine.com/wines/Domaine-de-Beaurenard-Chateauneuf-du-Pape-Boisrenard-Blanc-2019-w454641526)_
-
-## FASS
-
-_Not yet populated._

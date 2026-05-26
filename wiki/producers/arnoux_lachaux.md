@@ -24,8 +24,6 @@ retailers:
     price_max: 6999
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 8
     first_year: 2020
@@ -120,9 +118,5 @@ Currently tracked: **16 cuvée/vintage entries**; prices $299–$6999.
 | Vosne Romanée les Hautes Maizieres | 2019 | $1299 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

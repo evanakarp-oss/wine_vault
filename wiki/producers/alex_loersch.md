@@ -24,8 +24,6 @@ retailers:
     price_max: 59
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
 ---
@@ -49,9 +47,5 @@ Currently tracked: **3 cuvée/vintage entries**; prices $32–$59.
 | Trittenheimer Apotheke Devon-Terrassen GG | 2023 | $35 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

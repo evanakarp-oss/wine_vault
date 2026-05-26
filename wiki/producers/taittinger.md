@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 3
     price_min: 279.99
     price_max: 279.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 16
     first_year: 2016
@@ -186,7 +184,3 @@ Vintages on offer: 2013, NV.
 | Brut Blanc de Blancs Champagne Comtes de Champagne | 2013 | 750ml | $279.99 | — |
 | Brut La Française | NV | 750ml | — | — |
 | Brut Rosé Champagne Prestige | NV | 750ml | — | — |
-
-## FASS
-
-_Not yet populated._

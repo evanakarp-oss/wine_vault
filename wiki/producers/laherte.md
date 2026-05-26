@@ -24,8 +24,6 @@ retailers:
     price_max: 119
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 2
     first_year: 2020
@@ -132,9 +130,5 @@ Currently tracked: **6 cuvée/vintage entries**; prices $49–$119.
 | Rosé de Meunier Extra Brut | NV | $59 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

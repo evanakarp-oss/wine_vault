@@ -14,6 +14,11 @@ importer_us:
 - Skurnik
 - Theise
 retailers:
+  fass:
+    in_portfolio: true
+    cuvee_count: 3
+    price_min: 49
+    price_max: 67
   chambers:
     championed: true
     article_count: 15
@@ -28,8 +33,6 @@ retailers:
     price_min: 0
     price_max: 0
   raeders:
-    in_portfolio: false
-  fass:
     in_portfolio: false
   berserkers_kelley:
     post_count: 0
@@ -136,13 +139,19 @@ _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 ## Raeder's
 
 _Not yet populated._
-
-## FASS
-
-_Not yet populated._
-
 ## Cross-references
 
 - [[Germany_Producers|Germany]]
 - [[Mosel]]
 - [[CSW Article Archive]]
+
+## FASS
+
+Currently tracked: **3 cuvée/vintage entries**; prices $50–$68.
+
+| Cuvée | Vintage | Price |
+|---|---|---|
+| Erbacher Marcrobrunn GG | 2021 | $68 |
+| Hocheimer Holle GG | 2021 | $50 |
+| Kirchenstuck Riesling GG | 2021 | $58 |
+

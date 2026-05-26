@@ -24,8 +24,6 @@ retailers:
     price_max: 32
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 3
     first_year: 2015
@@ -78,9 +76,5 @@ Currently tracked: **1 cuvée/vintage entries**; prices $32–$32.
 | Sancerre Blanc Tradition | 2022 | $32 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

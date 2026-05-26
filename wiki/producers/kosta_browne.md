@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 15
     price_min: 99.99
     price_max: 159.99
-  fass:
-    in_portfolio: false
 tags: ['pinot-noir', 'california', 'cult']
 _sources: ["raeders_compile_curated:2026-04-25"]
 ---
@@ -101,7 +99,3 @@ _[Raeders link](https://www.raederswine.com/wines/Kosta-Browne-Sonoma-Coast-Pino
 > WA 92 JD 93 JS 94 The 2020 Pinot Noir Sonoma Coast is medium ruby in color and delicately scented of cranberries, blackberries, crushed stone, tea leaves and bitters. The light-bodied palate features bright, earth-laced fruits, a silky texture…
 
 _[Raeders link](https://www.raederswine.com/wines/Kosta-Browne-Sonoma-Coast-Pinot-Noir-2020-w31826733o)_
-
-## FASS
-
-_Not yet populated._

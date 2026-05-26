@@ -32,8 +32,6 @@ retailers:
     cuvee_count: 1
     price_min: 53.99
     price_max: 53.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -83,11 +81,6 @@ Currently tracked: **1 cuvée/vintage entries**; prices $53.99–$53.99.
 | Cuvée | Vintage | Size | Price | Scores |
 |---|---|---|---|---|
 | Il Frappato Terre Siciliane | 2021 | 750ml | $53.99 | — |
-
-## FASS
-
-_Not yet populated._
-
 ## Cellar
 
 Own **5 bottle(s)** across 3 cuvée-vintage(s):

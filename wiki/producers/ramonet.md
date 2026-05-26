@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 9
     price_min: 89.99
     price_max: 1299.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 99
     first_year: 2015
@@ -716,7 +714,3 @@ Currently tracked at Raeders: **9 cuvée/vintage entries**; prices $89.99–$1,2
 | Chassagne Montrachet | 2021 | 750ml | $159.99 | — |
 | Chassagne Montrachet Rouge | 2021 | 750ml | $119.99 | — |
 | Bourgogne Aligoté | 2022 | 750ml | $89.99 | — |
-
-## FASS
-
-_Not yet populated._

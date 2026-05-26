@@ -24,8 +24,6 @@ retailers:
     price_max: 899
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 5
     first_year: 2015
@@ -115,9 +113,5 @@ Currently tracked: **13 cuvée/vintage entries**; prices $49–$899.
 | Vosne Romanée villages | 2020 | $109 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

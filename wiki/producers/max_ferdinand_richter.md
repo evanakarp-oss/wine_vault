@@ -24,8 +24,6 @@ retailers:
     price_max: 89
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
 ---
@@ -63,9 +61,5 @@ Currently tracked: **17 cuvée/vintage entries**; prices $25–$89.
 | Wehlener Sonnenuhr Riesling Spatlese Magnum | 2024 | $89 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

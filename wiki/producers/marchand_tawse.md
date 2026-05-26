@@ -24,8 +24,6 @@ retailers:
     price_max: 349
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 1
     first_year: 2021
@@ -95,9 +93,5 @@ Currently tracked: **25 cuvée/vintage entries**; prices $39–$349.
 | Vosne Romanée 1er cru Suchots | 2023 | $169 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

@@ -28,8 +28,6 @@ retailers:
     cuvee_count: 4
     price_min: 99.99
     price_max: 499.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 2
     first_year: 2015
@@ -115,7 +113,3 @@ _[Raeders link](https://www.raederswine.com/wines/Chateau-Gruaud-Larose-Saint-Ju
 > The 2019 Gruaud Larose is performing extremely well in bottle, wafting from the glass with aromas of wild berries and plums mingled with notions of licorice, potpourri, pencil shavings and subtle soil tones. Medium to full-bodied,…
 
 _[Raeders link](https://www.raederswine.com/wines/Chateau-Gruaud-Larose-Saint-Julien-2019-w51563091v)_
-
-## FASS
-
-_Not yet populated._

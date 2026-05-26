@@ -29,8 +29,6 @@ retailers:
     cuvee_count: 1
     price_min: 379.99
     price_max: 379.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 2
     first_year: 2018
@@ -112,11 +110,6 @@ Currently tracked: **1 cuvée/vintage entries**; prices $379.99–$379.99.
 | Cuvée | Vintage | Size | Price | Scores |
 |---|---|---|---|---|
 | Barolo Cerretta | 2021 | 750ml | $379.99 | — |
-
-## FASS
-
-_Not yet populated._
-
 ## Cross-references
 
 - [[Italy_Producers|Italy]]

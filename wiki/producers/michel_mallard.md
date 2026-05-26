@@ -24,8 +24,6 @@ retailers:
     price_max: 329
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 5
     first_year: 2019
@@ -129,9 +127,5 @@ Currently tracked: **24 cuvée/vintage entries**; prices $33–$329.
 | Savigny les Beaune 1er Serpentieres | 2023 | $65 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

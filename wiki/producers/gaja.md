@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 30
     price_min: 55.99
     price_max: 1199.99
-  fass:
-    in_portfolio: false
 tags: ['nebbiolo', 'piedmont', 'icon']
 _sources: ["raeders_compile_curated:2026-04-25"]
 ---
@@ -113,7 +111,3 @@ _[Raeders link](https://www.raederswine.com/wines/Gaja-Barolo-Langhe-Sperss-2018
 > V 91 TASTING NOTES The nose is remarkably intense, immediately presenting saline notes, flower bulbs, fresh wood logs, oregano and other aromatic herbs. The floral aspect dominates over the fruit, with a mature, almost wilted flower…
 
 _[Raeders link](https://www.raederswine.com/wines/Gaja-Ca-Marcanda-Magari-2022-w8108816zz)_
-
-## FASS
-
-_Not yet populated._

@@ -24,8 +24,6 @@ retailers:
     price_max: 119
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
 ---
@@ -47,9 +45,5 @@ Currently tracked: **1 cuvée/vintage entries**; prices $119–$119.
 | Chateauneuf du Pape Prestige Magnum | 2016 | $119 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

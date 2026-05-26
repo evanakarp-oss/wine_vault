@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 2
     price_min: 99.99
     price_max: 299.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 6
     first_year: 2020
@@ -118,7 +116,3 @@ Vintages on offer: 1964, 1988.
 |---|---|---|---|---|
 | St.-Julien | 1988 | 750ml | $299.99 | — |
 | St.-Julien | 1964 | 375ml | $99.99 | — |
-
-## FASS
-
-_Not yet populated._

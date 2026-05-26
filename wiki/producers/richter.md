@@ -24,8 +24,6 @@ retailers:
     price_max: 109
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 1
     first_year: 2016
@@ -72,9 +70,5 @@ Currently tracked: **11 cuvée/vintage entries**; prices $24–$109.
 | Wehlener Sonnenuhr Uralte Reben Riesling GG | 2023 | $49 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

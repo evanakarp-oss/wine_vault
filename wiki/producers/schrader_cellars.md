@@ -28,8 +28,6 @@ retailers:
     cuvee_count: 12
     price_min: 59.99
     price_max: 599.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 3
     first_year: 2017
@@ -117,7 +115,3 @@ _[Raeders link](https://www.raederswine.com/wines/Schrader-Cabernet-Sauvignon-He
 > JD 92 Varietal Composition: 52% Cabernet Sauvignon, 24% Merlot, 24% Cabernet Franc The 2022 Proprietary Red Wine maintains the exceptional quality and prestige synonymous with winemaker Thomas Rivers Brown and the Double Diamond portfolio.…
 
 _[Raeders link](https://www.raederswine.com/wines/Schrader-Double-Diamond-Proprietary-Red-2022-w01088596j)_
-
-## FASS
-
-_Not yet populated._

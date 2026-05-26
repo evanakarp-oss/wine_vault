@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 1
     price_min: 37.99
     price_max: 37.99
-  fass:
-    in_portfolio: false
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
 ---
@@ -56,7 +54,3 @@ Currently tracked: **1 cuvée/vintage entries**; prices $37.99–$37.99.
 | Cuvée | Vintage | Size | Price | Scores |
 |---|---|---|---|---|
 | Le Pied de Samson Viognier | 2015 | 750ml | $37.99 | — |
-
-## FASS
-
-_Not yet populated._

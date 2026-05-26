@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 4
     price_min: 299.99
     price_max: 459.99
-  fass:
-    in_portfolio: false
 tags: ['napa', 'cult', 'cabernet-sauvignon']
 _sources: ["raeders_compile_curated_v2:2026-04-25"]
 ---
@@ -57,7 +55,3 @@ Vintages on offer: 2009, 2021, 2022.
 | Fortunate Son | 2009 | 750ml | $299.99 | — |
 | Fortunate Son The Dreamer | 2021 | 750ml | — | — |
 | Summer Dreams Stargazing Pinot Noir | 2022 | 750ml | — | — |
-
-## FASS
-
-_Not yet populated._

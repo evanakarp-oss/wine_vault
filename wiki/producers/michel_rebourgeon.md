@@ -11,6 +11,11 @@ farming: []
 certifications: []
 importer_us: []
 retailers:
+  fass:
+    in_portfolio: true
+    cuvee_count: 25
+    price_min: 33
+    price_max: 105
   chambers:
     championed: false
     article_count: 0
@@ -24,11 +29,6 @@ retailers:
     price_max: 179
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: true
-    cuvee_count: 17
-    price_min: 0
-    price_max: 0
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
 ---
@@ -67,25 +67,33 @@ _Not yet populated._
 
 ## FASS
 
-Currently tracked: **17 cuvée/vintage entries**; prices $0–$0.
+Currently tracked: **25 cuvée/vintage entries**; prices $34–$105.
 
-| Cuvée | Vintage | Price |
-|---|---|---|
-| Beaune Blanc "En Lalunne" | 2023 | — |
-| Beaune Les Epenottes | 2022 | — |
-| Bourgogne Cote d'Or | 2023 | — |
-| Bourgogne Côte d'Or Pinot Noir | 2023 | — |
-| Bourgogne Côte d’Or Pinot Noir | 2023 | — |
-| Maranges 1er cru "Clos Roussots" | 2023 | — |
-| Maranges 1er Cru 'Clos Roussots' | 2023 | — |
-| Pommard "Les Noizons" | 2023 | — |
-| Pommard 'Vaumuriens' | 2023 | — |
-| Pommard 1er Cru "Les Arvelets" | 2023 | — |
-| Pommard 1er Cru "Les Rugiens" | 2023 | — |
-| Pommard 1er Cru Les Charmots | 2023 | — |
-| Pommard Cuvee William | 2022 | — |
-| Pommard Trois Terroirs | 2022 | — |
-| Pommard “Les Perrières” | 2023 | — |
-| Santenay Vieilles Vignes | 2023 | — |
-| Volnay 1er Cru Carelle Sous La Chapelle | 2022 | — |
+| Cuvée | Vintage | Price | Color | Variety |
+|---|---|---|---|---|
+| Beaune "Epenottes" | 2023 | $52 | Red | Pinot Noir |
+| Beaune Blanc "En Lalunne" | 2023 | $46 | Red | Pinot Noir |
+| Beaune Blanc "En Lalunne" | 2023 | $45 | Red | Pinot Noir |
+| Beaune Les Epenottes | 2022 | $40 | — | — |
+| Beaune Les Epenottes | 2022 | $42 | — | — |
+| Bourgogne Cote d'Or | 2023 | $34 | — | — |
+| Bourgogne Côte d'Or Pinot Noir | 2023 | $34 | — | — |
+| Bourgogne Côte d'Or Pinot Noir | 2023 | — | — | — |
+| Maranges 1er cru "Clos Roussots" | 2023 | $46 | — | — |
+| Maranges 1er Cru 'Clos Roussots' | 2023 | $46 | — | — |
+| Pommard "Les Noizons" | 2023 | $74 | — | — |
+| Pommard "Les Noizons" | 2023 | — | — | — |
+| Pommard "Les Perrières" | 2023 | $67 | Red | Pinot Noir |
+| Pommard 'Vaumuriens' | 2023 | $78 | — | — |
+| Pommard 1er Cru "Les Arvelets" | 2023 | $88 | — | — |
+| Pommard 1er Cru "Les Arvelets" | 2023 | $60 | — | — |
+| Pommard 1er Cru "Les Rugiens" | 2023 | $95 | Red | Pinot Noir |
+| Pommard 1er Cru "Les Rugiens" | 2023 | $98 | Red | Pinot Noir |
+| Pommard 1er Cru Les Charmots | 2023 | $102 | Red | Pinot Noir |
+| Pommard 1er Cru Les Charmots | 2023 | $105 | Red | Pinot Noir |
+| Pommard Cuvee William | 2022 | $47 | — | — |
+| Pommard Trois Terroirs | 2022 | $45 | — | — |
+| Santenay Vieilles Vignes | 2023 | $40 | Red | Pinot Noir |
+| Santenay Vieilles Vignes | 2023 | $42 | Red | Pinot Noir |
+| Volnay 1er Cru Carelle Sous La Chapelle | 2022 | $55 | — | — |
 

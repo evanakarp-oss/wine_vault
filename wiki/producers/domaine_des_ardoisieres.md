@@ -33,8 +33,6 @@ retailers:
     cuvee_count: 1
     price_min: 29.99
     price_max: 29.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 1
     first_year: 2018
@@ -106,11 +104,6 @@ Currently tracked: **1 cuvée/vintage entries**; prices $29.99–$29.99.
 | Cuvée | Vintage | Size | Price | Scores |
 |---|---|---|---|---|
 | Silice Rouge | 2024 | 750ml | $29.99 | — |
-
-## FASS
-
-_Not yet populated._
-
 ## Cross-references
 
 - [[Rhône_Producers|Rhône]]

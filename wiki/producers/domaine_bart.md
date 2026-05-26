@@ -24,8 +24,6 @@ retailers:
     price_max: 0
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
 tags: []
 _sources: ["short:short__Domaine_Bart.md"]
 ---
@@ -56,11 +54,6 @@ _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 ## Raeder's
 
 _Not yet populated._
-
-## FASS
-
-_Not yet populated._
-
 ## Cellar
 
 Own **1 bottle(s)** across 1 cuvée-vintage(s):

@@ -32,8 +32,6 @@ retailers:
     cuvee_count: 1
     price_min: 0
     price_max: 0
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 7
     first_year: 2018
@@ -160,11 +158,6 @@ Currently tracked: **1 cuvée/vintage entries**; prices —–—.
 | Cuvée | Vintage | Size | Price | Scores |
 |---|---|---|---|---|
 | Pernand Vergelesses Les Vergelesses 1er Cru | NV | 750ml | — | — |
-
-## FASS
-
-_Not yet populated._
-
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]

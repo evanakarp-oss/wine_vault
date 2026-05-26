@@ -11,6 +11,11 @@ farming: []
 certifications: []
 importer_us: []
 retailers:
+  fass:
+    in_portfolio: true
+    cuvee_count: 6
+    price_min: 61
+    price_max: 79
   chambers:
     championed: false
     article_count: 1
@@ -23,8 +28,6 @@ retailers:
     price_min: 55
     price_max: 55
   raeders:
-    in_portfolio: false
-  fass:
     in_portfolio: false
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
@@ -55,4 +58,14 @@ _Not yet populated._
 
 ## FASS
 
-_Not yet populated._
+Currently tracked: **6 cuvée/vintage entries**; prices $62–$80.
+
+| Cuvée | Vintage | Price |
+|---|---|---|
+| Cote Rotie La Giroflaire | 2022 | $63 |
+| Cote Rotie La Giroflaire | 2022 | $62 |
+| Cote Rotie Olea | 2020 | $80 |
+| Cote-Rotie "Giroflarie" | 2022 | $66 |
+| Cote-Rotie "Olea" | 2020 | $80 |
+| Patrick Jasmin Côte-Rôtie "Giroflarie" | 2022 | $66 |
+

@@ -28,8 +28,6 @@ retailers:
     cuvee_count: 2
     price_min: 69.99
     price_max: 69.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 4
     first_year: 2022
@@ -119,7 +117,3 @@ Vintages on offer: 2015, 2022.
 > WA 91-93 JD 95 JS 95 Unwinding in the glass with aromas of cherries, crème de cassis, sweet berries and spices, framed by creamy new oak, the 2022 Phélan Ségur is medium to full-bodied, rich and concentrated, with plenty of sweet…
 
 _[Raeders link](https://www.raederswine.com/wines/Chateau-Phelan-Segur-St-Estephe-2022-w796466215)_
-
-## FASS
-
-_Not yet populated._

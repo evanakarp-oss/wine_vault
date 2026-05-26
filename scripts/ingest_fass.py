@@ -1,15 +1,27 @@
 """
-Parse fass_db.jsx (FASS Selections portfolio) — same SD shape as DTE —
-and update `retailers.fass` + `## FASS` on matching existing producer pages.
+FASS Selections portfolio — full rebuild.
 
-Unlike DTE, we DO NOT create new pages for FASS producers. Their portfolio
-has heavy spelling variation ("Achim", "Achim Duerr", "Achim Durr", ...) and
-creating one wiki entry per variant would pollute the wiki. Unmatched FASS
-producers are logged to build/fass_ingest_report.md for later alias curation.
+Source: `raw/fass/portfolio_2026-05-26.tsv` (canonical bulk dump) plus
+`raw/fass/portfolio_curated_2026-05-26.tsv` (overlay with color/variety/
+appellation enrichment when present).
+
+Behavior:
+- Strips every existing `## FASS` section AND `retailers.fass:` frontmatter
+  block from `wiki/producers/*.md` before writing fresh state.
+- Aggregates by canonical slug with a generous alias map + prefix-stripping
+  heuristic ("Domaine ", "Weingut ", "Famille ", "Caves ", "Cantina ",
+  trailing "& Fils" / "Pere & Fils" / "et Fils", etc.).
+- Updates only producer pages that already exist (no auto-creation —
+  spelling variation in this retailer's data is high).
+- Writes color/variety/appellation enrichment from the curated overlay
+  into the section table where rows can be matched.
+- Generates `build/fass_ingest_report.md` listing matched + unmatched.
+
+Idempotent: re-running produces the same vault state.
 """
 from __future__ import annotations
 
-import json
+import csv
 import re
 import sys
 import unicodedata
@@ -19,38 +31,133 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 VAULT = Path(__file__).resolve().parent.parent
-JSX_PATH = Path(r"C:/Users/Evan Karp/Downloads/fass_db.jsx")
+RAW_BULK = VAULT / "raw" / "fass" / "portfolio_2026-05-26.tsv"
+RAW_CURATED = VAULT / "raw" / "fass" / "portfolio_curated_2026-05-26.tsv"
 WIKI_DIR = VAULT / "wiki" / "producers"
 REPORT = VAULT / "build" / "fass_ingest_report.md"
 
-# Explicit aliases for FASS producer names → wiki slug. Extend as mismatches
-# surface in the report.
+# Explicit aliases for FASS producer names → wiki slug. Maps the messy
+# retailer spellings to known wiki pages. Keys are lowercased.
 FASS_ALIASES: dict[str, str] = {
-    "baudry": "bernard_baudry",
-    "bernard baudry": "bernard_baudry",
-    "matthieu baudry": "matthieu_baudry",
+    # Achim Dürr family — many spellings, no wiki page yet → unmatched.
+    "weingut achim durr": "achim_durr",
+    "achim durr": "achim_durr",
+    "achim duerr": "achim_durr",
+    "achim-durr": "achim_durr",
+    # Steinmetz — wiki slug is steinmetz.
+    "gunther steinmetz": "steinmetz",
+    "günther steinmetz": "steinmetz",
+    "gunter steinmetz": "steinmetz",
+    # Gripa — wiki slug domaine_gripa.
+    "bernard gripa": "domaine_gripa",
+    "bernard and fabrice gripa": "domaine_gripa",
+    # Lauer.
+    "lauer": "peter_lauer__weingut_lauer",
+    "peter lauer": "peter_lauer__weingut_lauer",
+    # Donnhoff (umlaut + non-umlaut spellings).
+    "dönnhoff": "donnhoff",
+    "weingut dönnhoff": "donnhoff",
+    "donnhoff": "donnhoff",
+    # Enderle & Moll (without Sven) → enderle__moll.
+    "enderle & moll": "enderle__moll",
+    "enderle &amp; moll": "enderle__moll",
+    # Sven Enderle solo project.
+    "sven enderle": "sven_enderle",
+    # Jasmin — Patrick / Domaine Jasmin → jasmin.
+    "patrick jasmin": "jasmin",
+    "domaine jasmin": "jasmin",
+    # Pierre Gonon → domaine_pierre_gonon.
+    "gonon": "domaine_pierre_gonon",
+    "pierre gonon": "domaine_pierre_gonon",
+    # Vincent Paris.
+    "vincent paris": "vincent_paris",
+    # Christophe Billon → billon.
+    "christophe billon": "billon",
+    # Buffet.
+    "francois buffet": "francois_buffet",
+    "françois buffet": "francois_buffet",
+    # Rebourgeon — michel_rebourgeon (Domaine Rebourgeon merges here too).
+    "michel rebourgeon": "michel_rebourgeon",
+    "domaine rebourgeon": "michel_rebourgeon",
+    # Künstler.
+    "kunstler": "weiser_kunstler",
+    "künstler": "weiser_kunstler",
+    # Pavelot.
+    "domaine jean-marc and hugues pavelot": "domaine_pavelot",
+    "pavelot": "domaine_pavelot",
 }
+
+# Common prefixes/suffixes stripped when matching against wiki slugs.
+STRIP_PREFIXES = [
+    "domaine ", "domaines ", "weingut ", "famille ", "familie ", "chateau ",
+    "château ", "maison ", "cantina ", "vigneti ", "tenuta ", "caves ", "cave ",
+    "podere ", "podere ai ", "weingut familie ",
+]
+STRIP_SUFFIXES = [
+    " pere & fils", " pere et fils", " père & fils", " père et fils",
+    " et fils", " & fils", " pere & fils",
+]
 
 
 def canonical_slug(name: str) -> str:
     s = unicodedata.normalize("NFKD", name)
     s = "".join(c for c in s if not unicodedata.combining(c))
     s = s.lower().strip()
-    s = re.sub(r"[^\w\s-]", " ", s)
+    # HTML entity cleanup (e.g. "Enderle &amp; Moll").
+    s = s.replace("&amp;", "&")
+    s = re.sub(r"[^\w\s&\-]", " ", s)
+    s = re.sub(r"\s*&\s*", "_", s)
     s = re.sub(r"[\s-]+", "_", s).strip("_")
     return s
 
 
-def extract_sd(jsx_text: str) -> dict:
-    """Pull the first JSON object from `const SEED_RAW = {...};` or similar."""
-    for pattern in (
-        r"const\s+SEED_RAW\s*=\s*(\{.*?\})\s*;",
-        r"const\s+SD\s*=\s*(\{.*?\})\s*;",
-    ):
-        m = re.search(pattern, jsx_text, re.DOTALL)
-        if m:
-            return json.loads(m.group(1))
-    raise ValueError("SD/SEED_RAW object not found in JSX")
+def slug_variants(name: str) -> list[str]:
+    """Generate candidate slugs to try matching against wiki/producers/."""
+    cleaned = unicodedata.normalize("NFKD", name)
+    cleaned = "".join(c for c in cleaned if not unicodedata.combining(c))
+    cleaned = cleaned.lower().strip().replace("&amp;", "&")
+    variants: list[str] = [canonical_slug(name)]
+    for prefix in STRIP_PREFIXES:
+        if cleaned.startswith(prefix):
+            variants.append(canonical_slug(cleaned[len(prefix):]))
+    stripped = cleaned
+    for suffix in STRIP_SUFFIXES:
+        if stripped.endswith(suffix):
+            stripped = stripped[: -len(suffix)].strip()
+    if stripped != cleaned:
+        variants.append(canonical_slug(stripped))
+        for prefix in STRIP_PREFIXES:
+            if stripped.startswith(prefix):
+                variants.append(canonical_slug(stripped[len(prefix):]))
+    # Dedup preserving order.
+    seen = set()
+    out = []
+    for v in variants:
+        if v and v not in seen:
+            seen.add(v)
+            out.append(v)
+    return out
+
+
+def resolve_slug(name: str, existing: set[str]) -> str | None:
+    key = name.lower().strip().replace("&amp;", "&")
+    if key in FASS_ALIASES:
+        cand = FASS_ALIASES[key]
+        return cand if cand in existing else None
+    for v in slug_variants(name):
+        if v in existing:
+            return v
+    return None
+
+
+@dataclass
+class Cuvee:
+    wine: str
+    vintage: str
+    price: float
+    color: str = ""
+    variety: str = ""
+    appellation: str = ""
 
 
 @dataclass
@@ -59,7 +166,8 @@ class ProducerAgg:
     slug_guess: str
     country: str
     region: str
-    cuvees: list[tuple[str, str, float]] = field(default_factory=list)
+    subregion: str = ""
+    cuvees: list[Cuvee] = field(default_factory=list)
 
     @property
     def cuvee_count(self) -> int:
@@ -67,50 +175,143 @@ class ProducerAgg:
 
     @property
     def price_min(self) -> float:
-        prices = [p for _, _, p in self.cuvees if p > 0]
+        prices = [c.price for c in self.cuvees if c.price > 0]
         return min(prices) if prices else 0.0
 
     @property
     def price_max(self) -> float:
-        prices = [p for _, _, p in self.cuvees if p > 0]
+        prices = [c.price for c in self.cuvees if c.price > 0]
         return max(prices) if prices else 0.0
 
 
-def aggregate(sd: dict) -> dict[str, ProducerAgg]:
-    P, C, R, D = sd["P"], sd["C"], sd["R"], sd["D"]
-    by_slug: dict[str, ProducerAgg] = {}
-    for row in D:
-        if len(row) < 6:
-            continue
-        p_idx, wine_name, vintage, c_idx, r_idx, price = row[:6]
-        if not (isinstance(p_idx, int) and 0 <= p_idx < len(P)):
-            continue
-        name = P[p_idx]
-        country = C[c_idx] if isinstance(c_idx, int) and 0 <= c_idx < len(C) else ""
-        region = R[r_idx] if isinstance(r_idx, int) and 0 <= r_idx < len(R) else ""
-        slug = FASS_ALIASES.get(name.lower(), canonical_slug(name))
-        if slug not in by_slug:
-            by_slug[slug] = ProducerAgg(name=name, slug_guess=slug,
-                                         country=country, region=region)
-        if not by_slug[slug].country and country:
-            by_slug[slug].country = country
-        if not by_slug[slug].region and region:
-            by_slug[slug].region = region
-        try:
-            pf = float(price or 0)
-        except (TypeError, ValueError):
-            pf = 0.0
-        by_slug[slug].cuvees.append((
-            str(wine_name or ""),
-            str(vintage) if vintage else "",
-            pf,
-        ))
-    return by_slug
+PRICE_RE = re.compile(r"[^\d.]")
+
+
+def parse_price(s: str) -> float:
+    if not s:
+        return 0.0
+    cleaned = PRICE_RE.sub("", s)
+    try:
+        return float(cleaned) if cleaned else 0.0
+    except ValueError:
+        return 0.0
+
+
+def parse_vintage_prefix(wine: str) -> tuple[str, str]:
+    """Pull a 4-digit year prefix off the wine name (curated table format)."""
+    m = re.match(r"^\s*(NV|\d{4})\s+(.*)$", wine)
+    if m:
+        return m.group(1), m.group(2).strip()
+    return "", wine.strip()
+
+
+def load_bulk(path: Path) -> list[Cuvee]:
+    rows: list[tuple[str, Cuvee, str, str, str]] = []
+    with path.open("r", encoding="utf-8") as f:
+        reader = csv.DictReader(f, delimiter="\t")
+        for row in reader:
+            producer = (row.get("producer") or "").strip()
+            wine = (row.get("wine") or "").strip()
+            vintage = (row.get("vintage") or "").strip()
+            country = (row.get("country") or "").strip()
+            region = (row.get("region") or "").strip()
+            subregion = (row.get("subregion") or "").strip()
+            price = parse_price(row.get("price") or "")
+            if not producer:
+                continue
+            cuvee = Cuvee(wine=wine, vintage=vintage, price=price)
+            rows.append((producer, cuvee, country, region, subregion))
+    return rows  # type: ignore[return-value]
+
+
+def load_curated(path: Path) -> list[tuple[str, Cuvee, str, str]]:
+    """Curated overlay rows. wine has vintage prefix; price is unquoted dollars."""
+    rows = []
+    with path.open("r", encoding="utf-8") as f:
+        reader = csv.DictReader(f, delimiter="\t")
+        for row in reader:
+            producer = (row.get("producer") or "").strip()
+            wine_raw = (row.get("wine") or "").strip()
+            vintage, wine = parse_vintage_prefix(wine_raw)
+            price = parse_price(row.get("price") or "")
+            country = (row.get("country") or "").strip()
+            region = (row.get("region") or "").strip()
+            appellation = (row.get("appellation") or "").strip()
+            color = (row.get("color") or "").strip()
+            variety = (row.get("variety") or "").strip()
+            if not producer or not wine:
+                continue
+            cuvee = Cuvee(
+                wine=wine,
+                vintage=vintage,
+                price=price,
+                color=color,
+                variety=variety,
+                appellation=appellation,
+            )
+            rows.append((producer, cuvee, country, region))
+    return rows
+
+
+def aggregate(
+    bulk_rows: list[tuple[str, Cuvee, str, str, str]],
+    curated_rows: list[tuple[str, Cuvee, str, str]],
+    existing_slugs: set[str],
+) -> tuple[dict[str, ProducerAgg], dict[str, ProducerAgg]]:
+    """Return (matched_by_slug, unmatched_by_canonical_slug)."""
+    matched: dict[str, ProducerAgg] = {}
+    unmatched: dict[str, ProducerAgg] = {}
+
+    # Curated overlay: build (slug → wine_lower → Cuvee) lookup.
+    overlay: dict[str, dict[str, Cuvee]] = defaultdict(dict)
+    for producer, cuvee, country, region in curated_rows:
+        slug = resolve_slug(producer, existing_slugs) or canonical_slug(producer)
+        overlay[slug][cuvee.wine.strip().lower()] = cuvee
+
+    def stash(producer: str, cuvee: Cuvee, country: str, region: str,
+              subregion: str) -> None:
+        slug = resolve_slug(producer, existing_slugs)
+        target = matched if slug else unmatched
+        key = slug or canonical_slug(producer)
+        if key not in target:
+            target[key] = ProducerAgg(
+                name=producer, slug_guess=key, country=country,
+                region=region, subregion=subregion,
+            )
+        agg = target[key]
+        if not agg.country and country:
+            agg.country = country
+        if not agg.region and region:
+            agg.region = region
+        if not agg.subregion and subregion:
+            agg.subregion = subregion
+        # Overlay enrichment lookup.
+        ov = overlay.get(key, {}).get(cuvee.wine.strip().lower())
+        if ov:
+            cuvee.color = cuvee.color or ov.color
+            cuvee.variety = cuvee.variety or ov.variety
+            cuvee.appellation = cuvee.appellation or ov.appellation
+        agg.cuvees.append(cuvee)
+
+    for producer, cuvee, country, region, subregion in bulk_rows:
+        stash(producer, cuvee, country, region, subregion)
+
+    # Curated-only wines (no counterpart in bulk) — add as extra rows.
+    bulk_keys: dict[str, set[str]] = defaultdict(set)
+    for producer, cuvee, _, _, _ in bulk_rows:
+        slug = resolve_slug(producer, existing_slugs) or canonical_slug(producer)
+        bulk_keys[slug].add(cuvee.wine.strip().lower())
+    for producer, cuvee, country, region in curated_rows:
+        slug = resolve_slug(producer, existing_slugs) or canonical_slug(producer)
+        if cuvee.wine.strip().lower() not in bulk_keys[slug]:
+            stash(producer, cuvee, country, region, "")
+
+    return matched, unmatched
 
 
 FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n(.*)$", re.DOTALL)
-FASS_BLOCK_IN_FM_RE = re.compile(r"(  fass:\n(?:    [^\n]+\n)+)")
-FASS_SECTION_RE = re.compile(r"## FASS\n(.*?)(?=\n## [^#]|\Z)", re.DOTALL)
+FASS_FM_BLOCK_RE = re.compile(r"  fass:\n(?:    [^\n]+\n)+")
+FASS_SECTION_RE = re.compile(r"\n*## FASS\n.*?(?=\n## [^#]|\Z)", re.DOTALL)
 
 
 def build_fass_fm_block(agg: ProducerAgg) -> str:
@@ -123,117 +324,166 @@ def build_fass_fm_block(agg: ProducerAgg) -> str:
 
 def build_fass_section(agg: ProducerAgg) -> str:
     lines = ["## FASS", ""]
-    sorted_cuvees = sorted(agg.cuvees, key=lambda x: (x[0].lower(), x[1] or "0"))
-    lines.append(
-        f"Currently tracked: **{agg.cuvee_count} cuvée/vintage entries**; "
-        f"prices ${agg.price_min:.0f}–${agg.price_max:.0f}."
+    sorted_cuvees = sorted(
+        agg.cuvees, key=lambda c: (c.wine.lower(), c.vintage or "0")
     )
+    pmin, pmax = agg.price_min, agg.price_max
+    if pmin or pmax:
+        lines.append(
+            f"Currently tracked: **{agg.cuvee_count} cuvée/vintage entries**; "
+            f"prices ${pmin:.0f}–${pmax:.0f}."
+        )
+    else:
+        lines.append(f"Currently tracked: **{agg.cuvee_count} cuvée/vintage entries**.")
     lines.append("")
-    lines.append("| Cuvée | Vintage | Price |")
-    lines.append("|---|---|---|")
-    for wine, v, price in sorted_cuvees[:40]:  # cap at 40 rows to avoid bloat
-        p_display = f"${price:.0f}" if price else "—"
-        lines.append(f"| {wine or '—'} | {v or 'NV'} | {p_display} |")
-    if len(sorted_cuvees) > 40:
-        lines.append(f"| _… {len(sorted_cuvees) - 40} more entries_ | | |")
+    show_enrichment = any(c.color or c.variety for c in sorted_cuvees)
+    if show_enrichment:
+        lines.append("| Cuvée | Vintage | Price | Color | Variety |")
+        lines.append("|---|---|---|---|---|")
+    else:
+        lines.append("| Cuvée | Vintage | Price |")
+        lines.append("|---|---|---|")
+    cap = 40
+    for c in sorted_cuvees[:cap]:
+        p = f"${c.price:.0f}" if c.price else "—"
+        if show_enrichment:
+            lines.append(
+                f"| {c.wine or '—'} | {c.vintage or 'NV'} | {p} | "
+                f"{c.color or '—'} | {c.variety or '—'} |"
+            )
+        else:
+            lines.append(f"| {c.wine or '—'} | {c.vintage or 'NV'} | {p} |")
+    if len(sorted_cuvees) > cap:
+        if show_enrichment:
+            lines.append(f"| _… {len(sorted_cuvees) - cap} more entries_ | | | | |")
+        else:
+            lines.append(f"| _… {len(sorted_cuvees) - cap} more entries_ | | |")
     lines.append("")
     return "\n".join(lines)
 
 
-def update_existing(path: Path, agg: ProducerAgg) -> None:
+def strip_fass_state(text: str) -> str:
+    """Strip existing FASS frontmatter block + ## FASS section."""
+    m = FRONTMATTER_RE.match(text)
+    if not m:
+        return text
+    fm, body = m.group(1), m.group(2)
+    fm = FASS_FM_BLOCK_RE.sub("", fm)
+    body = FASS_SECTION_RE.sub("", body)
+    if not body.endswith("\n"):
+        body += "\n"
+    return f"---\n{fm}\n---\n{body}"
+
+
+def write_fass(path: Path, agg: ProducerAgg) -> None:
     text = path.read_text(encoding="utf-8")
+    text = strip_fass_state(text)
     m = FRONTMATTER_RE.match(text)
     if not m:
         return
     fm, body = m.group(1), m.group(2)
     new_block = build_fass_fm_block(agg)
-    if FASS_BLOCK_IN_FM_RE.search(fm):
-        fm = FASS_BLOCK_IN_FM_RE.sub(new_block, fm, count=1)
-    else:
+    if re.search(r"^retailers:\s*$", fm, re.MULTILINE):
         fm = re.sub(r"(retailers:\n)", r"\1" + new_block, fm, count=1)
-    new_section = build_fass_section(agg)
-    if FASS_SECTION_RE.search(body):
-        body = FASS_SECTION_RE.sub(new_section + "\n", body, count=1)
     else:
-        body = body.rstrip() + "\n\n" + new_section + "\n"
+        # No retailers: key yet — append one.
+        fm = fm.rstrip() + "\nretailers:\n" + new_block
+    new_section = build_fass_section(agg)
+    body = body.rstrip() + "\n\n" + new_section + "\n"
     path.write_text(f"---\n{fm}\n---\n{body}", encoding="utf-8")
 
 
-def main() -> int:
-    if not JSX_PATH.exists():
-        print(f"JSX not found: {JSX_PATH}", file=sys.stderr)
-        return 1
-    text = JSX_PATH.read_text(encoding="utf-8")
-    sd = extract_sd(text)
-    print(f"Parsed SEED_RAW: {len(sd['P'])} producers, {len(sd['D'])} wine entries")
-
-    by_slug = aggregate(sd)
-    print(f"Aggregated into {len(by_slug)} distinct producer slugs")
-
-    matched: list[tuple[str, ProducerAgg]] = []
-    unmatched: list[tuple[str, ProducerAgg]] = []
-
-    for slug, agg in sorted(by_slug.items()):
-        if not slug:
-            continue
+def strip_all(existing_slugs: set[str]) -> int:
+    """First-pass wipe: strip every existing FASS state from all pages."""
+    n = 0
+    for slug in existing_slugs:
         path = WIKI_DIR / f"{slug}.md"
-        if path.exists():
-            try:
-                update_existing(path, agg)
-                matched.append((slug, agg))
-            except Exception as e:
-                print(f"  ERROR on {slug}: {e}", file=sys.stderr)
-                unmatched.append((slug, agg))
-        else:
-            unmatched.append((slug, agg))
+        original = path.read_text(encoding="utf-8")
+        stripped = strip_fass_state(original)
+        if stripped != original:
+            path.write_text(stripped, encoding="utf-8")
+            n += 1
+    return n
+
+
+def main() -> int:
+    if not RAW_BULK.exists():
+        print(f"Missing bulk TSV: {RAW_BULK}", file=sys.stderr)
+        return 1
+    if not RAW_CURATED.exists():
+        print(f"Missing curated TSV: {RAW_CURATED}", file=sys.stderr)
+        return 1
+
+    existing_slugs = {p.stem for p in WIKI_DIR.glob("*.md")}
+
+    bulk_rows = load_bulk(RAW_BULK)
+    curated_rows = load_curated(RAW_CURATED)
+    print(f"Loaded {len(bulk_rows)} bulk rows + {len(curated_rows)} curated rows")
+
+    matched, unmatched = aggregate(bulk_rows, curated_rows, existing_slugs)
+    print(f"Aggregated: {len(matched)} matched producers, {len(unmatched)} unmatched")
+
+    wiped = strip_all(existing_slugs)
+    print(f"Stripped old FASS state from {wiped} pages")
+
+    for slug, agg in sorted(matched.items()):
+        path = WIKI_DIR / f"{slug}.md"
+        try:
+            write_fass(path, agg)
+        except Exception as e:
+            print(f"  ERROR on {slug}: {e}", file=sys.stderr)
 
     REPORT.parent.mkdir(parents=True, exist_ok=True)
-    unmatched.sort(key=lambda t: -t[1].cuvee_count)
+    unmatched_sorted = sorted(unmatched.items(), key=lambda kv: -kv[1].cuvee_count)
+    matched_sorted = sorted(matched.items(), key=lambda kv: -kv[1].cuvee_count)
 
     lines = [
         "---",
         "type: ingest_report",
-        "source: fass_jsx",
+        "source: fass_tsv",
         f'generated: "{datetime.now(timezone.utc).isoformat(timespec="seconds")}"',
-        f"total_fass_producers: {len(by_slug)}",
-        f"matched_existing: {len(matched)}",
-        f"unmatched: {len(unmatched)}",
+        f"bulk_rows: {len(bulk_rows)}",
+        f"curated_rows: {len(curated_rows)}",
+        f"matched_producers: {len(matched)}",
+        f"unmatched_producers: {len(unmatched)}",
         "---",
         "",
-        "# FASS ingest report",
+        "# FASS ingest report (full rebuild)",
         "",
-        f"Parsed `{JSX_PATH.name}` — {len(sd['P'])} producers, {len(sd['D'])} wines.",
-        f"Matched **{len(matched)}** existing wiki producers.",
-        f"**{len(unmatched)}** FASS producers had no matching slug in wiki/producers/.",
+        f"Sources: `{RAW_BULK.relative_to(VAULT)}` + `{RAW_CURATED.relative_to(VAULT)}`.",
+        f"Stripped FASS state from **{wiped}** existing producer pages, then re-wrote "
+        f"FASS sections on **{len(matched)}** matched pages.",
         "",
-        "Unmatched producers are NOT auto-created — spelling variations would pollute "
-        "the wiki. Add entries to `FASS_ALIASES` in this script when you find a clear "
-        "mapping to an existing wiki slug.",
+        "Unmatched producers (below) are NOT auto-created — too much spelling "
+        "variation in this retailer's data. To onboard one, add an entry to "
+        "`FASS_ALIASES` in `scripts/ingest_fass.py` pointing to the desired wiki "
+        "slug, then re-run.",
         "",
         f"## Matched ({len(matched)})",
         "",
+        "| Slug | Name | Cuvées | Price range |",
+        "|---|---|---:|---|",
     ]
-    for slug, a in matched:
-        lines.append(f"- `{slug}` — {a.name} ({a.cuvee_count} cuvées, ${a.price_min:.0f}–${a.price_max:.0f})")
+    for slug, a in matched_sorted:
+        pr = (f"${a.price_min:.0f}–${a.price_max:.0f}"
+              if (a.price_min or a.price_max) else "—")
+        lines.append(f"| `{slug}` | {a.name} | {a.cuvee_count} | {pr} |")
+
     lines += [
         "",
-        f"## Top 60 unmatched by cuvée count",
+        f"## Unmatched ({len(unmatched)})",
         "",
         "| Name | Guess slug | Country | Region | Cuvées | Max $ |",
         "|---|---|---|---|---:|---:|",
     ]
-    for slug, a in unmatched[:60]:
+    for slug, a in unmatched_sorted:
         lines.append(
-            f"| {a.name} | `{slug}` | {a.country} | {a.region} | "
-            f"{a.cuvee_count} | ${a.price_max:.0f} |"
+            f"| {a.name} | `{slug}` | {a.country or '—'} | "
+            f"{a.region or '—'} | {a.cuvee_count} | ${a.price_max:.0f} |"
         )
-    if len(unmatched) > 60:
-        lines.append(f"")
-        lines.append(f"_… and {len(unmatched) - 60} more_")
 
     REPORT.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    print(f"\nMatched {len(matched)}, unmatched {len(unmatched)}")
-    print(f"Report: {REPORT}")
+    print(f"Report: {REPORT.relative_to(VAULT)}")
     return 0
 
 

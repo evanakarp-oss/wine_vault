@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 10
     price_min: 49.99
     price_max: 299.99
-  fass:
-    in_portfolio: false
 tags: ['napa', 'cabernet-sauvignon']
 _sources: ["raeders_compile_curated:2026-04-25"]
 ---
@@ -61,7 +59,3 @@ Currently tracked at Raeders: **10 cuvée/vintage entries**; prices $49.99–$29
 | Sauvignon Blanc | NV | 750ml | $49.99 | — |
 | Cabernet Sauvignon Napa Valley | 2021 | 750ml | — | WA 91 · JS 90 |
 | Cabernet Sauvignon Reserve | 2019 | 750ml | — | WA 92 |
-
-## FASS
-
-_Not yet populated._

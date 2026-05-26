@@ -24,8 +24,6 @@ retailers:
     price_max: 135
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
 ---
@@ -55,9 +53,5 @@ Currently tracked: **9 cuvée/vintage entries**; prices $69–$135.
 | Morey Saint Denis 1er cru les Millandes | 2021 | $109 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

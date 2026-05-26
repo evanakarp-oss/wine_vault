@@ -30,8 +30,6 @@ retailers:
     cuvee_count: 1
     price_min: 49.99
     price_max: 49.99
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -119,11 +117,6 @@ Currently tracked: **1 cuvée/vintage entries**; prices $49.99–$49.99.
 > WA 95 JD 94 JS 94 V 93 #7 Wine Spectator Top 100 of 2025
 
 _[Raeders link](https://www.raederswine.com/wines/Produttori-del-Barbaresco-Barbaresco-2021-w489786959)_
-
-## FASS
-
-_Not yet populated._
-
 ## Cross-references
 
 - [[Italy_Producers|Italy]]

@@ -24,8 +24,6 @@ retailers:
     price_max: 179
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
 ---
@@ -63,9 +61,5 @@ Currently tracked: **14 cuvée/vintage entries**; prices $33–$179.
 | Volnay villages Vieilles Vignes | 2020 | $65 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

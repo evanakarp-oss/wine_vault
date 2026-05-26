@@ -24,8 +24,6 @@ retailers:
     price_max: 179
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
 ---
@@ -54,9 +52,5 @@ Currently tracked: **8 cuvée/vintage entries**; prices $25–$179.
 | Uno Magnum | 2021 | $179 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

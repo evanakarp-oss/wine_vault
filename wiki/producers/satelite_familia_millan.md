@@ -21,8 +21,6 @@ retailers:
     in_portfolio: false
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
 events: []
 tags: ["artisan-terroir", "mendoza", "argentina"]
 _sources: ["arg_jsx:arg-natural-wine_3.jsx"]

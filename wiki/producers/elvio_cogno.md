@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 20
     price_min: 28.99
     price_max: 499.99
-  fass:
-    in_portfolio: false
 tags: ['nebbiolo', 'barolo', 'old-vines']
 _sources: ["raeders_compile_curated:2026-04-25"]
 ---
@@ -103,7 +101,3 @@ _[Raeders link](https://www.raederswine.com/wines/Elvio-Cogno-Elvio-Cogno-Dolcet
 > JS 91 Tasting Notes The 2019 Dolcetto d’Alba Mandorlo is a delicious red that exudes drinkability. It offers so much in so little time. Fresh fruit, blackberry and spices all stand to attention, in a pure expression of freshness.…
 
 _[Raeders link](https://www.raederswine.com/wines/Elvio-Cogno-Elvio-Cogno-Dolcetto-d-Alba-Vigna-del-Mandorlo-2019-w0505839lc)_
-
-## FASS
-
-_Not yet populated._

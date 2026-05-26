@@ -24,8 +24,6 @@ retailers:
     price_max: 39
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -60,9 +58,5 @@ Currently tracked: **5 cuvée/vintage entries**; prices $22–$39.
 | Riesling Saering Grand Cru | 2013 | $33 |
 
 ## Raeder's
-
-_Not yet populated._
-
-## FASS
 
 _Not yet populated._

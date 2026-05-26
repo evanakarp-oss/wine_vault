@@ -44,7 +44,7 @@ producer_count: 85
 | [[domaine_armand_heitz|Domaine Armand Heitz]] | France | Pommard / Meursault | 2 | — | — | — | — |
 | [[domaine_duroche|Domaine Duroché]] | France | Gevrey-Chambertin | 2 | — | — | — | — |
 | [[domaine_jean_chauvenet|Domaine Jean Chauvenet]] | France | Nuits-Saint-Georges | 2 | — | 1 | — | — |
-| [[domaine_pavelot|Domaine Pavelot]] | France | Pernand-Vergelesses | 2 | — | — | — | — |
+| [[domaine_pavelot|Domaine Pavelot]] | France | Pernand-Vergelesses | 2 | — | — | 3 | — |
 | [[fanny_sabre|Fanny Sabre]] | France | Beaune / Pommard | 2 | — | — | — | — |
 | [[gerard_mugneret|Gerard Mugneret]] | France | Vosne-Romanée | 2 | 6 | — | — | — |
 | [[messager-germain|Messager-Germain]] | France | — | 2 | — | — | — | — |
@@ -72,7 +72,7 @@ producer_count: 85
 | [[cyril_audoin|Cyril Audoin]] | France | '' | — | 3 | — | — | — |
 | [[denis_bachelet|Denis Bachelet]] | France | '' | — | 1 | — | — | — |
 | [[francois_bertheau|Francois Bertheau]] | France | '' | — | 5 | — | — | — |
-| [[francois_buffet|François Buffet]] | France | — | — | 3 | — | 24 | — |
+| [[francois_buffet|François Buffet]] | France | — | — | 3 | — | 33 | — |
 | [[georges_noellat|Georges Noëllat]] | France | '' | — | 13 | — | — | — |
 | [[gerard_julien|Gerard Julien]] | France | '' | — | 5 | — | — | — |
 | [[gilles__jean__maxime_lafouge|Gilles / Jean / Maxime Lafouge]] | France | Auxey-Duresses | — | — | — | — | — |
@@ -90,7 +90,7 @@ producer_count: 85
 | [[marchand_tawse|Marchand Tawse]] | France | '' | — | 25 | — | — | — |
 | [[maxime_cheurlin|Maxime Cheurlin]] | France | — | — | 18 | — | — | — |
 | [[michel_niellon|Michel Niellon]] | France | Chassagne-Montrachet | — | — | 3 | — | — |
-| [[michel_rebourgeon|Michel Rebourgeon]] | France | — | — | 13 | — | 17 | — |
+| [[michel_rebourgeon|Michel Rebourgeon]] | France | — | — | 13 | — | 25 | — |
 | [[modot_guyon|Modot Guyon]] | France | — | — | 6 | — | — | — |
 | [[patrice_rion|Patrice Rion]] | France | — | — | 3 | — | — | — |
 | [[roty|Roty]] | France | — | — | 1 | — | — | — |

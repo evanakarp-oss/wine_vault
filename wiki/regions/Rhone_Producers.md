@@ -12,7 +12,7 @@ producer_count: 32
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
 | [[eric_texier|Eric Texier]] | France | Côte-Rôtie / Brézème / Rhône | 26 | — | — | — | — |
-| [[domaine_pierre_gonon|Domaine Pierre Gonon]] | France | Saint-Joseph | 17 | — | — | — | — |
+| [[domaine_pierre_gonon|Domaine Pierre Gonon]] | France | Saint-Joseph | 17 | — | — | 3 | — |
 | [[domaine_rousset|Domaine Rousset]] | France | Crozes-Hermitage / Saint-Joseph | 11 | — | — | — | 6 btl |
 | [[domaine_pierre_andre|Domaine Pierre André]] | France | Gigondas / Châteauneuf | 12 | — | — | — | — |
 | [[clos_du_joncuas|Clos du Joncuas]] | France | Gigondas | 10 | — | — | — | — |
@@ -30,11 +30,11 @@ producer_count: 32
 | [[ferme_saint-martin|Ferme Saint-Martin]] | France | Beaumes-de-Venise / Ventoux | 4 | — | — | — | — |
 | [[dard__ribo|Dard & Ribo]] | France | Crozes-Hermitage / Saint-Joseph | 3 | — | — | — | — |
 | [[chapelle_st_theodoric|Chapelle St. Theodoric]] | France | Châteauneuf-du-Pape | 2 | — | — | — | — |
-| [[domaine_gripa|Domaine Gripa]] | France | Saint-Joseph / Saint-Péray | 2 | — | — | — | — |
+| [[domaine_gripa|Domaine Gripa]] | France | Saint-Joseph / Saint-Péray | 2 | — | — | 14 | — |
 | [[vincent_paris|Vincent Paris]] | France | '' | 2 | 1 | — | 1 | — |
 | [[clos_du_mont_olivet|Clos du Mont Olivet]] | France | '' | 1 | 1 | — | — | — |
-| [[jasmin|Jasmin]] | France | — | 1 | 1 | — | — | — |
-| [[billon|Billon]] | France | '' | — | 4 | — | — | — |
+| [[jasmin|Jasmin]] | France | — | 1 | 1 | — | 6 | — |
+| [[billon|Billon]] | France | '' | — | 4 | — | 6 | — |
 | [[clos_saouma|Clos Saouma]] | France | — | — | 1 | — | — | — |
 | [[clusel_roch|Clusel Roch]] | France | '' | — | 3 | 1 | — | — |
 | [[domaine_de_beaurenard|Domaine de Beaurenard]] | France | Châteauneuf-du-Pape | — | — | 11 | — | — |

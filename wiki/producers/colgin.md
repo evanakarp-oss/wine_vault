@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 2
     price_min: 0
     price_max: 0
-  fass:
-    in_portfolio: false
 tags: ['napa', 'pritchard-hill', 'cult']
 _sources: ["raeders_compile_curated_v2:2026-04-25"]
 ---
@@ -55,7 +53,3 @@ Vintages on offer: 2021.
 |---|---|---|---|---|
 | IX Estate Red | 2021 | 750ml | — | WA 99 |
 | Jubilation | 2021 | 750ml | — | — |
-
-## FASS
-
-_Not yet populated._

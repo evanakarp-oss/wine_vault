@@ -28,8 +28,6 @@ retailers:
     cuvee_count: 3
     price_min: 0
     price_max: 0
-  fass:
-    in_portfolio: false
   berserkers_kelley:
     post_count: 13
     first_year: 2015
@@ -160,7 +158,3 @@ Vintages on offer: 1970, 2006, 2016.
 | Pessac-Léognan | 1970 | 750ml | — | — |
 | Pessac-Léognan | 2006 | 750ml | — | WA 94 · WE 90 |
 | Pessac-Léognan | 2016 | 750ml | — | WA 96 · JS 98 · WE 95 |
-
-## FASS
-
-_Not yet populated._

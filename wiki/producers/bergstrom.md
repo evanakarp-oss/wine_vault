@@ -27,8 +27,6 @@ retailers:
     cuvee_count: 11
     price_min: 29.99
     price_max: 149.99
-  fass:
-    in_portfolio: false
 tags: ['pinot-noir', 'oregon', 'biodynamic']
 _sources: ["raeders_compile_curated:2026-04-25"]
 ---
@@ -94,7 +92,3 @@ _[Raeders link](https://www.raederswine.com/wines/Bergstrom-Pinot-Noir-Cumberlan
 > WE 93 WA 92+ The 2018 Pinot Noir Silice Vineyard has broody aromas of tar and dark fruits on the nose with touches of dried herbs and flowers. The medium-bodied palate is firm and fresh, its dark fruits still youthfully coiled. Give it a couple…
 
 _[Raeders link](https://www.raederswine.com/wines/Bergstrom-Bergstrom-Pinot-Noir-Silice-2018-w1920990k5)_
-
-## FASS
-
-_Not yet populated._

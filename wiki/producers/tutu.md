@@ -21,8 +21,6 @@ retailers:
     in_portfolio: false
   raeders:
     in_portfolio: false
-  fass:
-    in_portfolio: false
 events: ["argentina_reloaded_rio_2024", "argentina_reloaded_buenos_aires_2025"]
 tags: ["emerging", "low-intervention", "mendoza", "argentina"]
 _sources: ["arg_jsx:arg-natural-wine_3.jsx"]

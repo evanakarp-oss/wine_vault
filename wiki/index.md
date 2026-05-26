@@ -162,7 +162,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[E&R_Wine_Shop|E&R Wine Shop]] — https://www.erwine.com
 - [[Eataly_Wine|Eataly Wine]] — https://www.eataly.com/wine
 - [[Envoyer_Business_Wine|Envoyer Business Wine]] — https://www.envoyerwine.com
-- [[FASS_Selections|FASS Selections]] — <!-- BEGIN AUTO-GENERATED (build_rollups.py) --> **4 producers** from this retailer are tracked in the wiki.
+- [[FASS_Selections|FASS Selections]] — <!-- BEGIN AUTO-GENERATED (build_rollups.py) --> **14 producers** from this retailer are tracked in the wiki.
 - [[FLX_Provisions|FLX Provisions]] — https://www.flxprovisions.com
 - [[Fermented_Grapes|Fermented Grapes]] — https://www.fermentedgrapes.com
 - [[Ferry_Plaza_Wine_Merchant|Ferry Plaza Wine Merchant]] — https://www.ferrywinery.com
@@ -283,8 +283,8 @@ _357 producers across 37 regions._
 ### Baden
 
 - [[bernhard_huber|Bernhard Huber]] — Baden · CSW ★1/1
-- [[enderle__moll|Enderle & Moll]] — Baden · biodynamic · CSW ★4/7
-- [[sven_enderle|Sven Enderle]] — Baden · CSW 7 · DTE 5 · FASS 13
+- [[enderle__moll|Enderle & Moll]] — Baden · biodynamic · CSW ★4/7 · FASS 18
+- [[sven_enderle|Sven Enderle]] — Baden · CSW 7 · DTE 5 · FASS 18
 - [[wasenhaus|Wasenhaus]] — Baden · organic · CSW ★2/4
 
 ### Basque (Irouléguy)
@@ -366,7 +366,7 @@ _357 producers across 37 regions._
 - [[domaine_laroche|Domaine Laroche]] — Burgundy / Chablis · sustainable · CSW ★1/4 · Raeder 11
 - [[domaine_leflaive|Domaine Leflaive]] — Burgundy / Puligny-Montrachet · biodynamic · CSW 6 · Raeder 19
 - [[domaine_lienhardt|Domaine Lienhardt]] — Burgundy / Côte de Nuits Villages · organic · CSW ★4/4
-- [[domaine_pavelot|Domaine Pavelot]] — Burgundy / Pernand-Vergelesses · CSW ★1/2
+- [[domaine_pavelot|Domaine Pavelot]] — Burgundy / Pernand-Vergelesses · CSW ★1/2 · FASS 3
 - [[domaine_rossignol-fevrier|Domaine Rossignol-Fevrier]] — Burgundy / Volnay · CSW ★1/1
 - [[domaine_simon_bize|Domaine Simon Bize]] — Burgundy / Savigny-lès-Beaune · biodynamic · CSW ★2/10
 - [[domaine_trapet|Domaine Trapet]] — Burgundy / Gevrey-Chambertin · biodynamic · CSW ★4/4
@@ -374,7 +374,7 @@ _357 producers across 37 regions._
 - [[duplessis_chablis|Duplessis Chablis]] — Burgundy / Chablis · organic · CSW ★2/3
 - [[fanny_sabre|Fanny Sabre]] — Burgundy / Beaune / Pommard · organic · CSW ★2/2
 - [[francois_bertheau|Francois Bertheau]] — Burgundy · DTE 5
-- [[francois_buffet|François Buffet]] — Burgundy · DTE 3 · FASS 24
+- [[francois_buffet|François Buffet]] — Burgundy · DTE 3 · FASS 33
 - [[georges_glantenay|Georges Glantenay]] — Burgundy · CSW 1 · DTE 14
 - [[georges_noellat|Georges Noëllat]] — Burgundy · DTE 13
 - [[gerard_julien|Gerard Julien]] — Burgundy · DTE 5
@@ -404,7 +404,7 @@ _357 producers across 37 regions._
 - [[michel_mallard|Michel Mallard]] — Burgundy · CSW ★1/1 · DTE 24
 - [[michel_niellon|Michel Niellon]] — Burgundy / Chassagne-Montrachet · Raeder 3
 - [[michel_noellat|Michel Noellat]] — Burgundy · CSW 1 · DTE 1
-- [[michel_rebourgeon|Michel Rebourgeon]] — Burgundy · DTE 13 · FASS 17
+- [[michel_rebourgeon|Michel Rebourgeon]] — Burgundy · DTE 13 · FASS 25
 - [[modot_guyon|Modot Guyon]] — Burgundy · DTE 6
 - [[patrice_rion|Patrice Rion]] — Burgundy · DTE 3
 - [[pierre-yves_colin-morey|Pierre-Yves Colin-Morey]] — Burgundy / St-Aubin / Chassagne · organic · CSW ★2/4
@@ -583,21 +583,21 @@ _357 producers across 37 regions._
 - [[knebel|Knebel]] — Mosel / Winningen · CSW ★3/16
 - [[max_ferdinand_richter|Max Ferdinand Richter]] — Mosel · DTE 17
 - [[melsheimer|Melsheimer]] — Mosel · CSW 1 · DTE 3
-- [[peter_lauer__weingut_lauer|Peter Lauer / Weingut Lauer]] — Mosel / Saar
+- [[peter_lauer__weingut_lauer|Peter Lauer / Weingut Lauer]] — Mosel / Saar · FASS 4
 - [[richter|Richter]] — Mosel · DTE 11
-- [[steinmetz|Steinmetz]] — Mosel · CSW 9 · DTE 37
+- [[steinmetz|Steinmetz]] — Mosel · CSW 9 · DTE 37 · FASS 41
 - [[thanisch|Thanisch]] — Mosel · DTE 7
 - [[ulli_stein|Ulli Stein]] — Mosel · natural · CSW ★3/9
 - [[van_volxem|Van Volxem]] — Mosel / Saar · biodynamic · CSW ★1/8
 - [[vollenweider|Vollenweider]] — Mosel / Wolf · CSW ★2/5
-- [[weiser_kunstler|Weiser-Künstler]] — Mosel · organic · CSW ★6/15
+- [[weiser_kunstler|Weiser-Künstler]] — Mosel · organic · CSW ★6/15 · FASS 3
 - [[willi_schaefer|Willi Schaefer]] — Mosel / Graach · CSW ★5/9
 - [[wwe_dr_h_thanisch|Wwe Dr H Thanisch]] — Mosel · DTE 8
 - [[zilliken|Zilliken]] — Mosel / Saar (Saarburg) · CSW ★2/4
 
 ### Nahe
 
-- [[donnhoff|Dönnhoff]] — Nahe · CSW ★2/10
+- [[donnhoff|Dönnhoff]] — Nahe · CSW ★2/10 · FASS 2
 - [[emrich_schonleber|Emrich-Schönleber]] — Nahe · organic · CSW ★2/3
 - [[schafer-frohlich|Schafer-Frohlich]] — Nahe · CSW ★2/6
 
@@ -654,7 +654,7 @@ _357 producers across 37 regions._
 ### Rhône
 
 - [[allemand|Allemand]] — Rhône / Cornas · natural · CSW ★1/9
-- [[billon|Billon]] — Rhône · DTE 4
+- [[billon|Billon]] — Rhône · DTE 4 · FASS 6
 - [[chapelle_st_theodoric|Chapelle St. Theodoric]] — Rhône / Châteauneuf-du-Pape · organic · CSW ★2/2
 - [[clos_du_joncuas|Clos du Joncuas]] — Rhône / Gigondas · biodynamic · CSW ★4/10
 - [[clos_du_mont_olivet|Clos du Mont Olivet]] — Rhône · CSW 1 · DTE 1
@@ -667,11 +667,11 @@ _357 producers across 37 regions._
 - [[domaine_des_amphores|Domaine des Amphores]] — Rhône / Saint-Joseph / Condrieu · biodynamic · CSW ★2/6
 - [[domaine_des_ardoisieres|Domaine des Ardoisières]] — Rhône / Savoie (Cevins) · biodynamic · CSW ★1/6 · Raeder 1
 - [[domaine_garon|Domaine Garon]] — Rhône / Côte-Rôtie · CSW ★2/2
-- [[domaine_gripa|Domaine Gripa]] — Rhône / Saint-Joseph / Saint-Péray · CSW ★1/2
+- [[domaine_gripa|Domaine Gripa]] — Rhône / Saint-Joseph / Saint-Péray · CSW ★1/2 · FASS 14
 - [[domaine_levet|Domaine Levet]] — Rhône / Côte-Rôtie · natural · CSW ★3/6
 - [[domaine_lionnet|Domaine Lionnet]] — Rhône / Cornas · organic · CSW ★2/7
 - [[domaine_pierre_andre|Domaine Pierre André]] — Rhône / Gigondas / Châteauneuf · biodynamic · CSW ★5/12
-- [[domaine_pierre_gonon|Domaine Pierre Gonon]] — Rhône / Saint-Joseph · organic · CSW ★9/17
+- [[domaine_pierre_gonon|Domaine Pierre Gonon]] — Rhône / Saint-Joseph · organic · CSW ★9/17 · FASS 3
 - [[domaine_rousset|Domaine Rousset]] — Rhône / Crozes-Hermitage / Saint-Joseph · organic · CSW ★6/11
 - [[dumien-serrette|Dumien-Serrette]] — Rhône / Cornas · organic · CSW ★1/4
 - [[eric_et_joel_durand|Eric et Joel Durand]] — Rhône · DTE 1
@@ -679,7 +679,7 @@ _357 producers across 37 regions._
 - [[ferme_saint-martin|Ferme Saint-Martin]] — Rhône / Beaumes-de-Venise / Ventoux · natural · CSW ★3/4
 - [[franck_balthazar|Franck Balthazar]] — Rhône / Cornas · natural · CSW ★2/5
 - [[georges_vernay|Georges Vernay]] — Rhône · DTE 1 · Raeder 1
-- [[jasmin|Jasmin]] — Rhône · CSW 1 · DTE 1
+- [[jasmin|Jasmin]] — Rhône · CSW 1 · DTE 1 · FASS 6
 - [[jean_royer|Jean Royer]] — Rhône · DTE 1
 - [[langlore|L'Anglore]] — Rhône / Tavel / Lirac · natural · CSW 6
 - [[marc_sorrel|Marc Sorrel]] — Rhône · DTE 15
