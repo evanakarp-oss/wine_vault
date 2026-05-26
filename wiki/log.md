@@ -26,6 +26,40 @@ _commit `36ec32e`_
 
 _commit `f0cecd1`_
 
+## [2026-05-26] build | Drive auto-mirror + weekly audit GitHub Actions, plus WORKFLOW.md
+
+Eliminates the source-of-truth ambiguity that caused the original
+architecture failure. Git becomes the only place to edit; Drive
+becomes an auto-mirrored read-only output.
+
+Three new artifacts:
+
+- `.github/workflows/drive_mirror.yml` — on every push to `main`,
+  runs `rclone sync . gdrive:` to overwrite the canonical Drive
+  `wine_vault/` folder from the repo. Excludes `.git/`, `.github/`,
+  `build/`, legacy folders. Concurrency-grouped so only the latest
+  push wins. Supports manual dispatch with a dry-run flag.
+
+- `.github/workflows/drive_audit.yml` + `scripts/drive_audit.py` —
+  weekly (Sunday 18:00 UTC), lists Drive files via `rclone lsjson`,
+  diffs against `git ls-files`, writes `build/drive_audit.md`,
+  opens a GitHub issue (labeled `drive-drift`, `audit`) if anything
+  is unique to Drive. Catches the kind of one-off Drive uploads
+  that produced the Roscioli orphan and the wiki/wiki/ divergence.
+
+- `WORKFLOW.md` — single-page guide to where edits go (Claude Code,
+  Working Copy iOS, local clone) vs where they don't (Drive web UI,
+  Obsidian-on-Drive, chat upload). Also documents the one-time
+  Google service-account setup needed for both workflows.
+
+CLAUDE.md + README.md updated to point at WORKFLOW.md.
+
+**Requires (one-time)**: a Google service-account JSON key with
+Drive API enabled, the service-account email shared as Editor on
+the `wine_vault/` Drive folder, and the JSON added as the
+`GDRIVE_SERVICE_ACCOUNT_JSON` GitHub repo secret. Full steps in
+WORKFLOW.md.
+
 ## [2026-05-26] ingest | Roscioli Wine Club pulled from Drive (importer + schema patch + 4 merges)
 
 User shared a Drive folder of orphaned Roscioli scrape outputs from

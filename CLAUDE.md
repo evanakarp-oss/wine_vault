@@ -2,7 +2,8 @@
 
 Karpathy-style LLM knowledge base for wine collecting. Markdown is the source
 of truth; code is only for landing data and rendering views. Full architecture
-in `README.md`.
+in `README.md`. Edit-and-sync workflow in `WORKFLOW.md` (**git is canonical;
+Drive auto-mirrors on every push**).
 
 ## Three use cases this serves
 
@@ -140,12 +141,13 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
 
 ## Mobile access
 
-Two options, both work today:
+See `WORKFLOW.md` for the full setup. Quick version:
 
-1. **Obsidian Mobile via iCloud** (recommended for reading + light editing) — vault lives in `iCloud Drive/wine_vault`; Obsidian Mobile opens it natively. Same wikilink graph as desktop. Edits sync via iCloud. Search-as-you-type across all 423 wiki pages and 294 cellar entries.
-2. **claude.ai Project + Drive connector** (for Q&A on the go) — push the repo to Drive (or use the existing mirror), point the claude.ai Project at `wine_vault/` via the Drive connector, paste `_project_instructions.md` into the Project instructions. Then `/ask-cellar`-style queries work from the iOS app.
+- **Editing on mobile** — Claude Code (this session) commits to git → `drive_mirror` workflow auto-pushes to Drive within ~1 minute. OR install Working Copy iOS, clone into iCloud, point Obsidian Mobile at the iCloud-synced git clone.
+- **Reading on mobile** — Drive's iOS app reads the auto-mirrored copy. Obsidian Mobile reads the iCloud-synced clone.
+- **Q&A on mobile** — claude.ai Project with the Drive connector pointed at the mirror.
 
-Don't try to edit from claude.ai Mobile + Drive — Drive's web-app edits don't round-trip cleanly with git. Use Obsidian for edits, claude.ai for queries.
+**Anti-pattern**: editing files directly in Drive (web UI, Obsidian-on-Drive, chat upload). The mirror is push-only — your Drive edits will be overwritten on the next push to main. Edit in git, always.
 
 ## Architecture-fix history
 

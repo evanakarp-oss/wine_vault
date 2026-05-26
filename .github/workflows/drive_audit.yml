@@ -1,0 +1,82 @@
+name: drive_audit
+
+# Weekly audit: list files in the canonical Drive `wine_vault/` folder,
+# diff against the git working tree, open a GitHub issue if anything is
+# unique to Drive (i.e. someone edited on Drive directly, bypassing
+# git). Catches the kind of divergence that caused the original
+# architecture failure (wiki/wiki/, Roscioli 152, etc).
+#
+# Also runs on manual dispatch for ad-hoc checks.
+
+on:
+  schedule:
+    # Sundays 18:00 UTC = Sunday afternoon ET
+    - cron: '0 18 * * 0'
+  workflow_dispatch:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install rclone
+        run: |
+          curl -fsSL https://rclone.org/install.sh | sudo bash
+
+      - name: Configure rclone
+        env:
+          SA_JSON: ${{ secrets.GDRIVE_SERVICE_ACCOUNT_JSON }}
+        run: |
+          if [ -z "$SA_JSON" ]; then
+            echo "::error::GDRIVE_SERVICE_ACCOUNT_JSON repo secret not set."
+            exit 1
+          fi
+          mkdir -p "$HOME/.config/rclone"
+          echo "$SA_JSON" > "$HOME/.config/rclone/sa.json"
+          cat > "$HOME/.config/rclone/rclone.conf" <<EOF
+          [gdrive]
+          type = drive
+          scope = drive.readonly
+          service_account_file = $HOME/.config/rclone/sa.json
+          root_folder_id = 1lqMRm9PiLel19kGC7FAZgd-2cHu2CZBB
+          EOF
+
+      - name: Run audit
+        id: audit
+        run: |
+          python3 scripts/drive_audit.py
+          # Capture summary for issue body
+          {
+            echo "drive_only_count<<EOF"
+            grep -E "^drive_only:" build/drive_audit.md | awk '{print $2}'
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Upload audit report
+        uses: actions/upload-artifact@v4
+        with:
+          name: drive_audit_${{ github.run_id }}
+          path: build/drive_audit.md
+          retention-days: 30
+
+      - name: Open issue if drift detected
+        if: steps.audit.outputs.drive_only_count != '0' && steps.audit.outputs.drive_only_count != ''
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const body = fs.readFileSync('build/drive_audit.md', 'utf8');
+            const count = '${{ steps.audit.outputs.drive_only_count }}';
+            const today = new Date().toISOString().slice(0, 10);
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Drive drift detected: ${count} file(s) unique to Drive (${today})`,
+              body: body,
+              labels: ['drive-drift', 'audit']
+            });
