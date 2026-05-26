@@ -1,164 +1,321 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1500" font-family="Helvetica, Arial, sans-serif">
-  <!-- background -->
-  <rect width="1000" height="1500" fill="#f8f5ee"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1200" font-family="Helvetica, Arial, sans-serif">
+  <!-- ===== background = "other vineyard" cream ===== -->
+  <rect width="1800" height="1200" fill="#ece4d2"/>
 
-  <!-- title -->
-  <text x="500" y="38" text-anchor="middle" font-size="22" font-weight="bold" fill="#222">The Vosne Adjacency — Côte de Nuits</text>
-  <text x="500" y="60" text-anchor="middle" font-size="13" fill="#666">Vougeot · Flagey-Échezeaux · Vosne-Romanée · Nuits-Saint-Georges</text>
-  <text x="500" y="78" text-anchor="middle" font-size="11" fill="#999">north ↑ · hillside rises west ← · plain &amp; RN74 east →</text>
+  <!-- ===== Title bar ===== -->
+  <text x="900" y="30" text-anchor="middle" font-size="22" font-weight="bold" fill="#2a1a3a">The Vosne Adjacency — Côte de Nuits</text>
+  <text x="900" y="50" text-anchor="middle" font-size="12" fill="#666" font-style="italic">Nuits-Saint-Georges · Vosne-Romanée · Vougeot · (Chambolle-Musigny →)   ·   schematic after the World Atlas of Wine</text>
 
-  <!-- compass -->
-  <text x="50" y="115" font-size="13" font-weight="bold" fill="#444">N ↑</text>
+  <!-- ===== Bois de la Montagne (woods at top of slope) ===== -->
+  <path d="M 0 65 L 0 235
+           C 100 225, 220 245, 340 218
+           C 440 200, 560 240, 680 220
+           C 800 235, 900 200, 1020 215
+           C 1160 220, 1300 195, 1420 220
+           C 1540 235, 1660 210, 1800 225
+           L 1800 65 Z" fill="#a8be78" stroke="#778e48" stroke-width="1.5"/>
+  <text x="1700" y="100" font-size="13" font-style="italic" fill="#3a4a18">Bois de la Montagne</text>
 
-  <!-- HILLSIDE (forest, west edge) -->
-  <rect x="80" y="100" width="80" height="1100" fill="#7a8b5a" opacity="0.40"/>
-  <text x="120" y="650" font-size="11" fill="#3a4a20" text-anchor="middle" transform="rotate(-90, 120, 650)">Hauts · forest · 400 m</text>
+  <!-- ===== 250 m contour line (the key elevation) ===== -->
+  <path d="M 0 260 C 100 270, 220 250, 340 268 C 440 275, 560 258, 680 273 C 800 268, 900 263, 1020 270 C 1160 270, 1300 258, 1420 270 C 1540 275, 1660 252, 1800 270"
+        stroke="#665" stroke-width="1.6" fill="none" stroke-dasharray="6,3"/>
+  <text x="20" y="255" font-size="9" fill="#665">— 250 m —</text>
 
-  <!-- VINEYARD ZONE (mid) -->
-  <rect x="160" y="100" width="500" height="1100" fill="#dee2bb" opacity="0.55"/>
+  <!-- ===== minor contours ===== -->
+  <path d="M 0 320 C 200 330, 500 313, 800 325 C 1100 335, 1500 318, 1800 330" stroke="#aaa" stroke-width="0.6" fill="none" stroke-dasharray="2,3"/>
+  <path d="M 0 410 C 200 418, 500 405, 800 412 C 1100 422, 1500 408, 1800 418" stroke="#aaa" stroke-width="0.6" fill="none" stroke-dasharray="2,3"/>
+  <path d="M 0 500 C 200 510, 500 498, 800 505 C 1100 512, 1500 500, 1800 510" stroke="#aaa" stroke-width="0.6" fill="none" stroke-dasharray="2,3"/>
 
-  <!-- GRAND-CRU BAND (upper slope, darker) -->
-  <rect x="200" y="100" width="180" height="1100" fill="#6f8546" opacity="0.45"/>
+  <!-- ===== base Commune-AOC mauve carpet ===== -->
+  <rect x="0" y="240" width="1800" height="540" fill="#d4b1c8" opacity="0.6"/>
 
-  <!-- band labels -->
-  <text x="290" y="115" text-anchor="middle" font-size="9" font-weight="bold" fill="#2a3a10" letter-spacing="2">GRAND CRU SLOPE</text>
-  <text x="490" y="115" text-anchor="middle" font-size="9" font-weight="bold" fill="#555" letter-spacing="2">1ER CRU · VILLAGE</text>
+  <!-- =============================================================
+       NUITS-SAINT-GEORGES — left half of the map (south)
+       ============================================================= -->
 
-  <!-- PLAIN + RN74 -->
-  <rect x="660" y="100" width="220" height="1100" fill="#e6d6a0" opacity="0.35"/>
-  <line x1="720" y1="100" x2="720" y2="1200" stroke="#aa9955" stroke-width="2" stroke-dasharray="6,4"/>
-  <text x="735" y="650" font-size="11" fill="#aa9955" transform="rotate(-90, 735, 650)">RN74 · plain · towns</text>
+  <!-- Prémeaux 1ers (south end / Vosne-side via the Prémeaux strip) -->
+  <polygon points="50,400 130,395 145,520 60,525" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="98" y="463" font-size="8" text-anchor="middle" fill="white" font-weight="bold">Clos de la</text>
+  <text x="98" y="474" font-size="8" text-anchor="middle" fill="white" font-weight="bold">Maréchale</text>
 
-  <!-- =============================== COMMUNES =============================== -->
+  <polygon points="130,395 170,390 180,470 145,480" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="155" y="430" font-size="7" text-anchor="middle" fill="white" font-weight="bold">Clos des</text>
+  <text x="155" y="438" font-size="7" text-anchor="middle" fill="white" font-weight="bold">Corvées</text>
 
-  <!-- ============ VOUGEOT (y 100-220) ============ -->
-  <line x1="160" y1="220" x2="880" y2="220" stroke="#888" stroke-width="1" stroke-dasharray="4,3"/>
-  <text x="170" y="118" font-size="11" fill="#666" font-style="italic">↑ Chambolle-Musigny</text>
-  <text x="500" y="150" text-anchor="middle" font-size="19" font-weight="bold" fill="#222">VOUGEOT</text>
-  <text x="290" y="180" text-anchor="middle" font-size="10" fill="#2a3a10" font-style="italic">Clos de Vougeot GC</text>
-  <text x="290" y="195" text-anchor="middle" font-size="9" fill="#2a3a10" font-style="italic">(50 ha · 80+ owners)</text>
-  <text x="500" y="195" text-anchor="middle" font-size="9" fill="#666">Les Cras 1er</text>
+  <polygon points="170,390 210,385 220,460 180,470" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="195" y="425" font-size="7" text-anchor="middle" fill="white">Aux Perdrix</text>
 
-  <!-- ============ FLAGEY-ÉCHEZEAUX (y 220-450) ============ -->
-  <line x1="160" y1="450" x2="880" y2="450" stroke="#888" stroke-width="1" stroke-dasharray="4,3"/>
-  <text x="500" y="260" text-anchor="middle" font-size="19" font-weight="bold" fill="#222">FLAGEY-ÉCHEZEAUX</text>
-  <text x="500" y="278" text-anchor="middle" font-size="10" fill="#666" font-style="italic">(commune sits east of N74 — GCs are on the Vosne slope)</text>
-  <text x="290" y="320" text-anchor="middle" font-size="11" fill="#2a3a10" font-style="italic">Échezeaux GC</text>
-  <text x="290" y="340" text-anchor="middle" font-size="11" fill="#2a3a10" font-style="italic">Grands-Échezeaux GC</text>
-  <text x="800" y="400" text-anchor="middle" font-size="10" fill="#888">village →</text>
+  <!-- NSG town 1ers -->
+  <polygon points="220,460 265,450 280,540 230,545" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="252" y="495" font-size="7" text-anchor="middle" fill="white" font-weight="bold">Les St-Georges</text>
 
-  <!-- ============ VOSNE-ROMANÉE (y 450-720) ============ -->
-  <line x1="160" y1="720" x2="880" y2="720" stroke="#888" stroke-width="1" stroke-dasharray="4,3"/>
-  <text x="500" y="490" text-anchor="middle" font-size="21" font-weight="bold" fill="#222">VOSNE-ROMANÉE</text>
-  <text x="500" y="508" text-anchor="middle" font-size="10" fill="#666" font-style="italic">"there are no common wines in Vosne" — Camille Rodier</text>
+  <polygon points="265,418 300,415 305,510 280,510" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="285" y="465" font-size="7" text-anchor="middle" fill="white">Les Cailles</text>
 
-  <!-- Vosne grand crus -->
-  <text x="290" y="540" text-anchor="middle" font-size="11" font-weight="bold" fill="#1a2a05">★ Romanée-Conti</text>
-  <text x="290" y="558" text-anchor="middle" font-size="10" fill="#2a3a10" font-style="italic">La Tâche · La Romanée</text>
-  <text x="290" y="576" text-anchor="middle" font-size="10" fill="#2a3a10" font-style="italic">Richebourg</text>
-  <text x="290" y="594" text-anchor="middle" font-size="10" fill="#2a3a10" font-style="italic">Romanée-St-Vivant</text>
-  <text x="290" y="612" text-anchor="middle" font-size="10" fill="#2a3a10" font-style="italic">La Grande Rue</text>
+  <polygon points="265,380 305,377 305,415 265,418" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="285" y="400" font-size="7" text-anchor="middle" fill="white">Vaucrains</text>
 
-  <!-- Vosne 1ers -->
-  <text x="500" y="555" text-anchor="middle" font-size="9" fill="#444">Cros Parantoux · Les Brûlées</text>
-  <text x="500" y="572" text-anchor="middle" font-size="9" fill="#444">Les Suchots · Les Beaux Monts</text>
-  <text x="500" y="589" text-anchor="middle" font-size="9" fill="#444">Aux Malconsorts · Les Chaumes</text>
-  <text x="500" y="606" text-anchor="middle" font-size="9" fill="#444">Les Rouges du Dessus</text>
-  <text x="800" y="640" text-anchor="middle" font-size="10" fill="#888">village →</text>
+  <polygon points="305,377 345,373 345,500 305,510" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="325" y="440" font-size="7" text-anchor="middle" fill="white">Les Pruliers</text>
 
-  <!-- ============ NSG (y 720-1200) ============ -->
-  <text x="500" y="755" text-anchor="middle" font-size="21" font-weight="bold" fill="#222">NUITS-SAINT-GEORGES</text>
-  <text x="500" y="772" text-anchor="middle" font-size="10" fill="#666" font-style="italic">long commune — Vosne-side 1ers north · Prémeaux 1ers south · no GCs</text>
+  <polygon points="345,373 390,367 395,480 345,500" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="370" y="425" font-size="7" text-anchor="middle" fill="white">Aux Chaignots</text>
 
-  <!-- NSG north (Vosne-side) -->
-  <line x1="200" y1="830" x2="660" y2="830" stroke="#bbb" stroke-width="1" stroke-dasharray="2,3"/>
-  <text x="500" y="820" text-anchor="middle" font-size="10" font-style="italic" fill="#555">— north (Vosne border) —</text>
-  <text x="430" y="855" text-anchor="middle" font-size="9" fill="#444">Aux Boudots · Aux Thorey · Les Damodes</text>
-  <text x="430" y="870" text-anchor="middle" font-size="9" fill="#444">Aux Cras · Aux Murgers</text>
+  <polygon points="390,367 430,362 440,475 395,480" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="415" y="420" font-size="7" text-anchor="middle" fill="white">Aux Murgers</text>
 
-  <!-- NSG town -->
-  <line x1="200" y1="970" x2="660" y2="970" stroke="#bbb" stroke-width="1" stroke-dasharray="2,3"/>
-  <text x="500" y="960" text-anchor="middle" font-size="10" font-style="italic" fill="#555">— town —</text>
-  <text x="430" y="995" text-anchor="middle" font-size="9" fill="#444">Les Saint-Georges · Les Cailles</text>
-  <text x="430" y="1010" text-anchor="middle" font-size="9" fill="#444">Vaucrains · Les Pruliers</text>
-  <text x="800" y="990" text-anchor="middle" font-size="10" fill="#888">Nuits town →</text>
+  <!-- NSG north / Vosne-side 1ers -->
+  <polygon points="430,362 470,357 480,470 440,475" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="455" y="415" font-size="7" text-anchor="middle" fill="white" font-weight="bold">Aux Boudots</text>
 
-  <!-- NSG south / Prémeaux -->
-  <line x1="200" y1="1110" x2="660" y2="1110" stroke="#bbb" stroke-width="1" stroke-dasharray="2,3"/>
-  <text x="500" y="1100" text-anchor="middle" font-size="10" font-style="italic" fill="#555">— south · Prémeaux-Prissey —</text>
-  <text x="430" y="1135" text-anchor="middle" font-size="9" fill="#444">Clos de la Maréchale (Mugnier monopole)</text>
-  <text x="430" y="1150" text-anchor="middle" font-size="9" fill="#444">Clos des Corvées · Clos de l'Arlot</text>
-  <text x="430" y="1165" text-anchor="middle" font-size="9" fill="#444">Clos de la Maréchale · Aux Perdrix</text>
+  <polygon points="470,357 510,352 520,465 480,470" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="495" y="410" font-size="7" text-anchor="middle" fill="white" font-weight="bold">Aux Thorey</text>
 
-  <line x1="160" y1="1200" x2="880" y2="1200" stroke="#888" stroke-width="1" stroke-dasharray="4,3"/>
-  <text x="170" y="1218" font-size="11" fill="#666" font-style="italic">↓ Côte de Nuits-Villages / Comblanchien</text>
+  <polygon points="510,352 545,347 550,460 520,465" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="528" y="405" font-size="7" text-anchor="middle" fill="white">Les Damodes</text>
 
-  <!-- =============================== PINS =============================== -->
+  <!-- NSG town buildings -->
+  <rect x="200" y="700" width="120" height="48" fill="#a08560" opacity="0.75"/>
+  <text x="260" y="730" text-anchor="middle" font-size="12" font-weight="bold" fill="#3a2a18">Nuits-St-Georges</text>
 
-  <!-- OWNED (red) -->
-  <!-- O3 Brisset Vosne 1er Les Rouges du Dessus (upper Vosne, near Flagey border) -->
-  <circle cx="360" cy="615" r="11" fill="#c0392b" stroke="white" stroke-width="2"/>
-  <text x="360" y="619" text-anchor="middle" font-size="11" fill="white" font-weight="bold">3</text>
+  <text x="280" y="850" text-anchor="middle" font-size="16" font-weight="bold" fill="#3a2a18" letter-spacing="3" opacity="0.55">NUITS-SAINT-GEORGES</text>
 
-  <!-- O4 Odoul-Coquard Vosne VV (village level) -->
-  <circle cx="565" cy="640" r="11" fill="#c0392b" stroke="white" stroke-width="2"/>
-  <text x="565" y="644" text-anchor="middle" font-size="11" fill="white" font-weight="bold">4</text>
+  <!-- =============================================================
+       VOSNE-ROMANÉE — center of the map
+       ============================================================= -->
 
-  <!-- O2 Brisset NSG Aux Thorey (north NSG) -->
-  <circle cx="440" cy="885" r="11" fill="#c0392b" stroke="white" stroke-width="2"/>
-  <text x="440" y="889" text-anchor="middle" font-size="11" fill="white" font-weight="bold">2</text>
+  <polygon points="545,347 580,343 595,455 550,460" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="572" y="400" font-size="7" text-anchor="middle" fill="white">Aux Reignots</text>
 
-  <!-- O1 Mugnier NSG Clos de la Maréchale (south Prémeaux) - the anchor, larger -->
-  <circle cx="330" cy="1145" r="14" fill="#c0392b" stroke="white" stroke-width="3"/>
-  <text x="330" y="1150" text-anchor="middle" font-size="12" fill="white" font-weight="bold">1</text>
+  <!-- ★ Vosne Grand Cru core — the legendary ribbon ★ -->
+  <!-- La Romanée (tiny, above R-Conti) -->
+  <polygon points="580,343 605,341 612,395 583,395" fill="#4a2d6e" stroke="#231140" stroke-width="1.1"/>
+  <text x="595" y="370" font-size="7" text-anchor="middle" fill="white" font-weight="bold">La</text>
+  <text x="595" y="379" font-size="7" text-anchor="middle" fill="white" font-weight="bold">Romanée</text>
 
-  <!-- O5 Ponnelle NSG Clos des Corvées (south Prémeaux) -->
-  <circle cx="375" cy="1175" r="11" fill="#c0392b" stroke="white" stroke-width="2"/>
-  <text x="375" y="1179" text-anchor="middle" font-size="11" fill="white" font-weight="bold">5</text>
+  <!-- Romanée-Conti -->
+  <polygon points="583,395 612,395 615,440 588,445" fill="#4a2d6e" stroke="#231140" stroke-width="1.3"/>
+  <text x="600" y="420" font-size="7" text-anchor="middle" fill="white" font-weight="bold">R-Conti</text>
 
-  <!-- RAEDERS SHORTLIST (blue) -->
-  <!-- R-C Bertagna Vougeot Les Cras 1er -->
-  <circle cx="470" cy="195" r="11" fill="#2980b9" stroke="white" stroke-width="2"/>
-  <text x="470" y="199" text-anchor="middle" font-size="11" fill="white" font-weight="bold">C</text>
+  <!-- Romanée-Saint-Vivant -->
+  <polygon points="588,445 615,440 624,515 595,520" fill="#4a2d6e" stroke="#231140" stroke-width="1"/>
+  <text x="606" y="478" font-size="7" text-anchor="middle" fill="white" font-weight="bold">Romanée-</text>
+  <text x="606" y="488" font-size="7" text-anchor="middle" fill="white" font-weight="bold">St-Vivant</text>
+
+  <!-- Richebourg -->
+  <polygon points="605,341 645,338 655,395 612,395" fill="#4a2d6e" stroke="#231140" stroke-width="1"/>
+  <text x="630" y="370" font-size="8" text-anchor="middle" fill="white" font-weight="bold">Richebourg</text>
+
+  <!-- La Grande Rue (the narrow strip between R-Conti and La Tâche) -->
+  <polygon points="612,395 624,515 634,512 626,395" fill="#4a2d6e" stroke="#231140" stroke-width="1"/>
+
+  <!-- La Tâche -->
+  <polygon points="626,395 660,392 680,520 634,512" fill="#4a2d6e" stroke="#231140" stroke-width="1"/>
+  <text x="652" y="455" font-size="8" text-anchor="middle" fill="white" font-weight="bold">La Tâche</text>
+
+  <!-- Aux Malconsorts (1er south of La Tâche) -->
+  <polygon points="660,392 705,387 725,510 680,520" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="692" y="445" font-size="7" text-anchor="middle" fill="white" font-weight="bold">Malconsorts</text>
+
+  <!-- Cros Parantoux (above Richebourg) -->
+  <polygon points="600,288 650,284 645,338 605,341" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="625" y="313" font-size="7" text-anchor="middle" fill="white" font-weight="bold">Cros Parantoux</text>
+
+  <!-- Aux Brûlées -->
+  <polygon points="650,284 695,280 700,335 645,338" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="672" y="312" font-size="7" text-anchor="middle" fill="white">Aux Brûlées</text>
+
+  <!-- Les Petits Monts -->
+  <polygon points="695,280 730,278 738,330 700,335" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="715" y="307" font-size="7" text-anchor="middle" fill="white">Petits Monts</text>
+
+  <!-- Les Beaux Monts -->
+  <polygon points="730,278 778,275 790,335 738,330" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="757" y="305" font-size="7" text-anchor="middle" fill="white" font-weight="bold">Beaux Monts</text>
+
+  <!-- Les Rouges du Dessus (upper, far north Vosne, above Beaux Monts) -->
+  <polygon points="730,238 790,235 790,275 730,278" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="760" y="259" font-size="7" text-anchor="middle" fill="white" font-weight="bold">Rouges du Dessus</text>
+
+  <!-- Les Suchots (large 1er mid-Vosne) -->
+  <polygon points="700,335 790,335 800,425 705,420" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="755" y="385" font-size="9" text-anchor="middle" fill="white" font-weight="bold">Les Suchots</text>
+
+  <!-- Les Chaumes (lower 1er) -->
+  <polygon points="705,420 800,425 815,495 725,510" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="760" y="465" font-size="7" text-anchor="middle" fill="white">Les Chaumes</text>
+
+  <!-- Vosne village block -->
+  <rect x="660" y="620" width="80" height="42" fill="#a08560" opacity="0.75"/>
+  <text x="700" y="645" text-anchor="middle" font-size="11" font-weight="bold" fill="#3a2a18">Vosne-Romanée</text>
+
+  <text x="700" y="850" text-anchor="middle" font-size="16" font-weight="bold" fill="#3a2a18" letter-spacing="3" opacity="0.55">VOSNE-ROMANÉE</text>
+
+  <!-- =============================================================
+       FLAGEY-ÉCHEZEAUX (north of Vosne; GCs on the slope, village on plain)
+       ============================================================= -->
+
+  <!-- Échezeaux GC -->
+  <polygon points="790,275 920,272 938,395 800,400" fill="#4a2d6e" stroke="#231140" stroke-width="1.1"/>
+  <text x="862" y="335" font-size="11" text-anchor="middle" fill="white" font-weight="bold">Échezeaux</text>
+  <text x="862" y="350" font-size="8" text-anchor="middle" fill="white">Grand Cru</text>
+
+  <!-- Grands-Échezeaux GC -->
+  <polygon points="920,272 980,270 990,360 938,395" fill="#4a2d6e" stroke="#231140" stroke-width="1.3"/>
+  <text x="950" y="318" font-size="8" text-anchor="middle" fill="white" font-weight="bold">Grands-</text>
+  <text x="950" y="330" font-size="8" text-anchor="middle" fill="white" font-weight="bold">Échezeaux</text>
+
+  <!-- Flagey village -->
+  <rect x="900" y="650" width="60" height="32" fill="#a08560" opacity="0.75"/>
+  <text x="930" y="671" text-anchor="middle" font-size="9" font-weight="bold" fill="#3a2a18">Flagey-Éch.</text>
+
+  <!-- =============================================================
+       VOUGEOT
+       ============================================================= -->
+
+  <!-- Clos de Vougeot — the big 50 ha GC square from the slope to the road -->
+  <polygon points="980,270 1185,265 1200,455 985,460" fill="#4a2d6e" stroke="#231140" stroke-width="1.4"/>
+  <text x="1090" y="355" font-size="13" text-anchor="middle" fill="white" font-weight="bold">Clos de Vougeot</text>
+  <text x="1090" y="372" font-size="9" text-anchor="middle" fill="white">Grand Cru · 50 ha</text>
+
+  <!-- Les Cras 1er (upper Vougeot) -->
+  <polygon points="1185,258 1240,255 1250,332 1195,335" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="1218" y="295" font-size="8" text-anchor="middle" fill="white" font-weight="bold">Les Cras</text>
+
+  <!-- Clos de la Perrière 1er -->
+  <polygon points="1195,335 1250,332 1255,415 1200,420" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="1222" y="375" font-size="7" text-anchor="middle" fill="white">Clos de la</text>
+  <text x="1222" y="385" font-size="7" text-anchor="middle" fill="white">Perrière</text>
+
+  <!-- Vougeot village -->
+  <rect x="1100" y="630" width="62" height="36" fill="#a08560" opacity="0.75"/>
+  <text x="1130" y="652" text-anchor="middle" font-size="11" font-weight="bold" fill="#3a2a18">Vougeot</text>
+
+  <text x="1110" y="850" text-anchor="middle" font-size="16" font-weight="bold" fill="#3a2a18" letter-spacing="3" opacity="0.55">VOUGEOT</text>
+
+  <!-- =============================================================
+       CHAMBOLLE-MUSIGNY — north neighbor (partial, right edge)
+       ============================================================= -->
+
+  <!-- Musigny GC -->
+  <polygon points="1260,258 1340,255 1350,335 1265,340" fill="#4a2d6e" stroke="#231140" stroke-width="1"/>
+  <text x="1305" y="300" font-size="9" text-anchor="middle" fill="white" font-weight="bold">Musigny</text>
+
+  <!-- Bonnes Mares GC -->
+  <polygon points="1440,253 1530,250 1540,335 1445,340" fill="#4a2d6e" stroke="#231140" stroke-width="1"/>
+  <text x="1490" y="295" font-size="9" text-anchor="middle" fill="white" font-weight="bold">Bonnes</text>
+  <text x="1490" y="308" font-size="9" text-anchor="middle" fill="white" font-weight="bold">Mares</text>
+
+  <!-- Chambolle 1ers cluster -->
+  <polygon points="1350,260 1440,255 1445,360 1355,365" fill="#8e5da0" stroke="#5a3868" stroke-width="0.8"/>
+  <text x="1395" y="305" font-size="7" text-anchor="middle" fill="white">Amoureuses</text>
+  <text x="1395" y="318" font-size="7" text-anchor="middle" fill="white">Charmes</text>
+
+  <!-- Chambolle village -->
+  <rect x="1500" y="620" width="65" height="38" fill="#a08560" opacity="0.75"/>
+  <text x="1532" y="643" text-anchor="middle" font-size="10" font-weight="bold" fill="#3a2a18">Chambolle</text>
+
+  <text x="1500" y="850" text-anchor="middle" font-size="13" font-weight="bold" fill="#3a2a18" letter-spacing="2" opacity="0.55">CHAMBOLLE-MUSIGNY →</text>
+
+  <!-- =============================================================
+       ROADS — vineyard road through the lower slope + RN74 along plain
+       ============================================================= -->
+
+  <path d="M 50 580 Q 200 590, 350 580 T 700 590 T 1100 585 T 1450 580 T 1800 590"
+        stroke="white" stroke-width="6" fill="none"/>
+  <path d="M 50 580 Q 200 590, 350 580 T 700 590 T 1100 585 T 1450 580 T 1800 590"
+        stroke="#555" stroke-width="0.8" fill="none"/>
+
+  <rect x="0" y="935" width="1800" height="28" fill="#d8c896" opacity="0.55"/>
+  <line x1="0" y1="949" x2="1800" y2="949" stroke="#aa8855" stroke-width="3" stroke-dasharray="14,8"/>
+  <text x="1745" y="930" font-size="11" font-weight="bold" fill="#7a5530">RN74</text>
+  <text x="100" y="930" font-size="11" font-weight="bold" fill="#7a5530">← Beaune</text>
+  <text x="1700" y="980" font-size="11" font-weight="bold" fill="#7a5530">Dijon →</text>
+
+  <!-- =============================================================
+       PINS — Owned (red, 1-5) + Raeders shortlist (blue, A-E)
+       ============================================================= -->
+
+  <!-- O1 Mugnier 2018 NSG Clos de la Maréchale ×4 -->
+  <circle cx="98" cy="455" r="14" fill="#c0392b" stroke="white" stroke-width="3"/>
+  <text x="98" y="460" text-anchor="middle" font-size="13" fill="white" font-weight="bold">1</text>
+
+  <!-- O5 Ponnelle 1983 NSG Clos des Corvées -->
+  <circle cx="158" cy="435" r="10" fill="#c0392b" stroke="white" stroke-width="2"/>
+  <text x="158" y="439" text-anchor="middle" font-size="11" fill="white" font-weight="bold">5</text>
+
+  <!-- O2 Brisset 2023 NSG Aux Thorey -->
+  <circle cx="497" cy="412" r="10" fill="#c0392b" stroke="white" stroke-width="2"/>
+  <text x="497" y="416" text-anchor="middle" font-size="11" fill="white" font-weight="bold">2</text>
+
+  <!-- O3 Brisset 2023 Vosne 1er Les Rouges du Dessus -->
+  <circle cx="760" cy="255" r="10" fill="#c0392b" stroke="white" stroke-width="2"/>
+  <text x="760" y="259" text-anchor="middle" font-size="11" fill="white" font-weight="bold">3</text>
+
+  <!-- O4 Odoul-Coquard 2021 Vosne VV (village) -->
+  <circle cx="705" cy="585" r="10" fill="#c0392b" stroke="white" stroke-width="2"/>
+  <text x="705" y="589" text-anchor="middle" font-size="11" fill="white" font-weight="bold">4</text>
+
+  <!-- R-A Henri Gouges NSG 2017 (central NSG 1ers / town) -->
+  <circle cx="325" cy="440" r="10" fill="#2980b9" stroke="white" stroke-width="2"/>
+  <text x="325" y="444" text-anchor="middle" font-size="11" fill="white" font-weight="bold">A</text>
+
+  <!-- R-B Mugnier Clos de la Maréchale 2022 (same plot as O1) -->
+  <circle cx="98" cy="495" r="10" fill="#2980b9" stroke="white" stroke-width="2"/>
+  <text x="98" y="499" text-anchor="middle" font-size="11" fill="white" font-weight="bold">B</text>
+
+  <!-- R-C Bertagna Vougeot Les Cras 1er Cru -->
+  <circle cx="1218" cy="295" r="10" fill="#2980b9" stroke="white" stroke-width="2"/>
+  <text x="1218" y="299" text-anchor="middle" font-size="11" fill="white" font-weight="bold">C</text>
+
+  <!-- R-D Bertagna Vosne Les Beaux Monts -->
+  <circle cx="757" cy="307" r="10" fill="#2980b9" stroke="white" stroke-width="2"/>
+  <text x="757" y="311" text-anchor="middle" font-size="11" fill="white" font-weight="bold">D</text>
 
   <!-- R-E Lamarche Échezeaux GC -->
-  <circle cx="325" cy="335" r="11" fill="#2980b9" stroke="white" stroke-width="2"/>
-  <text x="325" y="339" text-anchor="middle" font-size="11" fill="white" font-weight="bold">E</text>
+  <circle cx="862" cy="335" r="10" fill="#2980b9" stroke="white" stroke-width="2"/>
+  <text x="862" y="339" text-anchor="middle" font-size="11" fill="white" font-weight="bold">E</text>
 
-  <!-- R-D Bertagna Vosne Les Beaux Monts (northern Vosne 1er) -->
-  <circle cx="435" cy="575" r="11" fill="#2980b9" stroke="white" stroke-width="2"/>
-  <text x="435" y="579" text-anchor="middle" font-size="11" fill="white" font-weight="bold">D</text>
+  <!-- =============================================================
+       LEGEND
+       ============================================================= -->
 
-  <!-- R-A Henri Gouges NSG (town/central) -->
-  <circle cx="510" cy="1010" r="11" fill="#2980b9" stroke="white" stroke-width="2"/>
-  <text x="510" y="1014" text-anchor="middle" font-size="11" fill="white" font-weight="bold">A</text>
+  <rect x="40" y="990" width="1720" height="195" fill="white" stroke="#888" stroke-width="1"/>
 
-  <!-- R-B Mugnier Clos de la Maréchale 2022 (same monopole as O1) -->
-  <circle cx="305" cy="1145" r="11" fill="#2980b9" stroke="white" stroke-width="2"/>
-  <text x="305" y="1149" text-anchor="middle" font-size="11" fill="white" font-weight="bold">B</text>
+  <!-- Classification swatches -->
+  <text x="55" y="1014" font-size="13" font-weight="bold" fill="#222">Classification</text>
+  <rect x="55" y="1024" width="22" height="14" fill="#4a2d6e" stroke="#231140"/>
+  <text x="85" y="1036" font-size="11" fill="#222">Grand Cru</text>
+  <rect x="55" y="1044" width="22" height="14" fill="#8e5da0" stroke="#5a3868"/>
+  <text x="85" y="1056" font-size="11" fill="#222">Premier Cru</text>
+  <rect x="55" y="1064" width="22" height="14" fill="#d4b1c8"/>
+  <text x="85" y="1076" font-size="11" fill="#222">Commune AOC</text>
+  <rect x="55" y="1084" width="22" height="14" fill="#ece4d2" stroke="#aaa"/>
+  <text x="85" y="1096" font-size="11" fill="#222">Other vineyard</text>
+  <rect x="55" y="1104" width="22" height="14" fill="#a8be78" stroke="#778e48"/>
+  <text x="85" y="1116" font-size="11" fill="#222">Woods</text>
+  <rect x="55" y="1124" width="22" height="14" fill="#a08560" opacity="0.75"/>
+  <text x="85" y="1136" font-size="11" fill="#222">Village</text>
+  <line x1="55" y1="1152" x2="77" y2="1152" stroke="#665" stroke-width="1.5" stroke-dasharray="4,2"/>
+  <text x="85" y="1156" font-size="10" fill="#222">250 m contour</text>
 
-  <!-- =============================== LEGEND =============================== -->
-  <rect x="60" y="1240" width="880" height="240" fill="white" stroke="#aaa"/>
+  <!-- Owned -->
+  <circle cx="265" cy="1010" r="9" fill="#c0392b" stroke="white" stroke-width="2"/>
+  <text x="282" y="1015" font-size="13" font-weight="bold" fill="#c0392b">Owned — 5 cuvées · 11 bottles</text>
+  <text x="265" y="1036" font-size="10" fill="#222"><tspan font-weight="bold">1</tspan>  Jacques-Frédéric Mugnier 2018 NSG 1er Clos de la Maréchale ×4 — $135 → 2033–2065 ★ anchor</text>
+  <text x="265" y="1053" font-size="10" fill="#222"><tspan font-weight="bold">2</tspan>  Maison Pierre Brisset 2023 NSG 1er Aux Thorey ×2 — $95 → 2028–2043</text>
+  <text x="265" y="1070" font-size="10" fill="#222"><tspan font-weight="bold">3</tspan>  Maison Pierre Brisset 2023 Vosne-Romanée 1er Les Rouges du Dessus ×3 — $175 → 2029–2046</text>
+  <text x="265" y="1087" font-size="10" fill="#222"><tspan font-weight="bold">4</tspan>  Domaine Odoul-Coquard 2021 Vosne-Romanée Vieilles Vignes ×1 — $162 → 2024–2036</text>
+  <text x="265" y="1104" font-size="10" fill="#222"><tspan font-weight="bold">5</tspan>  Pierre Ponnelle 1983 NSG 1er Clos des Corvées ×1 — $99 (mature, now ≈$35)</text>
 
-  <!-- Owned legend -->
-  <circle cx="80" y="1265" r="8" fill="#c0392b"/>
-  <circle cx="80" cy="1265" r="8" fill="#c0392b"/>
-  <text x="98" y="1270" font-size="14" font-weight="bold" fill="#c0392b">Owned — 5 cuvées · 11 bottles</text>
+  <!-- Raeders -->
+  <circle cx="900" cy="1010" r="9" fill="#2980b9" stroke="white" stroke-width="2"/>
+  <text x="917" y="1015" font-size="13" font-weight="bold" fill="#2980b9">Raeders shortlist — 5 picks (curation-filtered)</text>
+  <text x="900" y="1036" font-size="10" fill="#222"><tspan font-weight="bold">A</tspan>  Domaine Henri Gouges NSG 2017 — <tspan font-weight="bold">$80</tspan> · WS 93 · ★ best value / historic NSG grower</text>
+  <text x="900" y="1053" font-size="10" fill="#222"><tspan font-weight="bold">B</tspan>  Jacques-Frédéric Mugnier NSG 1er Clos de la Maréchale 2022 — <tspan font-weight="bold">$230</tspan> · deepen anchor</text>
+  <text x="900" y="1070" font-size="10" fill="#222"><tspan font-weight="bold">C</tspan>  Domaine Bertagna Vougeot Les Cras 1er Cru 2022 — <tspan font-weight="bold">$150</tspan> · domaine on home turf</text>
+  <text x="900" y="1087" font-size="10" fill="#222"><tspan font-weight="bold">D</tspan>  Bertagna Vosne-Romanée Les Beaux Monts 2022 — <tspan font-weight="bold">$140</tspan> · rare Vosne 1er &lt; $150</text>
+  <text x="900" y="1104" font-size="10" fill="#222"><tspan font-weight="bold">E</tspan>  Nicole Lamarche Échezeaux Grand Cru 2020 — <tspan font-weight="bold">$280</tspan> · grand cru &lt; $300</text>
 
-  <text x="80" y="1295" font-size="11" fill="#222"><tspan font-weight="bold">1</tspan>  Jacques-Frédéric Mugnier  ·  NSG 1er Clos de la Maréchale 2018  ·  ×4  ·  $135  ·  drink 2033–2065  ★ anchor</text>
-  <text x="80" y="1312" font-size="11" fill="#222"><tspan font-weight="bold">2</tspan>  Maison Pierre Brisset  ·  NSG 1er Aux Thorey 2023  ·  ×2  ·  $95  ·  2028–2043</text>
-  <text x="80" y="1329" font-size="11" fill="#222"><tspan font-weight="bold">3</tspan>  Maison Pierre Brisset  ·  Vosne 1er Les Rouges du Dessus 2023  ·  ×3  ·  $175  ·  2029–2046</text>
-  <text x="80" y="1346" font-size="11" fill="#222"><tspan font-weight="bold">4</tspan>  Domaine Odoul-Coquard  ·  Vosne-Romanée Vieilles Vignes 2021  ·  ×1  ·  $162  ·  2024–2036</text>
-  <text x="80" y="1363" font-size="11" fill="#222"><tspan font-weight="bold">5</tspan>  Pierre Ponnelle  ·  NSG 1er Clos des Corvées 1983  ·  ×1  ·  $99 (now $35, mature)</text>
-
-  <!-- Raeders legend -->
-  <circle cx="80" cy="1395" r="8" fill="#2980b9"/>
-  <text x="98" y="1400" font-size="14" font-weight="bold" fill="#2980b9">Raeders shortlist — 5 picks (curation-filtered)</text>
-
-  <text x="80" y="1425" font-size="11" fill="#222"><tspan font-weight="bold">A</tspan>  Domaine Henri Gouges  ·  NSG 2017  ·  <tspan font-weight="bold">$80</tspan>  ·  WS 93  ·  ★ best value / historic NSG grower</text>
-  <text x="80" y="1442" font-size="11" fill="#222"><tspan font-weight="bold">B</tspan>  Jacques-Frédéric Mugnier  ·  NSG 1er Clos de la Maréchale 2022  ·  <tspan font-weight="bold">$230</tspan>  ·  deepen anchor position</text>
-  <text x="80" y="1459" font-size="11" fill="#222"><tspan font-weight="bold">C</tspan>  Domaine Bertagna  ·  Vougeot Les Cras 1er Cru 2022  ·  <tspan font-weight="bold">$150</tspan>  ·  domaine on home turf</text>
-  <text x="80" y="1476" font-size="11" fill="#222"><tspan font-weight="bold">D</tspan>  Bertagna  ·  Vosne-Romanée Les Beaux Monts 2022  ·  <tspan font-weight="bold">$140</tspan>  ·  rare Vosne 1er &lt;$150</text>
-
-  <text x="510" y="1476" font-size="11" fill="#222"><tspan font-weight="bold">E</tspan>  Nicole Lamarche  ·  Échezeaux GC 2020  ·  <tspan font-weight="bold">$280</tspan>  ·  GC &lt;$300</text>
+  <text x="900" y="1170" text-anchor="middle" font-size="9" fill="#888" font-style="italic">Schematic — appellation boundaries approximated from the World Atlas of Wine. North is right; slope rises north-west toward the woods; RN74 runs along the eastern plain.</text>
 </svg>
