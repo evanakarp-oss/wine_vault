@@ -228,3 +228,7 @@ Filed `wiki/_views/gap_csw_buy_candidates_2026_05.md` answering "what are top ca
 ## [2026-05-26] view | gap_csw_wk_overlay_2026_05: 138 CSW champions with William Kelley signal
 
 Filed `wiki/_views/gap_csw_wk_overlay_2026_05.md`. Overlays WK Berserkers post count (from `raw/berserkers/William_Kelley/_post_index.csv`, 4,729 posts) onto the CSW-champion gap list. 40/138 (28%) have any WK signal. Heavy converge (§1, WK≥5): Duroché, Clos Rougeard, Domaine Levet, Desvignes, Cécile Tremblay, Larmandier-Bernier, Roilette, Allemand, Chandon de Briailles, Montille, Trapet, Willi Schaefer, Michel Mallard. Note: count is 138 not 143 (recompute 12d later; cellar grew or merges).
+
+## [2026-05-26] view | wb_top100_csw_wk_matrix_2026_05: 22 CSW-covered producers from WB top 100 × Kelley signal
+
+Filed `wiki/_views/wb_top100_csw_wk_matrix_2026_05.md`. Crosses the Wine Berserkers "Top 10 in your cellar" top 100 (1,089 posts, ~5,000 mentions) against CSW + WK signals. §1: 16 producers with any CSW article (sorted by WK desc). §2: 6 producers with wiki page but no CSW coverage (WK signal becomes deciding). §3: 78 unmapped WB top 100 names = vault gaps. Triple-converge picks: Allemand (natural Cornas, WK 8, WB#83), Schaefer (Mosel grower, WK 6, WB#15).
