@@ -360,9 +360,14 @@ def run(fix: bool) -> int:
             continue
         fm, _ = parts
         articles = get_int_under(fm, "chambers", "article_count")
-        if articles == 0:
+        # Also count body article sections — some legacy pages have
+        # `article_count: 0` in frontmatter but real `### [title]` rows
+        # in the body. Those still create CSW matcher collisions.
+        body_articles = len(re.findall(r"^### ", text, re.MULTILINE))
+        effective = max(articles, body_articles)
+        if effective == 0:
             continue
-        coverage[p.stem] = articles
+        coverage[p.stem] = effective
         # Capture aliases for cross-page disambiguation check
         am = re.search(r'^aliases:\s*\[(.*?)\]\s*$', fm, re.MULTILINE)
         if am and am.group(1).strip():

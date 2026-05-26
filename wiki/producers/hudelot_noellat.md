@@ -2,7 +2,7 @@
 type: producer
 name: Hudelot Noellat
 slug: hudelot_noellat
-aliases: []
+aliases: ["Hudelot-Noëllat", "Hudelot-Noellat"]
 country: France
 region: Burgundy
 sub_region: ''

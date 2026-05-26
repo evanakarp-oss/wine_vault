@@ -88,6 +88,23 @@ COLLISION_MERGES: list[tuple[str, str, list[str]]] = [
     ("paris",      "vincent_paris",              ["Paris"]),
     ("tissot",     "stephane_tissot",            ["Tissot", "Domaine Tissot"]),
     ("produttori", "produttori_del_barbaresco",  ["Produttori"]),
+    # Second pass (2026-05-26): surfaced by the 2026-05-10 audit bundle
+    # but missed by lint.py's article_count>0 gate (these all had
+    # frontmatter article_count=0 despite carrying body content).
+    ("lorenzon",   "bruno_lorenzon",             ["Lorenzon", "Domaine Lorenzon"]),
+    ("guyon",      "jean_pierre_guyon",          ["Guyon", "Domaine Guyon"]),
+    ("tawse",      "marchand_tawse",             ["Tawse"]),
+    ("bursin",     "agathe_bursin",              ["Bursin"]),
+    # Schäfer-Fröhlich (Nahe) — three transliteration variants. Keep the
+    # one with article_count set; fold the others as aliases.
+    ("schaefer_frohlich", "schafer-frohlich",    ["Schaefer-Frohlich",
+                                                  "Schaefer Frohlich",
+                                                  "Schäfer-Fröhlich"]),
+    ("schafer_frohlich",  "schafer-frohlich",    ["Schafer Frohlich"]),
+    # Third pass — surfaced after lint.py was tightened to count body
+    # article sections (not just frontmatter article_count).
+    ("audoin",     "charles_audoin",             ["Audoin", "Domaine Audoin"]),
+    ("lafouge",    "gilles__jean__maxime_lafouge", ["Lafouge", "Domaine Lafouge"]),
 ]
 
 # Magnien is special: `magnien.md` is the false-positive trap. Its
@@ -105,6 +122,17 @@ MAGNIEN_ALIASES: dict[str, list[str]] = {
 DISAMBIG_ALIASES: dict[str, list[str]] = {
     "bernard_baudry": ["Bernard Baudry"],
     "domaine_baudry": ["Domaine Baudry", "Matthieu Baudry"],
+    # Bordeaux Ségur pair — Calon Ségur (Saint-Estèphe) vs Phélan Ségur
+    # (Saint-Estèphe), distinct châteaux, share only the historical Ségur
+    # name. Aliases prevent the CSW matcher from cross-counting.
+    "chateau_calon_segur":  ["Calon Ségur", "Calon-Ségur"],
+    "chateau_phelan_segur": ["Phélan Ségur", "Phelan-Segur", "Phelan Segur"],
+    # Burgundy Noëllat trio — Domaine Georges Noëllat (Vosne-Romanée),
+    # Hudelot-Noëllat (Vougeot), and Michel Noëllat (Vosne-Romanée) are
+    # all distinct family-branch domaines.
+    "georges_noellat":  ["Georges Noëllat", "Domaine Georges Noëllat"],
+    "hudelot_noellat":  ["Hudelot-Noëllat", "Hudelot-Noellat"],
+    "michel_noellat":   ["Michel Noëllat", "Domaine Michel Noëllat"],
 }
 
 

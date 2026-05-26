@@ -26,6 +26,34 @@ _commit `36ec32e`_
 
 _commit `f0cecd1`_
 
+## [2026-05-26] lint | second-pass dedup from 2026-05-10 audit bundle (lint check tightened)
+
+User shared `wine_vault_cleanup_bundle.zip` (Drive ID
+`1-hEdGpaPhbEYRQpssLS1GEhrWCdqFwcE`) — a 2026-05-10 cleanup plan that
+predated the git bootstrap. Most of its goals were already met by
+prior commits (wiki/wiki/ Berserkers content merged, schema docs
+updated, 60 lint issues cleared, GitHub set up). The bundle's
+`SESSION_FINDINGS.md` surfaced 5 dedup pairs my earlier lint missed —
+they had `article_count: 0` in frontmatter but real `### [...]`
+article sections in the body, so the surname-collision check (gated
+on article_count > 0) didn't fire.
+
+Tightened `scripts/lint.py` to use `max(frontmatter article_count,
+body ### section count)` as the effective coverage signal. That
+surfaced 2 more pairs (audoin/charles_audoin, lafouge/...) plus 2
+sets of genuinely-distinct producers (Bordeaux Ségur pair, Burgundy
+Noëllat trio) needing aliases.
+
+Total: 8 false-positive bare-slug pages deleted; 7 alias entries
+added; 5 disambiguation alias sets added for distinct same-surname
+producers.
+
+Deleted: `lorenzon`, `guyon`, `tawse`, `bursin`, `schaefer_frohlich`,
+`schafer_frohlich`, `audoin`, `lafouge` (all bare slugs that were
+CSW-matcher false positives).
+
+Producer count: 368 → 360. Lint: 0.
+
 ## [2026-05-26] lint | Drive cleanup: drop _drive_sync + wine_vault_fromdocuments references
 
 Approved to delete from Drive:

@@ -2,7 +2,7 @@
 type: producer
 name: Gilles / Jean / Maxime Lafouge
 slug: gilles__jean__maxime_lafouge
-aliases:
+aliases: ["Lafouge", "Domaine Lafouge"]
 - Domaine Lafouge
 - Jean Lafouge
 - Lafouge

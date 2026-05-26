@@ -4,15 +4,15 @@ name: "Chambers Street Wines"
 slug: chambers
 url: "https://chambersstwines.com"
 location: "NYC"
-producer_count: 186
+producer_count: 185
 updated: 2026-05-26
-tags: []
 _source: wiki/_resources.md
+tags: []
 ---
 # Chambers Street Wines
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**186 producers** from this retailer are tracked in the wiki.
+**185 producers** from this retailer are tracked in the wiki.
 
 ## Most-championed producers
 
@@ -21,7 +21,6 @@ _source: wiki/_resources.md
 | [[domaine_baudry|Domaine Baudry]] | 20 | 45 | 2006 | 2026 |
 | [[domaine_pierre_gonon|Domaine Pierre Gonon]] | 9 | 17 | 2006 | 2025 |
 | [[stephane_guion|Stéphane Guion]] | 9 | 17 | 2008 | 2026 |
-| [[lafouge|Lafouge]] | 8 | 13 | 2007 | 2025 |
 | [[agrapart|Agrapart]] | 7 | 9 | 2013 | 2026 |
 | [[weiser_kunstler|Weiser-Künstler]] | 6 | 15 | 2011 | 2026 |
 | [[brovia|Brovia]] | 6 | 13 | 2008 | 2026 |
@@ -68,6 +67,7 @@ _source: wiki/_resources.md
 | [[domaine_boisson|Domaine Boisson]] | 3 | 4 | 2025 | 2026 |
 | [[domaine_pont_de_breux|Domaine Pont de Breux]] | 3 | 4 | 2014 | 2024 |
 | [[ferme_saint-martin|Ferme Saint-Martin]] | 3 | 4 | 2015 | 2025 |
+| [[chateau_musar|Chateau Musar]] | 3 | 3 | 2013 | 2022 |
 
 *Compiled by `scripts/build_rollups.py`.*
 <!-- END AUTO-GENERATED -->

@@ -2,7 +2,7 @@
 type: producer
 name: Bruno Lorenzon
 slug: bruno_lorenzon
-aliases: []
+aliases: ["Lorenzon", "Domaine Lorenzon"]
 country: France
 region: Burgundy
 sub_region: ''

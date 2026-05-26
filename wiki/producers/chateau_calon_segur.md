@@ -2,7 +2,7 @@
 type: producer
 name: Château Calon-Ségur
 slug: chateau_calon_segur
-aliases:
+aliases: ["Calon Ségur", "Calon-Ségur"]
 - Chateau Calon Segur
 country: France
 region: Bordeaux

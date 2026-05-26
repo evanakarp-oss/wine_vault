@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 899
+total_pages: 891
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**899 pages indexed.**
+**891 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -21,7 +21,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 ## Region rollups
 
 - [[Abruzzo_Producers|Abruzzo Producers]] — **1 producers** tracked.
-- [[Alsace_Producers|Alsace Producers]] — **6 producers** tracked.
+- [[Alsace_Producers|Alsace Producers]] — **5 producers** tracked.
 - [[Alto_Adige_Sudtirol_Producers|Alto Adige Sudtirol Producers]] — **2 producers** tracked.
 - [[Baden_Producers|Baden Producers]] — **4 producers** tracked.
 - [[Basque_Country_Producers|Basque Country Producers]] — **1 producers** tracked.
@@ -29,7 +29,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Beaujolais_Producers|Beaujolais Producers]] — **4 producers** tracked.
 - [[Bierzo_Producers|Bierzo Producers]] — **1 producers** tracked.
 - [[Bordeaux_Producers|Bordeaux Producers]] — **25 producers** tracked.
-- [[Burgundy_Producers|Burgundy Producers]] — **90 producers** tracked.
+- [[Burgundy_Producers|Burgundy Producers]] — **85 producers** tracked.
 - [[California_Producers|California Producers]] — **10 producers** tracked.
 - [[Catalonia_Producers|Catalonia Producers]] — **1 producers** tracked.
 - [[Champagne_Producers|Champagne Producers]] — **16 producers** tracked.
@@ -43,7 +43,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Marche_Producers|Marche Producers]] — **1 producers** tracked.
 - [[Mendoza_Producers|Mendoza Producers]] — **62 producers** tracked.
 - [[Mosel_Producers|Mosel Producers]] — **19 producers** tracked.
-- [[Nahe_Producers|Nahe Producers]] — **5 producers** tracked.
+- [[Nahe_Producers|Nahe Producers]] — **3 producers** tracked.
 - [[Patagonia_Producers|Patagonia Producers]] — **9 producers** tracked.
 - [[Pfalz_Producers|Pfalz Producers]] — **2 producers** tracked.
 - [[Piedmont_Producers|Piedmont Producers]] — **20 producers** tracked.
@@ -260,7 +260,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_367 producers across 37 regions._
+_357 producers across 37 regions._
 
 ### Abruzzo
 
@@ -270,7 +270,6 @@ _367 producers across 37 regions._
 
 - [[agathe_bursin|Agathe Bursin]] — Alsace · DTE 1
 - [[beck-hartweg|Beck-Hartweg]] — Alsace / Dambach-la-Ville · organic · CSW ★4/4
-- [[bursin|Bursin]] — Alsace · DTE 3
 - [[dirler_cade|Dirler Cadé]] — Alsace · DTE 5
 - [[kientzler|Kientzler]] — Alsace · DTE 1
 - [[laurent_barth|Laurent Barth]] — Alsace / Bennwihr · biodynamic, natural · CSW ★3/5
@@ -309,7 +308,6 @@ _367 producers across 37 regions._
 ### Bordeaux
 
 - [[chateau_brandeau|Chateau Brandeau]] — Bordeaux / Castillon-Côtes de Bordeaux · organic · CSW ★1/2
-- [[chateau_calon_segur|Château Calon-Ségur]] — Bordeaux / Saint-Estèphe · sustainable · CSW 1 · Raeder 3
 - [[chateau_cantemerle|Château Cantemerle]] — Bordeaux / Haut-Médoc · CSW 1 · Raeder 2
 - [[chateau_ducru_beaucaillou|Château Ducru-Beaucaillou]] — Bordeaux / Saint-Julien · Raeder 2
 - [[chateau_fonroque|Chateau Fonroque]] — Bordeaux / Saint-Emilion Grand Cru · biodynamic · CSW ★1/4
@@ -338,7 +336,6 @@ _367 producers across 37 regions._
 
 - [[amelie_berthaut|Amélie Berthaut]] — Burgundy · CSW 1 · DTE 1
 - [[arnoux_lachaux|Arnoux Lachaux]] — Burgundy · DTE 16
-- [[audoin|Audoin]] — Burgundy · DTE 7
 - [[barraud|Barraud]] — Burgundy · DTE 5
 - [[benoit_courault|Benoit Courault]] — Burgundy / Anjou (Loire) · natural · CSW ★3/11
 - [[berthaut-gerbet|Berthaut-Gerbet]] — Burgundy / Fixin / Gevrey · organic · CSW ★1/1
@@ -381,10 +378,8 @@ _367 producers across 37 regions._
 - [[georges_noellat|Georges Noëllat]] — Burgundy · DTE 13
 - [[gerard_julien|Gerard Julien]] — Burgundy · DTE 5
 - [[gerard_mugneret|Gerard Mugneret]] — Burgundy / Vosne-Romanée · organic · CSW ★2/2 · DTE 6
-- [[gilles__jean__maxime_lafouge|Gilles / Jean / Maxime Lafouge]] — Burgundy / Auxey-Duresses · organic
 - [[goisot|Goisot]] — Burgundy · CSW 1 · DTE 7
 - [[guillot_broux|Guillot-Broux]] — Burgundy · CSW ★1/3 · DTE 2
-- [[guyon|Guyon]] — Burgundy · DTE 1
 - [[henri_magnien|Henri Magnien]] — Burgundy · DTE 15
 - [[heresztyn-mazzini|Heresztyn-Mazzini]] — Burgundy / Gevrey-Chambertin · CSW ★1/1
 - [[hudelot_noellat|Hudelot Noellat]] — Burgundy · DTE 12
@@ -396,11 +391,9 @@ _367 producers across 37 regions._
 - [[jean_pierre_guyon|Jean Pierre Guyon]] — Burgundy · DTE 21
 - [[joseph_voillot|Joseph Voillot]] — Burgundy / Volnay / Pommard · CSW ★2/4
 - [[julien_guillot__vignes_du_maynes|Julien Guillot / Vignes du Maynes]] — Burgundy / Mâcon / Cruzille · biodynamic, natural
-- [[lafouge|Lafouge]] — Burgundy · CSW ★8/13 · DTE 7
 - [[latour_giraud|Latour Giraud]] — Burgundy · DTE 10
 - [[lignier-michelot|Lignier-Michelot]] — Burgundy / Morey-Saint-Denis · organic · CSW ★2/3
 - [[loersch|Loersch]] — Burgundy · DTE 9
-- [[lorenzon|Lorenzon]] — Burgundy · DTE 9
 - [[louis_latour|Louis Latour]] — Burgundy / Beaune · Raeder 9
 - [[lucien_boillot|Lucien Boillot]] — Burgundy / Gevrey-Chambertin · Raeder 9
 - [[marchand_tawse|Marchand Tawse]] — Burgundy · DTE 25
@@ -424,7 +417,6 @@ _367 producers across 37 regions._
 - [[stephane_magnien|Stéphane Magnien]] — Burgundy / Morey-Saint-Denis · organic · CSW ★4/6
 - [[sylvain_pataille|Sylvain Pataille]] — Burgundy / Marsannay · biodynamic · CSW ★1/3
 - [[sylvie_esmonin|Sylvie Esmonin]] — Burgundy / Gevrey-Chambertin · organic · CSW ★6/8
-- [[tawse|Tawse]] — Burgundy · DTE 2
 - [[thomas_et_jean_marc_bouley|Thomas et Jean Marc Bouley]] — Burgundy · DTE 10
 
 ### California
@@ -606,9 +598,7 @@ _367 producers across 37 regions._
 
 - [[donnhoff|Dönnhoff]] — Nahe · CSW ★2/10
 - [[emrich_schonleber|Emrich-Schönleber]] — Nahe · organic · CSW ★2/3
-- [[schaefer_frohlich|Schaefer Frohlich]] — Nahe · DTE 4
 - [[schafer-frohlich|Schafer-Frohlich]] — Nahe · CSW ★2/6
-- [[schafer_frohlich|Schafer Frohlich]] — Nahe · DTE 5
 
 ### Patagonia
 
@@ -940,6 +930,8 @@ _294 cuvée-vintage entries · ~631 bottles · 187 producers._
 ## Other
 
 - [[FiFi_Philippe_Essome|Fifi Philippe Essome]] — Europe. Small natural portfolio.
+- [[chateau_calon_segur|Chateau Calon Segur]] — _Saint-Estèphe 3rd-growth, Suravenir-owned since 2012, sustainable farming. Strong recent vintages and aged value._
+- [[gilles__jean__maxime_lafouge|Gilles  Jean  Maxime Lafouge]] — > 12/29/25 - We've been enjoying the wines of the Lafouge family in Auxey-Duresses for 30 years. It’s a pleasure to have worked with three d…
 - [[stephane_tissot|Stephane Tissot]] — > 12/6/25 - #### Featuring Overnoy-Crinquand, La Loue, Stéphane Tissot, Ratte, Touraize, Bottes Rouges, Les Mathenys, L'Aigle à Deux Têtes,…
 
 ---

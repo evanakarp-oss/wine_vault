@@ -2,17 +2,16 @@
 type: region_index
 region: "Burgundy"
 updated: 2026-05-26
-producer_count: 90
+producer_count: 85
 ---
 
 # Burgundy — Producer Index
 
-**90 producers** tracked.
+**85 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
 | [[jean-claude_rateau|Jean-Claude Rateau]] | France | Beaune | 13 | — | — | — | — |
-| [[lafouge|Lafouge]] | France | '' | 13 | 7 | — | — | — |
 | [[benoit_courault|Benoit Courault]] | France | Anjou (Loire) | 11 | — | — | — | — |
 | [[domaine_de_montille|Domaine de Montille]] | France | Volnay / Pommard | 11 | — | — | — | — |
 | [[domaine_simon_bize|Domaine Simon Bize]] | France | Savigny-lès-Beaune | 10 | — | — | — | — |
@@ -67,7 +66,6 @@ producer_count: 90
 | [[simon_colin|Simon Colin]] | France | Chassagne-Montrachet | 1 | — | — | — | — |
 | [[sirugue|Sirugue]] | France | — | 1 | 4 | — | — | — |
 | [[arnoux_lachaux|Arnoux Lachaux]] | France | '' | — | 16 | — | — | — |
-| [[audoin|Audoin]] | France | '' | — | 7 | — | — | — |
 | [[barraud|Barraud]] | France | '' | — | 5 | — | — | — |
 | [[charles_audoin|Charles Audoin]] | France | '' | — | 19 | — | — | — |
 | [[chicotot|Chicotot]] | France | '' | — | 20 | — | — | — |
@@ -78,7 +76,6 @@ producer_count: 90
 | [[georges_noellat|Georges Noëllat]] | France | '' | — | 13 | — | — | — |
 | [[gerard_julien|Gerard Julien]] | France | '' | — | 5 | — | — | — |
 | [[gilles__jean__maxime_lafouge|Gilles / Jean / Maxime Lafouge]] | France | Auxey-Duresses | — | — | — | — | — |
-| [[guyon|Guyon]] | France | '' | — | 1 | — | — | — |
 | [[henri_magnien|Henri Magnien]] | France | '' | — | 15 | — | — | — |
 | [[hudelot_noellat|Hudelot Noellat]] | France | '' | — | 12 | — | — | — |
 | [[jean_collet|Jean Collet]] | France | '' | — | 3 | — | — | — |
@@ -88,7 +85,6 @@ producer_count: 90
 | [[julien_guillot__vignes_du_maynes|Julien Guillot / Vignes du Maynes]] | France | Mâcon / Cruzille | — | — | — | — | — |
 | [[latour_giraud|Latour Giraud]] | France | — | — | 10 | — | — | — |
 | [[loersch|Loersch]] | France | — | — | 9 | — | — | — |
-| [[lorenzon|Lorenzon]] | France | '' | — | 9 | — | — | — |
 | [[louis_latour|Louis Latour]] | France | Beaune | — | — | 9 | — | — |
 | [[lucien_boillot|Lucien Boillot]] | France | Gevrey-Chambertin | — | — | 9 | — | — |
 | [[marchand_tawse|Marchand Tawse]] | France | '' | — | 25 | — | — | — |
@@ -99,7 +95,6 @@ producer_count: 90
 | [[patrice_rion|Patrice Rion]] | France | — | — | 3 | — | — | — |
 | [[roty|Roty]] | France | — | — | 1 | — | — | — |
 | [[sigaut|Sigaut]] | France | — | — | 9 | — | — | — |
-| [[tawse|Tawse]] | France | '' | — | 2 | — | — | — |
 | [[thomas_et_jean_marc_bouley|Thomas et Jean Marc Bouley]] | France | — | — | 10 | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

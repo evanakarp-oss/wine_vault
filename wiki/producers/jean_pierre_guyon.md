@@ -2,7 +2,7 @@
 type: producer
 name: Jean Pierre Guyon
 slug: jean_pierre_guyon
-aliases: []
+aliases: ["Guyon", "Domaine Guyon"]
 country: France
 region: Burgundy
 sub_region: ''
