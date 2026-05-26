@@ -6,10 +6,13 @@ producer_count: 17
 focus: ['Burgundy', 'Jura', 'Mosel', 'Nahe']
 notable_producers: ['Clemens Busch', 'Knebel', 'Weiser-Künstler', 'Immich-Batterieberg', 'Stéphane Tissot']
 updated: 2026-05-26
+tags: ['grower', 'grower-champagne']
+_source: wiki/_resources.md
+url: "https://www.skurnik.com"
 ---
-
 # Skurnik
 
+<!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
 **17 producer(s)** in the vault imported by Skurnik (US).
 
 | Producer | Country | Region | CSW | Cellar |
@@ -33,3 +36,4 @@ updated: 2026-05-26
 | [[peter_lauer__weingut_lauer|Peter Lauer / Weingut Lauer]] | Germany | Mosel | — | — |
 
 *Compiled by `scripts/build_rollups.py`.*
+<!-- END AUTO-GENERATED -->

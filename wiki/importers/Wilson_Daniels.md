@@ -10,6 +10,7 @@ updated: 2026-05-26
 
 # Wilson Daniels
 
+<!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
 **1 producer(s)** in the vault imported by Wilson Daniels (US).
 
 | Producer | Country | Region | CSW | Cellar |
@@ -17,3 +18,4 @@ updated: 2026-05-26
 | [[domaine_leflaive|Domaine Leflaive]] | France | Burgundy | 6 | — |
 
 *Compiled by `scripts/build_rollups.py`.*
+<!-- END AUTO-GENERATED -->

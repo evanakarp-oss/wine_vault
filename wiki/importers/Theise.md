@@ -6,10 +6,13 @@ producer_count: 14
 focus: ['Mosel', 'Nahe']
 notable_producers: ['Clemens Busch', 'Knebel', 'Weiser-Künstler', 'Immich-Batterieberg', 'Hofgut Falkenstein']
 updated: 2026-05-26
+tags: []
+_source: wiki/_resources.md
+url: "https://www.skurnik.com/theise"
 ---
-
 # Theise
 
+<!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
 **14 producer(s)** in the vault imported by Theise (US).
 
 | Producer | Country | Region | CSW | Cellar |
@@ -30,3 +33,4 @@ updated: 2026-05-26
 | [[peter_lauer__weingut_lauer|Peter Lauer / Weingut Lauer]] | Germany | Mosel | — | — |
 
 *Compiled by `scripts/build_rollups.py`.*
+<!-- END AUTO-GENERATED -->

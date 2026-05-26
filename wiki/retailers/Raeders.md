@@ -2,14 +2,16 @@
 type: retailer
 name: "Raeder's"
 slug: raeders
-url: ""
+url: "https://www.raederswine.com"
 location: ""
 producer_count: 56
 updated: 2026-05-26
+tags: []
+_source: wiki/_resources.md
 ---
-
 # Raeder's
 
+<!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
 **56 producers** from this retailer are tracked in the wiki.
 
 ## Producers in portfolio
@@ -74,3 +76,4 @@ updated: 2026-05-26
 | [[screaming_eagle|Screaming Eagle]] | United States | California | 1 | 1 |
 
 *Compiled by `scripts/build_rollups.py`.*
+<!-- END AUTO-GENERATED -->

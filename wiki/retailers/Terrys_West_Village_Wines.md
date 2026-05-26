@@ -1,0 +1,20 @@
+---
+type: retailer
+name: "Terry's West Village Wines"
+slug: terrys_west_village_wines
+url: "https://www.terryswestvillage.com"
+focus: []
+tags: []
+updated: 2026-05-26
+_source: wiki/_resources.md
+---
+
+# Terry's West Village Wines
+
+NYC.
+
+<!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
+
+_No producers from this retailer are tracked in the vault yet._
+
+<!-- END AUTO-GENERATED -->

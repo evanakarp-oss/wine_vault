@@ -26,6 +26,39 @@ _commit `36ec32e`_
 
 _commit `f0cecd1`_
 
+## [2026-05-26] ingest | close 5 follow-ups: ask-cellar, clippings pipeline, widget JSON, resources → per-entity pages
+
+Closed every actionable item on the "Open follow-ups" list:
+
+- **`/ask-cellar` skill** — written in-repo at
+  `.claude/skills/ask-cellar/SKILL.md`. Points at `wine_vault/wiki/` +
+  `cellar/` + `raw/`. Documents read-order, citation format, and the
+  "file keeper answers back to `wiki/_views/`" rule.
+- **Vinous + Wine Advocate (Kelley) ingest** — `raw/clippings/vinous/`
+  and `raw/clippings/wine_advocate/` ready to receive Obsidian Web
+  Clipper output. `scripts/compile_clippings.py <source> --apply`
+  reads them, writes `## Vinous Reviews` / `## Wine Advocate (Kelley)`
+  sections on matched producer pages. Schema documented in
+  `_SCHEMA.md`. Unmatched clippings list in
+  `build/clippings_report.md` for review.
+- **Widget JSON** — `scripts/build_widget_json.py` emits
+  `build/widget_data.json` (368 producers + 631 cellar bottles in
+  one fetch). JSX widget switches from hardcoded arrays to
+  `fetch('/build/widget_data.json')`.
+- **`_resources.md` → per-entity pages** — flat ~190-entry reference
+  migrated to 66 importer pages + 129 retailer pages, with
+  url/focus/tags frontmatter and the original prose preserved as the
+  body. `build_rollups.py` now preserves hand-edited frontmatter +
+  body, regenerating only inside `<!-- BEGIN AUTO-GENERATED -->`
+  markers. `_resources.md` kept as legacy flat export.
+- **Raeders candidates triage** — `audit_raeders_candidates.py`
+  produces `build/raeders_candidates.md` (1,541 candidates,
+  SKU-sorted, curation-tagged). Onboarding still goes through
+  `compile_raeders_creates_v2.py` to keep the curation-by-human
+  gate in place.
+
+Index grew 423 → 605 pages with the importer/retailer migration.
+
 ## [2026-05-26] lint | repair vault architecture — lint 66 → 0, regions 57 → 37
 
 Resolved the three preconditions of the Karpathy pattern that had drifted

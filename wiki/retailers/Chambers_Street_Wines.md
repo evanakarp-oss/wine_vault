@@ -6,10 +6,12 @@ url: "https://chambersstwines.com"
 location: "NYC"
 producer_count: 186
 updated: 2026-05-26
+tags: []
+_source: wiki/_resources.md
 ---
-
 # Chambers Street Wines
 
+<!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
 **186 producers** from this retailer are tracked in the wiki.
 
 ## Most-championed producers
@@ -68,3 +70,4 @@ updated: 2026-05-26
 | [[ferme_saint-martin|Ferme Saint-Martin]] | 3 | 4 | 2015 | 2025 |
 
 *Compiled by `scripts/build_rollups.py`.*
+<!-- END AUTO-GENERATED -->

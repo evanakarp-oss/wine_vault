@@ -6,10 +6,13 @@ producer_count: 1
 focus: ['Burgundy']
 notable_producers: ['Domaine de Montille']
 updated: 2026-05-26
+tags: []
+_source: wiki/_resources.md
+url: "https://kyselawine.com"
 ---
-
 # Kysela
 
+<!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
 **1 producer(s)** in the vault imported by Kysela (US).
 
 | Producer | Country | Region | CSW | Cellar |
@@ -17,3 +20,4 @@ updated: 2026-05-26
 | [[domaine_de_montille|Domaine de Montille]] | France | Burgundy | 11 | — |
 
 *Compiled by `scripts/build_rollups.py`.*
+<!-- END AUTO-GENERATED -->

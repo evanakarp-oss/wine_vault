@@ -6,10 +6,13 @@ producer_count: 16
 focus: ['Burgundy', 'Jura', 'Rhône', 'Sicily']
 notable_producers: ['Eric Texier', 'Jacques Puffeney', 'Jean-François Ganevat', 'Benoit Courault', 'Domaine Simon Bize']
 updated: 2026-05-26
+tags: ['natural', 'organic']
+_source: wiki/_resources.md
+url: "https://louisdressner.com"
 ---
-
 # Louis
 
+<!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
 **16 producer(s)** in the vault imported by Louis (US).
 
 | Producer | Country | Region | CSW | Cellar |
@@ -32,3 +35,4 @@ updated: 2026-05-26
 | [[julien_guillot__vignes_du_maynes|Julien Guillot / Vignes du Maynes]] | France | Burgundy | — | — |
 
 *Compiled by `scripts/build_rollups.py`.*
+<!-- END AUTO-GENERATED -->

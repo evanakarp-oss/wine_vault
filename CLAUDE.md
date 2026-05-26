@@ -124,18 +124,32 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
 
 ## Open follow-ups (as of 2026-05-26)
 
-- `/ask-cellar` skill still points at OLD Drive `wine_wiki/` — needs repoint to `wine_vault/wiki/` + `cellar/` + `raw/`.
-- Vinous, Wine Advocate (Kelley) — ingest not yet wired. Plan: Obsidian Web Clipper → `raw/clippings/<source>/` → compile pass.
-- Berserkers — wired (2026-05). One thread ingested (`top10_in_cellar`). To add another: scrape → parse → compile, see `raw/berserkers/README.md`.
-- Widget rewire: `dte_wines_1.jsx` still reads hardcoded arrays, needs `build_widget_json.py`.
-- 387 unselected Raeders new-candidate producers parked in `raw/` — revisit if scope expands.
-- Mobile access: claude.ai Project + Drive connector OR Obsidian mobile via iCloud.
-- **Argentina_Reloaded ingest left 79 producers (Mendoza 62, Patagonia 9, Salta 5, Jujuy 2, San Juan 1) onboarded from a single event source — violates the anti-pattern below. Curate to ~10 keepers and quarantine the rest, or accept the wider surface area.**
-- Drive duplicates listed in `_canonical_ids.md` (`wiki/wiki/`, `wine_vault_fromdocuments/`, `_drive_sync/wine_wiki_v2/`) still exist on Drive. **Git is now the source of truth**; treat Drive as a read-only mirror and clean the duplicates when convenient.
+- **Argentina_Reloaded ingest** left 79 producers (Mendoza 62, Patagonia 9, Salta 5, Jujuy 2, San Juan 1) onboarded from a single event source — violates the anti-pattern below. Curate to ~10 keepers and quarantine the rest, or accept the wider surface area.
+- **Drive duplicates** listed in `_canonical_ids.md` (`wiki/wiki/`, `wine_vault_fromdocuments/`, `_drive_sync/wine_wiki_v2/`) still exist on Drive. Git is now the source of truth; treat Drive as a read-only mirror and clean the duplicates when convenient.
+- **Raeders candidates** — `scripts/audit_raeders_candidates.py` produces a triage table at `build/raeders_candidates.md` (1,541 producers not yet in vault). Triage with Evan's curation taste; onboard the keepers via `compile_raeders_creates_v2.py`.
+- **Berserkers threads** — pipeline wired (2026-05), `top10_in_cellar` is the only ingested thread. To add another: scrape → parse → compile, see `raw/berserkers/README.md`.
+- **JSX widget rewire** — `scripts/build_widget_json.py` now emits `build/widget_data.json` from the vault. The widget JSX file (`dte_wines_1.jsx`) lives outside this repo; update it to `fetch('/build/widget_data.json')` instead of the hardcoded arrays.
+
+## Closed follow-ups (2026-05-26)
+
+- ✅ **/ask-cellar skill** — committed in-repo at `.claude/skills/ask-cellar/SKILL.md`, points at `wine_vault/wiki/` + `cellar/` + `raw/`. Drive paths deprecated.
+- ✅ **Vinous + Wine Advocate (Kelley) ingest** — wired. Drop Obsidian Web Clipper output into `raw/clippings/vinous/` or `raw/clippings/wine_advocate/`, run `python scripts/compile_clippings.py <source> --apply`. Schema sections `## Vinous Reviews` and `## Wine Advocate (Kelley)` are in `_SCHEMA.md`.
+- ✅ **Lint** — 60 (then 66) → 0. See architecture-fix entry below.
+- ✅ **Importer / retailer reference** — `wiki/_resources.md` (flat ~190-entry list) migrated to one-per-file pages: 66 importer pages + 129 retailer pages. `build_rollups.py` now preserves hand-edited frontmatter + prose (regenerates only inside `<!-- BEGIN AUTO-GENERATED -->` markers).
+
+## Mobile access
+
+Two options, both work today:
+
+1. **Obsidian Mobile via iCloud** (recommended for reading + light editing) — vault lives in `iCloud Drive/wine_vault`; Obsidian Mobile opens it natively. Same wikilink graph as desktop. Edits sync via iCloud. Search-as-you-type across all 423 wiki pages and 294 cellar entries.
+2. **claude.ai Project + Drive connector** (for Q&A on the go) — push the repo to Drive (or use the existing mirror), point the claude.ai Project at `wine_vault/` via the Drive connector, paste `_project_instructions.md` into the Project instructions. Then `/ask-cellar`-style queries work from the iOS app.
+
+Don't try to edit from claude.ai Mobile + Drive — Drive's web-app edits don't round-trip cleanly with git. Use Obsidian for edits, claude.ai for queries.
 
 ## Architecture-fix history
 
 - **2026-05-26** — lint 66 → 0. `scripts/fix_vault_architecture.py` (one-shot, idempotent) consolidated 8 CSW surname-collision dupes, deleted 2 mojibake/legacy relics, normalized 48 region fields (sub-regions moved out of `region:`), backfilled 16 empty regions, synthesized frontmatter for 5 legacy pages. Region rollups: 57 → 37. `lint.py --strict` now gates CI. Full entry in `wiki/log.md`.
+- **2026-05-26** — closed 5 open follow-ups: `/ask-cellar` skill written in-repo, Vinous + Wine Advocate (Kelley) clippings pipeline scaffolded, `build_widget_json.py` written, `_resources.md` migrated to per-entity pages (66 importers + 129 retailers), `build_rollups.py` updated to preserve hand-edits between auto-markers.
 
 ## Anti-patterns
 

@@ -31,6 +31,20 @@ CELLAR = VAULT / "cellar"
 
 FM_RE = re.compile(r"^---\n(.*?)\n---\n(.*)$", re.DOTALL)
 
+# Manually-curated fields on importer/retailer pages that build_rollups
+# must NOT clobber when regenerating. The rollup only owns the producer
+# table + producer_count + updated date. Everything else (url, tags,
+# notes, _source, custom focus override) is preserved.
+PRESERVED_FRONTMATTER_KEYS = {
+    "url", "tags", "_source", "location", "scale", "philosophy",
+    "editorial_url_pattern",
+}
+
+# Marker pair the rollup writes around the auto block. When merging,
+# everything outside the markers is preserved.
+AUTO_BEGIN = "<!-- BEGIN AUTO-GENERATED (build_rollups.py) -->"
+AUTO_END = "<!-- END AUTO-GENERATED -->"
+
 
 def split_frontmatter(text: str) -> tuple[str, str] | None:
     m = FM_RE.match(text)
@@ -80,6 +94,62 @@ def get_list(fm: str, key: str) -> list[str]:
         if v:
             out.append(v)
     return out
+
+
+def merge_preserving_handedits(path: Path, fm_lines: list[str],
+                                title_line: str, auto_block: list[str]) -> str:
+    """If path exists, preserve hand-edited prose + non-auto frontmatter
+    fields. Otherwise build from scratch."""
+    new_fm = "\n".join(fm_lines)
+    auto = "\n".join(auto_block)
+    if not path.exists():
+        return f"---\n{new_fm}\n---\n\n{title_line}\n\n{AUTO_BEGIN}\n{auto}\n{AUTO_END}\n"
+
+    existing = path.read_text(encoding="utf-8")
+    m = FM_RE.match(existing)
+    if not m:
+        return f"---\n{new_fm}\n---\n\n{title_line}\n\n{AUTO_BEGIN}\n{auto}\n{AUTO_END}\n"
+    existing_fm, existing_body = m.group(1), m.group(2)
+
+    # Merge frontmatter: keep preserved keys from existing, take everything
+    # else from new
+    preserved: dict[str, str] = {}
+    for key in PRESERVED_FRONTMATTER_KEYS:
+        km = re.search(rf"^{re.escape(key)}:\s*(.+)$", existing_fm, re.MULTILINE)
+        if km:
+            preserved[key] = km.group(1).rstrip()
+
+    merged_fm = new_fm
+    for k, v in preserved.items():
+        if re.search(rf"^{re.escape(k)}:", merged_fm, re.MULTILINE):
+            merged_fm = re.sub(rf"^{re.escape(k)}:.*$",
+                               f"{k}: {v}", merged_fm,
+                               count=1, flags=re.MULTILINE)
+        else:
+            merged_fm += f"\n{k}: {v}"
+
+    # Body merge: replace between auto markers if present; else replace
+    # everything from "**N producer" or "## Most-championed" / "## Producers
+    # in portfolio" onward (legacy unmarked body) — preserves prose above.
+    auto_re = re.compile(rf"{re.escape(AUTO_BEGIN)}.*?{re.escape(AUTO_END)}",
+                         re.DOTALL)
+    new_auto = f"{AUTO_BEGIN}\n{auto}\n{AUTO_END}"
+    if auto_re.search(existing_body):
+        merged_body = auto_re.sub(new_auto, existing_body)
+    else:
+        # Legacy: find the auto-content start and replace from there
+        legacy_re = re.compile(
+            r"(\*\*\d+\s*producer|## Most-championed|## Producers in portfolio).*$",
+            re.DOTALL | re.MULTILINE,
+        )
+        lm = legacy_re.search(existing_body)
+        if lm:
+            merged_body = existing_body[:lm.start()].rstrip() + f"\n\n{new_auto}\n"
+        else:
+            # No legacy block — append below existing body
+            merged_body = existing_body.rstrip() + f"\n\n{new_auto}\n"
+
+    return f"---\n{merged_fm}\n---\n{merged_body}"
 
 
 def safe_filename(s: str) -> str:
@@ -249,8 +319,7 @@ def build_importer_pages(producers: list[Producer]) -> int:
         path = IMPORTERS / f"{safe}.md"
         focus_regions = sorted({p.region for p in plist if p.region})
         top_producers = [p.name for p in plist[:8] if p.name]
-        lines = [
-            "---",
+        fm_lines = [
             "type: importer",
             f'name: "{imp}"',
             f"slug: {safe.lower()}",
@@ -258,10 +327,8 @@ def build_importer_pages(producers: list[Producer]) -> int:
             f"focus: {focus_regions}",
             f"notable_producers: {top_producers[:5]}",
             f"updated: {today}",
-            "---",
-            "",
-            f"# {imp}",
-            "",
+        ]
+        auto_block = [
             f"**{len(plist)} producer(s)** in the vault imported by {imp} (US).",
             "",
             "| Producer | Country | Region | CSW | Cellar |",
@@ -270,12 +337,13 @@ def build_importer_pages(producers: list[Producer]) -> int:
         for p in plist:
             ch = str(p.ch_articles) if p.ch_articles else "—"
             cel = f"{p.cellar_bottles}" if p.cellar_bottles else "—"
-            lines.append(
+            auto_block.append(
                 f"| [[{p.slug}|{p.name}]] | {p.country or '—'} | "
                 f"{p.region or '—'} | {ch} | {cel} |"
             )
-        lines += ["", "*Compiled by `scripts/build_rollups.py`.*"]
-        path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+        auto_block += ["", "*Compiled by `scripts/build_rollups.py`.*"]
+        merged = merge_preserving_handedits(path, fm_lines, f"# {imp}", auto_block)
+        path.write_text(merged, encoding="utf-8")
         written += 1
     return written
 
@@ -334,8 +402,7 @@ def build_retailer_pages(producers: list[Producer]) -> int:
             }[key]
             plist.sort(key=lambda x, m=metric: (-m(x), x.name.lower()))
         path = RETAILERS / f"{safe_filename(meta['display'])}.md"
-        lines = [
-            "---",
+        fm_lines = [
             "type: retailer",
             f'name: "{meta["display"]}"',
             f"slug: {key}",
@@ -343,22 +410,20 @@ def build_retailer_pages(producers: list[Producer]) -> int:
             f'location: "{meta["location"]}"',
             f"producer_count: {len(plist)}",
             f"updated: {today}",
-            "---",
-            "",
-            f"# {meta['display']}",
-            "",
+        ]
+        auto_block = [
             f"**{len(plist)} producers** from this retailer are tracked in the wiki.",
             "",
         ]
         if key == "chambers":
-            lines += [
+            auto_block += [
                 "## Most-championed producers",
                 "",
                 "| Producer | ★ Dedicated | Total articles | First | Last |",
                 "|---|---:|---:|---:|---:|",
             ]
             for p in plist[:50]:
-                lines.append(
+                auto_block.append(
                     f"| [[{p.slug}|{p.name}]] | {p.ch_dedicated} | "
                     f"{p.ch_articles} | {p.ch_first or '—'} | {p.ch_last or '—'} |"
                 )
@@ -368,19 +433,22 @@ def build_retailer_pages(producers: list[Producer]) -> int:
                 "raeders": lambda x: x.raeders_cuvees,
                 "fass": lambda x: x.fass_cuvees,
             }[key]
-            lines += [
+            auto_block += [
                 "## Producers in portfolio",
                 "",
                 "| Producer | Country | Region | Cuvées | CSW articles |",
                 "|---|---|---|---:|---:|",
             ]
             for p in plist:
-                lines.append(
+                auto_block.append(
                     f"| [[{p.slug}|{p.name}]] | {p.country or '—'} | "
                     f"{p.region or '—'} | {cuvee_getter(p)} | {p.ch_articles or '—'} |"
                 )
-        lines += ["", "*Compiled by `scripts/build_rollups.py`.*"]
-        path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+        auto_block += ["", "*Compiled by `scripts/build_rollups.py`.*"]
+        merged = merge_preserving_handedits(
+            path, fm_lines, f"# {meta['display']}", auto_block
+        )
+        path.write_text(merged, encoding="utf-8")
         written += 1
     return written
 

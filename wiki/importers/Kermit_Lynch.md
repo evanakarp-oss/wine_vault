@@ -6,10 +6,13 @@ producer_count: 10
 focus: ['Burgundy', 'Rhône']
 notable_producers: ['Domaine Pierre Gonon', 'Domaine Pierre André', 'Clos du Joncuas', 'Allemand', 'Sylvie Esmonin']
 updated: 2026-05-26
+tags: []
+_source: wiki/_resources.md
+url: "https://kermitlynch.com"
 ---
-
 # Kermit Lynch
 
+<!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
 **10 producer(s)** in the vault imported by Kermit Lynch (US).
 
 | Producer | Country | Region | CSW | Cellar |
@@ -26,3 +29,4 @@ updated: 2026-05-26
 | [[ferme_saint-martin|Ferme Saint-Martin]] | France | Rhône | 4 | — |
 
 *Compiled by `scripts/build_rollups.py`.*
+<!-- END AUTO-GENERATED -->

@@ -6,10 +6,13 @@ producer_count: 3
 focus: ['Baden', 'Bordeaux', 'Piedmont']
 notable_producers: ['Brovia', 'Château Le Puy', 'Bernhard Huber']
 updated: 2026-05-26
+tags: []
+_source: wiki/_resources.md
+url: "https://rosenthalwine.com"
 ---
-
 # Neal Rosenthal
 
+<!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
 **3 producer(s)** in the vault imported by Neal Rosenthal (US).
 
 | Producer | Country | Region | CSW | Cellar |
@@ -19,3 +22,4 @@ updated: 2026-05-26
 | [[bernhard_huber|Bernhard Huber]] | Germany | Baden | 1 | — |
 
 *Compiled by `scripts/build_rollups.py`.*
+<!-- END AUTO-GENERATED -->

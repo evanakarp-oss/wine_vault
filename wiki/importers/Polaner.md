@@ -6,10 +6,13 @@ producer_count: 10
 focus: ['Burgundy', 'Loire', 'Piedmont']
 notable_producers: ['Domaine Baudry', 'Stéphane Guion', 'Domaine de la Chevalerie', 'Jean-Claude Rateau', 'Produttori del Barbaresco']
 updated: 2026-05-26
+tags: []
+_source: wiki/_resources.md
+url: "https://polanerselections.com"
 ---
-
 # Polaner
 
+<!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
 **10 producer(s)** in the vault imported by Polaner (US).
 
 | Producer | Country | Region | CSW | Cellar |
@@ -26,3 +29,4 @@ updated: 2026-05-26
 | [[gilles__jean__maxime_lafouge|Gilles / Jean / Maxime Lafouge]] | France | Burgundy | — | — |
 
 *Compiled by `scripts/build_rollups.py`.*
+<!-- END AUTO-GENERATED -->

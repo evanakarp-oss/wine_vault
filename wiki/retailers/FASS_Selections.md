@@ -10,6 +10,7 @@ updated: 2026-05-26
 
 # FASS Selections
 
+<!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
 **4 producers** from this retailer are tracked in the wiki.
 
 ## Producers in portfolio
@@ -22,3 +23,4 @@ updated: 2026-05-26
 | [[vincent_paris|Vincent Paris]] | France | Rhône | 1 | 2 |
 
 *Compiled by `scripts/build_rollups.py`.*
+<!-- END AUTO-GENERATED -->
