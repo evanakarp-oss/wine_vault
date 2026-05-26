@@ -120,11 +120,12 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
 - **Napa**: true cult tier (Harlan/Hundred Acre/Ridge Monte Bello/Bond/Colgin/SQN/Schrader),
   not generic $250 Cab.
 - **Burgundy / Loire / Mosel / Piedmont**: terroir-driven, biodynamic-leaning, grower-scale.
+- **Argentina (Mendoza / Patagonia / Salta)**: accepted as an interest area as of 2026-05-26. Bias toward biodynamic / terroir-driven / artisan-scale producers (Chacra, Colomé, Cara Sur, Canopus, Altos Las Hormigas style). Argentina_Reloaded curator's selection (Paz Levinson, 79 producers) is the seed.
 - **Cellar style**: NYC/US retailers, German biodynamic, US boutique, Italian Friuli/Piedmont.
 
 ## Open follow-ups (as of 2026-05-26)
 
-- **Argentina_Reloaded ingest** left 79 producers (Mendoza 62, Patagonia 9, Salta 5, Jujuy 2, San Juan 1) onboarded from a single event source — violates the anti-pattern below. Curate to ~10 keepers and quarantine the rest, or accept the wider surface area.
+- **Catena Zapata** is in the cellar (2 bottles) but has no producer page — gap. Either create the page from the cellar entries, or accept that some cellar bottles don't need wiki pages (Catena is generic-tier per the existing taste filter).
 - **Drive duplicates** listed in `_canonical_ids.md` (`wiki/wiki/`, `wine_vault_fromdocuments/`, `_drive_sync/wine_wiki_v2/`) still exist on Drive. Git is now the source of truth; treat Drive as a read-only mirror and clean the duplicates when convenient.
 - **Raeders candidates** — `scripts/audit_raeders_candidates.py` produces a triage table at `build/raeders_candidates.md` (1,541 producers not yet in vault). Triage with Evan's curation taste; onboard the keepers via `compile_raeders_creates_v2.py`.
 - **Berserkers threads** — pipeline wired (2026-05), `top10_in_cellar` is the only ingested thread. To add another: scrape → parse → compile, see `raw/berserkers/README.md`.

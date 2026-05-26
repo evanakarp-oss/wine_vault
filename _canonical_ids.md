@@ -1,11 +1,35 @@
 ---
 type: canonical_ids
-updated: 2026-05-10
+updated: 2026-05-26
+status: legacy_reference
+canonical_source_of_truth: this git repository
 purpose: |
-  Pinned Drive folder/file IDs for wine_vault. Scripts and Claude must
-  resolve folders by ID (not by name) to avoid the duplicate-name
-  ambiguity that caused the wiki/wiki/ divergence in May 2026.
+  Pinned Drive folder/file IDs for wine_vault. As of 2026-05-26 this
+  git repository is the canonical source of truth (see CLAUDE.md →
+  Architecture-fix history). The IDs below are kept as a historical
+  reference and as targets for the Drive-side cleanup checklist below.
+  Drive is treated as a read-only mirror; no scripts write to Drive.
 ---
+
+## Drive cleanup checklist (2026-05-26)
+
+The three Drive folders below are duplicates / stale. Recommended
+delete order, safest first:
+
+1. **`_drive_sync/wine_wiki_v2/`** — pre-migration legacy. Safe to delete.
+2. **`wine_vault_fromdocuments/`** — 2026-04-24 ZIP-derived snapshot,
+   strictly older than the current canonical. Safe to delete.
+3. **`wiki/wiki/`** — partial parallel tree inside the canonical
+   `wiki/` folder. Before deleting, run:
+
+   ```sh
+   python scripts/audit_drive_duplicates.py /path/to/Drive/wine_vault/wiki/wiki
+   ```
+
+   The audit reports any producer slugs unique to the Drive copy. If
+   the report says "Safe to delete," proceed. Otherwise copy the
+   unique pages into `wiki/producers/`, commit, then delete.
+
 
 # Wine Vault — Canonical Drive IDs
 

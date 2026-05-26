@@ -26,6 +26,24 @@ _commit `36ec32e`_
 
 _commit `f0cecd1`_
 
+## [2026-05-26] lint | curation decisions: Argentina accepted, Drive cleanup plan
+
+Two curation/cleanup calls:
+
+- **Argentina accepted as an interest area** in `CLAUDE.md` →
+  "Curation taste". The 79 Argentina_Reloaded producer pages stay
+  in place. Bias toward biodynamic / terroir-driven /
+  artisan-scale producers (Chacra, Colomé, Cara Sur, Canopus,
+  Altos Las Hormigas style). Argentina_Reloaded curator's
+  selection (Paz Levinson) is the seed.
+- **Drive duplicates cleanup plan** in `_canonical_ids.md`. Git
+  is canonical; Drive is a read-only mirror. Safe delete order:
+  `_drive_sync/wine_wiki_v2/` → `wine_vault_fromdocuments/` →
+  `wiki/wiki/` (run `scripts/audit_drive_duplicates.py` first to
+  diff slug sets — won't delete if anything is unique to Drive).
+- New gap surfaced: Catena Zapata is in cellar (2 bottles) but
+  has no producer page.
+
 ## [2026-05-26] ingest | close 5 follow-ups: ask-cellar, clippings pipeline, widget JSON, resources → per-entity pages
 
 Closed every actionable item on the "Open follow-ups" list:
