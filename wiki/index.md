@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 891
+total_pages: 892
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**891 pages indexed.**
+**892 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -100,6 +100,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Omniwines_Distribution|Omniwines Distribution]] — Italian wines.
 - [[Other_Blues|Other Blues]] — Spanish, French, CA natural. Small operation.
 - [[Polaner|Polaner]] — Burgundy, Loire, Piedmont
+- [[Roscioli_Wine_Club|Roscioli Wine Club]] — Italy, Piedmont, Tuscany, Sicily, Sardinia, Friuli
 - [[Ruff_Mix_Wines|Ruff Mix Wines]] — French natural wines. Camille Rivière adjacent.
 - [[Savio_Soares_Selections|Savio Soares Selections]] — France, Germany, Italy, Portugal
 - [[Scuola_di_Vino|Scuola di Vino]] — Italian wines educator/importer.

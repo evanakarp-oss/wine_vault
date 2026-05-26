@@ -45,6 +45,15 @@ retailers:
   fass:
     in_portfolio: false
 
+roscioli:                             # Roscioli Wine Club (Italian importer-curator)
+  in_portfolio: false                 # producer has a profile page on roscioliwineclub.com
+  profile_url: ""                     # full URL to /<slug>/
+  has_video: false                    # winemaker video embedded on the profile page
+  place: ""                           # sub-region/place as Roscioli labels it (e.g. "Barbaresco")
+  style_hint: ""                      # style after " | " in the title (e.g. "Barolo")
+  profile_date: ""                    # YYYY-MM-DD first-published date of the Roscioli profile
+  story_count: 0                      # number of associated story posts (interviews, multi-part series)
+
 events: []                            # curatorial/festival appearances; see wiki/_TAXONOMY.md events
 tags: ["alsace", "biodynamic", "white-wine-focused"]
 ---

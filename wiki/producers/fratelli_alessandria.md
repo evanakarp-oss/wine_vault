@@ -28,6 +28,14 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+roscioli:
+  in_portfolio: true
+  profile_url: "https://www.roscioliwineclub.com/fratelli-alessandria-verduno-barolo/"
+  has_video: true
+  place: "Verduno"
+  style_hint: "Barolo"
+  profile_date: 2022-01-25
+  story_count: 0
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -68,8 +76,18 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Roscioli Wine Club
+
+**Profile:** [Fratelli Alessandria, Verduno | Barolo](https://www.roscioliwineclub.com/fratelli-alessandria-verduno-barolo/)  
+**Place:** Verduno · **Style:** Barolo  
+
+Since 1870 this winery belongs to the Alessandria family. Vittore is a proud witness of the secular tradition of wine making of his family.
+
+**Winemaker video:** https://www.youtube.com/embed/XexaIiEKRPo
+
 ## Cross-references
 
 - [[Italy_Producers|Italy]]
 - [[Verduno (Barolo)]]
 - [[CSW Article Archive]]
+- [[Roscioli_Wine_Club|Roscioli Wine Club (importer)]]

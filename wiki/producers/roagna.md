@@ -32,6 +32,14 @@ retailers:
     price_max: 359.99
   fass:
     in_portfolio: false
+roscioli:
+  in_portfolio: true
+  profile_url: "https://www.roscioliwineclub.com/roagna-langhe-barbaresco/"
+  has_video: true
+  place: "Langhe"
+  style_hint: "Barbaresco"
+  profile_date: 2022-01-25
+  story_count: 0
   berserkers_kelley:
     post_count: 1
     first_year: 2020
@@ -159,6 +167,15 @@ _[Raeders link](https://www.raederswine.com/wines/Roagna-Barbaresco-Paje-Vecchie
 
 _Not yet populated._
 
+## Roscioli Wine Club
+
+**Profile:** [Roagna, Langhe | Barbaresco](https://www.roscioliwineclub.com/roagna-langhe-barbaresco/)  
+**Place:** Langhe · **Style:** Barbaresco  
+
+Luca Roagna opens both his winery and heart during the visit of his estate in the village of Castiglione Falletto, in the very heart of the Langhe.
+
+**Winemaker video:** https://www.youtube.com/embed/5cNss3Jy92A?feature=oembed
+
 ## Cellar
 
 Own **3 bottle(s)** across 1 cuvée-vintage(s):
@@ -170,3 +187,4 @@ Own **3 bottle(s)** across 1 cuvée-vintage(s):
 - [[Italy_Producers|Italy]]
 - [[Barbaresco / Barolo]]
 - [[CSW Article Archive]]
+- [[Roscioli_Wine_Club|Roscioli Wine Club (importer)]]

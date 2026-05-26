@@ -40,10 +40,11 @@ history").
 2. `wiki/_TAXONOMY.md` — confirm region names and farming enum values.
 3. The candidate pages themselves (`wiki/producers/<slug>.md`,
    `wiki/regions/<Region>_Producers.md`, `cellar/<vintage>_<slug>.md`).
-4. `raw/csw/markdown/`, `raw/raeders/markdown/`, `raw/berserkers/threads/`
+4. `wiki/importers/Roscioli_Wine_Club.md` — 156 Italian (+ Champagne) producer profiles with video. For Italian queries by region/style, check Roscioli first — it's the strongest Italian-importer hub in the vault.
+5. `raw/csw/markdown/`, `raw/raeders/markdown/`, `raw/berserkers/threads/`
    only when the wiki page lacks the detail (excerpts, scores,
    community signal).
-5. CLAUDE.md → "Curation taste" — apply before recommending.
+6. CLAUDE.md → "Curation taste" — apply before recommending.
 
 ## Citation format
 
@@ -100,3 +101,4 @@ point is that good answers become first-class pages.
 - Don't claim a producer is in Evan's cellar without confirming
   `cellar/<...>.md` exists.
 - Don't recommend wines outside the curation style unless asked.
+- Roscioli is Italian-only (plus a few Champagne growers — George Laval, Roger Brun). Don't expect French/German/Spanish coverage there.

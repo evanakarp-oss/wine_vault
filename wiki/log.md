@@ -26,6 +26,35 @@ _commit `36ec32e`_
 
 _commit `f0cecd1`_
 
+## [2026-05-26] ingest | Roscioli Wine Club pulled from Drive (importer + schema patch + 4 merges)
+
+User shared a Drive folder of orphaned Roscioli scrape outputs from
+2026-05-19 that never made it into git. Pulled via the Drive MCP:
+
+- `wiki/importers/Roscioli_Wine_Club.md` — 156-producer Italian
+  importer-curator rollup (Roagna, Cascina delle Rose, Le Macchiole,
+  Castello dei Rampolla, Montevertine, Le Ragnaie, Emidio Pepe,
+  Arpepe, Ferrari, Tenuta delle Terre Nere as notable producers).
+- Applied schema patch: added `roscioli:` top-level frontmatter block
+  to `_SCHEMA.md` (between `retailers:` and `events:`).
+- Registered `roscioli_wine_club` as a new `source:` taxonomy entry
+  in `_TAXONOMY.md`.
+- Merged 4 snippets into existing producer pages: `bruna.md`,
+  `cascina_delle_rose.md`, `fratelli_alessandria.md`, `roagna.md` —
+  each got `roscioli:` frontmatter + `## Roscioli Wine Club` body
+  section + `[[Roscioli_Wine_Club|Roscioli Wine Club (importer)]]`
+  cross-reference.
+- Updated `/ask-cellar` SKILL.md: read-order now lists Roscioli as
+  the strongest Italian-importer hub; anti-patterns note Italian-only
+  scope.
+
+**Gap discovered**: the 2026-05-19 patch claimed 152 new producer pages
+were uploaded to Drive. Searches by parentId + fullText returned only
+the 7 files above. The 152 producer pages don't exist on Drive
+(scraper may have failed mid-run, or pages were deleted in a cleanup).
+Logged as open follow-up; the importer rollup page lists all 156
+names + profile URLs for re-seeding.
+
 ## [2026-05-26] lint | second-pass dedup from 2026-05-10 audit bundle (lint check tightened)
 
 User shared `wine_vault_cleanup_bundle.zip` (Drive ID
