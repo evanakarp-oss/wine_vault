@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 746
+total_pages: 752
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**746 pages indexed.**
+**752 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -840,6 +840,12 @@ _294 cuvée-vintage entries · ~631 bottles · 187 producers._
 
 ## Other
 
+- [[Loire_Anjou|Loire Anjou]] — Warmer summers and better viticulture have added good dry whites and fragrant reds to the great sweet whites and ordinary rosés for which An…
+- [[Loire_Chinon_Bourgueil|Loire Chinon Bourgueil]] — Chinon, Bourgueil, and St-Nicolas-de-Bourgueil are the red-wine glory of Touraine. All three lean on **Cabernet Franc** (the grape they shar…
+- [[Loire_Muscadet|Loire Muscadet]] — The Atlantic mouth of the Loire. Single grape — **Melon de Bourgogne** — over ~20,250 acres (8,200ha as of 2017), with Sèvre et Maine the be…
+- [[Loire_Saumur|Loire Saumur]] — The east end of the Anjou-Saumur axis, on tuffeau limestone — the same soft chalk-like rock that pocks the riverbank with cellars deep enoug…
+- [[Loire_Vouvray_Montlouis|Loire Vouvray Montlouis]] — Everything royal and romantic about France is summed up in the middle stretch of the immense river centred on Tours — a land of Renaissance…
+- [[South_West_Bergerac|South West Bergerac]] — The Bergerac vineyards run east from the Bordeaux border along the Dordogne, planted to broadly the same varieties — the "jealous neighbour"…
 - [[champagne_les_freres_mignon|Champagne Les Freres Mignon]] — **Region:** France — Champagne (Côte des Blancs: Avize, Cramant, Cuis, Cumières) **Farming:** Organic **CSW Coverage:** 1 article (2026) · 1…
 - [[champagne_ponson|Champagne Ponson]] — **Region:** France — Champagne **CSW Coverage:** 2 articles (? – 2026) · 2 dedicated
 - [[clos_cibonne|Clos Cibonne]] — **Region:** France — Côtes de Provence **Farming:** Organic **CSW Coverage:** 3 articles (? – 2026) · 2 dedicated
