@@ -232,3 +232,7 @@ Filed `wiki/_views/gap_csw_wk_overlay_2026_05.md`. Overlays WK Berserkers post c
 ## [2026-05-26] view | wb_top100_csw_wk_matrix_2026_05: 22 CSW-covered producers from WB top 100 × Kelley signal
 
 Filed `wiki/_views/wb_top100_csw_wk_matrix_2026_05.md`. Crosses the Wine Berserkers "Top 10 in your cellar" top 100 (1,089 posts, ~5,000 mentions) against CSW + WK signals. §1: 16 producers with any CSW article (sorted by WK desc). §2: 6 producers with wiki page but no CSW coverage (WK signal becomes deciding). §3: 78 unmapped WB top 100 names = vault gaps. Triple-converge picks: Allemand (natural Cornas, WK 8, WB#83), Schaefer (Mosel grower, WK 6, WB#15).
+
+## [2026-05-26] view | vosne_adjacency_2026_05: cellar × wiki coverage for Vosne-Romanée and neighbors
+
+Filed `wiki/_views/vosne_adjacency_2026_05.md`. Cellar holds 5 cuvées / 11 bottles in the Vosne adjacency (Vosne-Romanée, Flagey-Échezeaux, NSG Vosne-side 1ers, Vougeot) — anchored by Mugnier 2018 NSG 1er Clos de la Maréchale (4 btl, drink 2033–2065). Wiki covers ~17 producers, varying from CSW-championed (Cecile Tremblay, Gerard Mugneret, Domaine Forey, Jean Chauvenet, Chantal Lescure) to stub (Arnoux-Lachaux, Méo-Camuzet body empty). Gaps: no wiki page for cellar producers Jacques-Frédéric Mugnier (HIGH — 4 btl), Maison Pierre Brisset (5 btl), Domaine Odoul-Coquard (1 btl), Pierre Ponnelle (1 btl). Top curation-fit buys to close the gap: Cecile Tremblay, Gerard Mugneret ($30–$169 DTE), Jean Chauvenet, Forey.
