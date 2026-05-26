@@ -220,3 +220,7 @@ synthesized, 11 alias entries added for disambiguation.
 
 Producer count: 378 → 368. Lint: 66 → 0.
 
+
+## [2026-05-26] view | gap_csw_buy_candidates_2026_05: top CSW picks against cellar gaps
+
+Filed `wiki/_views/gap_csw_buy_candidates_2026_05.md` answering "what are top candidates in my cellar gaps, who should I consider buying from CSW". Tier 1: Domaine Baudry, Gonon, Guion (Loire CF gap), Falkenstein, Schaefer, Busch (Mosel gap), Brovia, Esmonin, Peybonhomme, Texier. Tier 2: Rateau, Trapet, Weiser-Künstler, Chevalerie, Clos du Jaugueyron, Immich-Batterieberg, La Grolet. Tier 3 (CSW + alt retailer): Bernard Baudry, Chandon de Briailles, Produttori del Barbaresco, Tissot, Magnien, Marguet, Laherte. Cross-ref [[gap_csw_championed]].
