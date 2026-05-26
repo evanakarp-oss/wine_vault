@@ -127,8 +127,17 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
   Anchor: Famille Jouffreau / Clos de Gamot (aged Vignes Centenaires, 1986
   vertical at FASS). Same aged-grower lens as the rest of the Tier-1 picks.
 - **Franken** — opened 2026-05-26 from the FASS triage. Anchors: Richard
-  Östreicher (Pinot Noir / Silvaner), Josef Walter (Centgrafenberg Spätburgunder),
-  Paul Weltner / Weingut Weltner (Rödelsee Küchenmeister / Hoheleite GG).
+  Östreicher (Pinot Noir / Silvaner / **and the Bordeaux-blend Cuvée R**
+  — Eichelmann 4.5 stars "world-class winery"; the Cab Sauv / Cab Franc /
+  Merlot project is in-style, NOT off-style), Josef Walter (Centgrafenberg
+  Spätburgunder), Paul Weltner / Weingut Weltner (Rödelsee Küchenmeister /
+  Hoheleite GG).
+- **Burgundy micro-négoce (outsider tier)** — accepted as in-style 2026-05-26.
+  Pierre Brisset (founded 2014, no vigneron lineage, capped at "few thousand
+  bottles/year" total, exclusively 1er & GC, Jancis-covered) is the FASS
+  example. Distinct from generic négoce — the gating criteria are: micro
+  production, exclusive 1er/GC focus, and editorial coverage on the level
+  of Jancis / Inside Burgundy / Vinous.
 - **Cellar style**: NYC/US retailers, German biodynamic, US boutique, Italian Friuli/Piedmont.
 
 ## Open follow-ups (as of 2026-05-26)

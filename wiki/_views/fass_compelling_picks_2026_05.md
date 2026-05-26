@@ -186,22 +186,54 @@ quality is genuine.
 Even after the seed pass, parts of the book don't justify allocation.
 
 - **Generic mid-tier Bordeaux** (Chateau Bouillerot, Samion, Bonneau, Vieux St-Andrée) — sub-$40 Bordeaux without the WK-undercovered hook.
-- **Pierre Brisset / Maison Brisset** — Burgundy négoce covering the Côte d'Or pyramid. Functional but no edge over Chambers Street's grower book.
 - **Most Champagne NV without grower / aged / dosage angle** — Paul Drappier Charles de Gaulle NV ($58) is fine but generic.
-- **Late-arriving Franken Cabernet / Merlot** — Richard Östreicher's red Bordeaux blends ($42–$54) are interesting curiosities but Franken is opened for Pinot / Silvaner depth, not Cabernet.
-- **Maison Alexandrins** — Nicolas Jaboulet's négoce project. Modern style, fine, but the natural / grower cluster above is the FASS edge.
+
+### Corrections to prior skip calls (Evan, 2026-05-26)
+
+Two SKIPs I called wrong in the first pass:
+
+- **Pierre Brisset / Maison Brisset** — I framed this as "generic Burgundy
+  négoce." Wrong frame. It's a *micro-négoce* (founded 2014, capped at
+  ~few thousand bottles per year total, exclusively 1er & GC), the
+  "outsider" tier — Brisset has no vigneron lineage and built his way in
+  via purchased fruit, now owns Chassagne vineyards. Jancis covers him.
+  CLAUDE.md curation taste updated to accept this category. **Move to
+  Tier 1 BUY**, especially Echézeaux GC, Vosne-Romanée 1er Cru Les
+  Rouges du Dessus, Chambolle-Musigny 1er Cru Les Noirots, Meursault
+  Les Grands Charrons.
+- **Richard Östreicher's Cabernet / Merlot side** — I framed this as
+  "off-style for Franken." Wrong frame. Eichelmann 2025 awards 4.5 stars
+  and classifies the estate as "world-class winery"; Falstaff 2025 gives
+  4 stars. The Cuvée "R" (Cab Sauv / Cab Franc / Merlot) is cult — Wein.plus
+  describes the 2018 as "one of the most beautiful German red cuvées
+  overall." Östreicher trained in Burgundy and uses *original Burgundy
+  clones* for his Spätburgunder rootstocks. The Franken-meets-Bordeaux
+  project is the house's actual signature, not a curiosity. **Move all
+  Östreicher cuvées (Spätburgunder Katzenkopf/Rosen/Scheiter/Hallburg,
+  Cab Sauv R, Merlot, Cuvée R, Silvaner Maria im Wein/Augustbaum/Sur Lie)
+  to Tier 1 BUY.**
+
+Lesson: Falstaff / Eichelmann / Jancis-MW coverage outranks the "looks
+generic at the retailer level" surface reading. When a producer at FASS
+shows up on multiple serious German / UK editorial pages, the default
+should be BUY, with the surface-reading SKIP requiring justification.
 
 ---
 
 ## TL;DR — order this from the next email
 
 1. **Pierre Gonon** — Saint-Joseph Rouge + Blanc, both releases. Cellar gap, WB+WK converge.
-2. **Bel Air-Marquis d'Aligre** — three bottles each of 1996, 2009, 2010, 2015. Aged Margaux at sub-$90 doesn't happen elsewhere.
-3. **Jean Foillard Morgon Classique** — case. WK 40 posts.
-4. **AR.PE.PE. Sassella Rocce Rosse Riserva** — restock the cellar.
-5. **J.J. Prüm Wehlener Sonnenuhr Kabinett** — six pack.
-6. **Markus Molitor** — pick one Auslese*** Gold and one Kabinett from Zeltinger Sonnenuhr to start.
-7. **Caves Jean Bourdy Château-Chalon 2018** — one for the cellar.
+2. **Bel Air-Marquis d'Aligre** — three bottles each of 1996, 2009, 2010, 2015. AFWE pet pick. Aged Margaux at sub-$90 doesn't happen elsewhere.
+3. **Tenuta Monolo Gilodi Bramaterra Riserva 1989/1990/2003** — buy as many as they have at $25. Final cellar release of the "Padre di Bramaterra."
+4. **Pierre Brisset Echézeaux Grand Cru + Vosne-Romanée 1er Cru Les Rouges du Dessus + Chambolle-Musigny 1er Cru Les Noirots** — the micro-négoce 1er & GC lineup (Evan-confirmed pick).
+5. **Richard Östreicher Cuvée "R" + Spätburgunder Katzenkopf + Silvaner Maria im Wein** — the full Eichelmann 4.5-star "world-class" Franken stack (Evan-confirmed pick).
+6. **Jean Foillard Morgon Classique** — case. WK 40 posts.
+7. **Caves Jean Bourdy Château-Chalon 2018** — at least two bottles. 1475-founded house, library to 1865.
 8. **Famille Jouffreau Cahors 1986** — if any left, one bottle.
-9. **Peter Lauer Riesling Brut Grande Réserve 1984** — collector unicorn.
-10. **Cuchet-Beliando Cornas** — pick one mid-vintage (2018 or 2019) to taste the house style; if it lands, the rest of the vertical is sub-$120.
+9. **Markus Molitor** — pick one Auslese*** Gold and one Kabinett from Zeltinger Sonnenuhr to start.
+10. **AR.PE.PE. Sassella Rocce Rosse Riserva** — restock the cellar.
+11. **J.J. Prüm Wehlener Sonnenuhr Kabinett** — six pack.
+12. **Thörle Hölle Spätburgunder GG 2023** — 98pt Suckling, best Spätburgunder of Germany 2025.
+13. **Schloss Johannisberg Rosalack Auslese 2023** — JS99 / WA97 / VN95.
+14. **Cuchet-Beliando Cornas** — pick one mid-vintage (2018 or 2019) to taste the house style; if it lands, the rest of the vertical is sub-$120.
+15. **Peter Lauer Riesling Brut Grande Réserve 1984** — collector unicorn.

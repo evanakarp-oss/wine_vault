@@ -32,7 +32,32 @@ _sources: ["fass_tsv:portfolio_2026-05-26"]
 
 # Richard Östreicher
 
-Franken (Sommerach) grower — unusually broad varietal mix for the region: Spätburgunder Katzenkopf + Scheiter + Hallburg + Rosen, Silvaner Maria im Wein / Augustbaum / Sur Lie, Cabernet Sauvignon R, Merlot, and a Bordeaux blend R (Cab S / Cab F / Merlot). One of the anchors for the newly-opened Franken region in the curation filters.
+3-hectare micro-domain in Sommerach on the Mainschleife — the loop the
+Main river carves through Franken — farmed by Richard Östreicher and his
+wife Kerstin Richter-Östreicher across more than thirty tiny parcels.
+**Falstaff 2025 awards 4 stars; Eichelmann Deutschlands Weine 2025 grants
+4.5 stars and classifies the estate as a "world-class winery"** (Weltklasse).
+On Michelin lists across Germany.
+
+Two distinct projects under one roof:
+
+- **Spätburgunder.** Richard travelled to Burgundy to study terroir and
+  brought back French plant material — *the rootstocks of his top Pinots
+  are original Burgundy clones*. Two Katzenkopf parcels: "Rosen" (lower
+  sandy soils, brighter) and "Katzenkopf" (higher clay-loess, denser).
+  The Scheiter at $177 is the reserve cuvée. Burgundian style — complexity
+  and elegance over upfront fruit fullness.
+- **Bordeaux blend.** Cabernet Sauvignon "R", Merlot, and the Cabernet
+  Sauvignon / Cabernet Franc / Merlot "R" cuvée together represent a
+  deliberate Franken-meets-Bordeaux project that has earned **cult status**
+  ("Kult-Östreicher aus Franken"). Wein.plus on the 2018 Katzenkopf Cuvée
+  R: "one of the most beautiful German red cuvées overall — solid,
+  concentrated yet astonishingly light-footed, oriented toward Bordeaux
+  but with its own character."
+
+Silvaner (Maria im Wein, Augustbaum, Sur Lie) is the third leg — the
+classical Franken variety, treated seriously. Anchor producer for the
+newly-opened Franken region in the curation filters (2026-05-26).
 
 ## CSW Write-ups
 

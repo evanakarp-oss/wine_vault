@@ -32,7 +32,29 @@ _sources: ["fass_tsv:portfolio_2026-05-26"]
 
 # Pierre Brisset
 
-FASS's Burgundy flagship négociant. The book spans the full Côte d'Or pyramid: Bourgogne Blanc / Rouge Cuvée Cassanéas + Cuvée Gabrius at the base; 1er Crus in Pommard (Les Charmots, Les Argillières), Volnay-adjacent, Vosne-Romanée 1er Cru Les Rouges du Dessus, Chambolle-Musigny 1er Cru Les Noirots and Les Cras, Nuits-Saint-Georges 1er Cru Aux Thorey, Chassagne-Montrachet 1er Cru Abbaye de Morgeot, Saint-Aubin 1er Cru Sur Roche du Gamay, Meursault Les Grands Charrons; topped by an Échezeaux Grand Cru at $325. Same house as 'Maison Brisset' in the raw data.
+Micro-négoce founded in **2014** by Pierre Brisset, based at Château de
+Bligny-lès-Beaune. The unusual story: Brisset did not grow up in Burgundy
+and is not from a vigneron family — he's part of a new generation of
+*outsider* micro-négociants who built their way in through purchased fruit
+and rented vineyard parcels. Now owns vineyards in Chassagne-Montrachet
+(so the Chardonnay side is partly estate). Jancis Robinson covers him
+formally on her producer pages; UK trade (Stannary Wine) handles En
+Primeur campaigns.
+
+**Production is deliberately capped at "a few thousand bottles per year"
+total** — not a generic négoce running thousands of cases. Focus
+exclusively on Premier and Grand Cru: Vosne-Romanée 1er Cru Les Rouges
+du Dessus, Chambolle-Musigny 1er Cru Les Noirots / Les Cras, Nuits-
+Saint-Georges 1er Cru Aux Thorey, Pommard 1er Cru (Les Charmots / Les
+Argillières), Chassagne-Montrachet 1er Cru Abbaye de Morgeot, Saint-
+Aubin 1er Cru Sur Roche du Gamay, Meursault Les Grands Charrons, Corton-
+Charlemagne; topped by Echézeaux Grand Cru at $325. Bourgogne Blanc
+Cuvée Cassanéas + Bourgogne Rouge Cuvée Gabrius at the entry level.
+
+Style: terroir-led, "aged with discretion and elegance" — the house line
+is finesse and typicity over concentration. Same operating entity as
+"Maison Brisset" in the raw retailer data (variant spelling, not a
+separate house).
 
 ## CSW Write-ups
 
