@@ -97,3 +97,20 @@ FASS-side answer to the Vosne-styled NSG question. Flags
 `scripts/ingest_fass.py` for rerun: JJ Girard, Maison Berlancourt, and
 likely others still uncaptured.
 
+## [2026-05-26] fass_sweep | Comprehensive FASS Vosne-adjacent inventory
+
+Full sweep of all 180+ files in `raw/fass/markdown/` against every
+Vosne-adjacent climat (NSG shoulder + Vosne village + Vosne 1er + Vosne
+Grand Cru + Flagey GC + Vougeot + Chambolle 1er/GC + Prémeaux). Result:
+only **three FASS producers carry Vosne-adjacent Burgundy** —
+[[maison_pierre_brisset|Brisset]] (NSG Aux Thorey + Vosne Rouges du
+Dessus + Chambolle Noirots + Échézeaux GC), [[vincent_ledy|Ledy]] (NSG
+Porets VV + JV), [[remi_poisot|Poisot]] (RSV). New finding: **Ledy
+Porets-Saint-Georges Jeunes Vignes at $79.99/3-pack, 800-bottle
+production** — same parcel as the VV, "the wine to drink while you age
+the VV." Also: per Lyle, Ledy is **imported by the same US importer as
+Domaine Leroy / Lalou Bize-Leroy** — peer-validation for the legendary
+Lalou-Boudots reference. Updated view's FASS section with comprehensive
+inventory table + Brisset's full Vosne-adjacent range (highlights
+Échézeaux GC as the natural next-tier Brisset target).
+

@@ -189,13 +189,51 @@ triangle Kelley sketches needs a south-side reference. The vault candidates:
 
 The FASS portfolio breaks the framework cleanly. Lyle Fass works through
 direct-allocation micro-producers, and his Côte de Nuits roster maps onto
-the three-styles taxonomy with surprising precision:
+the three-styles taxonomy with surprising precision.
+
+### Comprehensive FASS Vosne-adjacent inventory
+
+Built from a full sweep of `raw/fass/markdown/*.md` (180+ articles). Only
+three FASS producers carry Vosne-adjacent Burgundy in the captured set:
+
+| Producer | Wine | Adjacency | Price (FASS direct) |
+|---|---|---|---|
+| **[[maison_pierre_brisset\|Brisset]]** | NSG 1er Cru **Aux Thorey** | Vosne shoulder (south) | ~$95 |
+| **[[maison_pierre_brisset\|Brisset]]** | Vosne-Romanée 1er Cru **Les Rouges du Dessus** | Vosne 1er (Flagey hinge) | ~$175 |
+| **[[maison_pierre_brisset\|Brisset]]** | Chambolle-Musigny 1er Cru **Les Noirots** | Chambolle 1er (north of Vosne) | ~$180 |
+| **[[maison_pierre_brisset\|Brisset]]** | **Échézeaux Grand Cru** | Vosne Grand Cru (Flagey) | flagship — *"1 and 1A"* with Poisot RSV |
+| **[[vincent_ledy\|Vincent Ledy]]** | NSG 1er Cru **Les Porets-Saint-Georges VV** | NSG south side (not shoulder) | $108.99 / 3-pack |
+| **[[vincent_ledy\|Vincent Ledy]]** | NSG 1er Cru **Les Porets-Saint-Georges JV** | Same parcel, younger vines (only 800 btl made) | $79.99 / 3-pack |
+| **[[remi_poisot\|Rémi Poisot]]** | **Romanée-Saint-Vivant Grand Cru** | Vosne Grand Cru | $449.99 |
+
+Anything else in raw FASS that looked Vosne-adjacent on a keyword grep
+(Chorey "Les Beaumonts," various German Pinot tasting notes that
+name-drop "Vosne-like" or "Échézeaux-like") is a false positive — the
+above is the complete real inventory.
+
+### Three-styles map
 
 | WK style | FASS producer | Wine | Notes |
 |---|---|---|---|
 | **Vosne-styled NSG** | **[[maison_pierre_brisset\|Maison Pierre Brisset]]** | NSG 1er Cru Aux Thorey | Already in cellar. The user has been buying the Vosne-styled FASS NSG without explicitly naming it. ~$95. |
-| **"Nuits Nuits" NSG** | **[[vincent_ledy\|Vincent Ledy]]** | NSG 1er Cru Les Porets-Saint-Georges VV | Alain Michelot's nephew; Lyle compares to Gouges. South-side 1er. $108.99. |
+| **"Nuits Nuits" NSG** | **[[vincent_ledy\|Vincent Ledy]]** | NSG 1er Cru Les Porets-Saint-Georges VV *or* JV | Alain Michelot's nephew; Lyle compares to Gouges. South-side 1er. VV $108.99, JV $79.99. **The JV is the per-dollar value version** — only 800 bottles made, *"the wine to drink while you age the VV."* |
 | **Vosne reference (Grand Cru anchor)** | **[[remi_poisot\|Rémi Poisot]]** | Romanée-Saint-Vivant Grand Cru | Not NSG. The Vosne-styled *yardstick* at FASS, $449.99 (cheapest RSV on the market by hundreds). Tier-S in the Vosne-style framework. Horse-plowed since 2015. |
+
+### Brisset's full Vosne-adjacent range
+
+Beyond the NSG Aux Thorey, Brisset is FASS's most complete coverage of
+the Vosne-adjacent geography:
+
+- **NSG Aux Thorey** (Vosne shoulder) — Vosne-styled NSG ✅ owned
+- **Vosne 1er Cru Rouges du Dessus** (Vosne / Flagey hinge) ✅ owned
+- **Chambolle 1er Cru Les Noirots** (Chambolle adjacent) ✅ owned
+- **Échézeaux Grand Cru** (Flagey / Vosne Grand Cru) — not owned, the
+  natural next step within the Brisset house signature
+
+If the goal is *"the Brisset Vosne-adjacent set"*, the Échézeaux is the
+missing piece — and per Lyle Fass it's the apex of the entire FASS
+Burgundy range (*"1 and 1A with Poisot RSV"*). Flagship pricing /
+allocation only.
 
 **The structural insight:** at FASS, the Vosne-styled-NSG question
 collapses to a single buy — **Brisset Aux Thorey** — and the user has
@@ -206,16 +244,25 @@ Vosne-styled NSG options" but rather:
    FASS-side answer.
 2. **A natural south-side counterpart** in Vincent Ledy Porets-Saint-Georges
    if the user wants to do the three-styles tasting flight entirely
-   within FASS allocations.
+   within FASS allocations. The **Ledy JV at $79.99** makes this flight
+   affordable.
 3. **A Grand Cru calibration anchor** in Poisot RSV at FASS-direct
    pricing — useful because it sets the "what Vosne-styled actually
    means" reference at a price-point the broader market makes
    inaccessible.
+4. **A Brisset Échézeaux target** as the next-tier purchase for someone
+   already deep in Brisset's CdN range.
 
 Lyle Fass himself explicitly nests Brisset and Ledy together — in the
 Ledy 2021 Porets-Saint-Georges post, he writes: *"Easily the best NSG
 I've had at Fass. Easily on the same level as Brisset."* Two different
 WK-styles, both at the top of the FASS NSG roster.
+
+**Pedigree signal on Ledy:** per Lyle's 2020-release post, Ledy is now
+imported by the same US importer as Domaine Leroy / Lalou Bize-Leroy —
+the same importer Kelley flagged for the legendary Lalou Aux Boudots.
+That's a meaningful peer-validation signal even though Ledy stylistically
+sits in the opposite ("Nuits Nuits") corner of the WK framework.
 
 ---
 
@@ -283,8 +330,14 @@ For an entirely FASS-direct alternative (avoiding NYC retail entirely):
 | Style (WK 2021) | Wine | Source |
 |---|---|---|
 | Vosne-styled | [[maison_pierre_brisset\|Brisset]] NSG 1er Cru Aux Thorey 2023 | cellar (owned, 2 × ~$95) |
-| "Nuits" Nuits | [[vincent_ledy\|Vincent Ledy]] NSG 1er Cru Les Porets-Saint-Georges VV 2021 | FASS $108.99 |
+| "Nuits" Nuits | [[vincent_ledy\|Vincent Ledy]] NSG 1er Cru Les Porets-Saint-Georges **JV** 2020 | FASS $79.99 (or VV at $108.99) |
 | Vosne Grand Cru anchor | [[remi_poisot\|Rémi Poisot]] Romanée-Saint-Vivant 2022 | FASS $449.99 |
+
+The Ledy **JV** is the recommended pick for this flight — it's the same
+parcel as the VV at 73% of the price, only 800 bottles made, and per
+Lyle is *"the wine to drink while you age the VV,"* meaning it shows the
+Ledy-Gouges character earlier than the structurally-built VV does (which
+is exactly what you want for a side-by-side comparison flight).
 
 This flight skips the Chambolle-styled leg (Mugnier Maréchale is in DTE/3-
 tier, not FASS), but adds a Grand Cru anchor that the DTE/3-tier flight can't

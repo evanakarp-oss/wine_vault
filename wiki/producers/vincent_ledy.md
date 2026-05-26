@@ -80,12 +80,25 @@ the three-styles tasting triangle.
   85+ year old vines. **24 hl/ha yields** (vs. ~37 avg for NSG 1ers).
   No new oak. Came to him in 2013; split into VV and Jeunes Vignes
   cuvées.
+- **NSG 1er Cru Les Porets-Saint-Georges Jeunes Vignes** — split off
+  from the VV bottling. Same parcel, younger vines, same insane pruning
+  regimen. **Only 800 bottles made** (per Fass on the 2020 release).
+  Lyle: *"The wine to drink while you age the VV."*
 - **Bourgogne Hautes-Côtes de Nuits "La Vacherotte"** — Fass: *"drinks
   like a brilliant NSG village wine."* Sometimes split VV / JV.
 - **Savigny-lès-Beaune**
 - **Chorey-lès-Beaune "Les Beaumonts"** — Lyle's notes flag a client
   blind-tasting result where the 2015 finished ahead of two Corton Grand
-  Crus and a Beaune 1er Cru.
+  Crus and a Beaune 1er Cru. *(Note: Chorey's Beaumonts is **not** the
+  Vosne 1er Cru Beaumonts despite the shared name — different commune,
+  different terroir.)*
+
+## Pedigree signal
+
+Per Lyle Fass (2020-vintage release): Ledy is now **imported by the same
+US importer as Domaine Leroy / Lalou Bize-Leroy.** That's a meaningful
+peer signal — the Leroy importer (Wilson Daniels historically) is highly
+selective on the small-domaine roster.
 
 ## CSW Write-ups
 
@@ -107,7 +120,9 @@ Direct-allocation producer at FASS Selections. Limited. Lyle:
 | Cuvée | Vintage | Price |
 |---|---|---|
 | NSG 1er Cru Les Porets-Saint-Georges VV | 2021 | $108.99 / $320.97 3-pack |
+| NSG 1er Cru Les Porets-Saint-Georges JV | 2020 | $79.99 / $239.97 3-pack (only 800 btl made) |
 | Bourgogne Hautes-Côtes de Nuits "La Vacherotte" | 2021 | $41.99 / $159.96 4-pack |
+| Chorey-lès-Beaune "Les Beaumonts" | 2020 | $49.99 / $189.96 4-pack |
 
 Per Lyle on the 2013 Porets-Saint-Georges (drunk at 9 years old):
 *"Easily the best NSG I've had at Fass. Easily on the same level as
