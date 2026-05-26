@@ -26,6 +26,31 @@ _commit `36ec32e`_
 
 _commit `f0cecd1`_
 
+## [2026-05-26] lint | Drive cleanup: drop _drive_sync + wine_vault_fromdocuments references
+
+Approved to delete from Drive:
+- `_drive_sync/wine_wiki_v2/` (pre-migration legacy)
+- `wine_vault_fromdocuments/` (stale 2026-04-24 ZIP snapshot)
+
+Repo-side cleanup of references to these now-deleted paths:
+
+- `README.md` directory map: dropped `_drive_sync/` row.
+- `CLAUDE.md` directory map: dropped `_drive_sync/` row; "Drive
+  duplicates" follow-up narrowed to `wiki/wiki/` only.
+- `_canonical_ids.md`: marked the two folders as deleted; pruned
+  cleanup checklist to `wiki/wiki/`.
+- `scripts/scrape_csw_articles.py` + `scripts/scrape_blogs.py`:
+  removed `_drive_sync/` fallback paths from URL discovery.
+- `scripts/migrate_prose_to_yaml.py` → archived to
+  `scripts/_archive/` with a deprecation header (one-shot
+  migration is complete; kept as historical record).
+
+`.gitignore` retains defensive entries for all three paths in case
+they ever resurface from a future Drive sync.
+
+Remaining Drive duplicate: `wiki/wiki/`. Audit before deleting via
+`scripts/audit_drive_duplicates.py`.
+
 ## [2026-05-26] lint | curation decisions: Argentina accepted, Drive cleanup plan
 
 Two curation/cleanup calls:

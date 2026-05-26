@@ -25,9 +25,8 @@ in `README.md`.
   - `log.md` — append-only chronological log; entries prefixed `## [YYYY-MM-DD] op | title`, seeded by `scripts/build_wiki_log.py`
   - `My Cellar.csv` — CellarTracker export (cp1252-encoded)
 - `cellar/` — one .md per cuvée-vintage owned (~294 entries, ~631 bottles)
-- `scripts/` — Python tools, all idempotent
+- `scripts/` — Python tools, all idempotent (archived one-shots live in `scripts/_archive/`)
 - `build/` — derived outputs + ingest reports, regenerable
-- `_drive_sync/` — staging for round-trips with the older Drive `wine_wiki/`
 
 ## Source-of-truth rules
 
@@ -126,7 +125,7 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
 ## Open follow-ups (as of 2026-05-26)
 
 - **Catena Zapata** is in the cellar (2 bottles) but has no producer page — gap. Either create the page from the cellar entries, or accept that some cellar bottles don't need wiki pages (Catena is generic-tier per the existing taste filter).
-- **Drive duplicates** listed in `_canonical_ids.md` (`wiki/wiki/`, `wine_vault_fromdocuments/`, `_drive_sync/wine_wiki_v2/`) still exist on Drive. Git is now the source of truth; treat Drive as a read-only mirror and clean the duplicates when convenient.
+- **One Drive duplicate left**: `wiki/wiki/`. `_drive_sync/wine_wiki_v2/` and `wine_vault_fromdocuments/` are approved-for-delete (2026-05-26). Before deleting `wiki/wiki/`, run `python scripts/audit_drive_duplicates.py /path/to/Drive/wine_vault/wiki/wiki` — exits non-zero if any producer slug lives only on Drive.
 - **Raeders candidates** — `scripts/audit_raeders_candidates.py` produces a triage table at `build/raeders_candidates.md` (1,541 producers not yet in vault). Triage with Evan's curation taste; onboard the keepers via `compile_raeders_creates_v2.py`.
 - **Berserkers threads** — pipeline wired (2026-05), `top10_in_cellar` is the only ingested thread. To add another: scrape → parse → compile, see `raw/berserkers/README.md`.
 - **JSX widget rewire** — `scripts/build_widget_json.py` now emits `build/widget_data.json` from the vault. The widget JSX file (`dte_wines_1.jsx`) lives outside this repo; update it to `fetch('/build/widget_data.json')` instead of the hardcoded arrays.

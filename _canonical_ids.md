@@ -11,24 +11,17 @@ purpose: |
   Drive is treated as a read-only mirror; no scripts write to Drive.
 ---
 
-## Drive cleanup checklist (2026-05-26)
+## Drive cleanup status (2026-05-26)
 
-The three Drive folders below are duplicates / stale. Recommended
-delete order, safest first:
+- ✅ **`_drive_sync/wine_wiki_v2/`** — approved for delete (2026-05-26). Pre-migration legacy, no unique content.
+- ✅ **`wine_vault_fromdocuments/`** — approved for delete (2026-05-26). 2026-04-24 ZIP-derived snapshot, strictly older than canonical.
+- ⚠️ **`wiki/wiki/`** — still requires audit before delete. Partial parallel tree inside the canonical `wiki/` folder. Run:
 
-1. **`_drive_sync/wine_wiki_v2/`** — pre-migration legacy. Safe to delete.
-2. **`wine_vault_fromdocuments/`** — 2026-04-24 ZIP-derived snapshot,
-   strictly older than the current canonical. Safe to delete.
-3. **`wiki/wiki/`** — partial parallel tree inside the canonical
-   `wiki/` folder. Before deleting, run:
+  ```sh
+  python scripts/audit_drive_duplicates.py /path/to/Drive/wine_vault/wiki/wiki
+  ```
 
-   ```sh
-   python scripts/audit_drive_duplicates.py /path/to/Drive/wine_vault/wiki/wiki
-   ```
-
-   The audit reports any producer slugs unique to the Drive copy. If
-   the report says "Safe to delete," proceed. Otherwise copy the
-   unique pages into `wiki/producers/`, commit, then delete.
+  The audit reports any producer slugs unique to the Drive copy. If the report says "Safe to delete," proceed. Otherwise copy the unique pages into `wiki/producers/`, commit, then delete.
 
 
 # Wine Vault — Canonical Drive IDs
@@ -90,17 +83,15 @@ _project_instructions.md:   113EFDgKjMfj84A6m1gbuugecxmoyfJ9R
 ## Known stale / pending-cleanup IDs (do NOT write to these)
 
 ```yaml
-# Parallel duplicate tree of wiki/ — has the Berserkers/Kelley ingest content,
-# but lacks the Argentina ingest. Pending merge via scripts/merge_wiki_producers.py.
+# Parallel duplicate tree of wiki/ — has the Berserkers/Kelley ingest content
+# but is missing more recent work. Audit before delete via
+# scripts/audit_drive_duplicates.py.
 wiki/wiki/:                 1GKlN2KtDVYFtoYG_-BZQZmRoE4XnWpOs
 wiki/wiki/producers/:       18X5-67eHq649S_RE2RGFy6oLM8YK-y1a
 
-# Third copy of the entire vault (auto-created from a chat-attached zip upload).
-# Stale (mostly 2026-04-24). Pending review then deletion.
-wine_vault_fromdocuments/:  1mYgoJfyDF3VrFN_r9i8KVLtcdKHSsn_k
-
-# Old vault pre-migration. Lives inside _drive_sync/. Pending deletion.
-_drive_sync/wine_wiki_v2/:  1uBIr27zcIqMljdKcKHSgk3KyeCxlCcmP
+# Deleted 2026-05-26:
+# - wine_vault_fromdocuments/  (was: 1mYgoJfyDF3VrFN_r9i8KVLtcdKHSsn_k)
+# - _drive_sync/wine_wiki_v2/  (was: 1uBIr27zcIqMljdKcKHSgk3KyeCxlCcmP)
 ```
 
 ## How to use this file

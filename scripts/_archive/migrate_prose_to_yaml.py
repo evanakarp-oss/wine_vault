@@ -1,4 +1,8 @@
 """
+ARCHIVED 2026-05-26 — one-shot migration completed; `_drive_sync/`
+is being deleted from Drive. Kept in scripts/_archive/ as a historical
+record of the prose → YAML migration logic.
+
 Migrate legacy prose-format producer .md files from _drive_sync/ into the
 canonical YAML-frontmatter format in wiki/producers/.
 

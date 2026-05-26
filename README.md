@@ -37,10 +37,8 @@ wine_vault/
 │   ├── build_rollups.py        # regenerate wiki/regions/*, wiki/importers/*
 │   └── build_widget_json.py    # emit build/widget_data.json for the React widget
 │
-├── build/                      # derived outputs — regenerable, never hand-edit
-│   └── widget_data.json
-│
-└── _drive_sync/                # staging area for Drive round-trips
+└── build/                      # derived outputs — regenerable, never hand-edit
+    └── widget_data.json
 ```
 
 ## The loop
