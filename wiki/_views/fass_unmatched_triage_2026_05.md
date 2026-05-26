@@ -460,15 +460,17 @@ After each batch: re-run `scripts/ingest_fass.py` → `scripts/build_rollups.py`
 
 ---
 
-## Open question for Evan
+## Decisions (Evan, 2026-05-26)
 
-- **Bel Air Marquis d'Aligre** (10 bottles, 1996–2015 aged stock) — keep
-  in Bordeaux Tier 1 or skip per "no generic mid-tier"? It's Cru
-  Bourgeois Supérieur but the long-élevage (released 10+ years late) is
-  the value hook.
-- **Cahors / Jouffreau Clos de Gamot** (12 entries across 4 spelling
-  variants) — accept Southwest France as a covered region (à la
-  Argentina acceptance in 2026-05) or skip?
-- **Franken** (Östreicher, Walter, Weltner — ~50 cuvées combined) —
-  worth opening the region or stay focused on Mosel/Nahe/Pfalz/
-  Rheinhessen/Baden?
+- **Bel Air-Marquis d'Aligre** → **aged classic — onboard**. Long-élevage
+  Cru Bourgeois counts as an exception to the "no generic mid-tier
+  Bordeaux" rule. CLAUDE.md updated.
+- **Cahors / Famille Jouffreau** → **Southwest France accepted**. Add
+  `famille_jouffreau` (consolidating Famille / Famlie / Familie Jouffreau
+  Clos de Gamot variants, 12 entries, 1986 vertical) to Tier 1.
+  CLAUDE.md updated.
+- **Franken** → **region opened**. Add `richard_ostreicher`,
+  `josef_walter`, `paul_weltner` (consolidating with `weingut_weltner`)
+  to Tier 1. CLAUDE.md updated.
+
+Net effect: Tier 1 grows from ~50 to ~54 producers.

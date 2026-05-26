@@ -115,12 +115,20 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
 ## Curation taste (Evan's filters)
 
 - **Bordeaux**: WK-style undercovered/value with great farming. Aged classed-growth
-  for drink-now bottles only. Skip generic mid-tier.
+  for drink-now bottles only. Skip generic mid-tier. **Aged-classic exception**
+  (added 2026-05-26): Cru Bourgeois with long-élevage / late-release programs
+  count, e.g. Bel Air-Marquis d'Aligre (Margaux, released 10+ years late).
 - **Champagne**: aged vintage cuvées, late-disgorged (P2/RD), or grower champagne. Not generic NV.
 - **Napa**: true cult tier (Harlan/Hundred Acre/Ridge Monte Bello/Bond/Colgin/SQN/Schrader),
   not generic $250 Cab.
 - **Burgundy / Loire / Mosel / Piedmont**: terroir-driven, biodynamic-leaning, grower-scale.
 - **Argentina (Mendoza / Patagonia / Salta)**: accepted as an interest area as of 2026-05-26. Bias toward biodynamic / terroir-driven / artisan-scale producers (Chacra, Colomé, Cara Sur, Canopus, Altos Las Hormigas style). Argentina_Reloaded curator's selection (Paz Levinson, 79 producers) is the seed.
+- **Southwest France (Cahors)** — accepted 2026-05-26 from the FASS triage.
+  Anchor: Famille Jouffreau / Clos de Gamot (aged Vignes Centenaires, 1986
+  vertical at FASS). Same aged-grower lens as the rest of the Tier-1 picks.
+- **Franken** — opened 2026-05-26 from the FASS triage. Anchors: Richard
+  Östreicher (Pinot Noir / Silvaner), Josef Walter (Centgrafenberg Spätburgunder),
+  Paul Weltner / Weingut Weltner (Rödelsee Küchenmeister / Hoheleite GG).
 - **Cellar style**: NYC/US retailers, German biodynamic, US boutique, Italian Friuli/Piedmont.
 
 ## Open follow-ups (as of 2026-05-26)
