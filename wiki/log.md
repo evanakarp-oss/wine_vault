@@ -47,3 +47,24 @@ appears. Ran `build_rollups.py` (Burgundy_Producers now 100 producers) and
 1 false-positive `broken_wikilink` for view-page references is by design
 (lint only checks producer-slug targets).
 
+## [2026-05-26] view | Vosne-styled NSG — deep analysis
+
+New companion to `vosne_adjacent_parcels.md` at
+`wiki/_views/vosne_styled_nsg.md`. Pivots from geography to **stylistic
+identification**, anchored on William Kelley's framework from Berserkers
+thread #168700, post #60 (2021-02-24, "Wine's Naturalistic Fallacy"):
+*"the Mugneret sisters make Vosne-styled Nuits and Mugnier makes
+Chambolle-styled Nuits, whereas Chevillon … makes the most obviously
+'Nuits' Nuits."* Plus the parallel quote from thread #164465 post #23
+naming "Lalou's Boudots" and "the Mugneret sisters' Chaignots" as NSG
+wines that can stand next to grand cru (the cited Mugneret 1999
+Chaignots-vs-DRC 1999 Échézeaux blind). Two-axis framework (site ×
+winemaking) and four tiers from S (WK's named references) down to D
+(south-side "Nuits Nuits" comparison set). Headline Tier-A buys all
+DTE-sourced: [[georges_noellat|Georges Noëllat]] Aux Boudots 2021 @ $199,
+[[maxime_cheurlin|Maxime Cheurlin]] Damodes & Vignes Rondes @ $149,
+[[hudelot_noellat|Hudelot-Noëllat]] Bas de Combes @ $109, plus
+[[meo_camuzet|Méo-Camuzet]] Aux Murgers at Raeder's. Names the data
+gaps for next ingest: Domaine Leroy / Faiveley / Thibault Liger-Belair /
+Confuron-Cotetidot / J-J Confuron all need pages.
+
