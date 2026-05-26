@@ -1,6 +1,6 @@
 ---
 type: canonical_ids
-updated: 2026-05-10
+updated: 2026-05-26
 purpose: |
   Pinned Drive folder/file IDs for wine_vault. Scripts and Claude must
   resolve folders by ID (not by name) to avoid the duplicate-name
@@ -23,7 +23,7 @@ wine_vault:                 1lqMRm9PiLel19kGC7FAZgd-2cHu2CZBB
 
 ```yaml
 wiki/:                      11pj3GsO9yVhsWzhDEpdAzdakaq0xWKit
-wiki/producers/:            1v1YRi3cxRO2EWjrL5QwVdnaEgAAzmD9v
+wiki/producers/:            1jNoplT8Fir2PHAZU17p1CePdRJtZf-4o
 wiki/regions/:              1_5HLIxTUWmrv1muspDgpVNiJitCpo_bw
 wiki/importers/:            1OUbur4qTdLEHKNRmjQlH__B8n5Ag9Wct
 wiki/retailers/:            18SYgqJ3MtorxXSnpX7SdtQb5ns6b3YUh
@@ -63,20 +63,48 @@ README.md (root):           1-GX6IaKQXLUYh3VFAigmX4ugYhRqlz6z
 _project_instructions.md:   113EFDgKjMfj84A6m1gbuugecxmoyfJ9R
 ```
 
-## Known stale / pending-cleanup IDs (do NOT write to these)
+## Remaining clutter on Drive (safe to delete, outside canonical tree)
+
+These are gitignored and don't affect the canonical vault. Drive-only
+cleanup, do via web UI when convenient. See
+`build/drive_duplicates_audit.md` for the full enumeration.
 
 ```yaml
-# Parallel duplicate tree of wiki/ — has the Berserkers/Kelley ingest content,
-# but lacks the Argentina ingest. Pending merge via scripts/merge_wiki_producers.py.
-wiki/wiki/:                 1GKlN2KtDVYFtoYG_-BZQZmRoE4XnWpOs
-wiki/wiki/producers/:       18X5-67eHq649S_RE2RGFy6oLM8YK-y1a
+# _drive_sync/ graveyards. Pre-migration content, kept around as archive.
+wine_vault/_drive_sync/:           1aAl0ic2l7tXBpb1ftwvmX9ovVRnQnBwb
+_drive_sync/ (Drive root, dup):    1CtZo6znKy239-zxloRk1su2-XD22VQTp
+_drive_sync/wine_wiki_v2/:         1uBIr27zcIqMljdKcKHSgk3KyeCxlCcmP
 
-# Third copy of the entire vault (auto-created from a chat-attached zip upload).
-# Stale (mostly 2026-04-24). Pending review then deletion.
-wine_vault_fromdocuments/:  1mYgoJfyDF3VrFN_r9i8KVLtcdKHSsn_k
+# Four ~125 KB zip copies of the old wine_wiki_v2 content.
+wine_wiki_v2.zip (in vault dsync): 1Jq3pYkMukyiZfc5TKhJlURnQQnzO86k8
+wine_wiki_v2.zip (in root dsync):  1Y7c7XgoRqQIiCu3DOBXPP5vEmJCJ9lTD
+wine wiki v2.zip (Drive root):     1NrV8ghs3p4WaBIBsYzqs7ufcbRmYo29a
+wine_wiki:.zip (Drive root):       1Fvvq2EFGXMyTKgsNNdun9NmmqEyNFewt
 
-# Old vault pre-migration. Lives inside _drive_sync/. Pending deletion.
-_drive_sync/wine_wiki_v2/:  1uBIr27zcIqMljdKcKHSgk3KyeCxlCcmP
+# May 10 cleanup-session scaffolding. Historical context, no longer needed.
+wine_vault_cleanup_bundle/:        1nM83t_-3SaH2eBGnnOb5dqEZcsi-_aiF
+wine_vault_cleanup_bundle.zip:     1-hEdGpaPhbEYRQpssLS1GEhrWCdqFwcE
+```
+
+## Cleanup history (already executed — IDs are trashed/superseded)
+
+These IDs are now inaccessible via the Drive MCP ("ineligible for
+generative AI"), which is Drive's signal for trashed items. Kept here
+for traceability; do not write to them. Audited 2026-05-26.
+
+```yaml
+# The wiki/wiki/ parallel branch — merged into canonical 2026-05-10
+# per wine_vault_cleanup_bundle/CLEANUP_RUNBOOK.md. 104 producer pages
+# received their Berserkers/Kelley body sections via merge_wiki_producers.py.
+wiki/wiki/                  (was 1GKlN2KtDVYFtoYG_-BZQZmRoE4XnWpOs) — TRASHED
+wiki/wiki/producers/        (was 18X5-67eHq649S_RE2RGFy6oLM8YK-y1a) — TRASHED
+
+# Third copy auto-created from a chat-attached zip upload.
+wine_vault_fromdocuments/   (was 1mYgoJfyDF3VrFN_r9i8KVLtcdKHSsn_k) — TRASHED
+
+# Original canonical wiki/producers/ folder — replaced 2026-05-14 by
+# `1jNoplT8Fir2PHAZU17p1CePdRJtZf-4o` (likely a re-upload during cleanup).
+wiki/producers/             (was 1v1YRi3cxRO2EWjrL5QwVdnaEgAAzmD9v) — SUPERSEDED
 ```
 
 ## How to use this file
