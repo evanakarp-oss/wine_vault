@@ -4,8 +4,8 @@ name: "Gulfi"
 slug: gulfi
 aliases: []
 country: "Italy"
-region: ""
-sub_region: ""
+region: "Sicily"
+sub_region: "Vittoria"
 appellations: []
 farming: []
 certifications: []

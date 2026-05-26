@@ -2,7 +2,8 @@
 
 Karpathy-style LLM knowledge base for wine collecting. Markdown is the source
 of truth; code is only for landing data and rendering views. Full architecture
-in `README.md`.
+in `README.md`. Edit-and-sync workflow in `WORKFLOW.md` (**git is canonical;
+Drive auto-mirrors on every push**).
 
 ## Three use cases this serves
 
@@ -25,9 +26,8 @@ in `README.md`.
   - `log.md` — append-only chronological log; entries prefixed `## [YYYY-MM-DD] op | title`, seeded by `scripts/build_wiki_log.py`
   - `My Cellar.csv` — CellarTracker export (cp1252-encoded)
 - `cellar/` — one .md per cuvée-vintage owned (~294 entries, ~631 bottles)
-- `scripts/` — Python tools, all idempotent
+- `scripts/` — Python tools, all idempotent (archived one-shots live in `scripts/_archive/`)
 - `build/` — derived outputs + ingest reports, regenerable
-- `_drive_sync/` — staging for round-trips with the older Drive `wine_wiki/`
 
 ## Source-of-truth rules
 
@@ -120,17 +120,39 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
 - **Napa**: true cult tier (Harlan/Hundred Acre/Ridge Monte Bello/Bond/Colgin/SQN/Schrader),
   not generic $250 Cab.
 - **Burgundy / Loire / Mosel / Piedmont**: terroir-driven, biodynamic-leaning, grower-scale.
+- **Argentina (Mendoza / Patagonia / Salta)**: accepted as an interest area as of 2026-05-26. Bias toward biodynamic / terroir-driven / artisan-scale producers (Chacra, Colomé, Cara Sur, Canopus, Altos Las Hormigas style). Argentina_Reloaded curator's selection (Paz Levinson, 79 producers) is the seed.
 - **Cellar style**: NYC/US retailers, German biodynamic, US boutique, Italian Friuli/Piedmont.
 
-## Open follow-ups (as of 2026-04-25)
+## Open follow-ups (as of 2026-05-26)
 
-- `/ask-cellar` skill still points at OLD Drive `wine_wiki/` — needs repoint to `wine_vault/wiki/` + `cellar/` + `raw/`
-- Vinous, Wine Advocate (Kelley) — ingest not yet wired. Plan: Obsidian Web Clipper → `raw/clippings/<source>/` → compile pass.
-- Berserkers — wired (2026-05). One thread ingested (`top10_in_cellar`). To add another: scrape → parse → compile, see `raw/berserkers/README.md`.
-- 60 lint issues outstanding: 32 region taxonomy violations, 19 empty regions, 8 surname collisions (Baudry, Paris), 1 duplicate (rousset / domaine_rousset).
-- Widget rewire: `dte_wines_1.jsx` still reads hardcoded arrays, needs `build_widget_json.py`.
-- 387 unselected Raeders new-candidate producers parked in `raw/` — revisit if scope expands.
-- Mobile access: claude.ai Project + Drive connector OR Obsidian mobile via iCloud.
+- **Catena Zapata** is in the cellar (2 bottles) but has no producer page — gap. Either create the page from the cellar entries, or accept that some cellar bottles don't need wiki pages (Catena is generic-tier per the existing taste filter).
+- **Roscioli 152 missing producer pages** — the 2026-05-19 `_PATCH_roscioli_2026-05.md` claimed 152 new Italian producer pages had been uploaded to Drive. Audit (2026-05-26) shows they never made it. The importer rollup page `wiki/importers/Roscioli_Wine_Club.md` lists all 156 names with profile URLs and sub-regions — re-run the original Roscioli scraper (location unknown — likely a notebook Evan ran locally) OR seed the 152 pages from the rollup data + scraping the live `roscioliwineclub.com/<slug>/` URLs.
+- **One Drive duplicate left**: `wiki/wiki/`. `_drive_sync/wine_wiki_v2/` and `wine_vault_fromdocuments/` are approved-for-delete (2026-05-26). Before deleting `wiki/wiki/`, run `python scripts/audit_drive_duplicates.py /path/to/Drive/wine_vault/wiki/wiki` — exits non-zero if any producer slug lives only on Drive.
+- **Raeders candidates** — `scripts/audit_raeders_candidates.py` produces a triage table at `build/raeders_candidates.md` (1,541 producers not yet in vault). Triage with Evan's curation taste; onboard the keepers via `compile_raeders_creates_v2.py`.
+- **Berserkers threads** — pipeline wired (2026-05), `top10_in_cellar` is the only ingested thread. To add another: scrape → parse → compile, see `raw/berserkers/README.md`.
+- **JSX widget rewire** — `scripts/build_widget_json.py` now emits `build/widget_data.json` from the vault. The widget JSX file (`dte_wines_1.jsx`) lives outside this repo; update it to `fetch('/build/widget_data.json')` instead of the hardcoded arrays.
+
+## Closed follow-ups (2026-05-26)
+
+- ✅ **/ask-cellar skill** — committed in-repo at `.claude/skills/ask-cellar/SKILL.md`, points at `wine_vault/wiki/` + `cellar/` + `raw/`. Drive paths deprecated.
+- ✅ **Vinous + Wine Advocate (Kelley) ingest** — wired. Drop Obsidian Web Clipper output into `raw/clippings/vinous/` or `raw/clippings/wine_advocate/`, run `python scripts/compile_clippings.py <source> --apply`. Schema sections `## Vinous Reviews` and `## Wine Advocate (Kelley)` are in `_SCHEMA.md`.
+- ✅ **Lint** — 60 (then 66) → 0. See architecture-fix entry below.
+- ✅ **Importer / retailer reference** — `wiki/_resources.md` (flat ~190-entry list) migrated to one-per-file pages: 66 importer pages + 129 retailer pages. `build_rollups.py` now preserves hand-edited frontmatter + prose (regenerates only inside `<!-- BEGIN AUTO-GENERATED -->` markers).
+
+## Mobile access
+
+See `WORKFLOW.md` for the full setup. Quick version:
+
+- **Editing on mobile** — Claude Code (this session) commits to git → `drive_mirror` workflow auto-pushes to Drive within ~1 minute. OR install Working Copy iOS, clone into iCloud, point Obsidian Mobile at the iCloud-synced git clone.
+- **Reading on mobile** — Drive's iOS app reads the auto-mirrored copy. Obsidian Mobile reads the iCloud-synced clone.
+- **Q&A on mobile** — claude.ai Project with the Drive connector pointed at the mirror.
+
+**Anti-pattern**: editing files directly in Drive (web UI, Obsidian-on-Drive, chat upload). The mirror is push-only — your Drive edits will be overwritten on the next push to main. Edit in git, always.
+
+## Architecture-fix history
+
+- **2026-05-26** — lint 66 → 0. `scripts/fix_vault_architecture.py` (one-shot, idempotent) consolidated 8 CSW surname-collision dupes, deleted 2 mojibake/legacy relics, normalized 48 region fields (sub-regions moved out of `region:`), backfilled 16 empty regions, synthesized frontmatter for 5 legacy pages. Region rollups: 57 → 37. `lint.py --strict` now gates CI. Full entry in `wiki/log.md`.
+- **2026-05-26** — closed 5 open follow-ups: `/ask-cellar` skill written in-repo, Vinous + Wine Advocate (Kelley) clippings pipeline scaffolded, `build_widget_json.py` written, `_resources.md` migrated to per-entity pages (66 importers + 129 retailers), `build_rollups.py` updated to preserve hand-edits between auto-markers.
 
 ## Anti-patterns
 

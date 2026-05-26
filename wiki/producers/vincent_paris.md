@@ -2,7 +2,7 @@
 type: producer
 name: Vincent Paris
 slug: vincent_paris
-aliases: []
+aliases: ["Paris"]
 country: France
 region: Rhône
 sub_region: ''

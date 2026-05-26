@@ -4,8 +4,8 @@ name: Immich-Batterieberg
 slug: immich-batterieberg
 aliases: []
 country: Germany
-region: Mosel (Enkirch)
-sub_region: ''
+region: "Mosel"
+sub_region: "Enkirch"
 appellations: []
 farming:
 - biodynamic

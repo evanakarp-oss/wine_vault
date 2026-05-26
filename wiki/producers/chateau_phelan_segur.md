@@ -2,7 +2,7 @@
 type: producer
 name: Château Phélan-Ségur
 slug: chateau_phelan_segur
-aliases: []
+aliases: ["Phélan Ségur", "Phelan-Segur", "Phelan Segur"]
 country: France
 region: Bordeaux
 sub_region: Saint-Estèphe

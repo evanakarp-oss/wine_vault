@@ -2,10 +2,10 @@
 type: producer
 name: "Le Piane"
 slug: le_piane
-aliases: []
+aliases: ["Piane"]
 country: "Italy"
-region: ""
-sub_region: ""
+region: "Piedmont"
+sub_region: "Alto Piemonte"
 appellations: []
 farming: []
 certifications: []

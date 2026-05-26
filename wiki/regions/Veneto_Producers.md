@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Veneto"
-updated: 2026-05-14
+updated: 2026-05-26
 producer_count: 1
 ---
 

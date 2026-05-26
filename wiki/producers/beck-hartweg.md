@@ -3,9 +3,9 @@ type: producer
 name: Beck-Hartweg
 slug: beck-hartweg
 aliases: []
-country: Germany
-region: ''
-sub_region: ''
+country: France
+region: "Alsace"
+sub_region: "Dambach-la-Ville"
 appellations: []
 farming:
 - organic

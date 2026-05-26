@@ -4,8 +4,8 @@ name: Burlotto
 slug: burlotto
 aliases: []
 country: Italy
-region: Verduno (Barolo)
-sub_region: ''
+region: "Piedmont"
+sub_region: "Verduno (Barolo)"
 appellations: []
 farming: []
 certifications: []

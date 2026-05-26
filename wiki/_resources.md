@@ -1,6 +1,20 @@
+---
+type: resources_reference
+updated: 2026-05-26
+status: legacy_flat_export
+superseded_by: wiki/importers/ + wiki/retailers/
+note: |
+  As of 2026-05-26 the canonical surfaces are one-per-file pages
+  under `wiki/importers/` (66 pages) and `wiki/retailers/` (129
+  pages), migrated from this file by
+  `scripts/migrate_resources_to_pages.py`. This document is kept
+  for round-trip / flat-export use, but the LLM-wiki query flow
+  should start at `wiki/index.md` → the per-entity pages.
+---
+
 \# WINE IMPORTERS & RETAILERS REFERENCE  
 \# For use with CSW Knowledge Base / Karpathy Framework  
-\# Last updated April 2026  
+\# Last updated April 2026 (migrated to one-per-file 2026-05-26)  
 \# Format: Name | URL | Focus/Notes
 
 ═══════════════════════════════════════════════════════════════  

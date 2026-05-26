@@ -2,7 +2,7 @@
 type: producer
 name: "Schafer-Frohlich"
 slug: schafer-frohlich
-aliases: []
+aliases: ["Schaefer-Frohlich", "Schaefer Frohlich", "Schäfer-Fröhlich", "Schafer Frohlich"]
 country: "Germany"
 region: "Nahe"
 sub_region: ""

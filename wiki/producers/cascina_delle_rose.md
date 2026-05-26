@@ -4,8 +4,8 @@ name: Cascina delle Rose
 slug: cascina_delle_rose
 aliases: []
 country: Italy
-region: Barbaresco (Neive)
-sub_region: ''
+region: "Piedmont"
+sub_region: "Barbaresco (Neive)"
 appellations: []
 farming:
 - organic
@@ -29,6 +29,14 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+roscioli:
+  in_portfolio: true
+  profile_url: "https://www.roscioliwineclub.com/cascina-delle-rose-barbaresco/"
+  has_video: true
+  place: "Barbaresco"
+  style_hint: ""
+  profile_date: 2022-03-03
+  story_count: 0
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -74,6 +82,15 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Roscioli Wine Club
+
+**Profile:** [Cascina delle Rose, Barbaresco](https://www.roscioliwineclub.com/cascina-delle-rose-barbaresco/)  
+**Place:** Barbaresco  
+
+Cascina delle Rose winery is located in the municipality of Tre Stelle, a short distance from Alba. The winery has been owned by the Rizzolio family since the late 40s and counts 3.6 hectares for an annual production of about 20,000 bottles.
+
+**Winemaker video:** https://www.youtube.com/embed/upV0cx8detY?feature=oembed
+
 ## Cellar
 
 Own **1 bottle(s)** across 1 cuvée-vintage(s):
@@ -85,3 +102,4 @@ Own **1 bottle(s)** across 1 cuvée-vintage(s):
 - [[Italy_Producers|Italy]]
 - [[Barbaresco (Neive)]]
 - [[CSW Article Archive]]
+- [[Roscioli_Wine_Club|Roscioli Wine Club (importer)]]

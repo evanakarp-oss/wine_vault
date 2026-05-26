@@ -76,6 +76,7 @@ Add new values here FIRST, then use them in producer files.
 - Galicia
 - Jumilla
 - Ribera del Duero
+- Basque Country
 
 ### Argentina
 - Mendoza
@@ -113,6 +114,10 @@ Add new values here FIRST, then use them in producer files.
 - `fass` → FASS
 
 (Add more here as new retailers are modeled — each gets its own key and its own section in the producer body.)
+
+## `source` (top-level source-role enum, parallel to `retailers:`)
+
+- `roscioli_wine_club` → Roscioli Wine Club (Rome-based Italian importer-curator). Producer pages with Roscioli coverage carry a top-level `roscioli:` frontmatter block and a `## Roscioli Wine Club` body section. 156 producer profiles indexed at `wiki/importers/Roscioli_Wine_Club.md`.
 
 ## `events` (curatorial / festival series)
 

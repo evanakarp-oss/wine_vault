@@ -4,8 +4,8 @@ name: "Montenidoli"
 slug: montenidoli
 aliases: []
 country: "Italy"
-region: ""
-sub_region: ""
+region: "Tuscany"
+sub_region: "San Gimignano"
 appellations: []
 farming: []
 certifications: []

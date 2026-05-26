@@ -2,7 +2,7 @@
 type: producer
 name: Georges Noëllat
 slug: georges_noellat
-aliases: []
+aliases: ["Georges Noëllat", "Domaine Georges Noëllat"]
 country: France
 region: Burgundy
 sub_region: ''

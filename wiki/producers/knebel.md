@@ -4,8 +4,8 @@ name: Knebel
 slug: knebel
 aliases: []
 country: Germany
-region: Mosel (Winningen)
-sub_region: ''
+region: "Mosel"
+sub_region: "Winningen"
 appellations: []
 farming: []
 certifications: []

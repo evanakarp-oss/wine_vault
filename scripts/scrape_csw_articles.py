@@ -101,12 +101,11 @@ def urls_from_sitemap() -> list[tuple[str, str]]:
 
 
 def urls_from_wiki() -> list[str]:
-    """Scrape /blogs/articles/<slug> links from existing wiki/producers/*.md + _drive_sync/*.md."""
+    """Scrape /blogs/articles/<slug> links from existing wiki/producers/*.md."""
     out: set[str] = set()
     url_re = re.compile(r"\(https://chambersstwines\.com/blogs/articles/([^)\s]+)\)")
-    for d in (VAULT / "wiki" / "producers", VAULT / "_drive_sync"):
-        if not d.exists():
-            continue
+    d = VAULT / "wiki" / "producers"
+    if d.exists():
         for f in d.glob("*.md"):
             for m in url_re.finditer(f.read_text(encoding="utf-8", errors="ignore")):
                 slug = m.group(1).rstrip("!.,;:)")

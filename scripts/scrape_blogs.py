@@ -342,13 +342,12 @@ def urls_from_pagination(site: SiteConfig, max_pages: int = 200) -> list[str]:
 
 
 def urls_from_wiki(site: SiteConfig) -> list[str]:
-    """Pull article URLs already cited inside wiki/ + _drive_sync/ producer pages."""
+    """Pull article URLs already cited inside wiki/producers/."""
     netloc = urlparse(site.base).netloc.replace("www.", "")
     pat = re.compile(rf"https?://(?:www\.)?{re.escape(netloc)}/[^\s)\"'<>]+")
     out: set[str] = set()
-    for d in (VAULT / "wiki" / "producers", VAULT / "_drive_sync"):
-        if not d.exists():
-            continue
+    d = VAULT / "wiki" / "producers"
+    if d.exists():
         for f in d.glob("*.md"):
             for m in pat.finditer(f.read_text(encoding="utf-8", errors="ignore")):
                 href = m.group(0).rstrip("!.,;:)")

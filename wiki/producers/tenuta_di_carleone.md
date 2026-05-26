@@ -4,8 +4,8 @@ name: "Tenuta di Carleone"
 slug: tenuta_di_carleone
 aliases: []
 country: "Italy"
-region: ""
-sub_region: ""
+region: "Tuscany"
+sub_region: "Chianti Classico"
 appellations: []
 farming: []
 certifications: []

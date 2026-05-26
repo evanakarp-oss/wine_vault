@@ -4,8 +4,8 @@ name: Bruna
 slug: bruna
 aliases: []
 country: Italy
-region: Liguria (Riviera Ligure di Ponente)
-sub_region: ''
+region: "Liguria"
+sub_region: "Riviera Ligure di Ponente"
 appellations: []
 farming:
 - organic
@@ -29,6 +29,14 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+roscioli:
+  in_portfolio: true
+  profile_url: "https://www.roscioliwineclub.com/cantina-bruna-imperia-pigato/"
+  has_video: true
+  place: "Imperia"
+  style_hint: "Pigato"
+  profile_date: 2022-03-03
+  story_count: 0
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -69,8 +77,18 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Roscioli Wine Club
+
+**Profile:** [Cantina Bruna, Imperia | Pigato](https://www.roscioliwineclub.com/cantina-bruna-imperia-pigato/)  
+**Place:** Imperia · **Style:** Pigato  
+
+Francesca Bruna before the vineyards has inherited a vision: her father Riccardo in the 70s decided to focus on l'enhancement of Pigato, firmly believing in its potential of absolute excellence.
+
+**Winemaker video:** https://www.youtube.com/embed/ThUgJVvd47k?feature=oembed
+
 ## Cross-references
 
 - [[Italy_Producers|Italy]]
 - [[Liguria (Riviera Ligure di Ponente)]]
 - [[CSW Article Archive]]
+- [[Roscioli_Wine_Club|Roscioli Wine Club (importer)]]

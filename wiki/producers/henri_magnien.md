@@ -2,7 +2,7 @@
 type: producer
 name: Henri Magnien
 slug: henri_magnien
-aliases: []
+aliases: ["Henri Magnien"]
 country: France
 region: Burgundy
 sub_region: ''

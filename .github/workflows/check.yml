@@ -33,3 +33,16 @@ jobs:
 
       - name: wiki/log.md entries follow canonical format
         run: python scripts/build_wiki_log.py --check
+
+      - name: producer schema + taxonomy lint passes clean
+        # Strict gate: any new region taxonomy violation, mojibake
+        # filename, surname collision (without aliases), or producer
+        # page missing frontmatter fails the build. Was at 66 issues on
+        # 2026-05-26; cleaned to 0 by scripts/fix_vault_architecture.py.
+        run: |
+          python scripts/lint.py
+          count=$(grep -E "^total_issues:" build/lint_report.md | awk '{print $2}')
+          if [ "$count" -ne 0 ]; then
+            echo "::error::lint surfaced $count issue(s) — see build/lint_report.md"
+            exit 1
+          fi

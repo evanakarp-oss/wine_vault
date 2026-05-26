@@ -2,7 +2,7 @@
 type: producer
 name: Domaine Baudry
 slug: domaine_baudry
-aliases: []
+aliases: ["Domaine Baudry", "Matthieu Baudry"]
 country: France
 region: Loire
 sub_region: Chinon

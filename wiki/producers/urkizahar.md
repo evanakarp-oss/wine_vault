@@ -4,7 +4,7 @@ name: "Urkizahar"
 slug: urkizahar
 aliases: []
 country: "Spain"
-region: "Basque"
+region: "Basque Country"
 sub_region: ""
 appellations: []
 farming: []

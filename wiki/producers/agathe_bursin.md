@@ -2,7 +2,7 @@
 type: producer
 name: "Agathe Bursin"
 slug: agathe_bursin
-aliases: []
+aliases: ["Bursin"]
 country: "France"
 region: "Alsace"
 sub_region: ""

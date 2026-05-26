@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Bordeaux"
-updated: 2026-05-14
-producer_count: 24
+updated: 2026-05-26
+producer_count: 25
 ---
 
 # Bordeaux — Producer Index
 
-**24 producers** tracked.
+**25 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -28,6 +28,7 @@ producer_count: 24
 | [[chateau_cantemerle|Château Cantemerle]] | France | Haut-Médoc | 1 | — | 2 | — | — |
 | [[chateau_lafite_rothschild|Château Lafite Rothschild]] | France | Pauillac | 1 | — | 10 | — | — |
 | [[chateau_palmer|Château Palmer]] | France | Margaux | 1 | — | 8 | — | — |
+| [[domaine_uchida|Domaine Uchida]] | France | Haut-Médoc / Pauillac | 1 | — | — | — | — |
 | [[chateau_ducru_beaucaillou|Château Ducru-Beaucaillou]] | France | Saint-Julien | — | — | 2 | — | — |
 | [[chateau_haut_bailly|Château Haut-Bailly]] | France | Pessac-Léognan | — | — | 1 | — | — |
 | [[chateau_lynch_bages|Château Lynch-Bages]] | France | Pauillac | — | — | 5 | — | — |

@@ -4,8 +4,8 @@ name: Cavallotto
 slug: cavallotto
 aliases: []
 country: Italy
-region: Barolo (Castiglione Falletto)
-sub_region: ''
+region: "Piedmont"
+sub_region: "Barolo (Castiglione Falletto)"
 appellations: []
 farming: []
 certifications: []

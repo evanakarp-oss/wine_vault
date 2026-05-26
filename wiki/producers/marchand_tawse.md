@@ -2,7 +2,7 @@
 type: producer
 name: Marchand Tawse
 slug: marchand_tawse
-aliases: []
+aliases: ["Tawse"]
 country: France
 region: Burgundy
 sub_region: ''

@@ -2,7 +2,7 @@
 type: producer
 name: Stéphane Tissot
 slug: stephane_tissot
-aliases:
+aliases: ["Tissot", "Domaine Tissot"]
 - Andre et Mireille Tissot
 - Domaine Tissot
 - Tissot

@@ -352,6 +352,7 @@ def run(fix: bool) -> int:
     # 7. Surname collisions on CSW
     by_last_token: dict[str, list[str]] = defaultdict(list)
     coverage: dict[str, int] = {}
+    aliases_map: dict[str, list[str]] = {}
     for p in producer_files:
         text = p.read_text(encoding="utf-8", errors="replace")
         parts = split_frontmatter(text)
@@ -359,9 +360,20 @@ def run(fix: bool) -> int:
             continue
         fm, _ = parts
         articles = get_int_under(fm, "chambers", "article_count")
-        if articles == 0:
+        # Also count body article sections — some legacy pages have
+        # `article_count: 0` in frontmatter but real `### [title]` rows
+        # in the body. Those still create CSW matcher collisions.
+        body_articles = len(re.findall(r"^### ", text, re.MULTILINE))
+        effective = max(articles, body_articles)
+        if effective == 0:
             continue
-        coverage[p.stem] = articles
+        coverage[p.stem] = effective
+        # Capture aliases for cross-page disambiguation check
+        am = re.search(r'^aliases:\s*\[(.*?)\]\s*$', fm, re.MULTILINE)
+        if am and am.group(1).strip():
+            aliases_map[p.stem] = re.findall(r'"([^"]*)"', am.group(1))
+        else:
+            aliases_map[p.stem] = []
         tokens = [t for t in re.split(r"[_\-]+", p.stem) if t]
         common_prefixes = {"domaine", "chateau", "weingut", "bodegas", "ch", "clos"}
         # Use the last non-common token as the "surname"
@@ -374,6 +386,10 @@ def run(fix: bool) -> int:
             by_last_token[surname].append(p.stem)
     for surname, slugs in by_last_token.items():
         if len(slugs) > 1:
+            # If both pages have non-empty aliases (manual disambiguation
+            # already done), don't flag the collision again.
+            if all(aliases_map.get(s) for s in slugs):
+                continue
             cov = ", ".join(f"{s}({coverage[s]})" for s in slugs)
             issues.append(Issue("csw_surname_collision", ",".join(slugs),
                                  f"shared surname '{surname}' with coverage: {cov}. "

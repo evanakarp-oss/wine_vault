@@ -2,7 +2,7 @@
 type: producer
 name: Michel Noellat
 slug: michel_noellat
-aliases: []
+aliases: ["Michel Noëllat", "Domaine Michel Noëllat"]
 country: France
 region: Burgundy
 sub_region: ''

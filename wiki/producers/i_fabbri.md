@@ -4,8 +4,8 @@ name: "I Fabbri"
 slug: i_fabbri
 aliases: []
 country: "Italy"
-region: ""
-sub_region: ""
+region: "Tuscany"
+sub_region: "Chianti Classico"
 appellations: []
 farming: []
 certifications: []

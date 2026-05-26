@@ -4,7 +4,7 @@ name: "Agricola Tiberio"
 slug: agricola_tiberio
 aliases: []
 country: "Italy"
-region: ""
+region: "Abruzzo"
 sub_region: ""
 appellations: []
 farming: []

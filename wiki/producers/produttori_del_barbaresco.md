@@ -2,10 +2,10 @@
 type: producer
 name: Produttori del Barbaresco
 slug: produttori_del_barbaresco
-aliases: []
+aliases: ["Produttori"]
 country: Italy
-region: Barbaresco
-sub_region: ''
+region: "Piedmont"
+sub_region: "Barbaresco"
 appellations: []
 farming: []
 certifications: []

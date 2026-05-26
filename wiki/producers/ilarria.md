@@ -4,7 +4,7 @@ name: "Ilarria"
 slug: ilarria
 aliases: []
 country: "France"
-region: "Basque"
+region: "Basque (Irouléguy)"
 sub_region: ""
 appellations: []
 farming: []

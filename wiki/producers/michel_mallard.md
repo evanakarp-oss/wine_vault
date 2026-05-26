@@ -2,7 +2,7 @@
 type: producer
 name: Michel Mallard
 slug: michel_mallard
-aliases: []
+aliases: ["Mallard", "Domaine Mallard"]
 country: France
 region: Burgundy
 sub_region: ''

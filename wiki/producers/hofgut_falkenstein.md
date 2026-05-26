@@ -4,8 +4,8 @@ name: Hofgut Falkenstein
 slug: hofgut_falkenstein
 aliases: []
 country: Germany
-region: Saar (Konz)
-sub_region: ''
+region: "Mosel"
+sub_region: "Saar (Konz)"
 appellations: []
 farming: []
 certifications: []

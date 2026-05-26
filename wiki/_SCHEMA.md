@@ -45,6 +45,15 @@ retailers:
   fass:
     in_portfolio: false
 
+roscioli:                             # Roscioli Wine Club (Italian importer-curator)
+  in_portfolio: false                 # producer has a profile page on roscioliwineclub.com
+  profile_url: ""                     # full URL to /<slug>/
+  has_video: false                    # winemaker video embedded on the profile page
+  place: ""                           # sub-region/place as Roscioli labels it (e.g. "Barbaresco")
+  style_hint: ""                      # style after " | " in the title (e.g. "Barolo")
+  profile_date: ""                    # YYYY-MM-DD first-published date of the Roscioli profile
+  story_count: 0                      # number of associated story posts (interviews, multi-part series)
+
 events: []                            # curatorial/festival appearances; see wiki/_TAXONOMY.md events
 tags: ["alsace", "biodynamic", "white-wine-focused"]
 ---
@@ -186,6 +195,50 @@ before `## Down to Earth Wines (Panzer)` / `## Cross-references` / `## Notes`.
 Don't hand-edit the `## Berserkers` section either — it's fully regenerated
 from the thread JSON. If you want to add an editorial note about a producer's
 WB reputation, put it in the producer's free-form `## Notes` section instead.
+
+---
+
+## Producer page — `## Vinous Reviews` body section
+
+Auto-rendered by `compile_clippings.py vinous --apply` from
+`raw/clippings/vinous/*.md` (Obsidian Web Clipper output).
+
+```markdown
+## Vinous Reviews
+
+### [Weingut Keller and the Grapes of Rheinhessen](https://vinous.com/articles/...)
+*2026-03-15* — Antonio Galloni
+
+> First two sentences of the article body, auto-extracted as an excerpt.
+> Used to give the LLM enough context to know what the critic said without
+> needing to re-open the source clipping.
+```
+
+Inserted after `## Berserkers` (if present) or `## CSW Write-ups`,
+before `## Down to Earth Wines (Panzer)`.
+
+### Anti-pattern
+
+Don't hand-edit. Regenerated on every `compile_clippings.py vinous`
+run. Editorial notes go in `## Notes` (free-form).
+
+---
+
+## Producer page — `## Wine Advocate (Kelley)` body section
+
+Same shape as `## Vinous Reviews`, sourced from
+`raw/clippings/wine_advocate/*.md`. Distinct from `## Berserkers
+(William Kelley)` which is the *community* signal (forum posts);
+this section is the *editorial* signal (publication articles).
+
+```markdown
+## Wine Advocate (Kelley)
+
+### [Burgundy 2022 In Bottle: Côte de Beaune](https://www.wineadvocate.com/...)
+*2026-04-12* — William Kelley
+
+> 95-99 point notes on the Côte de Beaune whites, with vintage context...
+```
 
 ---
 

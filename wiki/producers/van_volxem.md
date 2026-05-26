@@ -4,8 +4,8 @@ name: Van Volxem
 slug: van_volxem
 aliases: []
 country: Germany
-region: Saar
-sub_region: ''
+region: "Mosel"
+sub_region: "Saar"
 appellations: []
 farming:
 - biodynamic

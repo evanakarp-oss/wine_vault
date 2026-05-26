@@ -4,8 +4,8 @@ name: Lorenzo Accomasso
 slug: lorenzo_accomasso
 aliases: []
 country: Italy
-region: Barolo (La Morra)
-sub_region: ''
+region: "Piedmont"
+sub_region: "Barolo (La Morra)"
 appellations: []
 farming: []
 certifications: []

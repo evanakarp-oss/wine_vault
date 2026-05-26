@@ -37,10 +37,8 @@ wine_vault/
 │   ├── build_rollups.py        # regenerate wiki/regions/*, wiki/importers/*
 │   └── build_widget_json.py    # emit build/widget_data.json for the React widget
 │
-├── build/                      # derived outputs — regenerable, never hand-edit
-│   └── widget_data.json
-│
-└── _drive_sync/                # staging area for Drive round-trips
+└── build/                      # derived outputs — regenerable, never hand-edit
+    └── widget_data.json
 ```
 
 ## The loop
@@ -52,3 +50,7 @@ wine_vault/
 5. **View** — open in Obsidian (`.obsidian/` config checked in), or load the widget which reads `build/widget_data.json`.
 
 The widget is ONE output. Other valid outputs: a Marp slide deck of "2026 Q2 cellaring candidates", a matplotlib chart of retailer overlap by region, a Q&A answer that files itself back into `wiki/notes/`.
+
+## Where to edit (git is canonical)
+
+See `WORKFLOW.md` for the full edit-and-sync rules. The short version: edit in git (Claude Code, local clone, or Working Copy iOS), never directly in Drive. The `drive_mirror` GitHub Action pushes the repo to the canonical Drive folder on every push to `main`; the `drive_audit` workflow runs weekly and opens an issue if anything on Drive isn't in git.

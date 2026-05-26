@@ -2,7 +2,7 @@
 type: producer
 name: Domaine Rousset
 slug: domaine_rousset
-aliases: []
+aliases: ["Rousset", "Stéphane Rousset", "Domaine Stéphane Rousset"]
 country: France
 region: Rhône
 sub_region: Crozes-Hermitage / Saint-Joseph

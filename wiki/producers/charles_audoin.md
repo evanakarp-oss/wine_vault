@@ -2,7 +2,7 @@
 type: producer
 name: Charles Audoin
 slug: charles_audoin
-aliases: []
+aliases: ["Audoin", "Domaine Audoin"]
 country: France
 region: Burgundy
 sub_region: ''
