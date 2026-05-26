@@ -4,6 +4,9 @@ updated: 2026-05-26
 sources:
   - "berserkers:168700:60 (WK 2021-02-24, Wine's Naturalistic Fallacy)"
   - "berserkers:164465:23,27 (WK 2020-10-04, NSG Grand Cru thread)"
+  - "raw/fass/markdown/its-finally-here-...-ledys-...-2021-nsg-1er-cru-les-porets-st-georges.md"
+  - "raw/fass/markdown/the-best-a-tier-vineyard-value-...-poisots-...-romanee-st-vivant.md"
+  - "raw/fass/markdown/brissets-2022-cuvee-cassaneas-...-1er-cru-chassagne.md"
   - "wiki/producers/*"
   - "wiki/_views/vosne_adjacent_parcels.md"
 companion_view: "vosne_adjacent_parcels"
@@ -125,6 +128,7 @@ The target tier. Both axes aligned, currently on shelf in NYC retailers.
 | **[[meo_camuzet\|Méo-Camuzet]]** | NSG 1er Cru **Aux Murgers** | Raeder's | 2018 | $359 | Murgers is shoulder-adjacent (between Boudots and Chaignots). Méo is the modern-Vosne polish reference. Vinous review: dark fruit, lift, drink-to-2035. |
 | **[[meo_camuzet\|Méo-Camuzet]]** | NSG 1er Cru Aux Murgers | Raeder's | 2020 | $329 | Younger but cheaper; same parcel/house. |
 | **[[hudelot_noellat\|Hudelot-Noëllat]]** | NSG **villages Bas de Combes** | DTE | 2023 | $109 | Vosne house, village-level Vosne-shoulder. Drink-now / 5-year tier rather than long-haul cellaring. The "Vosne-styled NSG by the glass" entry point. |
+| **[[maison_pierre_brisset\|Maison Pierre Brisset]]** | NSG 1er Cru **Aux Thorey** | FASS | 2023 | ~$95 | **The FASS Vosne-styled NSG.** Already in cellar — 2 × 2023, drink 2028–2043. Aux Thorey is Vosne-shoulder; Brisset's house signature (Lyle Fass: *"elite elegance, restraint and a silken texture"*) is exactly the WK "Vosne-styled" shape. Per-dollar competitive with the Cheurlin Damodes. |
 
 **Sub-tier A**: in the vault as reference pages but no current retail presence —
 
@@ -177,6 +181,41 @@ triangle Kelley sketches needs a south-side reference. The vault candidates:
 | [[henri_gouges\|Henri Gouges]] | Les Saint-Georges, Les Vaucrains, Clos des Porrets-Saint-Georges (monopole) | Historic AOC-founder. Quintessential structured-south signature. |
 | [[domaine_jean_chauvenet\|Domaine Jean Chauvenet]] | NSG village (Raeders 2019) | CSW's 2025 *"Incredible Value in Vosne-Romanée with Domaine Jean Chauvenet"* article — village-level Vosne-value play. **Note:** the CSW framing labels Chauvenet as Vosne-value, but the house signature is closer to traditional Nuits than to Vosne. |
 | [[chicotot\|Chicotot]] | NSG 1er Cru Vaucrains, Pruliers, Saint-Georges, Rue de Chaux | DTE $109–179 across the south-side 1ers. Biodynamic, terroir-driven, value-tier. |
+| **[[vincent_ledy\|Vincent Ledy]]** | NSG 1er Cru **Les Porets-Saint-Georges Vieilles Vignes** | FASS, $108.99 / $321 3-pack. **Alain Michelot's nephew** (direct NSG lineage). 85+ year old vines, **24 hl/ha**, **no new oak**. Lyle Fass's explicit framing: *"I once compared Ledy's style to the great Henri Gouges and this is the wine that made me think Gouges as soon as I smelled it."* Locates Ledy in this "Nuits Nuits" tier despite the south-side shoulder placement. **FASS's south-side reference.** |
+
+---
+
+## FASS — read separately
+
+The FASS portfolio breaks the framework cleanly. Lyle Fass works through
+direct-allocation micro-producers, and his Côte de Nuits roster maps onto
+the three-styles taxonomy with surprising precision:
+
+| WK style | FASS producer | Wine | Notes |
+|---|---|---|---|
+| **Vosne-styled NSG** | **[[maison_pierre_brisset\|Maison Pierre Brisset]]** | NSG 1er Cru Aux Thorey | Already in cellar. The user has been buying the Vosne-styled FASS NSG without explicitly naming it. ~$95. |
+| **"Nuits Nuits" NSG** | **[[vincent_ledy\|Vincent Ledy]]** | NSG 1er Cru Les Porets-Saint-Georges VV | Alain Michelot's nephew; Lyle compares to Gouges. South-side 1er. $108.99. |
+| **Vosne reference (Grand Cru anchor)** | **[[remi_poisot\|Rémi Poisot]]** | Romanée-Saint-Vivant Grand Cru | Not NSG. The Vosne-styled *yardstick* at FASS, $449.99 (cheapest RSV on the market by hundreds). Tier-S in the Vosne-style framework. Horse-plowed since 2015. |
+
+**The structural insight:** at FASS, the Vosne-styled-NSG question
+collapses to a single buy — **Brisset Aux Thorey** — and the user has
+already executed it. The FASS contribution to the analysis is not "more
+Vosne-styled NSG options" but rather:
+
+1. **Validation** that the existing Brisset purchase is the right
+   FASS-side answer.
+2. **A natural south-side counterpart** in Vincent Ledy Porets-Saint-Georges
+   if the user wants to do the three-styles tasting flight entirely
+   within FASS allocations.
+3. **A Grand Cru calibration anchor** in Poisot RSV at FASS-direct
+   pricing — useful because it sets the "what Vosne-styled actually
+   means" reference at a price-point the broader market makes
+   inaccessible.
+
+Lyle Fass himself explicitly nests Brisset and Ledy together — in the
+Ledy 2021 Porets-Saint-Georges post, he writes: *"Easily the best NSG
+I've had at Fass. Easily on the same level as Brisset."* Two different
+WK-styles, both at the top of the FASS NSG roster.
 
 ---
 
@@ -237,6 +276,21 @@ If buying #1, #4, and using #owned-Mugnier-Maréchale:
 Same vintage matching is hard (Mugnier is 2018) but the framework is what
 matters. Drink as a flight; write notes back into this view.
 
+### Alternate FASS-only tasting flight
+
+For an entirely FASS-direct alternative (avoiding NYC retail entirely):
+
+| Style (WK 2021) | Wine | Source |
+|---|---|---|
+| Vosne-styled | [[maison_pierre_brisset\|Brisset]] NSG 1er Cru Aux Thorey 2023 | cellar (owned, 2 × ~$95) |
+| "Nuits" Nuits | [[vincent_ledy\|Vincent Ledy]] NSG 1er Cru Les Porets-Saint-Georges VV 2021 | FASS $108.99 |
+| Vosne Grand Cru anchor | [[remi_poisot\|Rémi Poisot]] Romanée-Saint-Vivant 2022 | FASS $449.99 |
+
+This flight skips the Chambolle-styled leg (Mugnier Maréchale is in DTE/3-
+tier, not FASS), but adds a Grand Cru anchor that the DTE/3-tier flight can't
+realistically include at this price. Cleaner for the
+*"what is Vosne-styled?"* calibration question.
+
 ---
 
 ## Open data gaps for next ingest
@@ -258,6 +312,17 @@ matters. Drink as a flight; write notes back into this view.
 - **DTE source jsx** — the source JSX file (`dte_wines_1.jsx`) is not in
   the repo, only its ingested output. If a fresher DTE snapshot lands,
   re-ingest may surface NSG bottlings I missed.
+- **FASS ingest is materially incomplete.** `raw/fass/markdown/` has 180+
+  articles; the current ingest captured only 4 producers (Buffet,
+  Rebourgeon, Enderle, Vincent Paris). After this view, manually added
+  3 high-priority Burgundy pages ([[maison_pierre_brisset|Brisset]],
+  [[vincent_ledy|Vincent Ledy]], [[remi_poisot|Rémi Poisot]]). Still
+  uncaptured Burgundy FASS producers visible in raw posts: **JJ Girard**
+  (Beaune 1er Cru, Volnay), **Maison Berlancourt** (mentioned in the
+  Poisot post as part of Lyle's "overachiever hall of fame"), plus
+  likely several others. **`scripts/ingest_fass.py` needs a rerun once
+  the raw set is complete; the FASS section of this analysis is
+  provisional until that happens.**
 
 ---
 
@@ -265,5 +330,6 @@ matters. Drink as a flight; write notes back into this view.
 
 - [[vosne_adjacent_parcels|Vosne-Romanée Adjacent Parcels — geography view]]
 - Vosne-house producers: [[mugneret_gibourg|Mugneret-Gibourg]] · [[meo_camuzet|Méo-Camuzet]] · [[domaine_grivot|Domaine Grivot]] · [[georges_noellat|Georges Noëllat]] · [[maxime_cheurlin|Maxime Cheurlin]] · [[hudelot_noellat|Hudelot-Noëllat]] · [[arnoux_lachaux|Arnoux Lachaux]] · [[bruno_clavelier|Bruno Clavelier]] · [[anne_gros|Anne Gros]] · [[domaine_lamarche|Domaine Lamarche]]
-- Nuits specialists: [[robert_chevillon|Robert Chevillon]] · [[henri_gouges|Henri Gouges]] · [[domaine_jean_chauvenet|Domaine Jean Chauvenet]] · [[chicotot|Chicotot]] · [[domaine_de_l_arlot|Domaine de l'Arlot]]
-- Cellar entry: 2018 Mugnier Clos de la Maréchale × 4
+- Nuits specialists: [[robert_chevillon|Robert Chevillon]] · [[henri_gouges|Henri Gouges]] · [[domaine_jean_chauvenet|Domaine Jean Chauvenet]] · [[chicotot|Chicotot]] · [[domaine_de_l_arlot|Domaine de l'Arlot]] · [[vincent_ledy|Vincent Ledy]]
+- FASS Burgundy cohort: [[maison_pierre_brisset|Maison Pierre Brisset]] · [[vincent_ledy|Vincent Ledy]] · [[remi_poisot|Rémi Poisot]] · [[francois_buffet|François Buffet]]
+- Cellar entries (NSG): 2018 Mugnier Clos de la Maréchale × 4, 2023 Brisset NSG 1er Cru Aux Thorey × 2

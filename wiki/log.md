@@ -68,3 +68,32 @@ DTE-sourced: [[georges_noellat|Georges Noëllat]] Aux Boudots 2021 @ $199,
 gaps for next ingest: Domaine Leroy / Faiveley / Thibault Liger-Belair /
 Confuron-Cotetidot / J-J Confuron all need pages.
 
+## [2026-05-26] fass_ingest | FASS Burgundy producers — Brisset, Ledy, Poisot
+
+Closed a major data gap. FASS portfolio in the wiki had only 4 producers
+(Buffet, Rebourgeon, Enderle, Vincent Paris) — but `raw/fass/markdown/`
+holds 180+ articles with substantial uncaptured Burgundy coverage. Added
+3 producer pages from raw FASS source review:
+
+- [[maison_pierre_brisset|Maison Pierre Brisset]] — the deepest single-
+  producer cellar holding (7 cuvée-vintages, 14 bottles) had no producer
+  page. Fass's flagship Burgundy micro-négociant. **Identifies Brisset
+  NSG Aux Thorey (owned, 2 × 2023) as the FASS Vosne-styled NSG** — house
+  signature *"elite elegance, restraint, silken texture"* fits the WK
+  framework exactly.
+- [[vincent_ledy|Vincent Ledy]] — Alain Michelot's nephew, FASS-direct
+  NSG specialist. Lyle Fass: *"I once compared Ledy's style to the great
+  Henri Gouges and this is the wine that made me think Gouges."* **Lands
+  in the "Nuits Nuits" tier, not Vosne-styled** despite the south-side
+  parcel positioning.
+- [[remi_poisot|Rémi Poisot]] — micro-production Vosne artisan,
+  horse-plowed RSV at $449.99 (the cheapest RSV on the market by hundreds).
+  Stylistic anchor for the Vosne-styled framework even though not NSG.
+
+Updated `wiki/_views/vosne_styled_nsg.md` with new FASS section, a
+FASS-only tasting flight alternative, and a sub-tier-A entry for Brisset
+NSG Aux Thorey. Validates the existing Brisset purchase as the right
+FASS-side answer to the Vosne-styled NSG question. Flags
+`scripts/ingest_fass.py` for rerun: JJ Girard, Maison Berlancourt, and
+likely others still uncaptured.
+

@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Barolo / Barbaresco (Castiglione Falletto)"
-updated: 2026-05-25
+updated: 2026-05-26
 producer_count: 1
 ---
 

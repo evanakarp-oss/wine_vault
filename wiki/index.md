@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 754
+total_pages: 757
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**754 pages indexed.**
+**757 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -36,7 +36,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Beaujolais_Producers|Beaujolais Producers]] — **4 producers** tracked.
 - [[Bierzo_Producers|Bierzo Producers]] — **1 producers** tracked.
 - [[Bordeaux_Producers|Bordeaux Producers]] — **24 producers** tracked.
-- [[Burgundy_Producers|Burgundy Producers]] — **100 producers** tracked.
+- [[Burgundy_Producers|Burgundy Producers]] — **103 producers** tracked.
 - [[California_Producers|California Producers]] — **10 producers** tracked.
 - [[Catalonia_Producers|Catalonia Producers]] — **1 producers** tracked.
 - [[Champagne_Producers|Champagne Producers]] — **14 producers** tracked.
@@ -94,12 +94,12 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 - [[Chambers_Street_Wines|Chambers Street Wines]] — NYC · https://chambersstwines.com
 - [[Down_to_Earth_Wines_Panzer|Down to Earth Wines (Panzer)]] — NYC (import portfolio)
-- [[FASS_Selections|FASS Selections]] — **4 producers** from this retailer are tracked in the wiki.
+- [[FASS_Selections|FASS Selections]] — **7 producers** from this retailer are tracked in the wiki.
 - [[Raeders|Raeder's]] — **57 producers** from this retailer are tracked in the wiki.
 
 ## Producers
 
-_380 producers across 56 regions._
+_383 producers across 56 regions._
 
 ### Alsace
 
@@ -276,6 +276,7 @@ _380 producers across 56 regions._
 - [[louis_latour|Louis Latour]] — Burgundy / Beaune · Raeder 9
 - [[lucien_boillot|Lucien Boillot]] — Burgundy / Gevrey-Chambertin · Raeder 9
 - [[magnien|Magnien]] — Burgundy · CSW ★5/8 · DTE 9
+- [[maison_pierre_brisset|Maison Pierre Brisset]] — Burgundy / Côte de Nuits + Côte de Beaune (micro-négociant) · sustainable · FASS 0
 - [[mallard|Mallard]] — Burgundy · CSW ★1/1 · DTE 4 · Raeder 1
 - [[marchand_tawse|Marchand Tawse]] — Burgundy · DTE 25
 - [[maxime_cheurlin|Maxime Cheurlin]] — Burgundy · DTE 18
@@ -291,6 +292,7 @@ _380 producers across 56 regions._
 - [[pierre-yves_colin-morey|Pierre-Yves Colin-Morey]] — Burgundy / St-Aubin / Chassagne · organic · CSW ★2/4
 - [[ramonet|Ramonet]] — Burgundy / Chassagne-Montrachet · CSW 1 · Raeder 9
 - [[rapet_pere_et_fils|Rapet Père et Fils]] — Burgundy / Pernand-Vergelesses · organic · CSW 2
+- [[remi_poisot|Rémi Poisot]] — Burgundy / Vosne-Romanée + Pernand-Vergelesses (micro-domaine) · organic · FASS 0
 - [[robert_ampeau|Robert Ampeau]] — Burgundy / Meursault / Auxey · CSW ★1/1
 - [[robert_chevillon|Robert Chevillon]] — Burgundy / Nuits-Saint-Georges · sustainable
 - [[roty|Roty]] — Burgundy · DTE 1
@@ -302,6 +304,7 @@ _380 producers across 56 regions._
 - [[sylvie_esmonin|Sylvie Esmonin]] — Burgundy / Gevrey-Chambertin · organic · CSW ★6/8
 - [[tawse|Tawse]] — Burgundy · DTE 2
 - [[thomas_et_jean_marc_bouley|Thomas et Jean Marc Bouley]] — Burgundy · DTE 10
+- [[vincent_ledy|Vincent Ledy]] — Burgundy / Hautes-Côtes de Nuits / Nuits-Saint-Georges · sustainable · FASS 0
 
 ### California
 

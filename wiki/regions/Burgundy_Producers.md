@@ -1,16 +1,17 @@
 ---
 type: region_index
 region: "Burgundy"
-updated: 2026-05-25
-producer_count: 100
+updated: 2026-05-26
+producer_count: 103
 ---
 
 # Burgundy — Producer Index
 
-**100 producers** tracked.
+**103 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
+| [[maison_pierre_brisset|Maison Pierre Brisset]] | France | Côte de Nuits + Côte de Beaune (micro-négociant) | — | — | — | 0 | 16 btl |
 | [[jean-claude_rateau|Jean-Claude Rateau]] | France | Beaune | 13 | — | — | — | — |
 | [[lafouge|Lafouge]] | France | '' | 13 | 7 | — | — | — |
 | [[benoit_courault|Benoit Courault]] | France | Anjou (Loire) | 11 | — | — | — | — |
@@ -108,8 +109,10 @@ producer_count: 100
 | [[patrice_rion|Patrice Rion]] | France | — | — | 3 | — | — | — |
 | [[robert_chevillon|Robert Chevillon]] | France | Nuits-Saint-Georges | — | — | — | — | — |
 | [[roty|Roty]] | France | — | — | 1 | — | — | — |
+| [[remi_poisot|Rémi Poisot]] | France | Vosne-Romanée + Pernand-Vergelesses (micro-domaine) | — | — | — | 0 | — |
 | [[sigaut|Sigaut]] | France | — | — | 9 | — | — | — |
 | [[tawse|Tawse]] | France | '' | — | 2 | — | — | — |
 | [[thomas_et_jean_marc_bouley|Thomas et Jean Marc Bouley]] | France | — | — | 10 | — | — | — |
+| [[vincent_ledy|Vincent Ledy]] | France | Hautes-Côtes de Nuits / Nuits-Saint-Georges | — | — | — | 0 | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

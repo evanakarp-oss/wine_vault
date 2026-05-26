@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Alsace (Bennwihr)"
-updated: 2026-05-25
+updated: 2026-05-26
 producer_count: 1
 ---
 
