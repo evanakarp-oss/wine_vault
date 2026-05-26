@@ -17,11 +17,11 @@ importer_us:
 - Polaner
 retailers:
   chambers:
-    championed: false
-    article_count: 0
-    dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    championed: true
+    article_count: 13
+    dedicated_count: 8
+    first_year: 2007
+    last_year: 2025
     aging_score: 3
     cellar_pick: true
   dte:
@@ -50,15 +50,15 @@ _sources:
 
 > 12/29/25 - We've been enjoying the wines of the Lafouge family in Auxey-Duresses for 30 years. It’s a pleasure to have worked with three different generations at the same estate – or does that just mean that I’m ancient? At any rate, we’re very happy to offer…
 
-### ★ [Burgundy Pre-Arrivals: Rateau, Lafouge, Langoureau and More!](https://chambersstwines.com/blogs/articles/burgundy-pre-arrivals-rateau-lafouge-langoureau-and-more)
-*2025-10*
-
-> 10/24/25 - Part Two of our 2023 allocation from Domaine Rateau is arriving soon, in time for fall/winter and holiday dining - or for your cellar. The wines are gorgeous, and of course they offer sensational value to the Burgundy lover. We're also including…
-
 ### [Sub $35 Burgundies: Featuring Dominique Gruhier and more!](https://chambersstwines.com/blogs/articles/sub-35-burgundies-featuring-dominique-gruhier-and-more)
 *2025-10*
 
 > 10/27/25 - One could say I sound like a broken record when it comes to talking about value in Burgundy, but there truly are wines for everyone in this famed region, you just have to dig a little deeper. Today I am proud to showcase a selection of White and…
+
+### ★ [Burgundy Pre-Arrivals: Rateau, Lafouge, Langoureau and More!](https://chambersstwines.com/blogs/articles/burgundy-pre-arrivals-rateau-lafouge-langoureau-and-more)
+*2025-10*
+
+> 10/24/25 - Part Two of our 2023 allocation from Domaine Rateau is arriving soon, in time for fall/winter and holiday dining - or for your cellar. The wines are gorgeous, and of course they offer sensational value to the Burgundy lover. We're also including…
 
 ### [Off the Beaten Path Cote de Beaune Reds](https://chambersstwines.com/blogs/articles/off-the-beaten-path-cote-de-beaune-reds)
 *2024-11*

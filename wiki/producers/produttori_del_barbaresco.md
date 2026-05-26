@@ -14,9 +14,9 @@ importer_us:
 retailers:
   chambers:
     championed: true
-    article_count: 10
-    dedicated_count: 5
-    first_year: 2012
+    article_count: 12
+    dedicated_count: 9
+    first_year: 2007
     last_year: 2025
     aging_score: 2
     cellar_pick: true
@@ -49,7 +49,7 @@ _sources:
 
 > 11/25/25 - We are once again thrilled to offer another magnificent collection of Produttori del Barbaresco on a pre-arrival basis from one of our oldest and most reliable Italian collector friends. We continue to find that the cooperative has been…
 
-### [Private Collection: Carema and Produttori](https://chambersstwines.com/blogs/articles/private-collection-carema-and-produttori)
+### ★ [Private Collection: Carema and Produttori](https://chambersstwines.com/blogs/articles/private-collection-carema-and-produttori)
 *2025-10*
 
 > 10/29/25 - Featuring great Nebbiolo in Carema from Luigi Ferrando and Carema Produttori, as well as the consistently, high quality wines from Produttori del Barbaresco. ### Click on the image above to view the collection
@@ -69,7 +69,7 @@ _sources:
 
 > 3/31/24 - The pundits on the vintages, and I've added some notes: **1960:** Ratti, Annata Non Buona; Wasserman 0. The decade starts with a fizzle. I remind you of the sentimental value of old wine for birth year and anniversary celebrations, alla my own year…
 
-### [The Produttori, Year In and Year Out](https://chambersstwines.com/blogs/articles/the-produttori-year-in-and-year-out)
+### ★ [The Produttori, Year In and Year Out](https://chambersstwines.com/blogs/articles/the-produttori-year-in-and-year-out)
 *2015-11*
 
 > 11/12/15 - My early years as a wine lover were spent in pursuit of Burgundy. All of the most sage advice I could find boiled down to the same 3 factors in determining the potential quality of a wine: Producer, Producer, Producer. Back in those bad old days…
@@ -84,10 +84,20 @@ _sources:
 
 > *﻿9/19/13 -* **** **The Wine World’s Most Amazing Cooperative** Originally published in John Gilman's "A View from the Cellar" Issue #22, July-August 2009 The Produttori del Barbaresco has been producing stellar wines since its inception in 1958, and is…
 
-### [Produttori - Explained](https://chambersstwines.com/blogs/articles/the-produttori-2007)
+### ★ [Produttori - Explained](https://chambersstwines.com/blogs/articles/the-produttori-2007)
 *2012-04*
 
 > *﻿4/17/12 -* ** Over the past few years we’ve been lucky to taste many older vintages of the Produttori del Barbaresco – back to the early 1960s. If there is another wine making cooperative in the world that can come close to the Produttori’s long history of…
+
+### ★ [Barbaresco 2006 Produttori](https://chambersstwines.com/blogs/articles/barbaresco-2006-produttori)
+*2010-05*
+
+> *﻿5/31/10 -* So – the Produttori, again - the combination of quality and value means that we just can’t stop from drinking and talking about these wines. The news, if you haven’t heard it: for the 2006 vintage the Produttori have decided not to bottle any of…
+
+### [The Chambers Street Wine Awards: Piedmont Edition!](https://chambersstwines.com/blogs/articles/the-chambers-street-wine-awards-piedmont-edition)
+*2007-12*
+
+> *12/17/2007 -* This has been an incredible year at the east coast Nebbiolo headquarters AKA Chambers Street Wines. More old vintage Nebbiolo has probably passed through these doors than young vintage Nebbiolo. But also wonderful Barbera, Dolcetto, Ruche and…
 
 ### ★ [Private Collection: The Produttori del Barbaresco  1967 - 2011](https://chambersstwines.com/blogs/articles/private-collection-the-produttori-del-barbaresco-1967-2011)
 *undated*

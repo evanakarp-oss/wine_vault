@@ -71,15 +71,15 @@ berserkers_kelley_body:
 
 > 8/12/21 - On Monday, we featured the innovative Antoine Depierre, of Domaine Mayoussier, who is planting international grapes, like Sauvignon Blanc and Syrah, in the southern part of the Isère near the national park of Vercors. There couldn't be a starker…
 
-### [Let's Bugey from Here to Isere: Wonderful Alpine wines from Les Cortis & Thomas Finot](https://chambersstwines.com/blogs/articles/lets-bugey-from-here-to-isere-wonderful-alpine-wines-from-les-cortis-thomas-finot)
-*2021-07*
-
-> 7/1/21 - According to our friend Wink Lorch, author of *Wines of the French Alps* , Jérémy Decoster of **Les Cortis** took what he learned working at the hallowed Domaine de Moor in Chablis and applied it to his own estate years later in Bugey. He and his…
-
 ### ★ [More Savoie, please! Domaine des Ardoisieres' 2020 Silice Rouge & Silice Blanc](https://chambersstwines.com/blogs/articles/more-savoie-please-domaine-des-ardoisieres-2020-silice-rouge-silice-blanc)
 *2021-07*
 
 > 7/8/21 - Mondeuse, Mondeuse, Mondeuse…These days, I’m finding it hard to resist the low-alcohol red wines made from this staple grape of the Savoie. I featured theBruno Lupin 2019 Mondeusea few weeks ago, from vines around 70 years old and aged in ex-DRC…
+
+### [Let's Bugey from Here to Isere: Wonderful Alpine wines from Les Cortis & Thomas Finot](https://chambersstwines.com/blogs/articles/lets-bugey-from-here-to-isere-wonderful-alpine-wines-from-les-cortis-thomas-finot)
+*2021-07*
+
+> 7/1/21 - According to our friend Wink Lorch, author of *Wines of the French Alps* , Jérémy Decoster of **Les Cortis** took what he learned working at the hallowed Domaine de Moor in Chablis and applied it to his own estate years later in Bugey. He and his…
 
 ### [New Bounty in Eastern France!](https://chambersstwines.com/blogs/articles/new-bounty-in-eastern-france)
 *2014-05*

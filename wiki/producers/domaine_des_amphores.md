@@ -61,15 +61,15 @@ _sources:
 
 > 2/12/19 - Véronique and Philippe Grenier at Domaine des Amphores **are located on the hillsides of Chavanay, just south of Condrieu, where they produce Saint-Joseph red and white, a lovely Condrieu and delicious Vins de Pays that are sensational values.**…
 
-### [Jobard, Laguerre and Superb Summer Whites!](https://chambersstwines.com/blogs/articles/jobard-laguerre-and-superb-summer-whites)
-*undated*
-
-> Today's offer features not Remi, Antoine, Charles or François, but rather the superb Côte Chalonnaise and Côte de Beaune wines of Claudie Jobard! The great wines of Eric Laguerre from the mountains of the Roussillon are back, including the wonderful "Le…
-
 ### [New Arrivals: Our Best Value Rosé – Provence and Northern Rhone Favorites, Loire Whites and Jurançon!](https://chambersstwines.com/blogs/articles/new-arrivals-our-best-value-rose-the-cuvee-de-l-aubigue-from-les-fouques-plus-northern-rhone-favorites-loire-whites-and-jurancon)
 *undated*
 
 > Rosé season is upon us and our favorite Provençal rosé has arrived, from our friends at Les Fouques. For lovers of the Northern Rhone we offer a superb Cornas and great values from Saint-Joseph and Condrieu. Plus Biodynamic Jurançon from Chateau Lapuyade, and…
+
+### [Jobard, Laguerre and Superb Summer Whites!](https://chambersstwines.com/blogs/articles/jobard-laguerre-and-superb-summer-whites)
+*undated*
+
+> Today's offer features not Remi, Antoine, Charles or François, but rather the superb Côte Chalonnaise and Côte de Beaune wines of Claudie Jobard! The great wines of Eric Laguerre from the mountains of the Roussillon are back, including the wonderful "Le…
 
 ## CSW Cellar Note
 

@@ -19,11 +19,11 @@ retailers:
     price_min: 29
     price_max: 185
   chambers:
-    championed: false
-    article_count: 0
-    dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    championed: true
+    article_count: 24
+    dedicated_count: 9
+    first_year: 2011
+    last_year: 2026
     aging_score: 3
     cellar_pick: true
   dte:

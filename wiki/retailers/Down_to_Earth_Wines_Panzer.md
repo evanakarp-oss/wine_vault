@@ -33,7 +33,7 @@ updated: 2026-05-26
 | [[jean_javillier|Jean Javillier]] | France | Burgundy | 14 | — |
 | [[georges_noellat|Georges Noëllat]] | France | Burgundy | 13 | — |
 | [[michel_rebourgeon|Michel Rebourgeon]] | France | Burgundy | 13 | — |
-| [[hudelot_noellat|Hudelot Noellat]] | France | Burgundy | 12 | — |
+| [[hudelot_noellat|Hudelot Noellat]] | France | Burgundy | 12 | 2 |
 | [[sottimano|Sottimano]] | Italy | Piedmont | 12 | — |
 | [[richter|Richter]] | Germany | Mosel | 11 | — |
 | [[latour_giraud|Latour Giraud]] | France | Burgundy | 10 | — |
@@ -51,12 +51,12 @@ updated: 2026-05-26
 | [[elio_ottin|Elio Ottin]] | Italy | Valle d'Aosta | 6 | — |
 | [[gerard_mugneret|Gerard Mugneret]] | France | Burgundy | 6 | 2 |
 | [[laherte|Laherte]] | France | Champagne | 6 | 12 |
-| [[le_piane|Le Piane]] | Italy | Piedmont | 6 | 1 |
+| [[le_piane|Le Piane]] | Italy | Piedmont | 6 | 2 |
 | [[modot_guyon|Modot Guyon]] | France | Burgundy | 6 | — |
 | [[pianelle|Pianelle]] | Italy | Piedmont | 6 | — |
 | [[ployez_jacquemart|Ployez Jacquemart]] | France | Champagne | 6 | — |
 | [[barraud|Barraud]] | France | Burgundy | 5 | — |
-| [[dirler_cade|Dirler Cadé]] | France | Alsace | 5 | — |
+| [[dirler_cade|Dirler Cadé]] | France | Alsace | 5 | 1 |
 | [[francois_bertheau|Francois Bertheau]] | France | Burgundy | 5 | — |
 | [[gerard_julien|Gerard Julien]] | France | Burgundy | 5 | — |
 | [[pierre_benetiere|Pierre Benetiere]] | France | Rhône | 5 | — |
@@ -68,7 +68,7 @@ updated: 2026-05-26
 | [[sirugue|Sirugue]] | France | Burgundy | 4 | 1 |
 | [[alex_loersch|Alex Loersch]] | Germany | Mosel | 3 | — |
 | [[castell_in_villa|Castell'in Villa]] | Italy | Tuscany | 3 | — |
-| [[clusel_roch|Clusel Roch]] | France | Rhône | 3 | — |
+| [[clusel_roch|Clusel Roch]] | France | Rhône | 3 | 1 |
 | [[cyril_audoin|Cyril Audoin]] | France | Burgundy | 3 | — |
 | [[francois_buffet|François Buffet]] | France | Burgundy | 3 | — |
 | [[i_fabbri|I Fabbri]] | Italy | Tuscany | 3 | 2 |
@@ -118,7 +118,7 @@ updated: 2026-05-26
 | [[pian_dell_orino|Pian dell'Orino]] | Italy | Tuscany | 1 | — |
 | [[roty|Roty]] | France | Burgundy | 1 | — |
 | [[urkizahar|Urkizahar]] | Spain | Basque Country | 1 | — |
-| [[vincent_paris|Vincent Paris]] | France | Rhône | 1 | 2 |
+| [[vincent_paris|Vincent Paris]] | France | Rhône | 1 | 50 |
 
 *Compiled by `scripts/build_rollups.py`.*
 <!-- END AUTO-GENERATED -->

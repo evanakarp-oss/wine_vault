@@ -86,15 +86,15 @@ berserkers_kelley_body:
 
 > *7/7/2008 -* ** *(The Hermannshohle vineyard)* Many German wine lovers are familiar with the scared terroir that is Hermannshohle, and thus of course with its top interpreter, Helmut Donnhoff. It is like the relationship between Musigny and Comte de Vogue.…
 
-### [2007 Keller and Schonleber](https://chambersstwines.com/blogs/articles/2007-keller-and-schonleber)
-*2008-05*
-
-> *﻿5/17/2008 -* ** The chatter has started and 2007 is turning out to be a spectacular vintage for Germany. I barrel tasted at a few estates in February (Knebel, Heger, Schnaittman & Van Volxem) and I was very excited as to what I tasted, even if the wines…
-
 ### [A.J. Adam - A new Riesling on the Horizon](https://chambersstwines.com/blogs/articles/a-new-riesling-on-the-horizon)
 *2008-05*
 
 > *﻿5/22/2008 -* The amount of high quality wine coming out of Germany right now is at an all time high especially considering that Germany only produces 1% of all the wine in the world. I still have not tasted every great producer . . .yet. So every now and…
+
+### [2007 Keller and Schonleber](https://chambersstwines.com/blogs/articles/2007-keller-and-schonleber)
+*2008-05*
+
+> *﻿5/17/2008 -* ** The chatter has started and 2007 is turning out to be a spectacular vintage for Germany. I barrel tasted at a few estates in February (Knebel, Heger, Schnaittman & Van Volxem) and I was very excited as to what I tasted, even if the wines…
 
 ### [Georges Descombes Does it Again!](https://chambersstwines.com/blogs/articles/georges-descombes-does-it-again)
 *2008-03*

@@ -19,6 +19,7 @@ Add new values here FIRST, then use them in producer files.
 - Portugal
 - Greece
 - Georgia
+- Switzerland
 - United States
 - Argentina
 - Chile
@@ -85,6 +86,18 @@ Add new values here FIRST, then use them in producer files.
 - Jujuy
 - San Juan
 - Buenos Aires Province
+
+### Switzerland
+- Graubünden
+- Eastern Switzerland
+- Basel-Land
+- Vully
+
+### United States
+- Oregon
+- California
+- New York
+- Washington
 
 ## `farming`
 

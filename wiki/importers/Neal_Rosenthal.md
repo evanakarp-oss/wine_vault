@@ -6,8 +6,8 @@ producer_count: 3
 focus: ['Baden', 'Bordeaux', 'Piedmont']
 notable_producers: ['Brovia', 'Château Le Puy', 'Bernhard Huber']
 updated: 2026-05-26
-tags: []
 url: "https://rosenthalwine.com"
+tags: []
 _source: wiki/_resources.md
 ---
 # Neal Rosenthal

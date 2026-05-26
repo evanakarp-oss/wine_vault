@@ -15,7 +15,7 @@ importer_us:
 retailers:
   chambers:
     championed: true
-    article_count: 9
+    article_count: 10
     dedicated_count: 5
     first_year: 2013
     last_year: 2025
@@ -99,15 +99,15 @@ berserkers_kelley_body:
 
 > *﻿9/19/15 -* When it comes to wine nomenclature and taxonomy, the Germans have a gift of nearly Linnaen proportions. And while each Prädikat level has a legal definition, each also suggests a certain style or use. And while must weights and harvest time…
 
-### [Schaefer, Dönnhoff & Adam: Terrific '12s](https://chambersstwines.com/blogs/articles/schaefer-donnhoff-adam-terrific-12s)
-*2013-07*
-
-> *﻿7/11/13 -* It's that time of the year again! We've been to Germany and tasted the wines, chosen our favorites, and are now happy to offer the 2012s from three shining stars in Germany, Schaefer, Dönnhoff and Adam. The vintage is one to get excited about…
-
 ### [Weiser-Künstler 2012s: In stock now and more coming!](https://chambersstwines.com/blogs/articles/weiser-kunstler-2012s-in-stock-now-and-more-coming)
 *2013-07*
 
 > *﻿7/31/13 -* *(They love owls at Weiser-Künstler. Here one holds a picture of the Ellergrub.)* We keep beating the drum for this tiny Mosel estate, and we’re particularly thrilled to offer the 2012s. Given the small size of the estate and the high quality of…
+
+### [Schaefer, Dönnhoff & Adam: Terrific '12s](https://chambersstwines.com/blogs/articles/schaefer-donnhoff-adam-terrific-12s)
+*2013-07*
+
+> *﻿7/11/13 -* It's that time of the year again! We've been to Germany and tasted the wines, chosen our favorites, and are now happy to offer the 2012s from three shining stars in Germany, Schaefer, Dönnhoff and Adam. The vintage is one to get excited about…
 
 ## CSW Cellar Note
 

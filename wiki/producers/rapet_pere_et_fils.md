@@ -14,11 +14,11 @@ importer_us:
 - Polaner
 retailers:
   chambers:
-    championed: false
-    article_count: 2
-    dedicated_count: 0
-    first_year: 2023
-    last_year: 2025
+    championed: true
+    article_count: 7
+    dedicated_count: 4
+    first_year: 2007
+    last_year: 2026
     aging_score: 6
     cellar_pick: true
   dte:

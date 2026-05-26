@@ -13,10 +13,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 2
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2007
+    last_year: 2011
   dte:
     in_portfolio: true
     cuvee_count: 12

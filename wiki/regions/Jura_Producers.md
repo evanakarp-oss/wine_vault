@@ -2,29 +2,31 @@
 type: region_index
 region: "Jura"
 updated: 2026-05-26
-producer_count: 15
+producer_count: 17
 ---
 
 # Jura — Producer Index
 
-**15 producers** tracked.
+**17 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
-| [[stephane_tissot|Stéphane Tissot]] | France | Arbois | 13 | — | — | — | — |
+| [[stephane_tissot|Stéphane Tissot]] | France | Arbois | 18 | — | — | — | — |
 | [[jacques_puffeney|Jacques Puffeney]] | France | Arbois (retired 2014) | 12 | — | — | — | — |
 | [[jean_francois_ganevat|Jean-François Ganevat]] | France | Côtes du Jura | 12 | — | — | — | — |
 | [[arnot-roberts|Arnot-Roberts]] | France | California Trousseau / Jura varieties | 10 | — | — | — | — |
 | [[michel_gahier|Michel Gahier]] | France | Arbois (Montigny-lès-Arsures) | 8 | — | — | — | — |
 | [[domaine_de_la_tournelle|Domaine de la Tournelle]] | France | Arbois | 6 | — | — | — | — |
 | [[domaine_marnes_blanches|Domaine Marnes Blanches]] | France | Côtes du Jura | 6 | — | — | — | — |
+| [[domaine_de_saint_pierre|Domaine de Saint Pierre]] | France | Arbois | 5 | — | — | — | — |
 | [[domaine_lulu_vigneron|Domaine Lulu Vigneron]] | France | Côtes du Jura | 5 | — | — | — | — |
 | [[domaine_montbourgeau|Domaine Montbourgeau]] | France | L'Étoile | 5 | — | — | — | — |
 | [[domaine_ratte|Domaine Ratte]] | France | Arbois / Côtes du Jura | 5 | — | — | — | — |
-| [[domaine_de_saint_pierre|Domaine de Saint Pierre]] | France | Arbois | 4 | — | — | — | — |
 | [[domaine_pont_de_breux|Domaine Pont de Breux]] | France | Arbois / Côtes du Jura | 4 | — | — | — | — |
 | [[les_capriades|Les Capriades]] | France | Loire / Touraine pét-nat | 4 | — | — | — | — |
 | [[les_granges_paquenesses|Les Granges Paquenesses]] | France | Côtes du Jura | 3 | — | — | — | — |
 | [[overnoy-crinquand|Overnoy-Crinquand]] | France | Pupillin | 3 | — | — | — | — |
+| [[caves_jean_bourdy|Caves Jean Bourdy]] | France | Arlay | — | — | — | 6 | — |
+| [[frederic_lambert|Frédéric Lambert]] | France | — | — | — | — | 2 | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

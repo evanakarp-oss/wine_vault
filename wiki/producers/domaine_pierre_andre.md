@@ -92,15 +92,15 @@ _sources:
 
 > *12/8/12 -* ** *(Jacqueline and Pierre Andre in their cave. Courthézon, France)* Jacqueline André presides over the non-interventionist legacy of her father Pierre in the village of Courthézon, where the Andrés have worked biodynamically “ *depuis toujours* ”…
 
-### [New Arrivals: Our Best Value Rosé – Provence and Northern Rhone Favorites, Loire Whites and Jurançon!](https://chambersstwines.com/blogs/articles/new-arrivals-our-best-value-rose-the-cuvee-de-l-aubigue-from-les-fouques-plus-northern-rhone-favorites-loire-whites-and-jurancon)
-*undated*
-
-> Rosé season is upon us and our favorite Provençal rosé has arrived, from our friends at Les Fouques. For lovers of the Northern Rhone we offer a superb Cornas and great values from Saint-Joseph and Condrieu. Plus Biodynamic Jurançon from Chateau Lapuyade, and…
-
 ### ★ [The Superb 2021 & 2022 Cornas \"Patou\" and  2022 Cornas \"Henri\" from Dumien Serrette!... and a Southern Rhone Special from Pierre André](https://chambersstwines.com/blogs/articles/the-superb-2021-2022-cornas-patou-and-2022-cornas-henri-from-dumien-serrette-and-a-southern-rhone-special-from-pierre-andre)
 *undated*
 
 > *[Thanks to Fernando Beteta for the use of his beautiful map!]* Since the 2014 vintage, we've been enjoying the rare and beautiful Cornas from Domaine Dumien Serrette - a superb but under-the-radar estate with about 2 hectares on the steep slope of "Patou" in…
+
+### [New Arrivals: Our Best Value Rosé – Provence and Northern Rhone Favorites, Loire Whites and Jurançon!](https://chambersstwines.com/blogs/articles/new-arrivals-our-best-value-rose-the-cuvee-de-l-aubigue-from-les-fouques-plus-northern-rhone-favorites-loire-whites-and-jurancon)
+*undated*
+
+> Rosé season is upon us and our favorite Provençal rosé has arrived, from our friends at Les Fouques. For lovers of the Northern Rhone we offer a superb Cornas and great values from Saint-Joseph and Condrieu. Plus Biodynamic Jurançon from Chateau Lapuyade, and…
 
 ## CSW Cellar Note
 
