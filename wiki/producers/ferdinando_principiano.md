@@ -4,8 +4,8 @@ name: "Ferdinando Principiano"
 slug: ferdinando_principiano
 aliases: []
 country: "Italy"
-region: "Barolo (Serralunga)"
-sub_region: ""
+region: "Piedmont"
+sub_region: "Barolo (Serralunga)"
 appellations: []
 farming: ["biodynamic"]
 certifications: []

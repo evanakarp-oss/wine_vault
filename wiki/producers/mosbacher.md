@@ -4,7 +4,7 @@ name: "Mosbacher"
 slug: mosbacher
 aliases: []
 country: "Germany"
-region: ""
+region: "Pfalz"
 sub_region: ""
 appellations: []
 farming: []

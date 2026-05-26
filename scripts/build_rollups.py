@@ -56,15 +56,27 @@ def get_bool_under(fm: str, block: str, key: str) -> bool:
 
 
 def get_list(fm: str, key: str) -> list[str]:
+    """Parse `key: [a, b]` (inline) or multi-line `key:\\n- a\\n- b` form."""
+    # Inline list
     m = re.search(rf'^{re.escape(key)}:\s*\[(.*?)\]\s*$', fm, re.MULTILINE)
+    if m:
+        inner = m.group(1).strip()
+        if not inner:
+            return []
+        out = []
+        for part in re.findall(r'"([^"]*)"|\'([^\']*)\'|([^,\s][^,]*)', inner):
+            v = next((x for x in part if x), "").strip()
+            if v:
+                out.append(v)
+        return out
+    # Multi-line list: `key:` on its own line, followed by `- value` lines
+    m = re.search(rf'^{re.escape(key)}:\s*$\n((?:- [^\n]*\n)+)',
+                  fm, re.MULTILINE)
     if not m:
         return []
-    inner = m.group(1).strip()
-    if not inner:
-        return []
     out = []
-    for part in re.findall(r'"([^"]*)"|\'([^\']*)\'|([^,\s][^,]*)', inner):
-        v = next((x for x in part if x), "").strip()
+    for line in m.group(1).splitlines():
+        v = line.lstrip("- ").strip().strip('"\'')
         if v:
             out.append(v)
     return out

@@ -3,9 +3,9 @@ type: producer
 name: Laurent Barth
 slug: laurent_barth
 aliases: []
-country: Germany
-region: Alsace (Bennwihr)
-sub_region: ''
+country: France
+region: "Alsace"
+sub_region: "Bennwihr"
 appellations: []
 farming:
 - biodynamic

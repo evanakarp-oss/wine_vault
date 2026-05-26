@@ -4,8 +4,8 @@ name: Peter Lauer / Weingut Lauer
 slug: peter_lauer__weingut_lauer
 aliases: []
 country: Germany
-region: Saar
-sub_region: ''
+region: "Mosel"
+sub_region: "Saar"
 appellations: []
 farming: []
 certifications: []

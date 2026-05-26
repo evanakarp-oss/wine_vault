@@ -4,8 +4,8 @@ name: Roagna
 slug: roagna
 aliases: []
 country: Italy
-region: Barbaresco / Barolo
-sub_region: ''
+region: "Piedmont"
+sub_region: "Barbaresco / Barolo"
 appellations: []
 farming:
 - biodynamic

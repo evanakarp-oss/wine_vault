@@ -4,8 +4,8 @@ name: Fratelli Alessandria
 slug: fratelli_alessandria
 aliases: []
 country: Italy
-region: Verduno (Barolo)
-sub_region: ''
+region: "Piedmont"
+sub_region: "Verduno (Barolo)"
 appellations: []
 farming: []
 certifications: []

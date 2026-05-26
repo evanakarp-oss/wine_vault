@@ -1,22 +1,20 @@
 ---
 type: region_index
 region: "Rhône"
-updated: 2026-05-14
-producer_count: 35
+updated: 2026-05-26
+producer_count: 32
 ---
 
 # Rhône — Producer Index
 
-**35 producers** tracked.
+**32 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
-| [[paris|Paris]] | France | '' | 50 | 2 | — | — | — |
 | [[eric_texier|Eric Texier]] | France | Côte-Rôtie / Brézème / Rhône | 26 | — | — | — | — |
 | [[domaine_pierre_gonon|Domaine Pierre Gonon]] | France | Saint-Joseph | 17 | — | — | — | — |
 | [[domaine_rousset|Domaine Rousset]] | France | Crozes-Hermitage / Saint-Joseph | 11 | — | — | — | 6 btl |
 | [[domaine_pierre_andre|Domaine Pierre André]] | France | Gigondas / Châteauneuf | 12 | — | — | — | — |
-| [[rousset|Rousset]] | France | '' | 11 | 2 | — | — | — |
 | [[clos_du_joncuas|Clos du Joncuas]] | France | Gigondas | 10 | — | — | — | — |
 | [[allemand|Allemand]] | France | Cornas | 9 | — | — | — | — |
 | [[domaine_charvin|Domaine Charvin]] | France | Châteauneuf-du-Pape | 7 | — | — | — | — |
@@ -33,7 +31,6 @@ producer_count: 35
 | [[dard__ribo|Dard & Ribo]] | France | Crozes-Hermitage / Saint-Joseph | 3 | — | — | — | — |
 | [[chapelle_st_theodoric|Chapelle St. Theodoric]] | France | Châteauneuf-du-Pape | 2 | — | — | — | — |
 | [[domaine_gripa|Domaine Gripa]] | France | Saint-Joseph / Saint-Péray | 2 | — | — | — | — |
-| [[garon|Garon]] | France | — | 2 | 7 | — | — | — |
 | [[vincent_paris|Vincent Paris]] | France | '' | 2 | 1 | — | 1 | — |
 | [[clos_du_mont_olivet|Clos du Mont Olivet]] | France | '' | 1 | 1 | — | — | — |
 | [[jasmin|Jasmin]] | France | — | 1 | 1 | — | — | — |

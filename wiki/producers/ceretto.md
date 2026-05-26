@@ -4,8 +4,8 @@ name: Ceretto
 slug: ceretto
 aliases: []
 country: Italy
-region: Barolo / Barbaresco
-sub_region: ''
+region: "Piedmont"
+sub_region: "Barolo / Barbaresco"
 appellations: []
 farming:
 - organic

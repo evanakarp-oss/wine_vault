@@ -4,8 +4,8 @@ name: Zilliken
 slug: zilliken
 aliases: []
 country: Germany
-region: Saar (Saarburg)
-sub_region: ''
+region: "Mosel"
+sub_region: "Saar (Saarburg)"
 appellations: []
 farming: []
 certifications: []

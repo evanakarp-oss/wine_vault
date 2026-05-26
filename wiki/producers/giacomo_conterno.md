@@ -4,8 +4,8 @@ name: Giacomo Conterno
 slug: giacomo_conterno
 aliases: []
 country: Italy
-region: Barolo (Monforte)
-sub_region: ''
+region: "Piedmont"
+sub_region: "Barolo (Monforte)"
 appellations: []
 farming: []
 certifications: []

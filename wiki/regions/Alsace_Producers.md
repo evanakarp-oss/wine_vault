@@ -1,16 +1,18 @@
 ---
 type: region_index
 region: "Alsace"
-updated: 2026-05-14
-producer_count: 4
+updated: 2026-05-26
+producer_count: 6
 ---
 
 # Alsace — Producer Index
 
-**4 producers** tracked.
+**6 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
+| [[laurent_barth|Laurent Barth]] | France | Bennwihr | 5 | — | — | — | — |
+| [[beck-hartweg|Beck-Hartweg]] | France | Dambach-la-Ville | 4 | — | — | — | — |
 | [[agathe_bursin|Agathe Bursin]] | France | — | — | 1 | — | — | — |
 | [[bursin|Bursin]] | France | — | — | 3 | — | — | — |
 | [[dirler_cade|Dirler Cadé]] | France | '' | — | 5 | — | — | — |

@@ -4,8 +4,8 @@ name: Frank Cornelissen
 slug: frank_cornelissen
 aliases: []
 country: Italy
-region: Sicily (Etna)
-sub_region: ''
+region: "Sicily"
+sub_region: "Etna"
 appellations: []
 farming:
 - natural

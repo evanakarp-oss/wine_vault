@@ -1,16 +1,17 @@
 ---
 type: region_index
 region: "Provence"
-updated: 2026-05-14
-producer_count: 2
+updated: 2026-05-26
+producer_count: 3
 ---
 
 # Provence — Producer Index
 
-**2 producers** tracked.
+**3 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
+| [[clos_cibonne|Clos Cibonne]] | France | Côtes de Provence | 3 | — | — | — | — |
 | [[ch_de_pibarnon|Ch de Pibarnon]] | France | — | — | 1 | — | — | — |
 | [[chateau_de_pibarnon|Chateau de Pibarnon]] | France | — | — | 1 | — | — | — |
 

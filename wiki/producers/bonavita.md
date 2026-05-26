@@ -4,8 +4,8 @@ name: "Bonavita"
 slug: bonavita
 aliases: []
 country: "Italy"
-region: "Sicily (Faro)"
-sub_region: ""
+region: "Sicily"
+sub_region: "Faro"
 appellations: []
 farming: ["natural"]
 certifications: []

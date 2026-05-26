@@ -4,8 +4,8 @@ name: Arianna Occhipinti
 slug: arianna_occhipinti
 aliases: []
 country: Italy
-region: Sicily (Vittoria)
-sub_region: ''
+region: "Sicily"
+sub_region: "Vittoria"
 appellations: []
 farming:
 - biodynamic

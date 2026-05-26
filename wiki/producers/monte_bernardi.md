@@ -4,8 +4,8 @@ name: Monte Bernardi
 slug: monte_bernardi
 aliases: []
 country: Italy
-region: Chianti Classico
-sub_region: ''
+region: "Tuscany"
+sub_region: "Chianti Classico"
 appellations: []
 farming:
 - biodynamic

@@ -4,8 +4,8 @@ name: Clemens Busch
 slug: clemens_busch
 aliases: []
 country: Germany
-region: Mosel (Pünderich)
-sub_region: ''
+region: "Mosel"
+sub_region: "Pünderich"
 appellations: []
 farming:
 - biodynamic

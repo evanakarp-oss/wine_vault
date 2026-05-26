@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Burgundy"
-updated: 2026-05-14
-producer_count: 92
+updated: 2026-05-26
+producer_count: 90
 ---
 
 # Burgundy — Producer Index
 
-**92 producers** tracked.
+**90 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -16,7 +16,6 @@ producer_count: 92
 | [[benoit_courault|Benoit Courault]] | France | Anjou (Loire) | 11 | — | — | — | — |
 | [[domaine_de_montille|Domaine de Montille]] | France | Volnay / Pommard | 11 | — | — | — | — |
 | [[domaine_simon_bize|Domaine Simon Bize]] | France | Savigny-lès-Beaune | 10 | — | — | — | — |
-| [[magnien|Magnien]] | France | '' | 8 | 9 | — | — | — |
 | [[sylvie_esmonin|Sylvie Esmonin]] | France | Gevrey-Chambertin | 8 | — | — | — | — |
 | [[chandon_de_briailles|Chandon de Briailles]] | France | Savigny / Pernand / Corton | 7 | — | 1 | — | — |
 | [[domaine_guillemot-michel|Domaine Guillemot-Michel]] | France | Mâcon-Viré | 7 | — | — | — | — |
@@ -39,7 +38,6 @@ producer_count: 92
 | [[pierre-yves_colin-morey|Pierre-Yves Colin-Morey]] | France | St-Aubin / Chassagne | 4 | — | — | — | — |
 | [[bruno_lorenzon|Bruno Lorenzon]] | France | '' | — | 6 | 2 | — | 3 btl |
 | [[cecile_tremblay|Cecile Tremblay]] | France | Vosne-Romanée / Chambolle | 3 | — | — | — | — |
-| [[domaine_chanter├¬ves|Domaine Chanterêves]] | France | Burgundy (négociant) | 3 | — | — | — | — |
 | [[duplessis_chablis|Duplessis Chablis]] | France | Chablis | 3 | — | — | — | — |
 | [[guillot_broux|Guillot-Broux]] | France | '' | 3 | 2 | — | — | — |
 | [[lignier-michelot|Lignier-Michelot]] | France | Morey-Saint-Denis | 3 | — | — | — | — |
@@ -60,7 +58,7 @@ producer_count: 92
 | [[dujardin|Dujardin]] | France | — | 1 | 15 | — | — | — |
 | [[georges_glantenay|Georges Glantenay]] | France | — | 1 | 14 | — | — | — |
 | [[goisot|Goisot]] | France | — | 1 | 7 | — | — | — |
-| [[mallard|Mallard]] | France | '' | 1 | 4 | 1 | — | — |
+| [[heresztyn-mazzini|Heresztyn-Mazzini]] | France | Gevrey-Chambertin | 1 | — | — | — | — |
 | [[michel_mallard|Michel Mallard]] | France | '' | 1 | 24 | — | — | — |
 | [[michel_noellat|Michel Noellat]] | France | '' | 1 | 1 | — | — | — |
 | [[meo_camuzet|Méo-Camuzet]] | France | Vosne-Romanée | 1 | — | 12 | — | — |

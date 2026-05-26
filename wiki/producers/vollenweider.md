@@ -4,8 +4,8 @@ name: Vollenweider
 slug: vollenweider
 aliases: []
 country: Germany
-region: Mosel (Wolf)
-sub_region: ''
+region: "Mosel"
+sub_region: "Wolf"
 appellations: []
 farming: []
 certifications: []

@@ -4,8 +4,8 @@ name: "Pianelle"
 slug: pianelle
 aliases: []
 country: "Italy"
-region: ""
-sub_region: ""
+region: "Piedmont"
+sub_region: "Alto Piemonte"
 appellations: []
 farming: []
 certifications: []

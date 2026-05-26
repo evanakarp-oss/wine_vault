@@ -4,8 +4,8 @@ name: "Collestefano"
 slug: collestefano
 aliases: []
 country: "Italy"
-region: ""
-sub_region: ""
+region: "Marche"
+sub_region: "Matelica"
 appellations: []
 farming: []
 certifications: []

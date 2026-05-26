@@ -4,8 +4,8 @@ name: Cascina delle Rose
 slug: cascina_delle_rose
 aliases: []
 country: Italy
-region: Barbaresco (Neive)
-sub_region: ''
+region: "Piedmont"
+sub_region: "Barbaresco (Neive)"
 appellations: []
 farming:
 - organic

@@ -4,7 +4,7 @@ name: "Elio Ottin"
 slug: elio_ottin
 aliases: []
 country: "Italy"
-region: ""
+region: "Valle d'Aosta"
 sub_region: ""
 appellations: []
 farming: []

@@ -4,13 +4,13 @@ name: "Raeder's"
 slug: raeders
 url: ""
 location: ""
-producer_count: 57
-updated: 2026-05-14
+producer_count: 56
+updated: 2026-05-26
 ---
 
 # Raeder's
 
-**57 producers** from this retailer are tracked in the wiki.
+**56 producers** from this retailer are tracked in the wiki.
 
 ## Producers in portfolio
 
@@ -35,11 +35,11 @@ updated: 2026-05-14
 | [[ramonet|Ramonet]] | France | Burgundy | 9 | 1 |
 | [[biondi_santi|Biondi-Santi]] | Italy | Tuscany | 8 | 1 |
 | [[chateau_palmer|Château Palmer]] | France | Bordeaux | 8 | 1 |
-| [[ceretto|Ceretto]] | Italy | Barolo / Barbaresco | 7 | 9 |
+| [[ceretto|Ceretto]] | Italy | Piedmont | 7 | 9 |
 | [[dom_perignon|Dom Pérignon]] | France | Champagne | 7 | 1 |
 | [[feudo_montoni|Feudo Montoni]] | Italy | Sicily | 7 | 3 |
 | [[sine_qua_non|Sine Qua Non]] | United States | California | 7 | — |
-| [[roagna|Roagna]] | Italy | Barbaresco / Barolo | 6 | 13 |
+| [[roagna|Roagna]] | Italy | Piedmont | 6 | 13 |
 | [[chateau_lynch_bages|Château Lynch-Bages]] | France | Bordeaux | 5 | — |
 | [[chateau_smith_haut_lafitte|Château Smith-Haut-Lafitte]] | France | Bordeaux | 5 | 2 |
 | [[chateau_gruaud_larose|Château Gruaud-Larose]] | France | Bordeaux | 4 | 1 |
@@ -58,7 +58,7 @@ updated: 2026-05-14
 | [[colgin|Colgin]] | United States | California | 2 | — |
 | [[domaine_de_chevalier|Domaine de Chevalier]] | France | Bordeaux | 2 | 2 |
 | [[pierre_peters|Pierre Peters]] | France | Champagne | 2 | 2 |
-| [[arianna_occhipinti|Arianna Occhipinti]] | Italy | Sicily (Vittoria) | 1 | 4 |
+| [[arianna_occhipinti|Arianna Occhipinti]] | Italy | Sicily | 1 | 4 |
 | [[bryant_family_vineyard|Bryant Family Vineyard]] | United States | California | 1 | — |
 | [[chandon_de_briailles|Chandon de Briailles]] | France | Burgundy | 1 | 7 |
 | [[chateau_haut_bailly|Château Haut-Bailly]] | France | Bordeaux | 1 | — |
@@ -68,10 +68,9 @@ updated: 2026-05-14
 | [[domaine_jean_chauvenet|Domaine Jean Chauvenet]] | France | Burgundy | 1 | 2 |
 | [[futo_estate|Futo Estate]] | United States | California | 1 | — |
 | [[georges_vernay|Georges Vernay]] | France | Rhône | 1 | — |
-| [[giacomo_conterno|Giacomo Conterno]] | Italy | Barolo (Monforte) | 1 | 5 |
+| [[giacomo_conterno|Giacomo Conterno]] | Italy | Piedmont | 1 | 5 |
 | [[larmandier_bernier|Larmandier Bernier]] | France | Champagne | 1 | 1 |
-| [[mallard|Mallard]] | France | Burgundy | 1 | 1 |
-| [[produttori_del_barbaresco|Produttori del Barbaresco]] | Italy | Barbaresco | 1 | 10 |
+| [[produttori_del_barbaresco|Produttori del Barbaresco]] | Italy | Piedmont | 1 | 10 |
 | [[screaming_eagle|Screaming Eagle]] | United States | California | 1 | 1 |
 
 *Compiled by `scripts/build_rollups.py`.*

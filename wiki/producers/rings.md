@@ -4,8 +4,8 @@ name: Rings
 slug: rings
 aliases: []
 country: Germany
-region: ''
-sub_region: ''
+region: "Pfalz"
+sub_region: "Freinsheim"
 appellations: []
 farming: []
 certifications: []

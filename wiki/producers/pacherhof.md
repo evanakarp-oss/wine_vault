@@ -4,8 +4,8 @@ name: "Pacherhof"
 slug: pacherhof
 aliases: []
 country: "Italy"
-region: ""
-sub_region: ""
+region: "Alto Adige / Südtirol"
+sub_region: "Eisacktal"
 appellations: []
 farming: []
 certifications: []

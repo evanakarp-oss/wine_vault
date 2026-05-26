@@ -4,8 +4,8 @@ name: Willi Schaefer
 slug: willi_schaefer
 aliases: []
 country: Germany
-region: Mosel (Graach)
-sub_region: ''
+region: "Mosel"
+sub_region: "Graach"
 appellations: []
 farming: []
 certifications: []

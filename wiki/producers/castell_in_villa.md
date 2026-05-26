@@ -4,8 +4,8 @@ name: "Castell'in Villa"
 slug: castell_in_villa
 aliases: []
 country: "Italy"
-region: ""
-sub_region: ""
+region: "Tuscany"
+sub_region: "Chianti Classico"
 appellations: []
 farming: []
 certifications: []

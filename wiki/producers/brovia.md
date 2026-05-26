@@ -4,8 +4,8 @@ name: Brovia
 slug: brovia
 aliases: []
 country: Italy
-region: Barolo / Barbaresco (Castiglione Falletto)
-sub_region: ''
+region: "Piedmont"
+sub_region: "Barolo / Barbaresco (Castiglione Falletto)"
 appellations: []
 farming: []
 certifications: []

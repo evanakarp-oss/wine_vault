@@ -2,7 +2,7 @@
 type: producer
 name: Domaine Garon
 slug: domaine_garon
-aliases: []
+aliases: ["Garon"]
 country: France
 region: Rhône
 sub_region: Côte-Rôtie

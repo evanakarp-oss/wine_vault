@@ -4,8 +4,8 @@ name: "Walter Massa"
 slug: walter_massa
 aliases: []
 country: "Italy"
-region: "Colli Tortonesi (Timorasso)"
-sub_region: ""
+region: "Colli Tortonesi"
+sub_region: "Timorasso"
 appellations: []
 farming: ["natural"]
 certifications: []

@@ -4,8 +4,8 @@ name: A.J. Adam
 slug: aj_adam
 aliases: []
 country: Germany
-region: Mosel (Dhron)
-sub_region: ''
+region: "Mosel"
+sub_region: "Dhron"
 appellations: []
 farming: []
 certifications: []

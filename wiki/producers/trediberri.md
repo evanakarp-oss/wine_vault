@@ -4,8 +4,8 @@ name: Trediberri
 slug: trediberri
 aliases: []
 country: Italy
-region: Barolo (La Morra)
-sub_region: ''
+region: "Piedmont"
+sub_region: "Barolo (La Morra)"
 appellations: []
 farming:
 - organic

@@ -2,7 +2,7 @@
 type: producer
 name: Stéphane Magnien
 slug: stephane_magnien
-aliases: []
+aliases: ["Stéphane Magnien", "Stephane Magnien", "Domaine Stéphan Magnien"]
 country: France
 region: Burgundy
 sub_region: Morey-Saint-Denis

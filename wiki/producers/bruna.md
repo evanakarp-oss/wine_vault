@@ -4,8 +4,8 @@ name: Bruna
 slug: bruna
 aliases: []
 country: Italy
-region: Liguria (Riviera Ligure di Ponente)
-sub_region: ''
+region: "Liguria"
+sub_region: "Riviera Ligure di Ponente"
 appellations: []
 farming:
 - organic

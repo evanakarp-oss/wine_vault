@@ -1,17 +1,16 @@
 ---
 type: region_index
 region: "Jura"
-updated: 2026-05-14
-producer_count: 16
+updated: 2026-05-26
+producer_count: 15
 ---
 
 # Jura — Producer Index
 
-**16 producers** tracked.
+**15 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
-| [[tissot|Tissot]] | France | '' | 18 | 2 | — | — | — |
 | [[stephane_tissot|Stéphane Tissot]] | France | Arbois | 13 | — | — | — | — |
 | [[jacques_puffeney|Jacques Puffeney]] | France | Arbois (retired 2014) | 12 | — | — | — | — |
 | [[jean_francois_ganevat|Jean-François Ganevat]] | France | Côtes du Jura | 12 | — | — | — | — |

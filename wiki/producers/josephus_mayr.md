@@ -4,7 +4,7 @@ name: "Josephus Mayr"
 slug: josephus_mayr
 aliases: []
 country: "Italy"
-region: ""
+region: "Alto Adige / Südtirol"
 sub_region: ""
 appellations: []
 farming: []

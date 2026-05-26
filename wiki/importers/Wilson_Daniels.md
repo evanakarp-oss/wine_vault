@@ -5,7 +5,7 @@ slug: wilson_daniels
 producer_count: 1
 focus: ['Burgundy']
 notable_producers: ['Domaine Leflaive']
-updated: 2026-05-08
+updated: 2026-05-26
 ---
 
 # Wilson Daniels

@@ -2,7 +2,7 @@
 type: producer
 name: "Bernard Baudry"
 slug: bernard_baudry
-aliases: []
+aliases: ["Bernard Baudry"]
 country: "France"
 region: "Loire"
 sub_region: ""

@@ -76,6 +76,7 @@ Add new values here FIRST, then use them in producer files.
 - Galicia
 - Jumilla
 - Ribera del Duero
+- Basque Country
 
 ### Argentina
 - Mendoza

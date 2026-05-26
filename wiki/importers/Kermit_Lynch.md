@@ -5,7 +5,7 @@ slug: kermit_lynch
 producer_count: 10
 focus: ['Burgundy', 'Rhône']
 notable_producers: ['Domaine Pierre Gonon', 'Domaine Pierre André', 'Clos du Joncuas', 'Allemand', 'Sylvie Esmonin']
-updated: 2026-05-08
+updated: 2026-05-26
 ---
 
 # Kermit Lynch
@@ -14,7 +14,7 @@ updated: 2026-05-08
 
 | Producer | Country | Region | CSW | Cellar |
 |---|---|---|---:|---:|
-| [[domaine_pierre_gonon|Domaine Pierre Gonon]] | France | Rhône | 34 | — |
+| [[domaine_pierre_gonon|Domaine Pierre Gonon]] | France | Rhône | 17 | — |
 | [[domaine_pierre_andre|Domaine Pierre André]] | France | Rhône | 12 | — |
 | [[clos_du_joncuas|Clos du Joncuas]] | France | Rhône | 10 | — |
 | [[allemand|Allemand]] | France | Rhône | 9 | — |

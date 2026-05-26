@@ -122,15 +122,20 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
 - **Burgundy / Loire / Mosel / Piedmont**: terroir-driven, biodynamic-leaning, grower-scale.
 - **Cellar style**: NYC/US retailers, German biodynamic, US boutique, Italian Friuli/Piedmont.
 
-## Open follow-ups (as of 2026-04-25)
+## Open follow-ups (as of 2026-05-26)
 
-- `/ask-cellar` skill still points at OLD Drive `wine_wiki/` — needs repoint to `wine_vault/wiki/` + `cellar/` + `raw/`
+- `/ask-cellar` skill still points at OLD Drive `wine_wiki/` — needs repoint to `wine_vault/wiki/` + `cellar/` + `raw/`.
 - Vinous, Wine Advocate (Kelley) — ingest not yet wired. Plan: Obsidian Web Clipper → `raw/clippings/<source>/` → compile pass.
 - Berserkers — wired (2026-05). One thread ingested (`top10_in_cellar`). To add another: scrape → parse → compile, see `raw/berserkers/README.md`.
-- 60 lint issues outstanding: 32 region taxonomy violations, 19 empty regions, 8 surname collisions (Baudry, Paris), 1 duplicate (rousset / domaine_rousset).
 - Widget rewire: `dte_wines_1.jsx` still reads hardcoded arrays, needs `build_widget_json.py`.
 - 387 unselected Raeders new-candidate producers parked in `raw/` — revisit if scope expands.
 - Mobile access: claude.ai Project + Drive connector OR Obsidian mobile via iCloud.
+- **Argentina_Reloaded ingest left 79 producers (Mendoza 62, Patagonia 9, Salta 5, Jujuy 2, San Juan 1) onboarded from a single event source — violates the anti-pattern below. Curate to ~10 keepers and quarantine the rest, or accept the wider surface area.**
+- Drive duplicates listed in `_canonical_ids.md` (`wiki/wiki/`, `wine_vault_fromdocuments/`, `_drive_sync/wine_wiki_v2/`) still exist on Drive. **Git is now the source of truth**; treat Drive as a read-only mirror and clean the duplicates when convenient.
+
+## Architecture-fix history
+
+- **2026-05-26** — lint 66 → 0. `scripts/fix_vault_architecture.py` (one-shot, idempotent) consolidated 8 CSW surname-collision dupes, deleted 2 mojibake/legacy relics, normalized 48 region fields (sub-regions moved out of `region:`), backfilled 16 empty regions, synthesized frontmatter for 5 legacy pages. Region rollups: 57 → 37. `lint.py --strict` now gates CI. Full entry in `wiki/log.md`.
 
 ## Anti-patterns
 
