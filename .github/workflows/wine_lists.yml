@@ -1,0 +1,140 @@
+name: wine_lists
+
+# Weekly NYC wine-list snapshot:
+#   1. scrape each registered source in raw/wine_lists/<slug>/
+#   2. parse → snapshot_<date>.json
+#   3. diff vs. the prior snapshot → build/wine_list_arrivals_<YYYY-WW>.json
+#   4. render wiki/_views/wine_list_arrivals.md + the weekly archive
+#   5. if anything changed, open a PR for review.
+#
+# Why a PR instead of a direct push to main: snapshots feed the wiki, and
+# the producer-slug resolution + per-source parsers may need calibration
+# against new list formats. A PR lets a human eyeball week-over-week diffs
+# before they land. Once you've watched a few weeks run clean you can
+# switch this to a direct push.
+#
+# Pipeline + sources documented in raw/wine_lists/README.md.
+
+on:
+  schedule:
+    # Mondays 14:00 UTC = ~10 AM ET — restaurants typically refresh lists
+    # over the weekend. Late enough that "this week's" PDF is the new one.
+    - cron: '0 14 * * 1'
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: "Single source slug to fetch (blank = all)"
+        required: false
+        default: ""
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          # pdftotext (poppler-utils) — required by parse_wine_list.py for PDFs.
+          # Absent on the runner by default.
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+
+      - name: Scrape wine lists
+        id: scrape
+        run: |
+          set +e  # don't fail the job if one source 403s — others may succeed
+          if [ -n "${{ inputs.slug }}" ]; then
+            python scripts/scrape_wine_lists.py "${{ inputs.slug }}" --apply
+          else
+            python scripts/scrape_wine_lists.py --all --apply
+          fi
+          exit 0
+
+      - name: Parse snapshots
+        run: |
+          set +e
+          if [ -n "${{ inputs.slug }}" ]; then
+            python scripts/parse_wine_list.py "${{ inputs.slug }}" --apply
+          else
+            python scripts/parse_wine_list.py --all --apply
+          fi
+          exit 0
+
+      - name: Diff vs. prior week
+        run: python scripts/diff_wine_lists.py --apply
+
+      - name: Render wiki view
+        run: python scripts/build_wine_list_view.py --apply
+
+      - name: Open PR if anything changed
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes — nothing to commit."
+            exit 0
+          fi
+
+          DATE=$(date -u +%Y-%m-%d)
+          WEEK=$(date -u +%G-W%V)
+          BRANCH="wine-lists/${DATE}"
+
+          git config user.name "wine-list-bot"
+          git config user.email "wine-list-bot@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add raw/wine_lists/ build/wine_list_arrivals_*.json \
+                  wiki/_views/wine_list_arrivals*.md || true
+          git commit -m "wine lists: weekly snapshot ${DATE}"
+          git push -u origin "$BRANCH"
+
+          # Summarize the diff in the PR body.
+          if [ -f "build/wine_list_arrivals_${WEEK}.json" ]; then
+            ADDED=$(python -c "import json; d=json.load(open('build/wine_list_arrivals_${WEEK}.json')); print(d['totals']['added'])")
+            REMOVED=$(python -c "import json; d=json.load(open('build/wine_list_arrivals_${WEEK}.json')); print(d['totals']['removed'])")
+          else
+            ADDED=0; REMOVED=0
+          fi
+
+          gh pr create \
+            --title "wine lists: weekly snapshot ${DATE}" \
+            --body "$(cat <<EOF
+          Automated weekly fetch of monitored NYC wine lists.
+
+          - **Week:** ${WEEK}
+          - **Additions:** ${ADDED}
+          - **Removals:** ${REMOVED}
+
+          See \`wiki/_views/wine_list_arrivals.md\` for the rendered view and
+          \`build/wine_list_arrivals_${WEEK}.json\` for the raw diff.
+
+          ## Review checklist
+          - [ ] Spot-check 2-3 new arrivals against the linked producer pages
+          - [ ] Confirm \`❓\`-flagged producers really aren't in the vault
+                (slugify may have missed a known alias)
+          - [ ] If a per-source parser is producing garbage (empty cuvée, wrong
+                vintage), open \`raw/wine_lists/<slug>/raw/${DATE}.{pdf,html}\`
+                and tune the parser in \`scripts/parse_wine_list.py\`
+
+          ## If something is broken
+          A source that 403'd or returned malformed data won't fail this job —
+          its snapshot just won't update, and next week's diff will pick up
+          whatever changed in the interim. Check the workflow log for any
+          \`FAILED:\` lines under the Scrape step.
+
+          Generated by \`.github/workflows/wine_lists.yml\`.
+          EOF
+          )"
