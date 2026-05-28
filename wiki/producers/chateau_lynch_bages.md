@@ -10,7 +10,8 @@ appellations: []
 farming:
 - sustainable
 certifications: []
-importer_us: []
+importer_us:
+- Veritas Wines
 retailers:
   chambers:
     championed: false
@@ -58,7 +59,6 @@ berserkers_kelley_body:
     url: https://www.wineberserkers.com/t/anthony-barton-rip/176465/19
   note: derived from body-text re-pass v2; additive to berserkers_kelley
 ---
-
 # Château Lynch-Bages
 
 _5th-growth Pauillac; Cazes family. Reliable across vintages, often best-value Pauillac aged._

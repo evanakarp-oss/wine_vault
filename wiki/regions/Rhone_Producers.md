@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Rhône"
-updated: 2026-05-26
-producer_count: 32
+updated: 2026-05-28
+producer_count: 33
 ---
 
 # Rhône — Producer Index
 
-**32 producers** tracked.
+**33 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -41,6 +41,7 @@ producer_count: 32
 | [[eric_et_joel_durand|Eric et Joel Durand]] | France | — | — | 1 | — | — | — |
 | [[georges_vernay|Georges Vernay]] | France | — | — | 1 | 1 | — | — |
 | [[jean_royer|Jean Royer]] | France | — | — | 1 | — | — | — |
+| [[jean_baptiste_souillard|Jean-Baptiste Souillard]] | France | Cornas | — | — | — | — | — |
 | [[marc_sorrel|Marc Sorrel]] | France | '' | — | 15 | — | — | — |
 | [[pierre_benetiere|Pierre Benetiere]] | France | — | — | 5 | — | — | — |
 

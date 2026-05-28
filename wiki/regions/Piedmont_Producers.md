@@ -1,18 +1,19 @@
 ---
 type: region_index
 region: "Piedmont"
-updated: 2026-05-26
-producer_count: 20
+updated: 2026-05-28
+producer_count: 23
 ---
 
 # Piedmont — Producer Index
 
-**20 producers** tracked.
+**23 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
 | [[roagna|Roagna]] | Italy | Barbaresco / Barolo | 13 | — | 6 | — | 3 btl |
 | [[brovia|Brovia]] | Italy | Barolo / Barbaresco (Castiglione Falletto) | 13 | — | — | — | — |
+| [[olek_bondonio|Olek Bondonio]] | Italy | Barbaresco | — | — | — | — | 12 btl |
 | [[produttori_del_barbaresco|Produttori del Barbaresco]] | Italy | Barbaresco | 10 | — | 1 | — | — |
 | [[ceretto|Ceretto]] | Italy | Barolo / Barbaresco | 9 | — | 7 | — | — |
 | [[burlotto|Burlotto]] | Italy | Verduno (Barolo) | 6 | — | — | — | — |
@@ -31,5 +32,7 @@ producer_count: 20
 | [[gaja|Gaja]] | Italy | Barbaresco / Barolo | — | — | 30 | — | — |
 | [[pianelle|Pianelle]] | Italy | Alto Piemonte | — | 6 | — | — | — |
 | [[sottimano|Sottimano]] | Italy | — | — | 12 | — | — | — |
+| [[vaira_aurelj|Vaira Aurelj]] | Italy | Barolo area (Vergne) | — | — | — | — | — |
+| [[valfaccenda|Valfaccenda]] | Italy | Roero | — | — | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

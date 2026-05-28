@@ -9,7 +9,8 @@ sub_region: ''
 appellations: []
 farming: []
 certifications: []
-importer_us: []
+importer_us:
+- Veritas Wines
 retailers:
   chambers:
     championed: false
@@ -52,7 +53,6 @@ berserkers_kelley_body:
     url: https://www.wineberserkers.com/t/whole-bunch-in-burgundy/167959/10
   note: derived from body-text re-pass v2; additive to berserkers_kelley
 ---
-
 # Denis Bachelet
 
 _Seeded from Down to Earth (Panzer) portfolio. Not yet covered in CSW archive sweep._

@@ -1,17 +1,18 @@
 ---
 type: region_index
 region: "Pfalz"
-updated: 2026-05-26
-producer_count: 2
+updated: 2026-05-28
+producer_count: 3
 ---
 
 # Pfalz — Producer Index
 
-**2 producers** tracked.
+**3 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
 | [[rings|Rings]] | Germany | Freinsheim | 1 | 2 | — | — | — |
 | [[mosbacher|Mosbacher]] | Germany | — | — | 1 | — | — | — |
+| [[sven_leiner|Sven Leiner]] | Germany | '' | — | — | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

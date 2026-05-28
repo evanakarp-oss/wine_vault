@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Burgundy"
-updated: 2026-05-26
-producer_count: 85
+updated: 2026-05-28
+producer_count: 109
 ---
 
 # Burgundy — Producer Index
 
-**85 producers** tracked.
+**109 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -52,6 +52,7 @@ producer_count: 85
 | [[amelie_berthaut|Amélie Berthaut]] | France | — | 1 | 1 | — | — | — |
 | [[berthaut-gerbet|Berthaut-Gerbet]] | France | Fixin / Gevrey | 1 | — | — | — | — |
 | [[domaine_cheveau|Domaine Cheveau]] | France | Pouilly-Fuissé | 1 | — | — | — | — |
+| [[domaine_des_croix|Domaine des Croix]] | France | Beaune | — | — | — | — | 1 btl |
 | [[domaine_joseph_roty|Domaine Joseph Roty]] | France | Gevrey-Chambertin | 1 | — | — | — | — |
 | [[domaine_rossignol-fevrier|Domaine Rossignol-Fevrier]] | France | Volnay | 1 | — | — | — | — |
 | [[dujardin|Dujardin]] | France | — | 1 | 15 | — | — | — |
@@ -66,11 +67,23 @@ producer_count: 85
 | [[simon_colin|Simon Colin]] | France | Chassagne-Montrachet | 1 | — | — | — | — |
 | [[sirugue|Sirugue]] | France | — | 1 | 4 | — | — | — |
 | [[arnoux_lachaux|Arnoux Lachaux]] | France | '' | — | 16 | — | — | — |
+| [[aurelien_revillot|Aurélien Revillot]] | France | '' | — | — | — | — | — |
 | [[barraud|Barraud]] | France | '' | — | 5 | — | — | — |
+| [[bessin_tremblay|Bessin-Tremblay]] | France | Chablis | — | — | — | — | — |
+| [[bret_brothers|Bret Brothers (La Soufrandière)]] | France | Mâconnais | — | — | — | — | — |
+| [[bruno_clair|Bruno Clair]] | France | Marsannay | — | — | — | — | — |
+| [[caroline_bellavoine|Caroline Bellavoine]] | France | Maranges / Côte Chalonnaise | — | — | — | — | — |
+| [[chantereves|Chanterêves]] | France | Côte de Beaune | — | — | — | — | — |
 | [[charles_audoin|Charles Audoin]] | France | '' | — | 19 | — | — | — |
+| [[charles_lachaux|Charles Lachaux]] | France | Vosne-Romanée | — | — | — | — | — |
+| [[chavy_chouet|Chavy-Chouet]] | France | Côte de Beaune | — | — | — | — | — |
 | [[chicotot|Chicotot]] | France | '' | — | 20 | — | — | — |
+| [[comte_armand|Comte Armand & Clos des Épeneaux]] | France | Pommard | — | — | — | — | — |
 | [[cyril_audoin|Cyril Audoin]] | France | '' | — | 3 | — | — | — |
 | [[denis_bachelet|Denis Bachelet]] | France | '' | — | 1 | — | — | — |
+| [[denis_race|Denis Race]] | France | Chablis | — | — | — | — | — |
+| [[domaine_de_cassiopee|Domaine de Cassiopée]] | France | Maranges | — | — | — | — | — |
+| [[domaine_de_la_vougeraie|Domaine de la Vougeraie]] | France | Côte de Nuits & Côte de Beaune | — | — | — | — | — |
 | [[francois_bertheau|Francois Bertheau]] | France | '' | — | 5 | — | — | — |
 | [[francois_buffet|François Buffet]] | France | — | — | 3 | — | 24 | — |
 | [[georges_noellat|Georges Noëllat]] | France | '' | — | 13 | — | — | — |
@@ -81,20 +94,31 @@ producer_count: 85
 | [[jean_collet|Jean Collet]] | France | '' | — | 3 | — | — | — |
 | [[jean_javillier|Jean Javillier]] | France | '' | — | 14 | — | — | — |
 | [[jean_pierre_guyon|Jean Pierre Guyon]] | France | '' | — | 21 | — | — | — |
+| [[jean_baptiste_hardy|Jean-Baptiste Hardy]] | France | '' | — | — | — | — | — |
+| [[jean_marc_thomas_bouley|Jean-Marc & Thomas Bouley]] | France | Volnay | — | — | — | — | — |
 | [[jean_marc_et_thomas_bouley|Jean-Marc et Thomas Bouley]] | France | — | — | 4 | — | — | — |
 | [[julien_guillot__vignes_du_maynes|Julien Guillot / Vignes du Maynes]] | France | Mâcon / Cruzille | — | — | — | — | — |
 | [[latour_giraud|Latour Giraud]] | France | — | — | 10 | — | — | — |
+| [[les_horees|Les Horées]] | France | Côte de Beaune | — | — | — | — | — |
 | [[loersch|Loersch]] | France | — | — | 9 | — | — | — |
 | [[louis_latour|Louis Latour]] | France | Beaune | — | — | 9 | — | — |
 | [[lucien_boillot|Lucien Boillot]] | France | Gevrey-Chambertin | — | — | 9 | — | — |
+| [[maison_and_domaine_leroy|Maison and Domaine Leroy]] | France | Côte de Nuits | — | — | — | — | — |
 | [[marchand_tawse|Marchand Tawse]] | France | '' | — | 25 | — | — | — |
 | [[maxime_cheurlin|Maxime Cheurlin]] | France | — | — | 18 | — | — | — |
+| [[michel_lafarge|Michel Lafarge]] | France | Volnay | — | — | — | — | — |
 | [[michel_niellon|Michel Niellon]] | France | Chassagne-Montrachet | — | — | 3 | — | — |
 | [[michel_rebourgeon|Michel Rebourgeon]] | France | — | — | 13 | — | 17 | — |
 | [[modot_guyon|Modot Guyon]] | France | — | — | 6 | — | — | — |
+| [[nicolas_faure|Nicolas Faure]] | France | Côte de Nuits | — | — | — | — | — |
+| [[parigot_richard|Parigot & Richard]] | France | Savigny-lès-Beaune | — | — | — | — | — |
 | [[patrice_rion|Patrice Rion]] | France | — | — | 3 | — | — | — |
+| [[philippe_pacalet|Philippe Pacalet]] | France | '' | — | — | — | — | — |
+| [[roland_thevenin|Roland Thévenin]] | France | '' | — | — | — | — | — |
+| [[rossignol_changarnier|Rossignol-Changarnier]] | France | '' | — | — | — | — | — |
 | [[roty|Roty]] | France | — | — | 1 | — | — | — |
 | [[sigaut|Sigaut]] | France | — | — | 9 | — | — | — |
+| [[sylvain_cathiard|Sylvain Cathiard]] | France | Vosne-Romanée | — | — | — | — | — |
 | [[thomas_et_jean_marc_bouley|Thomas et Jean Marc Bouley]] | France | — | — | 10 | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

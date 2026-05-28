@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Alsace"
-updated: 2026-05-26
-producer_count: 5
+updated: 2026-05-28
+producer_count: 6
 ---
 
 # Alsace — Producer Index
 
-**5 producers** tracked.
+**6 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -16,5 +16,6 @@ producer_count: 5
 | [[agathe_bursin|Agathe Bursin]] | France | — | — | 1 | — | — | — |
 | [[dirler_cade|Dirler Cadé]] | France | '' | — | 5 | — | — | — |
 | [[kientzler|Kientzler]] | France | — | — | 1 | — | — | — |
+| [[marcel_deiss|Marcel Deiss]] | France | Bergheim | — | — | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

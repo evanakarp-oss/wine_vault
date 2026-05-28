@@ -12,7 +12,8 @@ appellations: []
 farming:
 - organic
 certifications: []
-importer_us: []
+importer_us:
+- Veritas Wines
 retailers:
   chambers:
     championed: true
@@ -40,7 +41,6 @@ tags: []
 _sources:
 - short:short__Gerard_Mugneret.md
 ---
-
 # Gerard Mugneret
 
 ## CSW Write-ups

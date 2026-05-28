@@ -10,7 +10,8 @@ appellations: []
 farming:
 - biodynamic
 certifications: []
-importer_us: []
+importer_us:
+- Veritas Wines
 retailers:
   chambers:
     championed: true
@@ -38,7 +39,6 @@ tags: []
 _sources:
 - short:short__Sylvain_Pataille.md
 ---
-
 # Sylvain Pataille
 
 ## CSW Write-ups

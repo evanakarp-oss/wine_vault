@@ -5,7 +5,7 @@ slug: chambers
 url: "https://chambersstwines.com"
 location: "NYC"
 producer_count: 185
-updated: 2026-05-26
+updated: 2026-05-28
 tags: []
 _source: wiki/_resources.md
 ---

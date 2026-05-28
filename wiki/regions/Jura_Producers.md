@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Jura"
-updated: 2026-05-26
-producer_count: 15
+updated: 2026-05-28
+producer_count: 16
 ---
 
 # Jura — Producer Index
 
-**15 producers** tracked.
+**16 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -26,5 +26,6 @@ producer_count: 15
 | [[les_capriades|Les Capriades]] | France | Loire / Touraine pét-nat | 4 | — | — | — | — |
 | [[les_granges_paquenesses|Les Granges Paquenesses]] | France | Côtes du Jura | 3 | — | — | — | — |
 | [[overnoy-crinquand|Overnoy-Crinquand]] | France | Pupillin | 3 | — | — | — | — |
+| [[fumey_chatelain|Fumey-Chatelain]] | France | Arbois | — | — | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

@@ -12,6 +12,7 @@ farming:
 certifications: []
 importer_us:
 - Kysela
+- Veritas Wines
 retailers:
   chambers:
     championed: true
@@ -56,7 +57,6 @@ berserkers_kelley_body:
     url: https://www.wineberserkers.com/t/understanding-the-producers-of-volnay/149875/57
   note: derived from body-text re-pass v2; additive to berserkers_kelley
 ---
-
 # Domaine de Montille
 
 ## CSW Write-ups

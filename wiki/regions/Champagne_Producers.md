@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Champagne"
-updated: 2026-05-26
-producer_count: 16
+updated: 2026-05-28
+producer_count: 25
 ---
 
 # Champagne — Producer Index
 
-**16 producers** tracked.
+**25 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -22,9 +22,18 @@ producer_count: 16
 | [[jacques_lassaigne|Jacques Lassaigne]] | France | '' | 1 | 3 | — | — | — |
 | [[larmandier_bernier|Larmandier Bernier]] | France | '' | 1 | 3 | 1 | — | — |
 | [[aurore_casanova|Aurore Casanova]] | France | — | — | 4 | — | — | — |
+| [[bruno_gobillard|Bruno Gobillard]] | France | '' | — | — | — | — | — |
+| [[camille_saves|Camille Savès]] | France | Bouzy | — | — | — | — | — |
+| [[demiere_ansiot|Demière-Ansiot]] | France | Oger / Côte des Blancs | — | — | — | — | — |
+| [[domaine_vincey|Domaine Vincey]] | France | Côte des Blancs / Oger | — | — | — | — | — |
+| [[gratiot_cie|Gratiot & Cie]] | France | '' | — | — | — | — | — |
+| [[hugues_godme|Hugues Godmé]] | France | Montagne de Reims | — | — | — | — | — |
+| [[jose_dhondt|José Dhondt]] | France | Côte des Blancs | — | — | — | — | — |
+| [[le_brun_servenay|Le Brun Servenay]] | France | Avize / Côte des Blancs | — | — | — | — | — |
 | [[louis_roederer|Louis Roederer]] | France | '' | — | — | 12 | — | — |
 | [[nathalie_falmet|Nathalie Falmet]] | France | — | — | 1 | — | — | — |
 | [[petit_clergeot|Petit Clergeot]] | France | '' | — | 1 | — | — | — |
+| [[pierre_gerbais|Pierre Gerbais]] | France | Aube / Côte des Bar | — | — | — | — | — |
 | [[ployez_jacquemart|Ployez Jacquemart]] | France | — | — | 6 | — | — | — |
 | [[taittinger|Taittinger]] | France | '' | — | — | 3 | — | — |
 

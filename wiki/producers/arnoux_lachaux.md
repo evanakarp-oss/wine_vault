@@ -9,7 +9,8 @@ sub_region: ''
 appellations: []
 farming: []
 certifications: []
-importer_us: []
+importer_us:
+- Veritas Wines
 retailers:
   chambers:
     championed: false
@@ -35,7 +36,6 @@ tags: []
 _sources:
 - dte_jsx:dte_wines_1.jsx
 ---
-
 # Arnoux Lachaux
 
 _Seeded from Down to Earth (Panzer) portfolio. Not yet covered in CSW archive sweep._

@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Liguria"
-updated: 2026-05-26
+updated: 2026-05-28
 producer_count: 1
 ---
 
