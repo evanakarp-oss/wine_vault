@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 892
+total_pages: 893
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**892 pages indexed.**
+**893 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -83,6 +83,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Fleet_Street_Wine_Merchants|Fleet Street Wine Merchants]] — UK-adjacent portfolio.
 - [[Fruit_of_the_Vine|Fruit of the Vine]] — Logistics/import services. Not a traditional importer.
 - [[German_Wine_Collection_GWC|German Wine Collection (GWC)]] — German specialist.
+- [[Golden_Vines_Imports|Golden Vines Imports]] — Italy, France, Germany, Argentina, California, Oregon
 - [[Grand_Cru_Selections|Grand Cru Selections]] — Burgundy, France
 - [[Graziano|Graziano]] — Italian specialist.
 - [[Hootananny|Hootananny]] — Natural wines.
