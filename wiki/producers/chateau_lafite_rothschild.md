@@ -48,9 +48,9 @@ berserkers_kelley_body:
   first_year: 2023
   last_year: 2023
   recent_posts:
-  - date: '2023-08-06'
-    url: https://www.wineberserkers.com/t/tns-vertical-tastings-of-chateau-latour-and-chateau-lafite-rothschild-in-atl-with-mark-taylor/178052/19
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2023-08-06", url: "https://www.wineberserkers.com/t/tns-vertical-tastings-of-chateau-latour-and-chateau-lafite-rothschild-in-atl-with-mark-taylor/178052/19"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Château Lafite Rothschild

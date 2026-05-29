@@ -40,17 +40,13 @@ berserkers_kelley_body:
   first_year: 2015
   last_year: 2021
   recent_posts:
-  - date: '2021-09-09'
-    url: https://www.wineberserkers.com/t/tn-2018-jean-foillard-morgon-cote-du-py/163019/71
-  - date: '2020-08-05'
-    url: https://www.wineberserkers.com/t/tn-2018-jean-foillard-morgon-cote-du-py/163019/44
-  - date: '2020-08-04'
-    url: https://www.wineberserkers.com/t/tn-2018-jean-foillard-morgon-cote-du-py/163019/37
-  - date: '2020-06-26'
-    url: https://www.wineberserkers.com/t/french-naturalistas-and-other-curiosities-foillard-dauvissat-desjourneys-vini-viti-vinci-etc/162064/19
-  - date: '2020-02-20'
-    url: https://www.wineberserkers.com/t/tn-2009-coudert-fleurie-clos-de-la-roilette-cuvee-tardive-disappointing/158221/31
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2021-09-09", url: "https://www.wineberserkers.com/t/tn-2018-jean-foillard-morgon-cote-du-py/163019/71"}
+    - {date: "2020-08-05", url: "https://www.wineberserkers.com/t/tn-2018-jean-foillard-morgon-cote-du-py/163019/44"}
+    - {date: "2020-08-04", url: "https://www.wineberserkers.com/t/tn-2018-jean-foillard-morgon-cote-du-py/163019/37"}
+    - {date: "2020-06-26", url: "https://www.wineberserkers.com/t/french-naturalistas-and-other-curiosities-foillard-dauvissat-desjourneys-vini-viti-vinci-etc/162064/19"}
+    - {date: "2020-02-20", url: "https://www.wineberserkers.com/t/tn-2009-coudert-fleurie-clos-de-la-roilette-cuvee-tardive-disappointing/158221/31"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Clos de la Roilette

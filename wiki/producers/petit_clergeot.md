@@ -40,9 +40,9 @@ berserkers_kelley_body:
   first_year: 2023
   last_year: 2023
   recent_posts:
-  - date: '2023-08-14'
-    url: https://www.wineberserkers.com/t/william-kelleys-latest-new-frontier-in-the-aube/303887/9
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2023-08-14", url: "https://www.wineberserkers.com/t/william-kelleys-latest-new-frontier-in-the-aube/303887/9"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Petit Clergeot

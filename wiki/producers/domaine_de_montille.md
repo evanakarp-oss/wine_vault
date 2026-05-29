@@ -44,17 +44,13 @@ berserkers_kelley_body:
   first_year: 2018
   last_year: 2025
   recent_posts:
-  - date: '2025-01-05'
-    url: https://www.wineberserkers.com/t/the-last-great-vestige-of-value-in-red-burgundy-chassagne-rouge/330056/64
-  - date: '2022-01-24'
-    url: https://www.wineberserkers.com/t/wks-new-2020-and-2019-burgundy-report/176513/138
-  - date: '2021-09-14'
-    url: https://www.wineberserkers.com/t/who-is-right-same-bottle-rated-88-to-97-within-3-years/173448/16
-  - date: '2019-02-28'
-    url: https://www.wineberserkers.com/t/tn-2014-henri-et-gilles-buisson-st-romain-la-perriere/150284/4
-  - date: '2019-02-13'
-    url: https://www.wineberserkers.com/t/understanding-the-producers-of-volnay/149875/57
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2025-01-05", url: "https://www.wineberserkers.com/t/the-last-great-vestige-of-value-in-red-burgundy-chassagne-rouge/330056/64"}
+    - {date: "2022-01-24", url: "https://www.wineberserkers.com/t/wks-new-2020-and-2019-burgundy-report/176513/138"}
+    - {date: "2021-09-14", url: "https://www.wineberserkers.com/t/who-is-right-same-bottle-rated-88-to-97-within-3-years/173448/16"}
+    - {date: "2019-02-28", url: "https://www.wineberserkers.com/t/tn-2014-henri-et-gilles-buisson-st-romain-la-perriere/150284/4"}
+    - {date: "2019-02-13", url: "https://www.wineberserkers.com/t/understanding-the-producers-of-volnay/149875/57"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Domaine de Montille

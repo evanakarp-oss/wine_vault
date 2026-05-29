@@ -45,17 +45,13 @@ berserkers_kelley_body:
   first_year: 2019
   last_year: 2021
   recent_posts:
-  - date: '2021-09-02'
-    url: https://www.wineberserkers.com/t/what-have-you-been-drinking-from-the-maconnais/173170/14
-  - date: '2021-08-17'
-    url: https://www.wineberserkers.com/t/domaine-guillemot-michel-burgundy/160644/70
-  - date: '2021-08-16'
-    url: https://www.wineberserkers.com/t/domaine-guillemot-michel-burgundy/160644/64
-  - date: '2021-08-16'
-    url: https://www.wineberserkers.com/t/domaine-guillemot-michel-burgundy/160644/66
-  - date: '2021-07-11'
-    url: https://www.wineberserkers.com/t/tn-2018-domaine-guillemot-michel-vire-clesse-quintaine/171904/4
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2021-09-02", url: "https://www.wineberserkers.com/t/what-have-you-been-drinking-from-the-maconnais/173170/14"}
+    - {date: "2021-08-17", url: "https://www.wineberserkers.com/t/domaine-guillemot-michel-burgundy/160644/70"}
+    - {date: "2021-08-16", url: "https://www.wineberserkers.com/t/domaine-guillemot-michel-burgundy/160644/64"}
+    - {date: "2021-08-16", url: "https://www.wineberserkers.com/t/domaine-guillemot-michel-burgundy/160644/66"}
+    - {date: "2021-07-11", url: "https://www.wineberserkers.com/t/tn-2018-domaine-guillemot-michel-vire-clesse-quintaine/171904/4"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Domaine Guillemot-Michel

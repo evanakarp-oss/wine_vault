@@ -43,17 +43,13 @@ berserkers_kelley_body:
   first_year: 2017
   last_year: 2026
   recent_posts:
-  - date: '2026-03-16'
-    url: https://www.wineberserkers.com/t/tn-2014-pierre-yves-colin-morey-puligny-montrachet-1er-cru-les-champs-gains/347181/5
-  - date: '2022-03-29'
-    url: https://www.wineberserkers.com/t/tn-2018-pierre-yves-colin-morey-meursault/178183/7
-  - date: '2022-01-16'
-    url: https://www.wineberserkers.com/t/tn-2019-pierre-yves-colin-morey-chassagne-montrachet-1er-cru-les-chenevottes/176363/9
-  - date: '2021-07-09'
-    url: https://www.wineberserkers.com/t/smoky-wines-terroir-vs-winemaking/171921/30
-  - date: '2020-06-05'
-    url: https://www.wineberserkers.com/t/tn-2017-pierre-yves-colin-morey-corton-charlemagne/161577/3
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2026-03-16", url: "https://www.wineberserkers.com/t/tn-2014-pierre-yves-colin-morey-puligny-montrachet-1er-cru-les-champs-gains/347181/5"}
+    - {date: "2022-03-29", url: "https://www.wineberserkers.com/t/tn-2018-pierre-yves-colin-morey-meursault/178183/7"}
+    - {date: "2022-01-16", url: "https://www.wineberserkers.com/t/tn-2019-pierre-yves-colin-morey-chassagne-montrachet-1er-cru-les-chenevottes/176363/9"}
+    - {date: "2021-07-09", url: "https://www.wineberserkers.com/t/smoky-wines-terroir-vs-winemaking/171921/30"}
+    - {date: "2020-06-05", url: "https://www.wineberserkers.com/t/tn-2017-pierre-yves-colin-morey-corton-charlemagne/161577/3"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Pierre-Yves Colin-Morey

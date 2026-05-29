@@ -48,17 +48,13 @@ berserkers_kelley_body:
   first_year: 2016
   last_year: 2025
   recent_posts:
-  - date: '2025-01-05'
-    url: https://www.wineberserkers.com/t/the-last-great-vestige-of-value-in-red-burgundy-chassagne-rouge/330056/64
-  - date: '2020-09-13'
-    url: https://www.wineberserkers.com/t/pernand-vergelesses/163967/14
-  - date: '2020-06-14'
-    url: https://www.wineberserkers.com/t/terroir-vs-winemaking-neal-martin-lays-the-smack-down/161692/157
-  - date: '2020-05-18'
-    url: https://www.wineberserkers.com/t/three-adjacent-parcels-of-meursault-perrieres-this-spring-updated/161110/56
-  - date: '2018-07-30'
-    url: https://www.wineberserkers.com/t/2002-corton-bressandes-chandon-de-briailles/144615/7
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2025-01-05", url: "https://www.wineberserkers.com/t/the-last-great-vestige-of-value-in-red-burgundy-chassagne-rouge/330056/64"}
+    - {date: "2020-09-13", url: "https://www.wineberserkers.com/t/pernand-vergelesses/163967/14"}
+    - {date: "2020-06-14", url: "https://www.wineberserkers.com/t/terroir-vs-winemaking-neal-martin-lays-the-smack-down/161692/157"}
+    - {date: "2020-05-18", url: "https://www.wineberserkers.com/t/three-adjacent-parcels-of-meursault-perrieres-this-spring-updated/161110/56"}
+    - {date: "2018-07-30", url: "https://www.wineberserkers.com/t/2002-corton-bressandes-chandon-de-briailles/144615/7"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Chandon de Briailles

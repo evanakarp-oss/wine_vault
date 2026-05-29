@@ -40,11 +40,10 @@ berserkers_kelley_body:
   first_year: 2021
   last_year: 2025
   recent_posts:
-  - date: '2025-05-01'
-    url: https://www.wineberserkers.com/t/tn-2023-henri-magnien-gevrey-chambertin-vieilles-vignes/335730/12
-  - date: '2021-02-05'
-    url: https://www.wineberserkers.com/t/17-charlopin-chambolle-ac-and-whwc-mini-gripe/168164/17
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2025-05-01", url: "https://www.wineberserkers.com/t/tn-2023-henri-magnien-gevrey-chambertin-vieilles-vignes/335730/12"}
+    - {date: "2021-02-05", url: "https://www.wineberserkers.com/t/17-charlopin-chambolle-ac-and-whwc-mini-gripe/168164/17"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Henri Magnien

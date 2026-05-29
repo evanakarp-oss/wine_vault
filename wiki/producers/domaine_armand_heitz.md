@@ -43,11 +43,10 @@ berserkers_kelley_body:
   first_year: 2020
   last_year: 2021
   recent_posts:
-  - date: '2021-04-10'
-    url: https://www.wineberserkers.com/t/killer-frosts-again-cote-dor-2021/169815/64
-  - date: '2020-06-26'
-    url: https://www.wineberserkers.com/t/criots-batard-montrachet-lamy-dauvenay-updated-summer-2020/162121/13
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2021-04-10", url: "https://www.wineberserkers.com/t/killer-frosts-again-cote-dor-2021/169815/64"}
+    - {date: "2020-06-26", url: "https://www.wineberserkers.com/t/criots-batard-montrachet-lamy-dauvenay-updated-summer-2020/162121/13"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Domaine Armand Heitz

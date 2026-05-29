@@ -40,17 +40,13 @@ berserkers_kelley_body:
   first_year: 2016
   last_year: 2025
   recent_posts:
-  - date: '2025-01-05'
-    url: https://www.wineberserkers.com/t/the-last-great-vestige-of-value-in-red-burgundy-chassagne-rouge/330056/53
-  - date: '2023-02-20'
-    url: https://www.wineberserkers.com/t/tn-2006-domaine-denis-bachelet-gevrey-chambertin-vieilles-vignes/297616/6
-  - date: '2023-02-18'
-    url: https://www.wineberserkers.com/t/tn-2006-domaine-denis-bachelet-gevrey-chambertin-vieilles-vignes/297616/3
-  - date: '2022-03-21'
-    url: https://www.wineberserkers.com/t/which-2019-burgs-have-you-loaded-up-on/177996/39
-  - date: '2021-01-29'
-    url: https://www.wineberserkers.com/t/whole-bunch-in-burgundy/167959/10
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2025-01-05", url: "https://www.wineberserkers.com/t/the-last-great-vestige-of-value-in-red-burgundy-chassagne-rouge/330056/53"}
+    - {date: "2023-02-20", url: "https://www.wineberserkers.com/t/tn-2006-domaine-denis-bachelet-gevrey-chambertin-vieilles-vignes/297616/6"}
+    - {date: "2023-02-18", url: "https://www.wineberserkers.com/t/tn-2006-domaine-denis-bachelet-gevrey-chambertin-vieilles-vignes/297616/3"}
+    - {date: "2022-03-21", url: "https://www.wineberserkers.com/t/which-2019-burgs-have-you-loaded-up-on/177996/39"}
+    - {date: "2021-01-29", url: "https://www.wineberserkers.com/t/whole-bunch-in-burgundy/167959/10"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Denis Bachelet

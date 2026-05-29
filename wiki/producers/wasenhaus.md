@@ -43,9 +43,9 @@ berserkers_kelley_body:
   first_year: 2020
   last_year: 2020
   recent_posts:
-  - date: '2020-12-02'
-    url: https://www.wineberserkers.com/t/what-2018-red-burgundies-are-you-buying/166110/22
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2020-12-02", url: "https://www.wineberserkers.com/t/what-2018-red-burgundies-are-you-buying/166110/22"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Wasenhaus

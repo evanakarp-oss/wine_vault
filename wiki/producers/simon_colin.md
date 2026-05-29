@@ -40,9 +40,9 @@ berserkers_kelley_body:
   first_year: 2020
   last_year: 2020
   recent_posts:
-  - date: '2020-11-06'
-    url: https://www.wineberserkers.com/t/tn-2017-joseph-colin-chassagne-vide-bourse/165233/17
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2020-11-06", url: "https://www.wineberserkers.com/t/tn-2017-joseph-colin-chassagne-vide-bourse/165233/17"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Simon Colin

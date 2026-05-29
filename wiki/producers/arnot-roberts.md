@@ -42,11 +42,10 @@ berserkers_kelley_body:
   first_year: 2017
   last_year: 2018
   recent_posts:
-  - date: '2018-05-06'
-    url: https://www.wineberserkers.com/t/tn-some-new-calif-rhones-long-boring/142712/21
-  - date: '2017-06-06'
-    url: https://www.wineberserkers.com/t/california-wine-for-a-british-friend/124923/45
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2018-05-06", url: "https://www.wineberserkers.com/t/tn-some-new-calif-rhones-long-boring/142712/21"}
+    - {date: "2017-06-06", url: "https://www.wineberserkers.com/t/california-wine-for-a-british-friend/124923/45"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Arnot-Roberts

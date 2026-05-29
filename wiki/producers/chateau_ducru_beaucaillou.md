@@ -45,17 +45,13 @@ berserkers_kelley_body:
   first_year: 2017
   last_year: 2022
   recent_posts:
-  - date: '2022-12-23'
-    url: https://www.wineberserkers.com/t/beychevelle-1966/293044/3
-  - date: '2021-01-19'
-    url: https://www.wineberserkers.com/t/poll-top-vintage-for-red-bordeaux-1980-1999/167509/25
-  - date: '2020-12-19'
-    url: https://www.wineberserkers.com/t/82-ducru-beaucaillou/166543/8
-  - date: '2020-07-03'
-    url: https://www.wineberserkers.com/t/what-domaine-producers-have-only-made-one-variety-color-ever/162291/50
-  - date: '2020-06-17'
-    url: https://www.wineberserkers.com/t/most-disappointing-great-wine-youve-ever-had/161887/49
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2022-12-23", url: "https://www.wineberserkers.com/t/beychevelle-1966/293044/3"}
+    - {date: "2021-01-19", url: "https://www.wineberserkers.com/t/poll-top-vintage-for-red-bordeaux-1980-1999/167509/25"}
+    - {date: "2020-12-19", url: "https://www.wineberserkers.com/t/82-ducru-beaucaillou/166543/8"}
+    - {date: "2020-07-03", url: "https://www.wineberserkers.com/t/what-domaine-producers-have-only-made-one-variety-color-ever/162291/50"}
+    - {date: "2020-06-17", url: "https://www.wineberserkers.com/t/most-disappointing-great-wine-youve-ever-had/161887/49"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Château Ducru-Beaucaillou

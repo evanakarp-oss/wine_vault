@@ -44,11 +44,10 @@ berserkers_kelley_body:
   first_year: 2017
   last_year: 2018
   recent_posts:
-  - date: '2018-08-07'
-    url: https://www.wineberserkers.com/t/meursault-les-rougeots/144835/4
-  - date: '2017-02-09'
-    url: https://www.wineberserkers.com/t/birth-year-wine-recommendation-1985/129949/10
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2018-08-07", url: "https://www.wineberserkers.com/t/meursault-les-rougeots/144835/4"}
+    - {date: "2017-02-09", url: "https://www.wineberserkers.com/t/birth-year-wine-recommendation-1985/129949/10"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Robert Ampeau

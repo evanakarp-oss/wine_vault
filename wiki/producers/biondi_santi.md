@@ -48,17 +48,13 @@ berserkers_kelley_body:
   first_year: 2016
   last_year: 2024
   recent_posts:
-  - date: '2024-04-18'
-    url: https://www.wineberserkers.com/t/do-you-enjoy-blind-tastings-most-funny-blind-calls-on-the-wine/321034/14
-  - date: '2022-02-26'
-    url: https://www.wineberserkers.com/t/zurich-matter-of-taste-biondi-santi-retrospective/177521/2
-  - date: '2022-02-26'
-    url: https://www.wineberserkers.com/t/zurich-matter-of-taste-biondi-santi-retrospective/177521/5
-  - date: '2022-02-26'
-    url: https://www.wineberserkers.com/t/zurich-matter-of-taste-biondi-santi-retrospective/177521/9
-  - date: '2016-06-07'
-    url: https://www.wineberserkers.com/t/top-10-rose-list-for-summer/121784/13
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2024-04-18", url: "https://www.wineberserkers.com/t/do-you-enjoy-blind-tastings-most-funny-blind-calls-on-the-wine/321034/14"}
+    - {date: "2022-02-26", url: "https://www.wineberserkers.com/t/zurich-matter-of-taste-biondi-santi-retrospective/177521/2"}
+    - {date: "2022-02-26", url: "https://www.wineberserkers.com/t/zurich-matter-of-taste-biondi-santi-retrospective/177521/5"}
+    - {date: "2022-02-26", url: "https://www.wineberserkers.com/t/zurich-matter-of-taste-biondi-santi-retrospective/177521/9"}
+    - {date: "2016-06-07", url: "https://www.wineberserkers.com/t/top-10-rose-list-for-summer/121784/13"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Biondi-Santi

@@ -34,6 +34,17 @@ retailers:
     first_year: 2016
     last_year: 2021
     latest_post: https://www.wineberserkers.com/t/age-worthy-2007-champagne/171962/5
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 82
+        mentions: 14
+        mentions_2013_2014: null
+        mentions_2021_2022: null
+        mentions_2023_2026: null
+        momentum_score_2023: null
+        last_updated: 2026-05-29
 tags:
 - aged
 - blanc-de-blancs
@@ -46,17 +57,13 @@ berserkers_kelley_body:
   first_year: 2016
   last_year: 2022
   recent_posts:
-  - date: '2022-11-08'
-    url: https://www.wineberserkers.com/t/egly-ouriet-question/291008/6
-  - date: '2022-09-27'
-    url: https://www.wineberserkers.com/t/2012-taittinger-comtes-de-champagne/287378/55
-  - date: '2022-04-17'
-    url: https://www.wineberserkers.com/t/a-taittinger-comment/178629/2
-  - date: '2021-11-27'
-    url: https://www.wineberserkers.com/t/2011-taittinger-comtes/175090/24
-  - date: '2021-10-01'
-    url: https://www.wineberserkers.com/t/the-taittinger-comtes-thread/139700/100
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2022-11-08", url: "https://www.wineberserkers.com/t/egly-ouriet-question/291008/6"}
+    - {date: "2022-09-27", url: "https://www.wineberserkers.com/t/2012-taittinger-comtes-de-champagne/287378/55"}
+    - {date: "2022-04-17", url: "https://www.wineberserkers.com/t/a-taittinger-comment/178629/2"}
+    - {date: "2021-11-27", url: "https://www.wineberserkers.com/t/2011-taittinger-comtes/175090/24"}
+    - {date: "2021-10-01", url: "https://www.wineberserkers.com/t/the-taittinger-comtes-thread/139700/100"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Taittinger
@@ -66,6 +73,12 @@ _Reims house; Comtes de Champagne (vintage Blanc de Blancs) is the only cuvée t
 ## CSW Write-ups
 
 _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles._
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-03)
+
+**Rank 82** of 1115 producers — **14 mentions** across 1089 posts.
 
 ## Berserkers (William Kelley)
 

@@ -40,13 +40,11 @@ berserkers_kelley_body:
   first_year: 2021
   last_year: 2023
   recent_posts:
-  - date: '2023-02-28'
-    url: https://www.wineberserkers.com/t/tn-2019-jean-javillier-volnay/296805/3
-  - date: '2022-01-09'
-    url: https://www.wineberserkers.com/t/white-burgundy-15-years-on/176078/91
-  - date: '2021-07-20'
-    url: https://www.wineberserkers.com/t/help-me-understand-a-wine-critic-william-kelley-the-wine-advocate/172171/18
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2023-02-28", url: "https://www.wineberserkers.com/t/tn-2019-jean-javillier-volnay/296805/3"}
+    - {date: "2022-01-09", url: "https://www.wineberserkers.com/t/white-burgundy-15-years-on/176078/91"}
+    - {date: "2021-07-20", url: "https://www.wineberserkers.com/t/help-me-understand-a-wine-critic-william-kelley-the-wine-advocate/172171/18"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Jean Javillier

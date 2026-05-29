@@ -40,9 +40,9 @@ berserkers_kelley_body:
   first_year: 2021
   last_year: 2021
   recent_posts:
-  - date: '2021-10-16'
-    url: https://www.wineberserkers.com/t/2019-burgundy-what-are-you-buying/168320/78
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2021-10-16", url: "https://www.wineberserkers.com/t/2019-burgundy-what-are-you-buying/168320/78"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Marchand Tawse

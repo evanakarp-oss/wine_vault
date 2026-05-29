@@ -48,17 +48,13 @@ berserkers_kelley_body:
   first_year: 2016
   last_year: 2025
   recent_posts:
-  - date: '2025-06-20'
-    url: https://www.wineberserkers.com/t/tn-2022-chateau-pichon-longueville-comtesse-de-lalande/336094/83
-  - date: '2023-11-05'
-    url: https://www.wineberserkers.com/t/looking-to-compile-a-bordeaux-wine-of-the-vintage-list/306560/15
-  - date: '2020-04-13'
-    url: https://www.wineberserkers.com/t/tn-a-graves-and-a-loire/160049/2
-  - date: '2018-10-17'
-    url: https://www.wineberserkers.com/t/how-about-a-vintage-drinking-windows-thread-for-bordeaux-rhone-and-burgundy/146571/3
-  - date: '2017-10-30'
-    url: https://www.wineberserkers.com/t/haut-bailly-2008/137328/10
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2025-06-20", url: "https://www.wineberserkers.com/t/tn-2022-chateau-pichon-longueville-comtesse-de-lalande/336094/83"}
+    - {date: "2023-11-05", url: "https://www.wineberserkers.com/t/looking-to-compile-a-bordeaux-wine-of-the-vintage-list/306560/15"}
+    - {date: "2020-04-13", url: "https://www.wineberserkers.com/t/tn-a-graves-and-a-loire/160049/2"}
+    - {date: "2018-10-17", url: "https://www.wineberserkers.com/t/how-about-a-vintage-drinking-windows-thread-for-bordeaux-rhone-and-burgundy/146571/3"}
+    - {date: "2017-10-30", url: "https://www.wineberserkers.com/t/haut-bailly-2008/137328/10"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Château Haut-Bailly

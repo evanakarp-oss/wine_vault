@@ -46,17 +46,13 @@ berserkers_kelley_body:
   first_year: 2017
   last_year: 2025
   recent_posts:
-  - date: '2025-01-13'
-    url: https://www.wineberserkers.com/t/who-is-using-diam/132715/215
-  - date: '2023-01-20'
-    url: https://www.wineberserkers.com/t/white-burgundy-buttery-nutty-examples/294505/28
-  - date: '2021-04-07'
-    url: https://www.wineberserkers.com/t/1978-vs-1979-red-burgundy/169781/10
-  - date: '2020-06-10'
-    url: https://www.wineberserkers.com/t/question-re-2017-pycm-corton-charlemagne/154092/13
-  - date: '2020-01-17'
-    url: https://www.wineberserkers.com/t/white-burgundy-under-diam/157604/11
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2025-01-13", url: "https://www.wineberserkers.com/t/who-is-using-diam/132715/215"}
+    - {date: "2023-01-20", url: "https://www.wineberserkers.com/t/white-burgundy-buttery-nutty-examples/294505/28"}
+    - {date: "2021-04-07", url: "https://www.wineberserkers.com/t/1978-vs-1979-red-burgundy/169781/10"}
+    - {date: "2020-06-10", url: "https://www.wineberserkers.com/t/question-re-2017-pycm-corton-charlemagne/154092/13"}
+    - {date: "2020-01-17", url: "https://www.wineberserkers.com/t/white-burgundy-under-diam/157604/11"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Louis Latour

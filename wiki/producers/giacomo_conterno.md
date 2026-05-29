@@ -36,6 +36,17 @@ retailers:
     first_year: 2018
     last_year: 2020
     latest_post: https://www.wineberserkers.com/t/given-these-these-aromas-and-flavors-please-suggest-some-wines/158565/26
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 27
+        mentions: 25
+        mentions_2013_2014: null
+        mentions_2021_2022: null
+        mentions_2023_2026: null
+        momentum_score_2023: null
+        last_updated: 2026-05-29
 tags: []
 _sources:
 - short:short__Giacomo_Conterno.md
@@ -45,13 +56,11 @@ berserkers_kelley_body:
   first_year: 2016
   last_year: 2020
   recent_posts:
-  - date: '2020-02-22'
-    url: https://www.wineberserkers.com/t/given-these-these-aromas-and-flavors-please-suggest-some-wines/158565/26
-  - date: '2018-08-06'
-    url: https://www.wineberserkers.com/t/a-few-humdingers/144810/2
-  - date: '2016-01-03'
-    url: https://www.wineberserkers.com/t/tn-1964-giacomo-conterno-barolo-riserva-monfortino-speciale/116108/12
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2020-02-22", url: "https://www.wineberserkers.com/t/given-these-these-aromas-and-flavors-please-suggest-some-wines/158565/26"}
+    - {date: "2018-08-06", url: "https://www.wineberserkers.com/t/a-few-humdingers/144810/2"}
+    - {date: "2016-01-03", url: "https://www.wineberserkers.com/t/tn-1964-giacomo-conterno-barolo-riserva-monfortino-speciale/116108/12"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Giacomo Conterno
@@ -86,6 +95,12 @@ berserkers_kelley_body:
 ## CSW Cellar Note
 
 > elvet. This is easily one of the most velvety and ageworthy Barbera's out there. Barbera typically does not age for a long time but Conterno's does. It gets ear
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-03)
+
+**Rank 27** of 1115 producers — **25 mentions** across 1089 posts.
 
 ## Berserkers (William Kelley)
 

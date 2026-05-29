@@ -46,17 +46,13 @@ berserkers_kelley_body:
   first_year: 2015
   last_year: 2025
   recent_posts:
-  - date: '2025-01-05'
-    url: https://www.wineberserkers.com/t/the-last-great-vestige-of-value-in-red-burgundy-chassagne-rouge/330056/49
-  - date: '2025-01-05'
-    url: https://www.wineberserkers.com/t/the-last-great-vestige-of-value-in-red-burgundy-chassagne-rouge/330056/61
-  - date: '2025-01-05'
-    url: https://www.wineberserkers.com/t/the-last-great-vestige-of-value-in-red-burgundy-chassagne-rouge/330056/65
-  - date: '2023-10-30'
-    url: https://www.wineberserkers.com/t/2019-2020-premox-say-it-aint-so-or-heat-damage/306374/13
-  - date: '2023-08-26'
-    url: https://www.wineberserkers.com/t/what-is-your-most-recent-wine-purchase-part-2/285849/2710
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2025-01-05", url: "https://www.wineberserkers.com/t/the-last-great-vestige-of-value-in-red-burgundy-chassagne-rouge/330056/49"}
+    - {date: "2025-01-05", url: "https://www.wineberserkers.com/t/the-last-great-vestige-of-value-in-red-burgundy-chassagne-rouge/330056/61"}
+    - {date: "2025-01-05", url: "https://www.wineberserkers.com/t/the-last-great-vestige-of-value-in-red-burgundy-chassagne-rouge/330056/65"}
+    - {date: "2023-10-30", url: "https://www.wineberserkers.com/t/2019-2020-premox-say-it-aint-so-or-heat-damage/306374/13"}
+    - {date: "2023-08-26", url: "https://www.wineberserkers.com/t/what-is-your-most-recent-wine-purchase-part-2/285849/2710"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Ramonet

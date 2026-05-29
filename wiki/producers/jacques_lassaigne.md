@@ -40,9 +40,9 @@ berserkers_kelley_body:
   first_year: 2021
   last_year: 2021
   recent_posts:
-  - date: '2021-06-13'
-    url: https://www.wineberserkers.com/t/tn-2014-jacques-lassaigne-champagne-autour-de-minuit-les-paluets-france-champagne/171355/4
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2021-06-13", url: "https://www.wineberserkers.com/t/tn-2014-jacques-lassaigne-champagne-autour-de-minuit-les-paluets-france-champagne/171355/4"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Jacques Lassaigne

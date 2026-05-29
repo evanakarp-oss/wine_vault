@@ -47,17 +47,13 @@ berserkers_kelley_body:
   first_year: 2015
   last_year: 2025
   recent_posts:
-  - date: '2025-01-07'
-    url: https://www.wineberserkers.com/t/tn-2020-domaine-de-chevalier-france-bordeaux-graves-pessac-leognan/330164/14
-  - date: '2024-07-27'
-    url: https://www.wineberserkers.com/t/the-future-of-white-bordeaux/324836/8
-  - date: '2023-04-09'
-    url: https://www.wineberserkers.com/t/domaine-de-chevalier-1966/299640/4
-  - date: '2022-11-11'
-    url: https://www.wineberserkers.com/t/help-with-cab-franc-tasting/291281/9
-  - date: '2022-05-10'
-    url: https://www.wineberserkers.com/t/2019-bordeaux/176323/530
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2025-01-07", url: "https://www.wineberserkers.com/t/tn-2020-domaine-de-chevalier-france-bordeaux-graves-pessac-leognan/330164/14"}
+    - {date: "2024-07-27", url: "https://www.wineberserkers.com/t/the-future-of-white-bordeaux/324836/8"}
+    - {date: "2023-04-09", url: "https://www.wineberserkers.com/t/domaine-de-chevalier-1966/299640/4"}
+    - {date: "2022-11-11", url: "https://www.wineberserkers.com/t/help-with-cab-franc-tasting/291281/9"}
+    - {date: "2022-05-10", url: "https://www.wineberserkers.com/t/2019-bordeaux/176323/530"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Domaine de Chevalier

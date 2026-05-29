@@ -40,17 +40,13 @@ berserkers_kelley_body:
   first_year: 2019
   last_year: 2023
   recent_posts:
-  - date: '2023-12-26'
-    url: https://www.wineberserkers.com/t/michel-mallard-burgundy/308447/30
-  - date: '2023-12-23'
-    url: https://www.wineberserkers.com/t/michel-mallard-burgundy/308447/20
-  - date: '2023-12-23'
-    url: https://www.wineberserkers.com/t/michel-mallard-burgundy/308447/22
-  - date: '2022-01-21'
-    url: https://www.wineberserkers.com/t/wks-new-2020-and-2019-burgundy-report/176513/8
-  - date: '2022-01-21'
-    url: https://www.wineberserkers.com/t/wks-new-2020-and-2019-burgundy-report/176513/27
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2023-12-26", url: "https://www.wineberserkers.com/t/michel-mallard-burgundy/308447/30"}
+    - {date: "2023-12-23", url: "https://www.wineberserkers.com/t/michel-mallard-burgundy/308447/20"}
+    - {date: "2023-12-23", url: "https://www.wineberserkers.com/t/michel-mallard-burgundy/308447/22"}
+    - {date: "2022-01-21", url: "https://www.wineberserkers.com/t/wks-new-2020-and-2019-burgundy-report/176513/8"}
+    - {date: "2022-01-21", url: "https://www.wineberserkers.com/t/wks-new-2020-and-2019-burgundy-report/176513/27"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Michel Mallard

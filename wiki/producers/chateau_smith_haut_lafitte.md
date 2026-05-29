@@ -50,9 +50,9 @@ berserkers_kelley_body:
   first_year: 2021
   last_year: 2021
   recent_posts:
-  - date: '2021-07-28'
-    url: https://www.wineberserkers.com/t/undervalued-underappreciated-vintages/172351/45
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2021-07-28", url: "https://www.wineberserkers.com/t/undervalued-underappreciated-vintages/172351/45"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Château Smith-Haut-Lafitte

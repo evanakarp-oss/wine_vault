@@ -40,11 +40,10 @@ berserkers_kelley_body:
   first_year: 2017
   last_year: 2022
   recent_posts:
-  - date: '2022-01-06'
-    url: https://www.wineberserkers.com/t/clos-de-vougeot-rising-stars/176055/18
-  - date: '2017-11-08'
-    url: https://www.wineberserkers.com/t/2015-arnoux/137497/34
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2022-01-06", url: "https://www.wineberserkers.com/t/clos-de-vougeot-rising-stars/176055/18"}
+    - {date: "2017-11-08", url: "https://www.wineberserkers.com/t/2015-arnoux/137497/34"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Michel Noellat

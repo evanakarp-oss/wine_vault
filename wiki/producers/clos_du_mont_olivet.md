@@ -40,11 +40,10 @@ berserkers_kelley_body:
   first_year: 2016
   last_year: 2019
   recent_posts:
-  - date: '2019-11-19'
-    url: https://www.wineberserkers.com/t/tn-1990-andre-brunel-chateauneuf-du-pape-les-cailloux/156209/6
-  - date: '2016-08-26'
-    url: https://www.wineberserkers.com/t/favorite-chateauneuf-du-pape-poll/124179/34
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2019-11-19", url: "https://www.wineberserkers.com/t/tn-1990-andre-brunel-chateauneuf-du-pape-les-cailloux/156209/6"}
+    - {date: "2016-08-26", url: "https://www.wineberserkers.com/t/favorite-chateauneuf-du-pape-poll/124179/34"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Clos du Mont Olivet

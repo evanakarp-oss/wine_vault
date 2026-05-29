@@ -43,9 +43,9 @@ berserkers_kelley_body:
   first_year: 2019
   last_year: 2019
   recent_posts:
-  - date: '2019-10-29'
-    url: https://www.wineberserkers.com/t/tn-2011-jacques-puffeney-arbois-savagnin/155703/21
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2019-10-29", url: "https://www.wineberserkers.com/t/tn-2011-jacques-puffeney-arbois-savagnin/155703/21"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Domaine Montbourgeau

@@ -31,20 +31,33 @@ retailers:
     first_year: 2015
     last_year: 2023
     latest_post: https://www.wineberserkers.com/t/closing-a-week-in-burgundy-21-chambolle-musigny-les-foucheres-william-kelley-winemaker/299577/5
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 25
+        mentions: 26
+        mentions_2013_2014: null
+        mentions_2021_2022: null
+        mentions_2023_2026: null
+        momentum_score_2023: null
+        last_updated: 2026-05-29
 tags: []
 _sources:
 - dte_jsx:dte_wines_1.jsx
 berserkers_kelley_body:
-  body_hit_count: 2
-  distinct_topics: 2
+  body_hit_count: 20
+  distinct_topics: 16
   first_year: 2015
-  last_year: 2017
+  last_year: 2023
   recent_posts:
-  - date: '2017-11-08'
-    url: https://www.wineberserkers.com/t/jean-marie-fourrier-and-charles-van-canneyt-the-new-negociants/137623/9
-  - date: '2015-06-21'
-    url: https://www.wineberserkers.com/t/tn-2012-georges-noellat-vosne-romanee-1er-cru-les-beaux-monts/109452/4
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2023-04-16", url: "https://www.wineberserkers.com/t/closing-a-week-in-burgundy-21-chambolle-musigny-les-foucheres-william-kelley-winemaker/299577/5"}
+    - {date: "2021-12-21", url: "https://www.wineberserkers.com/t/chambertin-revisited/175254/107"}
+    - {date: "2021-12-21", url: "https://www.wineberserkers.com/t/chambertin-revisited/175254/111"}
+    - {date: "2021-04-04", url: "https://www.wineberserkers.com/t/richebourg-used-to-outshine-romanee-st-vivant-is-that-really-changing/169481/38"}
+    - {date: "2021-04-03", url: "https://www.wineberserkers.com/t/richebourg-used-to-outshine-romanee-st-vivant-is-that-really-changing/169481/34"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Hudelot Noellat
@@ -62,6 +75,12 @@ _Seeded from Down to Earth (Panzer) portfolio. Not yet covered in CSW archive sw
 *2007-07*
 
 > *7/20/2007 -* Bruno Clavelier might not be the first person you think of when someone utters the magical name Vosne Romanee. Robert Arnoux, Domaine de la Romanee Conti, Grivot, Engel, Meo-Camuzet, Hudelot-Noellat are just some that come to a typical Burgundy…
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-03)
+
+**Rank 25** of 1115 producers — **26 mentions** across 1089 posts.
 
 ## Berserkers (William Kelley)
 

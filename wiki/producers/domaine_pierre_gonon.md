@@ -47,17 +47,13 @@ berserkers_kelley_body:
   first_year: 2015
   last_year: 2024
   recent_posts:
-  - date: '2024-01-15'
-    url: https://www.wineberserkers.com/t/tn-2021-pierre-gonon-ardeche-les-iles-feray-france-rhone-ardeche/303606/8
-  - date: '2024-01-15'
-    url: https://www.wineberserkers.com/t/tn-2021-pierre-gonon-ardeche-les-iles-feray-france-rhone-ardeche/303606/13
-  - date: '2024-01-15'
-    url: https://www.wineberserkers.com/t/tn-2021-pierre-gonon-ardeche-les-iles-feray-france-rhone-ardeche/303606/14
-  - date: '2022-12-23'
-    url: https://www.wineberserkers.com/t/tn-2020-pierre-gonon-ardeche-les-iles-feray/292752/23
-  - date: '2022-12-23'
-    url: https://www.wineberserkers.com/t/tn-2020-pierre-gonon-ardeche-les-iles-feray/292752/25
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2024-01-15", url: "https://www.wineberserkers.com/t/tn-2021-pierre-gonon-ardeche-les-iles-feray-france-rhone-ardeche/303606/8"}
+    - {date: "2024-01-15", url: "https://www.wineberserkers.com/t/tn-2021-pierre-gonon-ardeche-les-iles-feray-france-rhone-ardeche/303606/13"}
+    - {date: "2024-01-15", url: "https://www.wineberserkers.com/t/tn-2021-pierre-gonon-ardeche-les-iles-feray-france-rhone-ardeche/303606/14"}
+    - {date: "2022-12-23", url: "https://www.wineberserkers.com/t/tn-2020-pierre-gonon-ardeche-les-iles-feray/292752/23"}
+    - {date: "2022-12-23", url: "https://www.wineberserkers.com/t/tn-2020-pierre-gonon-ardeche-les-iles-feray/292752/25"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Domaine Pierre Gonon

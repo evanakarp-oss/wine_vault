@@ -44,9 +44,9 @@ berserkers_kelley_body:
   first_year: 2016
   last_year: 2016
   recent_posts:
-  - date: '2016-12-04'
-    url: https://www.wineberserkers.com/t/tn-domaine-rapet-pere-et-fils/127515/3
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2016-12-04", url: "https://www.wineberserkers.com/t/tn-domaine-rapet-pere-et-fils/127515/3"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Rapet Père et Fils

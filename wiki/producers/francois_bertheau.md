@@ -40,17 +40,13 @@ berserkers_kelley_body:
   first_year: 2020
   last_year: 2023
   recent_posts:
-  - date: '2023-04-16'
-    url: https://www.wineberserkers.com/t/closing-a-week-in-burgundy-21-chambolle-musigny-les-foucheres-william-kelley-winemaker/299577/5
-  - date: '2020-12-08'
-    url: https://www.wineberserkers.com/t/what-2018-red-burgundies-are-you-buying/166110/101
-  - date: '2020-11-20'
-    url: https://www.wineberserkers.com/t/tn-2018-francois-bertheau-chambolle-musigny/165385/15
-  - date: '2020-11-19'
-    url: https://www.wineberserkers.com/t/tn-2018-francois-bertheau-chambolle-musigny/165385/9
-  - date: '2020-11-18'
-    url: https://www.wineberserkers.com/t/tn-2018-francois-bertheau-chambolle-musigny/165385/5
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2023-04-16", url: "https://www.wineberserkers.com/t/closing-a-week-in-burgundy-21-chambolle-musigny-les-foucheres-william-kelley-winemaker/299577/5"}
+    - {date: "2020-12-08", url: "https://www.wineberserkers.com/t/what-2018-red-burgundies-are-you-buying/166110/101"}
+    - {date: "2020-11-20", url: "https://www.wineberserkers.com/t/tn-2018-francois-bertheau-chambolle-musigny/165385/15"}
+    - {date: "2020-11-19", url: "https://www.wineberserkers.com/t/tn-2018-francois-bertheau-chambolle-musigny/165385/9"}
+    - {date: "2020-11-18", url: "https://www.wineberserkers.com/t/tn-2018-francois-bertheau-chambolle-musigny/165385/5"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Francois Bertheau

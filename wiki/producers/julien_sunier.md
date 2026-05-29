@@ -40,9 +40,9 @@ berserkers_kelley_body:
   first_year: 2018
   last_year: 2018
   recent_posts:
-  - date: '2018-09-20'
-    url: https://www.wineberserkers.com/t/representative-wines-from-the-10-cru-beaujolais/145868/16
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2018-09-20", url: "https://www.wineberserkers.com/t/representative-wines-from-the-10-cru-beaujolais/145868/16"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Julien Sunier

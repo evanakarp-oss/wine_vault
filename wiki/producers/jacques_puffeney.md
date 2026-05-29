@@ -45,17 +45,13 @@ berserkers_kelley_body:
   first_year: 2019
   last_year: 2021
   recent_posts:
-  - date: '2021-04-16'
-    url: https://www.wineberserkers.com/t/tn-2005-overnoy-arbois-pupillin/21390/54
-  - date: '2019-10-29'
-    url: https://www.wineberserkers.com/t/tn-2011-jacques-puffeney-arbois-savagnin/155703/14
-  - date: '2019-10-29'
-    url: https://www.wineberserkers.com/t/tn-2011-jacques-puffeney-arbois-savagnin/155703/15
-  - date: '2019-10-29'
-    url: https://www.wineberserkers.com/t/tn-2011-jacques-puffeney-arbois-savagnin/155703/21
-  - date: '2019-10-28'
-    url: https://www.wineberserkers.com/t/tn-2011-jacques-puffeney-arbois-savagnin/155703/4
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2021-04-16", url: "https://www.wineberserkers.com/t/tn-2005-overnoy-arbois-pupillin/21390/54"}
+    - {date: "2019-10-29", url: "https://www.wineberserkers.com/t/tn-2011-jacques-puffeney-arbois-savagnin/155703/14"}
+    - {date: "2019-10-29", url: "https://www.wineberserkers.com/t/tn-2011-jacques-puffeney-arbois-savagnin/155703/15"}
+    - {date: "2019-10-29", url: "https://www.wineberserkers.com/t/tn-2011-jacques-puffeney-arbois-savagnin/155703/21"}
+    - {date: "2019-10-28", url: "https://www.wineberserkers.com/t/tn-2011-jacques-puffeney-arbois-savagnin/155703/4"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Jacques Puffeney

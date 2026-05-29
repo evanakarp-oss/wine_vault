@@ -35,6 +35,17 @@ retailers:
     first_year: 2018
     last_year: 2020
     latest_post: https://www.wineberserkers.com/t/natty-wine-a-millennial-con/162924/36
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 83
+        mentions: 14
+        mentions_2013_2014: null
+        mentions_2021_2022: null
+        mentions_2023_2026: null
+        momentum_score_2023: null
+        last_updated: 2026-05-29
 tags: []
 _sources:
 - short:short__Allemand.md
@@ -92,6 +103,12 @@ _sources:
 ## CSW Cellar Note
 
 > d - enjoy them now in their youthful freshness or cellar for 20 years. 2021 is also an excellent vintage for the superb Saint-Perays of Domaine Gripa, exhibitin
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-03)
+
+**Rank 83** of 1115 producers — **14 mentions** across 1089 posts.
 
 ## Berserkers (William Kelley)
 

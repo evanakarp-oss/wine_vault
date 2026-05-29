@@ -49,17 +49,13 @@ berserkers_kelley_body:
   first_year: 2015
   last_year: 2025
   recent_posts:
-  - date: '2025-08-11'
-    url: https://www.wineberserkers.com/t/blind-tasting-with-2012-roederer-brut-2018-thomas-morey-morgeot-1994-leoville-barton-and-2015-sassicaia/339082/7
-  - date: '2025-01-21'
-    url: https://www.wineberserkers.com/t/tn-2002-leoville-barton-st-julien/177056/29
-  - date: '2025-01-21'
-    url: https://www.wineberserkers.com/t/tn-2002-leoville-barton-st-julien/177056/31
-  - date: '2024-01-27'
-    url: https://www.wineberserkers.com/t/what-leoville-barton/317363/17
-  - date: '2024-01-27'
-    url: https://www.wineberserkers.com/t/what-leoville-barton/317363/34
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2025-08-11", url: "https://www.wineberserkers.com/t/blind-tasting-with-2012-roederer-brut-2018-thomas-morey-morgeot-1994-leoville-barton-and-2015-sassicaia/339082/7"}
+    - {date: "2025-01-21", url: "https://www.wineberserkers.com/t/tn-2002-leoville-barton-st-julien/177056/29"}
+    - {date: "2025-01-21", url: "https://www.wineberserkers.com/t/tn-2002-leoville-barton-st-julien/177056/31"}
+    - {date: "2024-01-27", url: "https://www.wineberserkers.com/t/what-leoville-barton/317363/17"}
+    - {date: "2024-01-27", url: "https://www.wineberserkers.com/t/what-leoville-barton/317363/34"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Château Léoville Barton

@@ -43,17 +43,13 @@ berserkers_kelley_body:
   first_year: 2015
   last_year: 2024
   recent_posts:
-  - date: '2024-01-29'
-    url: https://www.wineberserkers.com/t/tn-1962-chateau-des-jacques-moulin-a-vent-speechless/317498/35
-  - date: '2022-09-24'
-    url: https://www.wineberserkers.com/t/tn-2014-clos-rougeard-foucault-saumur-champigny-comfort-food-for-an-alfert-on-a-rough-day/289174/7
-  - date: '2021-11-13'
-    url: https://www.wineberserkers.com/t/why-is-rayas-so-singular/174826/20
-  - date: '2021-11-13'
-    url: https://www.wineberserkers.com/t/why-is-rayas-so-singular/174826/45
-  - date: '2021-08-31'
-    url: https://www.wineberserkers.com/t/tn-n-v-egly-ouriet-champagne-grand-cru-brut-rose/173128/13
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2024-01-29", url: "https://www.wineberserkers.com/t/tn-1962-chateau-des-jacques-moulin-a-vent-speechless/317498/35"}
+    - {date: "2022-09-24", url: "https://www.wineberserkers.com/t/tn-2014-clos-rougeard-foucault-saumur-champigny-comfort-food-for-an-alfert-on-a-rough-day/289174/7"}
+    - {date: "2021-11-13", url: "https://www.wineberserkers.com/t/why-is-rayas-so-singular/174826/20"}
+    - {date: "2021-11-13", url: "https://www.wineberserkers.com/t/why-is-rayas-so-singular/174826/45"}
+    - {date: "2021-08-31", url: "https://www.wineberserkers.com/t/tn-n-v-egly-ouriet-champagne-grand-cru-brut-rose/173128/13"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Clos Rougeard

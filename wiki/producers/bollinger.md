@@ -46,17 +46,13 @@ berserkers_kelley_body:
   first_year: 2016
   last_year: 2023
   recent_posts:
-  - date: '2023-03-22'
-    url: https://www.wineberserkers.com/t/upcoming-cristal-releases/298865/22
-  - date: '2023-03-15'
-    url: https://www.wineberserkers.com/t/bollinger-rd-2008/298555/36
-  - date: '2023-02-27'
-    url: https://www.wineberserkers.com/t/champagne-styles/172199/23
-  - date: '2022-12-16'
-    url: https://www.wineberserkers.com/t/22-christmas-dinner-wines/292723/6
-  - date: '2021-08-25'
-    url: https://www.wineberserkers.com/t/louis-roederer-nv-collection-242/172925/8
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2023-03-22", url: "https://www.wineberserkers.com/t/upcoming-cristal-releases/298865/22"}
+    - {date: "2023-03-15", url: "https://www.wineberserkers.com/t/bollinger-rd-2008/298555/36"}
+    - {date: "2023-02-27", url: "https://www.wineberserkers.com/t/champagne-styles/172199/23"}
+    - {date: "2022-12-16", url: "https://www.wineberserkers.com/t/22-christmas-dinner-wines/292723/6"}
+    - {date: "2021-08-25", url: "https://www.wineberserkers.com/t/louis-roederer-nv-collection-242/172925/8"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Bollinger

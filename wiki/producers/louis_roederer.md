@@ -47,17 +47,13 @@ berserkers_kelley_body:
   first_year: 2021
   last_year: 2022
   recent_posts:
-  - date: '2022-12-08'
-    url: https://www.wineberserkers.com/t/tn-2013-louis-roederer-champagne-cristal-brut-france-champagne/292369/9
-  - date: '2021-08-25'
-    url: https://www.wineberserkers.com/t/louis-roederer-nv-collection-242/172925/8
-  - date: '2021-08-25'
-    url: https://www.wineberserkers.com/t/louis-roederer-nv-collection-242/172925/10
-  - date: '2021-08-22'
-    url: https://www.wineberserkers.com/t/louis-roederer-nv-collection-242/172925/3
-  - date: '2021-05-02'
-    url: https://www.wineberserkers.com/t/coteaux-champenois/170372/9
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2022-12-08", url: "https://www.wineberserkers.com/t/tn-2013-louis-roederer-champagne-cristal-brut-france-champagne/292369/9"}
+    - {date: "2021-08-25", url: "https://www.wineberserkers.com/t/louis-roederer-nv-collection-242/172925/8"}
+    - {date: "2021-08-25", url: "https://www.wineberserkers.com/t/louis-roederer-nv-collection-242/172925/10"}
+    - {date: "2021-08-22", url: "https://www.wineberserkers.com/t/louis-roederer-nv-collection-242/172925/3"}
+    - {date: "2021-05-02", url: "https://www.wineberserkers.com/t/coteaux-champenois/170372/9"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Louis Roederer

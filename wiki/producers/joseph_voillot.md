@@ -42,13 +42,11 @@ berserkers_kelley_body:
   first_year: 2018
   last_year: 2020
   recent_posts:
-  - date: '2020-01-22'
-    url: https://www.wineberserkers.com/t/need-help-finding-the-right-volnay/157848/9
-  - date: '2019-02-12'
-    url: https://www.wineberserkers.com/t/understanding-the-producers-of-volnay/149875/10
-  - date: '2018-01-08'
-    url: https://www.wineberserkers.com/t/tn-1984-rene-mugneret-nuits-st-georges-1er-cru-les-boudots/139386/13
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2020-01-22", url: "https://www.wineberserkers.com/t/need-help-finding-the-right-volnay/157848/9"}
+    - {date: "2019-02-12", url: "https://www.wineberserkers.com/t/understanding-the-producers-of-volnay/149875/10"}
+    - {date: "2018-01-08", url: "https://www.wineberserkers.com/t/tn-1984-rene-mugneret-nuits-st-georges-1er-cru-les-boudots/139386/13"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Joseph Voillot

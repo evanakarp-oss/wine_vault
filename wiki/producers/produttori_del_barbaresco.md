@@ -40,6 +40,17 @@ retailers:
 tags: []
 _sources:
 - short:short__Produttori_del_Barbaresco.md
+berserkers_kelley_body:
+  body_hit_count: 3
+  distinct_topics: 2
+  first_year: 2016
+  last_year: 2018
+  recent_posts:
+    - {date: "2018-09-12", url: "https://www.wineberserkers.com/t/mixed-tns-mortet-produttori-lignier/145646/15"}
+    - {date: "2018-09-11", url: "https://www.wineberserkers.com/t/mixed-tns-mortet-produttori-lignier/145646/5"}
+    - {date: "2016-10-31", url: "https://www.wineberserkers.com/t/last-10-wines-you-drank-tells-us-something-about-what-you-like/99291/46"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Produttori del Barbaresco

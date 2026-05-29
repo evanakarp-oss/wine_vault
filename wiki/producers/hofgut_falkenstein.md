@@ -35,6 +35,17 @@ retailers:
     first_year: 0
     last_year: 0
     latest_post: ''
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 36
+        mentions: 22
+        mentions_2013_2014: 0
+        mentions_2021_2022: null
+        mentions_2023_2026: null
+        momentum_score_2023: null
+        last_updated: 2026-05-29
 tags: []
 _sources:
 - short:short__Hofgut_Falkenstein.md
@@ -107,6 +118,18 @@ _sources:
 ## CSW Cellar Note
 
 > sling. We’re proud to release their delicious and age-worthy 2014 wines alongside a few remaining bottles from previous vintages. - David Salinas
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-03)
+
+**Rank 36** of 1115 producers — **22 mentions** across 1089 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 0 |
+| 2021–2022 | — |
+| 2023–2026 | — |
 
 ## Down to Earth Wines (Panzer)
 

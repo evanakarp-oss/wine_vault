@@ -49,17 +49,13 @@ berserkers_kelley_body:
   first_year: 2016
   last_year: 2023
   recent_posts:
-  - date: '2023-02-09'
-    url: https://www.wineberserkers.com/t/i-know-it-s-not-the-market-but-damn-burgundy-pricing/178921/594
-  - date: '2020-08-04'
-    url: https://www.wineberserkers.com/t/domaine-leflaives-clavoillon-early-august-2020/163056/3
-  - date: '2020-07-03'
-    url: https://www.wineberserkers.com/t/what-domaine-producers-have-only-made-one-variety-color-ever/162291/36
-  - date: '2020-07-03'
-    url: https://www.wineberserkers.com/t/what-domaine-producers-have-only-made-one-variety-color-ever/162291/48
-  - date: '2020-06-20'
-    url: https://www.wineberserkers.com/t/tn-2004-domaine-leflaive-puligny-montrachet-1er-cru-les-pucelles/161978/2
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2023-02-09", url: "https://www.wineberserkers.com/t/i-know-it-s-not-the-market-but-damn-burgundy-pricing/178921/594"}
+    - {date: "2020-08-04", url: "https://www.wineberserkers.com/t/domaine-leflaives-clavoillon-early-august-2020/163056/3"}
+    - {date: "2020-07-03", url: "https://www.wineberserkers.com/t/what-domaine-producers-have-only-made-one-variety-color-ever/162291/36"}
+    - {date: "2020-07-03", url: "https://www.wineberserkers.com/t/what-domaine-producers-have-only-made-one-variety-color-ever/162291/48"}
+    - {date: "2020-06-20", url: "https://www.wineberserkers.com/t/tn-2004-domaine-leflaive-puligny-montrachet-1er-cru-les-pucelles/161978/2"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Domaine Leflaive

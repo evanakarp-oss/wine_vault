@@ -47,9 +47,9 @@ berserkers_kelley_body:
   first_year: 2016
   last_year: 2016
   recent_posts:
-  - date: '2016-04-22'
-    url: https://www.wineberserkers.com/t/sf-chron-article-the-cult-of-cab/120277/18
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2016-04-22", url: "https://www.wineberserkers.com/t/sf-chron-article-the-cult-of-cab/120277/18"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Screaming Eagle

@@ -47,17 +47,13 @@ berserkers_kelley_body:
   first_year: 2015
   last_year: 2022
   recent_posts:
-  - date: '2022-07-18'
-    url: https://www.wineberserkers.com/t/an-evening-with-kevin-shin/284186/25
-  - date: '2022-05-19'
-    url: https://www.wineberserkers.com/t/oh-the-irony-i-just-subscribed-to-wine-advocate-and-heres-why/179185/131
-  - date: '2022-05-19'
-    url: https://www.wineberserkers.com/t/oh-the-irony-i-just-subscribed-to-wine-advocate-and-heres-why/179185/143
-  - date: '2021-09-06'
-    url: https://www.wineberserkers.com/t/lagrange-gruaud-larose-st-pierre-and-gpl-2006/173094/32
-  - date: '2021-09-01'
-    url: https://www.wineberserkers.com/t/lagrange-gruaud-larose-st-pierre-and-gpl-2006/173094/22
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2022-07-18", url: "https://www.wineberserkers.com/t/an-evening-with-kevin-shin/284186/25"}
+    - {date: "2022-05-19", url: "https://www.wineberserkers.com/t/oh-the-irony-i-just-subscribed-to-wine-advocate-and-heres-why/179185/131"}
+    - {date: "2022-05-19", url: "https://www.wineberserkers.com/t/oh-the-irony-i-just-subscribed-to-wine-advocate-and-heres-why/179185/143"}
+    - {date: "2021-09-06", url: "https://www.wineberserkers.com/t/lagrange-gruaud-larose-st-pierre-and-gpl-2006/173094/32"}
+    - {date: "2021-09-01", url: "https://www.wineberserkers.com/t/lagrange-gruaud-larose-st-pierre-and-gpl-2006/173094/22"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Château Gruaud-Larose

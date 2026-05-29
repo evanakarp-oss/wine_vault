@@ -35,6 +35,17 @@ retailers:
     first_year: 2021
     last_year: 2021
     latest_post: https://www.wineberserkers.com/t/tn-2020-beau-rivage-chenin-blanc-a-rich-brown-60-of-the-time-it-works-every-time-kind-of-wine/173396/10
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 16
+        mentions: 30
+        mentions_2013_2014: null
+        mentions_2021_2022: null
+        mentions_2023_2026: null
+        momentum_score_2023: null
+        last_updated: 2026-05-29
 tags: []
 _sources:
 - short:short__Domaine_Baudry.md
@@ -272,6 +283,12 @@ _sources:
 ## CSW Cellar Note
 
 > on of terroir that will drink beautifully now and will age nicely as well - this will be a very interesting mature wine from 2032 - 2045. Stéphane Guion, Bourgu
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-03)
+
+**Rank 16** of 1115 producers — **30 mentions** across 1089 posts.
 
 ## Berserkers (William Kelley)
 

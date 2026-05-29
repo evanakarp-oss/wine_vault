@@ -35,6 +35,17 @@ retailers:
     first_year: 2017
     last_year: 2021
     latest_post: https://www.wineberserkers.com/t/cristal-tasting-video-by-a-great-mw/175656/6
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 28
+        mentions: 24
+        mentions_2013_2014: null
+        mentions_2021_2022: null
+        mentions_2023_2026: null
+        momentum_score_2023: null
+        last_updated: 2026-05-29
 tags:
 - aged
 - champagne
@@ -48,17 +59,13 @@ berserkers_kelley_body:
   first_year: 2017
   last_year: 2023
   recent_posts:
-  - date: '2023-12-21'
-    url: https://www.wineberserkers.com/t/the-dilemna-of-selling-wine-especially-burugndy/308324/62
-  - date: '2023-02-14'
-    url: https://www.wineberserkers.com/t/2013-dom-perignon/293896/99
-  - date: '2023-02-14'
-    url: https://www.wineberserkers.com/t/2013-dom-perignon/293896/111
-  - date: '2023-02-14'
-    url: https://www.wineberserkers.com/t/2013-dom-perignon/293896/112
-  - date: '2022-06-29'
-    url: https://www.wineberserkers.com/t/tns-musar-lynch-bages-dom-perignon-raphet-yquem/283867/12
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2023-12-21", url: "https://www.wineberserkers.com/t/the-dilemna-of-selling-wine-especially-burugndy/308324/62"}
+    - {date: "2023-02-14", url: "https://www.wineberserkers.com/t/2013-dom-perignon/293896/99"}
+    - {date: "2023-02-14", url: "https://www.wineberserkers.com/t/2013-dom-perignon/293896/111"}
+    - {date: "2023-02-14", url: "https://www.wineberserkers.com/t/2013-dom-perignon/293896/112"}
+    - {date: "2022-06-29", url: "https://www.wineberserkers.com/t/tns-musar-lynch-bages-dom-perignon-raphet-yquem/283867/12"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Dom Pérignon
@@ -71,6 +78,12 @@ _LVMH prestige; only ever vintage. P2 (15+ years on lees) and P3 (40+) are the a
 *2020-04*
 
 > 4/25/20 - (First published in [View from the Cellar](http://www.viewfromthecellar.com) , April 29, 2020; apologies that John's excellent photos are missing from this version!) **Learning From the Past** **Thirty Years Of Evolving Wine Serving Philosophy**…
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-03)
+
+**Rank 28** of 1115 producers — **24 mentions** across 1089 posts.
 
 ## Berserkers (William Kelley)
 

@@ -44,13 +44,11 @@ berserkers_kelley_body:
   first_year: 2018
   last_year: 2018
   recent_posts:
-  - date: '2018-04-17'
-    url: https://www.wineberserkers.com/t/tn-2015-domaine-levet-cote-rotie-les-journaries/142284/6
-  - date: '2018-01-24'
-    url: https://www.wineberserkers.com/t/tn-2015-domaine-levet-cotie-rotie-cuvee-amethyst/139971/10
-  - date: '2018-01-24'
-    url: https://www.wineberserkers.com/t/tn-2015-domaine-levet-cotie-rotie-cuvee-amethyst/139971/11
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2018-04-17", url: "https://www.wineberserkers.com/t/tn-2015-domaine-levet-cote-rotie-les-journaries/142284/6"}
+    - {date: "2018-01-24", url: "https://www.wineberserkers.com/t/tn-2015-domaine-levet-cotie-rotie-cuvee-amethyst/139971/10"}
+    - {date: "2018-01-24", url: "https://www.wineberserkers.com/t/tn-2015-domaine-levet-cotie-rotie-cuvee-amethyst/139971/11"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Domaine Levet

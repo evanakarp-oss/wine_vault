@@ -47,17 +47,13 @@ berserkers_kelley_body:
   first_year: 2015
   last_year: 2023
   recent_posts:
-  - date: '2023-06-09'
-    url: https://www.wineberserkers.com/t/bordeaux-2022/299143/1325
-  - date: '2023-05-01'
-    url: https://www.wineberserkers.com/t/bordeaux-2022/299143/443
-  - date: '2022-04-19'
-    url: https://www.wineberserkers.com/t/help-with-pauillac/178676/7
-  - date: '2022-01-04'
-    url: https://www.wineberserkers.com/t/do-you-treat-old-bordeaux-like-burgundy/175979/17
-  - date: '2017-05-30'
-    url: https://www.wineberserkers.com/t/i-really-like-1970-bordeaux/133272/22
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2023-06-09", url: "https://www.wineberserkers.com/t/bordeaux-2022/299143/1325"}
+    - {date: "2023-05-01", url: "https://www.wineberserkers.com/t/bordeaux-2022/299143/443"}
+    - {date: "2022-04-19", url: "https://www.wineberserkers.com/t/help-with-pauillac/178676/7"}
+    - {date: "2022-01-04", url: "https://www.wineberserkers.com/t/do-you-treat-old-bordeaux-like-burgundy/175979/17"}
+    - {date: "2017-05-30", url: "https://www.wineberserkers.com/t/i-really-like-1970-bordeaux/133272/22"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Château Pape Clément

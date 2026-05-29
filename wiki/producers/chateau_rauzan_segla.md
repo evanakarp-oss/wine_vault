@@ -48,11 +48,10 @@ berserkers_kelley_body:
   first_year: 2023
   last_year: 2023
   recent_posts:
-  - date: '2023-04-10'
-    url: https://www.wineberserkers.com/t/figeac-vertical-and-wondering-about-bordeaux-critics/299653/29
-  - date: '2023-03-12'
-    url: https://www.wineberserkers.com/t/new-william-kelley-mega-article-on-bordeaux-today/298476/56
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2023-04-10", url: "https://www.wineberserkers.com/t/figeac-vertical-and-wondering-about-bordeaux-critics/299653/29"}
+    - {date: "2023-03-12", url: "https://www.wineberserkers.com/t/new-william-kelley-mega-article-on-bordeaux-today/298476/56"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Château Rauzan-Ségla

@@ -43,9 +43,9 @@ berserkers_kelley_body:
   first_year: 2022
   last_year: 2022
   recent_posts:
-  - date: '2022-04-25'
-    url: https://www.wineberserkers.com/t/hautes-cotes-where-its-at-for-me/178793/8
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2022-04-25", url: "https://www.wineberserkers.com/t/hautes-cotes-where-its-at-for-me/178793/8"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Domaine Lienhardt

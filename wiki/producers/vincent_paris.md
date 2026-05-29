@@ -43,9 +43,9 @@ berserkers_kelley_body:
   first_year: 2016
   last_year: 2016
   recent_posts:
-  - date: '2016-02-05'
-    url: https://www.wineberserkers.com/t/tn-2012-vincent-paris-cornas-la-geynale-finally/115089/15
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2016-02-05", url: "https://www.wineberserkers.com/t/tn-2012-vincent-paris-cornas-la-geynale-finally/115089/15"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Vincent Paris

@@ -48,13 +48,11 @@ berserkers_kelley_body:
   first_year: 2022
   last_year: 2023
   recent_posts:
-  - date: '2023-05-11'
-    url: https://www.wineberserkers.com/t/bordeaux-2022/299143/837
-  - date: '2022-04-08'
-    url: https://www.wineberserkers.com/t/thoughts-on-cantemerle/178431/35
-  - date: '2022-04-08'
-    url: https://www.wineberserkers.com/t/thoughts-on-cantemerle/178431/39
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2023-05-11", url: "https://www.wineberserkers.com/t/bordeaux-2022/299143/837"}
+    - {date: "2022-04-08", url: "https://www.wineberserkers.com/t/thoughts-on-cantemerle/178431/35"}
+    - {date: "2022-04-08", url: "https://www.wineberserkers.com/t/thoughts-on-cantemerle/178431/39"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Château Cantemerle

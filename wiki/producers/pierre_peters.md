@@ -48,17 +48,13 @@ berserkers_kelley_body:
   first_year: 2016
   last_year: 2023
   recent_posts:
-  - date: '2023-12-15'
-    url: https://www.wineberserkers.com/t/champagne-reviews-vinous-versus-the-wine-advocates/308187/19
-  - date: '2022-03-28'
-    url: https://www.wineberserkers.com/t/champagne-vintage-discussion/178174/10
-  - date: '2020-10-17'
-    url: https://www.wineberserkers.com/t/champagne/164834/23
-  - date: '2020-09-28'
-    url: https://www.wineberserkers.com/t/dream-5-wine-allocations/164315/36
-  - date: '2016-12-12'
-    url: https://www.wineberserkers.com/t/your-favorite-tete-de-cuvee-champagne/127750/50
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2023-12-15", url: "https://www.wineberserkers.com/t/champagne-reviews-vinous-versus-the-wine-advocates/308187/19"}
+    - {date: "2022-03-28", url: "https://www.wineberserkers.com/t/champagne-vintage-discussion/178174/10"}
+    - {date: "2020-10-17", url: "https://www.wineberserkers.com/t/champagne/164834/23"}
+    - {date: "2020-09-28", url: "https://www.wineberserkers.com/t/dream-5-wine-allocations/164315/36"}
+    - {date: "2016-12-12", url: "https://www.wineberserkers.com/t/your-favorite-tete-de-cuvee-champagne/127750/50"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Pierre Peters

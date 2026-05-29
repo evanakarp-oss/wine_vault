@@ -41,9 +41,9 @@ berserkers_kelley_body:
   first_year: 2020
   last_year: 2020
   recent_posts:
-  - date: '2020-07-19'
-    url: https://www.wineberserkers.com/t/the-worlds-finest-grenache-is-from/162666/48
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2020-07-19", url: "https://www.wineberserkers.com/t/the-worlds-finest-grenache-is-from/162666/48"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Chapelle St. Theodoric

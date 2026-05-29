@@ -29,6 +29,17 @@ retailers:
     price_max: 159.99
   fass:
     in_portfolio: false
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 46
+        mentions: 19
+        mentions_2013_2014: null
+        mentions_2021_2022: null
+        mentions_2023_2026: null
+        momentum_score_2023: null
+        last_updated: 2026-05-29
 tags: ['pinot-noir', 'california', 'cult']
 _sources: ["raeders_compile_curated:2026-04-25"]
 ---
@@ -43,6 +54,12 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 *2024-10*
 
 > 10/4/24 - Occasionally we come across wines that make us pause and take a moment to reflect, wines that encourage us to slow down and enjoy the myriad beauties of everyday living. The Color Collector wines made by Bethany Kimmel are a perfect example, in some…
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-03)
+
+**Rank 46** of 1115 producers — **19 mentions** across 1089 posts.
 
 ## Down to Earth Wines (Panzer)
 

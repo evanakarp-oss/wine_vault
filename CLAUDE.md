@@ -117,8 +117,13 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
 - **Bordeaux**: WK-style undercovered/value with great farming. Aged classed-growth
   for drink-now bottles only. Skip generic mid-tier.
 - **Champagne**: aged vintage cuvées, late-disgorged (P2/RD), or grower champagne. Not generic NV.
-- **Napa**: true cult tier (Harlan/Hundred Acre/Ridge Monte Bello/Bond/Colgin/SQN/Schrader),
-  not generic $250 Cab.
+- **Napa / California Cab**: rugged, farming-driven, terroir-distinct — NOT the
+  cult-hedonist tier. Reference set: Dunn (Howell Mtn), Corison (restrained
+  St. Helena), La Jota (Howell Mtn), Dalla Valle (Oakville), Ridge Monte Bello
+  (Santa Cruz Mtns). Skip Harlan/Schrader/SQN/Colgin/Hundred Acre style —
+  too opulent, not site-transparent. Overarching axis across the cellar:
+  sense of place + tension. (Updated 2026-05-29; previously listed the cult
+  tier as the target — flipped after Evan clarified taste.)
 - **Burgundy / Loire / Mosel / Piedmont**: terroir-driven, biodynamic-leaning, grower-scale.
 - **Argentina (Mendoza / Patagonia / Salta)**: accepted as an interest area as of 2026-05-26. Bias toward biodynamic / terroir-driven / artisan-scale producers (Chacra, Colomé, Cara Sur, Canopus, Altos Las Hormigas style). Argentina_Reloaded curator's selection (Paz Levinson, 79 producers) is the seed.
 - **Cellar style**: NYC/US retailers, German biodynamic, US boutique, Italian Friuli/Piedmont.

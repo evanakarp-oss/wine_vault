@@ -232,3 +232,15 @@ Filed `wiki/_views/gap_csw_wk_overlay_2026_05.md`. Overlays WK Berserkers post c
 ## [2026-05-26] view | wb_top100_csw_wk_matrix_2026_05: 22 CSW-covered producers from WB top 100 × Kelley signal
 
 Filed `wiki/_views/wb_top100_csw_wk_matrix_2026_05.md`. Crosses the Wine Berserkers "Top 10 in your cellar" top 100 (1,089 posts, ~5,000 mentions) against CSW + WK signals. §1: 16 producers with any CSW article (sorted by WK desc). §2: 6 producers with wiki page but no CSW coverage (WK signal becomes deciding). §3: 78 unmapped WB top 100 names = vault gaps. Triple-converge picks: Allemand (natural Cornas, WK 8, WB#83), Schaefer (Mosel grower, WK 6, WB#15).
+
+## [2026-05-29] ingest | Berserkers raw backlog pass: Kelley body re-pass v2 + top10_in_cellar compile
+
+Ran two ingests against backlogged Berserkers data. (1) `reingest_kelley_bodies_v2.py --apply`: scanned all 4,727 William Kelley forum posts against 316 producer match patterns, found 705 dated body hits across 81 producers, wrote `berserkers_kelley_body` frontmatter block to all 81 pages. Headline movers (2024+ activity): Pierre-Yves Colin-Morey, Ramonet, Denis Bachelet, Léoville Barton, Haut-Bailly, Chevalier, Chandon de Briailles, Willi Schaefer. (2) `compile_wb_signals.py raw/berserkers/threads/top10_in_cellar.json --apply`: of 100 thread producers, 13 matched existing pages and got `community.berserkers.threads.top10_in_cellar` signals + `## Berserkers` body section. 87 unmatched — major names without wiki pages (Bedrock, Rhys, Ridge, Rivers-Marie, JJ Prum, Saxum, Williams Selyem, Dujac, Bouchard, Krug, Rousseau, Keller, Dauvissat, Gonon, Huet, Chevillon, Patricia Green, Lopez de Heredia, Pegau). Report: `build/wb_signals_report.md`. Followup: triage unmatched against `parse_wb_thread.py` PRODUCER_ALIASES (many are likely alias misses for existing pages — Rousseau→`armand_rousseau`, JJ Prum→`joh_jos_prum`, etc.).
+
+## [2026-05-29] edit | CLAUDE.md curation taste: Napa flipped from cult tier to rugged/farming-driven
+
+Curation taste line for Napa rewritten. Previously: "true cult tier (Harlan/Hundred Acre/Ridge Monte Bello/Bond/Colgin/SQN/Schrader), not generic $250 Cab." After Evan clarified taste 2026-05-29: rugged, farming-driven, terroir-distinct — reference set Dunn / Corison / La Jota / Dalla Valle / Ridge Monte Bello. Explicit skip on Harlan/Schrader/SQN/Colgin/Hundred Acre. Overarching cellar axis added: sense of place + tension. `/ask-cellar` should now default-exclude cult-tier Napa.
+
+## [2026-05-29] view | Vinous + WA editorial clippings still empty (no Web Clipper saves)
+
+Audit of `raw/clippings/vinous/` and `raw/clippings/wine_advocate/` found 0 articles, only README. Pipeline (`compile_clippings.py`) is wired and ready. To populate: install Obsidian Web Clipper, save articles per the schema in each folder's README. Until then, producer pages will not have `## Vinous Reviews` or `## Wine Advocate (Kelley)` sections, even for producers Vinous/WA cover deeply. Distinct from the William Kelley Berserkers ingest (community signal) — those 81 pages got updated above.

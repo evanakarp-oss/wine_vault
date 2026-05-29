@@ -46,17 +46,13 @@ berserkers_kelley_body:
   first_year: 2018
   last_year: 2021
   recent_posts:
-  - date: '2021-01-23'
-    url: https://www.wineberserkers.com/t/tn-2018-domaine-michel-niellon-chassagne-montrachet-1er-cru-les-chaumees-clos-de-la-truffiere/167718/2
-  - date: '2020-12-26'
-    url: https://www.wineberserkers.com/t/tn-2017-domaine-michel-niellon-chassagne-montrachet-1er-cru-clos-st-jean/166702/9
-  - date: '2020-12-26'
-    url: https://www.wineberserkers.com/t/tn-2017-domaine-michel-niellon-chassagne-montrachet-1er-cru-clos-st-jean/166702/11
-  - date: '2019-08-25'
-    url: https://www.wineberserkers.com/t/tn-2014-domaine-michel-niellon-chassagne-montrachet-1er-cru-les-chaumees-clos-de-la-truffiere/150690/43
-  - date: '2019-08-15'
-    url: https://www.wineberserkers.com/t/tns-2017-michel-niellon-chassagnes/154107/10
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2021-01-23", url: "https://www.wineberserkers.com/t/tn-2018-domaine-michel-niellon-chassagne-montrachet-1er-cru-les-chaumees-clos-de-la-truffiere/167718/2"}
+    - {date: "2020-12-26", url: "https://www.wineberserkers.com/t/tn-2017-domaine-michel-niellon-chassagne-montrachet-1er-cru-clos-st-jean/166702/9"}
+    - {date: "2020-12-26", url: "https://www.wineberserkers.com/t/tn-2017-domaine-michel-niellon-chassagne-montrachet-1er-cru-clos-st-jean/166702/11"}
+    - {date: "2019-08-25", url: "https://www.wineberserkers.com/t/tn-2014-domaine-michel-niellon-chassagne-montrachet-1er-cru-les-chaumees-clos-de-la-truffiere/150690/43"}
+    - {date: "2019-08-15", url: "https://www.wineberserkers.com/t/tns-2017-michel-niellon-chassagnes/154107/10"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Michel Niellon

@@ -45,15 +45,12 @@ berserkers_kelley_body:
   first_year: 2018
   last_year: 2021
   recent_posts:
-  - date: '2021-01-31'
-    url: https://www.wineberserkers.com/t/whole-bunch-in-burgundy/167959/35
-  - date: '2019-02-11'
-    url: https://www.wineberserkers.com/t/2016-burgs/149850/9
-  - date: '2019-01-03'
-    url: https://www.wineberserkers.com/t/tn-2008-simon-bize-savigny-les-beaune-1er-cru-aux-guettes/148598/7
-  - date: '2018-07-02'
-    url: https://www.wineberserkers.com/t/thoughts-on-2005-red-burgundy/144084/26
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2021-01-31", url: "https://www.wineberserkers.com/t/whole-bunch-in-burgundy/167959/35"}
+    - {date: "2019-02-11", url: "https://www.wineberserkers.com/t/2016-burgs/149850/9"}
+    - {date: "2019-01-03", url: "https://www.wineberserkers.com/t/tn-2008-simon-bize-savigny-les-beaune-1er-cru-aux-guettes/148598/7"}
+    - {date: "2018-07-02", url: "https://www.wineberserkers.com/t/thoughts-on-2005-red-burgundy/144084/26"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Domaine Simon Bize

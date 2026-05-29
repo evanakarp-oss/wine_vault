@@ -48,13 +48,11 @@ berserkers_kelley_body:
   first_year: 2016
   last_year: 2020
   recent_posts:
-  - date: '2020-08-07'
-    url: https://www.wineberserkers.com/t/high-alcohol-wines-and-aging/157303/177
-  - date: '2020-02-04'
-    url: https://www.wineberserkers.com/t/high-alcohol-wines-and-aging/157303/126
-  - date: '2016-12-03'
-    url: https://www.wineberserkers.com/t/wotys-2016-edition-tabulation-complete-post-1/126630/16
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2020-08-07", url: "https://www.wineberserkers.com/t/high-alcohol-wines-and-aging/157303/177"}
+    - {date: "2020-02-04", url: "https://www.wineberserkers.com/t/high-alcohol-wines-and-aging/157303/126"}
+    - {date: "2016-12-03", url: "https://www.wineberserkers.com/t/wotys-2016-edition-tabulation-complete-post-1/126630/16"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Château Palmer

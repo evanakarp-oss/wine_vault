@@ -46,9 +46,9 @@ berserkers_kelley_body:
   first_year: 2019
   last_year: 2019
   recent_posts:
-  - date: '2019-07-09'
-    url: https://www.wineberserkers.com/t/tn-taste-off-two-inexpensive-chablis/150912/20
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2019-07-09", url: "https://www.wineberserkers.com/t/tn-taste-off-two-inexpensive-chablis/150912/20"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Domaine Laroche

@@ -43,17 +43,13 @@ berserkers_kelley_body:
   first_year: 2017
   last_year: 2022
   recent_posts:
-  - date: '2022-05-21'
-    url: https://www.wineberserkers.com/t/tn-2012-cecile-tremblay-chapelle-chambertin-grand-cru/179340/3
-  - date: '2022-01-06'
-    url: https://www.wineberserkers.com/t/clos-de-vougeot-rising-stars/176055/11
-  - date: '2022-01-06'
-    url: https://www.wineberserkers.com/t/clos-de-vougeot-rising-stars/176055/16
-  - date: '2021-11-01'
-    url: https://www.wineberserkers.com/t/rising-stars-of-burgundy-tasting/174499/39
-  - date: '2021-10-27'
-    url: https://www.wineberserkers.com/t/tn-2010-cecile-tremblay-vosne-romanee-1er-cru-les-rouges-du-dessus/174399/6
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2022-05-21", url: "https://www.wineberserkers.com/t/tn-2012-cecile-tremblay-chapelle-chambertin-grand-cru/179340/3"}
+    - {date: "2022-01-06", url: "https://www.wineberserkers.com/t/clos-de-vougeot-rising-stars/176055/11"}
+    - {date: "2022-01-06", url: "https://www.wineberserkers.com/t/clos-de-vougeot-rising-stars/176055/16"}
+    - {date: "2021-11-01", url: "https://www.wineberserkers.com/t/rising-stars-of-burgundy-tasting/174499/39"}
+    - {date: "2021-10-27", url: "https://www.wineberserkers.com/t/tn-2010-cecile-tremblay-vosne-romanee-1er-cru-les-rouges-du-dessus/174399/6"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Cecile Tremblay

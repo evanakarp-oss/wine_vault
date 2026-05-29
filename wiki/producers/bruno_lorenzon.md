@@ -43,17 +43,13 @@ berserkers_kelley_body:
   first_year: 2019
   last_year: 2023
   recent_posts:
-  - date: '2023-08-01'
-    url: https://www.wineberserkers.com/t/tn-2021-bruno-lorenzon-bourgogne-blanc-clos-alfred-france-burgundy-bourgogne-blanc/303498/14
-  - date: '2023-03-06'
-    url: https://www.wineberserkers.com/t/2018-bruno-lorenzon-mercurey-1er-cru-champs-martin-blanc/298273/8
-  - date: '2023-02-04'
-    url: https://www.wineberserkers.com/t/i-know-it-s-not-the-market-but-damn-burgundy-pricing/178921/485
-  - date: '2021-09-14'
-    url: https://www.wineberserkers.com/t/who-is-right-same-bottle-rated-88-to-97-within-3-years/173448/24
-  - date: '2021-09-02'
-    url: https://www.wineberserkers.com/t/what-wine-from-the-cote-chalonnaise-have-you-had-lately/173164/10
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2023-08-01", url: "https://www.wineberserkers.com/t/tn-2021-bruno-lorenzon-bourgogne-blanc-clos-alfred-france-burgundy-bourgogne-blanc/303498/14"}
+    - {date: "2023-03-06", url: "https://www.wineberserkers.com/t/2018-bruno-lorenzon-mercurey-1er-cru-champs-martin-blanc/298273/8"}
+    - {date: "2023-02-04", url: "https://www.wineberserkers.com/t/i-know-it-s-not-the-market-but-damn-burgundy-pricing/178921/485"}
+    - {date: "2021-09-14", url: "https://www.wineberserkers.com/t/who-is-right-same-bottle-rated-88-to-97-within-3-years/173448/24"}
+    - {date: "2021-09-02", url: "https://www.wineberserkers.com/t/what-wine-from-the-cote-chalonnaise-have-you-had-lately/173164/10"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Bruno Lorenzon

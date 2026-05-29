@@ -33,6 +33,17 @@ retailers:
     first_year: 2015
     last_year: 2021
     latest_post: https://www.wineberserkers.com/t/tn-2016-comm-g-b-burlotto-barolo-monvigliero-italy-piedmont-langhe-barolo/171095/36
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 52
+        mentions: 18
+        mentions_2013_2014: null
+        mentions_2021_2022: null
+        mentions_2023_2026: null
+        momentum_score_2023: 2.0
+        last_updated: 2026-05-29
 tags: []
 _sources:
 - short:short__Burlotto.md
@@ -75,6 +86,14 @@ _sources:
 ## CSW Cellar Note
 
 > t have swept the Barolo zone over the last couple decades. They’ve preferred to nurture Verduno’s uniqueness through organic farming (uncertified for now), nati
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-03)
+
+**Rank 52** of 1115 producers — **18 mentions** across 1089 posts.
+
+**Momentum 2023+:** 2.0× (rising).
 
 ## Berserkers (William Kelley)
 

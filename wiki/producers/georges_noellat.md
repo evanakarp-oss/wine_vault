@@ -40,17 +40,13 @@ berserkers_kelley_body:
   first_year: 2015
   last_year: 2022
   recent_posts:
-  - date: '2022-01-24'
-    url: https://www.wineberserkers.com/t/wks-new-2020-and-2019-burgundy-report/176513/133
-  - date: '2022-01-24'
-    url: https://www.wineberserkers.com/t/wks-new-2020-and-2019-burgundy-report/176513/137
-  - date: '2020-01-02'
-    url: https://www.wineberserkers.com/t/recent-2013-burg-tasting-notes/157241/7
-  - date: '2018-03-08'
-    url: https://www.wineberserkers.com/t/2015-burgundy/136486/328
-  - date: '2017-12-07'
-    url: https://www.wineberserkers.com/t/burgundy-2014-vs-2015/134352/39
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2022-01-24", url: "https://www.wineberserkers.com/t/wks-new-2020-and-2019-burgundy-report/176513/133"}
+    - {date: "2022-01-24", url: "https://www.wineberserkers.com/t/wks-new-2020-and-2019-burgundy-report/176513/137"}
+    - {date: "2020-01-02", url: "https://www.wineberserkers.com/t/recent-2013-burg-tasting-notes/157241/7"}
+    - {date: "2018-03-08", url: "https://www.wineberserkers.com/t/2015-burgundy/136486/328"}
+    - {date: "2017-12-07", url: "https://www.wineberserkers.com/t/burgundy-2014-vs-2015/134352/39"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Georges Noëllat

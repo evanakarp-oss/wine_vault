@@ -48,15 +48,12 @@ berserkers_kelley_body:
   first_year: 2022
   last_year: 2022
   recent_posts:
-  - date: '2022-03-19'
-    url: https://www.wineberserkers.com/t/latour-2014/177946/35
-  - date: '2022-03-19'
-    url: https://www.wineberserkers.com/t/latour-2014/177946/39
-  - date: '2022-02-20'
-    url: https://www.wineberserkers.com/t/2019-bordeaux/176323/249
-  - date: '2022-02-19'
-    url: https://www.wineberserkers.com/t/2019-bordeaux/176323/237
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2022-03-19", url: "https://www.wineberserkers.com/t/latour-2014/177946/35"}
+    - {date: "2022-03-19", url: "https://www.wineberserkers.com/t/latour-2014/177946/39"}
+    - {date: "2022-02-20", url: "https://www.wineberserkers.com/t/2019-bordeaux/176323/249"}
+    - {date: "2022-02-19", url: "https://www.wineberserkers.com/t/2019-bordeaux/176323/237"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Château Phélan-Ségur

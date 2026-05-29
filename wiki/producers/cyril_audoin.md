@@ -40,13 +40,11 @@ berserkers_kelley_body:
   first_year: 2017
   last_year: 2022
   recent_posts:
-  - date: '2022-05-08'
-    url: https://www.wineberserkers.com/t/wb-q-a-session-2-0-with-william-kelley-friday-5-6-recording-posted/178976/45
-  - date: '2020-12-08'
-    url: https://www.wineberserkers.com/t/what-2018-red-burgundies-are-you-buying/166110/101
-  - date: '2017-11-02'
-    url: https://www.wineberserkers.com/t/2016-red-burgundies-are-plain-gorgeous/137456/8
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2022-05-08", url: "https://www.wineberserkers.com/t/wb-q-a-session-2-0-with-william-kelley-friday-5-6-recording-posted/178976/45"}
+    - {date: "2020-12-08", url: "https://www.wineberserkers.com/t/what-2018-red-burgundies-are-you-buying/166110/101"}
+    - {date: "2017-11-02", url: "https://www.wineberserkers.com/t/2016-red-burgundies-are-plain-gorgeous/137456/8"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Cyril Audoin

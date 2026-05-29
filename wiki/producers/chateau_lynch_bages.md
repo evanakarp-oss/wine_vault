@@ -46,17 +46,13 @@ berserkers_kelley_body:
   first_year: 2017
   last_year: 2022
   recent_posts:
-  - date: '2022-10-23'
-    url: https://www.wineberserkers.com/t/what-is-your-most-recent-wine-purchase-part-2/285849/446
-  - date: '2022-06-29'
-    url: https://www.wineberserkers.com/t/tns-musar-lynch-bages-dom-perignon-raphet-yquem/283867/12
-  - date: '2022-04-13'
-    url: https://www.wineberserkers.com/t/2019-bordeaux/176323/493
-  - date: '2022-03-01'
-    url: https://www.wineberserkers.com/t/france-bordeaux-up-from-the-cellar-31-wk/177574/8
-  - date: '2022-01-20'
-    url: https://www.wineberserkers.com/t/anthony-barton-rip/176465/19
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2022-10-23", url: "https://www.wineberserkers.com/t/what-is-your-most-recent-wine-purchase-part-2/285849/446"}
+    - {date: "2022-06-29", url: "https://www.wineberserkers.com/t/tns-musar-lynch-bages-dom-perignon-raphet-yquem/283867/12"}
+    - {date: "2022-04-13", url: "https://www.wineberserkers.com/t/2019-bordeaux/176323/493"}
+    - {date: "2022-03-01", url: "https://www.wineberserkers.com/t/france-bordeaux-up-from-the-cellar-31-wk/177574/8"}
+    - {date: "2022-01-20", url: "https://www.wineberserkers.com/t/anthony-barton-rip/176465/19"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Château Lynch-Bages

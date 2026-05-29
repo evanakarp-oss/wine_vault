@@ -43,13 +43,11 @@ berserkers_kelley_body:
   first_year: 2017
   last_year: 2019
   recent_posts:
-  - date: '2019-01-03'
-    url: https://www.wineberserkers.com/t/tn-2009-clos-salomon-givry-1er-cru-clos-salomon/124227/13
-  - date: '2018-09-03'
-    url: https://www.wineberserkers.com/t/tn-2012-domaine-berthaut-gerbet-fixin-les-crais-france-burgundy-cote-de-nuits-fixin/145469/5
-  - date: '2017-11-08'
-    url: https://www.wineberserkers.com/t/2015-arnoux/137497/34
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2019-01-03", url: "https://www.wineberserkers.com/t/tn-2009-clos-salomon-givry-1er-cru-clos-salomon/124227/13"}
+    - {date: "2018-09-03", url: "https://www.wineberserkers.com/t/tn-2012-domaine-berthaut-gerbet-fixin-les-crais-france-burgundy-cote-de-nuits-fixin/145469/5"}
+    - {date: "2017-11-08", url: "https://www.wineberserkers.com/t/2015-arnoux/137497/34"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Berthaut-Gerbet

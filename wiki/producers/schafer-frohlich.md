@@ -26,6 +26,17 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 81
+        mentions: 14
+        mentions_2013_2014: null
+        mentions_2021_2022: null
+        mentions_2023_2026: null
+        momentum_score_2023: 3.1
+        last_updated: 2026-05-29
 tags: []
 _sources: ["short:short__Schafer-Frohlich.md"]
 ---
@@ -63,6 +74,14 @@ _sources: ["short:short__Schafer-Frohlich.md"]
 *2007-04*
 
 > 4/21/2007 - When I traveled to Germany in August of 2006 I fell in love with the Grosses Gewachs and Erstes Gewachs bottlings. These are literally translated as Great Growths and are a relatively new category in the ever changing German wine arena. These are…
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-03)
+
+**Rank 81** of 1115 producers — **14 mentions** across 1089 posts.
+
+**Momentum 2023+:** 3.1× (strongly accelerating).
 
 ## Down to Earth Wines (Panzer)
 

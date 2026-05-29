@@ -35,6 +35,17 @@ retailers:
     first_year: 2015
     last_year: 2025
     latest_post: https://www.wineberserkers.com/t/tn-23-w-schaefer-g-d-kabinett-3-21-felsina-reserva-19-d-issan/341546/2
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 15
+        mentions: 32
+        mentions_2013_2014: null
+        mentions_2021_2022: null
+        mentions_2023_2026: null
+        momentum_score_2023: null
+        last_updated: 2026-05-29
 tags: []
 _sources:
 - short:short__Willi_Schaefer.md
@@ -44,17 +55,13 @@ berserkers_kelley_body:
   first_year: 2015
   last_year: 2025
   recent_posts:
-  - date: '2025-11-02'
-    url: https://www.wineberserkers.com/t/tn-23-w-schaefer-g-d-kabinett-3-21-felsina-reserva-19-d-issan/341546/2
-  - date: '2018-04-19'
-    url: https://www.wineberserkers.com/t/need-a-2015-for-the-long-haul/142319/43
-  - date: '2016-12-09'
-    url: https://www.wineberserkers.com/t/more-that-a-poll-explain-why-you-buy-your-top-five-producers/127591/64
-  - date: '2016-07-29'
-    url: https://www.wineberserkers.com/t/a-swathe-of-european-2003s-trigger-warning-low-scores/123329/3
-  - date: '2016-06-17'
-    url: https://www.wineberserkers.com/t/germany-2015-really-that-great/121288/121
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2025-11-02", url: "https://www.wineberserkers.com/t/tn-23-w-schaefer-g-d-kabinett-3-21-felsina-reserva-19-d-issan/341546/2"}
+    - {date: "2018-04-19", url: "https://www.wineberserkers.com/t/need-a-2015-for-the-long-haul/142319/43"}
+    - {date: "2016-12-09", url: "https://www.wineberserkers.com/t/more-that-a-poll-explain-why-you-buy-your-top-five-producers/127591/64"}
+    - {date: "2016-07-29", url: "https://www.wineberserkers.com/t/a-swathe-of-european-2003s-trigger-warning-low-scores/123329/3"}
+    - {date: "2016-06-17", url: "https://www.wineberserkers.com/t/germany-2015-really-that-great/121288/121"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Willi Schaefer
@@ -114,6 +121,12 @@ berserkers_kelley_body:
 ## CSW Cellar Note
 
 > that these wines, especially the Kabinetts, will age beautifully for 10+ years to come. Christophe Schaefer describes the vintage by saying, “Even if hopes of a
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-03)
+
+**Rank 15** of 1115 producers — **32 mentions** across 1089 posts.
 
 ## Berserkers (William Kelley)
 

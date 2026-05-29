@@ -48,17 +48,13 @@ berserkers_kelley_body:
   first_year: 2017
   last_year: 2023
   recent_posts:
-  - date: '2023-04-10'
-    url: https://www.wineberserkers.com/t/figeac-vertical-and-wondering-about-bordeaux-critics/299653/29
-  - date: '2022-05-18'
-    url: https://www.wineberserkers.com/t/oh-the-irony-i-just-subscribed-to-wine-advocate-and-heres-why/179185/107
-  - date: '2020-10-25'
-    url: https://www.wineberserkers.com/t/1982-calon-segur/165071/3
-  - date: '2019-12-30'
-    url: https://www.wineberserkers.com/t/tn-my-concerns-my-1995-bdx-would-never-come-around-were-unfounded/157134/35
-  - date: '2019-08-27'
-    url: https://www.wineberserkers.com/t/calon-segur-1996/152898/19
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2023-04-10", url: "https://www.wineberserkers.com/t/figeac-vertical-and-wondering-about-bordeaux-critics/299653/29"}
+    - {date: "2022-05-18", url: "https://www.wineberserkers.com/t/oh-the-irony-i-just-subscribed-to-wine-advocate-and-heres-why/179185/107"}
+    - {date: "2020-10-25", url: "https://www.wineberserkers.com/t/1982-calon-segur/165071/3"}
+    - {date: "2019-12-30", url: "https://www.wineberserkers.com/t/tn-my-concerns-my-1995-bdx-would-never-come-around-were-unfounded/157134/35"}
+    - {date: "2019-08-27", url: "https://www.wineberserkers.com/t/calon-segur-1996/152898/19"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Château Calon-Ségur

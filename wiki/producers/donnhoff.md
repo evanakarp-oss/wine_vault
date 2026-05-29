@@ -35,6 +35,17 @@ retailers:
     first_year: 2016
     last_year: 2016
     latest_post: https://www.wineberserkers.com/t/germany-2015-really-that-great/121288/121
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 7
+        mentions: 52
+        mentions_2013_2014: null
+        mentions_2021_2022: null
+        mentions_2023_2026: null
+        momentum_score_2023: null
+        last_updated: 2026-05-29
 tags: []
 _sources:
 - short:short__D├╢nnhoff.md
@@ -44,9 +55,9 @@ berserkers_kelley_body:
   first_year: 2016
   last_year: 2016
   recent_posts:
-  - date: '2016-06-17'
-    url: https://www.wineberserkers.com/t/germany-2015-really-that-great/121288/121
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2016-06-17", url: "https://www.wineberserkers.com/t/germany-2015-really-that-great/121288/121"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Dönnhoff
@@ -106,6 +117,12 @@ berserkers_kelley_body:
 ## CSW Cellar Note
 
 > and power. This is perhaps the more mineral, more ageworthy of the two Grand Crus. The Frühlingsplätzchen has veins of red slate and always seems more expansive
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-03)
+
+**Rank 7** of 1115 producers — **52 mentions** across 1089 posts.
 
 ## Berserkers (William Kelley)
 

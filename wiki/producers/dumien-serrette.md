@@ -43,17 +43,13 @@ berserkers_kelley_body:
   first_year: 2019
   last_year: 2019
   recent_posts:
-  - date: '2019-01-14'
-    url: https://www.wineberserkers.com/t/1999-dumien-serrette-cornas-cuvee-vieilles-vignes/148910/13
-  - date: '2019-01-14'
-    url: https://www.wineberserkers.com/t/1999-dumien-serrette-cornas-cuvee-vieilles-vignes/148910/15
-  - date: '2019-01-13'
-    url: https://www.wineberserkers.com/t/1999-dumien-serrette-cornas-cuvee-vieilles-vignes/148910/3
-  - date: '2019-01-13'
-    url: https://www.wineberserkers.com/t/1999-dumien-serrette-cornas-cuvee-vieilles-vignes/148910/8
-  - date: '2019-01-13'
-    url: https://www.wineberserkers.com/t/1999-dumien-serrette-cornas-cuvee-vieilles-vignes/148910/10
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2019-01-14", url: "https://www.wineberserkers.com/t/1999-dumien-serrette-cornas-cuvee-vieilles-vignes/148910/13"}
+    - {date: "2019-01-14", url: "https://www.wineberserkers.com/t/1999-dumien-serrette-cornas-cuvee-vieilles-vignes/148910/15"}
+    - {date: "2019-01-13", url: "https://www.wineberserkers.com/t/1999-dumien-serrette-cornas-cuvee-vieilles-vignes/148910/3"}
+    - {date: "2019-01-13", url: "https://www.wineberserkers.com/t/1999-dumien-serrette-cornas-cuvee-vieilles-vignes/148910/8"}
+    - {date: "2019-01-13", url: "https://www.wineberserkers.com/t/1999-dumien-serrette-cornas-cuvee-vieilles-vignes/148910/10"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Dumien-Serrette

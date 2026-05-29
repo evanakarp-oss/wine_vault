@@ -39,22 +39,18 @@ tags: []
 _sources:
 - dte_jsx:dte_wines_1.jsx
 berserkers_kelley_body:
-  body_hit_count: 12
-  distinct_topics: 10
-  first_year: 2019
+  body_hit_count: 5
+  distinct_topics: 4
+  first_year: 2020
   last_year: 2023
   recent_posts:
-  - date: '2023-12-08'
-    url: https://www.wineberserkers.com/t/a-larmandier-bernier-puzzle/307820/24
-  - date: '2023-12-07'
-    url: https://www.wineberserkers.com/t/a-larmandier-bernier-puzzle/307820/18
-  - date: '2023-10-15'
-    url: https://www.wineberserkers.com/t/help-me-understand-natural-wine/305857/85
-  - date: '2022-03-28'
-    url: https://www.wineberserkers.com/t/champagne-vintage-discussion/178174/10
-  - date: '2022-03-15'
-    url: https://www.wineberserkers.com/t/aging-of-nv-champagne-and-effect-of-lower-dosage-on-champagne-aging-generally/177851/55
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2023-10-15", url: "https://www.wineberserkers.com/t/help-me-understand-natural-wine/305857/85"}
+    - {date: "2020-11-11", url: "https://www.wineberserkers.com/t/champagne-south-of-50/165479/18"}
+    - {date: "2020-07-27", url: "https://www.wineberserkers.com/t/article-the-era-of-grower-champagnes-is-over/162801/35"}
+    - {date: "2020-07-27", url: "https://www.wineberserkers.com/t/article-the-era-of-grower-champagnes-is-over/162801/43"}
+    - {date: "2020-06-03", url: "https://www.wineberserkers.com/t/most-bottles-of-a-single-wine-from-one-vintage-in-your-cellar/161529/34"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Larmandier Bernier

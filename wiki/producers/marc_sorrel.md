@@ -40,9 +40,9 @@ berserkers_kelley_body:
   first_year: 2019
   last_year: 2019
   recent_posts:
-  - date: '2019-02-10'
-    url: https://www.wineberserkers.com/t/guigal-ex-voto-hermitage-blanc/149804/7
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2019-02-10", url: "https://www.wineberserkers.com/t/guigal-ex-voto-hermitage-blanc/149804/7"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Marc Sorrel

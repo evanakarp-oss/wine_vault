@@ -40,17 +40,13 @@ berserkers_kelley_body:
   first_year: 2018
   last_year: 2023
   recent_posts:
-  - date: '2023-01-13'
-    url: https://www.wineberserkers.com/t/im-liking-these-21-bojos/294068/13
-  - date: '2022-08-04'
-    url: https://www.wineberserkers.com/t/tn-2020-jean-foillard-morgon-cote-de-py/284531/22
-  - date: '2021-09-02'
-    url: https://www.wineberserkers.com/t/what-wine-from-the-cote-chalonnaise-have-you-had-lately/173164/10
-  - date: '2021-08-19'
-    url: https://www.wineberserkers.com/t/dureuil-janthial-is-the-secret-out/172885/7
-  - date: '2021-04-30'
-    url: https://www.wineberserkers.com/t/beaujolais/170348/3
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2023-01-13", url: "https://www.wineberserkers.com/t/im-liking-these-21-bojos/294068/13"}
+    - {date: "2022-08-04", url: "https://www.wineberserkers.com/t/tn-2020-jean-foillard-morgon-cote-de-py/284531/22"}
+    - {date: "2021-09-02", url: "https://www.wineberserkers.com/t/what-wine-from-the-cote-chalonnaise-have-you-had-lately/173164/10"}
+    - {date: "2021-08-19", url: "https://www.wineberserkers.com/t/dureuil-janthial-is-the-secret-out/172885/7"}
+    - {date: "2021-04-30", url: "https://www.wineberserkers.com/t/beaujolais/170348/3"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Desvignes

@@ -40,17 +40,13 @@ berserkers_kelley_body:
   first_year: 2017
   last_year: 2020
   recent_posts:
-  - date: '2020-05-28'
-    url: https://www.wineberserkers.com/t/distinguishing-typificities-of-white-burgundies/161353/11
-  - date: '2020-02-04'
-    url: https://www.wineberserkers.com/t/high-alcohol-wines-and-aging/157303/143
-  - date: '2020-01-02'
-    url: https://www.wineberserkers.com/t/recent-2013-burg-tasting-notes/157241/19
-  - date: '2018-01-19'
-    url: https://www.wineberserkers.com/t/red-burgundy-village-ageability/139791/8
-  - date: '2017-11-07'
-    url: https://www.wineberserkers.com/t/tn-2001-domaine-joseph-roty-charmes-chambertin-tres-vieilles-vignes/137528/16
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2020-05-28", url: "https://www.wineberserkers.com/t/distinguishing-typificities-of-white-burgundies/161353/11"}
+    - {date: "2020-02-04", url: "https://www.wineberserkers.com/t/high-alcohol-wines-and-aging/157303/143"}
+    - {date: "2020-01-02", url: "https://www.wineberserkers.com/t/recent-2013-burg-tasting-notes/157241/19"}
+    - {date: "2018-01-19", url: "https://www.wineberserkers.com/t/red-burgundy-village-ageability/139791/8"}
+    - {date: "2017-11-07", url: "https://www.wineberserkers.com/t/tn-2001-domaine-joseph-roty-charmes-chambertin-tres-vieilles-vignes/137528/16"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Domaine Joseph Roty

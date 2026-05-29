@@ -40,9 +40,9 @@ berserkers_kelley_body:
   first_year: 2020
   last_year: 2020
   recent_posts:
-  - date: '2020-11-16'
-    url: https://www.wineberserkers.com/t/tn-another-lowly-macon-rouge/48989/9
-  note: derived from body-text re-pass v2; additive to berserkers_kelley
+    - {date: "2020-11-16", url: "https://www.wineberserkers.com/t/tn-another-lowly-macon-rouge/48989/9"}
+  note: "derived from body-text re-pass v2; additive to berserkers_kelley"
+
 ---
 
 # Guillot-Broux
