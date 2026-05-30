@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 892
+total_pages: 893
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**892 pages indexed.**
+**893 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -261,7 +261,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_357 producers across 37 regions._
+_358 producers across 37 regions._
 
 ### Abruzzo
 
@@ -397,6 +397,7 @@ _357 producers across 37 regions._
 - [[loersch|Loersch]] — Burgundy · DTE 9
 - [[louis_latour|Louis Latour]] — Burgundy / Beaune · Raeder 9
 - [[lucien_boillot|Lucien Boillot]] — Burgundy / Gevrey-Chambertin · Raeder 9
+- [[maison_pierre_brisset|Maison Pierre Brisset]] — Burgundy · FASS
 - [[marchand_tawse|Marchand Tawse]] — Burgundy · DTE 25
 - [[maxime_cheurlin|Maxime Cheurlin]] — Burgundy · DTE 18
 - [[meo_camuzet|Méo-Camuzet]] — Burgundy / Vosne-Romanée · sustainable · CSW 1 · Raeder 12
