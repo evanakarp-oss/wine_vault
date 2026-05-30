@@ -3,11 +3,11 @@ type: fass_article
 slug: i-just-had-this-last-night-i-gave-a-40-langhe-nebbiolo-96-points-this-centuries-old-producer-is-as-good-as-anyone-in-italy
 title: "I Just Had This Last Night – I Gave a $40 Langhe Nebbiolo 96 Points – This Centuries Old Producer Is As Good As Anyone in Italy"
 url: https://www.fassselections.com/blog/i-just-had-this-last-night-i-gave-a-40-langhe-nebbiolo-96-points-this-centuries-old-producer-is-as-good-as-anyone-in-italy/
-date: ""
+date: "2024-05-26"
 producer: ""
 categories: []
 word_count: 2338
-fetched_at: "2026-05-05T09:58:54+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # I Just Had This Last Night – I Gave a $40 Langhe Nebbiolo 96 Points – This Centuries Old Producer Is As Good As Anyone in Italy

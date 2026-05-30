@@ -3,11 +3,11 @@ type: fass_article
 slug: arguably-the-most-proper-cote-rotie-sadly-the-final-30-bottles-of-the-greeks-3-sons-bottling-elegant-beyond-belief
 title: "Arguably, the Most “Proper” Cote Rotie – Sadly the Final 30 Bottles of the Greek’s 3 Sons’ Bottling – Elegant Beyond Belief"
 url: https://www.fassselections.com/blog/arguably-the-most-proper-cote-rotie-sadly-the-final-30-bottles-of-the-greeks-3-sons-bottling-elegant-beyond-belief/
-date: ""
+date: "2024-03-24"
 producer: ""
 categories: []
 word_count: 1528
-fetched_at: "2026-05-05T09:57:24+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # Arguably, the Most “Proper” Cote Rotie – Sadly the Final 30 Bottles of the Greek’s 3 Sons’ Bottling – Elegant Beyond Belief

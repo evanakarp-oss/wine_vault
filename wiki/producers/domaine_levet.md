@@ -30,6 +30,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 13
     first_year: 2016
@@ -48,7 +53,6 @@ berserkers_kelley_body:
     - {date: "2018-01-24", url: "https://www.wineberserkers.com/t/tn-2015-domaine-levet-cotie-rotie-cuvee-amethyst/139971/10"}
     - {date: "2018-01-24", url: "https://www.wineberserkers.com/t/tn-2015-domaine-levet-cotie-rotie-cuvee-amethyst/139971/11"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Domaine Levet

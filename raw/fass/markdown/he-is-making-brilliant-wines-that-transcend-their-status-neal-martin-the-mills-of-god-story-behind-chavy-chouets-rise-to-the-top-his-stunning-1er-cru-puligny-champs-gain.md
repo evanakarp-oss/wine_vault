@@ -3,11 +3,11 @@ type: fass_article
 slug: he-is-making-brilliant-wines-that-transcend-their-status-neal-martin-the-mills-of-god-story-behind-chavy-chouets-rise-to-the-top-his-stunning-1er-cru-puligny-champs-gain
 title: "“…..he is making brilliant wines that transcend their status. ” – Neal Martin, The “Mills of God” Story Behind Chavy-Chouet’s Rise to the Top – His Stunning 1er Cru Puligny – Champs Gain"
 url: https://www.fassselections.com/blog/he-is-making-brilliant-wines-that-transcend-their-status-neal-martin-the-mills-of-god-story-behind-chavy-chouets-rise-to-the-top-his-stunning-1er-cru-puligny-champs-gain/
-date: ""
+date: "2024-04-02"
 producer: ""
 categories: []
 word_count: 1515
-fetched_at: "2026-05-05T09:58:43+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # “…..he is making brilliant wines that transcend their status. ” – Neal Martin, The “Mills of God” Story Behind Chavy-Chouet’s Rise to the Top – His Stunning 1er Cru Puligny – Champs Gain

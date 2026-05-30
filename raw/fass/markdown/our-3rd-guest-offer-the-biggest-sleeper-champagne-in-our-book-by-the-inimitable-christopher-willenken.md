@@ -3,11 +3,11 @@ type: fass_article
 slug: our-3rd-guest-offer-the-biggest-sleeper-champagne-in-our-book-by-the-inimitable-christopher-willenken
 title: "Our 3rd Guest Offer – The Biggest Sleeper Champagne in Our Book By The Inimitable Christopher Willenken"
 url: https://www.fassselections.com/blog/our-3rd-guest-offer-the-biggest-sleeper-champagne-in-our-book-by-the-inimitable-christopher-willenken/
-date: ""
+date: "2024-04-17"
 producer: ""
 categories: []
 word_count: 1196
-fetched_at: "2026-05-05T10:00:40+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # Our 3rd Guest Offer – The Biggest Sleeper Champagne in Our Book By The Inimitable Christopher Willenken

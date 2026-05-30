@@ -3,11 +3,11 @@ type: fass_article
 slug: girard-does-it-again-91-and-92-point-burghounds-slbs-among-the-last-90-under-40-red-burgundies
 title: "Girard Does It Again – 91 and 92 Point Burghounds SLBs. Among The Last 90+ Under $40 Red Burgundies"
 url: https://www.fassselections.com/blog/girard-does-it-again-91-and-92-point-burghounds-slbs-among-the-last-90-under-40-red-burgundies/
-date: ""
+date: "2024-04-16"
 producer: ""
 categories: []
 word_count: 2012
-fetched_at: "2026-05-05T09:58:34+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # Girard Does It Again – 91 and 92 Point Burghounds SLBs. Among The Last 90+ Under $40 Red Burgundies

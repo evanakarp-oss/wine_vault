@@ -3,11 +3,11 @@ type: fass_article
 slug: enderle-molls-22-liason-the-best-since-18-our-biggest-selling-red-wine-an-iconic-german-pinot-noir-insane-value-white-17-99-a-case
 title: "Enderle & Moll’s – 22 Liason – the Best Since 18 – Our Biggest Selling Red Wine – An Iconic German Pinot Noir + Insane Value White – $17.99 a Case!"
 url: https://www.fassselections.com/blog/enderle-molls-22-liason-the-best-since-18-our-biggest-selling-red-wine-an-iconic-german-pinot-noir-insane-value-white-17-99-a-case/
-date: ""
+date: "2024-04-21"
 producer: ""
 categories: []
 word_count: 1895
-fetched_at: "2026-05-05T09:58:01+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # Enderle & Moll’s – 22 Liason – the Best Since 18 – Our Biggest Selling Red Wine – An Iconic German Pinot Noir + Insane Value White – $17.99 a Case!

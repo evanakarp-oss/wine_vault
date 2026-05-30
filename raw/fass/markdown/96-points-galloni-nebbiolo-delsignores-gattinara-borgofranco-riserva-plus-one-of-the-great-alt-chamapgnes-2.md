@@ -3,11 +3,11 @@ type: fass_article
 slug: 96-points-galloni-nebbiolo-delsignores-gattinara-borgofranco-riserva-plus-one-of-the-great-alt-chamapgnes-2
 title: "96 Points Galloni Nebbiolo – Delsignore’s Gattinara Borgofranco Riserva – Plus One of the Great Alt Chamapgnes"
 url: https://www.fassselections.com/blog/96-points-galloni-nebbiolo-delsignores-gattinara-borgofranco-riserva-plus-one-of-the-great-alt-chamapgnes-2/
-date: ""
+date: "2024-04-11"
 producer: ""
 categories: []
 word_count: 2415
-fetched_at: "2026-05-05T09:56:17+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # 96 Points Galloni Nebbiolo – Delsignore’s Gattinara Borgofranco Riserva – Plus One of the Great Alt Chamapgnes

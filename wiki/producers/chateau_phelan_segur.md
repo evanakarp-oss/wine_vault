@@ -30,6 +30,11 @@ retailers:
     price_max: 69.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 4
     first_year: 2022
@@ -53,7 +58,6 @@ berserkers_kelley_body:
     - {date: "2022-02-20", url: "https://www.wineberserkers.com/t/2019-bordeaux/176323/249"}
     - {date: "2022-02-19", url: "https://www.wineberserkers.com/t/2019-bordeaux/176323/237"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Château Phélan-Ségur

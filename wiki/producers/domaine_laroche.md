@@ -30,6 +30,11 @@ retailers:
     price_max: 77.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 2
+    dedicated_count: 0
+    first_year: 2024
+    last_year: 2024
   berserkers_kelley:
     post_count: 2
     first_year: 2019
@@ -48,7 +53,6 @@ berserkers_kelley_body:
   recent_posts:
     - {date: "2019-07-09", url: "https://www.wineberserkers.com/t/tn-taste-off-two-inexpensive-chablis/150912/20"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Domaine Laroche
@@ -118,3 +122,15 @@ Currently tracked at Raeders: **11 cuvée/vintage entries**; prices $13.99–$77
 ## FASS
 
 _Not yet populated._
+
+## FASS Write-ups
+
+### [Dampt’s Brilliant 1er Cru Beugnons – Concrete Egg Takes it Over the Top – 1/2 the Price of Lower Quality 3 Tier Wines from This Vineyard](https://www.fassselections.com/blog/dampts-brilliant-1er-cru-beugnons-concrete-egg-takes-it-over-the-top-1-2-the-price-of-lower-quality-3-tier-wines-from-this-vineyard-2/)
+*2024-04*
+
+> #### Arguably Dampt’s Best Wine – Sebastien Dampt’s Chablis Are Consistently Delicious Chablis – A Select Sub Section of Vaillons – The Concrete Egg Elevage Just Takes It Over the Top – Crazy, Classic Chablisien Balance #### – One of the Most Interesting…
+
+### [Dampt’s Brilliant 1er Cru Beugnons – Concrete Egg Takes it Over the Top – 1/2 the Price of Lower Quality 3 Tier Wines from This Vineyard](https://www.fassselections.com/blog/dampts-brilliant-1er-cru-beugnons-concrete-egg-takes-it-over-the-top-1-2-the-price-of-lower-quality-3-tier-wines-from-this-vineyard/)
+*2024-03*
+
+> #### Arguably Dampt’s Best Wine – Sebastien Dampt’s Chablis Are Consistently Delicious Chablis – A Select Sub Section of Vaillons – The Concrete Egg Elevage Just Takes It Over the Top – Crazy, Classic Chablisien Balance – One of the Most Interesting Wines in…

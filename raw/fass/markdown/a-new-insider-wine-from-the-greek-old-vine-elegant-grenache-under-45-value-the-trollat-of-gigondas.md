@@ -3,11 +3,11 @@ type: fass_article
 slug: a-new-insider-wine-from-the-greek-old-vine-elegant-grenache-under-45-value-the-trollat-of-gigondas
 title: "A New Insider Wine from the Greek! Old Vine, Elegant Grenache – Under $45 Value – the Trollat of Gigondas"
 url: https://www.fassselections.com/blog/a-new-insider-wine-from-the-greek-old-vine-elegant-grenache-under-45-value-the-trollat-of-gigondas/
-date: ""
+date: "2024-06-02"
 producer: ""
 categories: []
 word_count: 1311
-fetched_at: "2026-05-05T09:56:37+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # A New Insider Wine from the Greek! Old Vine, Elegant Grenache – Under $45 Value – the Trollat of Gigondas

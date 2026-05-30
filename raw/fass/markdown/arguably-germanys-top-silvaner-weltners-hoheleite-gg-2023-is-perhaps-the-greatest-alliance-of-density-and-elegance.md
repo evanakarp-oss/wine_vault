@@ -3,11 +3,11 @@ type: fass_article
 slug: arguably-germanys-top-silvaner-weltners-hoheleite-gg-2023-is-perhaps-the-greatest-alliance-of-density-and-elegance
 title: "Arguably Germany’s Top Silvaner – Weltner’s Hoheleite GG – 2023 Is Perhaps the Greatest Alliance of Density and Elegance"
 url: https://www.fassselections.com/blog/arguably-germanys-top-silvaner-weltners-hoheleite-gg-2023-is-perhaps-the-greatest-alliance-of-density-and-elegance/
-date: ""
+date: "2024-06-12"
 producer: ""
 categories: []
 word_count: 1973
-fetched_at: "2026-05-05T09:57:11+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # Arguably Germany’s Top Silvaner – Weltner’s Hoheleite GG – 2023 Is Perhaps the Greatest Alliance of Density and Elegance

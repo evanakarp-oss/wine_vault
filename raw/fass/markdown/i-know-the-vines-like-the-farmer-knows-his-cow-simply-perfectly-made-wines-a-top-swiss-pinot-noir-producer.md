@@ -3,11 +3,11 @@ type: fass_article
 slug: i-know-the-vines-like-the-farmer-knows-his-cow-simply-perfectly-made-wines-a-top-swiss-pinot-noir-producer
 title: "“I Know the Vines like the Farmer Knows His Cow” – Simply Perfectly Made Wines – A Top Swiss Pinot Noir Producer"
 url: https://www.fassselections.com/blog/i-know-the-vines-like-the-farmer-knows-his-cow-simply-perfectly-made-wines-a-top-swiss-pinot-noir-producer/
-date: ""
+date: "2024-05-13"
 producer: ""
 categories: []
 word_count: 2322
-fetched_at: "2026-05-05T09:58:57+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # “I Know the Vines like the Farmer Knows His Cow” – Simply Perfectly Made Wines – A Top Swiss Pinot Noir Producer

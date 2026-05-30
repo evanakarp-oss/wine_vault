@@ -3,11 +3,11 @@ type: fass_article
 slug: the-return-of-the-queen-one-of-the-greatest-neoclassical-producers-in-alto-piemonte-2019-barbaglia-boca-is-a-wine-for-the-ages
 title: "The Return of the Queen – One of the Greatest Neoclassical Producers in Alto Piemonte – 2019 Barbaglia Boca Is a Wine for the Ages"
 url: https://www.fassselections.com/blog/the-return-of-the-queen-one-of-the-greatest-neoclassical-producers-in-alto-piemonte-2019-barbaglia-boca-is-a-wine-for-the-ages/
-date: ""
+date: "2024-06-12"
 producer: ""
 categories: []
 word_count: 1967
-fetched_at: "2026-05-05T10:03:23+00:00"
+fetched_at: "2026-05-30T11:42:17+00:00"
 ---
 
 # The Return of the Queen – One of the Greatest Neoclassical Producers in Alto Piemonte – 2019 Barbaglia Boca Is a Wine for the Ages

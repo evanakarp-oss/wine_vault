@@ -3,11 +3,11 @@ type: fass_article
 slug: rocche-de-barbari-barbaresco-alvio-riserva-from-the-legendary-2016-vintage-these-compete-with-the-best-wines-in-the-langhe
 title: "Rocche de Barbari Barbaresco Alvio Riserva from the Legendary 2016 Vintage – These Compete with the Best Wines in the Langhe"
 url: https://www.fassselections.com/blog/rocche-de-barbari-barbaresco-alvio-riserva-from-the-legendary-2016-vintage-these-compete-with-the-best-wines-in-the-langhe/
-date: ""
+date: "2024-05-28"
 producer: ""
 categories: []
 word_count: 1986
-fetched_at: "2026-05-05T10:01:12+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # Rocche de Barbari Barbaresco Alvio Riserva from the Legendary 2016 Vintage – These Compete with the Best Wines in the Langhe

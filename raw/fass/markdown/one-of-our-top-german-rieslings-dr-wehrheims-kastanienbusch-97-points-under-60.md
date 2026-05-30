@@ -3,11 +3,11 @@ type: fass_article
 slug: one-of-our-top-german-rieslings-dr-wehrheims-kastanienbusch-97-points-under-60
 title: "One of Our Top German Rieslings – Dr. Wehrheim’s Kastanienbusch – 97 Points, Under $60"
 url: https://www.fassselections.com/blog/one-of-our-top-german-rieslings-dr-wehrheims-kastanienbusch-97-points-under-60/
-date: ""
+date: "2023-11-30"
 producer: ""
 categories: []
 word_count: 1759
-fetched_at: "2026-05-05T10:00:10+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # One of Our Top German Rieslings – Dr. Wehrheim’s Kastanienbusch – 97 Points, Under $60

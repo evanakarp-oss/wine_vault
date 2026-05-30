@@ -23,6 +23,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
 events: []
 tags: ["radical-natural", "mendoza", "argentina"]
 _sources: ["arg_jsx:arg-natural-wine_3.jsx"]

@@ -3,11 +3,11 @@ type: fass_article
 slug: the-happy-family-our-hope-for-the-2024-we-all-deserve-2010-jadis-our-most-consistent-high-end-priced-like-low-end-champagne
 title: "The Happy Family – Our Hope for the 2024 We All Deserve – 2010 Jadis – Our Most Consistent High End (Priced Like Low End) Champagne"
 url: https://www.fassselections.com/blog/the-happy-family-our-hope-for-the-2024-we-all-deserve-2010-jadis-our-most-consistent-high-end-priced-like-low-end-champagne/
-date: ""
+date: "2024-01-01"
 producer: ""
 categories: []
 word_count: 1588
-fetched_at: "2026-05-05T10:02:49+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The Happy Family – Our Hope for the 2024 We All Deserve – 2010 Jadis – Our Most Consistent High End (Priced Like Low End) Champagne

@@ -3,11 +3,11 @@ type: fass_article
 slug: the-day-has-finally-arrived-sven-enderles-new-estate-first-global-offer-of-his-first-pinot-noir-2
 title: "The Day Has Finally Arrived – Sven Enderle’s New Estate ﻿- First Global Offer of His First Pinot Noir"
 url: https://www.fassselections.com/blog/the-day-has-finally-arrived-sven-enderles-new-estate-first-global-offer-of-his-first-pinot-noir-2/
-date: ""
+date: "2024-03-28"
 producer: ""
 categories: []
 word_count: 1875
-fetched_at: "2026-05-05T10:02:24+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The Day Has Finally Arrived – Sven Enderle’s New Estate ﻿- First Global Offer of His First Pinot Noir

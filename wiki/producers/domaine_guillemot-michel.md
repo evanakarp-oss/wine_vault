@@ -31,6 +31,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 2
     first_year: 2019
@@ -51,7 +56,6 @@ berserkers_kelley_body:
     - {date: "2021-08-16", url: "https://www.wineberserkers.com/t/domaine-guillemot-michel-burgundy/160644/66"}
     - {date: "2021-07-11", url: "https://www.wineberserkers.com/t/tn-2018-domaine-guillemot-michel-vire-clesse-quintaine/171904/4"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Domaine Guillemot-Michel

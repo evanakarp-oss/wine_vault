@@ -29,6 +29,11 @@ retailers:
     price_max: 0
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 2
+    dedicated_count: 0
+    first_year: 2023
+    last_year: 2024
   berserkers_kelley:
     post_count: 18
     first_year: 2016
@@ -52,7 +57,6 @@ berserkers_kelley_body:
     - {date: "2022-12-16", url: "https://www.wineberserkers.com/t/22-christmas-dinner-wines/292723/6"}
     - {date: "2021-08-25", url: "https://www.wineberserkers.com/t/louis-roederer-nv-collection-242/172925/8"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Bollinger
@@ -223,3 +227,15 @@ Vintages on offer: 2015, NV.
 ## FASS
 
 _Not yet populated._
+
+## FASS Write-ups
+
+### [Perseval Farge Jean Baptiste Brut 1er Cru – One of the 4 Horsemen – One of the Best Champagnes That We Sell – It’s All About the Mousse](https://www.fassselections.com/blog/perseval-farge-jean-baptiste-brut-1er-cru-one-of-the-4-horsemen-one-of-the-best-champagnes-that-we-sell-its-all-about-the-mousse/)
+*2024-03*
+
+> #### “This stuff is stunning. Can you get more?” “This is like Krug” “This is like Bollinger RD” “This is like Salon” “This is as perfect a Champagne as I’ve ever had.” #### NV Perseval Farge Jean Baptiste Brut 1er Cru – Perseval Farge’s Best and Rarest Wine…
+
+### [The “Emperor’s Underwear” – Where I Taste 2 Blingy “Unicorn” Champagnes and Realize that Perseval Farge Jean Baptiste Is Better at 15-25% of the Price](https://www.fassselections.com/blog/the-emperors-underwear-where-i-taste-2-blingy-unicorn-champagnes-and-realize-that-perseval-farge-jean-baptiste-is-better-at-15-25-of-the-price/)
+*2023-10*
+
+> #### “This stuff is stunning. Can you get more?” #### “This is like Krug” “This is like Bollinger RD” “This is like Salon” “This is as perfect a Champagne as I’ve ever had.” #### NV Perseval Farge Jean Baptiste Brut 1er Cru – Perseval Farge’s Best and Rarest…

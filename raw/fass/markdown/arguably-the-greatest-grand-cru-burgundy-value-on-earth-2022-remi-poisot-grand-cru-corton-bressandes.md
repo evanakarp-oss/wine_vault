@@ -3,11 +3,11 @@ type: fass_article
 slug: arguably-the-greatest-grand-cru-burgundy-value-on-earth-2022-remi-poisot-grand-cru-corton-bressandes
 title: "Arguably the Greatest Grand Cru Burgundy Value on Earth – 2022 Remi Poisot Grand Cru Corton Bressandes"
 url: https://www.fassselections.com/blog/arguably-the-greatest-grand-cru-burgundy-value-on-earth-2022-remi-poisot-grand-cru-corton-bressandes/
-date: ""
+date: "2024-03-05"
 producer: ""
 categories: []
 word_count: 1263
-fetched_at: "2026-05-05T09:57:16+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # Arguably the Greatest Grand Cru Burgundy Value on Earth – 2022 Remi Poisot Grand Cru Corton Bressandes

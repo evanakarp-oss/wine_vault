@@ -3,11 +3,11 @@ type: fass_article
 slug: german-selosse-is-back-late-disgorged-aufricht-the-most-elegant-german-sparkling-wine-ive-ever-had
 title: "German Selosse is Back! – Late Disgorged Aufricht – The Most Elegant German Sparkling Wine I’ve Ever Had"
 url: https://www.fassselections.com/blog/german-selosse-is-back-late-disgorged-aufricht-the-most-elegant-german-sparkling-wine-ive-ever-had/
-date: ""
+date: "2023-11-22"
 producer: ""
 categories: []
 word_count: 1578
-fetched_at: "2026-05-05T09:58:31+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # German Selosse is Back! – Late Disgorged Aufricht – The Most Elegant German Sparkling Wine I’ve Ever Had

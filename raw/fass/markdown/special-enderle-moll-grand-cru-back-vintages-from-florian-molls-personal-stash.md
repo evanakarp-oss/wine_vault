@@ -3,11 +3,11 @@ type: fass_article
 slug: special-enderle-moll-grand-cru-back-vintages-from-florian-molls-personal-stash
 title: "Special Enderle & Moll Grand Cru Back Vintages From Florian Moll’s Personal Stash"
 url: https://www.fassselections.com/blog/special-enderle-moll-grand-cru-back-vintages-from-florian-molls-personal-stash/
-date: ""
+date: "2024-03-14"
 producer: ""
 categories: []
 word_count: 1148
-fetched_at: "2026-05-05T10:01:23+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # Special Enderle & Moll Grand Cru Back Vintages From Florian Moll’s Personal Stash

@@ -30,6 +30,11 @@ retailers:
     price_max: 0
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 9
     first_year: 2019
@@ -50,7 +55,6 @@ berserkers_kelley_body:
     - {date: "2020-07-27", url: "https://www.wineberserkers.com/t/article-the-era-of-grower-champagnes-is-over/162801/43"}
     - {date: "2020-06-03", url: "https://www.wineberserkers.com/t/most-bottles-of-a-single-wine-from-one-vintage-in-your-cellar/161529/34"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Larmandier Bernier

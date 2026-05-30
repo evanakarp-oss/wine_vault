@@ -29,6 +29,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
 roscioli:
   in_portfolio: true
   profile_url: "https://www.roscioliwineclub.com/cantina-bruna-imperia-pigato/"

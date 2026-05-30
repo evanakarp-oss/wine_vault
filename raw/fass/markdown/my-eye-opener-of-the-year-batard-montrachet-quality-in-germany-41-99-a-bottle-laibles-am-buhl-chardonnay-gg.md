@@ -3,11 +3,11 @@ type: fass_article
 slug: my-eye-opener-of-the-year-batard-montrachet-quality-in-germany-41-99-a-bottle-laibles-am-buhl-chardonnay-gg
 title: "My “Eye Opener” of the Year – Batard Montrachet Quality in Germany – $41.99 a Bottle – Laible’s Am Buhl Chardonnay GG"
 url: https://www.fassselections.com/blog/my-eye-opener-of-the-year-batard-montrachet-quality-in-germany-41-99-a-bottle-laibles-am-buhl-chardonnay-gg/
-date: ""
+date: "2024-05-26"
 producer: ""
 categories: []
 word_count: 1250
-fetched_at: "2026-05-05T09:59:46+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # My “Eye Opener” of the Year – Batard Montrachet Quality in Germany – $41.99 a Bottle – Laible’s Am Buhl Chardonnay GG

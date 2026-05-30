@@ -29,6 +29,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 1
     first_year: 2019
@@ -49,7 +54,6 @@ berserkers_kelley_body:
     - {date: "2019-01-13", url: "https://www.wineberserkers.com/t/1999-dumien-serrette-cornas-cuvee-vieilles-vignes/148910/8"}
     - {date: "2019-01-13", url: "https://www.wineberserkers.com/t/1999-dumien-serrette-cornas-cuvee-vieilles-vignes/148910/10"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Dumien-Serrette

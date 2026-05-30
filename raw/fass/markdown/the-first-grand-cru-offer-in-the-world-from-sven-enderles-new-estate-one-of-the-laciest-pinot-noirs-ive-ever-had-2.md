@@ -3,11 +3,11 @@ type: fass_article
 slug: the-first-grand-cru-offer-in-the-world-from-sven-enderles-new-estate-one-of-the-laciest-pinot-noirs-ive-ever-had-2
 title: "The First Grand Cru Offer in the World from Sven Enderle’s New Estate – One of the Laciest Pinot Noirs I’ve Ever Had"
 url: https://www.fassselections.com/blog/the-first-grand-cru-offer-in-the-world-from-sven-enderles-new-estate-one-of-the-laciest-pinot-noirs-ive-ever-had-2/
-date: ""
+date: "2024-03-31"
 producer: ""
 categories: []
 word_count: 1150
-fetched_at: "2026-05-05T10:02:32+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The First Grand Cru Offer in the World from Sven Enderle’s New Estate – One of the Laciest Pinot Noirs I’ve Ever Had

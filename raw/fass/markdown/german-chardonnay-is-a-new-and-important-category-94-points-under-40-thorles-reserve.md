@@ -3,11 +3,11 @@ type: fass_article
 slug: german-chardonnay-is-a-new-and-important-category-94-points-under-40-thorles-reserve
 title: "German Chardonnay Is a New and Important Category – 94 Points, Under $40 – Thorle’s Reserve"
 url: https://www.fassselections.com/blog/german-chardonnay-is-a-new-and-important-category-94-points-under-40-thorles-reserve/
-date: ""
+date: "2023-11-28"
 producer: ""
 categories: []
 word_count: 1616
-fetched_at: "2026-05-05T09:58:28+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # German Chardonnay Is a New and Important Category – 94 Points, Under $40 – Thorle’s Reserve

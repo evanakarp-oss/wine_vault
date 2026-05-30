@@ -3,11 +3,11 @@ type: fass_article
 slug: fass-producer-peter-vinding-diers-in-forbes
 title: "Fass Producer Peter Vinding-Diers in Forbes"
 url: https://www.fassselections.com/blog/fass-producer-peter-vinding-diers-in-forbes/
-date: ""
+date: "2022-10-18"
 producer: ""
 categories: []
 word_count: 59
-fetched_at: "2026-05-05T09:58:04+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # Fass Producer Peter Vinding-Diers in Forbes

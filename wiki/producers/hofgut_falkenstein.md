@@ -30,6 +30,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 1
+    dedicated_count: 0
+    first_year: 2024
+    last_year: 2024
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -148,3 +153,10 @@ _Not yet populated._
 - [[Germany_Producers|Germany]]
 - [[Saar (Konz)]]
 - [[CSW Article Archive]]
+
+## FASS Write-ups
+
+### [The Incomparable 2021 Domberg from Andi Schneider – One of 2021’s Greatest German Rieslings!](https://www.fassselections.com/blog/the-incomparable-2021-domberg-from-andi-schneider-one-of-2021s-greatest-german-rieslings/)
+*2024-04*
+
+> #### 2021 at Schneider Is Andi’s Greatest Vintage And The 2021 Domberg Is The Feather In His Cap – An Ethereal, Cerebral, Contemplative Riesling – Nothing Can Be Compared To It – At $27.99 On A Case I am Struggling To Think Of Another Dry Riesling Value This…

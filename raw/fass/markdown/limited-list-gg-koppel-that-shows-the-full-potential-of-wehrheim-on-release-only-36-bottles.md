@@ -3,11 +3,11 @@ type: fass_article
 slug: limited-list-gg-koppel-that-shows-the-full-potential-of-wehrheim-on-release-only-36-bottles
 title: "LIMITED LIST – GG Koppel That Shows the Full Potential of Wehrheim on Release – Only 36 Bottles"
 url: https://www.fassselections.com/blog/limited-list-gg-koppel-that-shows-the-full-potential-of-wehrheim-on-release-only-36-bottles/
-date: ""
+date: "2024-04-21"
 producer: ""
 categories: []
 word_count: 1804
-fetched_at: "2026-05-05T09:59:40+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # LIMITED LIST – GG Koppel That Shows the Full Potential of Wehrheim on Release – Only 36 Bottles

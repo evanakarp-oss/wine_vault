@@ -3,11 +3,11 @@ type: fass_article
 slug: the-best-value-german-pinot-maybe-ever-on-time-travel-value-and-complexity-a-new-entry-in-best-value-pinot-noir-in-germany-sweepstakes
 title: "The Best Value German Pinot Maybe…Ever? – On Time Travel, Value and Complexity – A New Entry in Best Value Pinot Noir in Germany Sweepstakes"
 url: https://www.fassselections.com/blog/the-best-value-german-pinot-maybe-ever-on-time-travel-value-and-complexity-a-new-entry-in-best-value-pinot-noir-in-germany-sweepstakes/
-date: ""
+date: "2024-04-01"
 producer: ""
 categories: []
 word_count: 1326
-fetched_at: "2026-05-05T10:01:54+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The Best Value German Pinot Maybe…Ever? – On Time Travel, Value and Complexity – A New Entry in Best Value Pinot Noir in Germany Sweepstakes

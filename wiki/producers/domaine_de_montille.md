@@ -30,6 +30,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 2
+    dedicated_count: 0
+    first_year: 2024
+    last_year: 2024
   berserkers_kelley:
     post_count: 7
     first_year: 2018
@@ -50,7 +55,6 @@ berserkers_kelley_body:
     - {date: "2019-02-28", url: "https://www.wineberserkers.com/t/tn-2014-henri-et-gilles-buisson-st-romain-la-perriere/150284/4"}
     - {date: "2019-02-13", url: "https://www.wineberserkers.com/t/understanding-the-producers-of-volnay/149875/57"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Domaine de Montille
@@ -182,3 +186,15 @@ _Not yet populated._
 - [[Burgundy_Producers|Burgundy]]
 - [[Volnay / Pommard]]
 - [[CSW Article Archive]]
+
+## FASS Write-ups
+
+### [The Best Value Volnay 1er Cru “Taillepieds” Of All Time – $58!](https://www.fassselections.com/blog/the-best-value-volnay-1er-cru-taillepieds-of-all-time-58/)
+*2024-03*
+
+> #### The Boussey Style – Classic Old School Burgundies – But with Borderline Elite Fruit Precision – Terrific Juiciness – Amazing Palate Soak – Persistent But Elegant Texture – 22’s are the Best Vintage Yet for Boussey – Like 19. – Ridiculous Values for the…
+
+### [The Best Value Volnay 1er Cru “Taillepieds” Of All Time – $58!](https://www.fassselections.com/blog/the-best-value-volnay-1er-cru/)
+*2024-02*
+
+> #### The Boussey Style – Classic Old School Burgundies – But with Borderline Elite Fruit Precision – Terrific Juiciness – Amazing Palate Soak – Persistent But Elegant Texture – 22’s are the Best Vintage Yet for Boussey – Like 19. – Ridiculous Values for the…

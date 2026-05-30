@@ -31,6 +31,11 @@ retailers:
     price_max: 1299.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 17
     first_year: 2015
@@ -52,7 +57,6 @@ berserkers_kelley_body:
     - {date: "2020-02-04", url: "https://www.wineberserkers.com/t/high-alcohol-wines-and-aging/157303/126"}
     - {date: "2016-12-03", url: "https://www.wineberserkers.com/t/wotys-2016-edition-tabulation-complete-post-1/126630/16"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Château Palmer

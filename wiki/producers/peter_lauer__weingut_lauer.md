@@ -30,6 +30,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 1
+    dedicated_count: 0
+    first_year: 2023
+    last_year: 2023
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -185,3 +190,10 @@ _Not yet populated._
 - [[Germany_Producers|Germany]]
 - [[Saar]]
 - [[CSW Article Archive]]
+
+## FASS Write-ups
+
+### [German Selosse is Back! – Late Disgorged Aufricht – The Most Elegant German Sparkling Wine I’ve Ever Had](https://www.fassselections.com/blog/german-selosse-is-back-late-disgorged-aufricht-the-most-elegant-german-sparkling-wine-ive-ever-had/)
+*2023-11*
+
+> ##### “from-zero-to-top producer” Stephan Reinhardt, Wine Advocate 2020 Aufricht Blanc de Blancs Brut Nature OCTOBER 2023 Disgorgement – Micro Production – Champagne Geeks Are Going to Go Crazy Over This Wine – Brut Nature – Remarkable Angularity and…

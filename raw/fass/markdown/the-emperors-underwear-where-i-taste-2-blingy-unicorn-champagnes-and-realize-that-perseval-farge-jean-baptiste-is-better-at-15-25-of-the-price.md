@@ -3,11 +3,11 @@ type: fass_article
 slug: the-emperors-underwear-where-i-taste-2-blingy-unicorn-champagnes-and-realize-that-perseval-farge-jean-baptiste-is-better-at-15-25-of-the-price
 title: "The “Emperor’s Underwear” – Where I Taste 2 Blingy “Unicorn” Champagnes and Realize that Perseval Farge Jean Baptiste Is Better at 15-25% of the Price"
 url: https://www.fassselections.com/blog/the-emperors-underwear-where-i-taste-2-blingy-unicorn-champagnes-and-realize-that-perseval-farge-jean-baptiste-is-better-at-15-25-of-the-price/
-date: ""
+date: "2023-10-16"
 producer: ""
 categories: []
 word_count: 2018
-fetched_at: "2026-05-05T10:02:29+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The “Emperor’s Underwear” – Where I Taste 2 Blingy “Unicorn” Champagnes and Realize that Perseval Farge Jean Baptiste Is Better at 15-25% of the Price

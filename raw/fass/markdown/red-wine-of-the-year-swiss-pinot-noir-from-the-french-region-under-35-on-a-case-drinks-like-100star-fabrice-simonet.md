@@ -3,11 +3,11 @@ type: fass_article
 slug: red-wine-of-the-year-swiss-pinot-noir-from-the-french-region-under-35-on-a-case-drinks-like-100star-fabrice-simonet
 title: "Red Wine of the Year – Swiss Pinot Noir from the French Region – Under $35 on a Case, Drinks like $100+star Fabrice Simonet"
 url: https://www.fassselections.com/blog/red-wine-of-the-year-swiss-pinot-noir-from-the-french-region-under-35-on-a-case-drinks-like-100star-fabrice-simonet/
-date: ""
+date: "2024-03-15"
 producer: ""
 categories: []
 word_count: 1308
-fetched_at: "2026-05-05T10:01:09+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # Red Wine of the Year – Swiss Pinot Noir from the French Region – Under $35 on a Case, Drinks like $100+star Fabrice Simonet

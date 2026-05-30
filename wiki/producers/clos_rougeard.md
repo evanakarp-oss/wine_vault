@@ -29,6 +29,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 1
+    dedicated_count: 0
+    first_year: 2024
+    last_year: 2024
   berserkers_kelley:
     post_count: 14
     first_year: 2015
@@ -49,7 +54,6 @@ berserkers_kelley_body:
     - {date: "2021-11-13", url: "https://www.wineberserkers.com/t/why-is-rayas-so-singular/174826/45"}
     - {date: "2021-08-31", url: "https://www.wineberserkers.com/t/tn-n-v-egly-ouriet-champagne-grand-cru-brut-rose/173128/13"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Clos Rougeard
@@ -218,3 +222,10 @@ _Not yet populated._
 - [[Loire_Producers|Loire]]
 - [[Saumur-Champigny]]
 - [[CSW Article Archive]]
+
+## FASS Write-ups
+
+### [Among the Hardest to Get Wines in Italy Bar None – His 2 (Still) Affordable Wines – Brilliant Barbera and Dolcetto](https://www.fassselections.com/blog/among-the-hardest-to-get-wines-in-italy-bar-none-his-2-still-affordable-wines-brilliant-barbera-and-dolcetto/)
+*2024-05*
+
+> #### On the Top Langhe Wine Group, This Producer Is the Talk of the Town – Changed Voerzio to Start Making Classic Wines – His Barolo Top Crus Go for $400+ – Started His Own Micro Estate on the Side – Top, Top, Top Tier in the Langhe – This Will Be the…

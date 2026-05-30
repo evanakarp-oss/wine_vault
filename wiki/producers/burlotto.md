@@ -28,6 +28,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 4
+    dedicated_count: 0
+    first_year: 2023
+    last_year: 2024
   berserkers_kelley:
     post_count: 2
     first_year: 2015
@@ -126,3 +131,25 @@ _Not yet populated._
 - [[Italy_Producers|Italy]]
 - [[Verduno (Barolo)]]
 - [[CSW Article Archive]]
+
+## FASS Write-ups
+
+### [I Just Had This Last Night – I Gave a $40 Langhe Nebbiolo 96 Points – This Centuries Old Producer Is As Good As Anyone in Italy](https://www.fassselections.com/blog/i-just-had-this-last-night-i-gave-a-40-langhe-nebbiolo-96-points-this-centuries-old-producer-is-as-good-as-anyone-in-italy/)
+*2024-05*
+
+> #### This Is Our Most Out There, Wonderful Offer Ever – A Stealth Winery from an Ancient Family – 2,500 Years in the Wine Business – Over 400 Years of Winemaking #### As Great As the Greatest – That Magical and Ultra Rare Combination of Elegance and Finesse –…
+
+### [Rocche de Barbari Barbaresco Alvio Riserva from the Legendary 2016 Vintage – These Compete with the Best Wines in the Langhe](https://www.fassselections.com/blog/rocche-de-barbari-barbaresco-alvio-riserva-from-the-legendary-2016-vintage-these-compete-with-the-best-wines-in-the-langhe/)
+*2024-05*
+
+> #### This Is Our Most Out There, Wonderful Offer Ever – A Stealth Winery from an Ancient Family – 2,500 Years in the Wine Business – Over 400 Years of Winemaking #### As Great As the Greatest – That Magical and Ultra Rare Combination of Elegance and Finesse –…
+
+### [If Brisset Made Nebbiolo – If You Buy Ar.Pe.Pe and Don’t Own Cases of La Badina, You Need to Re Examine Your Life Choices – One of the Best Nebbiolos Made. Period.](https://www.fassselections.com/blog/if-brisset-made-nebbiolo-if-you-buy-ar-pe-pe-and-dont-own-cases-of-la-badina-you-need-to-re-examine-your-life-choices-one-of-the-best-nebbiolos-made-period/)
+*2024-01*
+
+> ##### I Just Had the 2015 La Badina – I Feel Like My Brain Is On Fire – A Thing of Beauty – Pink Roses, So Perfect They Smelled Still Alive – As Good As Any Nebbiolo in Italy – So Elegant, Linear and Perfect – Old School Vinification – Needs 6-8 Years to…
+
+### [A Passion Project from One of Barolo’s Old Guard – On a Par with Bartolo Mascarello, Conterno, – Psychotically Aromatic](https://www.fassselections.com/blog/a-passion-project-from-one-of-barolos-old-guard-on-a-par-with-bartolo-mascarello-conterno-psychotically-aromatic/)
+*2023-11*
+
+> ##### Gillardi – Third Generation Producer – Father Started As a Winemaker at Barolo Legend Ceretto and Has Worked there for 40 Years – He Supervises Winemaking at Gillardi ##### The 2019 Vintage – Like 1982 for Bordeaux – Better than Even the Legendary 2016…

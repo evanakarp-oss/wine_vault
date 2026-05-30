@@ -29,6 +29,11 @@ retailers:
     price_max: 0
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 1
     first_year: 2016
@@ -49,7 +54,6 @@ berserkers_kelley_body:
   recent_posts:
     - {date: "2016-04-22", url: "https://www.wineberserkers.com/t/sf-chron-article-the-cult-of-cab/120277/18"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Screaming Eagle

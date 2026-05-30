@@ -3,11 +3,11 @@ type: fass_article
 slug: christoph-walters-clos-st-jacques-the-second-best-wine-i-ever-made-2018-spatburgunder-centgrafenberg-j
 title: "Christoph Walter’s Clos St. Jacques – “The Second Best Wine I Ever Made” – 2018 Spätburgunder Centgrafenberg “J*"
 url: https://www.fassselections.com/blog/christoph-walters-clos-st-jacques-the-second-best-wine-i-ever-made-2018-spatburgunder-centgrafenberg-j/
-date: ""
+date: "2023-11-18"
 producer: ""
 categories: []
 word_count: 1644
-fetched_at: "2026-05-05T09:57:41+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # Christoph Walter’s Clos St. Jacques – “The Second Best Wine I Ever Made” – 2018 Spätburgunder Centgrafenberg “J*

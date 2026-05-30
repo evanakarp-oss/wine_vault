@@ -26,6 +26,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 2
     first_year: 2021
@@ -44,7 +49,6 @@ berserkers_kelley_body:
     - {date: "2022-01-09", url: "https://www.wineberserkers.com/t/white-burgundy-15-years-on/176078/91"}
     - {date: "2021-07-20", url: "https://www.wineberserkers.com/t/help-me-understand-a-wine-critic-william-kelley-the-wine-advocate/172171/18"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Jean Javillier

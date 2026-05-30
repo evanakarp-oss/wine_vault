@@ -29,6 +29,11 @@ retailers:
     price_max: 99.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 12
     first_year: 2019
@@ -49,7 +54,6 @@ berserkers_kelley_body:
     - {date: "2021-09-14", url: "https://www.wineberserkers.com/t/who-is-right-same-bottle-rated-88-to-97-within-3-years/173448/24"}
     - {date: "2021-09-02", url: "https://www.wineberserkers.com/t/what-wine-from-the-cote-chalonnaise-have-you-had-lately/173164/10"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Bruno Lorenzon

@@ -3,11 +3,11 @@ type: fass_article
 slug: intellectual-interest-wrapped-in-hedonism-98-points-one-of-germanys-great-vineyards
 title: "Intellectual Interest Wrapped in Hedonism – 98 Points, One of Germany’s Great Vineyards"
 url: https://www.fassselections.com/blog/intellectual-interest-wrapped-in-hedonism-98-points-one-of-germanys-great-vineyards/
-date: ""
+date: "2023-10-20"
 producer: ""
 categories: []
 word_count: 1836
-fetched_at: "2026-05-05T09:59:18+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # Intellectual Interest Wrapped in Hedonism – 98 Points, One of Germany’s Great Vineyards

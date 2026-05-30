@@ -3,11 +3,11 @@ type: fass_article
 slug: my-first-fass-selections-wine-a-collaboration-with-charlie-the-apogee-of-fassiness-of-course-one-of-the-great-values-weve-sold
 title: "My First Fass Selections Wine – A Collaboration with Charlie – The Apogee of Fassiness, Of Course, One of the Great Values We’ve Sold"
 url: https://www.fassselections.com/blog/my-first-fass-selections-wine-a-collaboration-with-charlie-the-apogee-of-fassiness-of-course-one-of-the-great-values-weve-sold/
-date: ""
+date: "2023-11-25"
 producer: ""
 categories: []
 word_count: 1360
-fetched_at: "2026-05-05T09:59:52+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # My First Fass Selections Wine – A Collaboration with Charlie – The Apogee of Fassiness, Of Course, One of the Great Values We’ve Sold

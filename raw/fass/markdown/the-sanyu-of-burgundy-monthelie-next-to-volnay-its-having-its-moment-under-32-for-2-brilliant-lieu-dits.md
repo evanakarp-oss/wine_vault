@@ -3,11 +3,11 @@ type: fass_article
 slug: the-sanyu-of-burgundy-monthelie-next-to-volnay-its-having-its-moment-under-32-for-2-brilliant-lieu-dits
 title: "The Sanyu of Burgundy? Monthelie, Next to Volnay – It’s Having It’s Moment – Under $32 for 2 Brilliant Lieu-Dits"
 url: https://www.fassselections.com/blog/the-sanyu-of-burgundy-monthelie-next-to-volnay-its-having-its-moment-under-32-for-2-brilliant-lieu-dits/
-date: ""
+date: "2024-01-09"
 producer: ""
 categories: []
 word_count: 1704
-fetched_at: "2026-05-05T10:03:29+00:00"
+fetched_at: "2026-05-30T11:42:17+00:00"
 ---
 
 # The Sanyu of Burgundy? Monthelie, Next to Volnay – It’s Having It’s Moment – Under $32 for 2 Brilliant Lieu-Dits

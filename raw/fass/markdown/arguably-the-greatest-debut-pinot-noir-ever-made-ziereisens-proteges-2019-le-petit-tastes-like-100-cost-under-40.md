@@ -3,11 +3,11 @@ type: fass_article
 slug: arguably-the-greatest-debut-pinot-noir-ever-made-ziereisens-proteges-2019-le-petit-tastes-like-100-cost-under-40
 title: "Arguably the Greatest Debut Pinot Noir Ever Made – Ziereisen’s Protege’s 2019 Le Petit – Tastes Like $100+, Cost Under $40"
 url: https://www.fassselections.com/blog/arguably-the-greatest-debut-pinot-noir-ever-made-ziereisens-proteges-2019-le-petit-tastes-like-100-cost-under-40/
-date: ""
+date: "2024-06-13"
 producer: ""
 categories: []
 word_count: 1255
-fetched_at: "2026-05-05T09:57:14+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # Arguably the Greatest Debut Pinot Noir Ever Made – Ziereisen’s Protege’s 2019 Le Petit – Tastes Like $100+, Cost Under $40

@@ -3,11 +3,11 @@ type: fass_article
 slug: a-portoflio-balancing-day-for-the-price-of-molsheim-96-97-point-single-vineyard-gg-style-rieslings-from-thorle-under-40-stock-up
 title: "A Portoflio Balancing Day – For the Price of Molsheim, 96/97 Point Single Vineyard GG Style Rieslings from Thorle – Under $40, Stock Up!"
 url: https://www.fassselections.com/blog/a-portoflio-balancing-day-for-the-price-of-molsheim-96-97-point-single-vineyard-gg-style-rieslings-from-thorle-under-40-stock-up/
-date: ""
+date: "2024-05-14"
 producer: ""
 categories: []
 word_count: 2062
-fetched_at: "2026-05-05T09:56:43+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # A Portoflio Balancing Day – For the Price of Molsheim, 96/97 Point Single Vineyard GG Style Rieslings from Thorle – Under $40, Stock Up!

@@ -3,11 +3,11 @@ type: fass_article
 slug: an-old-school-fass-selections-producer-with-revirand-top-10-in-st-joseph-96-points-2019-the-elegant-st-epine-style
 title: "An Old School Fass Selections Producer  – With Revirand – Top 10 in St. Joseph, 96 Points (2019) – The Elegant, St. Epine Style"
 url: https://www.fassselections.com/blog/an-old-school-fass-selections-producer-with-revirand-top-10-in-st-joseph-96-points-2019-the-elegant-st-epine-style/
-date: ""
+date: "2023-11-26"
 producer: ""
 categories: []
 word_count: 1474
-fetched_at: "2026-05-05T09:57:02+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # An Old School Fass Selections Producer  – With Revirand – Top 10 in St. Joseph, 96 Points (2019) – The Elegant, St. Epine Style

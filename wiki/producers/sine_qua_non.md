@@ -29,6 +29,11 @@ retailers:
     price_max: 999.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
 tags: ['california', 'cult', 'rhone-style', 'syrah', 'grenache']
 _sources: ["raeders_compile_curated_v2:2026-04-25"]
 ---

@@ -3,11 +3,11 @@ type: fass_article
 slug: aged-german-corton-charlemagne-ready-to-drink-and-shows-the-brilliant-heights-that-mature-gut-hermannsberg-2018-can-reach
 title: "Aged “German Corton Charlemagne” – Ready to Drink and Shows the Brilliant Heights That Mature Gut Hermannsberg (2018) Can Reach"
 url: https://www.fassselections.com/blog/aged-german-corton-charlemagne-ready-to-drink-and-shows-the-brilliant-heights-that-mature-gut-hermannsberg-2018-can-reach/
-date: ""
+date: "2024-03-25"
 producer: ""
 categories: []
 word_count: 1397
-fetched_at: "2026-05-05T09:56:54+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # Aged “German Corton Charlemagne” – Ready to Drink and Shows the Brilliant Heights That Mature Gut Hermannsberg (2018) Can Reach

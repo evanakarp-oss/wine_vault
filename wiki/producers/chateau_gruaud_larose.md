@@ -30,6 +30,11 @@ retailers:
     price_max: 499.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 2
     first_year: 2015
@@ -53,7 +58,6 @@ berserkers_kelley_body:
     - {date: "2021-09-06", url: "https://www.wineberserkers.com/t/lagrange-gruaud-larose-st-pierre-and-gpl-2006/173094/32"}
     - {date: "2021-09-01", url: "https://www.wineberserkers.com/t/lagrange-gruaud-larose-st-pierre-and-gpl-2006/173094/22"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Château Gruaud-Larose

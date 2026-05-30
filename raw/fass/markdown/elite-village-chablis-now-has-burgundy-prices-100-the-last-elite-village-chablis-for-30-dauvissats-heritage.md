@@ -3,11 +3,11 @@ type: fass_article
 slug: elite-village-chablis-now-has-burgundy-prices-100-the-last-elite-village-chablis-for-30-dauvissats-heritage
 title: "Elite Village Chablis Now Has Burgundy Prices ($100+) – The Last Elite Village Chablis for $30 – Dauvissat’s Heritage"
 url: https://www.fassselections.com/blog/elite-village-chablis-now-has-burgundy-prices-100-the-last-elite-village-chablis-for-30-dauvissats-heritage/
-date: ""
+date: "2024-01-04"
 producer: ""
 categories: []
 word_count: 1315
-fetched_at: "2026-05-05T09:57:58+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # Elite Village Chablis Now Has Burgundy Prices ($100+) – The Last Elite Village Chablis for $30 – Dauvissat’s Heritage

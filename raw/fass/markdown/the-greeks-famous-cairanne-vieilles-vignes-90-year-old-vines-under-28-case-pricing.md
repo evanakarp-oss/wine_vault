@@ -3,11 +3,11 @@ type: fass_article
 slug: the-greeks-famous-cairanne-vieilles-vignes-90-year-old-vines-under-28-case-pricing
 title: "The Greek’s Famous Cairanne Vieilles Vignes – 90 Year Old Vines – Under $28 Case Pricing"
 url: https://www.fassselections.com/blog/the-greeks-famous-cairanne-vieilles-vignes-90-year-old-vines-under-28-case-pricing/
-date: ""
+date: "2024-05-29"
 producer: ""
 categories: []
 word_count: 1482
-fetched_at: "2026-05-05T10:02:46+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The Greek’s Famous Cairanne Vieilles Vignes – 90 Year Old Vines – Under $28 Case Pricing

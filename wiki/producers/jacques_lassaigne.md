@@ -26,6 +26,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -42,7 +47,6 @@ berserkers_kelley_body:
   recent_posts:
     - {date: "2021-06-13", url: "https://www.wineberserkers.com/t/tn-2014-jacques-lassaigne-champagne-autour-de-minuit-les-paluets-france-champagne/171355/4"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Jacques Lassaigne

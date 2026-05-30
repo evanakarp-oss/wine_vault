@@ -26,6 +26,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 1
     first_year: 2022
@@ -43,7 +48,6 @@ berserkers_kelley_body:
     - {date: "2022-01-06", url: "https://www.wineberserkers.com/t/clos-de-vougeot-rising-stars/176055/18"}
     - {date: "2017-11-08", url: "https://www.wineberserkers.com/t/2015-arnoux/137497/34"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Michel Noellat

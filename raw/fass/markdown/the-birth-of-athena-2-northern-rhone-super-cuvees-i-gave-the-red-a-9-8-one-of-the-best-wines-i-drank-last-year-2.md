@@ -3,11 +3,11 @@ type: fass_article
 slug: the-birth-of-athena-2-northern-rhone-super-cuvees-i-gave-the-red-a-9-8-one-of-the-best-wines-i-drank-last-year-2
 title: "The Birth of Athena – 2 Northern Rhone Super Cuvees – I Gave the Red a 9.8 – One of the Best Wines I Drank Last Year!"
 url: https://www.fassselections.com/blog/the-birth-of-athena-2-northern-rhone-super-cuvees-i-gave-the-red-a-9-8-one-of-the-best-wines-i-drank-last-year-2/
-date: ""
+date: "2024-04-10"
 producer: ""
 categories: []
 word_count: 2184
-fetched_at: "2026-05-05T10:02:06+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The Birth of Athena – 2 Northern Rhone Super Cuvees – I Gave the Red a 9.8 – One of the Best Wines I Drank Last Year!

@@ -3,11 +3,11 @@ type: fass_article
 slug: a-top-10-riesling-in-germany-holle-psychotically-dense-complex-fine-98-points-for-the-2022-will-stand-against-any-german-riesling-bring-it
 title: "A Top 10 Riesling in Germany: Holle – Psychotically, Dense, Complex, Fine – 98 Points for the 2022 – Will Stand Against Any German Riesling – Bring it"
 url: https://www.fassselections.com/blog/a-top-10-riesling-in-germany-holle-psychotically-dense-complex-fine-98-points-for-the-2022-will-stand-against-any-german-riesling-bring-it/
-date: ""
+date: "2023-10-23"
 producer: ""
 categories: []
 word_count: 1625
-fetched_at: "2026-05-05T09:56:48+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # A Top 10 Riesling in Germany: Holle – Psychotically, Dense, Complex, Fine – 98 Points for the 2022 – Will Stand Against Any German Riesling – Bring it

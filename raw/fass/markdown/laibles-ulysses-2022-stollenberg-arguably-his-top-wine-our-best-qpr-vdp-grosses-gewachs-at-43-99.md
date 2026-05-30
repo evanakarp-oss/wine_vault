@@ -3,11 +3,11 @@ type: fass_article
 slug: laibles-ulysses-2022-stollenberg-arguably-his-top-wine-our-best-qpr-vdp-grosses-gewachs-at-43-99
 title: "Laible’s Ulysses – 2022 Stollenberg – Arguably His Top Wine – Our Best QPR VDP Grosses Gewachs at $43.99"
 url: https://www.fassselections.com/blog/laibles-ulysses-2022-stollenberg-arguably-his-top-wine-our-best-qpr-vdp-grosses-gewachs-at-43-99/
-date: ""
+date: "2024-03-21"
 producer: ""
 categories: []
 word_count: 1532
-fetched_at: "2026-05-05T09:59:35+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # Laible’s Ulysses – 2022 Stollenberg – Arguably His Top Wine – Our Best QPR VDP Grosses Gewachs at $43.99

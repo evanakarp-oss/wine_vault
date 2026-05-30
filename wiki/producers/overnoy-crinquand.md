@@ -35,6 +35,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -51,7 +56,6 @@ berserkers_kelley_body:
   recent_posts:
     - {date: "2018-03-04", url: "https://www.wineberserkers.com/t/tn-2015-overnoy-crinquand-ploussard/141068/3"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Overnoy-Crinquand

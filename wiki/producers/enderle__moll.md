@@ -29,6 +29,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: true
+    article_count: 23
+    dedicated_count: 8
+    first_year: 2023
+    last_year: 2024
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -99,3 +104,120 @@ _Not yet populated._
 - [[Germany_Producers|Germany]]
 - [[Baden]]
 - [[CSW Article Archive]]
+
+## FASS Write-ups
+
+### [The Next German Cult Wine – Reminds Me of Prieure Roche – JVM’s Song Wine – Collector’s Item for Spatburgunder Lovers](https://www.fassselections.com/blog/the-next-german-cult-wine-reminds-me-of-prieure-roche-jvms-song-wine-collectors-item-for-spatburgunder-lovers-2/)
+*2024-06*
+
+> #### Jürgen Von der Mark – Fewer Than 500 People Have Passed the Master of Wine Exam – One of the Top Wine Tasting Palates on Earth – He Intentionally Under Prices His Wines to Make Sales Easy – To Create A Thing It Is Necessary to Know the Thing – The…
+
+### ★ [“A New Genre of Wines” – The Category Defining Grand Cru Whites from Enderle & Moll – Arguably the Best Natural Whites in the World](https://www.fassselections.com/blog/a-new-genre-of-wines-the-category-defining-grand-cru-whites-from-enderle-moll-arguably-the-best-natural-whites-in-the-world-2/)
+*2024-06*
+
+> #### Enderle & Moll Whites – Huge Cult Following for the Standard Ones – They Finally Made Ageworthy Super Cuvees of the Whites – Florian Thinks Easily the Best Whites He’s Ever Made #### The Style – A Strong Burgundian Sensibility – The Terroir Shines…
+
+### [The OG Mosel Pinot Noir – Spater-Veit’s Brilliant Reserve from the Decennial 2015 Vintage – $29.99 CASE PRICING](https://www.fassselections.com/blog/the-og-mosel-pinot-noir-spater-veits-brilliant-reserve-from-the-decennial-2015-vintage-29-99-case-pricing/)
+*2024-05*
+
+> #### The Perfect Storm of Value – Estate Is Famous for Its Rieslings – Small Batch Pinot Noirs of Fantastic Quality – Totally Under the Radar – No One Thinks of the Mosel for Pinot Noir – A Hot Year in a Very Cool Climate – In Normal Years, 1er Cru Quality –…
+
+### ★ [“A New Genre of Wines” – The Category Defining Grand Cru Whites from Enderle & Moll – Arguably the Best Natural Whites in the World](https://www.fassselections.com/blog/a-new-genre-of-wines-the-category-defining-grand-cru-whites-from-enderle-moll-arguably-the-best-natural-whites-in-the-world/)
+*2024-05*
+
+> #### Enderle & Moll Whites – Huge Cult Following for the Standard Ones – They Finally Made Ageworthy Super Cuvees of the Whites – Florian Thinks Easily the Best Whites He’s Ever Made #### The Style – A Strong Burgundian Sensibility – The Terroir Shines…
+
+### [The First Grand Cru Offer in the World from Sven Enderle’s New Estate – One of the Laciest Pinot Noirs I’ve Ever Had](https://www.fassselections.com/blog/the-first-grand-cru-offer-in-the-world-from-sven-enderles-new-estate-one-of-the-laciest-pinot-noirs-ive-ever-had-3/)
+*2024-04*
+
+> #### Sven Enderle – The Founder of Germany’s Top Cult Pinot Noir Producer Enderle & Moll – From One Brilliant Estate, Now We have Two – His Debut Wine in His Debut Vintage – The First Offer in the World #### 2022 Sven Enderle Pinot Noir Vom Keuper – The First…
+
+### [The Best Value German Pinot Maybe…Ever? – On Time Travel, Value and Complexity – A New Entry in Best Value Pinot Noir in Germany Sweepstakes](https://www.fassselections.com/blog/the-best-value-german-pinot-maybe-ever-on-time-travel-value-and-complexity-a-new-entry-in-best-value-pinot-noir-in-germany-sweepstakes/)
+*2024-04*
+
+> #### Jürgen Von der Mark – Fewer Than 500 People Have Passed the Master of Wine Exam – One of the Top Wine Tasting Palates on Earth – He Intentionally Under Prices His Wines to Make Sales Easy – To Create A Thing It Is Necessary to Know the Thing – The…
+
+### [The Next German Cult Wine – Reminds Me of Prieure Roche – JVM’s Song Wine – Collector’s Item for Spatburgunder Lovers](https://www.fassselections.com/blog/the-next-german-cult-wine-reminds-me-of-prieure-roche-jvms-song-wine-collectors-item-for-spatburgunder-lovers/)
+*2024-04*
+
+> #### Jürgen Von der Mark – Fewer Than 500 People Have Passed the Master of Wine Exam – One of the Top Wine Tasting Palates on Earth – He Intentionally Under Prices His Wines to Make Sales Easy – To Create A Thing It Is Necessary to Know the Thing – The…
+
+### ★ [Enderle & Moll’s – 22 Liason – the Best Since 18 – Our Biggest Selling Red Wine – An Iconic German Pinot Noir + Insane Value White – $17.99 a Case!](https://www.fassselections.com/blog/enderle-molls-22-liason-the-best-since-18-our-biggest-selling-red-wine-an-iconic-german-pinot-noir-insane-value-white-17-99-a-case/)
+*2024-04*
+
+> #### The Cult of Enderle & Moll – As Close to Art As Wine Can Get – Yes, Their Wines Are Delicious… – But in a Totally Different Way from Anything, Anywhere in Germany or Burgundy – So Culty, All of Their Single Vinevard Cuvees Have Been Allocated for Years…
+
+### ★ [Special Enderle & Moll Grand Cru Back Vintages From Florian Moll’s Personal Stash](https://www.fassselections.com/blog/special-enderle-moll-grand-cru-back-vintages-from-florian-molls-personal-stash/)
+*2024-03*
+
+> #### #### The Top Bottlng of of Cult Producer Enderle & Moll – From the Cellar – Among the Hardest to Get Wines in Germany – Perhaps Our Most Distinctive Pinot Noirs – These Wines Can Be Pure Magic #### 2018 Enderle & Moll Pinot Noir Muschelkalk – 36 bottles…
+
+### ★ [The Cultiest Wines that We Sell – 2022 Enderle & Moll Muschelkalk and Bundstanstei](https://www.fassselections.com/blog/the-cultiest-wines-that-we-sell-2022-enderle-moll-muschelkalk-and-bundstanstei/)
+*2024-03*
+
+> #### The Top 2 Bottlings in 2022 of Cult Producer Enderle & Moll – Among the Hardest to Get Wines in Germany – Perhaps Our Most Distinctive Pinot Noirs – These Wines Can Be Pure Magic #### 2022 Enderle & Moll Muschelkalk #### 2022 Enderle & Moll…
+
+### [The First Grand Cru Offer in the World from Sven Enderle’s New Estate – One of the Laciest Pinot Noirs I’ve Ever Had](https://www.fassselections.com/blog/the-first-grand-cru-offer-in-the-world-from-sven-enderles-new-estate-one-of-the-laciest-pinot-noirs-ive-ever-had/)
+*2024-03*
+
+> #### Sven Enderle – The Founder of Germany’s Top Cult Pinot Noir Producer Enderle & Moll – From One Brilliant Estate, Now We have Two – His Debut Wine in His Debut Vintage – The First Offer in the World #### 2022 Sven Enderle Pinot Noir Vom Keuper – The First…
+
+### [The First Grand Cru Offer in the World from Sven Enderle’s New Estate – One of the Laciest Pinot Noirs I’ve Ever Had](https://www.fassselections.com/blog/the-first-grand-cru-offer-in-the-world-from-sven-enderles-new-estate-one-of-the-laciest-pinot-noirs-ive-ever-had-2/)
+*2024-03*
+
+> #### Sven Enderle – The Founder of Germany’s Top Cult Pinot Noir Producer Enderle & Moll – From One Brilliant Estate, Now We have Two – His Debut Wine in His Debut Vintag – The First Offer in the World #### 2022 Sven Enderle Pinot Noir Vom Keuper – The First…
+
+### [Two Very Important Wines (Pinot Noir and a White) from Ziereiesen’s Protege, The Pinot Is a No Brainer the White Is a Sleeper Genius Wine](https://www.fassselections.com/blog/two-very-important-wines-pinot-noir-and-a-white-from-ziereiesens-protege-the-pinot-is-a-no-brainer-the-white-is-a-sleeper-genius-wine-2/)
+*2024-03*
+
+> #### Max Geitlinger – I Thought He Was Just a Pinot Noir Phenom … – I Was Wrong, Very Very Wrong – A Ziereisen-Like Ability to Make Brilliant Wines from Anything – These Are to the Entire List – His Uber Rare Wines will Be Allocated to His Best Customers…
+
+### [On Time Travel, Value and CompOn Time Travel, Value and Complexity – A New Entry in Best Value Pinot Noir in Germany Sweepstakeslexity – A New Entry in Best Value Pinot Noir in Germany Sweepstakes](https://www.fassselections.com/blog/on-time-travel-value-and-compon-time-travel-value-and-complexity-a-new-entry-in-best-value-pinot-noir-in-germany-sweepstakeslexity-a-new-entry-in-best-value-pinot-noir-in-germany-sweepstakes/)
+*2024-03*
+
+> #### Jürgen Von der Mark – Fewer Than 500 People Have Passed the Master of Wine Exam – One of the Top Wine Tasting Palates on Earth – He Intentionally Under Prices His Wines to Make Sales Easy – To Create A Thing It Is Necessary to Know the Thing – The…
+
+### [The Day Has Finally Arrived – Sven Enderle’s New Estate ﻿- First Global Offer of His First Pinot Noir](https://www.fassselections.com/blog/the-day-has-finally-arrived-sven-enderles-new-estate-first-global-offer-of-his-first-pinot-noir-2/)
+*2024-03*
+
+> #### #### Sven Enderle – The Founder of Germany’s Top Cult Pinot Noir Producer Enderle & Moll – From One Brilliant Estate, Now We have Two – His Debut Wine in His Debut Vintage – The First Offer in the World #### 2022 Sven Enderle Pinot Noir – The First Offer…
+
+### [Two Very Important Wines (Pinot Noir and a White) from Ziereiesen’s Protege, The Pinot Is a No Brainer the White Is a Sleeper Genius Wine](https://www.fassselections.com/blog/two-very-important-wines-pinot-noir-and-a-white-from-ziereiesens-protege-the-pinot-is-a-no-brainer-the-white-is-a-sleeper-genius-wine/)
+*2024-02*
+
+> #### Max Geitlinger – I Thought He Was Just a Pinot Noir Phenom … – I Was Wrong, Very Very Wrong – A Ziereisen-Like Ability to Make Brilliant Wines from Anything – These Are to the Entire List – His Uber Rare Wines will Be Allocated to His Best Customers…
+
+### [The Biggest Sleeper German Pinot in Our Book – The Quiet Genius](https://www.fassselections.com/blog/the-biggest-sleeper-german-pinot-in-our-book-the-quiet-genius/)
+*2024-01*
+
+> ##### 2021 Sven Klundt Kastanienbusch Pinot Noir – Delicious, and Very Interesting in a Unique Way – Fantastic Out of the Gate – Nose: Deep, Ripe, Pinot Noir Perfume – Layered, Deep and Precise – Cherries, Licorice, Spice, Minerals – Smells Like Very Good 1er…
+
+### [German Selosse is Back! – Late Disgorged Aufricht – The Most Elegant German Sparkling Wine I’ve Ever Had](https://www.fassselections.com/blog/german-selosse-is-back-late-disgorged-aufricht-the-most-elegant-german-sparkling-wine-ive-ever-had/)
+*2023-11*
+
+> ##### “from-zero-to-top producer” Stephan Reinhardt, Wine Advocate 2020 Aufricht Blanc de Blancs Brut Nature OCTOBER 2023 Disgorgement – Micro Production – Champagne Geeks Are Going to Go Crazy Over This Wine – Brut Nature – Remarkable Angularity and…
+
+### [The Day Has Finally Arrived – Sven Enderle’s New Estate ﻿- First Global Offer of His First Pinot Noir](https://www.fassselections.com/blog/the-day-has-finally-arrived-sven-enderles-new-estate-first-global-offer-of-his-first-pinot-noir/)
+*2023-11*
+
+> ##### Sven Enderle – The Founder of Germany’s Top Cult Pinot Noir Producer Enderle & Moll – From One Brilliant Estate, Now We have Two – His Debut Wine in His Debut Vintage – The First Offer in the World ##### 2022 Sven Enderle Pinot Noir – The First Offer in…
+
+### ★ [The Pinot Noir for a Price You Don’t Have to Think About for Any Wine You’ll Ever Buy – Enderle & Moll’s Basis](https://www.fassselections.com/blog/the-pinot-noir-for-a-price-you-dont-have-to-think-about-for-any-wine-youll-ever-buy-enderle-molls-basis/)
+*2023-11*
+
+> **The 2022 Vintage at Enderle & Moll** **– “Mr. X” Has Had More Enderle & Moll Than Any Collector on Earth** **– He Says That 2022 Is Their Best Vintage Yet – I Agree!** **– It Still Has The Magic Wonder of Enderle & Moll** **– But It’s Deeper, Darker and…
+
+### ★ [The Cultiest Wines that We Sell – 2022 Enderle & Moll Muschelkalk and Bundstanstein](https://www.fassselections.com/blog/the-cultiest-wines-that-we-sell-2022-enderle-moll-muschelkalk-and-bundstanstein/)
+*2023-10*
+
+> **The Top 2 Bottlings in 2022 of Cult Producer Enderle & Moll** **– Among the Hardest to Get Wines in Germany** **– Perhaps Our Most Distinctive Pinot Noirs** **– These Wines Can Be Pure Magic** **2022 Enderle & Moll Muschelkalk** **2022 Enderle & Moll…
+
+### ★ [Tiny Allocation of One of the Hardest to Get and Best Pinots in Germany + Grand Cru Chablis (German Style!)- The Cultiest Wine from the Enderle & Moll of Franken](https://www.fassselections.com/blog/tiny-allocation-of-one-of-the-hardest-to-get-and-best-pinots-in-germany-grand-cru-chablis-german-style-the-cultiest-wine-from-the-enderle-moll-of-franken/)
+*2023-10*
+
+> **Richard Oestreicher: Sven Enderle without the Beard** **– Certified Organic** **– No Pumps Used at All** **– No Temperature Controlled Fermentation** **– Cult, Cult, Cult** **– Sold to the Top German Collectors** **– We Had to Beg for Puny Allocations** **–…
+
+### [Pico Production, Pico Yielding Genius Wines – Yes 2020 Is the Current Release](https://www.fassselections.com/blog/pico-production-pico-yielding-genius-wines-yes-2020-is-the-current-release/)
+*2023-10*
+
+> ##### Vincent Ledy ##### – Very, Very Serious Winemaker – Hovers Over Every Vine – Makes Very Few Bottlings and Releases Late – With Age, These Wines Are Top, Top Tier – Imported by the Same Importer As Domaine Leroy… ##### The Client X Tasting ( Important )…

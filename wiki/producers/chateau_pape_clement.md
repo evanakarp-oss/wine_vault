@@ -30,6 +30,11 @@ retailers:
     price_max: 0
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 13
     first_year: 2015
@@ -53,7 +58,6 @@ berserkers_kelley_body:
     - {date: "2022-01-04", url: "https://www.wineberserkers.com/t/do-you-treat-old-bordeaux-like-burgundy/175979/17"}
     - {date: "2017-05-30", url: "https://www.wineberserkers.com/t/i-really-like-1970-bordeaux/133272/22"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Château Pape Clément

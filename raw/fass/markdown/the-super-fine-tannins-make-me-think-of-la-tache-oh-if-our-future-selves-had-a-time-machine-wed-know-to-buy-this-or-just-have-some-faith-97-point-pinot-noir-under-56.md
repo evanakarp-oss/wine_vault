@@ -3,11 +3,11 @@ type: fass_article
 slug: the-super-fine-tannins-make-me-think-of-la-tache-oh-if-our-future-selves-had-a-time-machine-wed-know-to-buy-this-or-just-have-some-faith-97-point-pinot-noir-under-56
 title: "“. . .the super-fine tannins make me think of La Tache.” – Oh if Our Future Selves Had a Time Machine – We’d Know to Buy This (or Just Have Some Faith) – 97 Point Pinot Noir Under $56"
 url: https://www.fassselections.com/blog/the-super-fine-tannins-make-me-think-of-la-tache-oh-if-our-future-selves-had-a-time-machine-wed-know-to-buy-this-or-just-have-some-faith-97-point-pinot-noir-under-56/
-date: ""
+date: "2024-04-17"
 producer: ""
 categories: []
 word_count: 1509
-fetched_at: "2026-05-05T10:03:32+00:00"
+fetched_at: "2026-05-30T11:42:17+00:00"
 ---
 
 # “. . .the super-fine tannins make me think of La Tache.” – Oh if Our Future Selves Had a Time Machine – We’d Know to Buy This (or Just Have Some Faith) – 97 Point Pinot Noir Under $56

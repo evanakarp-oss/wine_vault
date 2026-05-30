@@ -32,6 +32,11 @@ retailers:
     price_max: 199.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 1
     first_year: 2021
@@ -52,7 +57,6 @@ berserkers_kelley_body:
   recent_posts:
     - {date: "2021-07-28", url: "https://www.wineberserkers.com/t/undervalued-underappreciated-vintages/172351/45"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Château Smith-Haut-Lafitte

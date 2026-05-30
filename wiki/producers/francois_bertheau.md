@@ -26,6 +26,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 1
     first_year: 2023
@@ -46,7 +51,6 @@ berserkers_kelley_body:
     - {date: "2020-11-19", url: "https://www.wineberserkers.com/t/tn-2018-francois-bertheau-chambolle-musigny/165385/9"}
     - {date: "2020-11-18", url: "https://www.wineberserkers.com/t/tn-2018-francois-bertheau-chambolle-musigny/165385/5"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Francois Bertheau

@@ -3,11 +3,11 @@ type: fass_article
 slug: from-the-estate-behind-neal-martins-sparkling-wine-of-the-year-a-stunning-complex-blancs-de-blancs-champagne
 title: "From the Estate Behind Neal Martin’s Sparkling wine of the Year, a Stunning, Complex Blancs de Blancs Champagne"
 url: https://www.fassselections.com/blog/from-the-estate-behind-neal-martins-sparkling-wine-of-the-year-a-stunning-complex-blancs-de-blancs-champagne/
-date: ""
+date: "2024-05-01"
 producer: ""
 categories: []
 word_count: 1538
-fetched_at: "2026-05-05T09:58:20+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # From the Estate Behind Neal Martin’s Sparkling wine of the Year, a Stunning, Complex Blancs de Blancs Champagne

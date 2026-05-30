@@ -3,11 +3,11 @@ type: fass_article
 slug: new-yorks-most-heralded-northen-italian-retailer-motalli-renato-is-your-greatest-discovery-i-wish-i-had-found-them-myself-corrected
 title: "New York’s Most Heralded Northen Italian Retailer: “Motalli Renato is your greatest discovery – I wish I had found them myself.” (CORRECTED)"
 url: https://www.fassselections.com/blog/new-yorks-most-heralded-northen-italian-retailer-motalli-renato-is-your-greatest-discovery-i-wish-i-had-found-them-myself-corrected/
-date: ""
+date: "2024-04-03"
 producer: ""
 categories: []
 word_count: 2899
-fetched_at: "2026-05-05T09:59:58+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # New York’s Most Heralded Northen Italian Retailer: “Motalli Renato is your greatest discovery – I wish I had found them myself.” (CORRECTED)

@@ -3,11 +3,11 @@ type: fass_article
 slug: the-quintessential-volnay-1er-cru-the-great-champans-from-buffet-absurdly-low-price-91-93-bh-incredible-village-volnay-89-91-bh
 title: "The Quintessential Volnay 1er Cru – The Great Champans from Buffet – Absurdly Low Price – 91-93 BH + Incredible Village Volnay – 89-91 BH"
 url: https://www.fassselections.com/blog/the-quintessential-volnay-1er-cru-the-great-champans-from-buffet-absurdly-low-price-91-93-bh-incredible-village-volnay-89-91-bh/
-date: ""
+date: "2024-04-18"
 producer: ""
 categories: []
 word_count: 1782
-fetched_at: "2026-05-05T10:03:21+00:00"
+fetched_at: "2026-05-30T11:42:17+00:00"
 ---
 
 # The Quintessential Volnay 1er Cru – The Great Champans from Buffet – Absurdly Low Price – 91-93 BH + Incredible Village Volnay – 89-91 BH

@@ -3,11 +3,11 @@ type: fass_article
 slug: 56-99-for-elite-bdb-2017-caillez-lemaire-chardonnay-de-la-valle-blancs-de-blancs-brut-nature-maybe-their-best-wine
 title: "$56.99 for Elite BdB – 2017 Caillez Lemaire Chardonnay de la Valle Blancs de Blancs Brut Nature – Maybe Their Best Wine"
 url: https://www.fassselections.com/blog/56-99-for-elite-bdb-2017-caillez-lemaire-chardonnay-de-la-valle-blancs-de-blancs-brut-nature-maybe-their-best-wine/
-date: ""
+date: "2024-01-20"
 producer: ""
 categories: []
 word_count: 1462
-fetched_at: "2026-05-05T09:55:52+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # $56.99 for Elite BdB – 2017 Caillez Lemaire Chardonnay de la Valle Blancs de Blancs Brut Nature – Maybe Their Best Wine

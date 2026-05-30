@@ -3,11 +3,11 @@ type: fass_article
 slug: the-masterful-winemaking-of-jj-girard-with-fantastic-pinot-noir-terroir-1er-cru-beaune-an-insane-value-and-volnay
 title: "The Masterful Winemaking of JJ Girard with Fantastic Pinot Noir Terroir – 1er Cru Beaune (An Insane value) and Volnay"
 url: https://www.fassselections.com/blog/the-masterful-winemaking-of-jj-girard-with-fantastic-pinot-noir-terroir-1er-cru-beaune-an-insane-value-and-volnay/
-date: ""
+date: "2023-10-13"
 producer: ""
 categories: []
 word_count: 2025
-fetched_at: "2026-05-05T10:03:04+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The Masterful Winemaking of JJ Girard with Fantastic Pinot Noir Terroir – 1er Cru Beaune (An Insane value) and Volnay

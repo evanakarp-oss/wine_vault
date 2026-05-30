@@ -3,11 +3,11 @@ type: fass_article
 slug: new-guest-offer-my-kindred-spirit-dave-desimeone-the-brilliance-of-buffet-village-and-1er-cru-pommard
 title: "New Guest Offer – My Kindred Spirit – Dave DeSimeone – The Brilliance of Buffet – Village and 1er Cru Pommard"
 url: https://www.fassselections.com/blog/new-guest-offer-my-kindred-spirit-dave-desimeone-the-brilliance-of-buffet-village-and-1er-cru-pommard/
-date: ""
+date: "2024-04-30"
 producer: ""
 categories: []
 word_count: 1926
-fetched_at: "2026-05-05T09:59:55+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # New Guest Offer – My Kindred Spirit – Dave DeSimeone – The Brilliance of Buffet – Village and 1er Cru Pommard

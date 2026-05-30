@@ -3,11 +3,11 @@ type: fass_article
 slug: arguably-the-italian-wine-with-the-greatest-combination-of-elegance-density-and-balance-in-our-portfolio
 title: "Arguably the Italian Wine with the Greatest Combination of Elegance, Density and Balance in our Portfolio"
 url: https://www.fassselections.com/blog/arguably-the-italian-wine-with-the-greatest-combination-of-elegance-density-and-balance-in-our-portfolio/
-date: ""
+date: "2024-05-13"
 producer: ""
 categories: []
 word_count: 1950
-fetched_at: "2026-05-05T09:57:21+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # Arguably the Italian Wine with the Greatest Combination of Elegance, Density and Balance in our Portfolio

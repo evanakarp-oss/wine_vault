@@ -3,11 +3,11 @@ type: fass_article
 slug: laibles-achat-a-favorite-of-the-riesling-geeks-one-of-my-favorite-wines-a-work-of-art
 title: "Laible’s Achat – A Favorite of the Riesling Geeks, One of My Favorite Wines, A Work of Art"
 url: https://www.fassselections.com/blog/laibles-achat-a-favorite-of-the-riesling-geeks-one-of-my-favorite-wines-a-work-of-art/
-date: ""
+date: "2024-04-10"
 producer: ""
 categories: []
 word_count: 1551
-fetched_at: "2026-05-05T09:59:32+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # Laible’s Achat – A Favorite of the Riesling Geeks, One of My Favorite Wines, A Work of Art

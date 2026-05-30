@@ -3,11 +3,11 @@ type: fass_article
 slug: stefans-ode-to-coche-dury-his-meursault-1er-cru-perrieres-aka-hofberger-reserve-97-points-under-45-on-a-case-do-not-miss-thisstefans-ode-to-coche-dury-his-meursault-1er-cru-perrier
 title: "Stefan’s Ode to Coche-Dury – His “Meursault 1er Cru Perrieres” aka Hofberger Reserve- 97 Points, Under $45 On a Case – DO NOT MISS THIS!Stefan’s Ode to Coche-Dury – His “Meursault 1er Cru Perrieres” aka Hofberger Reserve- 97 Points, Under $45 On a Case – DO NOT MISS THIS!"
 url: https://www.fassselections.com/blog/stefans-ode-to-coche-dury-his-meursault-1er-cru-perrieres-aka-hofberger-reserve-97-points-under-45-on-a-case-do-not-miss-thisstefans-ode-to-coche-dury-his-meursault-1er-cru-perrier/
-date: ""
+date: "2024-04-02"
 producer: ""
 categories: []
 word_count: 1297
-fetched_at: "2026-05-05T10:01:32+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # Stefan’s Ode to Coche-Dury – His “Meursault 1er Cru Perrieres” aka Hofberger Reserve- 97 Points, Under $45 On a Case – DO NOT MISS THIS!Stefan’s Ode to Coche-Dury – His “Meursault 1er Cru Perrieres” aka Hofberger Reserve- 97 Points, Under $45 On a Case – DO NOT MISS THIS!

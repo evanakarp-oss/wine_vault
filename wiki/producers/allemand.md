@@ -30,6 +30,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 5
+    dedicated_count: 0
+    first_year: 2023
+    last_year: 2024
   berserkers_kelley:
     post_count: 8
     first_year: 2018
@@ -179,3 +184,30 @@ _Not yet populated._
 - [[Rhône_Producers|Rhône]]
 - [[Cornas]]
 - [[CSW Article Archive]]
+
+## FASS Write-ups
+
+### [The Best Quality Price Ratio in All of St. Joseph – Absurd These are $32 A Bottle](https://www.fassselections.com/blog/the-best-quality-price-ratio-in-all-of-st-joseph-absurd-these-are-32-a-bottle-2/)
+*2024-06*
+
+> #### 2022 Domaine Des Pierres Seches St. Joseph Rouge – Nose: A Fabulous Maelstrom – Dark Flowers – Spicy, Almost Black Fruits – Massive, Stunning – Elegant Olives – One Is Taken Back by the Beautiful Aromatic Spectrum – Explosive, Precise – Tiny Black Berry…
+
+### [The Best Quality Price Ratio in All of St. Joseph – Absurd These are $32 A Bottle](https://www.fassselections.com/blog/the-best-quality-price-ratio-in-all-of-st-joseph-absurd-these-are-32-a-bottle/)
+*2024-05*
+
+> #### 2022 Domaine Des Pierres Seches St. Joseph Rouge – Nose: A Fabulous Maelstrom – Dark Flowers – Spicy, Almost Black Fruits – Massive, Stunning – Elegant Olives – One Is Taken Back by the Beautiful Aromatic Spectrum – Explosive, Precise – Tiny Black Berry…
+
+### [The Birth of Athena – 2 Northern Rhone Super Cuvees – I Gave the Red a 9.8 – One of the Best Wines I Drank Last Year!](https://www.fassselections.com/blog/the-birth-of-athena-2-northern-rhone-super-cuvees-i-gave-the-red-a-9-8-one-of-the-best-wines-i-drank-last-year-2/)
+*2024-04*
+
+> #### #### 2021 Domaine des Pierres Seches St. Joseph Rouge “Cuvee 1930” – One of My Top Wines I Drank from Anywhere in 2023 (9.8/10) #### – One of the Best St. Jos I’ve Ever Had #### – From Vines Planted in 1930 – Now a Special Cuvee – A Stunning Wine of Epic…
+
+### [The Birth of Athena – 2 Northern Rhone Super Cuvees – I Gave the Red a 9.8 – One of the Best Wines I Drank Last Year!](https://www.fassselections.com/blog/the-birth-of-athena-2-northern-rhone-super-cuvees-i-gave-the-red-a-9-8-one-of-the-best-wines-i-drank-last-year/)
+*2024-03*
+
+> ##### 2021 Domaine des Pierres Seches St. Joseph Rouge “Cuvee 1930” – One of My Top Wines I Drank from Anywhere in 2023 (9.8/10) ##### – One of the Best St. Jos I’ve Ever Had ##### – From Vines Planted in 1930 – Now a Special Cuvee – A Stunning Wine of Epic…
+
+### [An Old School Fass Selections Producer  – With Revirand – Top 10 in St. Joseph, 96 Points (2019) – The Elegant, St. Epine Style](https://www.fassselections.com/blog/an-old-school-fass-selections-producer-with-revirand-top-10-in-st-joseph-96-points-2019-the-elegant-st-epine-style/)
+*2023-11*
+
+> > #### 2021 Domaine des Pierres Seches St. Joseph Rouge “Revirand” – A Brand New Wine (3rd Vintage) – I Gave This a 9.8 on Delectable – Compare Gonon (9.5-9.7), Fauterie (9.6), Gripa (9.6) – 96 Points (2019, Jeb Dunnuck) – The 2021 Is Much Better #### – Nose:…

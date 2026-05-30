@@ -31,6 +31,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 1
+    dedicated_count: 0
+    first_year: 2024
+    last_year: 2024
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -166,3 +171,10 @@ _Not yet populated._
 - [[Germany_Producers|Germany]]
 - [[Mosel (Pünderich)]]
 - [[CSW Article Archive]]
+
+## FASS Write-ups
+
+### [Spectacular Steinmetz Kabinett – from Red Slate – Very Distinctive Mineral Spiciness, Perfect Balance – Among the Best Kabinetts in the Mosel](https://www.fassselections.com/blog/spectacular-steinmetz-kabinett-from-red-slate-very-distinctive-mineral-spiciness-perfect-balance-among-the-best-kabinetts-in-the-mosel/)
+*2024-05*
+
+> #### Red Slate – Highly Distinctive Mineral “Spice” – Clemens Busch Made Famous with His Rothenpfad GG – I Love It in a Kabinett #### 2022 Gunther Steinmetz Piesporter Grafenberg Kabinett – Some of the Best Steinmetzian Precision in the Lineup – In an Under…

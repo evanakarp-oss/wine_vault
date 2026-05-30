@@ -30,6 +30,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 6
     first_year: 2015
@@ -61,7 +66,6 @@ berserkers_kelley_body:
     - {date: "2016-07-29", url: "https://www.wineberserkers.com/t/a-swathe-of-european-2003s-trigger-warning-low-scores/123329/3"}
     - {date: "2016-06-17", url: "https://www.wineberserkers.com/t/germany-2015-really-that-great/121288/121"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Willi Schaefer

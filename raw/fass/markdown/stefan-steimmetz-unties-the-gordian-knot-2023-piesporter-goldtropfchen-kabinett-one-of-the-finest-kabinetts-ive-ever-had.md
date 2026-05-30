@@ -3,11 +3,11 @@ type: fass_article
 slug: stefan-steimmetz-unties-the-gordian-knot-2023-piesporter-goldtropfchen-kabinett-one-of-the-finest-kabinetts-ive-ever-had
 title: "Stefan Steimmetz Unties the Gordian Knot – 2023 Piesporter Goldtropfchen Kabinett – One of the Finest Kabinett’s I’ve Ever Had"
 url: https://www.fassselections.com/blog/stefan-steimmetz-unties-the-gordian-knot-2023-piesporter-goldtropfchen-kabinett-one-of-the-finest-kabinetts-ive-ever-had/
-date: ""
+date: "2024-06-10"
 producer: ""
 categories: []
 word_count: 1503
-fetched_at: "2026-05-05T10:01:29+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # Stefan Steimmetz Unties the Gordian Knot – 2023 Piesporter Goldtropfchen Kabinett – One of the Finest Kabinett’s I’ve Ever Had

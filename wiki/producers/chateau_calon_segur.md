@@ -31,6 +31,11 @@ retailers:
     price_max: 229.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 2
     first_year: 2019
@@ -54,7 +59,6 @@ berserkers_kelley_body:
     - {date: "2019-12-30", url: "https://www.wineberserkers.com/t/tn-my-concerns-my-1995-bdx-would-never-come-around-were-unfounded/157134/35"}
     - {date: "2019-08-27", url: "https://www.wineberserkers.com/t/calon-segur-1996/152898/19"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Château Calon-Ségur

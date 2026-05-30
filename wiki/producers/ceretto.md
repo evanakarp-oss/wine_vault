@@ -33,6 +33,11 @@ retailers:
     price_max: 399.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 1
+    dedicated_count: 0
+    first_year: 2023
+    last_year: 2023
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -145,3 +150,10 @@ _Not yet populated._
 - [[Italy_Producers|Italy]]
 - [[Barolo / Barbaresco]]
 - [[CSW Article Archive]]
+
+## FASS Write-ups
+
+### [A Passion Project from One of Barolo’s Old Guard – On a Par with Bartolo Mascarello, Conterno, – Psychotically Aromatic](https://www.fassselections.com/blog/a-passion-project-from-one-of-barolos-old-guard-on-a-par-with-bartolo-mascarello-conterno-psychotically-aromatic/)
+*2023-11*
+
+> ##### Gillardi – Third Generation Producer – Father Started As a Winemaker at Barolo Legend Ceretto and Has Worked there for 40 Years – He Supervises Winemaking at Gillardi ##### The 2019 Vintage – Like 1982 for Bordeaux – Better than Even the Legendary 2016…

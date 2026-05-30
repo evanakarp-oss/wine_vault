@@ -26,6 +26,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 1
     first_year: 2021
@@ -42,7 +47,6 @@ berserkers_kelley_body:
   recent_posts:
     - {date: "2021-10-16", url: "https://www.wineberserkers.com/t/2019-burgundy-what-are-you-buying/168320/78"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Marchand Tawse

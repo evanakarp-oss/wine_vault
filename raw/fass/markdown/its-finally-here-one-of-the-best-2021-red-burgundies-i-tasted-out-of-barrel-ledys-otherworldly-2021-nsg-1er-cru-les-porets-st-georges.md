@@ -3,11 +3,11 @@ type: fass_article
 slug: its-finally-here-one-of-the-best-2021-red-burgundies-i-tasted-out-of-barrel-ledys-otherworldly-2021-nsg-1er-cru-les-porets-st-georges
 title: "It’s Finally Here. One of The Best 2021 Red Burgundies I Tasted Out Of Barrel – Ledy’s Otherworldly 2021 NSG 1er Cru “Les Porets St. Georges!”"
 url: https://www.fassselections.com/blog/its-finally-here-one-of-the-best-2021-red-burgundies-i-tasted-out-of-barrel-ledys-otherworldly-2021-nsg-1er-cru-les-porets-st-georges/
-date: ""
+date: "2024-04-09"
 producer: ""
 categories: []
 word_count: 1869
-fetched_at: "2026-05-05T09:59:24+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # It’s Finally Here. One of The Best 2021 Red Burgundies I Tasted Out Of Barrel – Ledy’s Otherworldly 2021 NSG 1er Cru “Les Porets St. Georges!”

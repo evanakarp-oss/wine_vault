@@ -3,11 +3,11 @@ type: fass_article
 slug: 90-93-burghound-1er-cru-pinot-noir-under-46-one-of-burgundys-rising-stars-among-the-highest-scoring-in-the-aoc
 title: "90-93 Burghound 1er Cru Pinot Noir – Under $46 – One of Burgundy’s Rising Stars – Among the Highest Scoring in the AOC!"
 url: https://www.fassselections.com/blog/90-93-burghound-1er-cru-pinot-noir-under-46-one-of-burgundys-rising-stars-among-the-highest-scoring-in-the-aoc/
-date: ""
+date: "2024-04-08"
 producer: ""
 categories: []
 word_count: 1648
-fetched_at: "2026-05-05T09:56:09+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # 90-93 Burghound 1er Cru Pinot Noir – Under $46 – One of Burgundy’s Rising Stars – Among the Highest Scoring in the AOC!

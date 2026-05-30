@@ -3,11 +3,11 @@ type: fass_article
 slug: a-new-genre-of-wines-the-category-defining-grand-cru-whites-from-enderle-moll-arguably-the-best-natural-whites-in-the-world
 title: "“A New Genre of Wines” – The Category Defining Grand Cru Whites from Enderle & Moll – Arguably the Best Natural Whites in the World"
 url: https://www.fassselections.com/blog/a-new-genre-of-wines-the-category-defining-grand-cru-whites-from-enderle-moll-arguably-the-best-natural-whites-in-the-world/
-date: ""
+date: "2024-05-23"
 producer: ""
 categories: []
 word_count: 1793
-fetched_at: "2026-05-05T09:56:35+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # “A New Genre of Wines” – The Category Defining Grand Cru Whites from Enderle & Moll – Arguably the Best Natural Whites in the World

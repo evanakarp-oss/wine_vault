@@ -3,11 +3,11 @@ type: fass_article
 slug: limited-quantities-of-dauvissat-2022-1er-cru-chablis-these-will-be-allocated
 title: "Limited Quantities of Dauvissat 2022 1er Cru Chablis – These Will be Allocated"
 url: https://www.fassselections.com/blog/limited-quantities-of-dauvissat-2022-1er-cru-chablis-these-will-be-allocated/
-date: ""
+date: "2024-05-12"
 producer: ""
 categories: []
 word_count: 2116
-fetched_at: "2026-05-05T09:59:43+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # Limited Quantities of Dauvissat 2022 1er Cru Chablis – These Will be Allocated

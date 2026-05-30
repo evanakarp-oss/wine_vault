@@ -3,11 +3,11 @@ type: fass_article
 slug: the-best-rose-champagne-value-of-all-time-from-the-estate-behind-neal-martins-sparkling-wine-of-the-year-a-stunning-complex-rose-champagne-fass-selction-done-post
 title: "The Best Rose Champagne Value of All Time – From the Estate Behind Neal Martin’s Sparkling wine of the Year, a Stunning, Complex Rose Champagne Fass Selction Done Post"
 url: https://www.fassselections.com/blog/the-best-rose-champagne-value-of-all-time-from-the-estate-behind-neal-martins-sparkling-wine-of-the-year-a-stunning-complex-rose-champagne-fass-selction-done-post/
-date: ""
+date: "2024-03-07"
 producer: ""
 categories: []
 word_count: 1493
-fetched_at: "2026-05-05T10:01:52+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The Best Rose Champagne Value of All Time – From the Estate Behind Neal Martin’s Sparkling wine of the Year, a Stunning, Complex Rose Champagne Fass Selction Done Post

@@ -3,11 +3,11 @@ type: fass_article
 slug: the-volnay-of-the-mountains-my-favorite-red-in-our-savoie-portfolio-one-of-the-worlds-rarest-most-unique-whites
 title: "The Volnay of the Mountains – My Favorite Red In Our Savoie Portfolio + One Of The World’s Rarest & Most Unique Whites"
 url: https://www.fassselections.com/blog/the-volnay-of-the-mountains-my-favorite-red-in-our-savoie-portfolio-one-of-the-worlds-rarest-most-unique-whites/
-date: ""
+date: "2024-05-23"
 producer: ""
 categories: []
 word_count: 2052
-fetched_at: "2026-05-05T10:03:40+00:00"
+fetched_at: "2026-05-30T11:42:17+00:00"
 ---
 
 # The Volnay of the Mountains – My Favorite Red In Our Savoie Portfolio + One Of The World’s Rarest & Most Unique Whites

@@ -26,6 +26,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 8
     first_year: 2018
@@ -46,7 +51,6 @@ berserkers_kelley_body:
     - {date: "2020-06-26", url: "https://www.wineberserkers.com/t/french-naturalistas-and-other-curiosities-foillard-dauvissat-desjourneys-vini-viti-vinci-etc/162064/19"}
     - {date: "2020-02-20", url: "https://www.wineberserkers.com/t/tn-2009-coudert-fleurie-clos-de-la-roilette-cuvee-tardive-disappointing/158221/31"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Clos de la Roilette

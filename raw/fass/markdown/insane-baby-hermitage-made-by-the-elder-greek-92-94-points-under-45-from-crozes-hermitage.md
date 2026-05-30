@@ -3,11 +3,11 @@ type: fass_article
 slug: insane-baby-hermitage-made-by-the-elder-greek-92-94-points-under-45-from-crozes-hermitage
 title: "Insane Baby Hermitage Made by The Elder Greek – 92-94 Points, Under $45 (from Crozes Hermitage)"
 url: https://www.fassselections.com/blog/insane-baby-hermitage-made-by-the-elder-greek-92-94-points-under-45-from-crozes-hermitage/
-date: ""
+date: "2024-04-22"
 producer: ""
 categories: []
 word_count: 1322
-fetched_at: "2026-05-05T09:59:06+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # Insane Baby Hermitage Made by The Elder Greek – 92-94 Points, Under $45 (from Crozes Hermitage)

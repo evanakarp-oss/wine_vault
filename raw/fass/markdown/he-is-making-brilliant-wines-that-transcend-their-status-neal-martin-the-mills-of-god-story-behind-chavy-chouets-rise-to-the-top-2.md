@@ -3,11 +3,11 @@ type: fass_article
 slug: he-is-making-brilliant-wines-that-transcend-their-status-neal-martin-the-mills-of-god-story-behind-chavy-chouets-rise-to-the-top-2
 title: "“…..he is making brilliant wines that transcend their status. ” – Neal Martin, The “Mills of God” Story Behind Chavy-Chouet’s Rise to the Top"
 url: https://www.fassselections.com/blog/he-is-making-brilliant-wines-that-transcend-their-status-neal-martin-the-mills-of-god-story-behind-chavy-chouets-rise-to-the-top-2/
-date: ""
+date: "2024-06-05"
 producer: ""
 categories: []
 word_count: 1513
-fetched_at: "2026-05-05T09:58:40+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # “…..he is making brilliant wines that transcend their status. ” – Neal Martin, The “Mills of God” Story Behind Chavy-Chouet’s Rise to the Top

@@ -3,11 +3,11 @@ type: fass_article
 slug: golden-canary-flawless-the-elegance-from-swiss-terroir-the-brilliance-of-french-winemaking-94-points-at-42-99-an-epic-value
 title: "“Golden Canary” Flawless! The Elegance from Swiss Terroir. The Brilliance of French Winemaking. 94 Points – At $42.99, an Epic Value"
 url: https://www.fassselections.com/blog/golden-canary-flawless-the-elegance-from-swiss-terroir-the-brilliance-of-french-winemaking-94-points-at-42-99-an-epic-value/
-date: ""
+date: "2024-03-24"
 producer: ""
 categories: []
 word_count: 1995
-fetched_at: "2026-05-05T09:58:37+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # “Golden Canary” Flawless! The Elegance from Swiss Terroir. The Brilliance of French Winemaking. 94 Points – At $42.99, an Epic Value

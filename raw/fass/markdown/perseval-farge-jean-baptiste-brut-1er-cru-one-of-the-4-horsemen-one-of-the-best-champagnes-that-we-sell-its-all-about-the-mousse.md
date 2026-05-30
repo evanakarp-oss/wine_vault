@@ -3,11 +3,11 @@ type: fass_article
 slug: perseval-farge-jean-baptiste-brut-1er-cru-one-of-the-4-horsemen-one-of-the-best-champagnes-that-we-sell-its-all-about-the-mousse
 title: "Perseval Farge Jean Baptiste Brut 1er Cru – One of the 4 Horsemen – One of the Best Champagnes That We Sell – It’s All About the Mousse"
 url: https://www.fassselections.com/blog/perseval-farge-jean-baptiste-brut-1er-cru-one-of-the-4-horsemen-one-of-the-best-champagnes-that-we-sell-its-all-about-the-mousse/
-date: ""
+date: "2024-03-28"
 producer: ""
 categories: []
 word_count: 1877
-fetched_at: "2026-05-05T10:00:57+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # Perseval Farge Jean Baptiste Brut 1er Cru – One of the 4 Horsemen – One of the Best Champagnes That We Sell – It’s All About the Mousse

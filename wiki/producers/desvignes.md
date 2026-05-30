@@ -26,6 +26,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 12
     first_year: 2018
@@ -46,7 +51,6 @@ berserkers_kelley_body:
     - {date: "2021-08-19", url: "https://www.wineberserkers.com/t/dureuil-janthial-is-the-secret-out/172885/7"}
     - {date: "2021-04-30", url: "https://www.wineberserkers.com/t/beaujolais/170348/3"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Desvignes

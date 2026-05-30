@@ -3,11 +3,11 @@ type: fass_article
 slug: the-biggest-sleeper-german-pinot-in-our-book-the-quiet-genius
 title: "The Biggest Sleeper German Pinot in Our Book – The Quiet Genius"
 url: https://www.fassselections.com/blog/the-biggest-sleeper-german-pinot-in-our-book-the-quiet-genius/
-date: ""
+date: "2024-01-06"
 producer: ""
 categories: []
 word_count: 1719
-fetched_at: "2026-05-05T10:02:03+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The Biggest Sleeper German Pinot in Our Book – The Quiet Genius

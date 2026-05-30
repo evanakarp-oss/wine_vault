@@ -3,11 +3,11 @@ type: fass_article
 slug: from-his-brilliant-collection-of-2022-kabinetts-steinmetzs-classic-brauneberger-juffer
 title: "From His Brilliant Collection of 2022 Kabinetts, Steinmetz’s Classic Brauneberger Juffer"
 url: https://www.fassselections.com/blog/from-his-brilliant-collection-of-2022-kabinetts-steinmetzs-classic-brauneberger-juffer/
-date: ""
+date: "2024-01-21"
 producer: ""
 categories: []
 word_count: 1377
-fetched_at: "2026-05-05T09:58:15+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # From His Brilliant Collection of 2022 Kabinetts, Steinmetz’s Classic Brauneberger Juffer

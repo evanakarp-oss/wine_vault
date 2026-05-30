@@ -3,11 +3,11 @@ type: fass_article
 slug: 100-points-twice-in-2022-and-2019-neumagener-rosengartchen-an-apogeal-dry-riesling-will-it-be-100-in-2023
 title: "100 Points Twice in 2022 and 2019- Neumagener Rosengartchen – An Apogeal Dry Riesling – Will it Be 100 in 2023?"
 url: https://www.fassselections.com/blog/100-points-twice-in-2022-and-2019-neumagener-rosengartchen-an-apogeal-dry-riesling-will-it-be-100-in-2023/
-date: ""
+date: "2024-05-21"
 producer: ""
 categories: []
 word_count: 1754
-fetched_at: "2026-05-05T09:55:39+00:00"
+fetched_at: "2026-05-30T11:42:12+00:00"
 ---
 
 # 100 Points Twice in 2022 and 2019- Neumagener Rosengartchen – An Apogeal Dry Riesling – Will it Be 100 in 2023?

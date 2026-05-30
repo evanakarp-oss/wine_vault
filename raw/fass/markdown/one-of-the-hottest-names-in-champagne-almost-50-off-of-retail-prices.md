@@ -3,11 +3,11 @@ type: fass_article
 slug: one-of-the-hottest-names-in-champagne-almost-50-off-of-retail-prices
 title: "One of the Hottest Names in Champagne – Almost 50% off of Retail Prices"
 url: https://www.fassselections.com/blog/one-of-the-hottest-names-in-champagne-almost-50-off-of-retail-prices/
-date: ""
+date: "2024-05-14"
 producer: ""
 categories: []
 word_count: 2045
-fetched_at: "2026-05-05T10:00:28+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # One of the Hottest Names in Champagne – Almost 50% off of Retail Prices

@@ -30,6 +30,11 @@ retailers:
     price_max: 899.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 3
     first_year: 2016
@@ -54,7 +59,6 @@ berserkers_kelley_body:
     - {date: "2022-02-26", url: "https://www.wineberserkers.com/t/zurich-matter-of-taste-biondi-santi-retrospective/177521/9"}
     - {date: "2016-06-07", url: "https://www.wineberserkers.com/t/top-10-rose-list-for-summer/121784/13"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Biondi-Santi

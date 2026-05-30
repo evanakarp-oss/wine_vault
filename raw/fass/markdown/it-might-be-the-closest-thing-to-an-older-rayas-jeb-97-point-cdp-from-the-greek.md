@@ -3,11 +3,11 @@ type: fass_article
 slug: it-might-be-the-closest-thing-to-an-older-rayas-jeb-97-point-cdp-from-the-greek
 title: "“It might be the closest thing to an older Rayas . . .” (Jeb) – 97 Point CDP from the Greek"
 url: https://www.fassselections.com/blog/it-might-be-the-closest-thing-to-an-older-rayas-jeb-97-point-cdp-from-the-greek/
-date: ""
+date: "2023-11-10"
 producer: ""
 categories: []
 word_count: 1495
-fetched_at: "2026-05-05T09:59:21+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # “It might be the closest thing to an older Rayas . . .” (Jeb) – 97 Point CDP from the Greek

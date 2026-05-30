@@ -30,6 +30,11 @@ retailers:
     price_max: 329.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 4
     first_year: 2016
@@ -54,7 +59,6 @@ berserkers_kelley_body:
     - {date: "2020-09-28", url: "https://www.wineberserkers.com/t/dream-5-wine-allocations/164315/36"}
     - {date: "2016-12-12", url: "https://www.wineberserkers.com/t/your-favorite-tete-de-cuvee-champagne/127750/50"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Pierre Peters

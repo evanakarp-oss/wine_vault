@@ -3,11 +3,11 @@ type: fass_article
 slug: brissets-2022-cuvee-cassaneas-the-final-leap-tastes-exactly-like-a-1er-cru-chassagne-under-40-on-a-case
 title: "Brisset’s 2022 “Cuvee Cassaneas” – The Final Leap – Tastes Exactly Like a 1er Cru Chassagne – Under $40 On A Case"
 url: https://www.fassselections.com/blog/brissets-2022-cuvee-cassaneas-the-final-leap-tastes-exactly-like-a-1er-cru-chassagne-under-40-on-a-case/
-date: ""
+date: "2023-11-06"
 producer: ""
 categories: []
 word_count: 1366
-fetched_at: "2026-05-05T09:57:27+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # Brisset’s 2022 “Cuvee Cassaneas” – The Final Leap – Tastes Exactly Like a 1er Cru Chassagne – Under $40 On A Case

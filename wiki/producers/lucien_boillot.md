@@ -29,6 +29,11 @@ retailers:
     price_max: 149.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
 tags: ['pinot-noir', 'burgundy']
 _sources: ["raeders_compile_curated:2026-04-25"]
 ---

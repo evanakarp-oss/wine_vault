@@ -26,6 +26,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 1
     first_year: 2022
@@ -42,7 +47,6 @@ berserkers_kelley_body:
   recent_posts:
     - {date: "2022-04-26", url: "https://www.wineberserkers.com/t/hautes-cotes-where-its-at-for-me/178793/12"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Gerard Julien

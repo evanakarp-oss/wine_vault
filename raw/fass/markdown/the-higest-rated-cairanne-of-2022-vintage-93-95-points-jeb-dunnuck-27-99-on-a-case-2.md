@@ -3,11 +3,11 @@ type: fass_article
 slug: the-higest-rated-cairanne-of-2022-vintage-93-95-points-jeb-dunnuck-27-99-on-a-case-2
 title: "The Higest Rated Cairanne of 2022 Vintage – 93-95 Points – Jeb Dunnuck – $27.99 On A Case"
 url: https://www.fassselections.com/blog/the-higest-rated-cairanne-of-2022-vintage-93-95-points-jeb-dunnuck-27-99-on-a-case-2/
-date: ""
+date: "2024-06-03"
 producer: ""
 categories: []
 word_count: 1091
-fetched_at: "2026-05-05T10:02:52+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The Higest Rated Cairanne of 2022 Vintage – 93-95 Points – Jeb Dunnuck – $27.99 On A Case

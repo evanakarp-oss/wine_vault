@@ -31,6 +31,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 3
     first_year: 2018
@@ -50,7 +55,6 @@ berserkers_kelley_body:
     - {date: "2019-01-03", url: "https://www.wineberserkers.com/t/tn-2008-simon-bize-savigny-les-beaune-1er-cru-aux-guettes/148598/7"}
     - {date: "2018-07-02", url: "https://www.wineberserkers.com/t/thoughts-on-2005-red-burgundy/144084/26"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Domaine Simon Bize

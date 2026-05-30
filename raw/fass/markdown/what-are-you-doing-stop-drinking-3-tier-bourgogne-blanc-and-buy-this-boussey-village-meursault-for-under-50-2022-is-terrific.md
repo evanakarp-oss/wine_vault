@@ -3,11 +3,11 @@ type: fass_article
 slug: what-are-you-doing-stop-drinking-3-tier-bourgogne-blanc-and-buy-this-boussey-village-meursault-for-under-50-2022-is-terrific
 title: "What Are You Doing!?! Stop Drinking 3 Tier Bourgogne Blanc and Buy This! Boussey Village Meursault for Under $50 – 2022 Is Terrific"
 url: https://www.fassselections.com/blog/what-are-you-doing-stop-drinking-3-tier-bourgogne-blanc-and-buy-this-boussey-village-meursault-for-under-50-2022-is-terrific/
-date: ""
+date: "2023-10-01"
 producer: ""
 categories: []
 word_count: 795
-fetched_at: "2026-05-05T10:04:12+00:00"
+fetched_at: "2026-05-30T11:42:17+00:00"
 ---
 
 # What Are You Doing!?! Stop Drinking 3 Tier Bourgogne Blanc and Buy This! Boussey Village Meursault for Under $50 – 2022 Is Terrific

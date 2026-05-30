@@ -3,11 +3,11 @@ type: fass_article
 slug: an-unheralded-value-in-the-cote-de-beaune-the-grand-crus-are-famous-the-1er-crus-are-ignored-by-critics-high-end-value
 title: "An Unheralded Value in the Côte de Beaune?!? The Grand Crus Are Famous, the 1er Crus Are Ignored by Critics – High End Value"
 url: https://www.fassselections.com/blog/an-unheralded-value-in-the-cote-de-beaune-the-grand-crus-are-famous-the-1er-crus-are-ignored-by-critics-high-end-value/
-date: ""
+date: "2023-11-09"
 producer: ""
 categories: []
 word_count: 1330
-fetched_at: "2026-05-05T09:57:08+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # An Unheralded Value in the Côte de Beaune?!? The Grand Crus Are Famous, the 1er Crus Are Ignored by Critics – High End Value

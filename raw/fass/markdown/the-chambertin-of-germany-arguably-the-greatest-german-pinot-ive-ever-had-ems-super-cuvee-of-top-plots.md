@@ -3,11 +3,11 @@ type: fass_article
 slug: the-chambertin-of-germany-arguably-the-greatest-german-pinot-ive-ever-had-ems-super-cuvee-of-top-plots
 title: "The Chambertin of Germany – Arguably the Greatest German Pinot I’ve Ever Had. E&M’s Super Cuvee of Top Plots"
 url: https://www.fassselections.com/blog/the-chambertin-of-germany-arguably-the-greatest-german-pinot-ive-ever-had-ems-super-cuvee-of-top-plots/
-date: ""
+date: "2023-10-30"
 producer: ""
 categories: []
 word_count: 1109
-fetched_at: "2026-05-05T10:02:12+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The Chambertin of Germany – Arguably the Greatest German Pinot I’ve Ever Had. E&M’s Super Cuvee of Top Plots

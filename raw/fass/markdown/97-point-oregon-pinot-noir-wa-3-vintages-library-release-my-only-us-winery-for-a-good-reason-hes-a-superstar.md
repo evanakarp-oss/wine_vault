@@ -3,11 +3,11 @@ type: fass_article
 slug: 97-point-oregon-pinot-noir-wa-3-vintages-library-release-my-only-us-winery-for-a-good-reason-hes-a-superstar
 title: "97 Point Oregon Pinot Noir (WA) – 3 Vintages Library Release – My Only US Winery for a Good Reason – He’s a Superstar"
 url: https://www.fassselections.com/blog/97-point-oregon-pinot-noir-wa-3-vintages-library-release-my-only-us-winery-for-a-good-reason-hes-a-superstar/
-date: ""
+date: "2024-03-03"
 producer: ""
 categories: []
 word_count: 2128
-fetched_at: "2026-05-05T09:56:23+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # 97 Point Oregon Pinot Noir (WA) – 3 Vintages Library Release – My Only US Winery for a Good Reason – He’s a Superstar

@@ -26,6 +26,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 3
+    dedicated_count: 0
+    first_year: 2024
+    last_year: 2024
   berserkers_kelley:
     post_count: 4
     first_year: 2018
@@ -46,7 +51,6 @@ berserkers_kelley_body:
     - {date: "2018-01-19", url: "https://www.wineberserkers.com/t/red-burgundy-village-ageability/139791/8"}
     - {date: "2017-11-07", url: "https://www.wineberserkers.com/t/tn-2001-domaine-joseph-roty-charmes-chambertin-tres-vieilles-vignes/137528/16"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Domaine Joseph Roty
@@ -101,3 +105,20 @@ _Not yet populated._
 - [[Burgundy_Producers|Burgundy]]
 - [[Gevrey-Chambertin]]
 - [[CSW Article Archive]]
+
+## FASS Write-ups
+
+### [90-93 Burghound 1er Cru Pinot Noir – Under $46 – One of Burgundy’s Rising Stars – Among the Highest Scoring in the AOC!](https://www.fassselections.com/blog/90-93-burghound-1er-cru-pinot-noir-under-46-one-of-burgundys-rising-stars-among-the-highest-scoring-in-the-aoc-2/)
+*2024-05*
+
+> #### 2022 at Francois Buffet – Equal to d’Angerville, Lafarge, Jean-Marc Bouley and Comte Armand – Another Leap in Quality #### – Brisset Is More About Elegance… – …but for Pure Pleasure, You Cannot Beat these Wines At This Price #### 2022 Francois Buffet…
+
+### [Ledy’s Triumphant HCDN – drinks like a brilliant NSG village wine – Under $40 – 21 Vintage](https://www.fassselections.com/blog/ledys-triumphant-hcdn-drinks-like-a-brilliant-nsg-village-wine-under-40-21-vintage/)
+*2024-04*
+
+> #### The Modern and the Traditional – A Modern Notion of How to Work the Land to Create the Best Grapes – A Traditional Approach to Winemaking – Alain Michelot’s Nephew #### – These Wines Are Miracles in a Bottle #### – If You Have Cellar Space Buy As Much As…
+
+### [90-93 Burghound 1er Cru Pinot Noir – Under $46 – One of Burgundy’s Rising Stars – Among the Highest Scoring in the AOC!](https://www.fassselections.com/blog/90-93-burghound-1er-cru-pinot-noir-under-46-one-of-burgundys-rising-stars-among-the-highest-scoring-in-the-aoc/)
+*2024-04*
+
+> #### 2022 at Francois Buffet – Equal to d’Angerville, Lafarge, Jean-Marc Bouley and Comte Armand – Another Leap in Quality #### – Brisset Is More About Elegance… – …but for Pure Pleasure, You Cannot Beat these Wines At This Price #### 2022 Francois Buffet…

@@ -29,6 +29,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 1
+    dedicated_count: 0
+    first_year: 2024
+    last_year: 2024
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -79,3 +84,10 @@ _Not yet populated._
 - [[Burgundy_Producers|Burgundy]]
 - [[Marsannay]]
 - [[CSW Article Archive]]
+
+## FASS Write-ups
+
+### [Ledy’s Triumphant HCDN – drinks like a brilliant NSG village wine – Under $40 – 21 Vintage](https://www.fassselections.com/blog/ledys-triumphant-hcdn-drinks-like-a-brilliant-nsg-village-wine-under-40-21-vintage/)
+*2024-04*
+
+> #### The Modern and the Traditional – A Modern Notion of How to Work the Land to Create the Best Grapes – A Traditional Approach to Winemaking – Alain Michelot’s Nephew #### – These Wines Are Miracles in a Bottle #### – If You Have Cellar Space Buy As Much As…

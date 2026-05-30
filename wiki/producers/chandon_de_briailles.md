@@ -34,6 +34,11 @@ retailers:
     price_max: 0
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 7
     first_year: 2018
@@ -54,7 +59,6 @@ berserkers_kelley_body:
     - {date: "2020-05-18", url: "https://www.wineberserkers.com/t/three-adjacent-parcels-of-meursault-perrieres-this-spring-updated/161110/56"}
     - {date: "2018-07-30", url: "https://www.wineberserkers.com/t/2002-corton-bressandes-chandon-de-briailles/144615/7"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Chandon de Briailles

@@ -26,6 +26,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 2
     first_year: 2016
@@ -43,7 +48,6 @@ berserkers_kelley_body:
     - {date: "2019-11-19", url: "https://www.wineberserkers.com/t/tn-1990-andre-brunel-chateauneuf-du-pape-les-cailloux/156209/6"}
     - {date: "2016-08-26", url: "https://www.wineberserkers.com/t/favorite-chateauneuf-du-pape-poll/124179/34"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Clos du Mont Olivet

@@ -3,11 +3,11 @@ type: fass_article
 slug: the-3-lelektsoglou-brothers-second-cote-rotie-only-place-to-get-this-other-than-their-store-major-collectors-item
 title: "The 3 Lelektsoglou Brothers’ Second Côte Rôtie – Only Place to Get This Other than Their Store – Major Collectors’ Item"
 url: https://www.fassselections.com/blog/the-3-lelektsoglou-brothers-second-cote-rotie-only-place-to-get-this-other-than-their-store-major-collectors-item/
-date: ""
+date: "2023-11-08"
 producer: ""
 categories: []
 word_count: 1501
-fetched_at: "2026-05-05T10:01:37+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The 3 Lelektsoglou Brothers’ Second Côte Rôtie – Only Place to Get This Other than Their Store – Major Collectors’ Item

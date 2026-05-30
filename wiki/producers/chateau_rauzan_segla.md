@@ -31,6 +31,11 @@ retailers:
     price_max: 139.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 2
     first_year: 2023
@@ -51,7 +56,6 @@ berserkers_kelley_body:
     - {date: "2023-04-10", url: "https://www.wineberserkers.com/t/figeac-vertical-and-wondering-about-bordeaux-critics/299653/29"}
     - {date: "2023-03-12", url: "https://www.wineberserkers.com/t/new-william-kelley-mega-article-on-bordeaux-today/298476/56"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Château Rauzan-Ségla

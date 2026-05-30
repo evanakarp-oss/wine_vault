@@ -3,11 +3,11 @@ type: fass_article
 slug: the-best-a-tier-vineyard-value-in-elite-cote-de-nuits-grand-cru-burgundy-by-far-remi-poisots-100-point-10-0-lyle-fass-delectable-romanee-st-vivant-pinot-noir-magic
 title: "The Best “A Tier” Vineyard Value in Elite Cote de Nuits Grand Cru Burgundy By Far – Remi Poisot’s 100 Point (10.0 Lyle Fass Delectable) Romanee St. Vivant – Pinot Noir Magic"
 url: https://www.fassselections.com/blog/the-best-a-tier-vineyard-value-in-elite-cote-de-nuits-grand-cru-burgundy-by-far-remi-poisots-100-point-10-0-lyle-fass-delectable-romanee-st-vivant-pinot-noir-magic/
-date: ""
+date: "2024-01-19"
 producer: ""
 categories: []
 word_count: 1391
-fetched_at: "2026-05-05T10:01:43+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The Best “A Tier” Vineyard Value in Elite Cote de Nuits Grand Cru Burgundy By Far – Remi Poisot’s 100 Point (10.0 Lyle Fass Delectable) Romanee St. Vivant – Pinot Noir Magic

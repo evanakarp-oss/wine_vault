@@ -3,11 +3,11 @@ type: fass_article
 slug: our-white-wine-of-the-year-dauvissats-2022-bas-de-fourchaume-now-firmly-in-the-top-3-and-a-ridiculous-value
 title: "Our White Wine of the Year – Dauvissat’s 2022 “Bas de Fourchaume” – Now Firmly in the Top 3 and a Ridiculous Value"
 url: https://www.fassselections.com/blog/our-white-wine-of-the-year-dauvissats-2022-bas-de-fourchaume-now-firmly-in-the-top-3-and-a-ridiculous-value/
-date: ""
+date: "2023-11-27"
 producer: ""
 categories: []
 word_count: 1148
-fetched_at: "2026-05-05T10:00:51+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # Our White Wine of the Year – Dauvissat’s 2022 “Bas de Fourchaume” – Now Firmly in the Top 3 and a Ridiculous Value

@@ -3,11 +3,11 @@ type: fass_article
 slug: a-treat-from-the-cellar-of-very-rare-swiss-wines-please-read-carefully
 title: "A Treat From The Cellar of Very Rare Swiss Wines – Please Read Carefully!"
 url: https://www.fassselections.com/blog/a-treat-from-the-cellar-of-very-rare-swiss-wines-please-read-carefully/
-date: ""
+date: "2024-04-11"
 producer: ""
 categories: []
 word_count: 1900
-fetched_at: "2026-05-05T09:56:51+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # A Treat From The Cellar of Very Rare Swiss Wines – Please Read Carefully!

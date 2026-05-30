@@ -3,11 +3,11 @@ type: fass_article
 slug: premier-cru-taillepieds-from-buffet-90-93-points-from-stingy-burghound-1-3-1-2-the-price-of-comparable-taillepieds
 title: "Premier Cru Taillepieds from Buffet – 90-93 Points from Stingy Burghound- 1/3-1/2 the Price of Comparable Taillepieds"
 url: https://www.fassselections.com/blog/premier-cru-taillepieds-from-buffet-90-93-points-from-stingy-burghound-1-3-1-2-the-price-of-comparable-taillepieds/
-date: ""
+date: "2024-04-15"
 producer: ""
 categories: []
 word_count: 2031
-fetched_at: "2026-05-05T10:01:03+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # Premier Cru Taillepieds from Buffet – 90-93 Points from Stingy Burghound- 1/3-1/2 the Price of Comparable Taillepieds

@@ -30,6 +30,11 @@ retailers:
     price_max: 499.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 23
     first_year: 2017
@@ -65,7 +70,6 @@ berserkers_kelley_body:
     - {date: "2023-02-14", url: "https://www.wineberserkers.com/t/2013-dom-perignon/293896/112"}
     - {date: "2022-06-29", url: "https://www.wineberserkers.com/t/tns-musar-lynch-bages-dom-perignon-raphet-yquem/283867/12"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Dom Pérignon

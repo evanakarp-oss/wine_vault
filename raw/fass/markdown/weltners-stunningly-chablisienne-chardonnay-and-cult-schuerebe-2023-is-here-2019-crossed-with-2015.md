@@ -3,11 +3,11 @@ type: fass_article
 slug: weltners-stunningly-chablisienne-chardonnay-and-cult-schuerebe-2023-is-here-2019-crossed-with-2015
 title: "Weltner’s Stunningly Chablisienne Chardonnay and Cult Schuerebe 2023 is Here! (2019 Crossed With 2015)"
 url: https://www.fassselections.com/blog/weltners-stunningly-chablisienne-chardonnay-and-cult-schuerebe-2023-is-here-2019-crossed-with-2015/
-date: ""
+date: "2024-05-09"
 producer: ""
 categories: []
 word_count: 2162
-fetched_at: "2026-05-05T10:04:06+00:00"
+fetched_at: "2026-05-30T11:42:17+00:00"
 ---
 
 # Weltner’s Stunningly Chablisienne Chardonnay and Cult Schuerebe 2023 is Here! (2019 Crossed With 2015)

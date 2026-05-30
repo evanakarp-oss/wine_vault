@@ -3,11 +3,11 @@ type: fass_article
 slug: jasper-morris-speaks-fantastic-2022-rebourgeon-village-pommard-1-2-the-price-of-negociant-pommard-and-much-better
 title: "Jasper Morris Speaks! Fantastic 2022 Rebourgeon Village Pommard – 1/2 the Price of Negociant Pommard and Much Better"
 url: https://www.fassselections.com/blog/jasper-morris-speaks-fantastic-2022-rebourgeon-village-pommard-1-2-the-price-of-negociant-pommard-and-much-better/
-date: ""
+date: "2024-03-27"
 producer: ""
 categories: []
 word_count: 1886
-fetched_at: "2026-05-05T09:59:26+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # Jasper Morris Speaks! Fantastic 2022 Rebourgeon Village Pommard – 1/2 the Price of Negociant Pommard and Much Better

@@ -29,6 +29,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 2
+    dedicated_count: 0
+    first_year: 2024
+    last_year: 2024
   berserkers_kelley:
     post_count: 9
     first_year: 2018
@@ -49,7 +54,6 @@ berserkers_kelley_body:
     - {date: "2021-11-01", url: "https://www.wineberserkers.com/t/rising-stars-of-burgundy-tasting/174499/39"}
     - {date: "2021-10-27", url: "https://www.wineberserkers.com/t/tn-2010-cecile-tremblay-vosne-romanee-1er-cru-les-rouges-du-dessus/174399/6"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Cecile Tremblay
@@ -149,3 +153,15 @@ _Not yet populated._
 - [[Burgundy_Producers|Burgundy]]
 - [[Vosne-Romanée / Chambolle]]
 - [[CSW Article Archive]]
+
+## FASS Write-ups
+
+### [The Next German Cult Wine – Reminds Me of Prieure Roche – JVM’s Song Wine – Collector’s Item for Spatburgunder Lovers](https://www.fassselections.com/blog/the-next-german-cult-wine-reminds-me-of-prieure-roche-jvms-song-wine-collectors-item-for-spatburgunder-lovers-2/)
+*2024-06*
+
+> #### Jürgen Von der Mark – Fewer Than 500 People Have Passed the Master of Wine Exam – One of the Top Wine Tasting Palates on Earth – He Intentionally Under Prices His Wines to Make Sales Easy – To Create A Thing It Is Necessary to Know the Thing – The…
+
+### [The Next German Cult Wine – Reminds Me of Prieure Roche – JVM’s Song Wine – Collector’s Item for Spatburgunder Lovers](https://www.fassselections.com/blog/the-next-german-cult-wine-reminds-me-of-prieure-roche-jvms-song-wine-collectors-item-for-spatburgunder-lovers/)
+*2024-04*
+
+> #### Jürgen Von der Mark – Fewer Than 500 People Have Passed the Master of Wine Exam – One of the Top Wine Tasting Palates on Earth – He Intentionally Under Prices His Wines to Make Sales Easy – To Create A Thing It Is Necessary to Know the Thing – The…

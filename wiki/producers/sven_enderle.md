@@ -29,6 +29,11 @@ retailers:
     cuvee_count: 13
     price_min: 0
     price_max: 0
+    championed: true
+    article_count: 15
+    dedicated_count: 5
+    first_year: 2023
+    last_year: 2024
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
 ---
@@ -115,3 +120,80 @@ Currently tracked: **13 cuvée/vintage entries**; prices $0–$0.
 Own **2 bottle(s)** across 1 cuvée-vintage(s):
 
 - 2 × Pinot Noir vom Keuper 2022 (750ml) @ $49.99 — drink 2025–2030
+
+## FASS Write-ups
+
+### [$25.99 for Blanc de Blancs! All 2016 Fruit! This Is Easily $60 in Champagne – The Sparkling Wine Deal of a Lifetime!](https://www.fassselections.com/blog/25-99-for-blanc-de-blancs-all-2016-fruit-this-is-easily-60-in-champagne-the-sparkling-wine-deal-of-a-lifetime/)
+*2024-06*
+
+> #### NV (2016) Spater-Veit Blanc de Blancs – 75 months on Lees Aging – Spater-Veit Underprices All of Their Wines – Even Generally Underpriced German BdB of This Quality Are $35 – Equivalent Quality Champagne Is Easily $60+ #### – Nose: Layered Aromatic…
+
+### [The Incomparable 2021 Domberg from Andi Schneider – One of 2021’s Greatest German Rieslings!](https://www.fassselections.com/blog/the-incomparable-2021-domberg-from-andi-schneider-one-of-2021s-greatest-german-rieslings/)
+*2024-04*
+
+> #### 2021 at Schneider Is Andi’s Greatest Vintage And The 2021 Domberg Is The Feather In His Cap – An Ethereal, Cerebral, Contemplative Riesling – Nothing Can Be Compared To It – At $27.99 On A Case I am Struggling To Think Of Another Dry Riesling Value This…
+
+### ★ [The First Grand Cru Offer in the World from Sven Enderle’s New Estate – One of the Laciest Pinot Noirs I’ve Ever Had](https://www.fassselections.com/blog/the-first-grand-cru-offer-in-the-world-from-sven-enderles-new-estate-one-of-the-laciest-pinot-noirs-ive-ever-had-3/)
+*2024-04*
+
+> #### Sven Enderle – The Founder of Germany’s Top Cult Pinot Noir Producer Enderle & Moll – From One Brilliant Estate, Now We have Two – His Debut Wine in His Debut Vintage – The First Offer in the World #### 2022 Sven Enderle Pinot Noir Vom Keuper – The First…
+
+### [96 Point Pinot Noir, $29.99 – if Brisset and Buffet Had a Love Child – The Thunderous Arrival of Thorle 2021 Pinots – Better Call Saul’s “Chicanery”](https://www.fassselections.com/blog/96-point-pinot-noir-29-99-if-brisset-and-buffet-had-a-love-child-the-thunderous-arrival-of-thorle-2021-pinots-better-call-sauls-chicanery/)
+*2024-04*
+
+> #### The 2021 Vintage – Stunning Classically Styled Fruit – Remarkable Fruit Clarity – These Are Must Buys for Pinot Lovers. Must Buys. #### What Sven Enderle Thought – Blown Away by the Pinots – Very Inexpensive for the Quality #### 2021 Thörle Saulheimer…
+
+### [Stefan’s Ode to Coche-Dury – His “Meursault 1er Cru Perrieres” aka Hofberger Reserve- 97 Points, Under $45 On a Case – DO NOT MISS THIS!Stefan’s Ode to Coche-Dury – His “Meursault 1er Cru Perrieres” aka Hofberger Reserve- 97 Points, Under $45 On a Case – DO NOT MISS THIS!](https://www.fassselections.com/blog/stefans-ode-to-coche-dury-his-meursault-1er-cru-perrieres-aka-hofberger-reserve-97-points-under-45-on-a-case-do-not-miss-thisstefans-ode-to-coche-dury-his-meursault-1er-cru-perrier/)
+*2024-04*
+
+> #### Stefan Steinmetz – One of the Smartest and Most Knowledgeable Winemakers in Europe – One of the Greatest Tasters I’ve Ever Met – One of My Oldest Friends in Wine – He’s Been Snatching Up The Top Small Vineyards in the Mosel – Style Is Absolutely Clear,…
+
+### [Special Enderle & Moll Grand Cru Back Vintages From Florian Moll’s Personal Stash](https://www.fassselections.com/blog/special-enderle-moll-grand-cru-back-vintages-from-florian-molls-personal-stash/)
+*2024-03*
+
+> #### #### The Top Bottlng of of Cult Producer Enderle & Moll – From the Cellar – Among the Hardest to Get Wines in Germany – Perhaps Our Most Distinctive Pinot Noirs – These Wines Can Be Pure Magic #### 2018 Enderle & Moll Pinot Noir Muschelkalk – 36 bottles…
+
+### [The Cultiest Wines that We Sell – 2022 Enderle & Moll Muschelkalk and Bundstanstei](https://www.fassselections.com/blog/the-cultiest-wines-that-we-sell-2022-enderle-moll-muschelkalk-and-bundstanstei/)
+*2024-03*
+
+> #### The Top 2 Bottlings in 2022 of Cult Producer Enderle & Moll – Among the Hardest to Get Wines in Germany – Perhaps Our Most Distinctive Pinot Noirs – These Wines Can Be Pure Magic #### 2022 Enderle & Moll Muschelkalk #### 2022 Enderle & Moll…
+
+### ★ [The First Grand Cru Offer in the World from Sven Enderle’s New Estate – One of the Laciest Pinot Noirs I’ve Ever Had](https://www.fassselections.com/blog/the-first-grand-cru-offer-in-the-world-from-sven-enderles-new-estate-one-of-the-laciest-pinot-noirs-ive-ever-had/)
+*2024-03*
+
+> #### Sven Enderle – The Founder of Germany’s Top Cult Pinot Noir Producer Enderle & Moll – From One Brilliant Estate, Now We have Two – His Debut Wine in His Debut Vintage – The First Offer in the World #### 2022 Sven Enderle Pinot Noir Vom Keuper – The First…
+
+### ★ [The First Grand Cru Offer in the World from Sven Enderle’s New Estate – One of the Laciest Pinot Noirs I’ve Ever Had](https://www.fassselections.com/blog/the-first-grand-cru-offer-in-the-world-from-sven-enderles-new-estate-one-of-the-laciest-pinot-noirs-ive-ever-had-2/)
+*2024-03*
+
+> #### Sven Enderle – The Founder of Germany’s Top Cult Pinot Noir Producer Enderle & Moll – From One Brilliant Estate, Now We have Two – His Debut Wine in His Debut Vintag – The First Offer in the World #### 2022 Sven Enderle Pinot Noir Vom Keuper – The First…
+
+### ★ [The Day Has Finally Arrived – Sven Enderle’s New Estate ﻿- First Global Offer of His First Pinot Noir](https://www.fassselections.com/blog/the-day-has-finally-arrived-sven-enderles-new-estate-first-global-offer-of-his-first-pinot-noir-2/)
+*2024-03*
+
+> #### #### Sven Enderle – The Founder of Germany’s Top Cult Pinot Noir Producer Enderle & Moll – From One Brilliant Estate, Now We have Two – His Debut Wine in His Debut Vintage – The First Offer in the World #### 2022 Sven Enderle Pinot Noir – The First Offer…
+
+### [German Selosse is Back! – Late Disgorged Aufricht – The Most Elegant German Sparkling Wine I’ve Ever Had](https://www.fassselections.com/blog/german-selosse-is-back-late-disgorged-aufricht-the-most-elegant-german-sparkling-wine-ive-ever-had/)
+*2023-11*
+
+> ##### “from-zero-to-top producer” Stephan Reinhardt, Wine Advocate 2020 Aufricht Blanc de Blancs Brut Nature OCTOBER 2023 Disgorgement – Micro Production – Champagne Geeks Are Going to Go Crazy Over This Wine – Brut Nature – Remarkable Angularity and…
+
+### ★ [The Day Has Finally Arrived – Sven Enderle’s New Estate ﻿- First Global Offer of His First Pinot Noir](https://www.fassselections.com/blog/the-day-has-finally-arrived-sven-enderles-new-estate-first-global-offer-of-his-first-pinot-noir/)
+*2023-11*
+
+> ##### Sven Enderle – The Founder of Germany’s Top Cult Pinot Noir Producer Enderle & Moll – From One Brilliant Estate, Now We have Two – His Debut Wine in His Debut Vintage – The First Offer in the World ##### 2022 Sven Enderle Pinot Noir – The First Offer in…
+
+### [From the Estate Behind Neal Martin’s Sparkling wine of the Year, a Stunning, Complex Rose Champagne](https://www.fassselections.com/blog/from-the-estate-behind-neal-martins-sparkling-wine-of-the-year-a-stunning-complex-rose-champagne/)
+*2023-10*
+
+> **The Great Rebirth of an Estate: from Father to Son** **– Yields were cut** **– Dosage was lowered tremendously** **– Single plot Champagnes were bottled** **– They age the wines on the lees for much longer (18 months for the regular cuvees)** **– They made…
+
+### [The Cultiest Wines that We Sell – 2022 Enderle & Moll Muschelkalk and Bundstanstein](https://www.fassselections.com/blog/the-cultiest-wines-that-we-sell-2022-enderle-moll-muschelkalk-and-bundstanstein/)
+*2023-10*
+
+> **The Top 2 Bottlings in 2022 of Cult Producer Enderle & Moll** **– Among the Hardest to Get Wines in Germany** **– Perhaps Our Most Distinctive Pinot Noirs** **– These Wines Can Be Pure Magic** **2022 Enderle & Moll Muschelkalk** **2022 Enderle & Moll…
+
+### [Tiny Allocation of One of the Hardest to Get and Best Pinots in Germany + Grand Cru Chablis (German Style!)- The Cultiest Wine from the Enderle & Moll of Franken](https://www.fassselections.com/blog/tiny-allocation-of-one-of-the-hardest-to-get-and-best-pinots-in-germany-grand-cru-chablis-german-style-the-cultiest-wine-from-the-enderle-moll-of-franken/)
+*2023-10*
+
+> **Richard Oestreicher: Sven Enderle without the Beard** **– Certified Organic** **– No Pumps Used at All** **– No Temperature Controlled Fermentation** **– Cult, Cult, Cult** **– Sold to the Top German Collectors** **– We Had to Beg for Puny Allocations** **–…

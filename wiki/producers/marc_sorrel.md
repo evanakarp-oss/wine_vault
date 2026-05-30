@@ -26,6 +26,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 1
+    dedicated_count: 0
+    first_year: 2024
+    last_year: 2024
   berserkers_kelley:
     post_count: 1
     first_year: 2019
@@ -42,7 +47,6 @@ berserkers_kelley_body:
   recent_posts:
     - {date: "2019-02-10", url: "https://www.wineberserkers.com/t/guigal-ex-voto-hermitage-blanc/149804/7"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Marc Sorrel
@@ -89,3 +93,10 @@ _Not yet populated._
 ## FASS
 
 _Not yet populated._
+
+## FASS Write-ups
+
+### [. . . I shall not look upon his like again – The Swan Song from Michelle Luyton Could Not be More Perfect – The Singular 2021’s aka a Throwback Vintage](https://www.fassselections.com/blog/i-shall-not-look-upon-his-like-again-the-swan-song-from-michelle-luyton-could-not-be-more-perfect-the-singular-2021s-aka-a-throwback-vintage/)
+*2024-01*
+
+> ###### 2021 Michelle Luyton Hermitage Blanc – 95 Points/Jeb Dunnuck (2020) – The FINAL Vintage – PLEASE DO NOT MISS THIS – I REPEAT PLEASE DO NOT MISS THIS – This Will Change How You Think About White Hermitage – An Utterly Majestic Wine – Smallest Production…

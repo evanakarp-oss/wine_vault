@@ -3,11 +3,11 @@ type: fass_article
 slug: spectacular-steinmetz-kabinett-from-red-slate-very-distinctive-mineral-spiciness-perfect-balance-among-the-best-kabinetts-in-the-mosel
 title: "Spectacular Steinmetz Kabinett – from Red Slate – Very Distinctive Mineral Spiciness, Perfect Balance – Among the Best Kabinetts in the Mosel"
 url: https://www.fassselections.com/blog/spectacular-steinmetz-kabinett-from-red-slate-very-distinctive-mineral-spiciness-perfect-balance-among-the-best-kabinetts-in-the-mosel/
-date: ""
+date: "2024-05-30"
 producer: ""
 categories: []
 word_count: 1332
-fetched_at: "2026-05-05T10:01:26+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # Spectacular Steinmetz Kabinett – from Red Slate – Very Distinctive Mineral Spiciness, Perfect Balance – Among the Best Kabinetts in the Mosel

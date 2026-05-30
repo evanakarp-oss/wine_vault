@@ -3,11 +3,11 @@ type: fass_article
 slug: small-allocations-ziereisen-chardonnay-94-points-and-pinot-gris-95-points
 title: "Small Allocations: Ziereisen Chardonnay (94+ Points) and Pinot Gris (95 Points)"
 url: https://www.fassselections.com/blog/small-allocations-ziereisen-chardonnay-94-points-and-pinot-gris-95-points/
-date: ""
+date: "2023-11-24"
 producer: ""
 categories: []
 word_count: 1947
-fetched_at: "2026-05-05T10:01:14+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # Small Allocations: Ziereisen Chardonnay (94+ Points) and Pinot Gris (95 Points)

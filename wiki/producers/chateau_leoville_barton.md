@@ -31,6 +31,11 @@ retailers:
     price_max: 0
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 9
     first_year: 2015
@@ -55,7 +60,6 @@ berserkers_kelley_body:
     - {date: "2024-01-27", url: "https://www.wineberserkers.com/t/what-leoville-barton/317363/17"}
     - {date: "2024-01-27", url: "https://www.wineberserkers.com/t/what-leoville-barton/317363/34"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Château Léoville Barton

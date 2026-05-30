@@ -3,11 +3,11 @@ type: fass_article
 slug: the-closest-wines-ive-had-in-champagne-to-brisset-an-entree-into-the-normally-unaffordable-world-of-top-tier-grower-champagne
 title: "The Closest Wines I’ve Had in Champagne to Brisset – An Entree into the Normally Unaffordable World of Top Tier Grower Champagne"
 url: https://www.fassselections.com/blog/the-closest-wines-ive-had-in-champagne-to-brisset-an-entree-into-the-normally-unaffordable-world-of-top-tier-grower-champagne/
-date: ""
+date: "2024-03-15"
 producer: ""
 categories: []
 word_count: 2046
-fetched_at: "2026-05-05T10:02:15+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The Closest Wines I’ve Had in Champagne to Brisset – An Entree into the Normally Unaffordable World of Top Tier Grower Champagne

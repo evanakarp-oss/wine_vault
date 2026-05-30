@@ -3,11 +3,11 @@ type: fass_article
 slug: an-orb-of-perfection-the-crown-jewel-of-pommard-chaponieres-from-the-master-jj-girard-plus-slb
 title: "An Orb of Perfection – the Crown Jewel of Pommard – Chaponieres from the Master JJ Girard, Plus SLB"
 url: https://www.fassselections.com/blog/an-orb-of-perfection-the-crown-jewel-of-pommard-chaponieres-from-the-master-jj-girard-plus-slb/
-date: ""
+date: "2024-05-28"
 producer: ""
 categories: []
 word_count: 1790
-fetched_at: "2026-05-05T09:57:05+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # An Orb of Perfection – the Crown Jewel of Pommard – Chaponieres from the Master JJ Girard, Plus SLB

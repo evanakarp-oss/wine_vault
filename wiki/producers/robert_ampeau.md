@@ -30,6 +30,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 2
     first_year: 2017
@@ -47,7 +52,6 @@ berserkers_kelley_body:
     - {date: "2018-08-07", url: "https://www.wineberserkers.com/t/meursault-les-rougeots/144835/4"}
     - {date: "2017-02-09", url: "https://www.wineberserkers.com/t/birth-year-wine-recommendation-1985/129949/10"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Robert Ampeau

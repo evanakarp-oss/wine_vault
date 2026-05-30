@@ -3,11 +3,11 @@ type: fass_article
 slug: they-grind-exceeding-small-chavy-chouets-climb-to-the-top-of-the-meursault-hierarchy-1er-cru-and-lieu-dit
 title: "“they grind exceeding small” – Chavy Chouet’s Climb to the top of the Meursault Hierarchy – 1er Cru and Lieu Dit"
 url: https://www.fassselections.com/blog/they-grind-exceeding-small-chavy-chouets-climb-to-the-top-of-the-meursault-hierarchy-1er-cru-and-lieu-dit/
-date: ""
+date: "2024-04-22"
 producer: ""
 categories: []
 word_count: 2056
-fetched_at: "2026-05-05T10:03:43+00:00"
+fetched_at: "2026-05-30T11:42:17+00:00"
 ---
 
 # “they grind exceeding small” – Chavy Chouet’s Climb to the top of the Meursault Hierarchy – 1er Cru and Lieu Dit

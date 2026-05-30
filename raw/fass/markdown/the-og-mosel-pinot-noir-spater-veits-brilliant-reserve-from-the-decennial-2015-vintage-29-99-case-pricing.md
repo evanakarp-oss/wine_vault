@@ -3,11 +3,11 @@ type: fass_article
 slug: the-og-mosel-pinot-noir-spater-veits-brilliant-reserve-from-the-decennial-2015-vintage-29-99-case-pricing
 title: "The OG Mosel Pinot Noir – Spater-Veit’s Brilliant Reserve from the Decennial 2015 Vintage – $29.99 CASE PRICING"
 url: https://www.fassselections.com/blog/the-og-mosel-pinot-noir-spater-veits-brilliant-reserve-from-the-decennial-2015-vintage-29-99-case-pricing/
-date: ""
+date: "2024-05-08"
 producer: ""
 categories: []
 word_count: 1815
-fetched_at: "2026-05-05T10:03:12+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The OG Mosel Pinot Noir – Spater-Veit’s Brilliant Reserve from the Decennial 2015 Vintage – $29.99 CASE PRICING

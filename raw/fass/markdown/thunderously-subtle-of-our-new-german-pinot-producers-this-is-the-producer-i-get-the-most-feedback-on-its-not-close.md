@@ -3,11 +3,11 @@ type: fass_article
 slug: thunderously-subtle-of-our-new-german-pinot-producers-this-is-the-producer-i-get-the-most-feedback-on-its-not-close
 title: "Thunderously Subtle – Of Our New German Pinot Producers – This is the Producer I Get The Most Feedback On – It’s Not Close"
 url: https://www.fassselections.com/blog/thunderously-subtle-of-our-new-german-pinot-producers-this-is-the-producer-i-get-the-most-feedback-on-its-not-close/
-date: ""
+date: "2024-04-15"
 producer: ""
 categories: []
 word_count: 1687
-fetched_at: "2026-05-05T10:03:46+00:00"
+fetched_at: "2026-05-30T11:42:17+00:00"
 ---
 
 # Thunderously Subtle – Of Our New German Pinot Producers – This is the Producer I Get The Most Feedback On – It’s Not Close

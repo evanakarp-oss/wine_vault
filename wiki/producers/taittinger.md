@@ -29,6 +29,11 @@ retailers:
     price_max: 279.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 16
     first_year: 2016
@@ -63,7 +68,6 @@ berserkers_kelley_body:
     - {date: "2021-11-27", url: "https://www.wineberserkers.com/t/2011-taittinger-comtes/175090/24"}
     - {date: "2021-10-01", url: "https://www.wineberserkers.com/t/the-taittinger-comtes-thread/139700/100"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Taittinger

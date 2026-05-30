@@ -3,11 +3,11 @@ type: fass_article
 slug: the-ultimate-collector-cote-roties-made-for-the-greek-from-the-best-terroir-in-the-rhone-incredible-classic-refined-2021-vintage
 title: "The Ultimate Collector Cote Roties: Made for the Greek from the Best Terroir in the Rhone, Incredible, Classic, Refined 2021 Vintage"
 url: https://www.fassselections.com/blog/the-ultimate-collector-cote-roties-made-for-the-greek-from-the-best-terroir-in-the-rhone-incredible-classic-refined-2021-vintage/
-date: ""
+date: "2024-03-01"
 producer: ""
 categories: []
 word_count: 1630
-fetched_at: "2026-05-05T10:03:35+00:00"
+fetched_at: "2026-05-30T11:42:17+00:00"
 ---
 
 # The Ultimate Collector Cote Roties: Made for the Greek from the Best Terroir in the Rhone, Incredible, Classic, Refined 2021 Vintage

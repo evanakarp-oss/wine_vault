@@ -3,11 +3,11 @@ type: fass_article
 slug: the-old-man-and-the-sea-christophe-billons-stunning-classic-cote-rotie-from-the-brilliant-2021-vintage
 title: "The Old Man and the Sea – Christophe Billon’s Stunning Classic Cote Rotie – from the Brilliant 2021 Vintage"
 url: https://www.fassselections.com/blog/the-old-man-and-the-sea-christophe-billons-stunning-classic-cote-rotie-from-the-brilliant-2021-vintage/
-date: ""
+date: "2024-04-07"
 producer: ""
 categories: []
 word_count: 1405
-fetched_at: "2026-05-05T10:03:15+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The Old Man and the Sea – Christophe Billon’s Stunning Classic Cote Rotie – from the Brilliant 2021 Vintage

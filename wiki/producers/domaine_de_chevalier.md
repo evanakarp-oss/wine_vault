@@ -30,6 +30,11 @@ retailers:
     price_max: 169.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 4
     first_year: 2015
@@ -53,7 +58,6 @@ berserkers_kelley_body:
     - {date: "2022-11-11", url: "https://www.wineberserkers.com/t/help-with-cab-franc-tasting/291281/9"}
     - {date: "2022-05-10", url: "https://www.wineberserkers.com/t/2019-bordeaux/176323/530"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Domaine de Chevalier

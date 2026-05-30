@@ -3,11 +3,11 @@ type: fass_article
 slug: the-next-german-cult-wine-reminds-me-of-prieure-roche-jvms-song-wine-collectors-item-for-spatburgunder-lovers-2
 title: "The Next German Cult Wine – Reminds Me of Prieure Roche – JVM’s Song Wine – Collector’s Item for Spatburgunder Lovers"
 url: https://www.fassselections.com/blog/the-next-german-cult-wine-reminds-me-of-prieure-roche-jvms-song-wine-collectors-item-for-spatburgunder-lovers-2/
-date: ""
+date: "2024-06-10"
 producer: ""
 categories: []
 word_count: 1462
-fetched_at: "2026-05-05T10:03:06+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The Next German Cult Wine – Reminds Me of Prieure Roche – JVM’s Song Wine – Collector’s Item for Spatburgunder Lovers

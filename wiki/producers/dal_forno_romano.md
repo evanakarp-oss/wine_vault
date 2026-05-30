@@ -29,6 +29,11 @@ retailers:
     price_max: 2999.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
 tags: ['amarone', 'valpolicella', 'cult']
 _sources: ["raeders_compile_curated:2026-04-25"]
 ---

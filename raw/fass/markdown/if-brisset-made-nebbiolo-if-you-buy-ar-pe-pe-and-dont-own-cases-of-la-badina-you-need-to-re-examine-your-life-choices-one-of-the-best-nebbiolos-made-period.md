@@ -3,11 +3,11 @@ type: fass_article
 slug: if-brisset-made-nebbiolo-if-you-buy-ar-pe-pe-and-dont-own-cases-of-la-badina-you-need-to-re-examine-your-life-choices-one-of-the-best-nebbiolos-made-period
 title: "If Brisset Made Nebbiolo – If You Buy Ar.Pe.Pe and Don’t Own Cases of La Badina, You Need to Re Examine Your Life Choices – One of the Best Nebbiolos Made. Period."
 url: https://www.fassselections.com/blog/if-brisset-made-nebbiolo-if-you-buy-ar-pe-pe-and-dont-own-cases-of-la-badina-you-need-to-re-examine-your-life-choices-one-of-the-best-nebbiolos-made-period/
-date: ""
+date: "2024-01-10"
 producer: ""
 categories: []
 word_count: 1736
-fetched_at: "2026-05-05T09:59:03+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # If Brisset Made Nebbiolo – If You Buy Ar.Pe.Pe and Don’t Own Cases of La Badina, You Need to Re Examine Your Life Choices – One of the Best Nebbiolos Made. Period.

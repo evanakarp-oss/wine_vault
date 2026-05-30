@@ -31,6 +31,11 @@ retailers:
     price_max: 379.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 3
+    dedicated_count: 0
+    first_year: 2023
+    last_year: 2024
   berserkers_kelley:
     post_count: 2
     first_year: 2018
@@ -60,7 +65,6 @@ berserkers_kelley_body:
     - {date: "2018-08-06", url: "https://www.wineberserkers.com/t/a-few-humdingers/144810/2"}
     - {date: "2016-01-03", url: "https://www.wineberserkers.com/t/tn-1964-giacomo-conterno-barolo-riserva-monfortino-speciale/116108/12"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Giacomo Conterno
@@ -137,3 +141,20 @@ _Not yet populated._
 - [[Italy_Producers|Italy]]
 - [[Barolo (Monforte)]]
 - [[CSW Article Archive]]
+
+## FASS Write-ups
+
+### [Among the Hardest to Get Wines in Italy Bar None – His 2 (Still) Affordable Wines – Brilliant Barbera and Dolcetto](https://www.fassselections.com/blog/among-the-hardest-to-get-wines-in-italy-bar-none-his-2-still-affordable-wines-brilliant-barbera-and-dolcetto/)
+*2024-05*
+
+> #### On the Top Langhe Wine Group, This Producer Is the Talk of the Town – Changed Voerzio to Start Making Classic Wines – His Barolo Top Crus Go for $400+ – Started His Own Micro Estate on the Side – Top, Top, Top Tier in the Langhe – This Will Be the…
+
+### [A Passion Project from One of Barolo’s Old Guard – On a Par with Bartolo Mascarello, Conterno, – Psychotically Aromatic](https://www.fassselections.com/blog/a-passion-project-from-one-of-barolos-old-guard-on-a-par-with-bartolo-mascarello-conterno-psychotically-aromatic/)
+*2023-11*
+
+> ##### Gillardi – Third Generation Producer – Father Started As a Winemaker at Barolo Legend Ceretto and Has Worked there for 40 Years – He Supervises Winemaking at Gillardi ##### The 2019 Vintage – Like 1982 for Bordeaux – Better than Even the Legendary 2016…
+
+### [Flexing like a Wine Professional – 2 Discoveries from Lesser Known Regions That Rock the QPR Hierarchy – Taurasi and a Stunning Greco Riserva](https://www.fassselections.com/blog/flexing-like-a-wine-professional-2-discoveries-from-lesser-known-regions-that-rock-the-qpr-hierarchy-taurasi-and-a-stunning-greco-riserva/)
+*2023-11*
+
+> ##### 2018 CaLaFe Taurasi – Under $40 – Amazing Value for Such a Beautiful Wine – Almost Volnay-like in Aromatic Impact, Balance and Weight – No Idea How He Does This – Nose: Incredibly Complex and Gorgeous – Beautiful Plum Flowers – Swirling Maelstrom of…

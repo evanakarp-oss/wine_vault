@@ -3,11 +3,11 @@ type: fass_article
 slug: 1-of-124-limited-list-from-the-greeks-cellar-one-of-the-most-sought-after-wines-of-the-rhone-the-greeks-cote-rotie-la-brocarde-from-the-best-parcel-collectors-item
 title: "1 of 124 LIMITED LIST – From The “Greek’s” Cellar – One of the Most Sought After Wines of the Rhone – The Greek’s Côte Rôtie ‘La Brocarde’ from the Best Parcel – Collector’s Item"
 url: https://www.fassselections.com/blog/1-of-124-limited-list-from-the-greeks-cellar-one-of-the-most-sought-after-wines-of-the-rhone-the-greeks-cote-rotie-la-brocarde-from-the-best-parcel-collectors-item/
-date: ""
+date: "2024-01-14"
 producer: ""
 categories: []
 word_count: 2033
-fetched_at: "2026-05-05T09:55:39+00:00"
+fetched_at: "2026-05-30T11:42:12+00:00"
 ---
 
 # 1 of 124 LIMITED LIST – From The “Greek’s” Cellar – One of the Most Sought After Wines of the Rhone – The Greek’s Côte Rôtie ‘La Brocarde’ from the Best Parcel – Collector’s Item

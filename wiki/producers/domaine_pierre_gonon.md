@@ -33,6 +33,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 2
+    dedicated_count: 0
+    first_year: 2024
+    last_year: 2024
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -53,7 +58,6 @@ berserkers_kelley_body:
     - {date: "2022-12-23", url: "https://www.wineberserkers.com/t/tn-2020-pierre-gonon-ardeche-les-iles-feray/292752/23"}
     - {date: "2022-12-23", url: "https://www.wineberserkers.com/t/tn-2020-pierre-gonon-ardeche-les-iles-feray/292752/25"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Domaine Pierre Gonon
@@ -251,3 +255,15 @@ _Not yet populated._
 - [[Rhône_Producers|Rhône]]
 - [[Saint-Joseph]]
 - [[CSW Article Archive]]
+
+## FASS Write-ups
+
+### [The Birth of Athena – 2 Northern Rhone Super Cuvees – I Gave the Red a 9.8 – One of the Best Wines I Drank Last Year!](https://www.fassselections.com/blog/the-birth-of-athena-2-northern-rhone-super-cuvees-i-gave-the-red-a-9-8-one-of-the-best-wines-i-drank-last-year-2/)
+*2024-04*
+
+> #### #### 2021 Domaine des Pierres Seches St. Joseph Rouge “Cuvee 1930” – One of My Top Wines I Drank from Anywhere in 2023 (9.8/10) #### – One of the Best St. Jos I’ve Ever Had #### – From Vines Planted in 1930 – Now a Special Cuvee – A Stunning Wine of Epic…
+
+### [The Birth of Athena – 2 Northern Rhone Super Cuvees – I Gave the Red a 9.8 – One of the Best Wines I Drank Last Year!](https://www.fassselections.com/blog/the-birth-of-athena-2-northern-rhone-super-cuvees-i-gave-the-red-a-9-8-one-of-the-best-wines-i-drank-last-year/)
+*2024-03*
+
+> ##### 2021 Domaine des Pierres Seches St. Joseph Rouge “Cuvee 1930” – One of My Top Wines I Drank from Anywhere in 2023 (9.8/10) ##### – One of the Best St. Jos I’ve Ever Had ##### – From Vines Planted in 1930 – Now a Special Cuvee – A Stunning Wine of Epic…

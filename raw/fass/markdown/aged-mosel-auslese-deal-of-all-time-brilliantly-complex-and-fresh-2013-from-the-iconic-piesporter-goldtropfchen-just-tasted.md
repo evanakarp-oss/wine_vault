@@ -3,11 +3,11 @@ type: fass_article
 slug: aged-mosel-auslese-deal-of-all-time-brilliantly-complex-and-fresh-2013-from-the-iconic-piesporter-goldtropfchen-just-tasted
 title: "Aged Mosel Auslese Deal of All Time – Brilliantly Complex and Fresh 2013 from the Iconic Piesporter Goldtropfchen – Just Tasted"
 url: https://www.fassselections.com/blog/aged-mosel-auslese-deal-of-all-time-brilliantly-complex-and-fresh-2013-from-the-iconic-piesporter-goldtropfchen-just-tasted/
-date: ""
+date: "2024-06-06"
 producer: ""
 categories: []
 word_count: 1203
-fetched_at: "2026-05-05T09:56:57+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # Aged Mosel Auslese Deal of All Time – Brilliantly Complex and Fresh 2013 from the Iconic Piesporter Goldtropfchen – Just Tasted

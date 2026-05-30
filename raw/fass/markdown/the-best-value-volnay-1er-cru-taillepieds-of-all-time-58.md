@@ -3,11 +3,11 @@ type: fass_article
 slug: the-best-value-volnay-1er-cru-taillepieds-of-all-time-58
 title: "The Best Value Volnay 1er Cru “Taillepieds” Of All Time – $58!"
 url: https://www.fassselections.com/blog/the-best-value-volnay-1er-cru-taillepieds-of-all-time-58/
-date: ""
+date: "2024-03-18"
 producer: ""
 categories: []
 word_count: 1774
-fetched_at: "2026-05-05T10:01:57+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The Best Value Volnay 1er Cru “Taillepieds” Of All Time – $58!

@@ -3,11 +3,11 @@ type: fass_article
 slug: furios-prize-across-from-cote-rotie-arguably-the-greatest-rhone-value-we-sell-case-purchase-consideration
 title: "Furio’s Prize – Across from Cote Rotie, Arguably the Greatest Rhone Value We Sell – Case Purchase Consideration"
 url: https://www.fassselections.com/blog/furios-prize-across-from-cote-rotie-arguably-the-greatest-rhone-value-we-sell-case-purchase-consideration/
-date: ""
+date: "2024-04-16"
 producer: ""
 categories: []
 word_count: 1322
-fetched_at: "2026-05-05T09:58:26+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # Furio’s Prize – Across from Cote Rotie, Arguably the Greatest Rhone Value We Sell – Case Purchase Consideration

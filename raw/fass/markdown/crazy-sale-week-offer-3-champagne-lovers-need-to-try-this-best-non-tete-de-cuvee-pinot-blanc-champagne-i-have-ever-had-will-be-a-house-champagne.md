@@ -3,11 +3,11 @@ type: fass_article
 slug: crazy-sale-week-offer-3-champagne-lovers-need-to-try-this-best-non-tete-de-cuvee-pinot-blanc-champagne-i-have-ever-had-will-be-a-house-champagne
 title: "CRAZY SALE WEEK OFFER # 3 – Champagne Lovers Need to Try This – Best non Tete de Cuvee Pinot Blanc Champagne I Have Ever Had – Will Be a “House Champagne”"
 url: https://www.fassselections.com/blog/crazy-sale-week-offer-3-champagne-lovers-need-to-try-this-best-non-tete-de-cuvee-pinot-blanc-champagne-i-have-ever-had-will-be-a-house-champagne/
-date: ""
+date: "2024-03-12"
 producer: ""
 categories: []
 word_count: 1116
-fetched_at: "2026-05-05T09:57:44+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # CRAZY SALE WEEK OFFER # 3 – Champagne Lovers Need to Try This – Best non Tete de Cuvee Pinot Blanc Champagne I Have Ever Had – Will Be a “House Champagne”

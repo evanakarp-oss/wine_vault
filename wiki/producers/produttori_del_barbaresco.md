@@ -32,6 +32,11 @@ retailers:
     price_max: 49.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -50,7 +55,6 @@ berserkers_kelley_body:
     - {date: "2018-09-11", url: "https://www.wineberserkers.com/t/mixed-tns-mortet-produttori-lignier/145646/5"}
     - {date: "2016-10-31", url: "https://www.wineberserkers.com/t/last-10-wines-you-drank-tells-us-something-about-what-you-like/99291/46"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Produttori del Barbaresco

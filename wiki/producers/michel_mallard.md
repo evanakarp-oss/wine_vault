@@ -26,6 +26,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 1
+    dedicated_count: 0
+    first_year: 2023
+    last_year: 2023
   berserkers_kelley:
     post_count: 5
     first_year: 2019
@@ -46,7 +51,6 @@ berserkers_kelley_body:
     - {date: "2022-01-21", url: "https://www.wineberserkers.com/t/wks-new-2020-and-2019-burgundy-report/176513/8"}
     - {date: "2022-01-21", url: "https://www.wineberserkers.com/t/wks-new-2020-and-2019-burgundy-report/176513/27"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Michel Mallard
@@ -131,3 +135,10 @@ _Not yet populated._
 ## FASS
 
 _Not yet populated._
+
+## FASS Write-ups
+
+### [An Unheralded Value in the Côte de Beaune?!? The Grand Crus Are Famous, the 1er Crus Are Ignored by Critics – High End Value](https://www.fassselections.com/blog/an-unheralded-value-in-the-cote-de-beaune-the-grand-crus-are-famous-the-1er-crus-are-ignored-by-critics-high-end-value/)
+*2023-11*
+
+> ##### Aloxe-Corton – Hidden in Plain Sight – The Grand Crus Are Well Regarded – The 1er Crus Are Mostly Ignored by Critics – (Mallard’s 2020 Got 93-95 from William Kelley) – A “High Quality Value Play” ##### 2021 Remi Poisot Aloxe-Corton 1er Cru – Nose:…

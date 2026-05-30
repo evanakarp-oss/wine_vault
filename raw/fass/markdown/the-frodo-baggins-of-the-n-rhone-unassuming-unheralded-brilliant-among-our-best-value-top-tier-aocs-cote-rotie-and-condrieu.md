@@ -3,11 +3,11 @@ type: fass_article
 slug: the-frodo-baggins-of-the-n-rhone-unassuming-unheralded-brilliant-among-our-best-value-top-tier-aocs-cote-rotie-and-condrieu
 title: "The Frodo Baggins of the N Rhone – Unassuming, Unheralded, Brilliant – Among Our Best Value Top Tier AOCs (Cote Rotie and Condrieu)"
 url: https://www.fassselections.com/blog/the-frodo-baggins-of-the-n-rhone-unassuming-unheralded-brilliant-among-our-best-value-top-tier-aocs-cote-rotie-and-condrieu/
-date: ""
+date: "2024-05-27"
 producer: ""
 categories: []
 word_count: 2055
-fetched_at: "2026-05-05T10:02:41+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The Frodo Baggins of the N Rhone – Unassuming, Unheralded, Brilliant – Among Our Best Value Top Tier AOCs (Cote Rotie and Condrieu)

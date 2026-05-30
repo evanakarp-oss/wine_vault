@@ -3,11 +3,11 @@ type: fass_article
 slug: two-very-important-wines-pinot-noir-and-a-white-from-ziereiesens-protege-the-pinot-is-a-no-brainer-the-white-is-a-sleeper-genius-wine-2
 title: "Two Very Important Wines (Pinot Noir and a White) from Ziereiesen’s Protege, The Pinot Is a No Brainer the White Is a Sleeper Genius Wine"
 url: https://www.fassselections.com/blog/two-very-important-wines-pinot-noir-and-a-white-from-ziereiesens-protege-the-pinot-is-a-no-brainer-the-white-is-a-sleeper-genius-wine-2/
-date: ""
+date: "2024-03-26"
 producer: ""
 categories: []
 word_count: 2177
-fetched_at: "2026-05-05T10:03:54+00:00"
+fetched_at: "2026-05-30T11:42:17+00:00"
 ---
 
 # Two Very Important Wines (Pinot Noir and a White) from Ziereiesen’s Protege, The Pinot Is a No Brainer the White Is a Sleeper Genius Wine

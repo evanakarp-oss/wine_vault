@@ -26,6 +26,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 1
     first_year: 2018
@@ -42,7 +47,6 @@ berserkers_kelley_body:
   recent_posts:
     - {date: "2018-09-20", url: "https://www.wineberserkers.com/t/representative-wines-from-the-10-cru-beaujolais/145868/16"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Julien Sunier

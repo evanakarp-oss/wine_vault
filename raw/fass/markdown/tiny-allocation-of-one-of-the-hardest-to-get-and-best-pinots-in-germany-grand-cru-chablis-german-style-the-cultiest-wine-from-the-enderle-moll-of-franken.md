@@ -3,11 +3,11 @@ type: fass_article
 slug: tiny-allocation-of-one-of-the-hardest-to-get-and-best-pinots-in-germany-grand-cru-chablis-german-style-the-cultiest-wine-from-the-enderle-moll-of-franken
 title: "Tiny Allocation of One of the Hardest to Get and Best Pinots in Germany + Grand Cru Chablis (German Style!)- The Cultiest Wine from the Enderle & Moll of Franken"
 url: https://www.fassselections.com/blog/tiny-allocation-of-one-of-the-hardest-to-get-and-best-pinots-in-germany-grand-cru-chablis-german-style-the-cultiest-wine-from-the-enderle-moll-of-franken/
-date: ""
+date: "2023-10-26"
 producer: ""
 categories: []
 word_count: 1862
-fetched_at: "2026-05-05T10:03:52+00:00"
+fetched_at: "2026-05-30T11:42:17+00:00"
 ---
 
 # Tiny Allocation of One of the Hardest to Get and Best Pinots in Germany + Grand Cru Chablis (German Style!)- The Cultiest Wine from the Enderle & Moll of Franken

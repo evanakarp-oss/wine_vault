@@ -3,11 +3,11 @@ type: fass_article
 slug: yes-there-are-actual-under-45-and-under-35-burgundies-village-you-can-drink-every-day-that-even-burg-snobs-will-love-2-today-that-offer-great-complexity-for-the-price
 title: "Yes – There Are Actual Under $45 and under $35 Burgundies Village You Can Drink Every Day That Even Burg Snobs Will Love – 2 Today That Offer Great Complexity For the Price"
 url: https://www.fassselections.com/blog/yes-there-are-actual-under-45-and-under-35-burgundies-village-you-can-drink-every-day-that-even-burg-snobs-will-love-2-today-that-offer-great-complexity-for-the-price/
-date: ""
+date: "2024-05-29"
 producer: ""
 categories: []
 word_count: 2324
-fetched_at: "2026-05-05T10:04:15+00:00"
+fetched_at: "2026-05-30T11:42:17+00:00"
 ---
 
 # Yes – There Are Actual Under $45 and under $35 Burgundies Village You Can Drink Every Day That Even Burg Snobs Will Love – 2 Today That Offer Great Complexity For the Price

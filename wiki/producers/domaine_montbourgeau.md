@@ -29,6 +29,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 1
     first_year: 2019
@@ -45,7 +50,6 @@ berserkers_kelley_body:
   recent_posts:
     - {date: "2019-10-29", url: "https://www.wineberserkers.com/t/tn-2011-jacques-puffeney-arbois-savagnin/155703/21"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Domaine Montbourgeau

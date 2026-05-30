@@ -3,11 +3,11 @@ type: fass_article
 slug: dampts-2023-vaillons-terrific-1er-cru-for-the-price-of-village-chablis-more-classic-2023-vintage
 title: "Dampt’s 2023 Vaillons – Terrific 1er Cru for the Price of Village Chablis – More Classic 2023 Vintage"
 url: https://www.fassselections.com/blog/dampts-2023-vaillons-terrific-1er-cru-for-the-price-of-village-chablis-more-classic-2023-vintage/
-date: ""
+date: "2024-03-27"
 producer: ""
 categories: []
 word_count: 1399
-fetched_at: "2026-05-05T09:57:49+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # Dampt’s 2023 Vaillons – Terrific 1er Cru for the Price of Village Chablis – More Classic 2023 Vintage

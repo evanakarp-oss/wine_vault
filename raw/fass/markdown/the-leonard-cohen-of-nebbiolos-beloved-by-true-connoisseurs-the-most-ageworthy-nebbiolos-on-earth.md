@@ -3,11 +3,11 @@ type: fass_article
 slug: the-leonard-cohen-of-nebbiolos-beloved-by-true-connoisseurs-the-most-ageworthy-nebbiolos-on-earth
 title: "The Leonard Cohen of Nebbiolos – Beloved by True Connoisseurs. The Most Ageworthy Nebbiolos on Earth"
 url: https://www.fassselections.com/blog/the-leonard-cohen-of-nebbiolos-beloved-by-true-connoisseurs-the-most-ageworthy-nebbiolos-on-earth/
-date: ""
+date: "2023-11-13"
 producer: ""
 categories: []
 word_count: 1393
-fetched_at: "2026-05-05T10:03:01+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The Leonard Cohen of Nebbiolos – Beloved by True Connoisseurs. The Most Ageworthy Nebbiolos on Earth

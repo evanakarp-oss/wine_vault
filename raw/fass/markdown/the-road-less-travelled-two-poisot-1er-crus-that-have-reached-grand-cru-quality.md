@@ -3,11 +3,11 @@ type: fass_article
 slug: the-road-less-travelled-two-poisot-1er-crus-that-have-reached-grand-cru-quality
 title: "The Road Less Travelled: Two Poisot 1er Crus that Have Reached Grand Cru Quality"
 url: https://www.fassselections.com/blog/the-road-less-travelled-two-poisot-1er-crus-that-have-reached-grand-cru-quality/
-date: ""
+date: "2024-05-06"
 producer: ""
 categories: []
 word_count: 2036
-fetched_at: "2026-05-05T10:03:26+00:00"
+fetched_at: "2026-05-30T11:42:17+00:00"
 ---
 
 # The Road Less Travelled: Two Poisot 1er Crus that Have Reached Grand Cru Quality

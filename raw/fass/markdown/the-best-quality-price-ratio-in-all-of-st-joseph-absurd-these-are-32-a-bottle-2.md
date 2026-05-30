@@ -3,11 +3,11 @@ type: fass_article
 slug: the-best-quality-price-ratio-in-all-of-st-joseph-absurd-these-are-32-a-bottle-2
 title: "The Best Quality Price Ratio in All of St. Joseph – Absurd These are $32 A Bottle"
 url: https://www.fassselections.com/blog/the-best-quality-price-ratio-in-all-of-st-joseph-absurd-these-are-32-a-bottle-2/
-date: ""
+date: "2024-06-03"
 producer: ""
 categories: []
 word_count: 2061
-fetched_at: "2026-05-05T10:01:46+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The Best Quality Price Ratio in All of St. Joseph – Absurd These are $32 A Bottle

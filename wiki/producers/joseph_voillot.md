@@ -28,6 +28,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 2
+    dedicated_count: 0
+    first_year: 2024
+    last_year: 2024
   berserkers_kelley:
     post_count: 3
     first_year: 2018
@@ -46,7 +51,6 @@ berserkers_kelley_body:
     - {date: "2019-02-12", url: "https://www.wineberserkers.com/t/understanding-the-producers-of-volnay/149875/10"}
     - {date: "2018-01-08", url: "https://www.wineberserkers.com/t/tn-1984-rene-mugneret-nuits-st-georges-1er-cru-les-boudots/139386/13"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Joseph Voillot
@@ -113,3 +117,15 @@ _Not yet populated._
 - [[Burgundy_Producers|Burgundy]]
 - [[Volnay / Pommard]]
 - [[CSW Article Archive]]
+
+## FASS Write-ups
+
+### [The Grand Cru of Pommard – Rugiens, Plus Stunning Volnay – Enter 2022 – Drinking Beautifully and Will Age](https://www.fassselections.com/blog/the-grand-cru-of-pommard-rugiens-plus-stunning-volnay-enter-2022-drinking-beautifully-and-will-age/)
+*2024-05*
+
+> #### Oh My God! What Was I Thinking?!? – Wines You Will Look Back and Cry for Not Buying More #### 2022 at Rebourgeon – The Accessibility of 2021 – 80% Red Fruits, 20% Black Fruits – Velvety Tanins – Well Integrated – Will Drink Well Young but Will Age Well…
+
+### [The Quintessential Volnay 1er Cru – The Great Champans from Buffet – Absurdly Low Price – 91-93 BH + Incredible Village Volnay – 89-91 BH](https://www.fassselections.com/blog/the-quintessential-volnay-1er-cru-the-great-champans-from-buffet-absurdly-low-price-91-93-bh-incredible-village-volnay-89-91-bh/)
+*2024-04*
+
+> #### The 2022 Vintage – “Bountiful and beautiful” Jasper Morris #### “As is almost always the case when the quality is consistent, the best reds were made in Volnay, Pommard, Beaune and the Hill of Corton.” Burghound on 2022 Cote de Beaune reds #### 2022 at…

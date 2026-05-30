@@ -3,11 +3,11 @@ type: fass_article
 slug: for-those-in-the-know-one-of-our-most-important-annual-sparkling-wine-offers-perhaps-our-best-sparkling-rose-barbaglia-2
 title: "For Those in the Know, One of Our Most Important Annual Sparkling Wine Offers – Perhaps Our Best Sparkling Rose – Barbaglia"
 url: https://www.fassselections.com/blog/for-those-in-the-know-one-of-our-most-important-annual-sparkling-wine-offers-perhaps-our-best-sparkling-rose-barbaglia-2/
-date: ""
+date: "2024-06-02"
 producer: ""
 categories: []
 word_count: 1859
-fetched_at: "2026-05-05T09:58:10+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # For Those in the Know, One of Our Most Important Annual Sparkling Wine Offers – Perhaps Our Best Sparkling Rose – Barbaglia

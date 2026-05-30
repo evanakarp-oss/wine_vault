@@ -3,11 +3,11 @@ type: fass_article
 slug: ledys-triumphant-hcdn-drinks-like-a-brilliant-nsg-village-wine-under-40-21-vintage
 title: "Ledy’s Triumphant HCDN – drinks like a brilliant NSG village wine – Under $40 – 21 Vintage"
 url: https://www.fassselections.com/blog/ledys-triumphant-hcdn-drinks-like-a-brilliant-nsg-village-wine-under-40-21-vintage/
-date: ""
+date: "2024-04-18"
 producer: ""
 categories: []
 word_count: 1303
-fetched_at: "2026-05-05T09:59:38+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # Ledy’s Triumphant HCDN – drinks like a brilliant NSG village wine – Under $40 – 21 Vintage

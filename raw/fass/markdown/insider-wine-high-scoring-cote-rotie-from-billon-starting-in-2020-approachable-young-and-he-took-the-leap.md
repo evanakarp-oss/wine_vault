@@ -3,11 +3,11 @@ type: fass_article
 slug: insider-wine-high-scoring-cote-rotie-from-billon-starting-in-2020-approachable-young-and-he-took-the-leap
 title: "Insider Wine – High Scoring Cote Rotie from Billon – Starting in 2020, Approachable Young AND He Took “The Leap”"
 url: https://www.fassselections.com/blog/insider-wine-high-scoring-cote-rotie-from-billon-starting-in-2020-approachable-young-and-he-took-the-leap/
-date: ""
+date: "2024-04-23"
 producer: ""
 categories: []
 word_count: 1533
-fetched_at: "2026-05-05T09:59:15+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # Insider Wine – High Scoring Cote Rotie from Billon – Starting in 2020, Approachable Young AND He Took “The Leap”

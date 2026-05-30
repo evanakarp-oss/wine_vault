@@ -3,11 +3,11 @@ type: fass_article
 slug: from-the-estate-behind-neal-martins-sparkling-wine-of-the-year-a-stunning-complex-rose-champagne
 title: "From the Estate Behind Neal Martin’s Sparkling wine of the Year, a Stunning, Complex Rose Champagne"
 url: https://www.fassselections.com/blog/from-the-estate-behind-neal-martins-sparkling-wine-of-the-year-a-stunning-complex-rose-champagne/
-date: ""
+date: "2023-10-03"
 producer: ""
 categories: []
 word_count: 1286
-fetched_at: "2026-05-05T09:58:23+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # From the Estate Behind Neal Martin’s Sparkling wine of the Year, a Stunning, Complex Rose Champagne

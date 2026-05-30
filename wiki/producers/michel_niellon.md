@@ -29,6 +29,11 @@ retailers:
     price_max: 239.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 2
     first_year: 2018
@@ -52,7 +57,6 @@ berserkers_kelley_body:
     - {date: "2019-08-25", url: "https://www.wineberserkers.com/t/tn-2014-domaine-michel-niellon-chassagne-montrachet-1er-cru-les-chaumees-clos-de-la-truffiere/150690/43"}
     - {date: "2019-08-15", url: "https://www.wineberserkers.com/t/tns-2017-michel-niellon-chassagnes/154107/10"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Michel Niellon

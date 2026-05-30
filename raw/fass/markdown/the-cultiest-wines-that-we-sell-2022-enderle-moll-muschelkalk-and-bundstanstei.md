@@ -3,11 +3,11 @@ type: fass_article
 slug: the-cultiest-wines-that-we-sell-2022-enderle-moll-muschelkalk-and-bundstanstei
 title: "The Cultiest Wines that We Sell – 2022 Enderle & Moll Muschelkalk and Bundstanstei"
 url: https://www.fassselections.com/blog/the-cultiest-wines-that-we-sell-2022-enderle-moll-muschelkalk-and-bundstanstei/
-date: ""
+date: "2024-03-14"
 producer: ""
 categories: []
 word_count: 1347
-fetched_at: "2026-05-05T10:02:18+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The Cultiest Wines that We Sell – 2022 Enderle & Moll Muschelkalk and Bundstanstei

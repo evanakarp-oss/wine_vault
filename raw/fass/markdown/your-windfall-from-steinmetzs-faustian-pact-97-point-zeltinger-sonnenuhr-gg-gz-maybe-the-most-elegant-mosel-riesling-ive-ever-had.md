@@ -3,11 +3,11 @@ type: fass_article
 slug: your-windfall-from-steinmetzs-faustian-pact-97-point-zeltinger-sonnenuhr-gg-gz-maybe-the-most-elegant-mosel-riesling-ive-ever-had
 title: "Your Windfall from Steinmetz’s Faustian Pact – 97 Point Zeltinger Sonnenuhr GG (GZ) – Maybe the Most Elegant Mosel Riesling I’ve Ever Had"
 url: https://www.fassselections.com/blog/your-windfall-from-steinmetzs-faustian-pact-97-point-zeltinger-sonnenuhr-gg-gz-maybe-the-most-elegant-mosel-riesling-ive-ever-had/
-date: ""
+date: "2024-01-08"
 producer: ""
 categories: []
 word_count: 1175
-fetched_at: "2026-05-05T10:04:17+00:00"
+fetched_at: "2026-05-30T11:42:17+00:00"
 ---
 
 # Your Windfall from Steinmetz’s Faustian Pact – 97 Point Zeltinger Sonnenuhr GG (GZ) – Maybe the Most Elegant Mosel Riesling I’ve Ever Had

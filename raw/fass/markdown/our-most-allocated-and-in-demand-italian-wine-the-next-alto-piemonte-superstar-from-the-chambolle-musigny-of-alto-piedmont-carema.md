@@ -3,11 +3,11 @@ type: fass_article
 slug: our-most-allocated-and-in-demand-italian-wine-the-next-alto-piemonte-superstar-from-the-chambolle-musigny-of-alto-piedmont-carema
 title: "Our Most Allocated and in Demand Italian Wine: The Next Alto Piemonte Superstar – from the Chambolle Musigny of Alto Piedmont, Carema"
 url: https://www.fassselections.com/blog/our-most-allocated-and-in-demand-italian-wine-the-next-alto-piemonte-superstar-from-the-chambolle-musigny-of-alto-piedmont-carema/
-date: ""
+date: "2024-01-17"
 producer: ""
 categories: []
 word_count: 1814
-fetched_at: "2026-05-05T10:00:48+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # Our Most Allocated and in Demand Italian Wine: The Next Alto Piemonte Superstar – from the Chambolle Musigny of Alto Piedmont, Carema

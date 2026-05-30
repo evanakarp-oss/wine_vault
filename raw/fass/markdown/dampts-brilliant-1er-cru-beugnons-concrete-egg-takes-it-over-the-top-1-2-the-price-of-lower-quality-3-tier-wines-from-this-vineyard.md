@@ -3,11 +3,11 @@ type: fass_article
 slug: dampts-brilliant-1er-cru-beugnons-concrete-egg-takes-it-over-the-top-1-2-the-price-of-lower-quality-3-tier-wines-from-this-vineyard
 title: "Dampt’s Brilliant 1er Cru Beugnons – Concrete Egg Takes it Over the Top – 1/2 the Price of Lower Quality 3 Tier Wines from This Vineyard"
 url: https://www.fassselections.com/blog/dampts-brilliant-1er-cru-beugnons-concrete-egg-takes-it-over-the-top-1-2-the-price-of-lower-quality-3-tier-wines-from-this-vineyard/
-date: ""
+date: "2024-03-02"
 producer: ""
 categories: []
 word_count: 1706
-fetched_at: "2026-05-05T09:57:55+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # Dampt’s Brilliant 1er Cru Beugnons – Concrete Egg Takes it Over the Top – 1/2 the Price of Lower Quality 3 Tier Wines from This Vineyard

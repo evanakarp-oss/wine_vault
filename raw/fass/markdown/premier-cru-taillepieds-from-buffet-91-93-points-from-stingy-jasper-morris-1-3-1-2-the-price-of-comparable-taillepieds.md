@@ -3,11 +3,11 @@ type: fass_article
 slug: premier-cru-taillepieds-from-buffet-91-93-points-from-stingy-jasper-morris-1-3-1-2-the-price-of-comparable-taillepieds
 title: "Premier Cru Taillepieds from Buffet – 91-93 Points from Stingy Jasper Morris – 1/3-1/2 the Price of Comparable Taillepieds"
 url: https://www.fassselections.com/blog/premier-cru-taillepieds-from-buffet-91-93-points-from-stingy-jasper-morris-1-3-1-2-the-price-of-comparable-taillepieds/
-date: ""
+date: "2024-04-04"
 producer: ""
 categories: []
 word_count: 1941
-fetched_at: "2026-05-05T10:01:06+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # Premier Cru Taillepieds from Buffet – 91-93 Points from Stingy Jasper Morris – 1/3-1/2 the Price of Comparable Taillepieds

@@ -3,11 +3,11 @@ type: fass_article
 slug: some-of-the-most-elegant-brunellos-made-95-points-heralded-2019-vintage-likely-our-only-2019-brunello-offer-2
 title: "Some of the Most Elegant Brunellos made – 95 points. Heralded 2019 Vintage – Likely Our Only 2019 Brunello Offer"
 url: https://www.fassselections.com/blog/some-of-the-most-elegant-brunellos-made-95-points-heralded-2019-vintage-likely-our-only-2019-brunello-offer-2/
-date: ""
+date: "2024-05-02"
 producer: ""
 categories: []
 word_count: 1303
-fetched_at: "2026-05-05T10:01:17+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # Some of the Most Elegant Brunellos made – 95 points. Heralded 2019 Vintage – Likely Our Only 2019 Brunello Offer

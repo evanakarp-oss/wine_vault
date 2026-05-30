@@ -3,11 +3,11 @@ type: fass_article
 slug: the-incomparable-2021-domberg-from-andi-schneider-one-of-2021s-greatest-german-rieslings
 title: "The Incomparable 2021 Domberg from Andi Schneider – One of 2021’s Greatest German Rieslings!"
 url: https://www.fassselections.com/blog/the-incomparable-2021-domberg-from-andi-schneider-one-of-2021s-greatest-german-rieslings/
-date: ""
+date: "2024-04-01"
 producer: ""
 categories: []
 word_count: 2127
-fetched_at: "2026-05-05T10:02:58+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The Incomparable 2021 Domberg from Andi Schneider – One of 2021’s Greatest German Rieslings!

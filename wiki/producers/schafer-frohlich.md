@@ -26,6 +26,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 2
+    dedicated_count: 0
+    first_year: 2023
+    last_year: 2024
 community:
   berserkers:
     threads:
@@ -100,3 +105,15 @@ _Not yet populated._
 - [[Germany_Producers|Germany]]
 - [[Nahe]]
 - [[CSW Article Archive]]
+
+## FASS Write-ups
+
+### [The Incomparable 2021 Domberg from Andi Schneider – One of 2021’s Greatest German Rieslings!](https://www.fassselections.com/blog/the-incomparable-2021-domberg-from-andi-schneider-one-of-2021s-greatest-german-rieslings/)
+*2024-04*
+
+> #### 2021 at Schneider Is Andi’s Greatest Vintage And The 2021 Domberg Is The Feather In His Cap – An Ethereal, Cerebral, Contemplative Riesling – Nothing Can Be Compared To It – At $27.99 On A Case I am Struggling To Think Of Another Dry Riesling Value This…
+
+### [Brisset’s 2022 “Cuvee Cassaneas” – The Final Leap – Tastes Exactly Like a 1er Cru Chassagne – Under $40 On A Case](https://www.fassselections.com/blog/brissets-2022-cuvee-cassaneas-the-final-leap-tastes-exactly-like-a-1er-cru-chassagne-under-40-on-a-case/)
+*2023-11*
+
+> ##### The Final Leap – Brisset Was at the Top When I Started Working with Him – I Didn’t Expect the Wines to Get Even Better – In 2022 They Did ##### 2022 Pierre Brisset Bourgogne Blanc “Cuvee Cassaneas” – Tastes Exactly Like a 1er Cru Chassagne (Cassaneas is…

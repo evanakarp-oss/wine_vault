@@ -29,6 +29,11 @@ retailers:
     price_max: 104.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 1
+    dedicated_count: 0
+    first_year: 2024
+    last_year: 2024
   berserkers_kelley:
     post_count: 2
     first_year: 2020
@@ -52,7 +57,6 @@ berserkers_kelley_body:
     - {date: "2020-06-10", url: "https://www.wineberserkers.com/t/question-re-2017-pycm-corton-charlemagne/154092/13"}
     - {date: "2020-01-17", url: "https://www.wineberserkers.com/t/white-burgundy-under-diam/157604/11"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Louis Latour
@@ -100,3 +104,10 @@ Currently tracked at Raeders: **9 cuvée/vintage entries**; prices $39.99–$104
 ## FASS
 
 _Not yet populated._
+
+## FASS Write-ups
+
+### [Jasper Morris Speaks! Fantastic 2022 Rebourgeon Village Pommard – 1/2 the Price of Negociant Pommard and Much Better](https://www.fassselections.com/blog/jasper-morris-speaks-fantastic-2022-rebourgeon-village-pommard-1-2-the-price-of-negociant-pommard-and-much-better/)
+*2024-03*
+
+> #### These Wines Are Now Allocated – The World Has Figured Out That Rebourgeon Is a Star – So the Wines Are Allocated Even in a Full Year like 2022 – Your Allocations of the Top Wines Will Be Determined by Your Total Purchases of all Wines – Just like Ours…

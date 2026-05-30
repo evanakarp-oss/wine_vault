@@ -3,11 +3,11 @@ type: fass_article
 slug: a-primer-on-the-economics-of-the-wine-tariffs-and-a-proposed-solution
 title: "A Primer on the Economics of the Wine Tariffs and a Proposed Solution"
 url: https://www.fassselections.com/blog/a-primer-on-the-economics-of-the-wine-tariffs-and-a-proposed-solution/
-date: ""
+date: "2022-10-18"
 producer: ""
 categories: []
 word_count: 884
-fetched_at: "2026-05-05T09:56:46+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # A Primer on the Economics of the Wine Tariffs and a Proposed Solution

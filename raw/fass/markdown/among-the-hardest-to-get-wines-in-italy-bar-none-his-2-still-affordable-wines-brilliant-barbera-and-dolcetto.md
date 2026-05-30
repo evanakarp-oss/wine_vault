@@ -3,11 +3,11 @@ type: fass_article
 slug: among-the-hardest-to-get-wines-in-italy-bar-none-his-2-still-affordable-wines-brilliant-barbera-and-dolcetto
 title: "Among the Hardest to Get Wines in Italy Bar None – His 2 (Still) Affordable Wines – Brilliant Barbera and Dolcetto"
 url: https://www.fassselections.com/blog/among-the-hardest-to-get-wines-in-italy-bar-none-his-2-still-affordable-wines-brilliant-barbera-and-dolcetto/
-date: ""
+date: "2024-05-22"
 producer: ""
 categories: []
 word_count: 2918
-fetched_at: "2026-05-05T09:56:59+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # Among the Hardest to Get Wines in Italy Bar None – His 2 (Still) Affordable Wines – Brilliant Barbera and Dolcetto

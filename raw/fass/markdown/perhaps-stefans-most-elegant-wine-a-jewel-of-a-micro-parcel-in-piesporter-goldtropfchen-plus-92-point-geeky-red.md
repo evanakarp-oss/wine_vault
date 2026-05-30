@@ -3,11 +3,11 @@ type: fass_article
 slug: perhaps-stefans-most-elegant-wine-a-jewel-of-a-micro-parcel-in-piesporter-goldtropfchen-plus-92-point-geeky-red
 title: "Perhaps Stefan’s Most Elegant Wine: A Jewel of a Micro Parcel in Piesporter Goldtropfchen Plus 92 Point Geeky Red"
 url: https://www.fassselections.com/blog/perhaps-stefans-most-elegant-wine-a-jewel-of-a-micro-parcel-in-piesporter-goldtropfchen-plus-92-point-geeky-red/
-date: ""
+date: "2023-11-19"
 producer: ""
 categories: []
 word_count: 2364
-fetched_at: "2026-05-05T10:00:54+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # Perhaps Stefan’s Most Elegant Wine: A Jewel of a Micro Parcel in Piesporter Goldtropfchen Plus 92 Point Geeky Red

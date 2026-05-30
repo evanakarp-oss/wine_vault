@@ -29,6 +29,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 4
     first_year: 2017
@@ -49,7 +54,6 @@ berserkers_kelley_body:
     - {date: "2021-07-09", url: "https://www.wineberserkers.com/t/smoky-wines-terroir-vs-winemaking/171921/30"}
     - {date: "2020-06-05", url: "https://www.wineberserkers.com/t/tn-2017-pierre-yves-colin-morey-corton-charlemagne/161577/3"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Pierre-Yves Colin-Morey

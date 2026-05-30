@@ -3,11 +3,11 @@ type: fass_article
 slug: charlie-the-greeks-son-makes-a-brilliant-bdb-300-bottles-made-i-have-48
 title: "Charlie (the Greek’s Son) Makes a Brilliant BdB – 300 Bottles Made, I Have 48"
 url: https://www.fassselections.com/blog/charlie-the-greeks-son-makes-a-brilliant-bdb-300-bottles-made-i-have-48/
-date: ""
+date: "2023-11-01"
 producer: ""
 categories: []
 word_count: 1164
-fetched_at: "2026-05-05T09:57:38+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # Charlie (the Greek’s Son) Makes a Brilliant BdB – 300 Bottles Made, I Have 48

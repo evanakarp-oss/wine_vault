@@ -3,11 +3,11 @@ type: fass_article
 slug: 95-point-pinot-noir-from-stefan-steinmetz-under-35-a-stunning-collection-an-iconic-german-pinot-will-age-for-a-decade-or-longer
 title: "95 Point *** Pinot Noir from Stefan Steinmetz – Under $35 – “a stunning collection” – An Iconic German Pinot – Will Age for a Decade or Longer"
 url: https://www.fassselections.com/blog/95-point-pinot-noir-from-stefan-steinmetz-under-35-a-stunning-collection-an-iconic-german-pinot-will-age-for-a-decade-or-longer/
-date: ""
+date: "2024-01-15"
 producer: ""
 categories: []
 word_count: 1916
-fetched_at: "2026-05-05T09:56:12+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # 95 Point *** Pinot Noir from Stefan Steinmetz – Under $35 – “a stunning collection” – An Iconic German Pinot – Will Age for a Decade or Longer

@@ -26,6 +26,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 4
     first_year: 2018
@@ -46,7 +51,6 @@ berserkers_kelley_body:
     - {date: "2022-03-21", url: "https://www.wineberserkers.com/t/which-2019-burgs-have-you-loaded-up-on/177996/39"}
     - {date: "2021-01-29", url: "https://www.wineberserkers.com/t/whole-bunch-in-burgundy/167959/10"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Denis Bachelet

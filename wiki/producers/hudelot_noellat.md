@@ -26,6 +26,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 2
+    dedicated_count: 0
+    first_year: 2024
+    last_year: 2024
   berserkers_kelley:
     post_count: 7
     first_year: 2015
@@ -57,7 +62,6 @@ berserkers_kelley_body:
     - {date: "2021-04-04", url: "https://www.wineberserkers.com/t/richebourg-used-to-outshine-romanee-st-vivant-is-that-really-changing/169481/38"}
     - {date: "2021-04-03", url: "https://www.wineberserkers.com/t/richebourg-used-to-outshine-romanee-st-vivant-is-that-really-changing/169481/34"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Hudelot Noellat
@@ -151,3 +155,15 @@ _Not yet populated._
 ## FASS
 
 _Not yet populated._
+
+## FASS Write-ups
+
+### [The Best “A Tier” Vineyard Value in Elite CDN Grand Cru Burgundy By Far – Remi Poisot’s 100 Point (10.0 Lyle Fass) + A Transcendent Corton Charlemagne from Our Micro Producer Star – Remi Poisot](https://www.fassselections.com/blog/the-best-a-tier-vineyard-value-in-elite-cdn-grand-cru-burgundy-by-far-remi-poisots-100-point-10-0-lyle-fass-a-transcendent-corton-charlemagne-from-our-micro-producer-star-remi-poisot/)
+*2024-05*
+
+> #### Remi Poisot – Inherited Some of the Best Terroir in the World – Small, Artisanal Production – His Wines are Always Very Good or Great – But In 2021 and 2022 He Has Taken “The Leap!” #### 2022 Remi Poisot Romanee St. Vivant – Artisanal 2022 RSV for…
+
+### [The Best “A Tier” Vineyard Value in Elite Cote de Nuits Grand Cru Burgundy By Far – Remi Poisot’s 100 Point (10.0 Lyle Fass Delectable) Romanee St. Vivant – Pinot Noir Magic](https://www.fassselections.com/blog/the-best-a-tier-vineyard-value-in-elite-cote-de-nuits-grand-cru-burgundy-by-far-remi-poisots-100-point-10-0-lyle-fass-delectable-romanee-st-vivant-pinot-noir-magic/)
+*2024-01*
+
+> #### #### Remi Poisot – Inherited Some of the Best Terroir in the World – Small, Artisanal Production – His Wines are Always Very Good or Great – But In 2021 and 2022 He Has Taken “The Leap!” #### 2022 Remi Poisot Romanee St. Vivant – Artisanal 2022 RSV for…

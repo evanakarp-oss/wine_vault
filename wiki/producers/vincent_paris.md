@@ -29,6 +29,11 @@ retailers:
     cuvee_count: 1
     price_min: 0
     price_max: 0
+    championed: false
+    article_count: 1
+    dedicated_count: 0
+    first_year: 2024
+    last_year: 2024
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -45,7 +50,6 @@ berserkers_kelley_body:
   recent_posts:
     - {date: "2016-02-05", url: "https://www.wineberserkers.com/t/tn-2012-vincent-paris-cornas-la-geynale-finally/115089/15"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Vincent Paris
@@ -84,3 +88,9 @@ Currently tracked: **1 cuvée/vintage entries**; prices $0–$0.
 |---|---|---|
 | Cornas Granit 60 | 2021 | — |
 
+## FASS Write-ups
+
+### [The Sanyu of Burgundy? Monthelie, Next to Volnay – It’s Having It’s Moment – Under $32 for 2 Brilliant Lieu-Dits](https://www.fassselections.com/blog/the-sanyu-of-burgundy-monthelie-next-to-volnay-its-having-its-moment-under-32-for-2-brilliant-lieu-dits/)
+*2024-01*
+
+> ##### Monthelie Is Having its Day (Quality-Wise) – We Fell in Love with Florent Garaudet’s Whites – And Then Florent’s Reds – Right Next to Volnay and Meursault – The Region Has Produced Some Brilliant Wines… – At Ridiculously Low Prices – Maybe It’s Too…

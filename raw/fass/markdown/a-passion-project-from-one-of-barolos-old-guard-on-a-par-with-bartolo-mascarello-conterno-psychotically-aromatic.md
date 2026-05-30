@@ -3,11 +3,11 @@ type: fass_article
 slug: a-passion-project-from-one-of-barolos-old-guard-on-a-par-with-bartolo-mascarello-conterno-psychotically-aromatic
 title: "A Passion Project from One of Barolo’s Old Guard – On a Par with Bartolo Mascarello, Conterno, – Psychotically Aromatic"
 url: https://www.fassselections.com/blog/a-passion-project-from-one-of-barolos-old-guard-on-a-par-with-bartolo-mascarello-conterno-psychotically-aromatic/
-date: ""
+date: "2023-11-09"
 producer: ""
 categories: []
 word_count: 2114
-fetched_at: "2026-05-05T09:56:40+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # A Passion Project from One of Barolo’s Old Guard – On a Par with Bartolo Mascarello, Conterno, – Psychotically Aromatic

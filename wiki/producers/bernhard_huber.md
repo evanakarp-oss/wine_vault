@@ -26,6 +26,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 2
+    dedicated_count: 0
+    first_year: 2024
+    last_year: 2024
 tags: []
 _sources: ["short:short__Bernhard_Huber.md"]
 ---
@@ -56,3 +61,15 @@ _Not yet populated._
 - [[Germany_Producers|Germany]]
 - [[Baden]]
 - [[CSW Article Archive]]
+
+## FASS Write-ups
+
+### [One of the Greatest Under $30 Red Wines on Earth – Wine Advocate’s Stephan Reinhardt Loves This Ziereisen Pinot Noir](https://www.fassselections.com/blog/one-of-the-greatest-under-30-red-wines-on-earth-wine-advocates-stephan-reinhardt-loves-this-ziereisen-pinot-noir-2/)
+*2024-04*
+
+> #### 2021 Ziereisen Talrain Blauer Spätburgunder – Wine Advocate’s Stephan Rheinhardt Gave The 2019 92 Point – But the Review Is Simply Over the Top – 2021 is A CLONE of the 2014 combined with 19 (But Even Better) – One of the Sickest Value Pinot Noirs We…
+
+### [One of the Greatest Under $30 Red Wines on Earth – Wine Advocate’s Stephan Reinhardt Loves This Ziereisen Pinot Noir](https://www.fassselections.com/blog/one-of-the-greatest-under-30-red-wines-on-earth-wine-advocates-stephan-reinhardt-loves-this-ziereisen-pinot-noir/)
+*2024-03*
+
+> #### 2021 Ziereisen Talrain Blauer Spätburgunder – Wine Advocate’s Stephan Rheinhardt Gave The 2019 92 Points – But the Review Is Simply Over the Top – 2021 is A CLONE of the 2014 combined with 19 (But Even Better) – One of the Sickest Value Pinot Noirs We…

@@ -31,6 +31,11 @@ retailers:
     price_max: 599.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 1
+    dedicated_count: 0
+    first_year: 2023
+    last_year: 2023
   berserkers_kelley:
     post_count: 44
     first_year: 2015
@@ -55,7 +60,6 @@ berserkers_kelley_body:
     - {date: "2020-07-03", url: "https://www.wineberserkers.com/t/what-domaine-producers-have-only-made-one-variety-color-ever/162291/48"}
     - {date: "2020-06-20", url: "https://www.wineberserkers.com/t/tn-2004-domaine-leflaive-puligny-montrachet-1er-cru-les-pucelles/161978/2"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Domaine Leflaive
@@ -421,3 +425,10 @@ _[Raeders link](https://www.raederswine.com/wines/Domaine-Leflaive-Macon-Verze-L
 ## FASS
 
 _Not yet populated._
+
+## FASS Write-ups
+
+### [Brisset’s 2022 “Cuvee Cassaneas” – The Final Leap – Tastes Exactly Like a 1er Cru Chassagne – Under $40 On A Case](https://www.fassselections.com/blog/brissets-2022-cuvee-cassaneas-the-final-leap-tastes-exactly-like-a-1er-cru-chassagne-under-40-on-a-case/)
+*2023-11*
+
+> ##### The Final Leap – Brisset Was at the Top When I Started Working with Him – I Didn’t Expect the Wines to Get Even Better – In 2022 They Did ##### 2022 Pierre Brisset Bourgogne Blanc “Cuvee Cassaneas” – Tastes Exactly Like a 1er Cru Chassagne (Cassaneas is…

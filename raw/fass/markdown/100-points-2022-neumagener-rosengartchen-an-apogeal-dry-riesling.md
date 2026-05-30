@@ -3,11 +3,11 @@ type: fass_article
 slug: 100-points-2022-neumagener-rosengartchen-an-apogeal-dry-riesling
 title: "100 Points 2022 Neumagener Rosengartchen – An Apogeal Dry Riesling"
 url: https://www.fassselections.com/blog/100-points-2022-neumagener-rosengartchen-an-apogeal-dry-riesling/
-date: ""
+date: "2024-01-16"
 producer: ""
 categories: []
 word_count: 1788
-fetched_at: "2026-05-05T09:55:39+00:00"
+fetched_at: "2026-05-30T11:42:12+00:00"
 ---
 
 # 100 Points 2022 Neumagener Rosengartchen – An Apogeal Dry Riesling

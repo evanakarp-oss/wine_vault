@@ -3,11 +3,11 @@ type: fass_article
 slug: i-cant-stop-thinking-about-this-wine-think-raveneau-grand-cru-les-clos-crushes-almost-every-white-wine-on-earth
 title: "I Can’t Stop Thinking About This Wine! Think Raveneau Grand Cru Les Clos – Crushes Almost Every White Wine on Earth"
 url: https://www.fassselections.com/blog/i-cant-stop-thinking-about-this-wine-think-raveneau-grand-cru-les-clos-crushes-almost-every-white-wine-on-earth/
-date: ""
+date: "2024-06-13"
 producer: ""
 categories: []
 word_count: 1426
-fetched_at: "2026-05-05T09:58:51+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # I Can’t Stop Thinking About This Wine! Think Raveneau Grand Cru Les Clos – Crushes Almost Every White Wine on Earth

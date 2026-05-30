@@ -30,6 +30,11 @@ retailers:
     price_max: 1999.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 2
     first_year: 2020
@@ -50,7 +55,6 @@ berserkers_kelley_body:
   recent_posts:
     - {date: "2023-08-06", url: "https://www.wineberserkers.com/t/tns-vertical-tastings-of-chateau-latour-and-chateau-lafite-rothschild-in-atl-with-mark-taylor/178052/19"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Château Lafite Rothschild

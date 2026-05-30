@@ -3,11 +3,11 @@ type: fass_article
 slug: one-of-the-greatest-cdps-ever-made-the-greeks-consistently-top-scoring-ridiculously-elegant-cdp
 title: "One of the Greatest CDPs Ever Made – The Greek’s Consistently Top Scoring, Ridiculously Elegant CDP"
 url: https://www.fassselections.com/blog/one-of-the-greatest-cdps-ever-made-the-greeks-consistently-top-scoring-ridiculously-elegant-cdp/
-date: ""
+date: "2023-10-09"
 producer: ""
 categories: []
 word_count: 1042
-fetched_at: "2026-05-05T10:00:16+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # One of the Greatest CDPs Ever Made – The Greek’s Consistently Top Scoring, Ridiculously Elegant CDP

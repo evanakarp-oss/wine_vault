@@ -30,6 +30,11 @@ retailers:
     price_max: 899.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -53,7 +58,6 @@ berserkers_kelley_body:
     - {date: "2021-08-22", url: "https://www.wineberserkers.com/t/louis-roederer-nv-collection-242/172925/3"}
     - {date: "2021-05-02", url: "https://www.wineberserkers.com/t/coteaux-champenois/170372/9"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Louis Roederer

@@ -29,6 +29,11 @@ retailers:
     price_max: 299.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 6
     first_year: 2020
@@ -51,7 +56,6 @@ berserkers_kelley_body:
     - {date: "2020-07-03", url: "https://www.wineberserkers.com/t/what-domaine-producers-have-only-made-one-variety-color-ever/162291/50"}
     - {date: "2020-06-17", url: "https://www.wineberserkers.com/t/most-disappointing-great-wine-youve-ever-had/161887/49"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Château Ducru-Beaucaillou

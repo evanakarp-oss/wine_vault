@@ -3,11 +3,11 @@ type: fass_article
 slug: how-the-heck-do-you-make-a-wine-that-tastes-like-1er-cru-puligny-in-the-macon-terroir-and-technique-under-32-should-be-100
 title: "How The Heck Do You Make a Wine That Tastes Like 1er Cru Puligny in the Macon? Terroir and Technique – Under $32, Should Be $100+"
 url: https://www.fassselections.com/blog/how-the-heck-do-you-make-a-wine-that-tastes-like-1er-cru-puligny-in-the-macon-terroir-and-technique-under-32-should-be-100/
-date: ""
+date: "2023-11-21"
 producer: ""
 categories: []
 word_count: 1343
-fetched_at: "2026-05-05T09:58:48+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # How The Heck Do You Make a Wine That Tastes Like 1er Cru Puligny in the Macon? Terroir and Technique – Under $32, Should Be $100+

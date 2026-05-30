@@ -3,11 +3,11 @@ type: fass_article
 slug: flexing-like-a-wine-professional-2-discoveries-from-lesser-known-regions-that-rock-the-qpr-hierarchy-taurasi-and-a-stunning-greco-riserva
 title: "Flexing like a Wine Professional – 2 Discoveries from Lesser Known Regions That Rock the QPR Hierarchy – Taurasi and a Stunning Greco Riserva"
 url: https://www.fassselections.com/blog/flexing-like-a-wine-professional-2-discoveries-from-lesser-known-regions-that-rock-the-qpr-hierarchy-taurasi-and-a-stunning-greco-riserva/
-date: ""
+date: "2023-11-17"
 producer: ""
 categories: []
 word_count: 1639
-fetched_at: "2026-05-05T09:58:07+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # Flexing like a Wine Professional – 2 Discoveries from Lesser Known Regions That Rock the QPR Hierarchy – Taurasi and a Stunning Greco Riserva

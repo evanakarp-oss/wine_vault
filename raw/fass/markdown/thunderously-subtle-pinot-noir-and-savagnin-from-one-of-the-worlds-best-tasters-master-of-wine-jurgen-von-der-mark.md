@@ -3,11 +3,11 @@ type: fass_article
 slug: thunderously-subtle-pinot-noir-and-savagnin-from-one-of-the-worlds-best-tasters-master-of-wine-jurgen-von-der-mark
 title: "Thunderously Subtle – Pinot Noir and Savagnin from one of the World’s Best Tasters, Master of Wine – Jürgen von der Mark"
 url: https://www.fassselections.com/blog/thunderously-subtle-pinot-noir-and-savagnin-from-one-of-the-worlds-best-tasters-master-of-wine-jurgen-von-der-mark/
-date: ""
+date: "2023-10-17"
 producer: ""
 categories: []
 word_count: 2147
-fetched_at: "2026-05-05T10:03:49+00:00"
+fetched_at: "2026-05-30T11:42:17+00:00"
 ---
 
 # Thunderously Subtle – Pinot Noir and Savagnin from one of the World’s Best Tasters, Master of Wine – Jürgen von der Mark

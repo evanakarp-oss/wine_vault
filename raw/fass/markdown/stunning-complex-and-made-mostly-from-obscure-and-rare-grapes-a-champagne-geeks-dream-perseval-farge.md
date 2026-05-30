@@ -3,11 +3,11 @@ type: fass_article
 slug: stunning-complex-and-made-mostly-from-obscure-and-rare-grapes-a-champagne-geeks-dream-perseval-farge
 title: "Stunning, Complex and Made Mostly from Obscure and Rare Grapes – A Champagne Geek’s Dream! Perseval Farge"
 url: https://www.fassselections.com/blog/stunning-complex-and-made-mostly-from-obscure-and-rare-grapes-a-champagne-geeks-dream-perseval-farge/
-date: ""
+date: "2024-06-04"
 producer: ""
 categories: []
 word_count: 2401
-fetched_at: "2026-05-05T10:01:34+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # Stunning, Complex and Made Mostly from Obscure and Rare Grapes – A Champagne Geek’s Dream! Perseval Farge

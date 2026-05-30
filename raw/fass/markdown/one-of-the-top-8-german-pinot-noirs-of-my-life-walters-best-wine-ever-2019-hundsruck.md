@@ -3,11 +3,11 @@ type: fass_article
 slug: one-of-the-top-8-german-pinot-noirs-of-my-life-walters-best-wine-ever-2019-hundsruck
 title: "One of the Top 8 German Pinot Noirs of My Life – Walter’s Best Wine Ever – 2019 Hündsruck"
 url: https://www.fassselections.com/blog/one-of-the-top-8-german-pinot-noirs-of-my-life-walters-best-wine-ever-2019-hundsruck/
-date: ""
+date: "2024-01-13"
 producer: ""
 categories: []
 word_count: 1827
-fetched_at: "2026-05-05T10:00:37+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # One of the Top 8 German Pinot Noirs of My Life – Walter’s Best Wine Ever – 2019 Hündsruck

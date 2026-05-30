@@ -26,6 +26,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 1
     first_year: 2023
@@ -42,7 +47,6 @@ berserkers_kelley_body:
   recent_posts:
     - {date: "2023-08-14", url: "https://www.wineberserkers.com/t/william-kelleys-latest-new-frontier-in-the-aube/303887/9"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Petit Clergeot

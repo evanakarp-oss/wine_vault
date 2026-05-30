@@ -510,6 +510,11 @@ def extract(site: SiteConfig, url: str, html: str) -> Extracted:
         if t:
             date = _parse_date(t.get("datetime", "") or t.get_text(" ", strip=True))
     if not date:
+        # Divi/WP byline: <span class="published">Nov 6, 2023</span>
+        pub = soup.find("span", class_="published")
+        if pub:
+            date = _parse_date(pub.get_text(" ", strip=True))
+    if not date:
         # WP byline pattern: "by admin | Jan 19, 2024 | Blog"
         byline = soup.find(string=re.compile(r"\bby\s+\S+\s*\|"))
         if byline:

@@ -3,11 +3,11 @@ type: fass_article
 slug: one-of-the-great-values-in-grand-cru-burgundy-dampts-bougros-always-spectacular
 title: "One of the Great Values in Grand Cru Burgundy – Dampt’s Bougros – Always Spectacular"
 url: https://www.fassselections.com/blog/one-of-the-great-values-in-grand-cru-burgundy-dampts-bougros-always-spectacular/
-date: ""
+date: "2024-05-07"
 producer: ""
 categories: []
 word_count: 1473
-fetched_at: "2026-05-05T10:00:14+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # One of the Great Values in Grand Cru Burgundy – Dampt’s Bougros – Always Spectacular

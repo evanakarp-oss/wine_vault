@@ -3,11 +3,11 @@ type: fass_article
 slug: one-of-the-greatest-under-30-red-wines-on-earth-wine-advocates-stephan-reinhardt-loves-this-ziereisen-pinot-noir
 title: "One of the Greatest Under $30 Red Wines on Earth – Wine Advocate’s Stephan Reinhardt Loves This Ziereisen Pinot Noir"
 url: https://www.fassselections.com/blog/one-of-the-greatest-under-30-red-wines-on-earth-wine-advocates-stephan-reinhardt-loves-this-ziereisen-pinot-noir/
-date: ""
+date: "2024-03-13"
 producer: ""
 categories: []
 word_count: 1382
-fetched_at: "2026-05-05T10:00:22+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # One of the Greatest Under $30 Red Wines on Earth – Wine Advocate’s Stephan Reinhardt Loves This Ziereisen Pinot Noir

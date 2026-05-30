@@ -29,6 +29,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 2
+    dedicated_count: 0
+    first_year: 2023
+    last_year: 2024
   berserkers_kelley:
     post_count: 0
     first_year: 0
@@ -146,3 +151,15 @@ _Not yet populated._
 - [[Italy_Producers|Italy]]
 - [[Barolo / Barbaresco (Castiglione Falletto)]]
 - [[CSW Article Archive]]
+
+## FASS Write-ups
+
+### [Among the Hardest to Get Wines in Italy Bar None – His 2 (Still) Affordable Wines – Brilliant Barbera and Dolcetto](https://www.fassselections.com/blog/among-the-hardest-to-get-wines-in-italy-bar-none-his-2-still-affordable-wines-brilliant-barbera-and-dolcetto/)
+*2024-05*
+
+> #### On the Top Langhe Wine Group, This Producer Is the Talk of the Town – Changed Voerzio to Start Making Classic Wines – His Barolo Top Crus Go for $400+ – Started His Own Micro Estate on the Side – Top, Top, Top Tier in the Langhe – This Will Be the…
+
+### [A Passion Project from One of Barolo’s Old Guard – On a Par with Bartolo Mascarello, Conterno, – Psychotically Aromatic](https://www.fassselections.com/blog/a-passion-project-from-one-of-barolos-old-guard-on-a-par-with-bartolo-mascarello-conterno-psychotically-aromatic/)
+*2023-11*
+
+> ##### Gillardi – Third Generation Producer – Father Started As a Winemaker at Barolo Legend Ceretto and Has Worked there for 40 Years – He Supervises Winemaking at Gillardi ##### The 2019 Vintage – Like 1982 for Bordeaux – Better than Even the Legendary 2016…

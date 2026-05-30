@@ -3,11 +3,11 @@ type: fass_article
 slug: buffets-carelle-sous-la-chapelle-this-is-pretty-much-textbook-carelle
 title: "Buffet’s “Carelle-Sous la Chapelle” – “This is pretty much textbook Carelle.”"
 url: https://www.fassselections.com/blog/buffets-carelle-sous-la-chapelle-this-is-pretty-much-textbook-carelle/
-date: ""
+date: "2024-03-20"
 producer: ""
 categories: []
 word_count: 1549
-fetched_at: "2026-05-05T09:57:32+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # Buffet’s “Carelle-Sous la Chapelle” – “This is pretty much textbook Carelle.”

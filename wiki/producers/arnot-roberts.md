@@ -28,6 +28,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 2
     first_year: 2017
@@ -45,7 +50,6 @@ berserkers_kelley_body:
     - {date: "2018-05-06", url: "https://www.wineberserkers.com/t/tn-some-new-calif-rhones-long-boring/142712/21"}
     - {date: "2017-06-06", url: "https://www.wineberserkers.com/t/california-wine-for-a-british-friend/124923/45"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Arnot-Roberts

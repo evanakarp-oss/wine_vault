@@ -3,11 +3,11 @@ type: fass_article
 slug: cesare-bussolo-unicorn-barbera-the-best-barbera-in-italy-one-of-the-purest-wines-ive-ever-had-only-24-bottles
 title: "Cesare Bussolo’ Unicorn Barbera – The Best Barbera in Italy, One of the Purest Wines I’ve Ever Had – Only 24 Bottles"
 url: https://www.fassselections.com/blog/cesare-bussolo-unicorn-barbera-the-best-barbera-in-italy-one-of-the-purest-wines-ive-ever-had-only-24-bottles/
-date: ""
+date: "2024-06-09"
 producer: ""
 categories: []
 word_count: 1880
-fetched_at: "2026-05-05T09:57:35+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # Cesare Bussolo’ Unicorn Barbera – The Best Barbera in Italy, One of the Purest Wines I’ve Ever Had – Only 24 Bottles

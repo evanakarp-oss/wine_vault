@@ -26,6 +26,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 2
     first_year: 2018
@@ -45,7 +50,6 @@ berserkers_kelley_body:
     - {date: "2018-12-25", url: "https://www.wineberserkers.com/t/burgundy-is-dead-at-retail/148372/7"}
     - {date: "2017-11-05", url: "https://www.wineberserkers.com/t/2016-red-burgundies-are-plain-gorgeous/137456/35"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Charles Audoin

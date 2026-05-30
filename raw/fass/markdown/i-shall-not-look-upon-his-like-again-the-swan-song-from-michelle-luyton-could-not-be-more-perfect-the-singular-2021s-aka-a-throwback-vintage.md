@@ -3,11 +3,11 @@ type: fass_article
 slug: i-shall-not-look-upon-his-like-again-the-swan-song-from-michelle-luyton-could-not-be-more-perfect-the-singular-2021s-aka-a-throwback-vintage
 title: ". . . I shall not look upon his like again – The Swan Song from Michelle Luyton Could Not be More Perfect – The Singular 2021’s aka a Throwback Vintage"
 url: https://www.fassselections.com/blog/i-shall-not-look-upon-his-like-again-the-swan-song-from-michelle-luyton-could-not-be-more-perfect-the-singular-2021s-aka-a-throwback-vintage/
-date: ""
+date: "2024-01-03"
 producer: ""
 categories: []
 word_count: 2939
-fetched_at: "2026-05-05T09:59:00+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # . . . I shall not look upon his like again – The Swan Song from Michelle Luyton Could Not be More Perfect – The Singular 2021’s aka a Throwback Vintage

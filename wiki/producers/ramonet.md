@@ -29,6 +29,11 @@ retailers:
     price_max: 1299.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 99
     first_year: 2015
@@ -52,7 +57,6 @@ berserkers_kelley_body:
     - {date: "2023-10-30", url: "https://www.wineberserkers.com/t/2019-2020-premox-say-it-aint-so-or-heat-damage/306374/13"}
     - {date: "2023-08-26", url: "https://www.wineberserkers.com/t/what-is-your-most-recent-wine-purchase-part-2/285849/2710"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Ramonet

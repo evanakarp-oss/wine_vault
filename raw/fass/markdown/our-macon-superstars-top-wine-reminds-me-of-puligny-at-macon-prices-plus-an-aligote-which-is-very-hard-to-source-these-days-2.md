@@ -3,11 +3,11 @@ type: fass_article
 slug: our-macon-superstars-top-wine-reminds-me-of-puligny-at-macon-prices-plus-an-aligote-which-is-very-hard-to-source-these-days-2
 title: "Our Macon Superstar’s Top Wine – Reminds Me of Puligny at Macon Prices – Plus an Aligote (Which Is Very Hard to Source These Days)"
 url: https://www.fassselections.com/blog/our-macon-superstars-top-wine-reminds-me-of-puligny-at-macon-prices-plus-an-aligote-which-is-very-hard-to-source-these-days-2/
-date: ""
+date: "2024-05-05"
 producer: ""
 categories: []
 word_count: 1585
-fetched_at: "2026-05-05T10:00:42+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # Our Macon Superstar’s Top Wine – Reminds Me of Puligny at Macon Prices – Plus an Aligote (Which Is Very Hard to Source These Days)

@@ -26,6 +26,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 5
     first_year: 2015
@@ -46,7 +51,6 @@ berserkers_kelley_body:
     - {date: "2018-03-08", url: "https://www.wineberserkers.com/t/2015-burgundy/136486/328"}
     - {date: "2017-12-07", url: "https://www.wineberserkers.com/t/burgundy-2014-vs-2015/134352/39"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Georges Noëllat

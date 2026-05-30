@@ -29,6 +29,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 1
     first_year: 2019
@@ -47,7 +52,6 @@ berserkers_kelley_body:
     - {date: "2018-09-03", url: "https://www.wineberserkers.com/t/tn-2012-domaine-berthaut-gerbet-fixin-les-crais-france-burgundy-cote-de-nuits-fixin/145469/5"}
     - {date: "2017-11-08", url: "https://www.wineberserkers.com/t/2015-arnoux/137497/34"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Berthaut-Gerbet

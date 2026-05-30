@@ -30,6 +30,11 @@ retailers:
     price_max: 399.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 9
     first_year: 2017
@@ -52,7 +57,6 @@ berserkers_kelley_body:
     - {date: "2022-03-01", url: "https://www.wineberserkers.com/t/france-bordeaux-up-from-the-cellar-31-wk/177574/8"}
     - {date: "2022-01-20", url: "https://www.wineberserkers.com/t/anthony-barton-rip/176465/19"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Château Lynch-Bages

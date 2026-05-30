@@ -3,11 +3,11 @@ type: fass_article
 slug: insane-meursault-1er-cru-caillerets-under-70-one-of-my-favorite-vineyards-one-of-our-best-high-end-burgundies-under-70
 title: "Insane Meursault 1er Cru Caillerets Under $70 – One of My Favorite Vineyards – One of Our Best High End Burgundies, Under $70"
 url: https://www.fassselections.com/blog/insane-meursault-1er-cru-caillerets-under-70-one-of-my-favorite-vineyards-one-of-our-best-high-end-burgundies-under-70/
-date: ""
+date: "2024-05-19"
 producer: ""
 categories: []
 word_count: 1318
-fetched_at: "2026-05-05T09:59:09+00:00"
+fetched_at: "2026-05-30T11:42:14+00:00"
 ---
 
 # Insane Meursault 1er Cru Caillerets Under $70 – One of My Favorite Vineyards – One of Our Best High End Burgundies, Under $70

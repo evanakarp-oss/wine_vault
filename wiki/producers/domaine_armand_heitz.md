@@ -29,6 +29,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 2
     first_year: 2020
@@ -46,7 +51,6 @@ berserkers_kelley_body:
     - {date: "2021-04-10", url: "https://www.wineberserkers.com/t/killer-frosts-again-cote-dor-2021/169815/64"}
     - {date: "2020-06-26", url: "https://www.wineberserkers.com/t/criots-batard-montrachet-lamy-dauvenay-updated-summer-2020/162121/13"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Domaine Armand Heitz

@@ -3,11 +3,11 @@ type: fass_article
 slug: 96-point-pinot-noir-29-99-if-brisset-and-buffet-had-a-love-child-the-thunderous-arrival-of-thorle-2021-pinots-better-call-sauls-chicanery
 title: "96 Point Pinot Noir, $29.99 – if Brisset and Buffet Had a Love Child – The Thunderous Arrival of Thorle 2021 Pinots – Better Call Saul’s “Chicanery”"
 url: https://www.fassselections.com/blog/96-point-pinot-noir-29-99-if-brisset-and-buffet-had-a-love-child-the-thunderous-arrival-of-thorle-2021-pinots-better-call-sauls-chicanery/
-date: ""
+date: "2024-04-28"
 producer: ""
 categories: []
 word_count: 1930
-fetched_at: "2026-05-05T09:56:15+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # 96 Point Pinot Noir, $29.99 – if Brisset and Buffet Had a Love Child – The Thunderous Arrival of Thorle 2021 Pinots – Better Call Saul’s “Chicanery”

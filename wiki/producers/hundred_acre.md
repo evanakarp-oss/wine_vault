@@ -29,6 +29,11 @@ retailers:
     price_max: 459.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
 tags: ['napa', 'cult', 'cabernet-sauvignon']
 _sources: ["raeders_compile_curated_v2:2026-04-25"]
 ---

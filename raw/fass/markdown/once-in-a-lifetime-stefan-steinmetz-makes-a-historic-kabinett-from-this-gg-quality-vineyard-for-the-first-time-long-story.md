@@ -3,11 +3,11 @@ type: fass_article
 slug: once-in-a-lifetime-stefan-steinmetz-makes-a-historic-kabinett-from-this-gg-quality-vineyard-for-the-first-time-long-story
 title: "Once in a Lifetime? Stefan Steinmetz Makes a Historic Kabinett from this GG Quality Vineyard for the First Time (Long Story)"
 url: https://www.fassselections.com/blog/once-in-a-lifetime-stefan-steinmetz-makes-a-historic-kabinett-from-this-gg-quality-vineyard-for-the-first-time-long-story/
-date: ""
+date: "2024-04-25"
 producer: ""
 categories: []
 word_count: 1223
-fetched_at: "2026-05-05T10:00:07+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # Once in a Lifetime? Stefan Steinmetz Makes a Historic Kabinett from this GG Quality Vineyard for the First Time (Long Story)

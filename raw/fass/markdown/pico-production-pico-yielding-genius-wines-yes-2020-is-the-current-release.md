@@ -3,11 +3,11 @@ type: fass_article
 slug: pico-production-pico-yielding-genius-wines-yes-2020-is-the-current-release
 title: "Pico Production, Pico Yielding Genius Wines – Yes 2020 Is the Current Release"
 url: https://www.fassselections.com/blog/pico-production-pico-yielding-genius-wines-yes-2020-is-the-current-release/
-date: ""
+date: "2023-10-06"
 producer: ""
 categories: []
 word_count: 2053
-fetched_at: "2026-05-05T10:01:00+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # Pico Production, Pico Yielding Genius Wines – Yes 2020 Is the Current Release

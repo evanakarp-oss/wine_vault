@@ -3,11 +3,11 @@ type: fass_article
 slug: we-all-should-be-able-to-afford-burgundy-every-day-under-50-meursault-and-a-killer-under-30-bourgogne-blanc-fass-selction-done-post
 title: "We All Should be Able to Afford Burgundy Every Day! – Under $50 Meursault and a Killer Under $30 Bourgogne Blanc Fass Selction Done Post"
 url: https://www.fassselections.com/blog/we-all-should-be-able-to-afford-burgundy-every-day-under-50-meursault-and-a-killer-under-30-bourgogne-blanc-fass-selction-done-post/
-date: ""
+date: "2024-04-28"
 producer: ""
 categories: []
 word_count: 1815
-fetched_at: "2026-05-05T10:04:03+00:00"
+fetched_at: "2026-05-30T11:42:17+00:00"
 ---
 
 # We All Should be Able to Afford Burgundy Every Day! – Under $50 Meursault and a Killer Under $30 Bourgogne Blanc Fass Selction Done Post

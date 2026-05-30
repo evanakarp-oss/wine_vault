@@ -29,6 +29,11 @@ retailers:
     price_max: 0
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
 tags: []
 _sources: ["short:short__Domaine_Jean_Chauvenet.md"]
 ---

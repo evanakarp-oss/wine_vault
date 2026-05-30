@@ -31,6 +31,11 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 1
     first_year: 2019
@@ -47,7 +52,6 @@ berserkers_kelley_body:
   recent_posts:
     - {date: "2019-09-13", url: "https://www.wineberserkers.com/t/beaujolais-where-have-you-been-my-whole-life/154743/22"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Eric Texier

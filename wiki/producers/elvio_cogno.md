@@ -29,6 +29,11 @@ retailers:
     price_max: 499.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
 tags: ['nebbiolo', 'barolo', 'old-vines']
 _sources: ["raeders_compile_curated:2026-04-25"]
 ---

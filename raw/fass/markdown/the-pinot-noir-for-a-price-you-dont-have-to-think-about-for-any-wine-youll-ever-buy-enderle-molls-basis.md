@@ -3,11 +3,11 @@ type: fass_article
 slug: the-pinot-noir-for-a-price-you-dont-have-to-think-about-for-any-wine-youll-ever-buy-enderle-molls-basis
 title: "The Pinot Noir for a Price You Don’t Have to Think About for Any Wine You’ll Ever Buy – Enderle & Moll’s Basis"
 url: https://www.fassselections.com/blog/the-pinot-noir-for-a-price-you-dont-have-to-think-about-for-any-wine-youll-ever-buy-enderle-molls-basis/
-date: ""
+date: "2023-11-23"
 producer: ""
 categories: []
 word_count: 1516
-fetched_at: "2026-05-05T10:03:18+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The Pinot Noir for a Price You Don’t Have to Think About for Any Wine You’ll Ever Buy – Enderle & Moll’s Basis

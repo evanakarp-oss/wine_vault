@@ -3,11 +3,11 @@ type: fass_article
 slug: the-grand-cru-of-pommard-rugiens-plus-stunning-volnay-enter-2022-drinking-beautifully-and-will-age
 title: "The Grand Cru of Pommard – Rugiens, Plus Stunning Volnay – Enter 2022 – Drinking Beautifully and Will Age"
 url: https://www.fassselections.com/blog/the-grand-cru-of-pommard-rugiens-plus-stunning-volnay-enter-2022-drinking-beautifully-and-will-age/
-date: ""
+date: "2024-05-15"
 producer: ""
 categories: []
 word_count: 2636
-fetched_at: "2026-05-05T10:02:44+00:00"
+fetched_at: "2026-05-30T11:42:16+00:00"
 ---
 
 # The Grand Cru of Pommard – Rugiens, Plus Stunning Volnay – Enter 2022 – Drinking Beautifully and Will Age

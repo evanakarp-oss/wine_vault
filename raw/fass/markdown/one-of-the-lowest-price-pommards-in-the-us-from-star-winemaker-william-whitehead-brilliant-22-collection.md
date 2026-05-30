@@ -3,11 +3,11 @@ type: fass_article
 slug: one-of-the-lowest-price-pommards-in-the-us-from-star-winemaker-william-whitehead-brilliant-22-collection
 title: "One of the Lowest Price Pommards in the US – from Star Winemaker William Whitehead – Brilliant 22 Collection"
 url: https://www.fassselections.com/blog/one-of-the-lowest-price-pommards-in-the-us-from-star-winemaker-william-whitehead-brilliant-22-collection/
-date: ""
+date: "2024-05-16"
 producer: ""
 categories: []
 word_count: 1522
-fetched_at: "2026-05-05T10:00:34+00:00"
+fetched_at: "2026-05-30T11:42:15+00:00"
 ---
 
 # One of the Lowest Price Pommards in the US – from Star Winemaker William Whitehead – Brilliant 22 Collection

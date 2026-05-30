@@ -30,6 +30,11 @@ retailers:
     price_max: 49.99
   fass:
     in_portfolio: false
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
   berserkers_kelley:
     post_count: 3
     first_year: 2022
@@ -52,7 +57,6 @@ berserkers_kelley_body:
     - {date: "2022-04-08", url: "https://www.wineberserkers.com/t/thoughts-on-cantemerle/178431/35"}
     - {date: "2022-04-08", url: "https://www.wineberserkers.com/t/thoughts-on-cantemerle/178431/39"}
   note: "derived from body-text re-pass v2; additive to berserkers_kelley"
-
 ---
 
 # Château Cantemerle

@@ -3,11 +3,11 @@ type: fass_article
 slug: buffet-2022-volnay-village-and-clos-de-chenes-brilliant-values-for-top-burgundy
 title: "Buffet 2022 Volnay Village and Clos de Chenes – Brilliant Values for Top Burgundy"
 url: https://www.fassselections.com/blog/buffet-2022-volnay-village-and-clos-de-chenes-brilliant-values-for-top-burgundy/
-date: ""
+date: "2024-01-08"
 producer: ""
 categories: []
 word_count: 1903
-fetched_at: "2026-05-05T09:57:30+00:00"
+fetched_at: "2026-05-30T11:42:13+00:00"
 ---
 
 # Buffet 2022 Volnay Village and Clos de Chenes – Brilliant Values for Top Burgundy

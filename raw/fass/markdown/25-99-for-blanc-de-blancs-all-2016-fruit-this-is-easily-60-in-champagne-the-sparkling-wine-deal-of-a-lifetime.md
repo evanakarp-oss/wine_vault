@@ -3,11 +3,11 @@ type: fass_article
 slug: 25-99-for-blanc-de-blancs-all-2016-fruit-this-is-easily-60-in-champagne-the-sparkling-wine-deal-of-a-lifetime
 title: "$25.99 for Blanc de Blancs! All 2016 Fruit! This Is Easily $60 in Champagne – The Sparkling Wine Deal of a Lifetime!"
 url: https://www.fassselections.com/blog/25-99-for-blanc-de-blancs-all-2016-fruit-this-is-easily-60-in-champagne-the-sparkling-wine-deal-of-a-lifetime/
-date: ""
+date: "2024-06-11"
 producer: ""
 categories: []
 word_count: 1244
-fetched_at: "2026-05-05T09:55:46+00:00"
+fetched_at: "2026-05-30T11:42:12+00:00"
 ---
 
 # $25.99 for Blanc de Blancs! All 2016 Fruit! This Is Easily $60 in Champagne – The Sparkling Wine Deal of a Lifetime!
