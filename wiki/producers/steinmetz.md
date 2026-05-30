@@ -2,7 +2,7 @@
 type: producer
 name: "Steinmetz"
 slug: steinmetz
-aliases: []
+aliases: ["Günther Steinmetz"]
 country: "Germany"
 region: "Mosel"
 sub_region: ""
@@ -25,7 +25,10 @@ retailers:
   raeders:
     in_portfolio: false
   fass:
-    in_portfolio: false
+    in_portfolio: true
+    cuvee_count: 31
+    price_min: 23
+    price_max: 62
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
 ---
@@ -131,4 +134,44 @@ _Not yet populated._
 
 ## FASS
 
-_Not yet populated._
+In portfolio: **31 cuvée(s)** (2014–2024); prices **$23–$62**. _Source: Fass Selections offers (Spring 2025), deduplicated from the master inventory._
+
+| Cuvée | Vintage(s) | Price (USD) |
+|---|---|---|
+| "Alter Satz" | 2021 | $23–25 |
+| Piesporter Grafenberg Kabinett | 2022 | $23 |
+| Piesporter Goldtröpfchen Kabinett | 2023 | $24–30 |
+| Brauneberger Juffer Kabinett | 2023 | $24 |
+| Wehlener Sonnenuhr Kabinett | 2023 | $24 |
+| Piesporter Domherr Kabinett | 2023 | $25 |
+| Kestener Paulinsberg Pinot Noir* | 2020 | $26 |
+| Wintricher Ohligsberg "Rondel" | 2023 | $26–28 |
+| Kestener Herrenberg Kabinett | 2020 | $28 |
+| Wintricher Geierslay "Rondel" | 2023 | $29 |
+| Brauneberger Juffer GB | 2022 | $29 |
+| Wintricher Großer Herrgott Kabinett | 2024 | $29 |
+| Piesporter Treppchen Kabinett | 2024 | $30–34 |
+| Kestener Herrenberg Pinot Noir | 2020, 2023 | $30–32 |
+| Wehlener Sonnenuhr Kanbinett | 2023 | $30 |
+| Wintricher Ohligsberg Kabinett | 2024 | $30 |
+| Muhlheimer Sonnenlay Pinot Noir*** | 2020 | $35–37 |
+| Zeltinger Sonnenuhr GZ | 2022, 2023 | $35–37 |
+| Gunther Steinmetz Brauneberger Juffer Rielsing HL | 2014 | $35 |
+| Riesling Kestener Paulinshofberg GK | 2016 | $36 |
+| Rose Reserve | 2024 | $36 |
+| Brauneberger Juffer HL | 2014 | $37 |
+| Piesporter Goldtröpfchen "GP" | 2016 | $37 |
+| Dhroner Grosser Hengelberg Riesling Monopollage | 2023 | $38 |
+| Piesporter Treppchen Auslese | 2022 | $39 |
+| Dhroner Hofberger Reserve | 2023 | $46 |
+| Dhroner Grosser Hengelberg Monopollage Riesling GG | 2024 | $46–48 |
+| Dhroner Großer Hengelberg "Monopollage" Riesling GG | 2024 | $46 |
+| Detzemer Maximin Klosterlay Riesling | 2023 | $47 |
+| Neumagener Rosengärtchen von der Terrasen | 2022 | $48 |
+| Neumagener Rosengärtchen Von den Terrassen | 2024 | $62 |
+
+## Fass Notes — 95 Point *** Pinot Noir from Stefan Steinmetz – Under $35 – “a stunning collection” – An Iconic German Pinot – Will Age for a Decade or Longer
+
+> – His Grand Cru – Nose: A Cascade of Nuances – Crazy Complexity – Rose Petals – Forest Floor and Moss – Deep, Penetrating Earthiness – Huge Fruit – Cassis and Coffee – Huge Spice – Mid Season Cherries – Palate: Super Juicy, Pure and Deep – Terrific, Bright Red Cherries – Silky, Sweet and Elegant – Elegant Structure – Lovely Purity – Finish Is Incredible – So Long – Gorgeous Cherry Spice – Very Bright
+
+_Source: [95 Point *** Pinot Noir from Stefan Steinmetz – Under $35 – “a stunning collection” – An Iconic German Pinot – Will Age for a Decade or Longer](https://www.fassselections.com/blog/95-point-pinot-noir-from-stefan-steinmetz-under-35-a-stunning-collection-an-iconic-german-pinot-will-age-for-a-decade-or-longer/), Fass Selections._

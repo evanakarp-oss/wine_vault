@@ -5,10 +5,10 @@ slug: kermit_lynch
 producer_count: 10
 focus: ['Burgundy', 'Rhône']
 notable_producers: ['Domaine Pierre Gonon', 'Domaine Pierre André', 'Clos du Joncuas', 'Allemand', 'Sylvie Esmonin']
-updated: 2026-05-26
-tags: []
-url: "https://kermitlynch.com"
+updated: 2026-05-30
 _source: wiki/_resources.md
+url: "https://kermitlynch.com"
+tags: []
 ---
 # Kermit Lynch
 

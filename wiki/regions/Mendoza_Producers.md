@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Mendoza"
-updated: 2026-05-26
+updated: 2026-05-30
 producer_count: 62
 ---
 

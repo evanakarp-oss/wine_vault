@@ -1,16 +1,17 @@
 ---
 type: region_index
 region: "Bierzo"
-updated: 2026-05-26
-producer_count: 1
+updated: 2026-05-30
+producer_count: 2
 ---
 
 # Bierzo — Producer Index
 
-**1 producers** tracked.
+**2 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
 | [[castro_ventosa|Castro Ventosa]] | Spain | — | 1 | 1 | — | — | — |
+| [[luna_beberide|Luna Beberide]] | Spain | — | — | — | — | 1 | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

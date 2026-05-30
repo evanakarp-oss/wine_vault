@@ -2,7 +2,7 @@
 type: producer
 name: "Jasmin"
 slug: jasmin
-aliases: []
+aliases: ["Patrick Jasmin"]
 country: "France"
 region: "Rhône"
 sub_region: ""
@@ -25,7 +25,10 @@ retailers:
   raeders:
     in_portfolio: false
   fass:
-    in_portfolio: false
+    in_portfolio: true
+    cuvee_count: 3
+    price_min: 62
+    price_max: 80
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
 ---
@@ -55,4 +58,10 @@ _Not yet populated._
 
 ## FASS
 
-_Not yet populated._
+In portfolio: **3 cuvée(s)** (2020–2022); prices **$62–$80**. _Source: Fass Selections offers (Spring 2025), deduplicated from the master inventory._
+
+| Cuvée | Vintage(s) | Price (USD) |
+|---|---|---|
+| Cote Rotie La Giroflaire | 2022 | $62–63 |
+| Côte-Rôtie "Giroflarie" | 2022 | $66 |
+| Cote Rotie Olea | 2020 | $80 |

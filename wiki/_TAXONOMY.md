@@ -15,6 +15,7 @@ Add new values here FIRST, then use them in producer files.
 - Germany
 - Italy
 - Spain
+- Switzerland
 - Austria
 - Portugal
 - Greece
@@ -68,6 +69,24 @@ Add new values here FIRST, then use them in producer files.
 - Liguria
 - Colli Tortonesi
 - Emilia-Romagna
+- Molise
+- Umbria
+
+### Switzerland
+- Graubünden
+- Basel-Land
+- Eastern Switzerland
+- Vully
+- Valais
+- Vaud
+- Geneva
+- Ticino
+
+### United States
+- California
+- Oregon
+- Washington
+- New York
 
 ### Spain
 - Catalonia

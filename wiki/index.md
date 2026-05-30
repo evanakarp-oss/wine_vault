@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 893
+total_pages: 1057
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**893 pages indexed.**
+**1057 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -22,41 +22,51 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 - [[Abruzzo_Producers|Abruzzo Producers]] — **1 producers** tracked.
 - [[Alsace_Producers|Alsace Producers]] — **5 producers** tracked.
-- [[Alto_Adige_Sudtirol_Producers|Alto Adige Sudtirol Producers]] — **2 producers** tracked.
-- [[Baden_Producers|Baden Producers]] — **4 producers** tracked.
+- [[Alto_Adige_Sudtirol_Producers|Alto Adige Sudtirol Producers]] — **3 producers** tracked.
+- [[Baden_Producers|Baden Producers]] — **10 producers** tracked.
+- [[Basel-Land_Producers|Basel-Land Producers]] — **1 producers** tracked.
 - [[Basque_Country_Producers|Basque Country Producers]] — **1 producers** tracked.
 - [[Basque_Irouleguy_Producers|Basque Irouleguy Producers]] — **1 producers** tracked.
-- [[Beaujolais_Producers|Beaujolais Producers]] — **4 producers** tracked.
-- [[Bierzo_Producers|Bierzo Producers]] — **1 producers** tracked.
-- [[Bordeaux_Producers|Bordeaux Producers]] — **25 producers** tracked.
-- [[Burgundy_Producers|Burgundy Producers]] — **85 producers** tracked.
+- [[Beaujolais_Producers|Beaujolais Producers]] — **11 producers** tracked.
+- [[Bierzo_Producers|Bierzo Producers]] — **2 producers** tracked.
+- [[Bordeaux_Producers|Bordeaux Producers]] — **30 producers** tracked.
+- [[Burgundy_Producers|Burgundy Producers]] — **107 producers** tracked.
 - [[California_Producers|California Producers]] — **10 producers** tracked.
+- [[Campania_Producers|Campania Producers]] — **2 producers** tracked.
 - [[Catalonia_Producers|Catalonia Producers]] — **1 producers** tracked.
-- [[Champagne_Producers|Champagne Producers]] — **16 producers** tracked.
+- [[Champagne_Producers|Champagne Producers]] — **28 producers** tracked.
 - [[Colli_Tortonesi_Producers|Colli Tortonesi Producers]] — **1 producers** tracked.
 - [[Corsica_Producers|Corsica Producers]] — **1 producers** tracked.
-- [[Franken_Producers|Franken Producers]] — **2 producers** tracked.
+- [[Eastern_Switzerland_Producers|Eastern Switzerland Producers]] — **1 producers** tracked.
+- [[Franken_Producers|Franken Producers]] — **6 producers** tracked.
+- [[Graubunden_Producers|Graubunden Producers]] — **5 producers** tracked.
 - [[Jujuy_Producers|Jujuy Producers]] — **2 producers** tracked.
-- [[Jura_Producers|Jura Producers]] — **15 producers** tracked.
+- [[Jura_Producers|Jura Producers]] — **17 producers** tracked.
 - [[Liguria_Producers|Liguria Producers]] — **1 producers** tracked.
-- [[Loire_Producers|Loire Producers]] — **6 producers** tracked.
+- [[Loire_Producers|Loire Producers]] — **8 producers** tracked.
+- [[Lombardy_Producers|Lombardy Producers]] — **2 producers** tracked.
 - [[Marche_Producers|Marche Producers]] — **1 producers** tracked.
 - [[Mendoza_Producers|Mendoza Producers]] — **62 producers** tracked.
-- [[Mosel_Producers|Mosel Producers]] — **19 producers** tracked.
-- [[Nahe_Producers|Nahe Producers]] — **3 producers** tracked.
+- [[Molise_Producers|Molise Producers]] — **2 producers** tracked.
+- [[Mosel_Producers|Mosel Producers]] — **27 producers** tracked.
+- [[Nahe_Producers|Nahe Producers]] — **5 producers** tracked.
+- [[Oregon_Producers|Oregon Producers]] — **1 producers** tracked.
 - [[Patagonia_Producers|Patagonia Producers]] — **9 producers** tracked.
-- [[Pfalz_Producers|Pfalz Producers]] — **2 producers** tracked.
-- [[Piedmont_Producers|Piedmont Producers]] — **20 producers** tracked.
-- [[Provence_Producers|Provence Producers]] — **3 producers** tracked.
-- [[Rheinhessen_Producers|Rheinhessen Producers]] — **1 producers** tracked.
-- [[Rhone_Producers|Rhone Producers]] — **32 producers** tracked.
+- [[Pfalz_Producers|Pfalz Producers]] — **7 producers** tracked.
+- [[Piedmont_Producers|Piedmont Producers]] — **38 producers** tracked.
+- [[Provence_Producers|Provence Producers]] — **4 producers** tracked.
+- [[Rheingau_Producers|Rheingau Producers]] — **3 producers** tracked.
+- [[Rheinhessen_Producers|Rheinhessen Producers]] — **5 producers** tracked.
+- [[Rhone_Producers|Rhone Producers]] — **62 producers** tracked.
 - [[Salta_Producers|Salta Producers]] — **5 producers** tracked.
 - [[San_Juan_Producers|San Juan Producers]] — **1 producers** tracked.
-- [[Savoie_Producers|Savoie Producers]] — **1 producers** tracked.
-- [[Sicily_Producers|Sicily Producers]] — **6 producers** tracked.
-- [[Tuscany_Producers|Tuscany Producers]] — **9 producers** tracked.
+- [[Savoie_Producers|Savoie Producers]] — **3 producers** tracked.
+- [[Sicily_Producers|Sicily Producers]] — **7 producers** tracked.
+- [[South_West_Producers|South West Producers]] — **1 producers** tracked.
+- [[Tuscany_Producers|Tuscany Producers]] — **11 producers** tracked.
 - [[Valle_dAosta_Producers|Valle Daosta Producers]] — **1 producers** tracked.
 - [[Veneto_Producers|Veneto Producers]] — **1 producers** tracked.
+- [[Vully_Producers|Vully Producers]] — **1 producers** tracked.
 
 ## Importers
 
@@ -79,6 +89,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Dressner|Dressner]] — Burgundy, Jura, Rhône, Sicily
 - [[Eklektikon|Eklektikon]] — NYC. Greek natural wines specialist. Organic/biodynamic.
 - [[Elixr_Wine|Elixr Wine]] — Small portfolio.
+- [[Fass_Selections|Fass Selections]] — Alto Adige / Südtirol, Baden, Basel-Land, Beaujolais, Bierzo, Bordeaux, Burgundy, Campania, Champagne, Eastern Switzerland, Franken, Graubünden, Jura, Loire, Lombardy, Molise, Mosel, Nahe, Oregon, Pfalz, Piedmont, Provence, Rheingau, Rheinhessen, Rhône, Savoie, Sicily, South West, Tuscany, Vully
 - [[Filomena_Selections|Filomena Selections]] — Small natural portfolio.
 - [[Fleet_Street_Wine_Merchants|Fleet Street Wine Merchants]] — UK-adjacent portfolio.
 - [[Fruit_of_the_Vine|Fruit of the Vine]] — Logistics/import services. Not a traditional importer.
@@ -162,7 +173,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[E&R_Wine_Shop|E&R Wine Shop]] — https://www.erwine.com
 - [[Eataly_Wine|Eataly Wine]] — https://www.eataly.com/wine
 - [[Envoyer_Business_Wine|Envoyer Business Wine]] — https://www.envoyerwine.com
-- [[FASS_Selections|FASS Selections]] — <!-- BEGIN AUTO-GENERATED (build_rollups.py) --> **4 producers** from this retailer are tracked in the wiki.
+- [[FASS_Selections|FASS Selections]] — <!-- BEGIN AUTO-GENERATED (build_rollups.py) --> **161 producers** from this retailer are tracked in the wiki.
 - [[FLX_Provisions|FLX Provisions]] — https://www.flxprovisions.com
 - [[Fermented_Grapes|Fermented Grapes]] — https://www.fermentedgrapes.com
 - [[Ferry_Plaza_Wine_Merchant|Ferry Plaza Wine Merchant]] — https://www.ferrywinery.com
@@ -261,7 +272,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_358 producers across 37 regions._
+_511 producers across 47 regions._
 
 ### Abruzzo
 
@@ -279,13 +290,24 @@ _358 producers across 37 regions._
 
 - [[josephus_mayr|Josephus Mayr]] — Alto Adige / Südtirol · DTE 1
 - [[pacherhof|Pacherhof]] — Alto Adige / Südtirol / Eisacktal · DTE 2
+- [[pircher|Pircher]] — Alto Adige / Südtirol · FASS 5
 
 ### Baden
 
+- [[achim_durr|Achim Dürr]] — Baden · FASS 9
+- [[andreas_laible|Andreas Laible]] — Baden · FASS 3
 - [[bernhard_huber|Bernhard Huber]] — Baden · CSW ★1/1
 - [[enderle__moll|Enderle & Moll]] — Baden · biodynamic · CSW ★4/7
+- [[jurgen_von_der_mark|Jürgen von der Mark]] — Baden · FASS 8
+- [[laible_am|Laible Am]] — Baden · FASS 1
+- [[max_geitlinger|Max Geitlinger]] — Baden · FASS 2
 - [[sven_enderle|Sven Enderle]] — Baden · CSW 7 · DTE 5 · FASS 13
 - [[wasenhaus|Wasenhaus]] — Baden · organic · CSW ★2/4
+- [[ziereisen|Ziereisen]] — Baden · FASS 13
+
+### Basel-Land
+
+- [[riehen|Weingut Riehen]] — Basel-Land · FASS 6
 
 ### Basque (Irouléguy)
 
@@ -300,14 +322,25 @@ _358 producers across 37 regions._
 - [[anthony_thevenet|Anthony Thevenet]] — Beaujolais · CSW 1 · DTE 1
 - [[clos_de_la_roilette|Clos de la Roilette]] — Beaujolais · CSW ★6/8 · DTE 1
 - [[desvignes|Desvignes]] — Beaujolais · CSW ★4/13 · DTE 2
+- [[du_vissoux|Domaine du Vissoux]] — Beaujolais · FASS 1
+- [[grosbot_barbara|Domaine Grosbot-Barbara]] — Beaujolais · FASS 1
+- [[jean_foillard|Jean Foillard]] — Beaujolais · FASS 1
 - [[julien_sunier|Julien Sunier]] — Beaujolais · DTE 1
+- [[lafarge_vial|Lafarge Vial]] — Beaujolais · FASS 2
+- [[raphael_chopin|Raphael Chopin]] — Beaujolais · FASS 1
+- [[thivin|Chateau Thivin]] — Beaujolais · FASS 5
+- [[yvon_metras|Yvon Métras]] — Beaujolais · FASS 1
 
 ### Bierzo
 
 - [[castro_ventosa|Castro Ventosa]] — Bierzo · CSW 1 · DTE 1
+- [[luna_beberide|Luna Beberide]] — Bierzo · FASS 1
 
 ### Bordeaux
 
+- [[bel_air_marquis_daligre|Bel Air Marquis dAligre]] — Bordeaux · FASS 1
+- [[bonneau|Château Bonneau]] — Bordeaux / Montagne-Saint-Émilion · FASS 1
+- [[bouillerot|Chateau Bouillerot]] — Bordeaux / Entre-deux-Mers · FASS 1
 - [[chateau_brandeau|Chateau Brandeau]] — Bordeaux / Castillon-Côtes de Bordeaux · organic · CSW ★1/2
 - [[chateau_cantemerle|Château Cantemerle]] — Bordeaux / Haut-Médoc · CSW 1 · Raeder 2
 - [[chateau_ducru_beaucaillou|Château Ducru-Beaucaillou]] — Bordeaux / Saint-Julien · Raeder 2
@@ -332,20 +365,26 @@ _358 producers across 37 regions._
 - [[domaine_de_chevalier|Domaine de Chevalier]] — Bordeaux / Pessac-Léognan · sustainable · CSW 2 · Raeder 2
 - [[domaine_uchida|Domaine Uchida]] — Bordeaux / Haut-Médoc / Pauillac · CSW ★1/1
 - [[elian_da_ros|Elian Da Ros]] — Bordeaux / Côtes-du-Marmandais (SW France) · biodynamic · CSW ★2/3
+- [[samion|Chateau Samion]] — Bordeaux · FASS 1
+- [[vieux_chateau_st_andree|Vieux Chateau St. Andree]] — Bordeaux · FASS 1
 
 ### Burgundy
 
+- [[alain_burguet|Alain Burguet]] — Burgundy / Gevrey-Chambertin · FASS 1
 - [[amelie_berthaut|Amélie Berthaut]] — Burgundy · CSW 1 · DTE 1
 - [[arnoux_lachaux|Arnoux Lachaux]] — Burgundy · DTE 16
 - [[barraud|Barraud]] — Burgundy · DTE 5
 - [[benoit_courault|Benoit Courault]] — Burgundy / Anjou (Loire) · natural · CSW ★3/11
+- [[berlancourt|Domaine Berlancourt]] — Burgundy · FASS 8
 - [[berthaut-gerbet|Berthaut-Gerbet]] — Burgundy / Fixin / Gevrey · organic · CSW ★1/1
 - [[bruno_lorenzon|Bruno Lorenzon]] — Burgundy · DTE 6 · Raeder 2
 - [[cecile_tremblay|Cecile Tremblay]] — Burgundy / Vosne-Romanée / Chambolle · biodynamic · CSW ★1/3
 - [[chandon_de_briailles|Chandon de Briailles]] — Burgundy / Savigny / Pernand / Corton · biodynamic · CSW ★5/7 · Raeder 1
 - [[charles_audoin|Charles Audoin]] — Burgundy · DTE 19
+- [[chavy_chouet|Chavy-Chouet]] — Burgundy / Meursault · FASS 11
 - [[chicotot|Chicotot]] — Burgundy · DTE 20
 - [[cyril_audoin|Cyril Audoin]] — Burgundy · DTE 3
+- [[daniel_etienne_defaix|Domaine Daniel-Etienne Defaix]] — Burgundy / Chablis · FASS 4
 - [[denis_bachelet|Denis Bachelet]] — Burgundy · DTE 1
 - [[domaine_amiot-servelle|Domaine Amiot-Servelle]] — Burgundy / Chambolle-Musigny · organic · CSW ★2/6
 - [[domaine_armand_heitz|Domaine Armand Heitz]] — Burgundy / Pommard / Meursault · biodynamic · CSW ★2/2
@@ -370,6 +409,7 @@ _358 producers across 37 regions._
 - [[domaine_rossignol-fevrier|Domaine Rossignol-Fevrier]] — Burgundy / Volnay · CSW ★1/1
 - [[domaine_simon_bize|Domaine Simon Bize]] — Burgundy / Savigny-lès-Beaune · biodynamic · CSW ★2/10
 - [[domaine_trapet|Domaine Trapet]] — Burgundy / Gevrey-Chambertin · biodynamic · CSW ★4/4
+- [[dubreuil_fontaine|Dubreuil-Fontaine]] — Burgundy / Aloxe-Corton · FASS 2
 - [[dujardin|Dujardin]] — Burgundy · CSW ★1/1 · DTE 15
 - [[duplessis_chablis|Duplessis Chablis]] — Burgundy / Chablis · organic · CSW ★2/3
 - [[fanny_sabre|Fanny Sabre]] — Burgundy / Beaune / Pommard · organic · CSW ★2/2
@@ -387,32 +427,47 @@ _358 producers across 37 regions._
 - [[jane_et_sylvain|Jane et Sylvain]] — Burgundy / Gevrey-Chambertin · organic · CSW ★5/5
 - [[jean-claude_rateau|Jean-Claude Rateau]] — Burgundy / Beaune · biodynamic · CSW ★6/13
 - [[jean_collet|Jean Collet]] — Burgundy · DTE 3
+- [[jean_dauvissat_pere_amp_fils|Jean Dauvissat Pere &amp; Fils]] — Burgundy / Chablis · FASS 11
 - [[jean_javillier|Jean Javillier]] — Burgundy · DTE 14
 - [[jean_marc_et_thomas_bouley|Jean-Marc et Thomas Bouley]] — Burgundy · DTE 4
+- [[jean_marc_hugues_pavelot|Domaine Jean-Marc & Hugues Pavelot]] — Burgundy / Savigny-lès-Beaune · FASS 2
 - [[jean_pierre_guyon|Jean Pierre Guyon]] — Burgundy · DTE 21
+- [[jj_girard|J.J. Girard]] — Burgundy / Beaune · FASS 20
+- [[jj_morel|JJ Morel]] — Burgundy · FASS 1
 - [[joseph_voillot|Joseph Voillot]] — Burgundy / Volnay / Pommard · CSW ★2/4
+- [[julien_cruchandeau|Julien Cruchandeau]] — Burgundy / Ladoix · FASS 11
 - [[julien_guillot__vignes_du_maynes|Julien Guillot / Vignes du Maynes]] — Burgundy / Mâcon / Cruzille · biodynamic, natural
+- [[la_chablisienne|La Chablisienne]] — Burgundy / Chablis · FASS 1
 - [[latour_giraud|Latour Giraud]] — Burgundy · DTE 10
+- [[laurent_boussey|Laurent Boussey]] — Burgundy / Volnay · FASS 14
+- [[laurent_tribut|Laurent Tribut]] — Burgundy / Chablis · FASS 2
 - [[lignier-michelot|Lignier-Michelot]] — Burgundy / Morey-Saint-Denis · organic · CSW ★2/3
 - [[loersch|Loersch]] — Burgundy · DTE 9
 - [[louis_latour|Louis Latour]] — Burgundy / Beaune · Raeder 9
 - [[lucien_boillot|Lucien Boillot]] — Burgundy / Gevrey-Chambertin · Raeder 9
 - [[maison_pierre_brisset|Maison Pierre Brisset]] — Burgundy / Côte de Nuits / Côte de Beaune · FASS 13
+- [[marc_jambon_et_fils|DOMAINE MARC JAMBON ET FILS]] — Burgundy / Mâcon · FASS 4
 - [[marchand_tawse|Marchand Tawse]] — Burgundy · DTE 25
 - [[maxime_cheurlin|Maxime Cheurlin]] — Burgundy · DTE 18
 - [[meo_camuzet|Méo-Camuzet]] — Burgundy / Vosne-Romanée · sustainable · CSW 1 · Raeder 12
 - [[messager-germain|Messager-Germain]] — Burgundy · CSW ★2/2
 - [[michel_mallard|Michel Mallard]] — Burgundy · CSW ★1/1 · DTE 24
+- [[michel_naddef|Michel Naddef]] — Burgundy / Gevrey-Chambertin · FASS 1
 - [[michel_niellon|Michel Niellon]] — Burgundy / Chassagne-Montrachet · Raeder 3
 - [[michel_noellat|Michel Noellat]] — Burgundy · CSW 1 · DTE 1
 - [[michel_rebourgeon|Michel Rebourgeon]] — Burgundy · DTE 13 · FASS 17
 - [[modot_guyon|Modot Guyon]] — Burgundy · DTE 6
 - [[patrice_rion|Patrice Rion]] — Burgundy · DTE 3
+- [[philippe_naddef|Philippe Naddef]] — Burgundy / Gevrey-Chambertin · FASS 5
 - [[pierre-yves_colin-morey|Pierre-Yves Colin-Morey]] — Burgundy / St-Aubin / Chassagne · organic · CSW ★2/4
 - [[ramonet|Ramonet]] — Burgundy / Chassagne-Montrachet · CSW 1 · Raeder 9
 - [[rapet_pere_et_fils|Rapet Père et Fils]] — Burgundy / Pernand-Vergelesses · organic · CSW 2
+- [[remi_poisot|Remi Poisot]] — Burgundy / Aloxe-Corton · FASS 8
 - [[robert_ampeau|Robert Ampeau]] — Burgundy / Meursault / Auxey · CSW ★1/1
 - [[roty|Roty]] — Burgundy · DTE 1
+- [[sarl_garaudet_pere_et_fils|SARL Garaudet Pere et Fils]] — Burgundy / Monthelie · FASS 10
+- [[sebastien_dampt|Sébastien Dampt]] — Burgundy / Chablis · FASS 7
+- [[servin|Domaine Servin]] — Burgundy / Chablis · FASS 2
 - [[sigaut|Sigaut]] — Burgundy · DTE 9
 - [[simon_colin|Simon Colin]] — Burgundy / Chassagne-Montrachet · CSW ★1/1
 - [[sirugue|Sirugue]] — Burgundy · CSW ★1/1 · DTE 4
@@ -420,6 +475,7 @@ _358 producers across 37 regions._
 - [[sylvain_pataille|Sylvain Pataille]] — Burgundy / Marsannay · biodynamic · CSW ★1/3
 - [[sylvie_esmonin|Sylvie Esmonin]] — Burgundy / Gevrey-Chambertin · organic · CSW ★6/8
 - [[thomas_et_jean_marc_bouley|Thomas et Jean Marc Bouley]] — Burgundy · DTE 10
+- [[vincent_ledy|Vincent Ledy]] — Burgundy · FASS 3
 
 ### California
 
@@ -434,6 +490,11 @@ _358 producers across 37 regions._
 - [[screaming_eagle|Screaming Eagle]] — California / Napa Valley (Oakville) · CSW 1 · Raeder 1
 - [[sine_qua_non|Sine Qua Non]] — California / Ventura / Central Coast · organic · Raeder 7
 
+### Campania
+
+- [[calafe|CaLaFe]] — Campania / Greco di Tufo · FASS 3
+- [[vini_marino_proclamo_cilento|Vini Marino Proclamo Cilento]] — Campania · FASS 4
+
 ### Catalonia
 
 - [[mata_i_coloma|Mata I Coloma]] — Catalonia · DTE 3
@@ -443,16 +504,28 @@ _358 producers across 37 regions._
 - [[agrapart|Agrapart]] — Champagne · CSW ★7/9 · DTE 2
 - [[aurore_casanova|Aurore Casanova]] — Champagne · DTE 4
 - [[bollinger|Bollinger]] — Champagne · CSW 6 · Raeder 2
+- [[caillez_lemaire|Caillez-Lemaire]] — Champagne · FASS 9
 - [[champagne_les_freres_mignon|Champagne Les Freres Mignon]] — Champagne · CSW ★1/1
 - [[champagne_ponson|Champagne Ponson]] — Champagne · CSW ★2/2
+- [[clement_perseval|Clément Perseval]] — Champagne · FASS 4
+- [[diot_benoit|Diot Benoit]] — Champagne · FASS 1
+- [[diot_legras_les|Diot-Legras Les]] — Champagne · FASS 1
 - [[dom_perignon|Dom Pérignon]] — Champagne · CSW 1 · Raeder 7
+- [[etienne_calsac|Etienne Calsac]] — Champagne · FASS 1
 - [[jacques_lassaigne|Jacques Lassaigne]] — Champagne · CSW 1 · DTE 3
 - [[laherte|Laherte]] — Champagne · CSW ★3/12 · DTE 6
 - [[larmandier_bernier|Larmandier Bernier]] — Champagne · CSW ★1/1 · DTE 3 · Raeder 1
 - [[louis_roederer|Louis Roederer]] — Champagne · biodynamic · Raeder 12
+- [[marc_hebrart|Marc Hebrart]] — Champagne · FASS 1
 - [[marguet|Marguet]] — Champagne · CSW ★3/10 · DTE 4
+- [[marie_demets|Marie Demets]] — Champagne · FASS 12
 - [[nathalie_falmet|Nathalie Falmet]] — Champagne · DTE 1
+- [[paul_drappier|Paul Drappier]] — Champagne · FASS 1
+- [[perseval_farge|Perseval-Farge]] — Champagne · FASS 5
 - [[petit_clergeot|Petit Clergeot]] — Champagne · DTE 1
+- [[pierre_callot|Pierre Callot]] — Champagne · FASS 1
+- [[pierre_gimmonet|Pierre Gimmonet]] — Champagne · FASS 1
+- [[pierre_moncuit|Pierre Moncuit]] — Champagne · FASS 1
 - [[pierre_peters|Pierre Peters]] — Champagne / Le Mesnil-sur-Oger · sustainable · CSW 2 · Raeder 2
 - [[ployez_jacquemart|Ployez Jacquemart]] — Champagne · DTE 6
 - [[taittinger|Taittinger]] — Champagne · Raeder 3
@@ -465,10 +538,26 @@ _358 producers across 37 regions._
 
 - [[vaccelli|Vaccelli]] — Corsica · DTE 3
 
+### Eastern Switzerland
+
+- [[wegelin|Wegelin]] — Eastern Switzerland · FASS 3
+
 ### Franken
 
+- [[joseph_walter|Joseph Walter]] — Franken · FASS 8
 - [[max_kilburg|Max Kilburg]] — Franken · CSW ★2/3
+- [[paul_weltner|Paul Weltner]] — Franken / Rödelsee · FASS 13
+- [[richard_oestreicher|Richard Oestreicher]] — Franken · FASS 1
+- [[richard_ostreicher|Richard Östreicher]] — Franken / Sommerach · FASS 12
 - [[rudolf_furst|Rudolf Furst]] — Franken · CSW 5 · DTE 2
+
+### Graubünden
+
+- [[daniel_and_monika_marugg|Daniel And Monika Marugg]] — Graubünden · FASS 2
+- [[familie_hansruedi_adank|Weingut Familie Hansruedi Adank]] — Graubünden · FASS 9
+- [[mohr_niggli|Mohr-Niggli]] — Graubünden · FASS 4
+- [[patrick_adank|Patrick Adank]] — Graubünden · FASS 3
+- [[sprecher_von_bernegg|Sprecher von Bernegg]] — Graubünden · FASS 4
 
 ### Jujuy
 
@@ -485,7 +574,9 @@ _358 producers across 37 regions._
 - [[domaine_montbourgeau|Domaine Montbourgeau]] — Jura / L'Étoile · organic · CSW ★2/5
 - [[domaine_pont_de_breux|Domaine Pont de Breux]] — Jura / Arbois / Côtes du Jura · organic · CSW ★3/4
 - [[domaine_ratte|Domaine Ratte]] — Jura / Arbois / Côtes du Jura · natural · CSW ★2/5
+- [[frederic_lambert|Frederic Lambert]] — Jura · FASS 2
 - [[jacques_puffeney|Jacques Puffeney]] — Jura / Arbois (retired 2014) · organic · CSW ★1/12
+- [[jean_bourdy|Caves Jean Bourdy]] — Jura · FASS 2
 - [[jean_francois_ganevat|Jean-François Ganevat]] — Jura / Côtes du Jura · biodynamic · CSW ★2/12
 - [[les_capriades|Les Capriades]] — Jura / Loire / Touraine pét-nat · natural · CSW ★2/4
 - [[les_granges_paquenesses|Les Granges Paquenesses]] — Jura / Côtes du Jura · natural · CSW ★2/3
@@ -500,10 +591,17 @@ _358 producers across 37 regions._
 
 - [[bernard_baudry|Bernard Baudry]] — Loire · CSW ★4/20 · DTE 2
 - [[boulay|Boulay]] — Loire · CSW 2 · DTE 1
+- [[clos_de_lecotard|Domaine Clos de lEcotard]] — Loire · FASS 1
 - [[clos_rougeard|Clos Rougeard]] — Loire / Saumur-Champigny · natural · CSW ★2/11
+- [[des_roches_neuves|Domaine des Roches Neuves]] — Loire · FASS 8
 - [[domaine_baudry|Domaine Baudry]] — Loire / Chinon · organic · CSW ★20/45
 - [[domaine_de_la_chevalerie|Domaine de la Chevalerie]] — Loire / Bourgueil · organic · CSW ★5/15
 - [[stephane_guion|Stéphane Guion]] — Loire / Bourgueil · organic since 1965 · CSW ★9/17
+
+### Lombardy
+
+- [[arpepe|ArPePe]] — Lombardy · FASS 8
+- [[motalli_renato|Motalli Renato]] — Lombardy · FASS 5
 
 ### Marche
 
@@ -574,6 +672,11 @@ _358 producers across 37 regions._
 - [[zorzal_wines|Zorzal Wines]] — Mendoza / Tupungato · biodynamic
 - [[zuccardi_valle_de_uco|Zuccardi Valle de Uco]] — Mendoza / Valle de Uco — Paraje Altamira / Gualtallary / San Pablo
 
+### Molise
+
+- [[cian_fagna|Cian Fagna]] — Molise · FASS 1
+- [[cianfagna|Cianfagna]] — Molise · FASS 2
+
 ### Mosel
 
 - [[aj_adam|A.J. Adam]] — Mosel / Dhron · CSW ★1/4
@@ -581,17 +684,25 @@ _358 producers across 37 regions._
 - [[clemens_busch|Clemens Busch]] — Mosel / Pünderich · biodynamic · CSW ★5/20
 - [[hofgut_falkenstein|Hofgut Falkenstein]] — Mosel / Saar (Konz) · CSW ★6/12
 - [[immich-batterieberg|Immich-Batterieberg]] — Mosel / Enkirch · biodynamic · CSW ★4/14
+- [[jakob_schneider|Jakob Schneider]] — Mosel · FASS 1
+- [[jj_prum|JJ Prum]] — Mosel · FASS 2
 - [[knebel|Knebel]] — Mosel / Winningen · CSW ★3/16
+- [[markus_moitor|Markus Moitor]] — Mosel · FASS 1
+- [[markus_molitor|Markus Molitor]] — Mosel / Zeltingen · FASS 28
+- [[martin_mullen|Martin Müllen]] — Mosel · FASS 19
 - [[max_ferdinand_richter|Max Ferdinand Richter]] — Mosel · DTE 17
 - [[melsheimer|Melsheimer]] — Mosel · CSW 1 · DTE 3
 - [[peter_lauer__weingut_lauer|Peter Lauer / Weingut Lauer]] — Mosel / Saar
 - [[richter|Richter]] — Mosel · DTE 11
-- [[steinmetz|Steinmetz]] — Mosel · CSW 9 · DTE 37
+- [[selbach_oster|Selbach-Oster]] — Mosel · FASS 3
+- [[spater_veit|Später-Veit]] — Mosel · FASS 6
+- [[steinmetz|Steinmetz]] — Mosel · CSW 9 · DTE 37 · FASS 31
 - [[thanisch|Thanisch]] — Mosel · DTE 7
 - [[ulli_stein|Ulli Stein]] — Mosel · natural · CSW ★3/9
 - [[van_volxem|Van Volxem]] — Mosel / Saar · biodynamic · CSW ★1/8
 - [[vollenweider|Vollenweider]] — Mosel / Wolf · CSW ★2/5
 - [[weiser_kunstler|Weiser-Künstler]] — Mosel · organic · CSW ★6/15
+- [[wilhelm_weber_osterman|Wilhelm Weber-Osterman]] — Mosel · FASS 2
 - [[willi_schaefer|Willi Schaefer]] — Mosel / Graach · CSW ★5/9
 - [[wwe_dr_h_thanisch|Wwe Dr H Thanisch]] — Mosel · DTE 8
 - [[zilliken|Zilliken]] — Mosel / Saar (Saarburg) · CSW ★2/4
@@ -600,7 +711,13 @@ _358 producers across 37 regions._
 
 - [[donnhoff|Dönnhoff]] — Nahe · CSW ★2/10
 - [[emrich_schonleber|Emrich-Schönleber]] — Nahe · organic · CSW ★2/3
+- [[gut_hermannsberg|Gut Hermannsberg]] — Nahe · FASS 7
+- [[kh_schneider|K.H. Schneider]] — Nahe / Felsenberg · FASS 7
 - [[schafer-frohlich|Schafer-Frohlich]] — Nahe · CSW ★2/6
+
+### Oregon
+
+- [[martin_woods|Martin Woods]] — Oregon / Willamette Valley · FASS 4
 
 ### Patagonia
 
@@ -616,16 +733,25 @@ _358 producers across 37 regions._
 
 ### Pfalz
 
+- [[a_christmann|A. Christmann]] — Pfalz · FASS 1
+- [[dr_burklin_wolf|Dr Burklin Wolf]] — Pfalz · FASS 1
+- [[dr_wehrheim|Dr. Wehrheim]] — Pfalz · FASS 7
 - [[mosbacher|Mosbacher]] — Pfalz · DTE 1
+- [[okonomierat_rebholz|Okonomierat Rebholz]] — Pfalz · FASS 1
 - [[rings|Rings]] — Pfalz / Freinsheim · CSW 1 · DTE 2
+- [[sven_klundt|Sven Klundt]] — Pfalz · FASS 3
 
 ### Piedmont
 
+- [[ai_valloni|Podere ai Valloni]] — Piedmont · FASS 1
 - [[brovia|Brovia]] — Piedmont / Barolo / Barbaresco (Castiglione Falletto) · CSW ★6/13
 - [[burlotto|Burlotto]] — Piedmont / Verduno (Barolo) · CSW ★1/6
 - [[cascina_delle_rose|Cascina delle Rose]] — Piedmont / Barbaresco (Neive) · organic · CSW ★1/3
+- [[cascina_delsignore|Cascina DelSignore]] — Piedmont · FASS 1
+- [[cascina_quarino|Cascina Quarino]] — Piedmont · FASS 2
 - [[cavallotto|Cavallotto]] — Piedmont / Barolo (Castiglione Falletto) · CSW ★1/6
 - [[ceretto|Ceretto]] — Piedmont / Barolo / Barbaresco · organic · CSW ★2/9 · Raeder 7
+- [[cesare_bussolo|Cesare Bussolo]] — Piedmont · FASS 7
 - [[domenico_clerico|Domenico Clerico]] — Piedmont · CSW 1 · DTE 2
 - [[elio_altare|Elio Altare]] — Piedmont · DTE 1
 - [[elio_sandri|Elio Sandri]] — Piedmont / Barolo (Castiglione Falletto) · CSW ★3/6
@@ -634,34 +760,67 @@ _358 producers across 37 regions._
 - [[fratelli_alessandria|Fratelli Alessandria]] — Piedmont / Verduno (Barolo) · CSW ★2/2
 - [[gaja|Gaja]] — Piedmont / Barbaresco / Barolo · sustainable · Raeder 30
 - [[giacomo_conterno|Giacomo Conterno]] — Piedmont / Barolo (Monforte) · CSW ★2/5 · Raeder 1
+- [[giuseppe_negro|Giuseppe Negro]] — Piedmont · FASS 1
+- [[la_psigula|La Psigula]] — Piedmont · FASS 2
 - [[le_piane|Le Piane]] — Piedmont / Alto Piemonte · CSW 1 · DTE 6
 - [[lorenzo_accomasso|Lorenzo Accomasso]] — Piedmont / Barolo (La Morra) · CSW ★1/2
+- [[monolo_gilodi|Tenuta Monolo Gilodi]] — Piedmont · FASS 1
+- [[palazzo_schiavino|Palazzo Schiavino]] — Piedmont · FASS 1
 - [[pianelle|Pianelle]] — Piedmont / Alto Piemonte · DTE 6
+- [[pier_paolo_grasso|Pier Paolo Grasso]] — Piedmont · FASS 1
+- [[podere_ai|Podere Ai]] — Piedmont · FASS 2
 - [[produttori_del_barbaresco|Produttori del Barbaresco]] — Piedmont / Barbaresco · CSW ★5/10 · Raeder 1
+- [[quazzolo|Quazzolo]] — Piedmont · FASS 2
+- [[rattalino|Rattalino]] — Piedmont · FASS 3
 - [[roagna|Roagna]] — Piedmont / Barbaresco / Barolo · biodynamic · CSW ★4/13 · Raeder 6
+- [[rocche_dei_barbari|Rocche dei Barbari]] — Piedmont · FASS 4
+- [[sergio_barbaglia|Sergio Barbaglia]] — Piedmont · FASS 4
 - [[sottimano|Sottimano]] — Piedmont · DTE 12
+- [[tomaso_gianolo|Tomaso Gianolo]] — Piedmont · FASS 2
 - [[trediberri|Trediberri]] — Piedmont / Barolo (La Morra) · organic · CSW ★2/3
+- [[vietti|Vietti]] — Piedmont · FASS 1
+- [[vigneti_valle_roncati|Vigneti Valle Roncati]] — Piedmont · FASS 4
+- [[vini_chiussima|Vini Chiussima]] — Piedmont · FASS 3
 
 ### Provence
 
 - [[ch_de_pibarnon|Ch de Pibarnon]] — Provence · DTE 1
 - [[chateau_de_pibarnon|Chateau de Pibarnon]] — Provence · DTE 1
 - [[clos_cibonne|Clos Cibonne]] — Provence / Côtes de Provence · CSW ★2/3
+- [[simone|Chateau Simone]] — Provence · FASS 2
+
+### Rheingau
+
+- [[prinz|Prinz]] — Rheingau · FASS 1
+- [[schloss_johannisberg|Schloss Johannisberg]] — Rheingau · FASS 2
+- [[wegeler|Wegeler]] — Rheingau · FASS 1
 
 ### Rheinhessen
 
+- [[juwel|Juwel]] — Rheinhessen · FASS 2
+- [[kuhling_gillot|Kühling-Gillot]] — Rheinhessen · FASS 1
+- [[sekthaus_raumland|Sekthaus Raumland]] — Rheinhessen · FASS 5
+- [[thorle|Thörle]] — Rheinhessen · FASS 24
 - [[wagner_stempel|Wagner Stempel]] — Rheinhessen · DTE 3
 
 ### Rhône
 
+- [[alexandrins|Maison Alexandrins]] — Rhône / Hermitage · FASS 6
 - [[allemand|Allemand]] — Rhône / Cornas · natural · CSW ★1/9
-- [[billon|Billon]] — Rhône · DTE 4
+- [[andre_francois|Andre Francois]] — Rhône / Collines Rhodaniennes · FASS 3
+- [[bernard_gripa|Bernard Gripa]] — Rhône / Saint-Joseph · FASS 7
+- [[billon|Billon]] — Rhône · DTE 4 · FASS 5
 - [[chapelle_st_theodoric|Chapelle St. Theodoric]] — Rhône / Châteauneuf-du-Pape · organic · CSW ★2/2
 - [[clos_du_joncuas|Clos du Joncuas]] — Rhône / Gigondas · biodynamic · CSW ★4/10
 - [[clos_du_mont_olivet|Clos du Mont Olivet]] — Rhône · CSW 1 · DTE 1
 - [[clos_saouma|Clos Saouma]] — Rhône · DTE 1
 - [[clusel_roch|Clusel Roch]] — Rhône · DTE 3 · Raeder 1
+- [[compagnie_de_lhermitage|Compagnie de l'Hermitage]] — Rhône / Châteauneuf-du-Pape · FASS 5
+- [[cuchet_beliando|Cuchet-Beliando]] — Rhône / Cornas · FASS 1
 - [[dard__ribo|Dard & Ribo]] — Rhône / Crozes-Hermitage / Saint-Joseph · natural · CSW ★3/3
+- [[de_la_cote_saint_epine|Domaine de la Côte Saint-Épine]] — Rhône / Saint-Joseph · FASS 4
+- [[de_trinquevedel|Chateau de Trinquevedel]] — Rhône / Tavel · FASS 1
+- [[des_pierres_seches|Domaine des Pierres Seches]] — Rhône / Saint-Joseph · FASS 4
 - [[domaine_barou|Domaine Barou]] — Rhône / Saint-Joseph · organic · CSW ★2/6
 - [[domaine_charvin|Domaine Charvin]] — Rhône / Châteauneuf-du-Pape · organic · CSW ★1/7
 - [[domaine_de_beaurenard|Domaine de Beaurenard]] — Rhône / Châteauneuf-du-Pape · biodynamic · Raeder 11
@@ -674,17 +833,39 @@ _358 producers across 37 regions._
 - [[domaine_pierre_andre|Domaine Pierre André]] — Rhône / Gigondas / Châteauneuf · biodynamic · CSW ★5/12
 - [[domaine_pierre_gonon|Domaine Pierre Gonon]] — Rhône / Saint-Joseph · organic · CSW ★9/17
 - [[domaine_rousset|Domaine Rousset]] — Rhône / Crozes-Hermitage / Saint-Joseph · organic · CSW ★6/11
+- [[du_tunnel|Domaine du Tunnel]] — Rhône / Cornas · FASS 7
 - [[dumien-serrette|Dumien-Serrette]] — Rhône / Cornas · organic · CSW ★1/4
+- [[elie_bancel|Elie Bancel]] — Rhône / Cornas · FASS 1
+- [[emmanuel_darnaud|Emmanuel Darnaud]] — Rhône / Saint-Joseph · FASS 2
+- [[emmanuel_verset|Emmanuel Verset]] — Rhône / Cornas · FASS 2
 - [[eric_et_joel_durand|Eric et Joel Durand]] — Rhône · DTE 1
 - [[eric_texier|Eric Texier]] — Rhône / Côte-Rôtie / Brézème / Rhône · biodynamic · CSW ★5/26
 - [[ferme_saint-martin|Ferme Saint-Martin]] — Rhône / Beaumes-de-Venise / Ventoux · natural · CSW ★3/4
 - [[franck_balthazar|Franck Balthazar]] — Rhône / Cornas · natural · CSW ★2/5
+- [[gallet|Domaine Gallet]] — Rhône / Côte-Rôtie · FASS 2
+- [[georges_lelektsoglou|Georges Lelektsoglou]] — Rhône / Cairanne · FASS 1
 - [[georges_vernay|Georges Vernay]] — Rhône · DTE 1 · Raeder 1
-- [[jasmin|Jasmin]] — Rhône · CSW 1 · DTE 1
+- [[gerard_courbis_pere_fils|Gerard Courbis Pere & Fils]] — Rhône / Saint-Joseph · FASS 3
+- [[guillaume_gilles|Guillaume Gilles]] — Rhône / Cornas · FASS 4
+- [[j_despesse|J. Despesse]] — Rhône / Cornas · FASS 1
+- [[jacques_lemenicier|Jacques Lemenicier]] — Rhône / Cornas · FASS 3
+- [[jasmin|Jasmin]] — Rhône · CSW 1 · DTE 1 · FASS 3
+- [[jean_michel_stephan|Jean Michel Stephan]] — Rhône / Côte-Rôtie · FASS 2
 - [[jean_royer|Jean Royer]] — Rhône · DTE 1
+- [[julien_barge|Julien Barge]] — Rhône / Côte-Rôtie · FASS 6
 - [[langlore|L'Anglore]] — Rhône / Tavel / Lirac · natural · CSW 6
+- [[louis_sozet|Louis Sozet]] — Rhône / Cornas · FASS 1
+- [[ludovic_courbis|Ludovic Courbis]] — Rhône / Cornas · FASS 1
+- [[luyton|Luyton]] — Rhône / Hermitage · FASS 2
 - [[marc_sorrel|Marc Sorrel]] — Rhône · DTE 15
+- [[michellas_st_jemmes|Domaine Michellas St Jemmes]] — Rhône / Cornas · FASS 1
+- [[mikael_bourg|Mikael Bourg]] — Rhône / Cornas · FASS 4
+- [[nicolas_champagneaux|Nicolas Champagneaux]] — Rhône / Côte-Rôtie · FASS 2
 - [[pierre_benetiere|Pierre Benetiere]] — Rhône · DTE 5
+- [[remy_nodin|Remy Nodin]] — Rhône / Cornas · FASS 1
+- [[saint_damien|Domaine Saint-Damien]] — Rhône / Gigondas · FASS 1
+- [[sebastien_blachon|Cave Sebastien Blachon]] — Rhône / Saint-Joseph · FASS 2
+- [[st_gayan|Domaine St. Gayan]] — Rhône / Gigondas · FASS 1
 - [[vincent_paris|Vincent Paris]] — Rhône · CSW ★1/2 · DTE 1 · FASS 1
 
 ### Salta
@@ -701,6 +882,8 @@ _358 producers across 37 regions._
 
 ### Savoie
 
+- [[des_rutissons|Domaine des Rutissons]] — Savoie · FASS 3
+- [[gilles_berlioz|Gilles Berlioz]] — Savoie · FASS 2
 - [[jean_masson|Jean Masson]] — Savoie · DTE 1
 
 ### Sicily
@@ -711,16 +894,23 @@ _358 producers across 37 regions._
 - [[frank_cornelissen|Frank Cornelissen]] — Sicily / Etna · natural · CSW ★2/6
 - [[gulfi|Gulfi]] — Sicily / Vittoria · CSW 4 · DTE 7
 - [[masseria_del_pino|Masseria del Pino]] — Sicily · organic · CSW ★2/3
+- [[vinding_montecarrubo|Vinding Montecarrubo]] — Sicily · FASS 2
+
+### South West
+
+- [[familie_jouffreau|Familie Jouffreau]] — South West · FASS 7
 
 ### Tuscany
 
 - [[altesino|Altesino]] — Tuscany / Brunello di Montalcino · Raeder 9
 - [[biondi_santi|Biondi-Santi]] — Tuscany / Brunello di Montalcino · sustainable · CSW 1 · Raeder 8
 - [[castell_in_villa|Castell'in Villa]] — Tuscany / Chianti Classico · DTE 3
+- [[col_falco|Tenuta Col Falco]] — Tuscany · FASS 3
 - [[i_fabbri|I Fabbri]] — Tuscany / Chianti Classico · CSW ★1/2 · DTE 3
 - [[istine|Istine]] — Tuscany / Chianti Classico · DTE 1
 - [[monte_bernardi|Monte Bernardi]] — Tuscany / Chianti Classico · biodynamic · CSW ★3/6
 - [[montenidoli|Montenidoli]] — Tuscany / San Gimignano · CSW ★2/2 · DTE 7
+- [[petra|Petra]] — Tuscany · FASS 1
 - [[pian_dell_orino|Pian dell'Orino]] — Tuscany · DTE 1
 - [[tenuta_di_carleone|Tenuta di Carleone]] — Tuscany / Chianti Classico · DTE 8
 
@@ -731,6 +921,10 @@ _358 producers across 37 regions._
 ### Veneto
 
 - [[dal_forno_romano|Dal Forno Romano]] — Veneto / Valpolicella · Raeder 22
+
+### Vully
+
+- [[le_petit_chateau|Le Petit Chateau]] — Vully · FASS 1
 
 ## Events
 

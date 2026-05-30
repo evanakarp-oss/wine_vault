@@ -2,7 +2,7 @@
 type: producer
 name: Billon
 slug: billon
-aliases: []
+aliases: ["Christophe Billon"]
 country: France
 region: Rhône
 sub_region: ''
@@ -25,7 +25,10 @@ retailers:
   raeders:
     in_portfolio: false
   fass:
-    in_portfolio: false
+    in_portfolio: true
+    cuvee_count: 5
+    price_min: 45
+    price_max: 75
   berserkers_kelley:
     post_count: 3
     first_year: 2016
@@ -80,4 +83,18 @@ _Not yet populated._
 
 ## FASS
 
-_Not yet populated._
+In portfolio: **5 cuvée(s)** (2019–2022); prices **$45–$75**. _Source: Fass Selections offers (Spring 2025), deduplicated from the master inventory._
+
+| Cuvée | Vintage(s) | Price (USD) |
+|---|---|---|
+| Condrieu Les Matisses | 2022 | $45 |
+| Cote Rotie Les Elotins | 2021 | $50 |
+| Cote Rotie La Vialliere | 2020 | $65 |
+| Cote Rotie Les Rozier | 2019, 2020 | $68–70 |
+| Cote Rotie La Brocarde | 2021 | $75 |
+
+## Fass Notes — The Old Man and the Sea – Christophe Billon’s Stunning Classic Cote Rotie – from the Brilliant 2021 Vintage
+
+> Like all major works of fiction, The Old Man and the Sea has been subjected to rounds of critical analysis. Curiously, one of the most famous fans of the book was none other than Saddam Hussein who saw a bit of himself in the old fisherman. Santiago's struggle against the odds with dignity resonated with the dictator. We will reserve judgement on whether Hussein comported himself with the same dignity as Santiago.
+
+_Source: [The Old Man and the Sea – Christophe Billon’s Stunning Classic Cote Rotie – from the Brilliant 2021 Vintage](https://www.fassselections.com/blog/the-old-man-and-the-sea-christophe-billons-stunning-classic-cote-rotie-from-the-brilliant-2021-vintage/), Fass Selections._
