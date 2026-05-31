@@ -244,3 +244,7 @@ Curation taste line for Napa rewritten. Previously: "true cult tier (Harlan/Hund
 ## [2026-05-29] view | Vinous + WA editorial clippings still empty (no Web Clipper saves)
 
 Audit of `raw/clippings/vinous/` and `raw/clippings/wine_advocate/` found 0 articles, only README. Pipeline (`compile_clippings.py`) is wired and ready. To populate: install Obsidian Web Clipper, save articles per the schema in each folder's README. Until then, producer pages will not have `## Vinous Reviews` or `## Wine Advocate (Kelley)` sections, even for producers Vinous/WA cover deeply. Distinct from the William Kelley Berserkers ingest (community signal) — those 81 pages got updated above.
+
+## [2026-05-31] view | Lowest-alcohol Tuscan/Umbrian/Veneto reds at Raeders
+
+Answered an /ask-cellar query: lowest-ABV reds among the 275 Tuscan/Umbrian/Veneto bottlings Raeders sells. Key finding — the Raeders scrape carries NO alcohol field (not in master_2026-04-25.csv, not in per-bottle frontmatter; only stray "alcohol" strings in critic tasting notes, none Italian). Web-verified ABV for the structurally-lowest styles instead. Floor is ~12.5% (Tommasi Rafaèl Valpolicella, Badia a Coltibuono Cetamura Chianti); Amarone/Ripasso/Brunello/Sagrantino/Bolgheri all 14.5–16.5%. Taste-aligned low-ABV picks: Monteraponi Chianti Classico (~13%), Quintarelli Primofiore (~13.5%). Filed to wiki/_views/lowest_alcohol_tuscan_umbrian_veneto_reds_2026_05.md. Follow-up: add an `abv:` field to the Raeders schema + scrape live product pages if ABV ranking becomes a recurring need.
