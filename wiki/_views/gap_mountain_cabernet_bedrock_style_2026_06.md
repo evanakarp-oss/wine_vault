@@ -110,6 +110,25 @@ District Reserve 2013 ($47, right address, obscure producer).
 Abeja, Spring Valley Uriah) — restrained/rugged but not CA mountain. NB: "Villa
 Mt. Eden" on the list is an unrelated commercial brand, *not* [[mount_eden_vineyards|Mount Eden Vineyards]].
 
+## Further leads to explore (ideas, not buy calls)
+
+Not vetted for current availability or price — just more off-radar names in the
+mountain / cool-climate / farming-driven vein, worth pulling on. Verified site +
+farming detail below (web, June 2026):
+
+| Producer | Where | The hook |
+|---|---|---|
+| **Mayacamas Vineyards** | Mt. Veeder, Napa | The godfather of restrained mountain Cab. 1,800–2,400', cool volcanic, **CCOF organic**, austere "marathon-runner" tannins needing 10–20 yrs. Not in-your-face Napa. The single most important reference point for this whole axis. |
+| **Laurel Glen** | Sonoma Mountain | ~1,000', rocky eastern exposure, its own UC-Davis-recognized "Laurel Glen clone." **Organic, Phil Coturri-farmed** (since 2011 under Bettina Sichel — same hand as Far Mountain's Nunnery / Stone Edge). Elegant + firm; "flies under most everyone's radar." Library releases turn up (e.g. K&L). *(Note: now organic, not dry-farmed.)* |
+| **Kathryn Kennedy** | Santa Cruz Mtns (Saratoga) | Own-rooted Cabernet planted by Kathryn Kennedy herself in **1973**; **certified organic since 2007**, hand-tended, tiny lots, built to age. A Mount Eden neighbor in spirit and another SCM pioneer. |
+| **Dyer Vineyard** | Diamond Mountain, Napa | The micro play — **2.3 acres, <300 cases**, Bill & Dawnine Dyer (ex-Sterling / ex-Domaine Chandon) farming volcanic Diamond Mountain by hand, classical methods. About as personal and off-radar as it gets. |
+
+**Unverified threads to chase next** (names only — confirm site/farming before
+trusting): Random Ridge (Mt. Veeder, dry-farmed), Brandlin (Mt. Veeder old vine),
+Clos Saron (North Yuba — Gideon Beinstock's own post-Renaissance project, blends/Syrah
+more than Cab but the same throughline), Obsidian Ridge (Red Hills, Lake County —
+high-elevation volcanic value), Smith-Madrone & Cain (Spring Mountain).
+
 ---
 
 **Sources (web, June 2026):**
