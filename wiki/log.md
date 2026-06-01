@@ -244,3 +244,7 @@ Curation taste line for Napa rewritten. Previously: "true cult tier (Harlan/Hund
 ## [2026-05-29] view | Vinous + WA editorial clippings still empty (no Web Clipper saves)
 
 Audit of `raw/clippings/vinous/` and `raw/clippings/wine_advocate/` found 0 articles, only README. Pipeline (`compile_clippings.py`) is wired and ready. To populate: install Obsidian Web Clipper, save articles per the schema in each folder's README. Until then, producer pages will not have `## Vinous Reviews` or `## Wine Advocate (Kelley)` sections, even for producers Vinous/WA cover deeply. Distinct from the William Kelley Berserkers ingest (community signal) — those 81 pages got updated above.
+
+## [2026-06-01] view | Lighter-to-medium reds (non-Pinot) collecting targets
+
+Gap analysis answering Evan's ask to broaden lighter/medium reds without deepening Pinot exposure. Quantified the red cellar (427 btl: ~99 Pinot-family vs ~50 other light/medium vs ~230 full-bodied) and surfaced five vault-tracked buckets: cru Beaujolais (Desvignes, Roilette, Thevenet, Sunier), Jura Poulsard/Trousseau (Overnoy-Crinquand, Puffeney, Tissot, Gahier — zero in cellar today), Loire Cab Franc (Baudry, Chevalerie, Clos Rougeard), Alto-Piemonte/Alpine Nebbiolo (Le Piane, Pianelle, AR.PE.PE), and Sicilian Etna/Frappato (Bonavita, Masseria del Pino, Gulfi). Filed to wiki/_views/lighter_medium_reds_non_pinot_2026_06.md.
