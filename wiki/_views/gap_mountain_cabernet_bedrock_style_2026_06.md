@@ -82,6 +82,34 @@ floor and onto the Mayacamas/Moon Mountain + Sierra granite frontier*:
   created, pull a real CSW/Vinous/retailer source into `raw/` first per CLAUDE.md
   anti-patterns.
 
+## Benchmark Wine Group availability (2026-06)
+
+Triaged a Benchmark Wine Group sub-$50 California Cabernet listing against this
+theme. Most of it is valley-floor / cult / modern-opulent Napa = **skip** per the
+taste filter (Hall, Faust, Pott, Beau Vigne, Amici, Fantesca, Dancing Hares, Martin
+Estate, Sequoia Grove, Silverado, Sterling, Clos Pegase, Franciscan, Saddleback,
+Titus, Bella Union…). The on-theme keepers:
+
+**Tier A — buy (mountain / farming-driven / drink-now aged):**
+
+| Wine | Price | Why |
+|---|---:|---|
+| Robert Craig Cabernet Napa Valley **2013** | $50 | Mt. Veeder/Howell/Atlas Peak mountain specialist (Tier 2 above). Benchmark vintage, 13 yrs in. JS92/CT91. Best on-target bottle. |
+| Maître de Chai "Gala Mountain" **2019** | $48 | Mt. George ~1,000', volcanic, **biodynamic since 2018**, San Pablo-cooled — "mountain structure with restraint." Low-intervention new-California. 22 in stock. |
+| Stone Edge Farm "Surround" **2013** | $50 | Moon Mountain District, **Coturri-farmed organic Silver Cloud Estate** — same corridor as [[far_mountain|Far Mountain]]. CT92. |
+| Ladera Napa Valley / Stile Blocks **2011** | $46 | Howell Mountain estate, restrained cool '11, 15 yrs in. |
+| Viader DARE **2011** | $50 | Howell Mountain terraced steep slopes, Bordeaux-leaning. |
+
+**Tier B — speculative aged curiosities (off-radar, cheap, provenance risk):**
+Kenwood Jack London 1994/95/96 ($50, Sonoma Mountain, ~30 yrs); Buehler Napa 2003
+($48, eastern hills, old-school value); Grgich Hills 1991 375ml ($50, dry-farmed
+organic Rutherford — valley, half-bottle = risky); Chad Wine Co. Spring Mountain
+District Reserve 2013 ($47, right address, obscure producer).
+
+**Off-theme but adjacent:** Washington (Gramercy Cellars, K Vintners "The Klein,"
+Abeja, Spring Valley Uriah) — restrained/rugged but not CA mountain. NB: "Villa
+Mt. Eden" on the list is an unrelated commercial brand, *not* [[mount_eden_vineyards|Mount Eden Vineyards]].
+
 ---
 
 **Sources (web, June 2026):**
