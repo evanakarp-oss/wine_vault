@@ -86,6 +86,14 @@ Add new values here FIRST, then use them in producer files.
 - San Juan
 - Buenos Aires Province
 
+### United States
+- California
+
+(Finer US detail — Napa Valley, Sonoma / Moon Mountain District, Santa Cruz
+Mountains, North Yuba / Sierra Foothills, Willamette Valley — goes in
+`sub_region:`, not `region:`. Existing US producers all roll up under
+`California`.)
+
 ## `farming`
 
 - conventional

@@ -14,9 +14,11 @@ stocked almost entirely with the cult-hedonist tier — [[colgin|Colgin]],
 [[hundred_acre|Hundred Acre]], [[bryant_family_vineyard|Bryant]],
 [[sine_qua_non|Sine Qua Non]]. That's exactly the style Evan's **updated** taste
 filter (flipped 2026-05-29) says to *skip* — too opulent, not site-transparent. So
-this whole "rugged dry-farmed mountain Cab" axis is a **real gap**: nothing in-vault
-serves it today. None of the producers below have wiki pages yet — they're discovery
-candidates.
+this whole "rugged dry-farmed mountain Cab" axis was a **real gap**: nothing in-vault
+served it. The three Tier 1 picks now have producer pages (created 2026-06-01,
+web-sourced): [[far_mountain|Far Mountain]], [[mount_eden_vineyards|Mount Eden
+Vineyards]], [[renaissance_winery|Renaissance Vineyard & Winery]]. Tier 2 remain
+discovery candidates.
 
 ## The template: what Bedrock actually sources
 

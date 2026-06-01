@@ -2,11 +2,13 @@
 type: importer
 name: "David Bowler Wine"
 slug: david_bowler_wine
-url: "https://www.bowlerwine.com"
-focus: []
+producer_count: 1
+focus: ['California']
+notable_producers: ['Mount Eden Vineyards']
+updated: 2026-06-01
 tags: ['natural', 'organic']
-updated: 2026-05-26
 _source: wiki/_resources.md
+url: "https://www.bowlerwine.com"
 ---
 
 # David Bowler Wine
@@ -14,7 +16,11 @@ _source: wiki/_resources.md
 NYC. Distributes LDM, Brazos, and own portfolio. Natural/organic focus.
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
+**1 producer(s)** in the vault imported by David Bowler Wine (US).
 
-_No producers from this importer/retailer are tracked in the vault yet._
+| Producer | Country | Region | CSW | Cellar |
+|---|---|---|---:|---:|
+| [[mount_eden_vineyards|Mount Eden Vineyards]] | United States | California | — | — |
 
+*Compiled by `scripts/build_rollups.py`.*
 <!-- END AUTO-GENERATED -->

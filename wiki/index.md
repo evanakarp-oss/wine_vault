@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 892
+total_pages: 896
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**892 pages indexed.**
+**896 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -30,7 +30,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Bierzo_Producers|Bierzo Producers]] — **1 producers** tracked.
 - [[Bordeaux_Producers|Bordeaux Producers]] — **25 producers** tracked.
 - [[Burgundy_Producers|Burgundy Producers]] — **85 producers** tracked.
-- [[California_Producers|California Producers]] — **10 producers** tracked.
+- [[California_Producers|California Producers]] — **13 producers** tracked.
 - [[Catalonia_Producers|Catalonia Producers]] — **1 producers** tracked.
 - [[Champagne_Producers|Champagne Producers]] — **16 producers** tracked.
 - [[Colli_Tortonesi_Producers|Colli Tortonesi Producers]] — **1 producers** tracked.
@@ -74,7 +74,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Corkhorder|Corkhorder]] — Small importer.
 - [[DNS_Selections|DNS Selections]] — French and Greek natural/organic wines.
 - [[Daniel_Johnnes_Skurnik|Daniel Johnnes / Skurnik]] — Burgundy
-- [[David_Bowler_Wine|David Bowler Wine]] — NYC. Distributes LDM, Brazos, and own portfolio. Natural/organic focus.
+- [[David_Bowler_Wine|David Bowler Wine]] — California
 - [[Dr_Loosen_self-import|Dr. Loosen (self-import)]] — Mosel
 - [[Dressner|Dressner]] — Burgundy, Jura, Rhône, Sicily
 - [[Eklektikon|Eklektikon]] — NYC. Greek natural wines specialist. Organic/biodynamic.
@@ -121,6 +121,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[VCT_USA|VCT USA]] — Various.
 - [[VOS_Selections|VOS Selections]] — Italy
 - [[Varda|Varda]] — Small portfolio.
+- [[Vintus|Vintus]] — California
 - [[Vinum|Vinum]] — (several companies use this name — verify)
 - [[Vom_Boden|Vom Boden]] — Mosel, Rheinhessen
 - [[Weygandt-Metzler_Importing|Weygandt-Metzler Importing]] — France, Georgia, Germany, Italy, Spain
@@ -261,7 +262,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_357 producers across 37 regions._
+_360 producers across 37 regions._
 
 ### Abruzzo
 
@@ -425,10 +426,13 @@ _357 producers across 37 regions._
 - [[bergstrom|Bergstrom]] — California / Willamette Valley (Oregon) · biodynamic · Raeder 11
 - [[bryant_family_vineyard|Bryant Family Vineyard]] — California / Napa Valley (Pritchard Hill) · Raeder 1
 - [[colgin|Colgin]] — California / Napa Valley (Pritchard Hill) · Raeder 2
+- [[far_mountain|Far Mountain]] — California / Sonoma / Moon Mountain District · organic, biodynamic
 - [[futo_estate|Futo Estate]] — California / Napa Valley (Stags Leap District / Oakville) · sustainable · Raeder 1
 - [[hundred_acre|Hundred Acre]] — California / Napa Valley · Raeder 4
 - [[kosta_browne|Kosta Browne]] — California / Sonoma Coast · CSW 1 · Raeder 15
 - [[lewis_cellars|Lewis Cellars]] — California / Napa Valley · Raeder 10
+- [[mount_eden_vineyards|Mount Eden Vineyards]] — California / Santa Cruz Mountains · sustainable
+- [[renaissance_winery|Renaissance Vineyard & Winery]] — California / North Yuba / Sierra Foothills · natural
 - [[schrader_cellars|Schrader Cellars]] — California / Napa Valley (Beckstoffer To Kalon) · Raeder 12
 - [[screaming_eagle|Screaming Eagle]] — California / Napa Valley (Oakville) · CSW 1 · Raeder 1
 - [[sine_qua_non|Sine Qua Non]] — California / Ventura / Central Coast · organic · Raeder 7
