@@ -155,6 +155,7 @@ _✅ Verified strong fits — add:_
 - [ ] **Gallica** *(St. Helena — Rosemary Cakebread, **also ex-Spottswoode**; restraint + elegance, organic, old vines (1953 PS / 1990 Cab), no tasting room)*
 - [ ] **Tres Sabores** *(W. Rutherford bench — certified organic + dry-farmed; Julie Johnson, **Frog's Leap co-founder**; earthy, savory)*
 - [ ] **MacDonald Vineyards** *(Oakville To Kalon — head-trained dry-farmed old vines incl. 1954; "structured yet elegant"; allocation-only / largely unobtainable)*
+- [ ] **Di Costanzo** *(Coombsville — Massimo Di Costanzo; finesse-driven, reasonable brix, all-natural acidity, no fining/filtering, minimal SO2. Farella Vyd = Coombsville's oldest Cab; also a **dry/organically-farmed Montecillo Vyd** Cab — the same Moon Mountain site that anchors this whole list. A MUST per Evan.)*
 
 _◐ Worth a look:_
 - [ ] Larkmead *(Calistoga — organic estate; actively transitioning to a more nuanced/restrained style under Avery Heelan — "interesting chapter")*
@@ -167,7 +168,7 @@ _⚠️ Name-collision:_ **Eisele Vineyard** (Araujo → Artémis/Latour, Calist
 _Skip — cult/opulent tier on this index:_ BOND, Colgin, Harlan Estate, Screaming Eagle,
 Scarecrow, Promontory, Ulysses, Eisele Vineyard (Araujo), Kapcsandy, Bevan, Pahlmeyer,
 TOR, Paul Hobbs, Orin Swift, Lail, Roy Estate, Marciano, Vineyard 29, Accendo, Lithology,
-Di Costanzo, Fairchild, Moone-Tsai, Carte Blanche, The Debate, Seven Apart, Cliff Lede,
+Fairchild, Moone-Tsai, Carte Blanche, The Debate, Seven Apart, Cliff Lede,
 Shafer, Darioush.
 _Skip — commercial / tourist / modern:_ Rombauer, V Sattui, Castello di Amorosa, Ca' Momi,
 JaM Cellars, Cakebread, Markham, Raymond, Rutherford Hill, St. Supery, Trinitas, Girard,

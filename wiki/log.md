@@ -288,3 +288,7 @@ Researched a Wine Advocate "Napa: New and Recent Releases" debut-producer list (
 ## [2026-06-01] view | Triage full Wine Advocate Napa index (~190) vs restrained profile
 
 Triaged the full Wine Advocate Napa producer index against the restrained/farming-driven profile; added findings to the Cab canon view. New verified strong fits: Volker Eisele Family Estate (Chiles Valley, organic since 1974), Crocker & Starr (St. Helena, organic, Pam Starr ex-Spottswoode), Gallica (Rosemary Cakebread, also ex-Spottswoode), Tres Sabores (Rutherford, organic+dry-farmed, Julie Johnson of Frog's Leap), MacDonald Vineyards (Oakville To Kalon dry-farmed old vines, allocation-only). Worth-a-look: Larkmead (organic, transitioning restrained), Truchard (Carneros cool, leans lush), Salvestrin Dr Crane (historic, mineral, richer). Flagged the Eisele name collision: Eisele Vineyard (Araujo/Artémis) = cult skip vs Volker Eisele = restrained. Named the cult-tier and commercial skips. Noted Spottswoode winemaker lineage (Starr + Cakebread).
+
+## [2026-06-01] fix | Move Di Costanzo from skip → strong fit (Evan correction)
+
+Evan flagged Di Costanzo as a must. Corrected the canon view: removed it from the cult-skip list and added it as a verified strong fit. Massimo Di Costanzo (Coombsville) — finesse-driven, reasonable brix, all-natural acidity, no fining/filtering, minimal SO2; Farella Vineyard (Coombsville's oldest Cab) + a dry/organically-farmed Montecillo Vineyard Cab (same Moon Mountain site anchoring the discovery). My earlier blanket skip was wrong.
