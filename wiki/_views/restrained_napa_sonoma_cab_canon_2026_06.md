@@ -94,6 +94,21 @@ to the full Napa+Sonoma restraint set, grouped so you can shop by terroir.
 - [[arnot-roberts\|Arnot-Roberts]] ✅ — Clajeux & Montecillo Cabs; the restrained new-Cal flagship.
 - **Bedrock** ◐ · **Matthiasson** · **Maître de Chai** — see above.
 
+## Wine Berserkers community signal (search-recovered 2026-06)
+
+Could not run the WB scrape pipeline (forum 403s the egress here), so this is
+**search-recovered, not a full ingest** — no producer-frontmatter signals were
+written. The hivemind validates this canon almost exactly:
+
+- **Poll — [Berserkers Favorites: Cal Cab](https://www.wineberserkers.com/t/berserkers-favorites-cal-cab-producers-poll-results/111726)** (74 ballots, 7-4-3-2-1): Ridge **178** (runaway #1); Shafer 62 / Schrader 62 / Myriad 57 (*cult tier = skip*); then **Spottswoode / Dunn / Dominus 38** each; Corison 16. The restrained names that broke through: **Ridge, Spottswoode, Dunn, Dominus.**
+- **[Sane, old-school Napa Cab producers](https://www.wineberserkers.com/t/sane-old-school-napa-valley-cab-producers/154981)** (quality + sane price + 20-yr track record): **Dunn** (top), **Corison**, **Philip Togni** (Tanbark Hill = entry), **Smith-Madrone**, **Mayacamas** ("makes Corison look like Helen Turley" — the most austere), **Chappellet**, **Frog's Leap**, Spring Mountain Vyd + historic houses (Mondavi, Krug, Martini, Stag's Leap).
+- **[Lean California cabernets](https://www.wineberserkers.com/t/lean-california-cabernets/320408)** (2024): **Matthiasson** Napa 2020, **Arnot-Roberts** Clajeux 2019 — the modern lean benchmarks.
+
+**Forman caveat:** WB consensus is that Forman *was* classically styled (~13.5%, red
+cherry, cigar box) but has **drifted modern since the late 2000s** (~15%, black fruit).
+For the restrained bucket, seek **older Forman vintages**; recent releases no longer
+really qualify.
+
 ## Suggested next vault pages
 
 Strongest candidates to promote from lead → producer page: **Bedrock** (referenced
