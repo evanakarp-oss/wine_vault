@@ -110,6 +110,28 @@ District Reserve 2013 ($47, right address, obscure producer).
 Abeja, Spring Valley Uriah) — restrained/rugged but not CA mountain. NB: "Villa
 Mt. Eden" on the list is an unrelated commercial brand, *not* [[mount_eden_vineyards|Mount Eden Vineyards]].
 
+### Batch 2 (2026-06)
+
+A second Benchmark listing, same triage lens. On-theme keepers:
+
+| Wine | Price | Why |
+|---|---:|---|
+| **Bedrock Wine Co. "The Bedrock Heritage" 2017** | $55 | The anchor producer itself. Old-vine **heirloom field blend** (Zin-led, not Cab) off the historic Bedrock Vineyard. WS95/V94 — obvious grab at the price. |
+| Rowen Wines Red **2014** | $52 | Cooley Ranch, far-N Sonoma, up to **2,040'** — extreme-elevation, rocky-mineral Bordeaux blend. WE92. |
+| Audelssa "Summit Red" **2005** | $52 | Terraced **1,800'** Sonoma-Mayacamas estate (Glen Ellen). Winery now closed → back-vintage only. CT92. |
+| Two Terroirs Cabernet Spring Mountain **2011** | $52 | Spring Mountain district, restrained cool '11. CT90. |
+| Frisson Cabernet Atlas Peak Reserve **2018** | $55 | Atlas Peak mountain fruit. |
+
+**Secondary — old-school / farming-driven aged (restraint axis, not mountain):**
+BV Georges de Latour Private Reserve 1996 (~$94) + BV Rutherford 1988 ($51) —
+Tchelistcheff-legacy Rutherford, drink-now; Clos du Val Napa 2018 ($55, Stags Leap
+restraint); Grgich Hills 2018 / PNVA 2017 (dry-farmed organic/biodynamic Rutherford);
+Kunde "Drummond Vineyard" 2008 ($52, high-elevation Sonoma Mountain block).
+
+**Adjacent / off-theme:** Foxen (Santa Barbara cool-climate Bordeaux), Soter (Oregon).
+Skip pile = cult/opulent/commercial (Amici, Darioush, Peju, Prisoner, Bella Union,
+Hall, Paravel, Dolum, Julien Fayard, Rudius, Spoto, Charles Krug Ltd, Lancaster, …).
+
 ## Further leads to explore (ideas, not buy calls)
 
 Not vetted for current availability or price — just more off-radar names in the
