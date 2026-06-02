@@ -147,6 +147,36 @@ A.Aitch, Ampleur, Blank, Bridget Raymond, Collide, Firetree, Hensel West, 001 Vi
 _Sub-region to watch:_ **Coombsville** (cool, SE-Napa, Bay-influenced) keeps surfacing
 on the restrained side — Pilcrow Glass Rock + Alluvium both live there.
 
+**Wine Advocate full Napa producer index — additional restrained fits (2026)** — triaged the ~190-name index; the new verified fits:
+
+_✅ Verified strong fits — add:_
+- [ ] **Volker Eisele Family Estate** *(Chiles Valley — organic since 1974/CCOF; long cool season, high-acid, "balance and finesse," ageworthy classic. ⚠️ **NOT** the cult "Eisele Vineyard" below)*
+- [ ] **Crocker & Starr** *(St. Helena — organically grown; Pam Starr, **ex-Spottswoode winemaker**; elegant, one of Napa's top Cab Francs)*
+- [ ] **Gallica** *(St. Helena — Rosemary Cakebread, **also ex-Spottswoode**; restraint + elegance, organic, old vines (1953 PS / 1990 Cab), no tasting room)*
+- [ ] **Tres Sabores** *(W. Rutherford bench — certified organic + dry-farmed; Julie Johnson, **Frog's Leap co-founder**; earthy, savory)*
+- [ ] **MacDonald Vineyards** *(Oakville To Kalon — head-trained dry-farmed old vines incl. 1954; "structured yet elegant"; allocation-only / largely unobtainable)*
+
+_◐ Worth a look:_
+- [ ] Larkmead *(Calistoga — organic estate; actively transitioning to a more nuanced/restrained style under Avery Heelan — "interesting chapter")*
+- [ ] Truchard *(Carneros — cool/fog hillside estate, value; leans a touch lush)*
+- [ ] Salvestrin "Dr. Crane" *(St. Helena — historic 1860 vineyard, iron/crushed-rock minerality, cellars well; richer style)*
+- Also worth checking (not researched here): VHR / Vine Hill Ranch (Oakville hillside), Arns (Howell Mtn).
+
+_⚠️ Name-collision:_ **Eisele Vineyard** (Araujo → Artémis/Latour, Calistoga) = cult tier = **skip**; **Volker Eisele** (Chiles Valley) = the restrained one = add.
+
+_Skip — cult/opulent tier on this index:_ BOND, Colgin, Harlan Estate, Screaming Eagle,
+Scarecrow, Promontory, Ulysses, Eisele Vineyard (Araujo), Kapcsandy, Bevan, Pahlmeyer,
+TOR, Paul Hobbs, Orin Swift, Lail, Roy Estate, Marciano, Vineyard 29, Accendo, Lithology,
+Di Costanzo, Fairchild, Moone-Tsai, Carte Blanche, The Debate, Seven Apart, Cliff Lede,
+Shafer, Darioush.
+_Skip — commercial / tourist / modern:_ Rombauer, V Sattui, Castello di Amorosa, Ca' Momi,
+JaM Cellars, Cakebread, Markham, Raymond, Rutherford Hill, St. Supery, Trinitas, Girard,
+Clos Pegase, Pine Ridge, Turnbull, Merryvale, Conn Creek, Flora Springs, Sullivan,
+JCB/Boisset, PlumpJack / Cade / Odette, Black Stallion, Cuvaison, ZD, Schramsberg.
+_Already covered above / on the list:_ Pilcrow (8 reviews — strong), Corison, Dominus,
+Chappellet, Dalla Valle, Robert Craig, Ladera, Viader, Ashes & Diamonds, Monticello /
+Chris Corley, Marineau Mills, Sommras, Alluvium, Monte Rosso Estate, Louis Martini, Charles Krug.
+
 ## Napa — mountain (the heart of the style)
 
 **Howell Mountain** — iron-fisted, structured, slow:
