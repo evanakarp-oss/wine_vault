@@ -121,6 +121,32 @@ is the profile; newer "isn't the same." **Forman** — praised "any vintage, esp
 even where berated elsewhere. _Washington palate-adjacent (off-CA):_ Andrew Will, Cadence,
 Pepper Bridge.
 
+**Wine Advocate "Napa: New & Recent Releases" triage (2026)** — debut/small-label list, researched against the profile.
+
+_✅ Strong fit — add:_
+- [ ] **Pilcrow** *(Mt. Veeder "Archer & Byrd" + Coombsville "Glass Rock") — organic, dry-farmed, no-till/regenerative (cattle in the vineyard); explicit "pre-arms-race" Napa: brightness, tension, savory depth, quiet authority. Sara & Jonah Beer (Jonah ex-Frog's Leap). The standout of the list — **producer-page candidate**.*
+
+_◐ Worth a look (cool-site / pedigreed — taste before buying):_
+- [ ] Alluvium Estate "Gnome" *(Coombsville — cool alluvial site, 14% abv, Ashley Hepworth, ex-Phelps Insignia winemaker)*
+- [ ] Sommras *(Atlas Peak — 1,650–1,750' above the fog line, mid-'90s old vines; legit high site but luxe/members-only framing → may be polished)*
+- [ ] Marineau Mills *(Calistoga — <1 ac hillside volcanic, Hepworth-made)*
+- [ ] Chris Corley / Monticello *(Oak Knoll — cool district, Burgundian-rooted, balance-focused; established, not really a "debut")*
+
+_⚠️ Caveat — **Monte Rosso Estate**:_ Gallo's new old-vine label off the historic
+Monte Rosso vineyard (legit terroir, already in the Sonoma section) — but this bottling
+reads "plush/deep." For the restrained read, chase the **Bedrock / Carlisle** Monte
+Rosso designates instead.
+
+_Skip (modern / opulent / négociant / off-style):_ Adaptation (PlumpJack/Odette
+négociant blend), Phifer Pavitt "Date Night," Old Soda Springs (saignée-concentrated),
+Calistoga Press (lush, oaky), Aviatrix (La Sirena Syrah/PS blend — not Cab), Villa
+Ragazzi (Oakville Sangiovese specialist). _No meaningful signal (likely modern
+micro-debuts — skip unless you know them):_ Kazumi, Missimer, Nob Hill, Prism Vineyards,
+A.Aitch, Ampleur, Blank, Bridget Raymond, Collide, Firetree, Hensel West, 001 Vintners.
+
+_Sub-region to watch:_ **Coombsville** (cool, SE-Napa, Bay-influenced) keeps surfacing
+on the restrained side — Pilcrow Glass Rock + Alluvium both live there.
+
 ## Napa — mountain (the heart of the style)
 
 **Howell Mountain** — iron-fisted, structured, slow:
