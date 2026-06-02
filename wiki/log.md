@@ -272,3 +272,7 @@ Built the house-style Cab reference list at `wiki/_views/restrained_napa_sonoma_
 ## [2026-06-01] view | Wine Berserkers restrained-Cab signal (search-recovered)
 
 Added a "Wine Berserkers community signal" section to the restrained Napa/Sonoma Cab canon view. WB forum 403s this environment's egress (both HTML and the Discourse JSON API the scraper uses), so this is search-recovered, NOT a full WB pipeline ingest — no producer-frontmatter signals written. Captured: the Cal-Cab favorites poll (Ridge runaway #1; Spottswoode/Dunn/Dominus the restrained breakouts; Shafer/Schrader/Myriad = cult skip), the "Sane old-school Napa Cab" thread (Dunn/Corison/Togni/Smith-Madrone/Mayacamas/Chappellet/Frog's Leap), and the "Lean California cabernets" thread (Matthiasson, Arnot-Roberts Clajeux). Forman caveat noted: classically styled pre-late-2000s, modern (~15%) since — seek older vintages for the restrained bucket.
+
+## [2026-06-01] view | Fix Forman note + add check-off list to restrained Cab canon
+
+Corrected the restrained Napa/Sonoma Cab canon view: removed the bad WB "Forman drifted modern" claim (Evan flagged it — Ric Forman stays a classic/restrained old-school hand). Added a "Checklist — keep handy" section with Obsidian checkboxes grouped by sub-region (Howell/Veeder/Spring/Diamond/Pritchard, Napa valley-floor classics, Sonoma Moon Mountain + Sonoma Mountain/Rockpile, Santa Cruz adjacents, new-Cal cross-over), marking the three with existing vault pages.

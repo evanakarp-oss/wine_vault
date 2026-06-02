@@ -29,6 +29,73 @@ to the full Napa+Sonoma restraint set, grouped so you can shop by terroir.
 | **Spottswoode** | St. Helena | Organic/biodynamic, restrained, ageworthy, <14%. |
 | ◐ **Bedrock (Montecillo)** | Moon Mtn, Sonoma | Old-school mountain Cab off dry-farmed late-'60s vines. |
 
+## Checklist — keep handy (tick the ones you want to track)
+
+Obsidian renders these as live checkboxes. ✅ = already has a vault page.
+
+**Napa — Howell Mountain**
+- [ ] Dunn Vineyards
+- [ ] La Jota
+- [ ] Viader
+- [ ] Robert Craig
+
+**Napa — Mount Veeder**
+- [ ] Mayacamas
+- [ ] Random Ridge
+- [ ] Brandlin
+- [ ] Progeny
+
+**Napa — Spring Mountain**
+- [ ] Philip Togni *(Tanbark Hill = entry-level)*
+- [ ] Smith-Madrone
+- [ ] Stony Hill
+- [ ] Cain
+- [ ] Two Terroirs
+
+**Napa — Diamond Mountain**
+- [ ] Diamond Creek
+- [ ] Dyer
+- [ ] Reverie
+
+**Napa — Pritchard Hill (restrained end)**
+- [ ] Chappellet
+
+**Napa — valley floor (restrained / dry-farmed / classic)**
+- [ ] Corison
+- [ ] Spottswoode
+- [ ] Frog's Leap
+- [ ] Heitz Cellar
+- [ ] Forman
+- [ ] Grgich Hills
+- [ ] BV Georges de Latour
+- [ ] Inglenook
+- [ ] Dominus
+- [ ] Matthiasson
+- [ ] Ashes & Diamonds
+- [ ] Maître de Chai *(Gala Mountain)*
+
+**Sonoma — Moon Mountain District**
+- [ ] Bedrock *(Montecillo + Heritage)*
+- [ ] Far Mountain ✅
+- [ ] Hamel Family *(Demeter biodynamic)*
+- [ ] Monte Rosso bottlings *(Bedrock / Carlisle / Martini)*
+- [ ] Stone Edge Farm
+- [ ] Lasseter
+- [ ] Repris
+- [ ] Petroni
+
+**Sonoma — Sonoma Mountain / Rockpile**
+- [ ] Laurel Glen *(Sonoma Mountain)*
+- [ ] Rowen *(Rockpile / Cooley Ranch)*
+
+**Santa Cruz Mountains (adjacent essential)**
+- [ ] Ridge Monte Bello
+- [ ] Mount Eden ✅
+- [ ] Kathryn Kennedy
+
+**New-California cross-over**
+- [ ] Arnot-Roberts ✅ *(Clajeux / Montecillo)*
+
 ## Napa — mountain (the heart of the style)
 
 **Howell Mountain** — iron-fisted, structured, slow:
@@ -104,10 +171,9 @@ written. The hivemind validates this canon almost exactly:
 - **[Sane, old-school Napa Cab producers](https://www.wineberserkers.com/t/sane-old-school-napa-valley-cab-producers/154981)** (quality + sane price + 20-yr track record): **Dunn** (top), **Corison**, **Philip Togni** (Tanbark Hill = entry), **Smith-Madrone**, **Mayacamas** ("makes Corison look like Helen Turley" — the most austere), **Chappellet**, **Frog's Leap**, Spring Mountain Vyd + historic houses (Mondavi, Krug, Martini, Stag's Leap).
 - **[Lean California cabernets](https://www.wineberserkers.com/t/lean-california-cabernets/320408)** (2024): **Matthiasson** Napa 2020, **Arnot-Roberts** Clajeux 2019 — the modern lean benchmarks.
 
-**Forman caveat:** WB consensus is that Forman *was* classically styled (~13.5%, red
-cherry, cigar box) but has **drifted modern since the late 2000s** (~15%, black fruit).
-For the restrained bucket, seek **older Forman vintages**; recent releases no longer
-really qualify.
+(Note: one forum poster claimed Forman has "drifted modern" — **disregarded**. Ric
+Forman remains a classic, restrained, old-school Napa hand; it stays firmly in this
+bucket. See valley-floor classics above.)
 
 ## Suggested next vault pages
 
