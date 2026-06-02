@@ -96,6 +96,31 @@ Obsidian renders these as live checkboxes. ✅ = already has a vault page.
 **New-California cross-over**
 - [ ] Arnot-Roberts ✅ *(Clajeux / Montecillo)*
 
+**Berserkers "[old-world style, new-world Cali cabs](https://www.wineberserkers.com/t/old-world-style-new-world-cali-cabs/110310)" thread adds (Jul 2015)**
+
+_Napa:_
+- [ ] Chateau Montelena *(Calistoga — Estate; often <$100 at auction)*
+- [ ] Joseph Phelps *(Insignia — old-world pre-'91)*
+- [ ] Dalla Valle *(Oakville — herbal CF lift; in Evan's stated ref-set)*
+- [ ] Etude *(Carneros — Tony Soter era '97–'02 = old-school, modest alc; recent ≠ same)*
+- [ ] White Rock Vineyards *(Stags Leap / Soda Canyon)*
+- [ ] Teachworth *(Calistoga)*
+- [ ] Karl Lawrence
+- [ ] Keating *(G3 = Beckstoffer Georges III)*
+
+_Sonoma:_
+- [ ] A. Rafanelli *(Dry Creek)*
+
+_Far-north CA:_
+- [ ] Cabot *(Humboldt — "Confluence" Bordeaux blend; tobacco-leaf value)*
+
+_Caveats from the thread:_ **BV Georges de Latour** — older vintages are the old-world
+pick; recent has Michel Rolland consulting (amped up). **Laurel Glen** — older (pre-~2000)
+is the profile; newer "isn't the same." **Forman** — praised "any vintage, esp. 80s/90s"
+(reinforces the correction above). **Togni** — strong board favorite (sub-14%, structured)
+even where berated elsewhere. _Washington palate-adjacent (off-CA):_ Andrew Will, Cadence,
+Pepper Bridge.
+
 ## Napa — mountain (the heart of the style)
 
 **Howell Mountain** — iron-fisted, structured, slow:

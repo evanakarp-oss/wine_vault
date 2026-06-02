@@ -276,3 +276,7 @@ Added a "Wine Berserkers community signal" section to the restrained Napa/Sonoma
 ## [2026-06-01] view | Fix Forman note + add check-off list to restrained Cab canon
 
 Corrected the restrained Napa/Sonoma Cab canon view: removed the bad WB "Forman drifted modern" claim (Evan flagged it — Ric Forman stays a classic/restrained old-school hand). Added a "Checklist — keep handy" section with Obsidian checkboxes grouped by sub-region (Howell/Veeder/Spring/Diamond/Pritchard, Napa valley-floor classics, Sonoma Moon Mountain + Sonoma Mountain/Rockpile, Santa Cruz adjacents, new-Cal cross-over), marking the three with existing vault pages.
+
+## [2026-06-01] view | Add WB "old-world style" thread producers to Cab checklist
+
+User pasted the Wine Berserkers "Old world style, new world Cali cabs" thread (Jul 2015; could not scrape — forum 403s here). Added every new producer named to the restrained-Cab canon checklist: Chateau Montelena, Joseph Phelps (Insignia), Dalla Valle, Etude (Soter era), White Rock, Teachworth, Karl Lawrence, Keating (G3), A. Rafanelli, Cabot. Captured thread caveats (BV now Rolland-consulting → buy older; Laurel Glen older-only; Forman praised any vintage esp. 80s/90s; Togni board favorite) and the Washington palate-adjacent mentions (Andrew Will, Cadence, Pepper Bridge). Producers already on the list (Ridge, Forman, Togni, Dunn, Stony Hill, Smith-Madrone, Mount Eden, Laurel Glen, Spottswoode, Viader) not duplicated.
