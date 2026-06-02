@@ -156,18 +156,25 @@ _✅ Verified strong fits — add:_
 - [ ] **Tres Sabores** *(W. Rutherford bench — certified organic + dry-farmed; Julie Johnson, **Frog's Leap co-founder**; earthy, savory)*
 - [ ] **MacDonald Vineyards** *(Oakville To Kalon — head-trained dry-farmed old vines incl. 1954; "structured yet elegant"; allocation-only / largely unobtainable)*
 - [ ] **Di Costanzo** *(Coombsville — Massimo Di Costanzo; finesse-driven, reasonable brix, all-natural acidity, no fining/filtering, minimal SO2. Farella Vyd = Coombsville's oldest Cab; also a **dry/organically-farmed Montecillo Vyd** Cab — the same Moon Mountain site that anchors this whole list. A MUST per Evan.)*
+- [ ] **Trois Noix** *(Jaime Araujo — earlier/brighter picking, neutral/little new oak; B-Corp + Napa Green, organic-leaning; single-site, affordable. Paired with Matthiasson as "farming for the future.")*
+- [ ] **Arns** *(just below Howell Mountain, ~800' — deep dry soils, no irrigation/chemicals, 1–2 t/ac yields, "rugged and structured" mountain Cab)*
 
 _◐ Worth a look:_
 - [ ] Larkmead *(Calistoga — organic estate; actively transitioning to a more nuanced/restrained style under Avery Heelan — "interesting chapter")*
 - [ ] Truchard *(Carneros — cool/fog hillside estate, value; leans a touch lush)*
 - [ ] Salvestrin "Dr. Crane" *(St. Helena — historic 1860 vineyard, iron/crushed-rock minerality, cellars well; richer style)*
-- Also worth checking (not researched here): VHR / Vine Hill Ranch (Oakville hillside), Arns (Howell Mtn).
+- [ ] Accendo Cellars *(Bart & Daphne Araujo — classically-styled Bordeaux-balance blend; refined but pricey and a touch lush)*
+- [ ] Maxville *(Chiles Valley, 1,200'+ Vaca Mtns — rugged volcanic high site, but style leans powerful/muscular)*
+- [ ] Davies *(Schramsberg's still label — Diamond Mountain estate fruit; established, mild interest)*
+- Still to confirm (no data found): VHR / Vine Hill Ranch (top Oakville hillside vineyard).
+
+_Checked → still skip:_ **Ghost Block** (Oakville old-vine fruit but 24 mo / 60% new oak — modern, oaky); **The Crane Assembly** (historic Dr. Crane Vyd, but founded by Dave Phinney of Orin Swift — fruit-forward, higher-alcohol).
 
 _⚠️ Name-collision:_ **Eisele Vineyard** (Araujo → Artémis/Latour, Calistoga) = cult tier = **skip**; **Volker Eisele** (Chiles Valley) = the restrained one = add.
 
 _Skip — cult/opulent tier on this index:_ BOND, Colgin, Harlan Estate, Screaming Eagle,
 Scarecrow, Promontory, Ulysses, Eisele Vineyard (Araujo), Kapcsandy, Bevan, Pahlmeyer,
-TOR, Paul Hobbs, Orin Swift, Lail, Roy Estate, Marciano, Vineyard 29, Accendo, Lithology,
+TOR, Paul Hobbs, Orin Swift, Lail, Roy Estate, Marciano, Vineyard 29, Lithology,
 Fairchild, Moone-Tsai, Carte Blanche, The Debate, Seven Apart, Cliff Lede,
 Shafer, Darioush.
 _Skip — commercial / tourist / modern:_ Rombauer, V Sattui, Castello di Amorosa, Ca' Momi,

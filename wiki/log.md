@@ -292,3 +292,7 @@ Triaged the full Wine Advocate Napa producer index against the restrained/farmin
 ## [2026-06-01] fix | Move Di Costanzo from skip → strong fit (Evan correction)
 
 Evan flagged Di Costanzo as a must. Corrected the canon view: removed it from the cult-skip list and added it as a verified strong fit. Massimo Di Costanzo (Coombsville) — finesse-driven, reasonable brix, all-natural acidity, no fining/filtering, minimal SO2; Farella Vineyard (Coombsville's oldest Cab) + a dry/organically-farmed Montecillo Vineyard Cab (same Moon Mountain site anchoring the discovery). My earlier blanket skip was wrong.
+
+## [2026-06-01] view | Deeper triage of WA Napa index (round 2)
+
+Researched more of the ~190 WA Napa producers after the Di Costanzo miss. New strong fits added: Trois Noix (Jaime Araujo — bright picking, little new oak, B-Corp/Napa Green, organic-leaning; paired with Matthiasson) and Arns (sub-Howell Mtn ~800', no irrigation/chemicals, low yields, rugged/structured). New worth-a-look: Accendo (Araujo classic-Bordeaux blend, pricey/lush — moved out of skip), Maxville (Chiles Valley high site, muscular), Davies (Schramsberg Diamond Mtn still label). Checked and confirmed skip: Ghost Block (24mo/60% new oak, modern), The Crane Assembly (Dave Phinney/Orin Swift, fruit-forward/higher-alc). VHR/Vine Hill Ranch still unconfirmed (no data).
