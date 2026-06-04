@@ -41,7 +41,7 @@ roscioli:
     first_year: 0
     last_year: 0
     latest_post: ''
-tags: []
+tags: ["piedmont", "barolo", "nebbiolo-specialist", "traditional", "jp-babbo-rec"]
 _sources:
 - short:short__Fratelli_Alessandria.md
 ---
@@ -91,3 +91,10 @@ Since 1870 this winery belongs to the Alessandria family. Vittore is a proud wit
 - [[Verduno (Barolo)]]
 - [[CSW Article Archive]]
 - [[Roscioli_Wine_Club|Roscioli Wine Club (importer)]]
+
+## Notes
+
+Recommended by **JP** (former sommelier at Babbo, NYC) on 2026-06-04 as one of
+three Barolo estates to visit, alongside [[fratelli_barale|Barale]] and
+[[giacomo_fenocchio|Giacomo Fenocchio]]. JP's framing: small farms with "a
+master of craft." Source: `raw/recommendations/2026-06-04_jp_babbo_barolo.md`.

@@ -1,18 +1,19 @@
 ---
 type: region_index
 region: "Piedmont"
-updated: 2026-05-26
-producer_count: 20
+updated: 2026-06-04
+producer_count: 25
 ---
 
 # Piedmont — Producer Index
 
-**20 producers** tracked.
+**25 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
 | [[roagna|Roagna]] | Italy | Barbaresco / Barolo | 13 | — | 6 | — | 3 btl |
 | [[brovia|Brovia]] | Italy | Barolo / Barbaresco (Castiglione Falletto) | 13 | — | — | — | — |
+| [[flavio_roddolo|Flavio Roddolo]] | Italy | Barolo (Monforte) | 1 | — | — | — | 10 btl |
 | [[produttori_del_barbaresco|Produttori del Barbaresco]] | Italy | Barbaresco | 10 | — | 1 | — | — |
 | [[ceretto|Ceretto]] | Italy | Barolo / Barbaresco | 9 | — | 7 | — | — |
 | [[burlotto|Burlotto]] | Italy | Verduno (Barolo) | 6 | — | — | — | — |
@@ -26,10 +27,14 @@ producer_count: 20
 | [[fratelli_alessandria|Fratelli Alessandria]] | Italy | Verduno (Barolo) | 2 | — | — | — | — |
 | [[lorenzo_accomasso|Lorenzo Accomasso]] | Italy | Barolo (La Morra) | 2 | — | — | — | — |
 | [[domenico_clerico|Domenico Clerico]] | Italy | — | 1 | 2 | — | — | — |
+| [[fratelli_barale|Fratelli Barale]] | Italy | Barolo (Barolo) | 1 | — | — | — | — |
+| [[giacomo_fenocchio|Giacomo Fenocchio]] | Italy | Barolo (Monforte) | 1 | — | — | — | — |
 | [[le_piane|Le Piane]] | Italy | Alto Piemonte | 1 | 6 | — | — | — |
 | [[elio_altare|Elio Altare]] | Italy | — | — | 1 | — | — | — |
 | [[gaja|Gaja]] | Italy | Barbaresco / Barolo | — | — | 30 | — | — |
+| [[luigi_vico|Luigi Vico]] | Italy | Barolo (Serralunga) | — | — | — | — | — |
 | [[pianelle|Pianelle]] | Italy | Alto Piemonte | — | 6 | — | — | — |
+| [[silvano_bolmida|Silvano Bolmida]] | Italy | Barolo (Monforte) | — | — | — | — | — |
 | [[sottimano|Sottimano]] | Italy | — | — | 12 | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

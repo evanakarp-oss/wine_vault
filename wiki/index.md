@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 892
+total_pages: 899
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**892 pages indexed.**
+**899 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -46,7 +46,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Nahe_Producers|Nahe Producers]] — **3 producers** tracked.
 - [[Patagonia_Producers|Patagonia Producers]] — **9 producers** tracked.
 - [[Pfalz_Producers|Pfalz Producers]] — **2 producers** tracked.
-- [[Piedmont_Producers|Piedmont Producers]] — **20 producers** tracked.
+- [[Piedmont_Producers|Piedmont Producers]] — **25 producers** tracked.
 - [[Provence_Producers|Provence Producers]] — **3 producers** tracked.
 - [[Rheinhessen_Producers|Rheinhessen Producers]] — **1 producers** tracked.
 - [[Rhone_Producers|Rhone Producers]] — **32 producers** tracked.
@@ -86,6 +86,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Grand_Cru_Selections|Grand Cru Selections]] — Burgundy, France
 - [[Graziano|Graziano]] — Italian specialist.
 - [[Hootananny|Hootananny]] — Natural wines.
+- [[Jan_DAmore_Wines|Jan D'Amore Wines]] — Piedmont
 - [[Jeffrey_Alpert_Selections|Jeffrey Alpert Selections]] — NYC. Natural/artisan.
 - [[Jenny_&_Francois_Selections|Jenny & François Selections]] — Beaujolais, France, Loire
 - [[Jose_Pastor_Selections|José Pastor Selections]] — Argentina
@@ -96,6 +97,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[MFW_Wine_Co|MFW Wine Co.]] — France, Georgia, Italy
 - [[Martines_Wines|Martine's Wines]] — France, Italy
 - [[Neal_Rosenthal|Neal Rosenthal]] — Baden, Bordeaux, Piedmont
+- [[North_Berkeley_Imports|North Berkeley Imports]] — Piedmont
 - [[Ole_&_Obrigado|Ole & Obrigado]] — Spanish and Portuguese wines. NY-based.
 - [[Omniwines_Distribution|Omniwines Distribution]] — Italian wines.
 - [[Other_Blues|Other Blues]] — Spanish, French, CA natural. Small operation.
@@ -261,7 +263,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_357 producers across 37 regions._
+_362 producers across 37 regions._
 
 ### Abruzzo
 
@@ -630,14 +632,19 @@ _357 producers across 37 regions._
 - [[elio_sandri|Elio Sandri]] — Piedmont / Barolo (Castiglione Falletto) · CSW ★3/6
 - [[elvio_cogno|Elvio Cogno]] — Piedmont / Barolo (Novello) · organic · Raeder 20
 - [[ferdinando_principiano|Ferdinando Principiano]] — Piedmont / Barolo (Serralunga) · biodynamic · CSW ★1/4
+- [[flavio_roddolo|Flavio Roddolo]] — Piedmont / Barolo (Monforte) · organic · CSW ★1/1
 - [[fratelli_alessandria|Fratelli Alessandria]] — Piedmont / Verduno (Barolo) · CSW ★2/2
+- [[fratelli_barale|Fratelli Barale]] — Piedmont / Barolo (Barolo) · CSW ★1/1
 - [[gaja|Gaja]] — Piedmont / Barbaresco / Barolo · sustainable · Raeder 30
 - [[giacomo_conterno|Giacomo Conterno]] — Piedmont / Barolo (Monforte) · CSW ★2/5 · Raeder 1
+- [[giacomo_fenocchio|Giacomo Fenocchio]] — Piedmont / Barolo (Monforte) · organic · CSW ★1/1
 - [[le_piane|Le Piane]] — Piedmont / Alto Piemonte · CSW 1 · DTE 6
 - [[lorenzo_accomasso|Lorenzo Accomasso]] — Piedmont / Barolo (La Morra) · CSW ★1/2
+- [[luigi_vico|Luigi Vico]] — Piedmont / Barolo (Serralunga) · organic
 - [[pianelle|Pianelle]] — Piedmont / Alto Piemonte · DTE 6
 - [[produttori_del_barbaresco|Produttori del Barbaresco]] — Piedmont / Barbaresco · CSW ★5/10 · Raeder 1
 - [[roagna|Roagna]] — Piedmont / Barbaresco / Barolo · biodynamic · CSW ★4/13 · Raeder 6
+- [[silvano_bolmida|Silvano Bolmida]] — Piedmont / Barolo (Monforte) · organic, sustainable
 - [[sottimano|Sottimano]] — Piedmont · DTE 12
 - [[trediberri|Trediberri]] — Piedmont / Barolo (La Morra) · organic · CSW ★2/3
 

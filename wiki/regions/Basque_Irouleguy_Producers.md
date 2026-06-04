@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Basque (Irouléguy)"
-updated: 2026-05-26
+updated: 2026-06-04
 producer_count: 1
 ---
 

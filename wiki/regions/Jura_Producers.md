@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Jura"
-updated: 2026-05-26
+updated: 2026-06-04
 producer_count: 15
 ---
 
