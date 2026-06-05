@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 892
+total_pages: 893
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**892 pages indexed.**
+**893 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -261,7 +261,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_357 producers across 37 regions._
+_358 producers across 37 regions._
 
 ### Abruzzo
 
@@ -332,6 +332,7 @@ _357 producers across 37 regions._
 - [[domaine_de_chevalier|Domaine de Chevalier]] — Bordeaux / Pessac-Léognan · sustainable · CSW 2 · Raeder 2
 - [[domaine_uchida|Domaine Uchida]] — Bordeaux / Haut-Médoc / Pauillac · CSW ★1/1
 - [[elian_da_ros|Elian Da Ros]] — Bordeaux / Côtes-du-Marmandais (SW France) · biodynamic · CSW ★2/3
+- [[l_if|L'If]] — Bordeaux / Saint-Emilion Grand Cru
 
 ### Burgundy
 
