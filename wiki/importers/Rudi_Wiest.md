@@ -5,7 +5,7 @@ slug: rudi_wiest
 producer_count: 1
 focus: ['Mosel']
 notable_producers: ['J.J. Prüm']
-updated: 2026-05-26
+updated: 2026-06-06
 ---
 
 # Rudi Wiest

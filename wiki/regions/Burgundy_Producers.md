@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Burgundy"
-updated: 2026-05-26
-producer_count: 101
+updated: 2026-06-06
+producer_count: 103
 ---
 
 # Burgundy — Producer Index
 
-**101 producers** tracked.
+**103 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -80,6 +80,7 @@ producer_count: 101
 | [[cyril_audoin|Cyril Audoin]] | France | '' | — | 3 | — | — | — |
 | [[daniel_etienne_defaix|Daniel-Étienne Defaix]] | France | Chablis | — | — | — | 5 | — |
 | [[denis_bachelet|Denis Bachelet]] | France | '' | — | 1 | — | — | — |
+| [[alain_burguet|Domaine Alain Burguet]] | France | Gevrey-Chambertin | — | — | — | 2 | — |
 | [[domaine_servin|Domaine Servin]] | France | Chablis | — | — | — | 2 | — |
 | [[dubreuil_fontaine|Dubreuil-Fontaine]] | France | Pernand-Vergelesses | — | — | — | 2 | — |
 | [[francois_bertheau|Francois Bertheau]] | France | '' | — | 5 | — | — | — |
@@ -94,11 +95,12 @@ producer_count: 101
 | [[jean_pierre_guyon|Jean Pierre Guyon]] | France | '' | — | 21 | — | — | — |
 | [[jean_marc_et_thomas_bouley|Jean-Marc et Thomas Bouley]] | France | — | — | 4 | — | — | — |
 | [[latour_giraud|Latour Giraud]] | France | — | — | 10 | — | — | — |
-| [[laurent_boussey|Laurent Boussey]] | France | Monthelie | — | — | — | 17 | — |
+| [[laurent_boussey|Laurent Boussey]] | France | Monthelie | — | — | — | 18 | — |
 | [[laurent_tribut|Laurent Tribut]] | France | Chablis | — | — | — | 4 | — |
 | [[loersch|Loersch]] | France | — | — | 9 | — | — | — |
 | [[louis_latour|Louis Latour]] | France | Beaune | — | — | 9 | — | — |
 | [[lucien_boillot|Lucien Boillot]] | France | Gevrey-Chambertin | — | — | 9 | — | — |
+| [[marc_jambon|Marc Jambon]] | France | Mâcon | — | — | — | 4 | — |
 | [[marchand_tawse|Marchand Tawse]] | France | '' | — | 25 | — | — | — |
 | [[maxime_cheurlin|Maxime Cheurlin]] | France | — | — | 18 | — | — | — |
 | [[michel_niellon|Michel Niellon]] | France | Chassagne-Montrachet | — | — | 3 | — | — |

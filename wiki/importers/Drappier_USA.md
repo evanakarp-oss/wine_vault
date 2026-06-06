@@ -5,7 +5,7 @@ slug: drappier_usa
 producer_count: 1
 focus: ['Champagne']
 notable_producers: ['Drappier (Paul Drappier)']
-updated: 2026-05-26
+updated: 2026-06-06
 ---
 
 # Drappier USA

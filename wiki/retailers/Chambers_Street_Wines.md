@@ -4,15 +4,15 @@ name: "Chambers Street Wines"
 slug: chambers
 url: "https://chambersstwines.com"
 location: "NYC"
-producer_count: 218
-updated: 2026-05-26
-tags: []
+producer_count: 219
+updated: 2026-06-06
 _source: wiki/_resources.md
+tags: []
 ---
 # Chambers Street Wines
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**218 producers** from this retailer are tracked in the wiki.
+**219 producers** from this retailer are tracked in the wiki.
 
 ## Most-championed producers
 
@@ -58,6 +58,7 @@ _source: wiki/_resources.md
 | [[beck-hartweg|Beck-Hartweg]] | 4 | 4 | 2020 | 2026 |
 | [[domaine_lienhardt|Domaine Lienhardt]] | 4 | 4 | 2017 | 2025 |
 | [[domaine_trapet|Domaine Trapet]] | 4 | 4 | 2020 | 2026 |
+| [[chateau_de_trinquevedel|Château de Trinquevedel]] | 3 | 22 | 2007 | 2026 |
 | [[knebel|Knebel]] | 3 | 16 | 2008 | 2025 |
 | [[laherte|Laherte]] | 3 | 12 | 2010 | 2025 |
 | [[benoit_courault|Benoit Courault]] | 3 | 11 | 2018 | 2025 |
@@ -67,7 +68,6 @@ _source: wiki/_resources.md
 | [[domaine_guillemot-michel|Domaine Guillemot-Michel]] | 3 | 7 | 2022 | 2026 |
 | [[domaine_celine_perrin|Domaine Céline Perrin]] | 3 | 6 | 2022 | 2026 |
 | [[domaine_levet|Domaine Levet]] | 3 | 6 | 2014 | 2025 |
-| [[elio_sandri|Elio Sandri]] | 3 | 6 | 2021 | 2025 |
 
 *Compiled by `scripts/build_rollups.py`.*
 <!-- END AUTO-GENERATED -->

@@ -40,6 +40,7 @@ Pierre Garaudet's Monthelie-based domaine — Monthelie 1er Cru Les Champs Fulli
 *2024-11*
 
 > 11/11/2024 ### You can still drink village level Red Burgundy any night of the week. There are many routes to take when seeking wines of value from Burgundy. Today’s path is looking towards commonly overlooked villages from the Cote de Beaune. All making…
+
 ## Cellar
 
 _None._

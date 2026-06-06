@@ -40,6 +40,7 @@ Thierry Germain's biodynamic Saumur-Champigny estate — one of the Loire's most
 *2024-01*
 
 > 1/26/24 - Many years ago, the first Dive Bouteille wine fair took place in 1999 in a cellar of Catherine and Pierre Breton. From what I can tell, there may have been two Americans there: our own David Lillie, and legendary wine importer, Joe Dressner. Jenny…
+
 ## Cellar
 
 _None._

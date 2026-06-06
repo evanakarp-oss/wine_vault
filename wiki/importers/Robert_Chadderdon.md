@@ -5,7 +5,7 @@ slug: robert_chadderdon
 producer_count: 1
 focus: ['Burgundy']
 notable_producers: ['Chavy-Chouet']
-updated: 2026-05-26
+updated: 2026-06-06
 ---
 
 # Robert Chadderdon

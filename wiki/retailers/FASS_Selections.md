@@ -4,14 +4,14 @@ name: "FASS Selections"
 slug: fass
 url: ""
 location: ""
-producer_count: 123
-updated: 2026-05-26
+producer_count: 146
+updated: 2026-06-06
 ---
 
 # FASS Selections
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**123 producers** from this retailer are tracked in the wiki.
+**146 producers** from this retailer are tracked in the wiki.
 
 ## Producers in portfolio
 
@@ -32,23 +32,25 @@ updated: 2026-05-26
 | [[paul_weltner|Paul Weltner / Weingut Weltner]] | Germany | Franken | 19 | — |
 | [[domaine_des_roches_neuves|Domaine des Roches Neuves]] | France | Loire | 18 | 1 |
 | [[enderle__moll|Enderle & Moll]] | Germany | Baden | 18 | 7 |
+| [[laurent_boussey|Laurent Boussey]] | France | Burgundy | 18 | — |
 | [[sven_enderle|Sven Enderle]] | Germany | Baden | 18 | 7 |
 | [[chavy_chouet|Chavy-Chouet]] | France | Burgundy | 17 | — |
 | [[julien_cruchandeau|Julien Cruchandeau]] | France | Burgundy | 17 | 1 |
-| [[laurent_boussey|Laurent Boussey]] | France | Burgundy | 17 | — |
 | [[domaine_berlancourt|Domaine Berlancourt]] | France | Burgundy | 16 | — |
 | [[ziereisen|Hanspeter Ziereisen]] | Germany | Baden | 16 | — |
 | [[marie_demets|Marie Demets]] | France | Champagne | 15 | — |
 | [[domaine_des_pierres_seches|Domaine des Pierres Sèches]] | France | Rhône | 14 | 48 |
 | [[domaine_gripa|Domaine Gripa]] | France | Rhône | 14 | 2 |
+| [[achim_durr|Weingut Achim Dürr]] | Germany | Baden | 14 | — |
 | [[weingut_hansruedi_adank|Weingut Familie Hansruedi Adank]] | Switzerland | Graubünden | 14 | — |
+| [[caillez_lemaire|Caillez-Lemaire]] | France | Champagne | 13 | — |
 | [[famille_jouffreau|Famille Jouffreau / Clos de Gamot]] | France | South West | 13 | — |
 | [[garaudet|Garaudet Père & Fils]] | France | Burgundy | 13 | 1 |
+| [[jurgen_von_der_mark|Weingut Jürgen von der Mark]] | Germany | Baden | 13 | — |
 | [[domaine_du_tunnel|Domaine du Tunnel]] | France | Rhône | 12 | 25 |
 | [[dr_wehrheim|Dr. Wehrheim]] | Germany | Pfalz | 12 | — |
 | [[jean_dauvissat|Jean Dauvissat Père & Fils]] | France | Burgundy | 12 | — |
 | [[remi_poisot|Rémi Poisot]] | France | Burgundy | 12 | — |
-| [[caillez_lemaire|Caillez-Lemaire]] | France | Champagne | 11 | — |
 | [[cuchet_beliando|Cuchet-Beliando]] | France | Rhône | 11 | — |
 | [[motalli_renato|Motalli Renato]] | Italy | Lombardy | 11 | — |
 | [[spater_veit|Später-Veit]] | Germany | Mosel | 11 | 1 |
@@ -68,6 +70,8 @@ updated: 2026-05-26
 | [[jacques_lemenicier|Jacques Lemenicier]] | France | Rhône | 7 | — |
 | [[maison_alexandrins|Maison Les Alexandrins]] | France | Rhône | 7 | — |
 | [[philippe_naddef|Philippe Naddef]] | France | Burgundy | 7 | 53 |
+| [[pircher|Pircher]] | Italy | Alto Adige / Südtirol | 7 | — |
+| [[weingut_riehen|Weingut Riehen]] | Switzerland | Basel-Land | 7 | — |
 | [[andreas_laible|Andreas Laible]] | Germany | Baden | 6 | — |
 | [[billon|Billon]] | France | Rhône | 6 | — |
 | [[caves_jean_bourdy|Caves Jean Bourdy]] | France | Jura | 6 | — |
@@ -76,6 +80,7 @@ updated: 2026-05-26
 | [[jasmin|Jasmin]] | France | Rhône | 6 | 1 |
 | [[sergio_barbaglia|Sergio Barbaglia]] | Italy | Piedmont | 6 | — |
 | [[vigneti_valle_roncati|Vigneti Valle Roncati]] | Italy | Piedmont | 6 | — |
+| [[vini_marino|Vini Marino — Proclamo Cilento]] | Italy | Campania | 6 | — |
 | [[wilhelm_weber_osterman|Wilhelm Weber-Osterman]] | Germany | Mosel | 6 | — |
 | [[andre_francois|André François]] | France | Rhône | 5 | — |
 | [[daniel_etienne_defaix|Daniel-Étienne Defaix]] | France | Burgundy | 5 | — |
@@ -86,28 +91,43 @@ updated: 2026-05-26
 | [[sekthaus_raumland|Sekthaus Raumland]] | Germany | Rheinhessen | 5 | — |
 | [[sprecher_von_bernegg|Sprecher von Bernegg]] | Switzerland | Graubünden | 5 | — |
 | [[sven_klundt|Sven Klundt]] | Germany | Pfalz | 5 | — |
+| [[tenuta_col_falco|Tenuta Col Falco]] | Italy | Umbria | 5 | — |
 | [[tenuta_monolo_gilodi|Tenuta Monolo Gilodi]] | Italy | Piedmont | 5 | — |
 | [[vincent_ledy|Vincent Ledy]] | France | Burgundy | 5 | — |
+| [[vinding_montecarrubo|Vinding Montecarrubo]] | Italy | Sicily | 5 | — |
 | [[vini_chiussima|Vini Chiussima]] | Italy | Piedmont | 5 | — |
+| [[cantina_del_signore|Cantina del Signore]] | Italy | Piedmont | 4 | — |
+| [[cianfagna|Cianfagna]] | Italy | Abruzzo | 4 | — |
 | [[diot_benoit|Diot-Légras]] | France | Champagne | 4 | — |
 | [[domaine_blachon|Domaine Blachon]] | France | Rhône | 4 | — |
 | [[juwel|Juwel Weine]] | Germany | Rheinhessen | 4 | — |
 | [[laurent_tribut|Laurent Tribut]] | France | Burgundy | 4 | — |
+| [[louis_sozet|Louis Sozet]] | France | Rhône | 4 | — |
 | [[ludovic_courbis|Ludovic Courbis]] | France | Rhône | 4 | — |
+| [[luyton|Luyton]] | France | Rhône | 4 | — |
+| [[marc_jambon|Marc Jambon]] | France | Burgundy | 4 | — |
 | [[patrick_adank|Patrick Adank]] | Switzerland | Graubünden | 4 | — |
 | [[peter_lauer__weingut_lauer|Peter Lauer / Weingut Lauer]] | Germany | Mosel | 4 | 24 |
 | [[quazzolo|Quazzolo]] | Italy | Piedmont | 4 | — |
+| [[rattalino|Rattalino]] | Italy | Piedmont | 4 | — |
 | [[selbach_oster|Selbach-Oster]] | Germany | Mosel | 4 | — |
+| [[tomaso_gianolo|Tomaso Gianolo]] | Italy | Piedmont | 4 | — |
+| [[calafe|Calafe]] | Italy | Campania | 3 | — |
 | [[cascina_quarino|Cascina Quarino]] | Italy | Piedmont | 3 | — |
+| [[domaine_gallet|Domaine Gallet]] | France | Rhône | 3 | — |
 | [[domaine_pavelot|Domaine Pavelot]] | France | Burgundy | 3 | 2 |
 | [[domaine_pierre_gonon|Domaine Pierre Gonon]] | France | Rhône | 3 | 17 |
 | [[nicolas_champagneaux|Nicolas Champagneaux]] | France | Rhône | 3 | — |
 | [[pier_paolo_grasso|Pier Paolo Grasso]] | Italy | Piedmont | 3 | — |
 | [[podere_ai_valloni|Podere ai Valloni]] | Italy | Piedmont | 3 | — |
+| [[wegelin|Wegelin Weine AG]] | Switzerland | Eastern Switzerland | 3 | — |
 | [[weiser_kunstler|Weiser-Künstler]] | Germany | Mosel | 3 | 16 |
 | [[yvon_metras|Yvon Métras]] | France | Beaujolais | 3 | 5 |
 | [[cantina_menegola|Cantina Menegola]] | Italy | Lombardy | 2 | — |
+| [[chateau_de_trinquevedel|Château de Trinquevedel]] | France | Rhône | 2 | 22 |
 | [[chateau_simone|Château Simone]] | France | Provence | 2 | 6 |
+| [[daniel_and_monika_marugg|Daniel and Monika Marugg]] | Switzerland | Graubünden | 2 | — |
+| [[alain_burguet|Domaine Alain Burguet]] | France | Burgundy | 2 | — |
 | [[domaine_clos_de_lecotard|Domaine Clos de l'Écotard]] | France | Loire | 2 | — |
 | [[domaine_saint_damien|Domaine Saint-Damien]] | France | Rhône | 2 | — |
 | [[domaine_servin|Domaine Servin]] | France | Burgundy | 2 | — |
@@ -118,7 +138,10 @@ updated: 2026-05-26
 | [[frederic_lambert|Frédéric Lambert]] | France | Jura | 2 | — |
 | [[gilles_berlioz|Gilles Berlioz]] | France | Savoie | 2 | 1 |
 | [[jj_prum|J.J. Prüm]] | Germany | Mosel | 2 | 9 |
+| [[la_psigula|La Psigula]] | Italy | Piedmont | 2 | — |
 | [[lafarge_vial|Lafarge-Vial]] | France | Beaujolais | 2 | — |
+| [[le_petit_chateau|Le Petit Château]] | Switzerland | Vully | 2 | — |
+| [[max_geitlinger|Max Geitlinger]] | Germany | Baden | 2 | — |
 | [[pierre_callot|Pierre Callot]] | France | Champagne | 2 | — |
 | [[schloss_johannisberg|Schloss Johannisberg]] | Germany | Rheingau | 2 | — |
 | [[vietti|Vietti]] | Italy | Piedmont | 2 | 2 |

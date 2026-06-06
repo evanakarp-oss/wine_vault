@@ -5,7 +5,7 @@ slug: self-distributed
 producer_count: 1
 focus: ['Oregon']
 notable_producers: ['Martin Woods']
-updated: 2026-05-26
+updated: 2026-06-06
 ---
 
 # self-distributed

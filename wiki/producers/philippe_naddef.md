@@ -300,6 +300,7 @@ Côte de Nuits grower with parcels in Gevrey-Chambertin VV, Gevrey-Chambertin 1e
 *undated*
 
 > Cheverny, Cour-Cheverny and Vins de France from Philippe and Simon Tessier! The eastern Touraine, and more specifically a golden triangle between Cheverny, Mareuil-sur-Cher and Les Montils, as well as both banks of the Cher, have become one of the most…
+
 ## Cellar
 
 _None._

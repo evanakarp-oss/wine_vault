@@ -275,6 +275,7 @@ Family-run Saint-Joseph grower based in the northern Ardèche hills. FASS import
 *undated*
 
 > [Geraud Fromont in a parcel of young Trousseau vines. Photo: Guilhaume Gerard] The Sud Revermont area of the Jura has become a small hub for terroir-driven, natural wines that more than titillate the palate. Beginning with the renowned Jean-Francois Ganevat,…
+
 ## Cellar
 
 _None._

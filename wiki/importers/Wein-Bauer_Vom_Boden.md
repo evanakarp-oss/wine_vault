@@ -5,7 +5,7 @@ slug: wein-bauer_vom_boden
 producer_count: 1
 focus: ['Rheinhessen']
 notable_producers: ['Thörle']
-updated: 2026-05-26
+updated: 2026-06-06
 ---
 
 # Wein-Bauer / Vom Boden

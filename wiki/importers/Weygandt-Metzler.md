@@ -5,7 +5,7 @@ slug: weygandt-metzler
 producer_count: 1
 focus: ['Beaujolais']
 notable_producers: ['Domaine du Vissoux']
-updated: 2026-05-26
+updated: 2026-06-06
 ---
 
 # Weygandt-Metzler

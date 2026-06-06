@@ -193,6 +193,48 @@ FASS_ALIASES: dict[str, str] = {
     "k.h. schneider": "k_h_schneider",
     "k h schneider": "k_h_schneider",
     "gut hermannsberg": "gut_hermannsberg",
+    # ---- Tier 2 seeded 2026-05-26: spelling variants → new slugs ----
+    # Alain Burguet
+    "burguet": "alain_burguet",
+    "jean-luc & eric burguet": "alain_burguet",
+    # Jürgen von der Mark
+    "jurgen von der mark": "jurgen_von_der_mark",
+    "jürgen von der mark": "jurgen_von_der_mark",
+    # Achim Dürr — three spellings consolidate
+    "achim duerr": "achim_durr",
+    "achim-durr": "achim_durr",
+    "weingut achim durr": "achim_durr",
+    # Cianfagna
+    "cian fagna": "cianfagna",
+    # Calafe — Greco di Tufo single-vineyard variant
+    "calafe ariavecchia": "calafe",
+    # Domaine Gallet
+    "henri gallet": "domaine_gallet",
+    # Luyton
+    "michelle luyton": "luyton",
+    # Marc Jambon
+    "domaine marc jambon et fils": "marc_jambon",
+    "marc jambon et fils": "marc_jambon",
+    # Vini Marino
+    "vini marino proclamo cilento": "vini_marino",
+    # Cantina del Signore
+    "cantina del": "cantina_del_signore",
+    "cascina delsignore": "cantina_del_signore",
+    # Château de Trinquevedel
+    "château de": "chateau_de_trinquevedel",
+    "chateau de": "chateau_de_trinquevedel",
+    # Wegelin
+    "wegelin weisstorkel": "wegelin",
+    "wegelin weine ag": "wegelin",
+    "weggelin": "wegelin",
+    # Max Geitlinger
+    "max geitlinger wein": "max_geitlinger",
+    # ---- Trailing aliases for the long retailer-row names ----
+    'caillez-lemaire "pur meunier" brut nature': "caillez_lemaire",
+    'caillez lemaire "pur meunier" brut nature': "caillez_lemaire",
+    "laurent & karen boussey": "laurent_boussey",
+    "cuchet beliando cornas": "cuchet_beliando",
+    "diot legras les": "diot_benoit",
 }
 
 # Common prefixes/suffixes stripped when matching against wiki slugs.

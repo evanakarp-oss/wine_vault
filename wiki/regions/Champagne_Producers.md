@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Champagne"
-updated: 2026-05-26
+updated: 2026-06-06
 producer_count: 27
 ---
 
@@ -24,7 +24,7 @@ producer_count: 27
 | [[larmandier_bernier|Larmandier Bernier]] | France | '' | 1 | 3 | 1 | — | — |
 | [[pierre_moncuit|Pierre Moncuit]] | France | Le Mesnil-sur-Oger | 1 | — | — | 1 | — |
 | [[aurore_casanova|Aurore Casanova]] | France | — | — | 4 | — | — | — |
-| [[caillez_lemaire|Caillez-Lemaire]] | France | — | — | — | — | 11 | — |
+| [[caillez_lemaire|Caillez-Lemaire]] | France | — | — | — | — | 13 | — |
 | [[clement_perseval|Clément Perseval]] | France | Chamery | — | — | — | 7 | — |
 | [[diot_benoit|Diot-Légras]] | France | Le Mesnil-sur-Oger | — | — | — | 4 | — |
 | [[paul_drappier|Drappier (Paul Drappier)]] | France | Urville | — | — | — | 1 | — |

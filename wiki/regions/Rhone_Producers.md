@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Rhône"
-updated: 2026-05-26
-producer_count: 53
+updated: 2026-06-06
+producer_count: 57
 ---
 
 # Rhône — Producer Index
 
-**53 producers** tracked.
+**57 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -15,6 +15,7 @@ producer_count: 53
 | [[vincent_paris|Vincent Paris]] | France | '' | 50 | 1 | — | 1 | — |
 | [[eric_texier|Eric Texier]] | France | Côte-Rôtie / Brézème / Rhône | 26 | — | — | — | — |
 | [[domaine_du_tunnel|Domaine du Tunnel]] | France | Cornas | 25 | — | — | 12 | — |
+| [[chateau_de_trinquevedel|Château de Trinquevedel]] | France | Tavel | 22 | — | — | 2 | — |
 | [[domaine_pierre_gonon|Domaine Pierre Gonon]] | France | Saint-Joseph | 17 | — | — | 3 | — |
 | [[domaine_rousset|Domaine Rousset]] | France | Crozes-Hermitage / Saint-Joseph | 11 | — | — | — | 6 btl |
 | [[domaine_pierre_andre|Domaine Pierre André]] | France | Gigondas / Châteauneuf | 12 | — | — | — | — |
@@ -34,6 +35,7 @@ producer_count: 53
 | [[ferme_saint-martin|Ferme Saint-Martin]] | France | Beaumes-de-Venise / Ventoux | 4 | — | — | — | — |
 | [[dard__ribo|Dard & Ribo]] | France | Crozes-Hermitage / Saint-Joseph | 3 | — | — | — | — |
 | [[guillaume_gilles|Guillaume Gilles]] | France | Cornas | 3 | — | — | 10 | — |
+| [[louis_sozet|Louis Sozet]] | France | Cornas | — | — | — | 4 | 3 btl |
 | [[chapelle_st_theodoric|Chapelle St. Theodoric]] | France | Châteauneuf-du-Pape | 2 | — | — | — | — |
 | [[domaine_gripa|Domaine Gripa]] | France | Saint-Joseph / Saint-Péray | 2 | — | — | 14 | — |
 | [[gerard_courbis|Gérard Courbis]] | France | Saint-Joseph | — | — | — | 8 | 2 btl |
@@ -48,6 +50,7 @@ producer_count: 53
 | [[domaine_blachon|Domaine Blachon]] | France | Saint-Joseph | — | — | — | 4 | — |
 | [[domaine_de_beaurenard|Domaine de Beaurenard]] | France | Châteauneuf-du-Pape | — | — | 11 | — | — |
 | [[domaine_de_cote_epine|Domaine de la Côte Saint-Épine]] | France | Saint-Joseph | — | — | — | 6 | — |
+| [[domaine_gallet|Domaine Gallet]] | France | Côte-Rôtie | — | — | — | 3 | — |
 | [[domaine_saint_damien|Domaine Saint-Damien]] | France | Gigondas | — | — | — | 2 | — |
 | [[e_guigal|E. Guigal]] | France | Côte-Rôtie | — | — | — | 6 | — |
 | [[emmanuel_darnaud|Emmanuel Darnaud]] | France | Crozes-Hermitage | — | — | — | 2 | — |
@@ -59,6 +62,7 @@ producer_count: 53
 | [[jean_michel_stephan|Jean-Michel Stéphan]] | France | Côte-Rôtie | — | — | — | 5 | — |
 | [[julien_barge|Julien Barge]] | France | Côte-Rôtie | — | — | — | 19 | — |
 | [[ludovic_courbis|Ludovic Courbis]] | France | Cornas | — | — | — | 4 | — |
+| [[luyton|Luyton]] | France | Hermitage | — | — | — | 4 | — |
 | [[maison_alexandrins|Maison Les Alexandrins]] | France | — | — | — | — | 7 | — |
 | [[marc_sorrel|Marc Sorrel]] | France | '' | — | 15 | — | — | — |
 | [[nicolas_champagneaux|Nicolas Champagneaux]] | France | Côte-Rôtie | — | — | — | 3 | — |

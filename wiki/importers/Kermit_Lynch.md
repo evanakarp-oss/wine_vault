@@ -5,10 +5,10 @@ slug: kermit_lynch
 producer_count: 13
 focus: ['Beaujolais', 'Burgundy', 'Provence', 'Rhône']
 notable_producers: ['Domaine Pierre Gonon', 'Domaine Pierre André', 'Clos du Joncuas', 'Allemand', 'Jean Foillard']
-updated: 2026-05-26
-url: "https://kermitlynch.com"
-tags: []
+updated: 2026-06-06
 _source: wiki/_resources.md
+tags: []
+url: "https://kermitlynch.com"
 ---
 # Kermit Lynch
 

@@ -40,6 +40,7 @@ Côte de Nuits grower based in the Hautes-Côtes — Ladoix Les Ranches, Bouzero
 *2021-06*
 
 > 6/16/21 - Though the temperature may have fluctuated a bit in the last few days, it's clear that summer is upon us. My summer plans this year are uncomplicated. I intend to overstay my welcome in the backyards of those friends who possess them, to fall asleep…
+
 ## Cellar
 
 _None._

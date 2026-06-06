@@ -80,6 +80,7 @@ One of Marcel Lapierre's 'Gang of Four' (with Lapierre, Thévenet, and Breton) �
 *2007-03*
 
 > 3/26/2007 - Our first tasting was with the affable, mustachioed Jo Landron , producer of pure, delicious organic and Biodynamic Muscadets. Our favorite was the 2004 Fiefs du Breuil , a remarkably complex wine full of stone and citrus flavors that are just…
+
 ## Cellar
 
 _None._

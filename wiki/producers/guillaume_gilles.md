@@ -50,6 +50,7 @@ Robert Michel's apprentice and now spiritual heir — Guillaume Gilles farms the
 *2014-09*
 
 > *﻿9/25/14 -* *(Photo courtesy of Vignobles Levet)* 2010 is a truly exceptional vintage in the Northern Rhone. We are happy to offer three wines from estates whose traditional vineyard work and vinifications have produced superb, age-worthy wines of terroir,…
+
 ## Cellar
 
 _None._

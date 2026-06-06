@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Sicily"
-updated: 2026-05-26
-producer_count: 6
+updated: 2026-06-06
+producer_count: 7
 ---
 
 # Sicily — Producer Index
 
-**6 producers** tracked.
+**7 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -17,5 +17,6 @@ producer_count: 6
 | [[bonavita|Bonavita]] | Italy | Faro | 3 | — | — | — | — |
 | [[feudo_montoni|Feudo Montoni]] | Italy | — | 3 | — | 7 | — | — |
 | [[masseria_del_pino|Masseria del Pino]] | Italy | — | 3 | — | — | — | — |
+| [[vinding_montecarrubo|Vinding Montecarrubo]] | Italy | — | — | — | — | 5 | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

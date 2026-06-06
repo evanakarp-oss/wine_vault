@@ -5,10 +5,10 @@ slug: vom_boden
 producer_count: 7
 focus: ['Baden', 'Mosel', 'Nahe', 'Pfalz', 'Rhône']
 notable_producers: ['Ökonomierat Rebholz', 'Dr. Bürklin-Wolf', 'Gut Hermannsberg', 'Dr. Wehrheim', 'Hanspeter Ziereisen']
-updated: 2026-05-26
-url: "https://www.vomboden.com"
-tags: ['natural']
+updated: 2026-06-06
 _source: wiki/_resources.md
+tags: ['natural']
+url: "https://www.vomboden.com"
 ---
 
 # Vom Boden

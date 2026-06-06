@@ -5,7 +5,7 @@ slug: camille_riviere_selection_massale
 producer_count: 2
 focus: ['Beaujolais', 'Savoie']
 notable_producers: ['Yvon Métras', 'Gilles Berlioz']
-updated: 2026-05-26
+updated: 2026-06-06
 ---
 
 # Camille Rivière / Selection Massale

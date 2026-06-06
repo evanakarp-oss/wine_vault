@@ -5,7 +5,7 @@ slug: loosen_bros
 producer_count: 1
 focus: ['Rheingau']
 notable_producers: ['Schloss Johannisberg']
-updated: 2026-05-26
+updated: 2026-06-06
 ---
 
 # Loosen Bros.

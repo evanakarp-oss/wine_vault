@@ -40,6 +40,7 @@ Among Pfalz's largest top-tier estates — fully biodynamic since 2005, using it
 *2025-08*
 
 > 8/14/25 - Not too long ago, Nicola Libelli the Cellar Master At Dr. Bürklin-Wolf was in New York for a few days and I was lucky enough to taste a large selection of the estate's lineup with him. It was my first experience with a fair bit of their wines,…
+
 ## Cellar
 
 _None._

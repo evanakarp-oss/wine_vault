@@ -40,6 +40,7 @@ Le Mesnil-sur-Oger Grand Cru grower — Les Grands Blancs Extra Brut at the FASS
 *2026-03*
 
 > 3/2/26 - Wine often feels very much like a man's world, but historically speaking, women are no stranger to being at the helm of Champagne houses. Barbe-Nicole Clicquot-Ponsardin famously was the first woman to ever run a Champagne house. Additionally, she…
+
 ## Cellar
 
 _None._

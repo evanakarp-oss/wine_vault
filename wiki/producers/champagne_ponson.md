@@ -75,4 +75,3 @@ _sources:
 *2022-08*
 
 > 8/20/22 - We've seen notices from importers over the last couple of weeks about Champagne arrivals for the fall and the news is chilling. Wines that have in the past been readily available are now allocated, quantities are down and prices are up. Today's…
-

@@ -5,7 +5,7 @@ slug: dalla_terra
 producer_count: 1
 focus: ['Piedmont']
 notable_producers: ['Vietti']
-updated: 2026-05-26
+updated: 2026-06-06
 ---
 
 # Dalla Terra

@@ -5,10 +5,10 @@ slug: skurnik
 producer_count: 21
 focus: ['Beaujolais', 'Burgundy', 'Jura', 'Mosel', 'Nahe', 'Pfalz', 'Rheinhessen']
 notable_producers: ['Peter Lauer / Weingut Lauer', 'Clemens Busch', 'Stéphane Tissot', 'Knebel', 'Weiser-Künstler']
-updated: 2026-05-26
-url: "https://www.skurnik.com"
-tags: ['grower', 'grower-champagne']
+updated: 2026-06-06
 _source: wiki/_resources.md
+tags: ['grower', 'grower-champagne']
+url: "https://www.skurnik.com"
 ---
 # Skurnik
 

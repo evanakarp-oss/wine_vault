@@ -13,7 +13,7 @@ importer_us: ["FASS Selections"]
 retailers:
   fass:
     in_portfolio: true
-    cuvee_count: 11
+    cuvee_count: 13
     price_min: 37
     price_max: 120
   chambers:
@@ -48,10 +48,12 @@ _None._
 
 ## FASS
 
-Currently tracked: **11 cuvée/vintage entries**; prices $38–$120.
+Currently tracked: **13 cuvée/vintage entries**; prices $38–$120.
 
 | Cuvée | Vintage | Price |
 |---|---|---|
+| — | 2017 | $68 |
+| 2017 | NV | $68 |
 | Chardonnay de la Valle Blancs de Blancs Brut Nature | 2017 | $58 |
 | Chardonnay de la Vallée Blanc de Blancs Brut Nature | 2018 | $72 |
 | Cuvee Jadis | 2010 | $60 |

@@ -40,6 +40,7 @@ Saulheim brothers Christoph and Johannes Thörle — one of the deeper Rheinhess
 *2025-04*
 
 > 4/10/2025 *Sven Enderle (Photo: Bryan Garcia)* Historically speaking Spätburgunder, the German name for Pinot Noir, has been grown in Germany for hundreds of years, however it wasn't until the last 10-15 that there has been a much larger prominence of German…
+
 ## Cellar
 
 _None._

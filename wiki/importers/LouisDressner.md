@@ -5,7 +5,7 @@ slug: louisdressner
 producer_count: 1
 focus: ['Loire']
 notable_producers: ['Domaine des Roches Neuves']
-updated: 2026-05-26
+updated: 2026-06-06
 ---
 
 # Louis/Dressner

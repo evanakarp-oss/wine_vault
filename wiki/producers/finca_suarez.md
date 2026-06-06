@@ -63,4 +63,3 @@ bistrosoft.com / Natural Vin
 *undated*
 
 > There are several newsletters that I have been meaning to send over the past year. Moving up the street and rolling out the new website may have set back my plans, but I'm finally getting to it! Highlighting my favorite Verdejo producers was on the list,…
-

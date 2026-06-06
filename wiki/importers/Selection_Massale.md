@@ -5,10 +5,10 @@ slug: selection_massale
 producer_count: 4
 focus: ['Rhône']
 notable_producers: ['Domaine du Tunnel', 'Guillaume Gilles', 'Domaine Saint-Damien', 'Jean-Michel Stéphan']
-updated: 2026-05-26
-url: "https://www.selectionmassale.com"
-tags: []
+updated: 2026-06-06
 _source: wiki/_resources.md
+tags: []
+url: "https://www.selectionmassale.com"
 ---
 
 # Selection Massale

@@ -5,7 +5,7 @@ slug: terry_theise_skurnik
 producer_count: 3
 focus: ['Champagne', 'Mosel']
 notable_producers: ['Marc Hébrart', 'Pierre Gimmonet & Fils', 'Selbach-Oster']
-updated: 2026-05-26
+updated: 2026-06-06
 ---
 
 # Terry Theise / Skurnik

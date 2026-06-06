@@ -65,6 +65,7 @@ The reference (and effectively only) estate of Palette — Crozet family, vineya
 *2007-11*
 
 > *11/29/2007 -* What a year for Burgundy! With the great 2005 vintage upon us there have been a feast of fantastic vinous delights that have passed through CSW this year. With so many wines to choose that we have in stock and others that are long sold out this…
+
 ## Cellar
 
 _None._

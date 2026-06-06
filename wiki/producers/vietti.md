@@ -45,6 +45,7 @@ One of Piedmont's reference estates — Vietti's single-vineyard Barolo program 
 *2007-05*
 
 > 5/18/2007 - Eric Asimov has followed up my initial case with another handpicked case and this one is even more interesting as now I really have a feel for his palate and put some even more esoteric stuff in there. Some of it pretty out there but delicious…
+
 ## Cellar
 
 _None._

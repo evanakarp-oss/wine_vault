@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Piedmont"
-updated: 2026-05-26
-producer_count: 32
+updated: 2026-06-06
+producer_count: 36
 ---
 
 # Piedmont — Producer Index
 
-**32 producers** tracked.
+**36 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -30,18 +30,22 @@ producer_count: 32
 | [[lorenzo_accomasso|Lorenzo Accomasso]] | Italy | Barolo (La Morra) | 2 | — | — | — | — |
 | [[vietti|Vietti]] | Italy | Castiglione Falletto | 2 | — | — | 2 | — |
 | [[domenico_clerico|Domenico Clerico]] | Italy | — | 1 | 2 | — | — | — |
+| [[cantina_del_signore|Cantina del Signore]] | Italy | — | — | — | — | 4 | — |
 | [[cascina_quarino|Cascina Quarino]] | Italy | Albugnano | — | — | — | 3 | — |
 | [[elio_altare|Elio Altare]] | Italy | — | — | 1 | — | — | — |
 | [[gaja|Gaja]] | Italy | Barbaresco / Barolo | — | — | 30 | — | — |
+| [[la_psigula|La Psigula]] | Italy | Alto Piemonte | — | — | — | 2 | — |
 | [[palazzo_schiavino|Palazzo Schiavino]] | Italy | Verduno | — | — | — | 1 | — |
 | [[pianelle|Pianelle]] | Italy | Alto Piemonte | — | 6 | — | — | — |
 | [[pier_paolo_grasso|Pier Paolo Grasso]] | Italy | Barbaresco | — | — | — | 3 | — |
 | [[podere_ai_valloni|Podere ai Valloni]] | Italy | Alto Piemonte | — | — | — | 3 | — |
 | [[quazzolo|Quazzolo]] | Italy | Barbaresco | — | — | — | 4 | — |
+| [[rattalino|Rattalino]] | Italy | — | — | — | — | 4 | — |
 | [[rocche_dei_barbari|Rocche dei Barbari]] | Italy | Langhe | — | — | — | 9 | — |
 | [[sergio_barbaglia|Sergio Barbaglia]] | Italy | Alto Piemonte | — | — | — | 6 | — |
 | [[sottimano|Sottimano]] | Italy | — | — | 12 | — | — | — |
 | [[tenuta_monolo_gilodi|Tenuta Monolo Gilodi]] | Italy | Alto Piemonte | — | — | — | 5 | — |
+| [[tomaso_gianolo|Tomaso Gianolo]] | Italy | — | — | — | — | 4 | — |
 | [[vini_chiussima|Vini Chiussima]] | Italy | Canavese / Carema | — | — | — | 5 | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

@@ -5,7 +5,7 @@ slug: robert_kacher
 producer_count: 1
 focus: ['Rhône']
 notable_producers: ['Emmanuel Darnaud']
-updated: 2026-05-26
+updated: 2026-06-06
 ---
 
 # Robert Kacher

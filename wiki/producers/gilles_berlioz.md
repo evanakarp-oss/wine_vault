@@ -40,6 +40,7 @@ Savoie's most influential biodynamic vigneron — Berlioz's Chignin-Bergeron (Ro
 *2017-02*
 
 > 2/27/17 - With each new year, we bid adieu to winemakers who have decided to retire, with hopes that their legacies will be carried on, either by daughters and sons, or by talented apprentices and stagiaires who have absorbed the know-how and philosophy of…
+
 ## Cellar
 
 _None._

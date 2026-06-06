@@ -68,4 +68,3 @@ James Suckling Top 100 Argentina 2025 / Argentina Reloaded Buenos Aires 2025
 *undated*
 
 > There are several newsletters that I have been meaning to send over the past year. Moving up the street and rolling out the new website may have set back my plans, but I'm finally getting to it! Highlighting my favorite Verdejo producers was on the list,…
-

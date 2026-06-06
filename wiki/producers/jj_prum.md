@@ -80,6 +80,7 @@ The reference estate of off-dry Mosel Riesling — Manfred Prüm's house in Wehl
 *2007-06*
 
 > 6/1/2007 - It has been a very exciting year for German wines at CSW with the tail end of the 2005 vintage selling briskly and the extremely limited-production high- quality 2006's arriving mostly with some more to arrive throughout winter/spring 2008. Since I…
+
 ## Cellar
 
 _None._

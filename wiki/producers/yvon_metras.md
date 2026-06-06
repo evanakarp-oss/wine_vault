@@ -60,6 +60,7 @@ Among the elder statesmen of natural Beaujolais — Métras farms Fleurie organi
 *2016-05*
 
 > 5/15/16 - Born and raised in Portland, Oregon, Joe Swick is a fifth-generation Oregonian whose family's roots are based in Eastern Oregon and the Columbia Gorge area. He became passionate about wine while working in the wine department of his local organic…
+
 ## Cellar
 
 _None._

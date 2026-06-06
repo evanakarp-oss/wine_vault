@@ -60,6 +60,7 @@ Hansjörg Rebholz — the modern voice of Südpfalz, biodynamic, no malolactic, 
 *2007-04*
 
 > 4/21/2007 - When I traveled to Germany in August of 2006 I fell in love with the Grosses Gewachs and Erstes Gewachs bottlings. These are literally translated as Great Growths and are a relatively new category in the ever changing German wine arena. These are…
+
 ## Cellar
 
 _None._

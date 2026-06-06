@@ -2,11 +2,13 @@
 type: importer
 name: "Becky Wasserman & Co."
 slug: becky_wasserman_&_co
-url: "https://beckywasserman.com"
+producer_count: 1
 focus: ['Burgundy']
-tags: []
-updated: 2026-05-26
+notable_producers: ['Domaine Alain Burguet']
+updated: 2026-06-06
 _source: wiki/_resources.md
+tags: []
+url: "https://beckywasserman.com"
 ---
 
 # Becky Wasserman & Co.
@@ -14,7 +16,11 @@ _source: wiki/_resources.md
 Burgundy specialist. Meursault-based. Non-commercial site.
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
+**1 producer(s)** in the vault imported by Becky Wasserman & Co. (US).
 
-_No producers from this importer/retailer are tracked in the vault yet._
+| Producer | Country | Region | CSW | Cellar |
+|---|---|---|---:|---:|
+| [[alain_burguet|Domaine Alain Burguet]] | France | Burgundy | — | — |
 
+*Compiled by `scripts/build_rollups.py`.*
 <!-- END AUTO-GENERATED -->

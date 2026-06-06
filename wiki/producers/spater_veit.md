@@ -40,6 +40,7 @@ Piesporter grower with an unusual depth in Pinot Noir for the Mosel — Pinot No
 *undated*
 
 > Last week I got a text from our friend Eva at Bonhomie Wine Imports about a bottle of finely aged Riesling that she had in her bag. We don't typically do impromptu tastings at the shop, but my curiosity got the best of me, plus it was just one wine! About an…
+
 ## Cellar
 
 _None._

@@ -40,6 +40,7 @@ Niederhausen Nahe grower — Hermannshöhle Riesling Trocken Magnus at FASS ($36
 *2008-07*
 
 > *7/7/2008 -* ** *(The Hermannshohle vineyard)* Many German wine lovers are familiar with the scared terroir that is Hermannshohle, and thus of course with its top interpreter, Helmut Donnhoff. It is like the relationship between Musigny and Comte de Vogue.…
+
 ## Cellar
 
 _None._

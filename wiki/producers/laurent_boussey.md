@@ -13,9 +13,9 @@ importer_us: ["FASS Selections"]
 retailers:
   fass:
     in_portfolio: true
-    cuvee_count: 17
+    cuvee_count: 18
     price_min: 28
-    price_max: 74
+    price_max: 91
   chambers:
     championed: false
     article_count: 0
@@ -48,7 +48,7 @@ _None._
 
 ## FASS
 
-Currently tracked: **17 cuvée/vintage entries**; prices $29–$75.
+Currently tracked: **18 cuvée/vintage entries**; prices $29–$92.
 
 | Cuvée | Vintage | Price | Color | Variety |
 |---|---|---|---|---|
@@ -57,6 +57,7 @@ Currently tracked: **17 cuvée/vintage entries**; prices $29–$75.
 | Auxey Duresses Les Closeaux | 2022 | $42 | — | — |
 | Auxey Duresses Les Closeaux | 2022 | $40 | — | — |
 | Bourgogne Blanc Cote dOr | 2022 | $29 | — | — |
+| Meursault 1er Cru "Les Caillerets" | 2023 | $92 | White | Chardonnay |
 | Meursault VV | 2022 | $48 | — | — |
 | Monthelie 1er Cru Champs Fulliot | 2022 | $37 | — | — |
 | Monthelie 1er Cru Sur la Velle | 2022 | $38 | — | — |

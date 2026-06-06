@@ -58,4 +58,3 @@ _sources:
 *2026-03*
 
 > 3/23/26 - After a recent tasting of the Bourgogne Pinot Noir Champ Franc from Heresztyn-Mazzini, I immediately needed to taste more of the lineup. When a Bourgogne Rouge is this good, it tends to just keep getting better as you move up in vineyard quality,…
-

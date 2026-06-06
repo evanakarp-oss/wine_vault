@@ -5,7 +5,7 @@ slug: selection_massale_polaner
 producer_count: 1
 focus: ['Lombardy']
 notable_producers: ['AR.PE.PE.']
-updated: 2026-05-26
+updated: 2026-06-06
 ---
 
 # Selection Massale / Polaner

@@ -40,6 +40,7 @@ The reference estate of Côte-de-Brouilly — Geoffray family, Mont Brouilly slo
 *2020-04*
 
 > 4/25/20 - (First published in [View from the Cellar](http://www.viewfromthecellar.com) , April 29, 2020; apologies that John's excellent photos are missing from this version!) **Learning From the Past** **Thirty Years Of Evolving Wine Serving Philosophy**…
+
 ## Cellar
 
 _None._

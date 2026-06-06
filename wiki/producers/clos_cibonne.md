@@ -79,4 +79,3 @@ _sources:
 *2011-08*
 
 > *﻿8/8/11 -* Stuck with inflexible schedules and innumerable meals to consume, for most of us, wine pairing is relegated to an exercise in the perfunctory; grabbing a bottle based upon vague intuition in hopes of achieving only mild harmony between flavors and…
-

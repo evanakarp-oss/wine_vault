@@ -5,10 +5,10 @@ slug: theise
 producer_count: 14
 focus: ['Mosel', 'Nahe']
 notable_producers: ['Peter Lauer / Weingut Lauer', 'Clemens Busch', 'Knebel', 'Weiser-Künstler', 'Immich-Batterieberg']
-updated: 2026-05-26
-url: "https://www.skurnik.com/theise"
-tags: []
+updated: 2026-06-06
 _source: wiki/_resources.md
+tags: []
+url: "https://www.skurnik.com/theise"
 ---
 # Theise
 

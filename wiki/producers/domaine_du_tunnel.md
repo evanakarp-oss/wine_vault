@@ -160,6 +160,7 @@ Stéphane Robert founded Domaine du Tunnel in 1996 from a rented one-hectare Cor
 *undated*
 
 > [Illustration by Michel Tolmer] Earlier this year, we wrote an article about the untimely passing of Dominique Belluard in June of 2021. A reflection on the context of this tragedy, it was a rather somber piece of writing, but today our tone will be…
+
 ## Cellar
 
 _None._
