@@ -244,3 +244,15 @@ Curation taste line for Napa rewritten. Previously: "true cult tier (Harlan/Hund
 ## [2026-05-29] view | Vinous + WA editorial clippings still empty (no Web Clipper saves)
 
 Audit of `raw/clippings/vinous/` and `raw/clippings/wine_advocate/` found 0 articles, only README. Pipeline (`compile_clippings.py`) is wired and ready. To populate: install Obsidian Web Clipper, save articles per the schema in each folder's README. Until then, producer pages will not have `## Vinous Reviews` or `## Wine Advocate (Kelley)` sections, even for producers Vinous/WA cover deeply. Distinct from the William Kelley Berserkers ingest (community signal) — those 81 pages got updated above.
+
+## [2026-06-06] view | Kelley's Burgundy value map (zip-code critique → 6 value moves)
+
+Filed `wiki/_views/kelley_burgundy_value_2026_06.md` from the William Kelley Berserkers scrape (`raw/berserkers/William_Kelley/`). Distills his Burgundy value commentary into a repeatable buy-side framework: the NSG/Vosne "priced by zip code" critique (glamour 1ers like Vosne Suchots) and its inverse — six value moves (Chassagne Rouge; Savigny vs Volnay; buy-down-within-a-grower's-range; village wine from a Grand-Cru house e.g. Roty Marsannay; quiet classicists like Voillot; cult producers' value labels e.g. Verget). Surfaced producer-page gaps (J-C Bachelet, Paul Pillot, Mugneret-Gibourg, Felettig, Verget, Thierry Glantenay) and two dedupe candidates for lint (roty.md vs domaine_joseph_roty.md; jean_marc_et_thomas_bouley.md vs thomas_et_jean_marc_bouley.md).
+
+## [2026-06-06] view | Raeders Burgundy value picks — top 15 under $400
+
+Filed `wiki/_views/raeders_burgundy_value_picks_2026_06.md`. Screened the 128 Burgundy bottles under $400 in `raw/raeders/master_2026-04-25.csv` through the Kelley value framework (`kelley_burgundy_value_2026_06.md`) + Evan's curation filters. No critic scores in the scrape (score_wa=0 throughout) — judgment-based. Top pick A. & P. de Villaine Bouzeron Aligoté; standout price/quality Pierre Morey Bourgogne Aligoté ($39). Skipped zip-code trophies (Méo Vosne Chaumes, Dujac Chambolle village) and négoce-generic (Jadot/Latour/Drouhin entry).
+
+## [2026-06-06] view | Raeders Burgundy picks v2 — re-grounded in Kelley's verbatim WB comments
+
+Revised `wiki/_views/raeders_burgundy_value_picks_2026_06.md` to v2. Mined the William Kelley Berserkers corpus for direct quotes on the ~27 producers in the Raeders under-$400 Burgundy set; re-ranked strictly by what he actually wrote (personal buys > explicit value calls > general esteem), each pick cited to a post file. New #1 is Mugnier Clos de la Maréchale ("amazing that it isn't more expensive"). Demoted v1 picks with no WB evidence: Méo-Camuzet, Yann Durieux, Lucien Boillot, Edmond Cornu, Robert-Denogent. Noted J-C Bachelet / Paul Pillot as the names he'd want that Raeders doesn't stock under $400.
