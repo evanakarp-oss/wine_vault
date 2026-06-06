@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Burgundy"
-updated: 2026-05-26
-producer_count: 85
+updated: 2026-06-06
+producer_count: 111
 ---
 
 # Burgundy — Producer Index
 
-**85 producers** tracked.
+**111 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -42,6 +42,7 @@ producer_count: 85
 | [[lignier-michelot|Lignier-Michelot]] | France | Morey-Saint-Denis | 3 | — | — | — | — |
 | [[sylvain_pataille|Sylvain Pataille]] | France | Marsannay | 3 | — | — | — | — |
 | [[domaine_armand_heitz|Domaine Armand Heitz]] | France | Pommard / Meursault | 2 | — | — | — | — |
+| [[domaine_bruno_clair|Domaine Bruno Clair]] | France | Marsannay | — | — | — | — | 2 btl |
 | [[domaine_duroche|Domaine Duroché]] | France | Gevrey-Chambertin | 2 | — | — | — | — |
 | [[domaine_jean_chauvenet|Domaine Jean Chauvenet]] | France | Nuits-Saint-Georges | 2 | — | 1 | — | — |
 | [[domaine_pavelot|Domaine Pavelot]] | France | Pernand-Vergelesses | 2 | — | — | — | — |
@@ -71,6 +72,30 @@ producer_count: 85
 | [[chicotot|Chicotot]] | France | '' | — | 20 | — | — | — |
 | [[cyril_audoin|Cyril Audoin]] | France | '' | — | 3 | — | — | — |
 | [[denis_bachelet|Denis Bachelet]] | France | '' | — | 1 | — | — | — |
+| [[domaine_arlaud|Domaine Arlaud]] | France | Morey-Saint-Denis | — | — | — | — | — |
+| [[domaine_chopin|Domaine Arnaud Chopin & Fils]] | France | Côte de Nuits-Villages (Comblanchien) | — | — | — | — | — |
+| [[domaine_tessier|Domaine Arnaud Tessier]] | France | Meursault | — | — | — | — | — |
+| [[ballot_millot|Domaine Ballot-Millot]] | France | Meursault | — | — | — | — | — |
+| [[domaine_baptiste_guyot|Domaine Baptiste Guyot]] | France | Beaune | — | — | — | — | — |
+| [[domaine_bessin_tremblay|Domaine Bessin-Tremblay]] | France | Chablis | — | — | — | — | — |
+| [[domaine_boyer_martenot|Domaine Boyer-Martenot]] | France | Meursault | — | — | — | — | — |
+| [[domaine_briotet_d_aprigny|Domaine Briotet-d'Aprigny]] | France | Côte de Beaune (Beaune / Volnay) | — | — | — | — | — |
+| [[domaine_brunet_randon|Domaine Brunet-Randon]] | France | Meursault | — | — | — | — | — |
+| [[domaine_camille_thiriet|Domaine Camille Thiriet]] | France | Côte de Nuits (Comblanchien / Corgoloin) | — | — | — | — | — |
+| [[domaine_darviot_perrin|Domaine Darviot-Perrin]] | France | Meursault / Monthélie | — | — | — | — | — |
+| [[domaine_des_senons|Domaine des Sénons]] | France | Yonne (Sens) | — | — | — | — | — |
+| [[domaine_fabien_coche|Domaine Fabien Coche]] | France | Meursault | — | — | — | — | — |
+| [[domaine_feuillat_juillot|Domaine Feuillat-Juillot]] | France | Montagny (Côte Chalonnaise) | — | — | — | — | — |
+| [[domaine_fourrier|Domaine Fourrier]] | France | Gevrey-Chambertin | — | — | — | — | — |
+| [[domaine_georges_joillot|Domaine Georges Joillot]] | France | Pommard | — | — | — | — | — |
+| [[domaine_georges_roumier|Domaine Georges Roumier]] | France | Chambolle-Musigny | — | — | — | — | — |
+| [[domaine_jean_baptiste_boudier|Domaine Jean-Baptiste Boudier]] | France | Pernand-Vergelesses | — | — | — | — | — |
+| [[domaine_lefort|Domaine Lefort]] | France | Rully / Mercurey (Côte Chalonnaise) | — | — | — | — | — |
+| [[domaine_marshall|Domaine Marshall]] | France | Nuits-Saint-Georges | — | — | — | — | — |
+| [[domaine_maume_siblas|Domaine Maume-Siblas]] | France | Gevrey-Chambertin | — | — | — | — | — |
+| [[domaine_naddef|Domaine Philippe Naddef]] | France | Gevrey-Chambertin (Couchey) | — | — | — | — | — |
+| [[domaine_robert_groffier|Domaine Robert Groffier Père & Fils]] | France | Chambolle-Musigny | — | — | — | — | — |
+| [[domaine_robert_denogent|Domaine Robert-Denogent]] | France | Pouilly-Fuissé (Mâconnais) | — | — | — | — | — |
 | [[francois_bertheau|Francois Bertheau]] | France | '' | — | 5 | — | — | — |
 | [[francois_buffet|François Buffet]] | France | — | — | 3 | — | 24 | — |
 | [[georges_noellat|Georges Noëllat]] | France | '' | — | 13 | — | — | — |
@@ -87,6 +112,7 @@ producer_count: 85
 | [[loersch|Loersch]] | France | — | — | 9 | — | — | — |
 | [[louis_latour|Louis Latour]] | France | Beaune | — | — | 9 | — | — |
 | [[lucien_boillot|Lucien Boillot]] | France | Gevrey-Chambertin | — | — | 9 | — | — |
+| [[maison_fatien|Maison Fatien Père & Fils]] | France | Beaune | — | — | — | — | — |
 | [[marchand_tawse|Marchand Tawse]] | France | '' | — | 25 | — | — | — |
 | [[maxime_cheurlin|Maxime Cheurlin]] | France | — | — | 18 | — | — | — |
 | [[michel_niellon|Michel Niellon]] | France | Chassagne-Montrachet | — | — | 3 | — | — |

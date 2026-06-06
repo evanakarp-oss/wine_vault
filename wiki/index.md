@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 892
+total_pages: 918
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**892 pages indexed.**
+**918 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -29,7 +29,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Beaujolais_Producers|Beaujolais Producers]] — **4 producers** tracked.
 - [[Bierzo_Producers|Bierzo Producers]] — **1 producers** tracked.
 - [[Bordeaux_Producers|Bordeaux Producers]] — **25 producers** tracked.
-- [[Burgundy_Producers|Burgundy Producers]] — **85 producers** tracked.
+- [[Burgundy_Producers|Burgundy Producers]] — **111 producers** tracked.
 - [[California_Producers|California Producers]] — **10 producers** tracked.
 - [[Catalonia_Producers|Catalonia Producers]] — **1 producers** tracked.
 - [[Champagne_Producers|Champagne Producers]] — **16 producers** tracked.
@@ -83,7 +83,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Fleet_Street_Wine_Merchants|Fleet Street Wine Merchants]] — UK-adjacent portfolio.
 - [[Fruit_of_the_Vine|Fruit of the Vine]] — Logistics/import services. Not a traditional importer.
 - [[German_Wine_Collection_GWC|German Wine Collection (GWC)]] — German specialist.
-- [[Grand_Cru_Selections|Grand Cru Selections]] — Burgundy, France
+- [[Grand_Cru_Selections|Grand Cru Selections]] — Burgundy
 - [[Graziano|Graziano]] — Italian specialist.
 - [[Hootananny|Hootananny]] — Natural wines.
 - [[Jeffrey_Alpert_Selections|Jeffrey Alpert Selections]] — NYC. Natural/artisan.
@@ -261,7 +261,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_357 producers across 37 regions._
+_383 producers across 37 regions._
 
 ### Abruzzo
 
@@ -337,6 +337,7 @@ _357 producers across 37 regions._
 
 - [[amelie_berthaut|Amélie Berthaut]] — Burgundy · CSW 1 · DTE 1
 - [[arnoux_lachaux|Arnoux Lachaux]] — Burgundy · DTE 16
+- [[ballot_millot|Domaine Ballot-Millot]] — Burgundy / Meursault
 - [[barraud|Barraud]] — Burgundy · DTE 5
 - [[benoit_courault|Benoit Courault]] — Burgundy / Anjou (Loire) · natural · CSW ★3/11
 - [[berthaut-gerbet|Berthaut-Gerbet]] — Burgundy / Fixin / Gevrey · organic · CSW ★1/1
@@ -348,27 +349,51 @@ _357 producers across 37 regions._
 - [[cyril_audoin|Cyril Audoin]] — Burgundy · DTE 3
 - [[denis_bachelet|Denis Bachelet]] — Burgundy · DTE 1
 - [[domaine_amiot-servelle|Domaine Amiot-Servelle]] — Burgundy / Chambolle-Musigny · organic · CSW ★2/6
+- [[domaine_arlaud|Domaine Arlaud]] — Burgundy / Morey-Saint-Denis · biodynamic
 - [[domaine_armand_heitz|Domaine Armand Heitz]] — Burgundy / Pommard / Meursault · biodynamic · CSW ★2/2
+- [[domaine_baptiste_guyot|Domaine Baptiste Guyot]] — Burgundy / Beaune · sustainable
 - [[domaine_bart|Domaine Bart]] — Burgundy / Marsannay / Fixin · CSW ★2/3
+- [[domaine_bessin_tremblay|Domaine Bessin-Tremblay]] — Burgundy / Chablis
 - [[domaine_boisson|Domaine Boisson]] — Burgundy / Meursault / Hautes-Côtes de Beaune · CSW ★3/4
+- [[domaine_boyer_martenot|Domaine Boyer-Martenot]] — Burgundy / Meursault
+- [[domaine_briotet_d_aprigny|Domaine Briotet-d'Aprigny]] — Burgundy / Côte de Beaune (Beaune / Volnay) · organic
+- [[domaine_brunet_randon|Domaine Brunet-Randon]] — Burgundy / Meursault
+- [[domaine_bruno_clair|Domaine Bruno Clair]] — Burgundy / Marsannay
+- [[domaine_camille_thiriet|Domaine Camille Thiriet]] — Burgundy / Côte de Nuits (Comblanchien / Corgoloin) · organic
 - [[domaine_celine_perrin|Domaine Céline Perrin]] — Burgundy / Ladoix · organic · CSW ★3/6
 - [[domaine_chantal_lescure|Domaine Chantal Lescure]] — Burgundy / Meursault → Vougeot · biodynamic · CSW ★2/4
 - [[domaine_chantereves|Domaine Chanterêves]] — Burgundy · CSW ★2/3
 - [[domaine_cheveau|Domaine Cheveau]] — Burgundy / Pouilly-Fuissé · CSW ★1/1
+- [[domaine_chopin|Domaine Arnaud Chopin & Fils]] — Burgundy / Côte de Nuits-Villages (Comblanchien)
+- [[domaine_darviot_perrin|Domaine Darviot-Perrin]] — Burgundy / Meursault / Monthélie
 - [[domaine_david_moreau|Domaine David Moreau]] — Burgundy / Santenay · organic · CSW ★2/4
 - [[domaine_de_chassorney|Domaine de Chassorney]] — Burgundy / Saint-Romain / Volnay · biodynamic · CSW ★2/5
 - [[domaine_de_montille|Domaine de Montille]] — Burgundy / Volnay / Pommard · organic · CSW ★4/11
+- [[domaine_des_senons|Domaine des Sénons]] — Burgundy / Yonne (Sens) · organic
 - [[domaine_duroche|Domaine Duroché]] — Burgundy / Gevrey-Chambertin · organic · CSW ★1/2
+- [[domaine_fabien_coche|Domaine Fabien Coche]] — Burgundy / Meursault
+- [[domaine_feuillat_juillot|Domaine Feuillat-Juillot]] — Burgundy / Montagny (Côte Chalonnaise)
 - [[domaine_forey|Domaine Forey]] — Burgundy / Vosne-Romanée / Nuits · CSW ★2/4
+- [[domaine_fourrier|Domaine Fourrier]] — Burgundy / Gevrey-Chambertin
+- [[domaine_georges_joillot|Domaine Georges Joillot]] — Burgundy / Pommard
+- [[domaine_georges_roumier|Domaine Georges Roumier]] — Burgundy / Chambolle-Musigny
 - [[domaine_guillemot-michel|Domaine Guillemot-Michel]] — Burgundy / Mâcon-Viré · biodynamic · CSW ★3/7
+- [[domaine_jean_baptiste_boudier|Domaine Jean-Baptiste Boudier]] — Burgundy / Pernand-Vergelesses · sustainable
 - [[domaine_jean_chauvenet|Domaine Jean Chauvenet]] — Burgundy / Nuits-Saint-Georges · CSW ★2/2 · Raeder 1
 - [[domaine_joseph_roty|Domaine Joseph Roty]] — Burgundy / Gevrey-Chambertin · CSW ★1/1
 - [[domaine_laroche|Domaine Laroche]] — Burgundy / Chablis · sustainable · CSW ★1/4 · Raeder 11
 - [[domaine_leflaive|Domaine Leflaive]] — Burgundy / Puligny-Montrachet · biodynamic · CSW 6 · Raeder 19
+- [[domaine_lefort|Domaine Lefort]] — Burgundy / Rully / Mercurey (Côte Chalonnaise) · organic, biodynamic
 - [[domaine_lienhardt|Domaine Lienhardt]] — Burgundy / Côte de Nuits Villages · organic · CSW ★4/4
+- [[domaine_marshall|Domaine Marshall]] — Burgundy / Nuits-Saint-Georges · organic
+- [[domaine_maume_siblas|Domaine Maume-Siblas]] — Burgundy / Gevrey-Chambertin · biodynamic
+- [[domaine_naddef|Domaine Philippe Naddef]] — Burgundy / Gevrey-Chambertin (Couchey)
 - [[domaine_pavelot|Domaine Pavelot]] — Burgundy / Pernand-Vergelesses · CSW ★1/2
+- [[domaine_robert_denogent|Domaine Robert-Denogent]] — Burgundy / Pouilly-Fuissé (Mâconnais)
+- [[domaine_robert_groffier|Domaine Robert Groffier Père & Fils]] — Burgundy / Chambolle-Musigny
 - [[domaine_rossignol-fevrier|Domaine Rossignol-Fevrier]] — Burgundy / Volnay · CSW ★1/1
 - [[domaine_simon_bize|Domaine Simon Bize]] — Burgundy / Savigny-lès-Beaune · biodynamic · CSW ★2/10
+- [[domaine_tessier|Domaine Arnaud Tessier]] — Burgundy / Meursault · organic
 - [[domaine_trapet|Domaine Trapet]] — Burgundy / Gevrey-Chambertin · biodynamic · CSW ★4/4
 - [[dujardin|Dujardin]] — Burgundy · CSW ★1/1 · DTE 15
 - [[duplessis_chablis|Duplessis Chablis]] — Burgundy / Chablis · organic · CSW ★2/3
@@ -397,6 +422,7 @@ _357 producers across 37 regions._
 - [[loersch|Loersch]] — Burgundy · DTE 9
 - [[louis_latour|Louis Latour]] — Burgundy / Beaune · Raeder 9
 - [[lucien_boillot|Lucien Boillot]] — Burgundy / Gevrey-Chambertin · Raeder 9
+- [[maison_fatien|Maison Fatien Père & Fils]] — Burgundy / Beaune
 - [[marchand_tawse|Marchand Tawse]] — Burgundy · DTE 25
 - [[maxime_cheurlin|Maxime Cheurlin]] — Burgundy · DTE 18
 - [[meo_camuzet|Méo-Camuzet]] — Burgundy / Vosne-Romanée · sustainable · CSW 1 · Raeder 12

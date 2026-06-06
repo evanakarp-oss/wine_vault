@@ -23,6 +23,10 @@ Add new values here FIRST, then use them in producer files.
 - Argentina
 - Chile
 - Uruguay
+- Australia
+- Japan
+- Canada
+- Sweden
 
 ## `region` (indexed by country)
 
@@ -77,6 +81,7 @@ Add new values here FIRST, then use them in producer files.
 - Jumilla
 - Ribera del Duero
 - Basque Country
+- Canary Islands
 
 ### Argentina
 - Mendoza
