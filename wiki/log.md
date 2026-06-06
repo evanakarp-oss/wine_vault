@@ -252,3 +252,7 @@ Filed `wiki/_views/kelley_burgundy_value_2026_06.md` from the William Kelley Ber
 ## [2026-06-06] view | Raeders Burgundy value picks — top 15 under $400
 
 Filed `wiki/_views/raeders_burgundy_value_picks_2026_06.md`. Screened the 128 Burgundy bottles under $400 in `raw/raeders/master_2026-04-25.csv` through the Kelley value framework (`kelley_burgundy_value_2026_06.md`) + Evan's curation filters. No critic scores in the scrape (score_wa=0 throughout) — judgment-based. Top pick A. & P. de Villaine Bouzeron Aligoté; standout price/quality Pierre Morey Bourgogne Aligoté ($39). Skipped zip-code trophies (Méo Vosne Chaumes, Dujac Chambolle village) and négoce-generic (Jadot/Latour/Drouhin entry).
+
+## [2026-06-06] view | Raeders Burgundy picks v2 — re-grounded in Kelley's verbatim WB comments
+
+Revised `wiki/_views/raeders_burgundy_value_picks_2026_06.md` to v2. Mined the William Kelley Berserkers corpus for direct quotes on the ~27 producers in the Raeders under-$400 Burgundy set; re-ranked strictly by what he actually wrote (personal buys > explicit value calls > general esteem), each pick cited to a post file. New #1 is Mugnier Clos de la Maréchale ("amazing that it isn't more expensive"). Demoted v1 picks with no WB evidence: Méo-Camuzet, Yann Durieux, Lucien Boillot, Edmond Cornu, Robert-Denogent. Noted J-C Bachelet / Paul Pillot as the names he'd want that Raeders doesn't stock under $400.
