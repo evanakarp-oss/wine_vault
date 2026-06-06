@@ -2,12 +2,12 @@
 type: region_index
 region: "Baden"
 updated: 2026-06-06
-producer_count: 4
+producer_count: 5
 ---
 
 # Baden — Producer Index
 
-**4 producers** tracked.
+**5 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -15,5 +15,6 @@ producer_count: 4
 | [[enderle__moll|Enderle & Moll]] | Germany | '' | 7 | — | — | — | — |
 | [[wasenhaus|Wasenhaus]] | Germany | '' | 4 | — | — | — | — |
 | [[bernhard_huber|Bernhard Huber]] | Germany | — | 1 | — | — | — | — |
+| [[weingut_aufricht|Weingut Aufricht]] | Germany | Bodensee (Meersburg) | — | — | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

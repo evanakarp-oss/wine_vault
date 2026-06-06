@@ -27,6 +27,7 @@ Add new values here FIRST, then use them in producer files.
 - Japan
 - Canada
 - Sweden
+- China
 
 ## `region` (indexed by country)
 
@@ -45,6 +46,7 @@ Add new values here FIRST, then use them in producer files.
 - South West
 - Languedoc-Roussillon
 - Basque (Irouléguy)
+- Normandy
 
 ### Germany
 - Ahr

@@ -7,8 +7,8 @@ focus: ['Burgundy']
 notable_producers: ['Domaine Camille Thiriet']
 updated: 2026-06-06
 _source: wiki/_resources.md
-tags: []
 url: "https://www.grandcruselections.com"
+tags: []
 ---
 
 # Grand Cru Selections

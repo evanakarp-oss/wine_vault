@@ -7,8 +7,8 @@ focus: ['Burgundy', 'Loire', 'Piedmont']
 notable_producers: ['Domaine Baudry', 'Stéphane Guion', 'Domaine de la Chevalerie', 'Jean-Claude Rateau', 'Produttori del Barbaresco']
 updated: 2026-06-06
 _source: wiki/_resources.md
-tags: []
 url: "https://polanerselections.com"
+tags: []
 ---
 # Polaner
 

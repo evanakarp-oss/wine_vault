@@ -2,12 +2,12 @@
 type: region_index
 region: "Bordeaux"
 updated: 2026-06-06
-producer_count: 25
+producer_count: 32
 ---
 
 # Bordeaux — Producer Index
 
-**25 producers** tracked.
+**32 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -29,12 +29,19 @@ producer_count: 25
 | [[chateau_lafite_rothschild|Château Lafite Rothschild]] | France | Pauillac | 1 | — | 10 | — | — |
 | [[chateau_palmer|Château Palmer]] | France | Margaux | 1 | — | 8 | — | — |
 | [[domaine_uchida|Domaine Uchida]] | France | Haut-Médoc / Pauillac | 1 | — | — | — | — |
+| [[chateau_ausone|Château Ausone]] | France | Saint-Émilion | — | — | — | — | — |
+| [[chateau_cissac|Château Cissac]] | France | Haut-Médoc | — | — | — | — | — |
+| [[chateau_corbin|Château Corbin]] | France | Saint-Émilion | — | — | — | — | — |
+| [[chateau_couvent_des_jacobins|Château Couvent des Jacobins]] | France | Saint-Émilion | — | — | — | — | — |
 | [[chateau_ducru_beaucaillou|Château Ducru-Beaucaillou]] | France | Saint-Julien | — | — | 2 | — | — |
 | [[chateau_haut_bailly|Château Haut-Bailly]] | France | Pessac-Léognan | — | — | 1 | — | — |
+| [[chateau_lafleur|Château Lafleur]] | France | Pomerol | — | — | — | — | — |
 | [[chateau_lynch_bages|Château Lynch-Bages]] | France | Pauillac | — | — | 5 | — | — |
 | [[chateau_pape_clement|Château Pape Clément]] | France | Pessac-Léognan | — | — | 3 | — | — |
 | [[chateau_phelan_segur|Château Phélan-Ségur]] | France | Saint-Estèphe | — | — | 2 | — | — |
 | [[chateau_pibran|Château Pibran]] | France | Pauillac | — | — | 1 | — | — |
+| [[chateau_pontet_canet|Château Pontet-Canet]] | France | Pauillac | — | — | — | — | — |
 | [[chateau_rauzan_segla|Château Rauzan-Ségla]] | France | Margaux | — | — | 2 | — | — |
+| [[chateau_soutard|Château Soutard]] | France | Saint-Émilion | — | — | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

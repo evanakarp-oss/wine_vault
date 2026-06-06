@@ -2,12 +2,12 @@
 type: region_index
 region: "Rhône"
 updated: 2026-06-06
-producer_count: 32
+producer_count: 36
 ---
 
 # Rhône — Producer Index
 
-**32 producers** tracked.
+**36 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -38,7 +38,11 @@ producer_count: 32
 | [[clos_saouma|Clos Saouma]] | France | — | — | 1 | — | — | — |
 | [[clusel_roch|Clusel Roch]] | France | '' | — | 3 | 1 | — | — |
 | [[domaine_de_beaurenard|Domaine de Beaurenard]] | France | Châteauneuf-du-Pape | — | — | 11 | — | — |
+| [[domaine_de_la_vieille_julienne|Domaine de la Vieille Julienne]] | France | Châteauneuf-du-Pape | — | — | — | — | — |
+| [[domaine_niero|Domaine Niero]] | France | Condrieu / Côte-Rôtie | — | — | — | — | — |
+| [[domaine_roger_sabon|Domaine Roger Sabon]] | France | Châteauneuf-du-Pape | — | — | — | — | — |
 | [[eric_et_joel_durand|Eric et Joel Durand]] | France | — | — | 1 | — | — | — |
+| [[famille_perrin_beaucastel|Famille Perrin / Château de Beaucastel]] | France | Châteauneuf-du-Pape | — | — | — | — | — |
 | [[georges_vernay|Georges Vernay]] | France | — | — | 1 | 1 | — | — |
 | [[jean_royer|Jean Royer]] | France | — | — | 1 | — | — | — |
 | [[marc_sorrel|Marc Sorrel]] | France | '' | — | 15 | — | — | — |

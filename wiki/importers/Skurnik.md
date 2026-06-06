@@ -2,18 +2,18 @@
 type: importer
 name: "Skurnik"
 slug: skurnik
-producer_count: 19
-focus: ['Burgundy', 'Jura', 'Mosel', 'Nahe']
+producer_count: 20
+focus: ['Burgundy', 'California', 'Jura', 'Mosel', 'Nahe']
 notable_producers: ['Clemens Busch', 'Knebel', 'Weiser-Künstler', 'Immich-Batterieberg', 'Stéphane Tissot']
 updated: 2026-06-06
 _source: wiki/_resources.md
-tags: ['grower', 'grower-champagne']
 url: "https://www.skurnik.com"
+tags: ['grower', 'grower-champagne']
 ---
 # Skurnik
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**19 producer(s)** in the vault imported by Skurnik (US).
+**20 producer(s)** in the vault imported by Skurnik (US).
 
 | Producer | Country | Region | CSW | Cellar |
 |---|---|---|---:|---:|
@@ -35,6 +35,7 @@ url: "https://www.skurnik.com"
 | [[emrich_schonleber|Emrich-Schönleber]] | Germany | Nahe | 3 | — |
 | [[domaine_tessier|Domaine Arnaud Tessier]] | France | Burgundy | — | — |
 | [[domaine_jean_baptiste_boudier|Domaine Jean-Baptiste Boudier]] | France | Burgundy | — | — |
+| [[lieu_dit|Lieu Dit]] | United States | California | — | — |
 | [[peter_lauer__weingut_lauer|Peter Lauer / Weingut Lauer]] | Germany | Mosel | — | — |
 
 *Compiled by `scripts/build_rollups.py`.*

@@ -2,12 +2,12 @@
 type: region_index
 region: "Burgundy"
 updated: 2026-06-06
-producer_count: 111
+producer_count: 114
 ---
 
 # Burgundy — Producer Index
 
-**111 producers** tracked.
+**114 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -84,15 +84,18 @@ producer_count: 111
 | [[domaine_camille_thiriet|Domaine Camille Thiriet]] | France | Côte de Nuits (Comblanchien / Corgoloin) | — | — | — | — | — |
 | [[domaine_darviot_perrin|Domaine Darviot-Perrin]] | France | Meursault / Monthélie | — | — | — | — | — |
 | [[domaine_des_senons|Domaine des Sénons]] | France | Yonne (Sens) | — | — | — | — | — |
+| [[domaine_du_chancelier|Domaine du Chancelier]] | France | Beaune (Côte de Beaune) | — | — | — | — | — |
 | [[domaine_fabien_coche|Domaine Fabien Coche]] | France | Meursault | — | — | — | — | — |
 | [[domaine_feuillat_juillot|Domaine Feuillat-Juillot]] | France | Montagny (Côte Chalonnaise) | — | — | — | — | — |
 | [[domaine_fourrier|Domaine Fourrier]] | France | Gevrey-Chambertin | — | — | — | — | — |
 | [[domaine_georges_joillot|Domaine Georges Joillot]] | France | Pommard | — | — | — | — | — |
 | [[domaine_georges_roumier|Domaine Georges Roumier]] | France | Chambolle-Musigny | — | — | — | — | — |
+| [[domaine_guilbert_gillet|Domaine Guilbert-Gillet]] | France | Savigny-lès-Beaune | — | — | — | — | — |
 | [[domaine_jean_baptiste_boudier|Domaine Jean-Baptiste Boudier]] | France | Pernand-Vergelesses | — | — | — | — | — |
 | [[domaine_lefort|Domaine Lefort]] | France | Rully / Mercurey (Côte Chalonnaise) | — | — | — | — | — |
 | [[domaine_marshall|Domaine Marshall]] | France | Nuits-Saint-Georges | — | — | — | — | — |
 | [[domaine_maume_siblas|Domaine Maume-Siblas]] | France | Gevrey-Chambertin | — | — | — | — | — |
+| [[domaine_nathalie_richez|Domaine Nathalie Richez]] | France | Côte Chalonnaise / Côte de Beaune (Chagny) | — | — | — | — | — |
 | [[domaine_naddef|Domaine Philippe Naddef]] | France | Gevrey-Chambertin (Couchey) | — | — | — | — | — |
 | [[domaine_robert_groffier|Domaine Robert Groffier Père & Fils]] | France | Chambolle-Musigny | — | — | — | — | — |
 | [[domaine_robert_denogent|Domaine Robert-Denogent]] | France | Pouilly-Fuissé (Mâconnais) | — | — | — | — | — |
