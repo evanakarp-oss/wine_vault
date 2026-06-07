@@ -7,9 +7,11 @@ country: "France"
 region: "Burgundy"
 sub_region: "Gevrey-Chambertin"
 appellations: []
-farming: []
+farming:
+- sustainable
 certifications: []
-importer_us: []
+importer_us:
+- Kermit Lynch
 retailers:
   chambers:
     championed: false
@@ -29,13 +31,40 @@ retailers:
     price_max: 149.99
   fass:
     in_portfolio: false
-tags: ['pinot-noir', 'burgundy']
-_sources: ["raeders_compile_curated:2026-04-25"]
+tags: ['pinot-noir', 'burgundy', 'old-vines']
+_sources: ["raeders_compile_curated:2026-04-25", "kermitlynch.com:2026-06-07"]
 ---
 
 # Lucien Boillot
 
-_Created from Raeders compile pass — LLM-curated as a notable terroir-driven producer worth tracking. Editorial summary still to be written._
+Gevrey-Chambertin domaine run by **Pierre Boillot**, who inherited it from his
+father **Lucien** (whose name it still carries) — one of the rare growers
+working both the Côte de Nuits and the Côte de Beaune, with holdings across
+**Gevrey-Chambertin, Nuits-Saint-Georges, Volnay and Pommard**. Imported into
+the US by **[[Kermit_Lynch|Kermit Lynch]]**, whose traditionalist book it fits
+squarely: Pierre farms in *lutte raisonnée* (reasoned struggle, organic-inspired
+methods), harvests by hand, destems 100%, and works low-intervention in the
+cellar to make "the terroir speak for itself" — transparent, classically
+structured, appellation-faithful reds built to age.
+
+**Curation fit (Evan's taste):** dead-center. Terroir-driven, restrained,
+grower-scale, Kermit-imported — the antithesis of flash. Note: not certified
+organic (lutte raisonnée), so `farming: sustainable`, not `organic`.
+
+**Critic note:** William Kelley does **not** discuss this domaine in the
+Berserkers corpus — his "Boillot" commentary is all **Henri Boillot** (a
+separate Meursault/Volnay house, gourmand/oaky) or a passing "JM Boillot I
+don't follow." Silence here is absence, not a knock. Likewise, Kelley's
+celebrated **Pommard "Les Fremiers"** praise refers to **Thomas Bouley's**
+bottling, not Lucien Boillot's — don't conflate. (See the Raeders value picks and Kelley value map views in
+`wiki/_views/`.)
+
+**Family note:** Pierre's brother **Louis Boillot** runs a separate domaine
+(Chambolle-Musigny; married to Ghislaine Barthod), the subject of CSW's
+"incredible value across Gevrey, Volnay and Moulin-à-Vent" write-up — same
+lineage and traditional style, different estate.
+
+_Sources: [Kermit Lynch grower page](https://kermitlynch.com/grower/domaine-lucien-boillot-et-fils) (importer, farming, Pierre/Lucien lineage), verified 2026-06-07. Editorial summary written from importer material; not yet covered in the CSW archive._
 
 ## CSW Write-ups
 

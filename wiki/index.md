@@ -396,7 +396,7 @@ _357 producers across 37 regions._
 - [[lignier-michelot|Lignier-Michelot]] — Burgundy / Morey-Saint-Denis · organic · CSW ★2/3
 - [[loersch|Loersch]] — Burgundy · DTE 9
 - [[louis_latour|Louis Latour]] — Burgundy / Beaune · Raeder 9
-- [[lucien_boillot|Lucien Boillot]] — Burgundy / Gevrey-Chambertin · Raeder 9
+- [[lucien_boillot|Lucien Boillot]] — Burgundy / Gevrey-Chambertin · sustainable · Raeder 9
 - [[marchand_tawse|Marchand Tawse]] — Burgundy · DTE 25
 - [[maxime_cheurlin|Maxime Cheurlin]] — Burgundy · DTE 18
 - [[meo_camuzet|Méo-Camuzet]] — Burgundy / Vosne-Romanée · sustainable · CSW 1 · Raeder 12
