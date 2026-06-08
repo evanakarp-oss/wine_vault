@@ -269,46 +269,65 @@ SOURCES: list[Source] = [
         parse=parse_generic("auctionzip"),
         notes="Pre-scoped to a 50-mile radius of 10001 (Manhattan).",
     ),
-    # --- Liquidator storefronts (directory — rarely keyword-searchable) -- #
+    # --- NYC restaurant-specialist auctioneers (the real targets) -------- #
+    # Surfaced by web search 2026-06; these run NYC indie restaurant/bar/
+    # wine-bar closeouts directly. Most 403 bot user-agents and have no keyword
+    # search, so they're directory entries pointing at their live-auction page.
     Source(
-        id="tigergroup",
-        name="Tiger Group — current asset sales",
-        kind="liquidator",
-        search_url=lambda q: "https://www.tigergroup.com/sales/",
+        id="metro_auctions",
+        name="Metro Auctions LLC (NYC metro restaurant specialist)",
+        kind="nyc-auctioneer",
+        search_url=lambda q: "https://www.metroauctionsllc.com/upcoming-auctions",
         parse=None,
-        notes="National restaurant-chain liquidations; scan current sales for NYC food/bev.",
+        notes="Manhattan/Brooklyn/Queens/Bronx/SI restaurants, bars, wine bars. Best single NYC bet.",
     ),
     Source(
-        id="maynards",
-        name="Maynards Industries — auctions",
-        kind="liquidator",
-        search_url=lambda q: "https://www.maynards.com/en/Auctions",
+        id="atlas_auctioneers",
+        name="Atlas Auctioneers (NYC/NJ/CT restaurant liquidations)",
+        kind="nyc-auctioneer",
+        search_url=lambda q: "https://www.atlasauctioneers.com/",
         parse=None,
-        notes="Restaurant & hospitality closeouts; filter by US East.",
+        notes="Full facility sell-offs; see /nycbar for bar/wine-bar lots.",
     ),
     Source(
-        id="rabin",
-        name="Rabin Worldwide — auctions",
-        kind="liquidator",
-        search_url=lambda q: "https://www.rabin.com/auctions/",
+        id="bestbuy_auctioneers",
+        name="BestBuy Auctioneers (NJ/NYC/CT, 30+ yrs)",
+        kind="nyc-auctioneer",
+        search_url=lambda q: "https://www.bestbuyauctioneers.com/upcomingauctions",
         parse=None,
-        notes="Industrial + hospitality liquidations.",
+        notes="Check /upcomingauctions and /pastauctions to gauge what comes through.",
     ),
     Source(
-        id="heritage_global",
-        name="Heritage Global / BidItUp",
-        kind="liquidator",
-        search_url=lambda q: "https://www.hgpauction.com/auctions/",
+        id="pci_auctions_nynj",
+        name="PCI Auctions New York & New Jersey",
+        kind="nyc-auctioneer",
+        search_url=lambda q: "https://www.pciauctions.com/new-york-and-new-jersey/",
         parse=None,
-        notes="Restaurant/hospitality asset recovery.",
+        notes="Online timed auctions; has per-auction lot search once an auction is open.",
+    ),
+    Source(
+        id="bandh_auctioneers",
+        name="B&H Auctioneers (NY metro food-service)",
+        kind="nyc-auctioneer",
+        search_url=lambda q: "https://bandhauctioneers.com/",
+        parse=None,
+        notes="Brooklyn/Queens/LI/Bronx/Westchester/SI coverage.",
+    ),
+    Source(
+        id="auctionbidny",
+        name="AuctionBidNY (NYC restaurant auctions)",
+        kind="nyc-auctioneer",
+        search_url=lambda q: "https://auctionbidny.com/nycrestaurantauction.htm",
+        parse=None,
+        notes="All NYC + LI + N.NJ + E.CT.",
     ),
     Source(
         id="tagex",
         name="TAGeX Brands — restaurant liquidations",
-        kind="liquidator",
+        kind="nyc-auctioneer",
         search_url=lambda q: "https://tagexbrands.com/auctions/",
         parse=None,
-        notes="Restaurant-specialist liquidator; wine racking shows up regularly.",
+        notes="National restaurant-specialist liquidator; wine racking shows up regularly.",
     ),
     Source(
         id="bowery_restaurant_supply",
@@ -414,7 +433,7 @@ def write_reports(listings: list[Listing], queries: list[str]) -> None:
 
 def list_sources(queries: list[str]) -> None:
     print(f"\nNYC restaurant-liquidation sources (query: {queries[0]!r})\n")
-    for kind in ["classifieds", "auction-aggregator", "liquidator", "manual"]:
+    for kind in ["classifieds", "auction-aggregator", "nyc-auctioneer", "liquidator", "manual"]:
         group = [s for s in SOURCES if s.kind == kind]
         if not group:
             continue
