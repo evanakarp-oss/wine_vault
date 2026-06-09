@@ -22,7 +22,7 @@ opened: []
 
 # Domaine Chanterêves — Bourgogne Hautes-Côtes de Beaune Mainbey 2022
 
-- **Producer:** Domaine Chanterêves
+- **Producer:** [[domaine_chantereves|Domaine Chanterêves]]
 - **Cuvée:** Bourgogne Hautes-Côtes de Beaune Mainbey
 - **Vintage:** 2022
 - **Format:** 750ml

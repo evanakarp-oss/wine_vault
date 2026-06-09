@@ -78,5 +78,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Meursault → Vougeot]]
-- [[CSW Article Archive]]
+- Meursault → Vougeot
+- [[Chambers_Street_Wines|CSW article archive]]

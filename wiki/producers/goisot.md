@@ -62,3 +62,14 @@ _Not yet populated._
 ## FASS
 
 _Not yet populated._
+
+## Cellar
+
+Own **31 bottle(s)** across 6 cuvée-vintage(s):
+
+- 6 × [[2019_goisot_bourgogne_cotes_d_auxerre_le_court_vit|Bourgogne Côtes d'Auxerre Le Court Vit 2019]] (750ml) @ $39 — drink 2023–2027
+- 6 × [[2020_goisot_irancy_la_voie_de_cravant|Irancy La Voie de Cravant 2020]] (750ml) @ $39
+- 2 × [[2021_goisot_bourgogne_cotes_d_auxerre_la_ronce_rouge|Bourgogne Côtes d'Auxerre La Ronce Rouge 2021]] (750ml) @ $39 — drink 2025–2031
+- 2 × [[2022_goisot_irancy_les_mazelots|Irancy Les Mazelots 2022]] (750ml) @ $39 — drink 2026–2033
+- 9 × [[2022_goisot_saint_bris_exogyra_virgula|Saint-Bris Exogyra Virgula 2022]] (750ml) @ $20 — drink 2024–2027
+- 6 × [[2022_goisot_saint_bris_moury|Saint-Bris Moury 2022]] (750ml) @ $20 — drink 2024–2029

@@ -91,13 +91,18 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
   `wiki/index.md` would change it.
 - `python scripts/build_wiki_log.py --check` — exit 1 if any `## `
   heading in `wiki/log.md` violates the canonical format.
+- `python scripts/build_home.py --check` — exit 1 if regenerating
+  `wiki/HOME.md` would change it.
 
 ## Common scripts
 
 - `scrape_*.py` + `parse_*.py` — landing layer, deterministic
 - `ingest_*.py` — load structured data into wiki sections
 - `compile_*.py` — LLM-judgment passes (decision tables in code)
-- `build_rollups.py` — regenerate region/importer/retailer index pages
+- `build_rollups.py` — regenerate region/importer/retailer index pages + country hubs (`France_Producers` etc.)
+- `build_home.py` — regenerate `wiki/HOME.md`, the human entry point (urgency counts, views table, browse links; `--check` for CI)
+- `link_cellar.py` — cellar↔producer wikilinks both directions + curated CT-slug→wiki-slug decision table (run after `ingest_cellar.py`)
+- `fix_crossrefs.py` — repair broken producer-page wikilinks (re-target known hubs, fold accents, unwrap location links)
 - `build_wiki_index.py` — regenerate `wiki/index.md` from current vault state (idempotent; `--check` for CI)
 - `build_wiki_log.py` — seed `wiki/log.md` from git history; `--check` validates entry format
 - `lint.py` — schema/taxonomy/dedup checks (run with `--fix` for safe auto-fixes)
@@ -128,9 +133,9 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
 - **Argentina (Mendoza / Patagonia / Salta)**: accepted as an interest area as of 2026-05-26. Bias toward biodynamic / terroir-driven / artisan-scale producers (Chacra, Colomé, Cara Sur, Canopus, Altos Las Hormigas style). Argentina_Reloaded curator's selection (Paz Levinson, 79 producers) is the seed.
 - **Cellar style**: NYC/US retailers, German biodynamic, US boutique, Italian Friuli/Piedmont.
 
-## Open follow-ups (as of 2026-05-26)
+## Open follow-ups (as of 2026-06-09)
 
-- **Catena Zapata** is in the cellar (2 bottles) but has no producer page — gap. Either create the page from the cellar entries, or accept that some cellar bottles don't need wiki pages (Catena is generic-tier per the existing taste filter).
+- **Cellar producer triage** — 160 cellar producers still have no wiki page (list in `build/cellar_ingest_report.md`; subsumes the old Catena Zapata item). Includes **Dunn and Corison** — the Napa reference set in the taste filter above. Run the taste filter over the list: create pages for keepers, record "no page needed" for generic-tier. Full ranked follow-ups in `wiki/_views/architecture_review_2026_06.md` (also: `updated:`/price `as_of:` freshness fields, `status: stub|seeded|curated` frontmatter, `scripts/lib/` extraction + pytest idempotency suite + `--check` for rollups, Obsidian Bases live drink-window view, lateral "Neighbors" blocks on producer pages).
 - **Roscioli 152 missing producer pages** — the 2026-05-19 `_PATCH_roscioli_2026-05.md` claimed 152 new Italian producer pages had been uploaded to Drive. Audit (2026-05-26) shows they never made it. The importer rollup page `wiki/importers/Roscioli_Wine_Club.md` lists all 156 names with profile URLs and sub-regions — re-run the original Roscioli scraper (location unknown — likely a notebook Evan ran locally) OR seed the 152 pages from the rollup data + scraping the live `roscioliwineclub.com/<slug>/` URLs.
 - **One Drive duplicate left**: `wiki/wiki/`. `_drive_sync/wine_wiki_v2/` and `wine_vault_fromdocuments/` are approved-for-delete (2026-05-26). Before deleting `wiki/wiki/`, run `python scripts/audit_drive_duplicates.py /path/to/Drive/wine_vault/wiki/wiki` — exits non-zero if any producer slug lives only on Drive.
 - **Raeders candidates** — `scripts/audit_raeders_candidates.py` produces a triage table at `build/raeders_candidates.md` (1,541 producers not yet in vault). Triage with Evan's curation taste; onboard the keepers via `compile_raeders_creates_v2.py`.
@@ -156,6 +161,7 @@ See `WORKFLOW.md` for the full setup. Quick version:
 
 ## Architecture-fix history
 
+- **2026-06-09** — cellar↔wiki linking pass. `link_cellar.py` (curated CT-slug→wiki-slug table, 30 cellar files re-slugged, bidirectional wikilinks), `fix_crossrefs.py` (broken links 764 → ~10 occurrences), country hubs in `build_rollups.py`, `wiki/HOME.md` human entry point, `_views/` now indexed, lint validates wikilinks against all wiki+cellar stems, nested `wiki/.obsidian/` deleted, arnot-roberts re-filed France/Jura → US/California, US regions added to taxonomy. Audit + ranked follow-ups in `wiki/_views/architecture_review_2026_06.md`. Full entry in `wiki/log.md`.
 - **2026-05-26** — lint 66 → 0. `scripts/fix_vault_architecture.py` (one-shot, idempotent) consolidated 8 CSW surname-collision dupes, deleted 2 mojibake/legacy relics, normalized 48 region fields (sub-regions moved out of `region:`), backfilled 16 empty regions, synthesized frontmatter for 5 legacy pages. Region rollups: 57 → 37. `lint.py --strict` now gates CI. Full entry in `wiki/log.md`.
 - **2026-05-26** — closed 5 open follow-ups: `/ask-cellar` skill written in-repo, Vinous + Wine Advocate (Kelley) clippings pipeline scaffolded, `build_widget_json.py` written, `_resources.md` migrated to per-entity pages (66 importers + 129 retailers), `build_rollups.py` updated to preserve hand-edits between auto-markers.
 

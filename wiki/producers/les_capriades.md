@@ -78,5 +78,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Jura_Producers|Jura]]
-- [[Loire / Touraine pét-nat]]
-- [[CSW Article Archive]]
+- Loire / Touraine pét-nat
+- [[Chambers_Street_Wines|CSW article archive]]

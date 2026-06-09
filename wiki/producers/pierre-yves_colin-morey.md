@@ -133,5 +133,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[St-Aubin / Chassagne]]
-- [[CSW Article Archive]]
+- St-Aubin / Chassagne
+- [[Chambers_Street_Wines|CSW article archive]]

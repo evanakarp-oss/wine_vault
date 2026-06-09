@@ -47,9 +47,9 @@ _sources:
 ## Cross-references
 
 - [[France_Producers|France]]
-- [[Burgundy]]
-- [[Gevrey-Chambertin]]
-- [[CSW Article Archive]]
+- Burgundy
+- Gevrey-Chambertin
+- [[Chambers_Street_Wines|CSW article archive]]
 
 *★ = dedicated article (producer featured in title)*
 *Last updated from full archive sweep — April 2026*

@@ -102,5 +102,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Bordeaux_Producers|Bordeaux]]
-- [[Blaye (Côtes de Bordeaux)]]
-- [[CSW Article Archive]]
+- Blaye (Côtes de Bordeaux)
+- [[Chambers_Street_Wines|CSW article archive]]

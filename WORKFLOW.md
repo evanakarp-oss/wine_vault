@@ -122,7 +122,10 @@ To edit on iPhone, you need a git client. The easiest stack:
 3. Move the local clone into iCloud Drive (Working Copy → repo
    settings → Move to Files → iCloud Drive).
 4. Obsidian Mobile → Open folder as vault → pick the iCloud-synced
-   clone.
+   clone. **Open the repo root (`wine_vault/`) as the vault, not
+   `wiki/`** — wikilinks resolve vault-wide (producer ↔ cellar links
+   need both folders), and the checked-in `.obsidian/` config lives at
+   the root. Pin `wiki/HOME.md` as the homepage / starred note.
 5. Now Obsidian on iPhone reads/edits the git working tree directly.
    Commits happen via Working Copy (a few taps).
 

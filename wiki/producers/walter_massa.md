@@ -59,5 +59,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Italy_Producers|Italy]]
-- [[Colli Tortonesi (Timorasso)]]
-- [[CSW Article Archive]]
+- Colli Tortonesi (Timorasso)
+- [[Chambers_Street_Wines|CSW article archive]]

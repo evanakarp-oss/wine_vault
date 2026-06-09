@@ -300,6 +300,54 @@ def build_region_pages(producers: list[Producer]) -> int:
     return written
 
 
+def build_country_pages(producers: list[Producer]) -> int:
+    """Country-level hubs (France_Producers, Italy_Producers, …) linking the
+    per-region rollups. Producer Cross-references sections link these; the
+    taxonomy keeps regions top-level, so the hub is just a region directory."""
+    by_country: dict[str, list[Producer]] = defaultdict(list)
+    for p in producers:
+        if p.country:
+            by_country[p.country].append(p)
+
+    region_files = {f"{safe_filename(p.region)}_Producers"
+                    for p in producers if p.region}
+    today = date.today().isoformat()
+    written = 0
+    for country, plist in sorted(by_country.items()):
+        safe = safe_filename(country)
+        stem = f"{safe}_Producers"
+        if stem in region_files:
+            continue  # a region rollup already owns this filename
+        by_region: dict[str, list[Producer]] = defaultdict(list)
+        for p in plist:
+            by_region[p.region or "Unknown"].append(p)
+        lines = [
+            "---",
+            "type: country_index",
+            f'country: "{country}"',
+            f"updated: {today}",
+            f"producer_count: {len(plist)}",
+            f"region_count: {len(by_region)}",
+            "---",
+            "",
+            f"# {country} — Region Directory",
+            "",
+            f"**{len(plist)} producers** across **{len(by_region)} regions**.",
+            "",
+            "| Region | Producers | Cellar bottles |",
+            "|---|---:|---:|",
+        ]
+        for region, rl in sorted(by_region.items(),
+                                 key=lambda kv: -len(kv[1])):
+            cellar = sum(p.cellar_bottles for p in rl)
+            link = f"[[{safe_filename(region)}_Producers|{region}]]"
+            lines.append(f"| {link} | {len(rl)} | {cellar or '—'} |")
+        lines += ["", "*Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*"]
+        (REGIONS / f"{stem}.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+        written += 1
+    return written
+
+
 # --- importer rollup ---
 
 def build_importer_pages(producers: list[Producer]) -> int:
@@ -463,9 +511,11 @@ def main() -> int:
     print(f"  {owned} producers with cellar bottles")
 
     r_count = build_region_pages(producers)
+    c_count = build_country_pages(producers)
     i_count = build_importer_pages(producers)
     s_count = build_retailer_pages(producers)
-    print(f"Wrote {r_count} region pages, {i_count} importer pages, {s_count} retailer pages")
+    print(f"Wrote {r_count} region pages, {c_count} country hubs, "
+          f"{i_count} importer pages, {s_count} retailer pages")
     return 0
 
 

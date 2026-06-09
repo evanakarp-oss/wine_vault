@@ -145,5 +145,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Savigny-lès-Beaune]]
-- [[CSW Article Archive]]
+- Savigny-lès-Beaune
+- [[Chambers_Street_Wines|CSW article archive]]

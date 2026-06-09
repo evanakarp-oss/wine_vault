@@ -88,5 +88,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Gevrey-Chambertin]]
-- [[CSW Article Archive]]
+- Gevrey-Chambertin
+- [[Chambers_Street_Wines|CSW article archive]]

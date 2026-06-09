@@ -170,5 +170,5 @@ _Not yet populated._
 
 Own **3 bottle(s)** across 2 cuvée-vintage(s):
 
-- 2 × Mercurey Le Chapitre 2022 (750ml) @ $71.99 — drink 2026–2037
-- 1 × Montagny 1er Cru Le Mont Laurent Blanc 2022 (750ml) @ $89.99 — drink 2026–2033
+- 2 × [[2022_bruno_lorenzon_mercurey_le_chapitre|Mercurey Le Chapitre 2022]] (750ml) @ $71.99 — drink 2026–2037
+- 1 × [[2022_bruno_lorenzon_montagny_1er_cru_le_mont_laurent_blanc|Montagny 1er Cru Le Mont Laurent Blanc 2022]] (750ml) @ $89.99 — drink 2026–2033

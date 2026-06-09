@@ -87,5 +87,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Germany_Producers|Germany]]
-- [[Baden]]
-- [[CSW Article Archive]]
+- Baden
+- [[Chambers_Street_Wines|CSW article archive]]

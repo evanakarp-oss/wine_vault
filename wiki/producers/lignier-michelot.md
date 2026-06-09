@@ -73,5 +73,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Morey-Saint-Denis]]
-- [[CSW Article Archive]]
+- Morey-Saint-Denis
+- [[Chambers_Street_Wines|CSW article archive]]

@@ -22,7 +22,7 @@ opened: []
 
 # Château Gruaud Larose — Château Gruaud Larose 2005
 
-- **Producer:** Château Gruaud Larose
+- **Producer:** [[chateau_gruaud_larose|Château Gruaud Larose]]
 - **Cuvée:** Château Gruaud Larose
 - **Vintage:** 2005
 - **Format:** 750ml

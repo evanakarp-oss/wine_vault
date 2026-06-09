@@ -64,5 +64,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Italy_Producers|Italy]]
-- [[Sicily (Faro)]]
-- [[CSW Article Archive]]
+- Sicily (Faro)
+- [[Chambers_Street_Wines|CSW article archive]]

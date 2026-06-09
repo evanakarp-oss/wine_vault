@@ -132,3 +132,10 @@ _Not yet populated._
 ## FASS
 
 _Not yet populated._
+
+## Cellar
+
+Own **4 bottle(s)** across 2 cuvée-vintage(s):
+
+- 2 × [[2024_steinmetz_detzemer_maximiner_klosterlay_riesling|Detzemer Maximiner Klosterlay Riesling 2024]] (750ml) @ $42.99
+- 2 × [[2024_steinmetz_dhroner_hofberg_riesling_reserve|Dhroner Hofberg Riesling Reserve 2024]] (750ml) @ $54.99 — drink 2027–2046

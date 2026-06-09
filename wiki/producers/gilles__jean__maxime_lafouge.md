@@ -131,5 +131,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Auxey-Duresses]]
-- [[CSW Article Archive]]
+- Auxey-Duresses
+- [[Chambers_Street_Wines|CSW article archive]]

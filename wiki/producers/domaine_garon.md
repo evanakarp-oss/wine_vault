@@ -68,10 +68,10 @@ _Not yet populated._
 
 Own **3 bottle(s)** across 1 cuvée-vintage(s):
 
-- 3 × Côte-Rôtie Les Triotes 2020 (750ml) @ $59 — drink 2025–2033
+- 3 × [[2020_domaine_garon_cote_rotie_les_triotes|Côte-Rôtie Les Triotes 2020]] (750ml) @ $59 — drink 2025–2033
 
 ## Cross-references
 
-- [[Rhône_Producers|Rhône]]
-- [[Côte-Rôtie]]
-- [[CSW Article Archive]]
+- [[Rhone_Producers|Rhône]]
+- Côte-Rôtie
+- [[Chambers_Street_Wines|CSW article archive]]

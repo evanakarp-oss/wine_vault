@@ -78,6 +78,11 @@ Add new values here FIRST, then use them in producer files.
 - Ribera del Duero
 - Basque Country
 
+### United States
+- California
+- Oregon
+- Washington
+
 ### Argentina
 - Mendoza
 - Patagonia

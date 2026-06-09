@@ -88,5 +88,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Ladoix]]
-- [[CSW Article Archive]]
+- Ladoix
+- [[Chambers_Street_Wines|CSW article archive]]

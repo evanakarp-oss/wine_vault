@@ -92,5 +92,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Italy_Producers|Italy]]
-- [[Chianti Classico]]
-- [[CSW Article Archive]]
+- Chianti Classico
+- [[Chambers_Street_Wines|CSW article archive]]

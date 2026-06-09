@@ -74,5 +74,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Bordeaux_Producers|Bordeaux]]
-- [[Francs-Côtes de Bordeaux]]
-- [[CSW Article Archive]]
+- Francs-Côtes de Bordeaux
+- [[Chambers_Street_Wines|CSW article archive]]

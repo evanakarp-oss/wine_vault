@@ -78,5 +78,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Bordeaux_Producers|Bordeaux]]
-- [[Saint-Emilion Grand Cru]]
-- [[CSW Article Archive]]
+- Saint-Emilion Grand Cru
+- [[Chambers_Street_Wines|CSW article archive]]

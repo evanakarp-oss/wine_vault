@@ -56,3 +56,10 @@ _Not yet populated._
 ## FASS
 
 _Not yet populated._
+
+## Cellar
+
+Own **6 bottle(s)** across 2 cuvée-vintage(s):
+
+- 3 × [[2016_jasmin_cote_rotie_la_giroflarie|Côte-Rôtie La Giroflarie 2016]] (750ml) @ $55 — drink 2030–2075
+- 3 × [[2022_jasmin_cote_rotie_olea|Côte-Rôtie Oléa 2022]] (750ml) @ $137.99 — drink 2032–2049

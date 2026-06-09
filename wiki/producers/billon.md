@@ -81,3 +81,9 @@ _Not yet populated._
 ## FASS
 
 _Not yet populated._
+
+## Cellar
+
+Own **1 bottle(s)** across 1 cuvée-vintage(s):
+
+- 1 × [[2017_billon_cote_rotie_les_elotins|Côte-Rôtie Les Elotins 2017]] (750ml) @ $49 — drink 2024–2035

@@ -96,3 +96,9 @@ _[Raeders link](https://www.raederswine.com/wines/Altesino-Brunello-di-Montalcin
 ## FASS
 
 _Not yet populated._
+
+## Cellar
+
+Own **1 bottle(s)** across 1 cuvée-vintage(s):
+
+- 1 × [[2012_altesino_brunello_di_montalcino_montosoli|Brunello di Montalcino Montosoli 2012]] (750ml) @ $95 — drink 2020–2032

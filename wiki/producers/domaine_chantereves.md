@@ -73,10 +73,10 @@ _Not yet populated._
 
 Own **1 bottle(s)** across 1 cuvée-vintage(s):
 
-- 1 × Bourgogne Hautes-Côtes de Beaune Mainbey 2022 (750ml) @ $71.99 — drink 2028–2035
+- 1 × [[2022_domaine_chantereves_bourgogne_hautes_cotes_de_beaune_mainbey|Bourgogne Hautes-Côtes de Beaune Mainbey 2022]] (750ml) @ $71.99 — drink 2028–2035
 
 ## Cross-references
 
-- [[Burgundy Producers]]
-- [[Burgundy]]
-- [[CSW Article Archive]]
+- Burgundy Producers
+- Burgundy
+- [[Chambers_Street_Wines|CSW article archive]]

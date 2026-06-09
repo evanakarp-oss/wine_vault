@@ -128,5 +128,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Mâcon-Viré]]
-- [[CSW Article Archive]]
+- Mâcon-Viré
+- [[Chambers_Street_Wines|CSW article archive]]

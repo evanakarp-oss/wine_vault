@@ -77,5 +77,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Marsannay]]
-- [[CSW Article Archive]]
+- Marsannay
+- [[Chambers_Street_Wines|CSW article archive]]

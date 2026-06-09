@@ -166,7 +166,7 @@ WB top-100 producers that don't have a `wiki/producers/<slug>.md` file. Either t
 - [[francois_bertheau|François Bertheau]] (WK 1, WB#78)
 
 **Both critics silent, pure community** (vault page exists but neither CSW nor WK has weighed in — pure WB pick):
-- [[peter_lauer|Peter Lauer]] (WB#99) — you own
+- [[peter_lauer__weingut_lauer|Peter Lauer]] (WB#99) — you own
 - [[thomas_et_jean_marc_bouley|Bouley]] (WB#100)
 
 ## Caveats

@@ -93,6 +93,6 @@ _Not yet populated._
 
 ## Cross-references
 
-- [[Rhône_Producers|Rhône]]
-- [[Saint-Joseph]]
-- [[CSW Article Archive]]
+- [[Rhone_Producers|Rhône]]
+- Saint-Joseph
+- [[Chambers_Street_Wines|CSW article archive]]

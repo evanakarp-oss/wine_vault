@@ -95,5 +95,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Meursault / Auxey]]
-- [[CSW Article Archive]]
+- Meursault / Auxey
+- [[Chambers_Street_Wines|CSW article archive]]

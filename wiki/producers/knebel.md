@@ -140,8 +140,14 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Cellar
+
+Own **1 bottle(s)** across 1 cuvée-vintage(s):
+
+- 1 × [[2017_knebel_riesling|Riesling 2017]] (750ml) @ $20.69 — drink 2019–2023
+
 ## Cross-references
 
 - [[Germany_Producers|Germany]]
-- [[Mosel (Winningen)]]
-- [[CSW Article Archive]]
+- Mosel (Winningen)
+- [[Chambers_Street_Wines|CSW article archive]]

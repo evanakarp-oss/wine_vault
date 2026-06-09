@@ -86,5 +86,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Bordeaux_Producers|Bordeaux]]
-- [[Bekaa Valley, Lebanon]]
-- [[CSW Article Archive]]
+- Bekaa Valley, Lebanon
+- [[Chambers_Street_Wines|CSW article archive]]

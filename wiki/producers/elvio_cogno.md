@@ -107,3 +107,11 @@ _[Raeders link](https://www.raederswine.com/wines/Elvio-Cogno-Elvio-Cogno-Dolcet
 ## FASS
 
 _Not yet populated._
+
+## Cellar
+
+Own **3 bottle(s)** across 3 cuvée-vintage(s):
+
+- 1 × [[2016_elvio_cogno_langhe_nebbiolo_montegrilli|Langhe Nebbiolo Montegrilli 2016]] (750ml) @ $25 — drink 2018–2024
+- 1 × [[2019_elvio_cogno_barbera_d_alba_bricco_dei_merli|Barbera d'Alba Bricco dei Merli 2019]] (750ml) @ $40 — drink 2023–2028
+- 1 × [[2020_elvio_cogno_langhe_nebbiolo_montegrilli|Langhe Nebbiolo Montegrilli 2020]] (750ml) @ $25 — drink 2021–2026

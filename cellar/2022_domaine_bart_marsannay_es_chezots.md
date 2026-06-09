@@ -22,7 +22,7 @@ opened: []
 
 # Domaine Bart — Marsannay Es Chezots 2022
 
-- **Producer:** Domaine Bart
+- **Producer:** [[domaine_bart|Domaine Bart]]
 - **Cuvée:** Marsannay Es Chezots
 - **Vintage:** 2022
 - **Format:** 750ml

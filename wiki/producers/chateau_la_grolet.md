@@ -92,5 +92,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Bordeaux_Producers|Bordeaux]]
-- [[Bourg (Côtes de Bordeaux)]]
-- [[CSW Article Archive]]
+- Bourg (Côtes de Bordeaux)
+- [[Chambers_Street_Wines|CSW article archive]]

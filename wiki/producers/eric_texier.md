@@ -211,6 +211,6 @@ _Not yet populated._
 
 ## Cross-references
 
-- [[Rhône_Producers|Rhône]]
-- [[Côte-Rôtie / Brézème / Rhône]]
-- [[CSW Article Archive]]
+- [[Rhone_Producers|Rhône]]
+- Côte-Rôtie / Brézème / Rhône
+- [[Chambers_Street_Wines|CSW article archive]]

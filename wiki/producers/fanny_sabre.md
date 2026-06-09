@@ -68,5 +68,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Beaune / Pommard]]
-- [[CSW Article Archive]]
+- Beaune / Pommard
+- [[Chambers_Street_Wines|CSW article archive]]

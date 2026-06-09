@@ -66,5 +66,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Nuits-Saint-Georges]]
-- [[CSW Article Archive]]
+- Nuits-Saint-Georges
+- [[Chambers_Street_Wines|CSW article archive]]

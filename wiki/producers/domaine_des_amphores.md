@@ -91,6 +91,6 @@ _Not yet populated._
 
 ## Cross-references
 
-- [[Rhône_Producers|Rhône]]
-- [[Saint-Joseph / Condrieu]]
-- [[CSW Article Archive]]
+- [[Rhone_Producers|Rhône]]
+- Saint-Joseph / Condrieu
+- [[Chambers_Street_Wines|CSW article archive]]

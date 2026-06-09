@@ -22,7 +22,7 @@ opened: []
 
 # Domaine Rousset — Crozes-Hermitage Les Picaudières 2015
 
-- **Producer:** Domaine Rousset
+- **Producer:** [[domaine_rousset|Domaine Rousset]]
 - **Cuvée:** Crozes-Hermitage Les Picaudières
 - **Vintage:** 2015
 - **Format:** 750ml

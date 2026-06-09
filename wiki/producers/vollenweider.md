@@ -88,5 +88,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Germany_Producers|Germany]]
-- [[Mosel (Wolf)]]
-- [[CSW Article Archive]]
+- Mosel (Wolf)
+- [[Chambers_Street_Wines|CSW article archive]]

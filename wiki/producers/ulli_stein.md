@@ -104,8 +104,18 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Cellar
+
+Own **8 bottle(s)** across 5 cuvée-vintage(s):
+
+- 3 × [[2022_ulli_stein_cabernet_sauvignon_vom_berg|Cabernet Sauvignon vom Berg 2022]] (750ml) @ $49.98 — drink 2028–2035
+- 1 × [[2022_ulli_stein_riesling_feinherb_weihwasser|Riesling Feinherb 'Weihwasser' 2022]] (750ml) @ $20.7 — drink 2024–2027
+- 1 × [[2023_ulli_stein_palmberg_riesling_kabinett_trocken|Palmberg Riesling Kabinett trocken 2023]] (750ml) @ $37.97 — drink 2026–2033
+- 1 × [[2023_ulli_stein_palmberg_riesling_spatlese_trocken|Palmberg Riesling Spätlese trocken 2023]] (750ml) @ $52.97
+- 2 × [[2024_ulli_stein_rose_trocken|Rosé trocken 2024]] (750ml) @ $22.97 — drink 2025–2028
+
 ## Cross-references
 
 - [[Germany_Producers|Germany]]
-- [[Mosel]]
-- [[CSW Article Archive]]
+- Mosel
+- [[Chambers_Street_Wines|CSW article archive]]

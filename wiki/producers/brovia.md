@@ -144,5 +144,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Italy_Producers|Italy]]
-- [[Barolo / Barbaresco (Castiglione Falletto)]]
-- [[CSW Article Archive]]
+- Barolo / Barbaresco (Castiglione Falletto)
+- [[Chambers_Street_Wines|CSW article archive]]

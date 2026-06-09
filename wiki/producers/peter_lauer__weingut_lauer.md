@@ -180,8 +180,14 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Cellar
+
+Own **1 bottle(s)** across 1 cuvée-vintage(s):
+
+- 1 × [[2020_peter_lauer__weingut_lauer_kupp_kabinett_n_8|Kupp Kabinett N° 8 2020]] (750ml) @ $36 — drink 2023–2043
+
 ## Cross-references
 
 - [[Germany_Producers|Germany]]
-- [[Saar]]
-- [[CSW Article Archive]]
+- Saar
+- [[Chambers_Street_Wines|CSW article archive]]

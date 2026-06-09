@@ -95,11 +95,11 @@ Cascina delle Rose winery is located in the municipality of Tre Stelle, a short 
 
 Own **1 bottle(s)** across 1 cuvée-vintage(s):
 
-- 1 × Barbaresco Tre Stelle 2019 (750ml) @ $75.99 — drink 2025–2034
+- 1 × [[2019_cascina_delle_rose_barbaresco_tre_stelle|Barbaresco Tre Stelle 2019]] (750ml) @ $75.99 — drink 2025–2034
 
 ## Cross-references
 
 - [[Italy_Producers|Italy]]
-- [[Barbaresco (Neive)]]
-- [[CSW Article Archive]]
+- Barbaresco (Neive)
+- [[Chambers_Street_Wines|CSW article archive]]
 - [[Roscioli_Wine_Club|Roscioli Wine Club (importer)]]

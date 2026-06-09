@@ -131,7 +131,7 @@ _Not yet populated._
 
 ## Cross-references
 
-- [[Burgundy Producers]]
+- Burgundy Producers
 - [[Burgundy_Producers|Burgundy]]
-- [[CSW Article Archive]]
-- [[Gevrey-Chambertin]]
+- [[Chambers_Street_Wines|CSW article archive]]
+- Gevrey-Chambertin

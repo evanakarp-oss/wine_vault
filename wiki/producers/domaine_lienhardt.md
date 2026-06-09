@@ -98,5 +98,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Côte de Nuits Villages]]
-- [[CSW Article Archive]]
+- Côte de Nuits Villages
+- [[Chambers_Street_Wines|CSW article archive]]

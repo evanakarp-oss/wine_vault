@@ -3,9 +3,9 @@ type: producer
 name: Arnot-Roberts
 slug: arnot-roberts
 aliases: []
-country: France
-region: Jura
-sub_region: California Trousseau / Jura varieties
+country: United States
+region: California
+sub_region: Healdsburg (Sonoma County)
 appellations: []
 farming: []
 certifications: []
@@ -130,8 +130,14 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Cellar
+
+Own **6 bottle(s)** across 1 cuvée-vintage(s):
+
+- 6 × [[2023_arnot-roberts_rose|Rosé 2023]] (750ml) — drink 2024–2026
+
 ## Cross-references
 
-- [[Jura_Producers|Jura]]
-- [[California Trousseau / Jura varieties]]
-- [[CSW Article Archive]]
+- [[California_Producers|California]]
+- [[United_States_Producers|United States]]
+- [[Chambers_Street_Wines|CSW article archive]]

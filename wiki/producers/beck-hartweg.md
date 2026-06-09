@@ -78,5 +78,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Germany_Producers|Germany]]
-- [[Alsace]]
-- [[CSW Article Archive]]
+- Alsace
+- [[Chambers_Street_Wines|CSW article archive]]

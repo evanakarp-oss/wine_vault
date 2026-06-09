@@ -135,5 +135,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Italy_Producers|Italy]]
-- [[Barolo (Monforte)]]
-- [[CSW Article Archive]]
+- Barolo (Monforte)
+- [[Chambers_Street_Wines|CSW article archive]]

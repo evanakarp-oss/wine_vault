@@ -22,7 +22,7 @@ opened: []
 
 # Altesino — Brunello di Montalcino Montosoli 2012
 
-- **Producer:** Altesino
+- **Producer:** [[altesino|Altesino]]
 - **Cuvée:** Brunello di Montalcino Montosoli
 - **Vintage:** 2012
 - **Format:** 750ml

@@ -48,9 +48,9 @@ _sources:
 ## Cross-references
 
 - [[France_Producers|France]]
-- [[Bordeaux]]
-- [[Haut-Médoc]]
-- [[CSW Article Archive]]
+- Bordeaux
+- Haut-Médoc
+- [[Chambers_Street_Wines|CSW article archive]]
 
 *★ = dedicated article (producer featured in title)*
 *Last updated from full archive sweep — April 2026*

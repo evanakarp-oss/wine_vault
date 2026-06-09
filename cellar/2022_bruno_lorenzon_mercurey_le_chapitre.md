@@ -22,7 +22,7 @@ opened: []
 
 # Bruno Lorenzon — Mercurey Le Chapitre 2022
 
-- **Producer:** Bruno Lorenzon
+- **Producer:** [[bruno_lorenzon|Bruno Lorenzon]]
 - **Cuvée:** Mercurey Le Chapitre
 - **Vintage:** 2022
 - **Format:** 750ml

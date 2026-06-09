@@ -22,7 +22,7 @@ opened: []
 
 # Sven Enderle — Pinot Noir vom Keuper 2022
 
-- **Producer:** Sven Enderle
+- **Producer:** [[sven_enderle|Sven Enderle]]
 - **Cuvée:** Pinot Noir vom Keuper
 - **Vintage:** 2022
 - **Format:** 750ml

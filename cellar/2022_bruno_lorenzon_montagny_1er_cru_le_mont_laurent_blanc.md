@@ -22,7 +22,7 @@ opened: []
 
 # Bruno Lorenzon — Montagny 1er Cru Le Mont Laurent Blanc 2022
 
-- **Producer:** Bruno Lorenzon
+- **Producer:** [[bruno_lorenzon|Bruno Lorenzon]]
 - **Cuvée:** Montagny 1er Cru Le Mont Laurent Blanc
 - **Vintage:** 2022
 - **Format:** 750ml

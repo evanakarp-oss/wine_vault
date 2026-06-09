@@ -83,5 +83,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Germany_Producers|Germany]]
-- [[Mosel (Dhron)]]
-- [[CSW Article Archive]]
+- Mosel (Dhron)
+- [[Chambers_Street_Wines|CSW article archive]]

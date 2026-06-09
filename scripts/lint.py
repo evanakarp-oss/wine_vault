@@ -282,6 +282,15 @@ def run(fix: bool) -> int:
     signatures: dict[tuple, list[str]] = defaultdict(list)
     broken_links: list[tuple[str, str]] = []
 
+    # Valid wikilink targets: any markdown file in wiki/ or cellar/
+    # (Obsidian resolves [[stem]] vault-wide — producer bodies legitimately
+    # link region rollups, importer/retailer pages, and cellar bottles).
+    wiki_root = PRODUCERS.parent
+    valid_targets = producer_slugs | {
+        f.stem for root in (wiki_root, wiki_root.parent / "cellar")
+        for f in root.rglob("*.md")
+    }
+
     for p in producer_files:
         text = p.read_text(encoding="utf-8", errors="replace")
         parts = split_frontmatter(text)
@@ -335,11 +344,11 @@ def run(fix: bool) -> int:
         if any(sig[1:]):  # only track if there's actual CSW data
             signatures[sig].append(p.stem)
 
-        # 8. broken wikilinks (only ones pointing at producer slugs)
+        # 8. broken wikilinks (only ones pointing at slug-shaped targets)
         for m in WIKILINK_RE.finditer(body):
             target = m.group(1).strip()
-            # Only flag if it looks like a producer slug (lowercase_words)
-            if re.fullmatch(r"[a-z0-9_\-]+", target) and target not in producer_slugs:
+            # Only flag if it looks like a slug (lowercase_words / bottle stems)
+            if re.fullmatch(r"[a-z0-9_\-]+", target) and target not in valid_targets:
                 broken_links.append((p.name, target))
 
     # 6b. Dupes: same sig and >1 file

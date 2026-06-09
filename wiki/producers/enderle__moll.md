@@ -94,8 +94,14 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Cellar
+
+Own **2 bottle(s)** across 1 cuvée-vintage(s):
+
+- 2 × [[2020_enderle__moll_weissburgunder_sphere|Weissburgunder Sphère 2020]] (750ml) @ $40 — drink 2025–2039
+
 ## Cross-references
 
 - [[Germany_Producers|Germany]]
-- [[Baden]]
-- [[CSW Article Archive]]
+- Baden
+- [[Chambers_Street_Wines|CSW article archive]]

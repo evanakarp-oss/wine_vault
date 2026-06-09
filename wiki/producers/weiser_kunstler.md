@@ -144,5 +144,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Germany_Producers|Germany]]
-- [[Mosel]]
-- [[CSW Article Archive]]
+- Mosel
+- [[Chambers_Street_Wines|CSW article archive]]

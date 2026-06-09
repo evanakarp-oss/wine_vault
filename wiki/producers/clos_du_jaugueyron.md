@@ -87,5 +87,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Bordeaux_Producers|Bordeaux]]
-- [[Médoc (Margaux / Haut-Médoc)]]
-- [[CSW Article Archive]]
+- Médoc (Margaux / Haut-Médoc)
+- [[Chambers_Street_Wines|CSW article archive]]

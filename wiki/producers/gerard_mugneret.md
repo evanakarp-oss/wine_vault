@@ -104,5 +104,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Vosne-Romanée]]
-- [[CSW Article Archive]]
+- Vosne-Romanée
+- [[Chambers_Street_Wines|CSW article archive]]

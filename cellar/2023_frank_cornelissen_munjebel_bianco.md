@@ -22,7 +22,7 @@ opened: []
 
 # Frank Cornelissen — MunJebel Bianco 2023
 
-- **Producer:** Frank Cornelissen
+- **Producer:** [[frank_cornelissen|Frank Cornelissen]]
 - **Cuvée:** MunJebel Bianco
 - **Vintage:** 2023
 - **Format:** 750ml

@@ -114,4 +114,4 @@ Currently tracked: **13 cuvée/vintage entries**; prices $0–$0.
 
 Own **2 bottle(s)** across 1 cuvée-vintage(s):
 
-- 2 × Pinot Noir vom Keuper 2022 (750ml) @ $49.99 — drink 2025–2030
+- 2 × [[2022_sven_enderle_pinot_noir_vom_keuper|Pinot Noir vom Keuper 2022]] (750ml) @ $49.99 — drink 2025–2030

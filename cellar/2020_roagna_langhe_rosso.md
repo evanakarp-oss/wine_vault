@@ -22,7 +22,7 @@ opened: []
 
 # Roagna — Langhe Rosso 2020
 
-- **Producer:** Roagna
+- **Producer:** [[roagna|Roagna]]
 - **Cuvée:** Langhe Rosso
 - **Vintage:** 2020
 - **Format:** 750ml

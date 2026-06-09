@@ -84,7 +84,7 @@ _Not yet populated._
 
 ## Cross-references
 
-- [[Alsace (Bennwihr)]]
-- [[CSW Article Archive]]
-- [[Germany Producers]]
+- Alsace (Bennwihr)
+- [[Chambers_Street_Wines|CSW article archive]]
+- Germany Producers
 - [[Germany_Producers|Germany]]

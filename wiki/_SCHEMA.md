@@ -96,8 +96,8 @@ Currently in portfolio:
 ## Cross-references
 
 - [[Alsace_Producers|Alsace]]
-- [[Jenny_and_Francois|Jenny & François (importer)]]
-- [[Chambers_Street|Chambers Street (retailer)]]
+- [[Jenny_&_Francois_Selections|Jenny & François (importer)]]
+- [[Chambers_Street_Wines|Chambers Street (retailer)]]
 
 ## Notes
 
@@ -259,7 +259,7 @@ updated: 2026-04-21
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---|---|---|---|---|
-| [[Domaine_Baudry|Domaine Baudry]] | France | Chinon | 30 | ✓ | — | — | 4 btl |
+| [[domaine_baudry|Domaine Baudry]] | France | Chinon | 30 | ✓ | — | — | 4 btl |
 
 *Source: compiled from wiki/producers/*.md*
 ```

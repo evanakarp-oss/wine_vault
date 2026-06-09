@@ -22,7 +22,7 @@ opened: []
 
 # Arianna Occhipinti — Il Frappato 2020
 
-- **Producer:** Arianna Occhipinti
+- **Producer:** [[arianna_occhipinti|Arianna Occhipinti]]
 - **Cuvée:** Il Frappato
 - **Vintage:** 2020
 - **Format:** 750ml

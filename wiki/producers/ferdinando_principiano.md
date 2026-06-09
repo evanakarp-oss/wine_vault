@@ -69,5 +69,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Italy_Producers|Italy]]
-- [[Barolo (Serralunga)]]
-- [[CSW Article Archive]]
+- Barolo (Serralunga)
+- [[Chambers_Street_Wines|CSW article archive]]

@@ -180,11 +180,11 @@ Luca Roagna opens both his winery and heart during the visit of his estate in th
 
 Own **3 bottle(s)** across 1 cuvée-vintage(s):
 
-- 3 × Langhe Rosso 2020 (750ml) @ $59.97 — drink 2027–2033
+- 3 × [[2020_roagna_langhe_rosso|Langhe Rosso 2020]] (750ml) @ $59.97 — drink 2027–2033
 
 ## Cross-references
 
 - [[Italy_Producers|Italy]]
-- [[Barbaresco / Barolo]]
-- [[CSW Article Archive]]
+- Barbaresco / Barolo
+- [[Chambers_Street_Wines|CSW article archive]]
 - [[Roscioli_Wine_Club|Roscioli Wine Club (importer)]]

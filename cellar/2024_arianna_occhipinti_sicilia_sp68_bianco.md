@@ -22,7 +22,7 @@ opened: []
 
 # Arianna Occhipinti — Sicilia SP68 Bianco 2024
 
-- **Producer:** Arianna Occhipinti
+- **Producer:** [[arianna_occhipinti|Arianna Occhipinti]]
 - **Cuvée:** Sicilia SP68 Bianco
 - **Vintage:** 2024
 - **Format:** 750ml

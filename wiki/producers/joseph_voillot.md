@@ -111,5 +111,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Volnay / Pommard]]
-- [[CSW Article Archive]]
+- Volnay / Pommard
+- [[Chambers_Street_Wines|CSW article archive]]

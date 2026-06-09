@@ -100,3 +100,15 @@ _Not yet populated._
 ## FASS
 
 _Not yet populated._
+
+## Cellar
+
+Own **25 bottle(s)** across 7 cuvée-vintage(s):
+
+- 4 × [[2022_barraud_saint_veran_en_creches|Saint-Véran En Crèches 2022]] (750ml) @ $30 — drink 2025–2029
+- 4 × [[2022_barraud_saint_veran_les_pommards|Saint-Véran Les Pommards 2022]] (750ml) @ $33 — drink 2026–2030
+- 2 × [[2023_barraud_macon_vergisson_la_roche|Mâcon-Vergisson La Roche 2023]] (750ml) @ $26 — drink 2025–2029
+- 3 × [[2023_barraud_pouilly_fuisse_premier_cru_la_marechaude_clos_la_verchere|Pouilly-Fuissé Premier Cru La Maréchaude Clos la Verchère 2023]] (750ml) @ $45 — drink 2027–2035
+- 2 × [[2023_barraud_pouilly_fuisse_premier_cru_les_crays|Pouilly-Fuissé Premier Cru Les Crays 2023]] (750ml) @ $49 — drink 2027–2033
+- 4 × [[2024_barraud_macon_vergisson_la_roche|Mâcon-Vergisson La Roche 2024]] (750ml) @ $26 — drink 2026–2030
+- 6 × [[2024_barraud_pouilly_fuisse_alliance_vieilles_vignes|Pouilly-Fuissé Alliance Vieilles Vignes 2024]] (750ml) @ $33 — drink 2028–2032

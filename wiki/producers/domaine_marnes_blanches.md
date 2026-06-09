@@ -88,5 +88,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Jura_Producers|Jura]]
-- [[Côtes du Jura]]
-- [[CSW Article Archive]]
+- Côtes du Jura
+- [[Chambers_Street_Wines|CSW article archive]]

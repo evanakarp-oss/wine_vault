@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Burgundy"
-updated: 2026-05-26
+updated: 2026-06-09
 producer_count: 85
 ---
 
@@ -11,6 +11,8 @@ producer_count: 85
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
+| [[goisot|Goisot]] | France | — | 1 | 7 | — | — | 31 btl |
+| [[barraud|Barraud]] | France | '' | — | 5 | — | — | 25 btl |
 | [[jean-claude_rateau|Jean-Claude Rateau]] | France | Beaune | 13 | — | — | — | — |
 | [[benoit_courault|Benoit Courault]] | France | Anjou (Loire) | 11 | — | — | — | — |
 | [[domaine_de_montille|Domaine de Montille]] | France | Volnay / Pommard | 11 | — | — | — | — |
@@ -56,7 +58,6 @@ producer_count: 85
 | [[domaine_rossignol-fevrier|Domaine Rossignol-Fevrier]] | France | Volnay | 1 | — | — | — | — |
 | [[dujardin|Dujardin]] | France | — | 1 | 15 | — | — | — |
 | [[georges_glantenay|Georges Glantenay]] | France | — | 1 | 14 | — | — | — |
-| [[goisot|Goisot]] | France | — | 1 | 7 | — | — | — |
 | [[heresztyn-mazzini|Heresztyn-Mazzini]] | France | Gevrey-Chambertin | 1 | — | — | — | — |
 | [[michel_mallard|Michel Mallard]] | France | '' | 1 | 24 | — | — | — |
 | [[michel_noellat|Michel Noellat]] | France | '' | 1 | 1 | — | — | — |
@@ -66,7 +67,6 @@ producer_count: 85
 | [[simon_colin|Simon Colin]] | France | Chassagne-Montrachet | 1 | — | — | — | — |
 | [[sirugue|Sirugue]] | France | — | 1 | 4 | — | — | — |
 | [[arnoux_lachaux|Arnoux Lachaux]] | France | '' | — | 16 | — | — | — |
-| [[barraud|Barraud]] | France | '' | — | 5 | — | — | — |
 | [[charles_audoin|Charles Audoin]] | France | '' | — | 19 | — | — | — |
 | [[chicotot|Chicotot]] | France | '' | — | 20 | — | — | — |
 | [[cyril_audoin|Cyril Audoin]] | France | '' | — | 3 | — | — | — |

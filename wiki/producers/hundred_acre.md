@@ -61,3 +61,9 @@ Vintages on offer: 2009, 2021, 2022.
 ## FASS
 
 _Not yet populated._
+
+## Cellar
+
+Own **1 bottle(s)** across 1 cuvée-vintage(s):
+
+- 1 × [[2001_hundred_acre_cabernet_sauvignon_kayli_morgan|Cabernet Sauvignon Kayli Morgan 2001]] (750ml) @ $400 — drink 2007–2021

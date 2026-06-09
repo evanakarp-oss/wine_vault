@@ -22,7 +22,7 @@ opened: []
 
 # Domaine Garon — Côte-Rôtie Les Triotes 2020
 
-- **Producer:** Domaine Garon
+- **Producer:** [[domaine_garon|Domaine Garon]]
 - **Cuvée:** Côte-Rôtie Les Triotes
 - **Vintage:** 2020
 - **Format:** 750ml

@@ -92,5 +92,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Chambolle-Musigny]]
-- [[CSW Article Archive]]
+- Chambolle-Musigny
+- [[Chambers_Street_Wines|CSW article archive]]

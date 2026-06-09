@@ -83,5 +83,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Saint-Romain / Volnay]]
-- [[CSW Article Archive]]
+- Saint-Romain / Volnay
+- [[Chambers_Street_Wines|CSW article archive]]

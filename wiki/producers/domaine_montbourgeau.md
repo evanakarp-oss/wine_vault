@@ -105,5 +105,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Jura_Producers|Jura]]
-- [[L'Étoile]]
-- [[CSW Article Archive]]
+- L'Étoile
+- [[Chambers_Street_Wines|CSW article archive]]

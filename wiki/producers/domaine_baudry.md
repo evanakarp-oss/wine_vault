@@ -314,5 +314,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Loire_Producers|Loire]]
-- [[Chinon]]
-- [[CSW Article Archive]]
+- Chinon
+- [[Chambers_Street_Wines|CSW article archive]]

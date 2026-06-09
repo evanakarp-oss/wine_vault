@@ -78,5 +78,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Jura_Producers|Jura]]
-- [[Arbois / Côtes du Jura]]
-- [[CSW Article Archive]]
+- Arbois / Côtes du Jura
+- [[Chambers_Street_Wines|CSW article archive]]

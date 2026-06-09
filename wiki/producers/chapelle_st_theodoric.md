@@ -74,6 +74,6 @@ _Not yet populated._
 
 ## Cross-references
 
-- [[Rhône_Producers|Rhône]]
-- [[Châteauneuf-du-Pape]]
-- [[CSW Article Archive]]
+- [[Rhone_Producers|Rhône]]
+- Châteauneuf-du-Pape
+- [[Chambers_Street_Wines|CSW article archive]]

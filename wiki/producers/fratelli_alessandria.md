@@ -88,6 +88,6 @@ Since 1870 this winery belongs to the Alessandria family. Vittore is a proud wit
 ## Cross-references
 
 - [[Italy_Producers|Italy]]
-- [[Verduno (Barolo)]]
-- [[CSW Article Archive]]
+- Verduno (Barolo)
+- [[Chambers_Street_Wines|CSW article archive]]
 - [[Roscioli_Wine_Club|Roscioli Wine Club (importer)]]

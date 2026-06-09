@@ -59,5 +59,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Burgundy]]
-- [[CSW Article Archive]]
+- Burgundy
+- [[Chambers_Street_Wines|CSW article archive]]

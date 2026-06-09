@@ -102,4 +102,4 @@ _Not yet populated._
 
 Own **2 bottle(s)** across 1 cuvée-vintage(s):
 
-- 2 × Champagne Les 7 Crus Extra-Brut NV (750ml) @ $82.97 — drink 2024–2031
+- 2 × [[NV_agrapart_champagne_les_7_crus_extra_brut|Champagne Les 7 Crus Extra-Brut NV]] (750ml) @ $82.97 — drink 2024–2031

@@ -119,5 +119,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Anjou (Loire)]]
-- [[CSW Article Archive]]
+- Anjou (Loire)
+- [[Chambers_Street_Wines|CSW article archive]]

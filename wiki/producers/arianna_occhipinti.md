@@ -92,12 +92,12 @@ _Not yet populated._
 
 Own **5 bottle(s)** across 3 cuvée-vintage(s):
 
-- 1 × Il Frappato 2020 (750ml) @ $45 — drink 2023–2028
-- 2 × SP68 Rosso 2021 (750ml) @ $32 — drink 2022–2026
-- 2 × Sicilia SP68 Bianco 2024 (750ml) @ $37.97 — drink 2025–2029
+- 1 × [[2020_arianna_occhipinti_il_frappato|Il Frappato 2020]] (750ml) @ $45 — drink 2023–2028
+- 2 × [[2021_arianna_occhipinti_sp68_rosso|SP68 Rosso 2021]] (750ml) @ $32 — drink 2022–2026
+- 2 × [[2024_arianna_occhipinti_sicilia_sp68_bianco|Sicilia SP68 Bianco 2024]] (750ml) @ $37.97 — drink 2025–2029
 
 ## Cross-references
 
 - [[Italy_Producers|Italy]]
-- [[Sicily (Vittoria)]]
-- [[CSW Article Archive]]
+- Sicily (Vittoria)
+- [[Chambers_Street_Wines|CSW article archive]]

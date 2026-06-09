@@ -148,5 +148,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Loire_Producers|Loire]]
-- [[Bourgueil]]
-- [[CSW Article Archive]]
+- Bourgueil
+- [[Chambers_Street_Wines|CSW article archive]]

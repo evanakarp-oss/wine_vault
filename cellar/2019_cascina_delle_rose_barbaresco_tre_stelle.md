@@ -22,7 +22,7 @@ opened: []
 
 # Cascina delle Rose — Barbaresco Tre Stelle 2019
 
-- **Producer:** Cascina delle Rose
+- **Producer:** [[cascina_delle_rose|Cascina delle Rose]]
 - **Cuvée:** Barbaresco Tre Stelle
 - **Vintage:** 2019
 - **Format:** 750ml

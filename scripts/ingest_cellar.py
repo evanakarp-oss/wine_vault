@@ -12,6 +12,11 @@ Output filename: cellar/{vintage}_{producer_slug}_{cuvee_slug}.md
 
 Sentinel values:
   Vintage / BeginConsume / EndConsume: 1001 → NV; 9999 → unknown; 0 → unknown.
+
+Producer slugs derived from CT names are remapped to canonical wiki slugs
+via link_cellar.SLUG_OVERRIDES. After re-ingesting, run
+`python scripts/link_cellar.py` to restore cellar↔producer wikilinks
+(this script regenerates cellar bodies without them).
 """
 from __future__ import annotations
 
@@ -23,6 +28,8 @@ from collections import defaultdict
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from pathlib import Path
+
+from link_cellar import SLUG_OVERRIDES
 
 VAULT = Path(__file__).resolve().parent.parent
 SRC_CSV = VAULT / "wiki" / "My Cellar.csv"
@@ -37,7 +44,7 @@ def canonical_slug(name: str) -> str:
     s = s.lower().strip()
     s = re.sub(r"[^\w\s-]", " ", s)
     s = re.sub(r"[\s-]+", "_", s).strip("_")
-    return s
+    return SLUG_OVERRIDES.get(s, s)
 
 
 def cuvee_slug(wine: str, producer: str, vintage: str) -> str:

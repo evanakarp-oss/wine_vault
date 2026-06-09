@@ -127,12 +127,12 @@ _Not yet populated._
 
 Own **6 bottle(s)** across 3 cuvée-vintage(s):
 
-- 1 × Crozes-Hermitage Les Picaudières 2015 (750ml) @ $39.99 — drink 2021–2028
-- 1 × Crozes-Hermitage Les Picaudières 2019 (750ml) @ $33.99 — drink 2026–2031
-- 4 × Crozes-Hermitage Les Picaudières 2021 (750ml) @ $30.99 — drink 2027–2034
+- 1 × [[2015_domaine_rousset_crozes_hermitage_les_picaudieres|Crozes-Hermitage Les Picaudières 2015]] (750ml) @ $39.99 — drink 2021–2028
+- 1 × [[2019_domaine_rousset_crozes_hermitage_les_picaudieres|Crozes-Hermitage Les Picaudières 2019]] (750ml) @ $33.99 — drink 2026–2031
+- 4 × [[2021_domaine_rousset_crozes_hermitage_les_picaudieres|Crozes-Hermitage Les Picaudières 2021]] (750ml) @ $30.99 — drink 2027–2034
 
 ## Cross-references
 
-- [[Rhône_Producers|Rhône]]
-- [[Crozes-Hermitage / Saint-Joseph]]
-- [[CSW Article Archive]]
+- [[Rhone_Producers|Rhône]]
+- Crozes-Hermitage / Saint-Joseph
+- [[Chambers_Street_Wines|CSW article archive]]

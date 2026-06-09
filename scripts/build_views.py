@@ -146,6 +146,7 @@ def load_producers() -> dict[str, Producer]:
 
 @dataclass
 class CellarBottle:
+    stem: str
     producer_slug: str
     producer: str
     cuvee: str
@@ -174,6 +175,7 @@ def load_cellar() -> tuple[set[str], list[CellarBottle]]:
         try: price = float(get_str(fm, "purchase_price_usd"))
         except ValueError: price = 0.0
         bottles.append(CellarBottle(
+            stem=p.stem,
             producer_slug=slug,
             producer=get_str(fm, "producer"),
             cuvee=get_str(fm, "cuvee"),
@@ -387,7 +389,7 @@ def view_raeders_gap(
     return "\n".join(lines) + "\n"
 
 
-def view_drink_window(bottles: list[CellarBottle]) -> str:
+def view_drink_window(bottles: list[CellarBottle], producer_slugs: set[str]) -> str:
     """Bucket cellar bottles by drink-window urgency."""
     past, now, entering, longhold, unknown = [], [], [], [], []
     for b in bottles:
@@ -421,6 +423,10 @@ def view_drink_window(bottles: list[CellarBottle]) -> str:
         ]
         for b in rows[:50]:
             link_slug = b.producer_slug or slug(b.producer)
+            # only wikilink producers that have a wiki page; bottles always
+            # link their cellar entry
+            producer_cell = (f"[[{link_slug}|{b.producer}]]"
+                             if link_slug in producer_slugs else b.producer)
             window = ""
             if urgency_col == "Drink end":
                 window = str(b.drink_end) if b.drink_end else "?"
@@ -430,7 +436,7 @@ def view_drink_window(bottles: list[CellarBottle]) -> str:
                 window = str(b.drink_start) if b.drink_start else "?"
             cuvee = (b.cuvee or "—").replace("|", "/")
             out.append(
-                f"| [[{link_slug}|{b.producer}]] | {cuvee} | {b.vintage} | "
+                f"| {producer_cell} | [[{b.stem}|{cuvee}]] | {b.vintage} | "
                 f"{b.qty} | {b.size or '—'} | {window} | {fmt_price(b.price)} |"
             )
         if len(rows) > 50:
@@ -499,7 +505,7 @@ def main() -> int:
         view_raeders_gap(producers, owned, raeders), encoding="utf-8"
     )
     (VIEWS / "drink_window_due.md").write_text(
-        view_drink_window(bottles), encoding="utf-8"
+        view_drink_window(bottles, set(producers)), encoding="utf-8"
     )
     print(f"\nWrote 3 views to {VIEWS}")
     return 0

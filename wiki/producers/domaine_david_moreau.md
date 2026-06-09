@@ -69,5 +69,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Santenay]]
-- [[CSW Article Archive]]
+- Santenay
+- [[Chambers_Street_Wines|CSW article archive]]

@@ -22,7 +22,7 @@ opened: []
 
 # Elvio Cogno — Barbera d'Alba Bricco dei Merli 2019
 
-- **Producer:** Elvio Cogno
+- **Producer:** [[elvio_cogno|Elvio Cogno]]
 - **Cuvée:** Barbera d'Alba Bricco dei Merli
 - **Vintage:** 2019
 - **Format:** 750ml

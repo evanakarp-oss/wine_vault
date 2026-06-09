@@ -83,5 +83,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Fixin / Gevrey]]
-- [[CSW Article Archive]]
+- Fixin / Gevrey
+- [[Chambers_Street_Wines|CSW article archive]]

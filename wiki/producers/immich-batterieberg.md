@@ -134,5 +134,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Germany_Producers|Germany]]
-- [[Mosel (Enkirch)]]
-- [[CSW Article Archive]]
+- Mosel (Enkirch)
+- [[Chambers_Street_Wines|CSW article archive]]

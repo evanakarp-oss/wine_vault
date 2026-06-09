@@ -81,5 +81,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Vosne-Romanée / Nuits]]
-- [[CSW Article Archive]]
+- Vosne-Romanée / Nuits
+- [[Chambers_Street_Wines|CSW article archive]]

@@ -115,3 +115,9 @@ _[Raeders link](https://www.raederswine.com/wines/Chateau-Gruaud-Larose-Saint-Ju
 ## FASS
 
 _Not yet populated._
+
+## Cellar
+
+Own **6 bottle(s)** across 1 cuvée-vintage(s):
+
+- 6 × [[2005_chateau_gruaud_larose_cuvee|Château Gruaud Larose 2005]] (750ml) @ $140 — drink 2017–2031

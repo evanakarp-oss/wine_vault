@@ -22,7 +22,7 @@ opened: []
 
 # Agrapart — Champagne Les 7 Crus Extra-Brut NV
 
-- **Producer:** Agrapart
+- **Producer:** [[agrapart|Agrapart]]
 - **Cuvée:** Champagne Les 7 Crus Extra-Brut
 - **Vintage:** NV
 - **Format:** 750ml

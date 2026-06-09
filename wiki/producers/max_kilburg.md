@@ -76,5 +76,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Germany_Producers|Germany]]
-- [[Franken]]
-- [[CSW Article Archive]]
+- Franken
+- [[Chambers_Street_Wines|CSW article archive]]

@@ -146,5 +146,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Germany_Producers|Germany]]
-- [[Nahe]]
-- [[CSW Article Archive]]
+- Nahe
+- [[Chambers_Street_Wines|CSW article archive]]

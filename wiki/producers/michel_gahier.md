@@ -104,5 +104,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Jura_Producers|Jura]]
-- [[Arbois (Montigny-lès-Arsures)]]
-- [[CSW Article Archive]]
+- Arbois (Montigny-lès-Arsures)
+- [[Chambers_Street_Wines|CSW article archive]]

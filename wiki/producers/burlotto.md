@@ -121,8 +121,14 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Cellar
+
+Own **1 bottle(s)** across 1 cuvée-vintage(s):
+
+- 1 × [[2008_burlotto_barolo|Barolo 2008]] (750ml) @ $143.99 — drink 2022–2050
+
 ## Cross-references
 
 - [[Italy_Producers|Italy]]
-- [[Verduno (Barolo)]]
-- [[CSW Article Archive]]
+- Verduno (Barolo)
+- [[Chambers_Street_Wines|CSW article archive]]

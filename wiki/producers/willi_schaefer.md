@@ -175,5 +175,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Germany_Producers|Germany]]
-- [[Mosel (Graach)]]
-- [[CSW Article Archive]]
+- Mosel (Graach)
+- [[Chambers_Street_Wines|CSW article archive]]

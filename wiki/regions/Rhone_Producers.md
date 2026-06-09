@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Rhône"
-updated: 2026-05-26
+updated: 2026-06-09
 producer_count: 32
 ---
 
@@ -19,6 +19,7 @@ producer_count: 32
 | [[allemand|Allemand]] | France | Cornas | 9 | — | — | — | — |
 | [[domaine_charvin|Domaine Charvin]] | France | Châteauneuf-du-Pape | 7 | — | — | — | — |
 | [[domaine_lionnet|Domaine Lionnet]] | France | Cornas | 7 | — | — | — | — |
+| [[jasmin|Jasmin]] | France | — | 1 | 1 | — | — | 6 btl |
 | [[domaine_barou|Domaine Barou]] | France | Saint-Joseph | 6 | — | — | — | — |
 | [[domaine_des_amphores|Domaine des Amphores]] | France | Saint-Joseph / Condrieu | 6 | — | — | — | — |
 | [[domaine_des_ardoisieres|Domaine des Ardoisières]] | France | Savoie (Cevins) | 6 | — | 1 | — | — |
@@ -32,9 +33,8 @@ producer_count: 32
 | [[chapelle_st_theodoric|Chapelle St. Theodoric]] | France | Châteauneuf-du-Pape | 2 | — | — | — | — |
 | [[domaine_gripa|Domaine Gripa]] | France | Saint-Joseph / Saint-Péray | 2 | — | — | — | — |
 | [[vincent_paris|Vincent Paris]] | France | '' | 2 | 1 | — | 1 | — |
+| [[billon|Billon]] | France | '' | — | 4 | — | — | 1 btl |
 | [[clos_du_mont_olivet|Clos du Mont Olivet]] | France | '' | 1 | 1 | — | — | — |
-| [[jasmin|Jasmin]] | France | — | 1 | 1 | — | — | — |
-| [[billon|Billon]] | France | '' | — | 4 | — | — | — |
 | [[clos_saouma|Clos Saouma]] | France | — | — | 1 | — | — | — |
 | [[clusel_roch|Clusel Roch]] | France | '' | — | 3 | 1 | — | — |
 | [[domaine_de_beaurenard|Domaine de Beaurenard]] | France | Châteauneuf-du-Pape | — | — | 11 | — | — |

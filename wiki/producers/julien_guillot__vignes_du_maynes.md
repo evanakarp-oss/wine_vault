@@ -205,5 +205,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Mâcon / Cruzille]]
-- [[CSW Article Archive]]
+- Mâcon / Cruzille
+- [[Chambers_Street_Wines|CSW article archive]]

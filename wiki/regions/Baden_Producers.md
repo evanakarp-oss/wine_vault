@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Baden"
-updated: 2026-05-26
+updated: 2026-06-09
 producer_count: 4
 ---
 
@@ -11,8 +11,8 @@ producer_count: 4
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
+| [[enderle__moll|Enderle & Moll]] | Germany | '' | 7 | — | — | — | 2 btl |
 | [[sven_enderle|Sven Enderle]] | Germany | — | 7 | 5 | — | 13 | 2 btl |
-| [[enderle__moll|Enderle & Moll]] | Germany | '' | 7 | — | — | — | — |
 | [[wasenhaus|Wasenhaus]] | Germany | '' | 4 | — | — | — | — |
 | [[bernhard_huber|Bernhard Huber]] | Germany | — | 1 | — | — | — | — |
 

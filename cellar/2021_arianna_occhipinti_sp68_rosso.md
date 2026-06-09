@@ -22,7 +22,7 @@ opened: []
 
 # Arianna Occhipinti — SP68 Rosso 2021
 
-- **Producer:** Arianna Occhipinti
+- **Producer:** [[arianna_occhipinti|Arianna Occhipinti]]
 - **Cuvée:** SP68 Rosso
 - **Vintage:** 2021
 - **Format:** 750ml

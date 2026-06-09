@@ -89,6 +89,6 @@ Francesca Bruna before the vineyards has inherited a vision: her father Riccardo
 ## Cross-references
 
 - [[Italy_Producers|Italy]]
-- [[Liguria (Riviera Ligure di Ponente)]]
-- [[CSW Article Archive]]
+- Liguria (Riviera Ligure di Ponente)
+- [[Chambers_Street_Wines|CSW article archive]]
 - [[Roscioli_Wine_Club|Roscioli Wine Club (importer)]]

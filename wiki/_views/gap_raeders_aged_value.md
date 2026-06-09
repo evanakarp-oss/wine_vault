@@ -1,13 +1,13 @@
 ---
 type: gap_view
-updated: 2026-05-14
-bottle_count: 126
+updated: 2026-06-09
+bottle_count: 125
 aged_threshold_year: 2018
 ---
 
 # Gap: Raeders Aged & Curated Bottles You Don't Own
 
-**126 bottles** at Raeders that fit your taste filters and aren't in your cellar.
+**125 bottles** at Raeders that fit your taste filters and aren't in your cellar.
 
 Filter: producer in vault, not owned, and either (a) aged ≤2018 vintage OR (b) WK-flagged producer / grower champagne / biodynamic CSW-champion.
 
@@ -103,7 +103,6 @@ Filter: producer in vault, not owned, and either (a) aged ≤2018 vintage OR (b)
 | [[louis_roederer|Louis Roederer]] | Brut Champagne Cristal | 2008 | 750ml | — | — | aged(2008) |
 | [[dom_perignon|Dom Pérignon]] | Rose Lady Gaga Edition | 2008 | 750ml | $499.99 | — | aged(2008) |
 | [[domaine_de_chevalier|Domaine de Chevalier]] | Pessac-Léognan Rouge Grand Cru | 2009 | 750ml | $169.99 | — | aged(2009) |
-| [[hundred_acre|Hundred Acre]] | Fortunate Son | 2009 | 750ml | $299.99 | — | aged(2009) |
 | [[kosta_browne|Kosta Browne]] | Pinot Noir Koplen Vineyard | 2010 | 750ml | — | — | aged(2010) |
 | [[kosta_browne|Kosta Browne]] | Pinot Noir Sonoma Coast | 2011 | 750ml | — | — | aged(2011) |
 | [[lewis_cellars|Lewis Cellars]] | Cabernet Sauvignon Napa Valley | 2011 | 750ml | $99.99 | — | aged(2011) |
@@ -133,7 +132,8 @@ Filter: producer in vault, not owned, and either (a) aged ≤2018 vintage OR (b)
 | [[lucien_boillot|Lucien Boillot]] | Volnay 1er Cru Les Brouillards | 2017 | 750ml | $99.99 | — | aged(2017) |
 | [[lucien_boillot|Lucien Boillot]] | Gevrey Chambertin 1er Cru Les Corbeaux | 2017 | 750ml | $119.99 | — | aged(2017) |
 | [[louis_roederer|Louis Roederer]] | Brut Blanc de Blancs | 2017 | 750ml | $129.99 | — | aged(2017) |
+| [[lucien_boillot|Lucien Boillot]] | Nuits-St Georges 1er Cru Les Pruliers | 2017 | 750ml | $149.99 | — | aged(2017) |
 
-_… and 6 more matching bottles._
+_… and 5 more matching bottles._
 
 *Compiled by `scripts/build_views.py` from `raw/raeders/master_<date>.csv` × `wiki/producers/` × `cellar/`.*

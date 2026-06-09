@@ -146,5 +146,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Germany_Producers|Germany]]
-- [[Saar (Konz)]]
-- [[CSW Article Archive]]
+- Saar (Konz)
+- [[Chambers_Street_Wines|CSW article archive]]

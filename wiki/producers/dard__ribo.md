@@ -74,6 +74,6 @@ _Not yet populated._
 
 ## Cross-references
 
-- [[Rhône_Producers|Rhône]]
-- [[Crozes-Hermitage / Saint-Joseph]]
-- [[CSW Article Archive]]
+- [[Rhone_Producers|Rhône]]
+- Crozes-Hermitage / Saint-Joseph
+- [[Chambers_Street_Wines|CSW article archive]]

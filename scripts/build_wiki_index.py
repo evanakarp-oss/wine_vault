@@ -44,12 +44,13 @@ FRONTMATTER_RE = re.compile(r"^---\s*\n(.*?)\n---\s*\n?(.*)$", re.DOTALL)
 # 2026-05-08 ingest divergence; the depth-0 special-case in is_skipped()
 # keeps the canonical wiki/ folder itself walkable.
 SKIP_DIRS = {
-    ".obsidian", ".git", "_drive_sync", "_views", "build", "wiki",
+    ".obsidian", ".git", "_drive_sync", "build", "wiki",
 }
-SKIP_FILES = {"My Cellar.csv", "index.md", "log.md"}
+SKIP_FILES = {"My Cellar.csv", "index.md", "log.md", "HOME.md"}
 
 SECTION_ORDER = (
     "Schema & taxonomy",
+    "Views & analyses",
     "Region rollups",
     "Importers",
     "Retailers",
@@ -204,6 +205,10 @@ def summary_line(page: Page) -> str:
     if page.type_ == "retailer":
         bits = [b for b in (_as_str(fm.get("location")), _as_str(fm.get("url"))) if b]
         return " · ".join(bits) or first_paragraph(page.body)
+    if "/_views/" in page.rel:
+        updated = _as_str(fm.get("updated")) or str(fm.get("updated") or "")
+        desc = first_paragraph(page.body)
+        return f"updated {updated} · {desc}" if updated else desc
     if page.type_ == "cellar_entry":
         cuv = _as_str(fm.get("cuvee"))
         vin = _as_str(fm.get("vintage"))
@@ -219,6 +224,7 @@ def section_for(page: Page) -> str:
     type_to_section = {
         "producer": "Producers",
         "region_index": "Region rollups",
+        "country_index": "Region rollups",
         "importer": "Importers",
         "retailer": "Retailers",
         "schema": "Schema & taxonomy",
@@ -230,6 +236,8 @@ def section_for(page: Page) -> str:
     if sec:
         return sec
     # Heuristics for un-typed pages
+    if "/_views/" in page.rel:
+        return "Views & analyses"
     if page.path.name.startswith("_"):
         return "Schema & taxonomy"
     if "/events/" in page.rel:
@@ -258,6 +266,7 @@ def count_bottles(pages: Iterable[Page]) -> int:
 def render(wiki_pages: list[Page], cellar_pages: list[Page]) -> str:
     all_pages = wiki_pages + cellar_pages
     total = len(all_pages)
+    producer_slugs = {p.slug for p in wiki_pages if p.type_ == "producer"}
 
     grouped: dict[str, list[Page]] = {s: [] for s in SECTION_ORDER}
     for p in all_pages:
@@ -329,7 +338,8 @@ def render(wiki_pages: list[Page], cellar_pages: list[Page]) -> str:
                 preview = "; ".join(preview_bits)
                 if len(entries) > 3:
                     preview += f"; … +{len(entries) - 3} more"
-                link = f"[[{prod}|{display}]]" if prod != "_unknown" else display
+                # plain text when the producer has no wiki page (no broken links)
+                link = f"[[{prod}|{display}]]" if prod in producer_slugs else display
                 n = len(entries)
                 word = "entry" if n == 1 else "entries"
                 out.append(f"- {link} — {n} {word}: {preview}")

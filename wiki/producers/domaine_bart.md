@@ -65,10 +65,10 @@ _Not yet populated._
 
 Own **1 bottle(s)** across 1 cuvée-vintage(s):
 
-- 1 × Marsannay Es Chezots 2022 (750ml) @ $54 — drink 2026–2035
+- 1 × [[2022_domaine_bart_marsannay_es_chezots|Marsannay Es Chezots 2022]] (750ml) @ $54 — drink 2026–2035
 
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Marsannay / Fixin]]
-- [[CSW Article Archive]]
+- Marsannay / Fixin
+- [[Chambers_Street_Wines|CSW article archive]]

@@ -146,5 +146,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Jura_Producers|Jura]]
-- [[Arbois (retired 2014)]]
-- [[CSW Article Archive]]
+- Arbois (retired 2014)
+- [[Chambers_Street_Wines|CSW article archive]]

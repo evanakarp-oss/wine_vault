@@ -159,5 +159,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Pernand-Vergelesses]]
-- [[CSW Article Archive]]
+- Pernand-Vergelesses
+- [[Chambers_Street_Wines|CSW article archive]]

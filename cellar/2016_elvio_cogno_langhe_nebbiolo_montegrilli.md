@@ -22,7 +22,7 @@ opened: []
 
 # Elvio Cogno — Langhe Nebbiolo Montegrilli 2016
 
-- **Producer:** Elvio Cogno
+- **Producer:** [[elvio_cogno|Elvio Cogno]]
 - **Cuvée:** Langhe Nebbiolo Montegrilli
 - **Vintage:** 2016
 - **Format:** 750ml

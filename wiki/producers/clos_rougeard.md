@@ -216,5 +216,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Loire_Producers|Loire]]
-- [[Saumur-Champigny]]
-- [[CSW Article Archive]]
+- Saumur-Champigny
+- [[Chambers_Street_Wines|CSW article archive]]

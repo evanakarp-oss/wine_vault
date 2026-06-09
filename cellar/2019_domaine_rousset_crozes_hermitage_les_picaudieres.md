@@ -22,7 +22,7 @@ opened: []
 
 # Domaine Rousset — Crozes-Hermitage Les Picaudières 2019
 
-- **Producer:** Domaine Rousset
+- **Producer:** [[domaine_rousset|Domaine Rousset]]
 - **Cuvée:** Crozes-Hermitage Les Picaudières
 - **Vintage:** 2019
 - **Format:** 750ml

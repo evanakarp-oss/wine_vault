@@ -148,8 +148,14 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Cellar
+
+Own **1 bottle(s)** across 1 cuvée-vintage(s):
+
+- 1 × [[2023_jean_francois_ganevat_cuvee_madelon_nature|Cuvée Madelon Nature 2023]] (750ml) — drink 2025–2029
+
 ## Cross-references
 
 - [[Jura_Producers|Jura]]
-- [[Côtes du Jura]]
-- [[CSW Article Archive]]
+- Côtes du Jura
+- [[Chambers_Street_Wines|CSW article archive]]

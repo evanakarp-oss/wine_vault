@@ -147,5 +147,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Vosne-Romanée / Chambolle]]
-- [[CSW Article Archive]]
+- Vosne-Romanée / Chambolle
+- [[Chambers_Street_Wines|CSW article archive]]

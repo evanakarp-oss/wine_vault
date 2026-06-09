@@ -64,5 +64,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Italy_Producers|Italy]]
-- [[Sicily]]
-- [[CSW Article Archive]]
+- Sicily
+- [[Chambers_Street_Wines|CSW article archive]]

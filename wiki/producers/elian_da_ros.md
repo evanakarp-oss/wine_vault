@@ -73,5 +73,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Bordeaux_Producers|Bordeaux]]
-- [[Côtes-du-Marmandais (SW France)]]
-- [[CSW Article Archive]]
+- Côtes-du-Marmandais (SW France)
+- [[Chambers_Street_Wines|CSW article archive]]

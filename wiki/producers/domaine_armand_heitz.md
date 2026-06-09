@@ -94,5 +94,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Pommard / Meursault]]
-- [[CSW Article Archive]]
+- Pommard / Meursault
+- [[Chambers_Street_Wines|CSW article archive]]

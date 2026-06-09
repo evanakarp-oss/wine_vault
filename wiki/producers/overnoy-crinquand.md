@@ -152,5 +152,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Jura_Producers|Jura]]
-- [[Pupillin]]
-- [[CSW Article Archive]]
+- Pupillin
+- [[Chambers_Street_Wines|CSW article archive]]

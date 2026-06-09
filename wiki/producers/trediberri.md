@@ -73,5 +73,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Italy_Producers|Italy]]
-- [[Barolo (La Morra)]]
-- [[CSW Article Archive]]
+- Barolo (La Morra)
+- [[Chambers_Street_Wines|CSW article archive]]

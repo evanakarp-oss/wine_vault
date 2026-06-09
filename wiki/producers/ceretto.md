@@ -143,5 +143,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Italy_Producers|Italy]]
-- [[Barolo / Barbaresco]]
-- [[CSW Article Archive]]
+- Barolo / Barbaresco
+- [[Chambers_Street_Wines|CSW article archive]]

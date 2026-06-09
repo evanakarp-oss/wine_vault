@@ -54,8 +54,8 @@ _sources:
 ## Cross-references
 
 - [[France_Producers|France]]
-- [[Côtes de Provence]]
-- [[CSW Article Archive]]
+- Côtes de Provence
+- [[Chambers_Street_Wines|CSW article archive]]
 
 *★ = dedicated article (producer featured in title)*
 *Last updated from full archive sweep — April 2026*

@@ -95,10 +95,10 @@ _Not yet populated._
 
 Own **3 bottle(s)** across 1 cuvée-vintage(s):
 
-- 3 × MunJebel Bianco 2023 (750ml) @ $45.97 — drink 2025–2030
+- 3 × [[2023_frank_cornelissen_munjebel_bianco|MunJebel Bianco 2023]] (750ml) @ $45.97 — drink 2025–2030
 
 ## Cross-references
 
 - [[Italy_Producers|Italy]]
-- [[Sicily (Etna)]]
-- [[CSW Article Archive]]
+- Sicily (Etna)
+- [[Chambers_Street_Wines|CSW article archive]]

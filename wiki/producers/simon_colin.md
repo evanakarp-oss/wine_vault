@@ -78,5 +78,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Chassagne-Montrachet]]
-- [[CSW Article Archive]]
+- Chassagne-Montrachet
+- [[Chambers_Street_Wines|CSW article archive]]

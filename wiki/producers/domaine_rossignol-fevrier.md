@@ -54,5 +54,5 @@ _Not yet populated._
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Volnay]]
-- [[CSW Article Archive]]
+- Volnay
+- [[Chambers_Street_Wines|CSW article archive]]

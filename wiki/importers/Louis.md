@@ -5,10 +5,10 @@ slug: louis
 producer_count: 16
 focus: ['Burgundy', 'Jura', 'Rhône', 'Sicily']
 notable_producers: ['Eric Texier', 'Jacques Puffeney', 'Jean-François Ganevat', 'Benoit Courault', 'Domaine Simon Bize']
-updated: 2026-05-26
+updated: 2026-06-09
 tags: ['natural', 'organic']
-url: "https://louisdressner.com"
 _source: wiki/_resources.md
+url: "https://louisdressner.com"
 ---
 # Louis
 
@@ -19,7 +19,7 @@ _source: wiki/_resources.md
 |---|---|---|---:|---:|
 | [[eric_texier|Eric Texier]] | France | Rhône | 26 | — |
 | [[jacques_puffeney|Jacques Puffeney]] | France | Jura | 12 | — |
-| [[jean_francois_ganevat|Jean-François Ganevat]] | France | Jura | 12 | — |
+| [[jean_francois_ganevat|Jean-François Ganevat]] | France | Jura | 12 | 1 |
 | [[benoit_courault|Benoit Courault]] | France | Burgundy | 11 | — |
 | [[domaine_simon_bize|Domaine Simon Bize]] | France | Burgundy | 10 | — |
 | [[michel_gahier|Michel Gahier]] | France | Jura | 8 | — |
