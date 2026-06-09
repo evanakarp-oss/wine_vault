@@ -256,3 +256,16 @@ Filed `wiki/_views/raeders_burgundy_value_picks_2026_06.md`. Screened the 128 Bu
 ## [2026-06-06] view | Raeders Burgundy picks v2 — re-grounded in Kelley's verbatim WB comments
 
 Revised `wiki/_views/raeders_burgundy_value_picks_2026_06.md` to v2. Mined the William Kelley Berserkers corpus for direct quotes on the ~27 producers in the Raeders under-$400 Burgundy set; re-ranked strictly by what he actually wrote (personal buys > explicit value calls > general esteem), each pick cited to a post file. New #1 is Mugnier Clos de la Maréchale ("amazing that it isn't more expensive"). Demoted v1 picks with no WB evidence: Méo-Camuzet, Yann Durieux, Lucien Boillot, Edmond Cornu, Robert-Denogent. Noted J-C Bachelet / Paul Pillot as the names he'd want that Raeders doesn't stock under $400.
+
+## [2026-06-09] view | WK × DTE Burgundy portfolio eval
+
+Filed `wiki/_views/wk_dte_burgundy_2026_06.md`. Cross-referenced all 35 DTE
+(Down to Earth / Panzer) Burgundy producers against the William Kelley
+Berserkers corpus (4,727 posts). 22/35 appear; tiered by his verbatim
+enthusiasm. Loves: Lorenzon, Bouley, Arnoux-Lachaux (price-disqualified by
+his own zip-code logic). Strong/rising: Charles Audoin, Glantenay, Henri
+Magnien, Javillier, Berthaut. Only pan: Michel Noëllat. Top action item:
+Charles Audoin — WK's Marsannay benchmark, 19 DTE cuvées $45–65, zero
+bottles owned. Flagged: `loersch.md` mis-tagged Burgundy (is Mosel); four
+duplicate producer-page pairs (Bouley ×2, Cheurlin/G. Noëllat, Roty ×2,
+Berthaut ×2).
