@@ -13,10 +13,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 2
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2019
+    last_year: 2019
   dte:
     in_portfolio: false
   raeders:
@@ -58,3 +58,15 @@ James Suckling Top 100 Argentina 2025 / Argentina Reloaded Buenos Aires 2025
 
 - [[San_Juan_Producers|San Juan]]
 - [[Argentina_Producers|Argentina]]
+
+## CSW Write-ups
+
+### [Ancient Grapes, New Trends in South America](https://chambersstwines.com/blogs/articles/ancient-grapes-new-trends-in-south-america)
+*2019-05*
+
+> 5/12/19 - (Roberto Henriquez) Much of what we understand here in the Northern Hemisphere about the wines of South America comes from relatively recent developments in big agriculture. In Chile, which in the 20th century radically expanded its agricultural…
+
+### [Another Argentina - Part I](https://chambersstwines.com/blogs/articles/another-argentina-part-i)
+*undated*
+
+> There are several newsletters that I have been meaning to send over the past year. Moving up the street and rolling out the new website may have set back my plans, but I'm finally getting to it! Highlighting my favorite Verdejo producers was on the list,…

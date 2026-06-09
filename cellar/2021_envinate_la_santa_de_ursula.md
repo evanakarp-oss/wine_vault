@@ -22,7 +22,7 @@ opened: []
 
 # Envínate — La Santa de Ursula 2021
 
-- **Producer:** Envínate
+- **Producer:** [[envinate|Envínate]]
 - **Cuvée:** La Santa de Ursula
 - **Vintage:** 2021
 - **Format:** 750ml

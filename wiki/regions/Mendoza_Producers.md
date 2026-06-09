@@ -11,7 +11,8 @@ producer_count: 62
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
-| [[achaval_ferrer|Achaval Ferrer]] | Argentina | Luján de Cuyo / Paraje Altamira / Vistalba | — | — | — | — | — |
+| [[achaval_ferrer|Achaval Ferrer]] | Argentina | Luján de Cuyo / Paraje Altamira / Vistalba | 1 | — | — | — | — |
+| [[finca_suarez|Finca Suarez]] | Argentina | Paraje Altamira | 1 | — | — | — | — |
 | [[alpamanta|Alpamanta]] | Argentina | Ugarteche, Luján de Cuyo | — | — | — | — | — |
 | [[altar_uco|Altar Uco]] | Argentina | Valle de Uco | — | — | — | — | — |
 | [[altos_las_hormigas|Altos Las Hormigas]] | Argentina | Paraje Altamira / Luján de Cuyo / Gualtallary | — | — | — | — | — |
@@ -38,7 +39,6 @@ producer_count: 62
 | [[familia_cecchin|Familia Cecchin]] | Argentina | Maipú | — | — | — | — | — |
 | [[finca_ambrosia|Finca Ambrosia]] | Argentina | Gualtallary Albo sub-zone, Tupungato | — | — | — | — | — |
 | [[finca_dinamia|Finca Dinamia]] | Argentina | Valle de Uco | — | — | — | — | — |
-| [[finca_suarez|Finca Suarez]] | Argentina | Paraje Altamira | — | — | — | — | — |
 | [[felix_enrique_1931|Félix Enrique 1931]] | Argentina | Mendoza | — | — | — | — | — |
 | [[giuseppe_franceschini|Giuseppe Franceschini]] | Argentina | Mendoza | — | — | — | — | — |
 | [[las_compuertas_project_durigutti|Las Compuertas Project (Durigutti)]] | Argentina | Las Compuertas, Luján de Cuyo | — | — | — | — | — |

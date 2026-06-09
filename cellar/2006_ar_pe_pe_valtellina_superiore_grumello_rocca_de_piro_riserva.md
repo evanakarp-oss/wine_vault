@@ -22,7 +22,7 @@ opened: []
 
 # AR.PE.PE. — Valtellina Superiore - Grumello Rocca de Piro Riserva 2006
 
-- **Producer:** AR.PE.PE.
+- **Producer:** [[ar_pe_pe|AR.PE.PE.]]
 - **Cuvée:** Valtellina Superiore - Grumello Rocca de Piro Riserva
 - **Vintage:** 2006
 - **Format:** 1.5L

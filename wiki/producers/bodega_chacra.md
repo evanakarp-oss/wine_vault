@@ -13,7 +13,7 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 1
     dedicated_count: 0
     first_year: 0
     last_year: 0
@@ -59,3 +59,10 @@ bodegachacra.com / K&L Wines
 
 - [[Patagonia_Producers|Patagonia]]
 - [[Argentina_Producers|Argentina]]
+
+## CSW Write-ups
+
+### [Another Argentina - Part I](https://chambersstwines.com/blogs/articles/another-argentina-part-i)
+*undated*
+
+> There are several newsletters that I have been meaning to send over the past year. Moving up the street and rolling out the new website may have set back my plans, but I'm finally getting to it! Highlighting my favorite Verdejo producers was on the list,…

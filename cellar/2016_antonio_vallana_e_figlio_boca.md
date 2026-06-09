@@ -22,7 +22,7 @@ opened: []
 
 # Antonio Vallana e Figlio — Boca 2016
 
-- **Producer:** Antonio Vallana e Figlio
+- **Producer:** [[antonio_vallana_e_figlio|Antonio Vallana e Figlio]]
 - **Cuvée:** Boca
 - **Vintage:** 2016
 - **Format:** 750ml

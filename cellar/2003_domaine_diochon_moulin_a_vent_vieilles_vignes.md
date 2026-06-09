@@ -22,7 +22,7 @@ opened: []
 
 # Domaine Diochon — Moulin-à-Vent Vieilles Vignes 2003
 
-- **Producer:** Domaine Diochon
+- **Producer:** [[domaine_diochon|Domaine Diochon]]
 - **Cuvée:** Moulin-à-Vent Vieilles Vignes
 - **Vintage:** 2003
 - **Format:** 750ml

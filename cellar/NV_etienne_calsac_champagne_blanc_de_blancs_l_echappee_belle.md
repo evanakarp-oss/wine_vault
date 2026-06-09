@@ -22,7 +22,7 @@ opened: []
 
 # Étienne Calsac — Champagne Blanc de Blancs L'échappée Belle NV
 
-- **Producer:** Étienne Calsac
+- **Producer:** [[etienne_calsac|Étienne Calsac]]
 - **Cuvée:** Champagne Blanc de Blancs L'échappée Belle
 - **Vintage:** NV
 - **Format:** 750ml

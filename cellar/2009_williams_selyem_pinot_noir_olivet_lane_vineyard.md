@@ -22,7 +22,7 @@ opened: []
 
 # Williams Selyem — Pinot Noir Olivet Lane Vineyard 2009
 
-- **Producer:** Williams Selyem
+- **Producer:** [[williams_selyem|Williams Selyem]]
 - **Cuvée:** Pinot Noir Olivet Lane Vineyard
 - **Vintage:** 2009
 - **Format:** 750ml

@@ -22,7 +22,7 @@ opened: []
 
 # Ceritas — Pinot Noir Cuvée Annabelle 2021
 
-- **Producer:** Ceritas
+- **Producer:** [[ceritas|Ceritas]]
 - **Cuvée:** Pinot Noir Cuvée Annabelle
 - **Vintage:** 2021
 - **Format:** 750ml

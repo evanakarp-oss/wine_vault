@@ -19,8 +19,11 @@ navigation cluster; the rest are ranked follow-ups below.
   wiki page; **zero** of 294 cellar files contained a wikilink. 13 of
   those were slug mismatches (CellarTracker names slugify differently
   than wiki slugs, e.g. `anne_et_jean_francois_ganevat` vs
-  `jean_francois_ganevat`); 160 are genuinely missing pages — including
-  **Dunn and Corison**, the Napa reference set in CLAUDE.md's taste filter.
+  `jean_francois_ganevat`); 160 were genuinely missing pages.
+  *(Erratum 2026-06-09: an earlier draft claimed Dunn and Corison were
+  among them — they were never in the cellar. They were missing from the
+  wiki entirely; both got reference pages in the triage pass, populated
+  from existing CSW coverage in `raw/`.)*
 - **764 broken wikilink occurrences** across 325 targets. Systematic
   causes: `[[CSW Article Archive]]` never existed (137×), country-level
   rollups never existed (`Argentina_Producers` 79×, `Italy_Producers` 21×,
@@ -74,10 +77,11 @@ navigation cluster; the rest are ranked follow-ups below.
 
 ## Ranked follow-ups
 
-1. **Cellar producer triage (160 missing pages)** — run Evan's taste
-   filter over `build/cellar_ingest_report.md`'s missing list. Create
-   pages for keepers (Dunn, Corison first), record "no page needed" for
-   generic-tier (the Catena decision, generalized).
+1. **Cellar producer triage** — ✅ done 2026-06-09: 58 pages created
+   (56 cellar keepers + Dunn/Corison reference pages), 50 no-page
+   decisions, 54 parked for revisit. Decision record:
+   [[cellar_triage_2026_06|cellar triage view]]. Remaining: review the
+   revisit bucket with Evan.
 2. **Freshness metadata** — `updated:` on producer pages (scripts
    already touch them), `as_of:` dates on retailer price blocks. For
    purchase dates, CellarTracker's *purchase* export (not the list

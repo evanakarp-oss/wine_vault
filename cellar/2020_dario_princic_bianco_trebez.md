@@ -22,7 +22,7 @@ opened: []
 
 # Dario Princic — Bianco Trebez 2020
 
-- **Producer:** Dario Princic
+- **Producer:** [[dario_princic|Dario Princic]]
 - **Cuvée:** Bianco Trebez
 - **Vintage:** 2020
 - **Format:** 750ml

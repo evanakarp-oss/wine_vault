@@ -22,7 +22,7 @@ opened: []
 
 # Le Due Terre — Friuli Colli Orientali Sacrisassi Rosso 2020
 
-- **Producer:** Le Due Terre
+- **Producer:** [[le_due_terre|Le Due Terre]]
 - **Cuvée:** Friuli Colli Orientali Sacrisassi Rosso
 - **Vintage:** 2020
 - **Format:** 750ml

@@ -22,7 +22,7 @@ opened: []
 
 # Château Clerc Milon — Château Clerc Milon 2005
 
-- **Producer:** Château Clerc Milon
+- **Producer:** [[chateau_clerc_milon|Château Clerc Milon]]
 - **Cuvée:** Château Clerc Milon
 - **Vintage:** 2005
 - **Format:** 750ml

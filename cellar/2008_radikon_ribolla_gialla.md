@@ -22,7 +22,7 @@ opened: []
 
 # Radikon — Ribolla Gialla 2008
 
-- **Producer:** Radikon
+- **Producer:** [[radikon|Radikon]]
 - **Cuvée:** Ribolla Gialla
 - **Vintage:** 2008
 - **Format:** 1.0L

@@ -22,7 +22,7 @@ opened: []
 
 # Ceritas — Pinot Noir Occidental Vineyard 2021
 
-- **Producer:** Ceritas
+- **Producer:** [[ceritas|Ceritas]]
 - **Cuvée:** Pinot Noir Occidental Vineyard
 - **Vintage:** 2021
 - **Format:** 750ml

@@ -22,7 +22,7 @@ opened: []
 
 # Maison Pierre Brisset — Bourgogne Blanc Cuvée Cassaneas 2023
 
-- **Producer:** Maison Pierre Brisset
+- **Producer:** [[maison_pierre_brisset|Maison Pierre Brisset]]
 - **Cuvée:** Bourgogne Blanc Cuvée Cassaneas
 - **Vintage:** 2023
 - **Format:** 750ml

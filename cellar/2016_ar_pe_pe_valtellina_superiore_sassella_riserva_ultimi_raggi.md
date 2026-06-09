@@ -22,7 +22,7 @@ opened: []
 
 # AR.PE.PE. — Valtellina Superiore - Sassella Riserva Ultimi Raggi 2016
 
-- **Producer:** AR.PE.PE.
+- **Producer:** [[ar_pe_pe|AR.PE.PE.]]
 - **Cuvée:** Valtellina Superiore - Sassella Riserva Ultimi Raggi
 - **Vintage:** 2016
 - **Format:** 750ml

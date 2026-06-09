@@ -22,7 +22,7 @@ opened: []
 
 # Renaissance — Cabernet Sauvignon Vin de Terroir 2006
 
-- **Producer:** Renaissance
+- **Producer:** [[renaissance|Renaissance]]
 - **Cuvée:** Cabernet Sauvignon Vin de Terroir
 - **Vintage:** 2006
 - **Format:** 750ml

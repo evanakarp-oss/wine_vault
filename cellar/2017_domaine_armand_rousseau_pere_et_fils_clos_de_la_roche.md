@@ -22,7 +22,7 @@ opened: []
 
 # Domaine Armand Rousseau Père et Fils — Clos de la Roche 2017
 
-- **Producer:** Domaine Armand Rousseau Père et Fils
+- **Producer:** [[domaine_armand_rousseau_pere_et_fils|Domaine Armand Rousseau Père et Fils]]
 - **Cuvée:** Clos de la Roche
 - **Vintage:** 2017
 - **Format:** 750ml

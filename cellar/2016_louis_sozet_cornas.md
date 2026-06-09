@@ -22,7 +22,7 @@ opened: []
 
 # Louis Sozet — Cornas 2016
 
-- **Producer:** Louis Sozet
+- **Producer:** [[louis_sozet|Louis Sozet]]
 - **Cuvée:** Cornas
 - **Vintage:** 2016
 - **Format:** 750ml

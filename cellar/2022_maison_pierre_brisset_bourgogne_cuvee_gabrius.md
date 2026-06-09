@@ -22,7 +22,7 @@ opened: []
 
 # Maison Pierre Brisset — Bourgogne Cuvée Gabrius 2022
 
-- **Producer:** Maison Pierre Brisset
+- **Producer:** [[maison_pierre_brisset|Maison Pierre Brisset]]
 - **Cuvée:** Bourgogne Cuvée Gabrius
 - **Vintage:** 2022
 - **Format:** 750ml

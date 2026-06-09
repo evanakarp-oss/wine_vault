@@ -22,7 +22,7 @@ opened: []
 
 # Tenuta San Guido — Sassicaia 2015
 
-- **Producer:** Tenuta San Guido
+- **Producer:** [[tenuta_san_guido|Tenuta San Guido]]
 - **Cuvée:** Sassicaia
 - **Vintage:** 2015
 - **Format:** 750ml

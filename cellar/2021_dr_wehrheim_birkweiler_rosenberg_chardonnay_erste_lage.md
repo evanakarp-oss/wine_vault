@@ -22,7 +22,7 @@ opened: []
 
 # Dr. Wehrheim — Birkweiler Rosenberg Chardonnay Erste Lage 2021
 
-- **Producer:** Dr. Wehrheim
+- **Producer:** [[dr_wehrheim|Dr. Wehrheim]]
 - **Cuvée:** Birkweiler Rosenberg Chardonnay Erste Lage
 - **Vintage:** 2021
 - **Format:** 750ml

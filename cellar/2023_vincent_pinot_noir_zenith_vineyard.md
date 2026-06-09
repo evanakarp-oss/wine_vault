@@ -22,7 +22,7 @@ opened: []
 
 # Vincent — Pinot Noir Zenith Vineyard 2023
 
-- **Producer:** Vincent
+- **Producer:** [[vincent|Vincent]]
 - **Cuvée:** Pinot Noir Zenith Vineyard
 - **Vintage:** 2023
 - **Format:** 750ml

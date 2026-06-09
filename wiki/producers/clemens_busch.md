@@ -45,15 +45,15 @@ _sources:
 
 ## CSW Write-ups
 
-### [Turkey Day Riesling!](https://chambersstwines.com/blogs/articles/turkey-day-riesling)
-*2025-11*
-
-> 11/19/25 - A compilation of Rieslings I have tasted recently and LOVED, just in time to make it to your Thanksgiving tables! Nothing goes quite so well with a Thanksgiving meal as Riesling. Traditional meal or not, for many, Thanksgiving is a day-long…
-
 ### [Ulli Stein - An unforgettable man from an unforgettable place](https://chambersstwines.com/blogs/articles/ulli-stein-an-unforgettable-man-from-an-unforgettable-place)
 *2025-11*
 
 > 11/7/25 - Ulli Stein, in my opinion, is hands downs one of the most important figures in the Mosel wine region. I write this in consideration not of its past, but its future. There are big names that I remember from the early 2000s when Chambers Street Wines…
+
+### [Turkey Day Riesling!](https://chambersstwines.com/blogs/articles/turkey-day-riesling)
+*2025-11*
+
+> 11/19/25 - A compilation of Rieslings I have tasted recently and LOVED, just in time to make it to your Thanksgiving tables! Nothing goes quite so well with a Thanksgiving meal as Riesling. Traditional meal or not, for many, Thanksgiving is a day-long…
 
 ### [Mosel Masters: Busch, Vollenweider, Haart, Willi Schaefer, and Stein](https://chambersstwines.com/blogs/articles/mosel-masters-busch-vollenweider-haart-willi-schaefer-and-stein)
 *2024-11*

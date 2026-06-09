@@ -22,7 +22,7 @@ opened: []
 
 # San Leonardo — San Leonardo 1999
 
-- **Producer:** San Leonardo
+- **Producer:** [[san_leonardo|San Leonardo]]
 - **Cuvée:** San Leonardo
 - **Vintage:** 1999
 - **Format:** 750ml

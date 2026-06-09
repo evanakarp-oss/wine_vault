@@ -22,7 +22,7 @@ opened: []
 
 # Domaine Bruno Clair — Marsannay Les Vaudenelles 2020
 
-- **Producer:** Domaine Bruno Clair
+- **Producer:** [[domaine_bruno_clair|Domaine Bruno Clair]]
 - **Cuvée:** Marsannay Les Vaudenelles
 - **Vintage:** 2020
 - **Format:** 750ml

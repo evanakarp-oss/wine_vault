@@ -22,7 +22,7 @@ opened: []
 
 # Achim Dürr — Pinot Noir Tom 2022
 
-- **Producer:** Achim Dürr
+- **Producer:** [[achim_durr|Achim Dürr]]
 - **Cuvée:** Pinot Noir Tom
 - **Vintage:** 2022
 - **Format:** 750ml

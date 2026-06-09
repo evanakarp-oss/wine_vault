@@ -22,7 +22,7 @@ opened: []
 
 # Domaine Philippe Tessier — Cour-Cheverny 2023
 
-- **Producer:** Domaine Philippe Tessier
+- **Producer:** [[domaine_philippe_tessier|Domaine Philippe Tessier]]
 - **Cuvée:** Cour-Cheverny
 - **Vintage:** 2023
 - **Format:** 750ml

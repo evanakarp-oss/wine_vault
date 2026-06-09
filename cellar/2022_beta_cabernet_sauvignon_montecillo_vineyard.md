@@ -22,7 +22,7 @@ opened: []
 
 # Beta — Cabernet Sauvignon Montecillo Vineyard 2022
 
-- **Producer:** Beta
+- **Producer:** [[beta|Beta]]
 - **Cuvée:** Cabernet Sauvignon Montecillo Vineyard
 - **Vintage:** 2022
 - **Format:** 750ml

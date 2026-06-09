@@ -22,7 +22,7 @@ opened: []
 
 # AR.PE.PE. — Valtellina Superiore - Sassella Riserva Rocce Rosse 2016
 
-- **Producer:** AR.PE.PE.
+- **Producer:** [[ar_pe_pe|AR.PE.PE.]]
 - **Cuvée:** Valtellina Superiore - Sassella Riserva Rocce Rosse
 - **Vintage:** 2016
 - **Format:** 750ml

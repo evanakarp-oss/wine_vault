@@ -22,7 +22,7 @@ opened: []
 
 # Renaissance — Cabernet Sauvignon 2000
 
-- **Producer:** Renaissance
+- **Producer:** [[renaissance|Renaissance]]
 - **Cuvée:** Cabernet Sauvignon
 - **Vintage:** 2000
 - **Format:** 750ml

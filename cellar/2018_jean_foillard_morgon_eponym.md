@@ -22,7 +22,7 @@ opened: []
 
 # Jean Foillard — Morgon Eponym' 2018
 
-- **Producer:** Jean Foillard
+- **Producer:** [[jean_foillard|Jean Foillard]]
 - **Cuvée:** Morgon Eponym'
 - **Vintage:** 2018
 - **Format:** 750ml

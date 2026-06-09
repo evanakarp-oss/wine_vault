@@ -16,11 +16,11 @@ importer_us:
 - Louis
 retailers:
   chambers:
-    championed: false
-    article_count: 0
-    dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    championed: true
+    article_count: 21
+    dedicated_count: 9
+    first_year: 2011
+    last_year: 2025
     aging_score: 3
     cellar_pick: true
   dte:
@@ -126,30 +126,30 @@ _sources:
 
 > *﻿5/31/11 -* We are very happy to have received our first shipment of wines from the talented and energetic Julien Guillot at the Domaine des Vignes du Maynes. The vineyards of this superb estate belonged to the Abbey of Cluny and date back to at least 900…
 
-### [Auvergne Legends: Jean Maupertuis and Marie et Vincent Tricot](https://chambersstwines.com/blogs/articles/auvergne-legends-jean-maupertuis-and-marie-et-vincent-tricot)
-*undated*
-
-> Over the years, the natural wine world has been developing a thirst for wines from the Auvergne, a rural region nestled in the center of France, with Clermont-Ferrand as its major city. The area is known to most French people as a great region for camping,…
-
 ### ★ [Clos du Vignes du Maynes: New Arrivals Featuring 2011 Cuvée 910!](https://chambersstwines.com/blogs/articles/clos-du-vignes-du-maynes-new-arrivals-featuring-2011-cuvee-910)
 *undated*
 
 > ﻿7/18/12 - ​ Chambers Street Wines is proud to represent this great estate, whose vineyards have been in production since their original plantation by the monks of Cluny in 910 AD. The estate's vines have never been treated with modern herbicides, pesticides…
 
-### ★ [Natural Wines from Julien Guillot at the Clos des Vignes du Maynes, 2018 - 2021!](https://chambersstwines.com/blogs/articles/natural-wines-from-julien-guillot-at-the-clos-des-vignes-du-maynes-2018-2021)
+### [Auvergne Legends: Jean Maupertuis and Marie et Vincent Tricot](https://chambersstwines.com/blogs/articles/auvergne-legends-jean-maupertuis-and-marie-et-vincent-tricot)
 *undated*
 
-> [Dégusté à la veugle or Sors ton Anecdote!] **With vineyards dating back to 910 AD that have been farmed organically since the 1950s, and three generations of experience vinifying without additives, Julien Guillot is producing some of the most unique and…
+> Over the years, the natural wine world has been developing a thirst for wines from the Auvergne, a rural region nestled in the center of France, with Clermont-Ferrand as its major city. The area is known to most French people as a great region for camping,…
+
+### [Pure Juice: Our Favorite French Wines With No Added Sulfur!](https://chambersstwines.com/blogs/articles/pure-juice-our-favorite-french-wines-with-no-added-sulfur)
+*undated*
+
+> Pierre Overnoy was asked what defines a "natural" wine: "For us, a natural wine, it's a wine that one wants to drink and drink again! For some, it's a wine with nothing added...but to work without sulfur it's not 'the little birds that sing, and then you go…
 
 ### ★ [New Arrivals from Julien Guillot at the Clos des Vignes du Maynes!](https://chambersstwines.com/blogs/articles/new-arrivals-from-julien-guillot-at-the-clos-des-vignes-du-maynes)
 *undated*
 
 > **** **Our first shipment of 2024 from Julien Guillot at the Clos des Vignes du Maynes has just arrived,** f **eaturing tiny quantities of the outstanding 2022** **"Cuvée Auguste" and "Manganite."** New this year! **The 2020 Macon-Villages "Maxcération** " -…
 
-### [Pure Juice: Our Favorite French Wines With No Added Sulfur!](https://chambersstwines.com/blogs/articles/pure-juice-our-favorite-french-wines-with-no-added-sulfur)
+### ★ [Natural Wines from Julien Guillot at the Clos des Vignes du Maynes, 2018 - 2021!](https://chambersstwines.com/blogs/articles/natural-wines-from-julien-guillot-at-the-clos-des-vignes-du-maynes-2018-2021)
 *undated*
 
-> Pierre Overnoy was asked what defines a "natural" wine: "For us, a natural wine, it's a wine that one wants to drink and drink again! For some, it's a wine with nothing added...but to work without sulfur it's not 'the little birds that sing, and then you go…
+> [Dégusté à la veugle or Sors ton Anecdote!] **With vineyards dating back to 910 AD that have been farmed organically since the 1950s, and three generations of experience vinifying without additives, Julien Guillot is producing some of the most unique and…
 
 ## CSW Cellar Note
 

@@ -22,7 +22,7 @@ opened: []
 
 # Le Due Terre — Friuli Colli Orientali Sacrisassi Bianco 2019
 
-- **Producer:** Le Due Terre
+- **Producer:** [[le_due_terre|Le Due Terre]]
 - **Cuvée:** Friuli Colli Orientali Sacrisassi Bianco
 - **Vintage:** 2019
 - **Format:** 750ml

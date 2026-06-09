@@ -2,12 +2,12 @@
 type: region_index
 region: "Rhône"
 updated: 2026-06-09
-producer_count: 32
+producer_count: 36
 ---
 
 # Rhône — Producer Index
 
-**32 producers** tracked.
+**36 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -15,6 +15,7 @@ producer_count: 32
 | [[domaine_pierre_gonon|Domaine Pierre Gonon]] | France | Saint-Joseph | 17 | — | — | — | — |
 | [[domaine_rousset|Domaine Rousset]] | France | Crozes-Hermitage / Saint-Joseph | 11 | — | — | — | 6 btl |
 | [[domaine_pierre_andre|Domaine Pierre André]] | France | Gigondas / Châteauneuf | 12 | — | — | — | — |
+| [[mickael_bourg|Mickaël Bourg]] | France | Cornas | — | — | — | — | 12 btl |
 | [[clos_du_joncuas|Clos du Joncuas]] | France | Gigondas | 10 | — | — | — | — |
 | [[allemand|Allemand]] | France | Cornas | 9 | — | — | — | — |
 | [[domaine_charvin|Domaine Charvin]] | France | Châteauneuf-du-Pape | 7 | — | — | — | — |
@@ -26,17 +27,20 @@ producer_count: 32
 | [[domaine_levet|Domaine Levet]] | France | Côte-Rôtie | 6 | — | — | — | — |
 | [[langlore|L'Anglore]] | France | Tavel / Lirac | 6 | — | — | — | — |
 | [[domaine_garon|Domaine Garon]] | France | Côte-Rôtie | 2 | — | — | — | 3 btl |
+| [[dumien-serrette|Dumien-Serrette]] | France | Cornas | 5 | — | — | — | — |
 | [[franck_balthazar|Franck Balthazar]] | France | Cornas | 5 | — | — | — | — |
-| [[dumien-serrette|Dumien-Serrette]] | France | Cornas | 4 | — | — | — | — |
+| [[remy_nodin|Rémy Nodin]] | France | Saint-Péray / Cornas | — | — | — | — | 5 btl |
 | [[ferme_saint-martin|Ferme Saint-Martin]] | France | Beaumes-de-Venise / Ventoux | 4 | — | — | — | — |
 | [[dard__ribo|Dard & Ribo]] | France | Crozes-Hermitage / Saint-Joseph | 3 | — | — | — | — |
+| [[domaine_du_tunnel_stephane_robert|Domaine du Tunnel (Stéphane Robert)]] | France | Saint-Péray / Cornas | — | — | — | — | 3 btl |
+| [[louis_sozet|Louis Sozet]] | France | Cornas | — | — | — | — | 3 btl |
 | [[chapelle_st_theodoric|Chapelle St. Theodoric]] | France | Châteauneuf-du-Pape | 2 | — | — | — | — |
 | [[domaine_gripa|Domaine Gripa]] | France | Saint-Joseph / Saint-Péray | 2 | — | — | — | — |
 | [[vincent_paris|Vincent Paris]] | France | '' | 2 | 1 | — | 1 | — |
 | [[billon|Billon]] | France | '' | — | 4 | — | — | 1 btl |
 | [[clos_du_mont_olivet|Clos du Mont Olivet]] | France | '' | 1 | 1 | — | — | — |
+| [[clusel_roch|Clusel Roch]] | France | '' | 1 | 3 | 1 | — | — |
 | [[clos_saouma|Clos Saouma]] | France | — | — | 1 | — | — | — |
-| [[clusel_roch|Clusel Roch]] | France | '' | — | 3 | 1 | — | — |
 | [[domaine_de_beaurenard|Domaine de Beaurenard]] | France | Châteauneuf-du-Pape | — | — | 11 | — | — |
 | [[eric_et_joel_durand|Eric et Joel Durand]] | France | — | — | 1 | — | — | — |
 | [[georges_vernay|Georges Vernay]] | France | — | — | 1 | 1 | — | — |

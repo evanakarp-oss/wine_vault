@@ -22,7 +22,7 @@ opened: []
 
 # Olek Bondonio — Barbaresco Starderi 2022
 
-- **Producer:** Olek Bondonio
+- **Producer:** [[olek_bondonio|Olek Bondonio]]
 - **Cuvée:** Barbaresco Starderi
 - **Vintage:** 2022
 - **Format:** 750ml

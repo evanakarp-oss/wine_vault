@@ -22,7 +22,7 @@ opened: []
 
 # Olek Bondonio — Barbaresco Roncagliette 2021
 
-- **Producer:** Olek Bondonio
+- **Producer:** [[olek_bondonio|Olek Bondonio]]
 - **Cuvée:** Barbaresco Roncagliette
 - **Vintage:** 2021
 - **Format:** 750ml

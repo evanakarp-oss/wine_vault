@@ -22,7 +22,7 @@ opened: []
 
 # Ceritas — Chardonnay Porter-Bass Vineyard 2013
 
-- **Producer:** Ceritas
+- **Producer:** [[ceritas|Ceritas]]
 - **Cuvée:** Chardonnay Porter-Bass Vineyard
 - **Vintage:** 2013
 - **Format:** 750ml

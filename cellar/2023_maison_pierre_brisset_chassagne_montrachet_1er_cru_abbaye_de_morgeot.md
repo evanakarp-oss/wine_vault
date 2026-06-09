@@ -22,7 +22,7 @@ opened: []
 
 # Maison Pierre Brisset — Chassagne-Montrachet 1er Cru Abbaye de Morgeot 2023
 
-- **Producer:** Maison Pierre Brisset
+- **Producer:** [[maison_pierre_brisset|Maison Pierre Brisset]]
 - **Cuvée:** Chassagne-Montrachet 1er Cru Abbaye de Morgeot
 - **Vintage:** 2023
 - **Format:** 750ml

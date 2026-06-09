@@ -22,7 +22,7 @@ opened: []
 
 # Château de la Maltroye — Chassagne-Montrachet 1er Cru Clos St. Jean Rouge 2013
 
-- **Producer:** Château de la Maltroye
+- **Producer:** [[chateau_de_la_maltroye|Château de la Maltroye]]
 - **Cuvée:** Chassagne-Montrachet 1er Cru Clos St. Jean Rouge
 - **Vintage:** 2013
 - **Format:** 750ml

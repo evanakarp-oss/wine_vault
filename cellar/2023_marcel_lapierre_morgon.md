@@ -22,7 +22,7 @@ opened: []
 
 # Marcel Lapierre — Morgon 2023
 
-- **Producer:** Marcel Lapierre
+- **Producer:** [[marcel_lapierre|Marcel Lapierre]]
 - **Cuvée:** Morgon
 - **Vintage:** 2023
 - **Format:** 750ml

@@ -57,16 +57,6 @@ _sources:
 
 > 5/3/25 - I first visited Alice and Olivier De Moor back in 2005, in their tiny cellar in Courgis, tasting the 2004s from barrel and bottled wines going back to the 1999 Rosette. It was an extraordinary experience - organic farming was almost unknown in…
 
-### [New to Chambers Street Wines - A New Generation of Winemakers in Burgundy: Bastian Wolber of Laisse Tomber and Loïc Lamy of Saisons](https://chambersstwines.com/blogs/articles/new-to-chambers-street-wines-a-new-generation-of-winemakers-in-burgundy-bastian-wolber-of-laisse-tomber-and-loic-lamy-of-saisons)
-*2025-02*
-
-> 2/10/2025 In the most simple manner **Bastian Wolber** can be described as everything great happening with new wave Burgundy. But his story is definitely not simple, and nowhere near traditional when it comes to vignerons in Burgundy. Bastian was born in…
-
-### [New Arrivals/Returning Favorites - 2025 #1: France](https://chambersstwines.com/blogs/articles/new-arrivals-returning-favorites-2025-1-france)
-*2025-01*
-
-> 1/25/2025 **An abundance, a surfeit, a profusion, a plethora of delicious wines from France** have just hit the warehouse, all from organic or biodynamic farming, both new arrivals and returning favorites! **Let's start off with some of the very best…
-
 ### [A Small Offering of Auvergne Wines from Marie & Vincent Tricot!](https://chambersstwines.com/blogs/articles/a-small-offering-of-auvergne-wines-from-marie-vincent-tricot)
 *2024-08*
 
@@ -77,11 +67,6 @@ _sources:
 
 > 4/1/24 - Over the years, the natural wine world has been developing a thirst for wines from the Auvergne, a rural region nestled in the center of France, with Clermont-Ferrand as its major city. The area is known to most French people as a great region for…
 
-### [New releases from Les Donneurs de Temps!](https://chambersstwines.com/blogs/articles/new-releases-from-les-donneurs-de-temps)
-*2023-09*
-
-> 9/19/23 - The Jura is a region full of unique characters, from Jean-Francois 'Fanfan' Ganevat, to country bumpkins and organic pioneers Gerard and Christine Villet, cult producer Alice Bouvot, the magnanimous Evelyne and Pascal Clairet from Domaine de la…
-
 ### [Belluard Eponyme](https://chambersstwines.com/blogs/articles/belluard-eponyme)
 *2023-02*
 
@@ -91,11 +76,6 @@ _sources:
 *2015-10*
 
 > *﻿10/25/15 -* *(Jean-Francois Ganevat (Photo: Bert Celce, 2010))* Perhaps there are no CSW customers unfamiliar with Domaine Jean-François Ganevat, but just in case, we offer a brief description. Located in the hamlet of La Combe, Rotalier, southwest of…
-
-### [A Magician in the Duero: Alfredo Maestro Tejero](https://chambersstwines.com/blogs/articles/a-magician-in-the-duero-alfredo-maestro-tejero)
-*2011-10*
-
-> *﻿10/19/11 -* *(Alfredo working the vines with Penafiel castle looming)* We recently tasted wines from a newly discovered vigneron working naturally in the Duero. Our friend, importer Jose Pastor shared some information about this grower that was intriguing…
 
 ### [Another Jura email, you say? New Wines from Puffeney and Gahier…](https://chambersstwines.com/blogs/articles/another-jura-email-you-say-new-wines-from-puffeney-and-gahier)
 *2011-03*
@@ -112,6 +92,11 @@ _sources:
 
 > {cke_protected}{C}%3C!%2D%2D%5Bendif%5D%E2%80%94%2D%2D%3E {cke_protected}{C}%3C!%2D%2D%E2%80%94%5Bif%20gte%20mso%209%5D%2D%2D%3E {cke_protected}{C}%3C!%2D%2D%5Bendif%5D%E2%80%94%2D%2D%3E {cke_protected}{C}%3C!%2D%2D%E2%80%94%5Bif%20!mso%5D%2D%2D%3E…
 
+### ★ [Jura Star! - Jean-Francois Ganevat](https://chambersstwines.com/blogs/articles/jura-star-jean-francois-ganevat)
+*undated*
+
+> We love the wines of Jean-Francois Ganevat more and more with each vintage. His wines prove him to be, without a doubt, one of the most exciting growers of the region. The latest batch is no exception; these are, quite possibly, some of the best wines from…
+
 ### [Auvergne Legends: Jean Maupertuis and Marie et Vincent Tricot](https://chambersstwines.com/blogs/articles/auvergne-legends-jean-maupertuis-and-marie-et-vincent-tricot)
 *undated*
 
@@ -121,16 +106,6 @@ _sources:
 *undated*
 
 > [Geraud Fromont in a parcel of young Trousseau vines. Photo: Guilhaume Gerard] The Sud Revermont area of the Jura has become a small hub for terroir-driven, natural wines that more than titillate the palate. Beginning with the renowned Jean-Francois Ganevat,…
-
-### [Dominique Belluard's 'Monsieur Gringet'](https://chambersstwines.com/blogs/articles/dominique-belluards-monsieur-gringet)
-*undated*
-
-> [Illustration by Michel Tolmer] Earlier this year, we wrote an article about the untimely passing of Dominique Belluard in June of 2021. A reflection on the context of this tragedy, it was a rather somber piece of writing, but today our tone will be…
-
-### ★ [Jura Star! - Jean-Francois Ganevat](https://chambersstwines.com/blogs/articles/jura-star-jean-francois-ganevat)
-*undated*
-
-> We love the wines of Jean-Francois Ganevat more and more with each vintage. His wines prove him to be, without a doubt, one of the most exciting growers of the region. The latest batch is no exception; these are, quite possibly, some of the best wines from…
 
 ## CSW Cellar Note
 

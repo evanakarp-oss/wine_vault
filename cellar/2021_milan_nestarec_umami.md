@@ -22,7 +22,7 @@ opened: []
 
 # Milan Nestarec — Umami 2021
 
-- **Producer:** Milan Nestarec
+- **Producer:** [[milan_nestarec|Milan Nestarec]]
 - **Cuvée:** Umami
 - **Vintage:** 2021
 - **Format:** 750ml

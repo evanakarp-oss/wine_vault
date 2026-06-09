@@ -22,7 +22,7 @@ opened: []
 
 # AR.PE.PE. — Valtellina Superiore - Sassella Stella Retica 2017
 
-- **Producer:** AR.PE.PE.
+- **Producer:** [[ar_pe_pe|AR.PE.PE.]]
 - **Cuvée:** Valtellina Superiore - Sassella Stella Retica
 - **Vintage:** 2017
 - **Format:** 750ml

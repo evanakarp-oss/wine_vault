@@ -2,55 +2,66 @@
 type: region_index
 region: "Burgundy"
 updated: 2026-06-09
-producer_count: 85
+producer_count: 93
 ---
 
 # Burgundy — Producer Index
 
-**85 producers** tracked.
+**93 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
 | [[goisot|Goisot]] | France | — | 1 | 7 | — | — | 31 btl |
 | [[barraud|Barraud]] | France | '' | — | 5 | — | — | 25 btl |
+| [[julien_guillot__vignes_du_maynes|Julien Guillot / Vignes du Maynes]] | France | Mâcon / Cruzille | 21 | — | — | — | — |
+| [[maison_pierre_brisset|Maison Pierre Brisset]] | France | Beaune | — | — | — | — | 16 btl |
+| [[gilles__jean__maxime_lafouge|Gilles / Jean / Maxime Lafouge]] | France | Auxey-Duresses | 13 | — | — | — | — |
 | [[jean-claude_rateau|Jean-Claude Rateau]] | France | Beaune | 13 | — | — | — | — |
 | [[benoit_courault|Benoit Courault]] | France | Anjou (Loire) | 11 | — | — | — | — |
 | [[domaine_de_montille|Domaine de Montille]] | France | Volnay / Pommard | 11 | — | — | — | — |
+| [[domaine_armand_rousseau_pere_et_fils|Domaine Armand Rousseau]] | France | Gevrey-Chambertin | 9 | — | — | — | 1 btl |
 | [[domaine_simon_bize|Domaine Simon Bize]] | France | Savigny-lès-Beaune | 10 | — | — | — | — |
+| [[jacques_frederic_mugnier|Jacques-Frédéric Mugnier]] | France | Chambolle-Musigny | 5 | — | — | — | 4 btl |
 | [[sylvie_esmonin|Sylvie Esmonin]] | France | Gevrey-Chambertin | 8 | — | — | — | — |
 | [[chandon_de_briailles|Chandon de Briailles]] | France | Savigny / Pernand / Corton | 7 | — | 1 | — | — |
 | [[domaine_guillemot-michel|Domaine Guillemot-Michel]] | France | Mâcon-Viré | 7 | — | — | — | — |
+| [[rapet_pere_et_fils|Rapet Père et Fils]] | France | Pernand-Vergelesses | 7 | — | — | — | — |
+| [[stephane_magnien|Stéphane Magnien]] | France | Morey-Saint-Denis | 7 | — | — | — | — |
 | [[domaine_amiot-servelle|Domaine Amiot-Servelle]] | France | Chambolle-Musigny | 6 | — | — | — | — |
 | [[domaine_celine_perrin|Domaine Céline Perrin]] | France | Ladoix | 6 | — | — | — | — |
 | [[domaine_leflaive|Domaine Leflaive]] | France | Puligny-Montrachet | 6 | — | 19 | — | — |
-| [[stephane_magnien|Stéphane Magnien]] | France | Morey-Saint-Denis | 6 | — | — | — | — |
+| [[pierre-yves_colin-morey|Pierre-Yves Colin-Morey]] | France | St-Aubin / Chassagne | 6 | — | — | — | — |
 | [[domaine_de_chassorney|Domaine de Chassorney]] | France | Saint-Romain / Volnay | 5 | — | — | — | — |
 | [[jane_et_sylvain|Jane et Sylvain]] | France | Gevrey-Chambertin | 5 | — | — | — | — |
 | [[domaine_bart|Domaine Bart]] | France | Marsannay / Fixin | 3 | — | — | — | 1 btl |
 | [[domaine_boisson|Domaine Boisson]] | France | Meursault / Hautes-Côtes de Beaune | 4 | — | — | — | — |
+| [[domaine_bruno_clair|Domaine Bruno Clair]] | France | Marsannay | 2 | — | — | — | 2 btl |
 | [[domaine_chantal_lescure|Domaine Chantal Lescure]] | France | Meursault → Vougeot | 4 | — | — | — | — |
 | [[domaine_chantereves|Domaine Chanterêves]] | France | '' | 3 | — | — | — | 1 btl |
 | [[domaine_david_moreau|Domaine David Moreau]] | France | Santenay | 4 | — | — | — | — |
+| [[domaine_florent_garaudet|Domaine Florent Garaudet]] | France | Monthélie | 1 | — | — | — | 3 btl |
 | [[domaine_forey|Domaine Forey]] | France | Vosne-Romanée / Nuits | 4 | — | — | — | — |
 | [[domaine_laroche|Domaine Laroche]] | France | Chablis | 4 | — | 11 | — | — |
 | [[domaine_lienhardt|Domaine Lienhardt]] | France | Côte de Nuits Villages | 4 | — | — | — | — |
 | [[domaine_trapet|Domaine Trapet]] | France | Gevrey-Chambertin | 4 | — | — | — | — |
 | [[joseph_voillot|Joseph Voillot]] | France | Volnay / Pommard | 4 | — | — | — | — |
-| [[pierre-yves_colin-morey|Pierre-Yves Colin-Morey]] | France | St-Aubin / Chassagne | 4 | — | — | — | — |
 | [[bruno_lorenzon|Bruno Lorenzon]] | France | '' | — | 6 | 2 | — | 3 btl |
 | [[cecile_tremblay|Cecile Tremblay]] | France | Vosne-Romanée / Chambolle | 3 | — | — | — | — |
+| [[domaine_des_croix|Domaine des Croix]] | France | Beaune | 2 | — | — | — | 1 btl |
 | [[duplessis_chablis|Duplessis Chablis]] | France | Chablis | 3 | — | — | — | — |
 | [[guillot_broux|Guillot-Broux]] | France | '' | 3 | 2 | — | — | — |
 | [[lignier-michelot|Lignier-Michelot]] | France | Morey-Saint-Denis | 3 | — | — | — | — |
 | [[sylvain_pataille|Sylvain Pataille]] | France | Marsannay | 3 | — | — | — | — |
+| [[chateau_de_la_maltroye|Château de la Maltroye]] | France | Chassagne-Montrachet | — | — | — | — | 2 btl |
 | [[domaine_armand_heitz|Domaine Armand Heitz]] | France | Pommard / Meursault | 2 | — | — | — | — |
 | [[domaine_duroche|Domaine Duroché]] | France | Gevrey-Chambertin | 2 | — | — | — | — |
 | [[domaine_jean_chauvenet|Domaine Jean Chauvenet]] | France | Nuits-Saint-Georges | 2 | — | 1 | — | — |
 | [[domaine_pavelot|Domaine Pavelot]] | France | Pernand-Vergelesses | 2 | — | — | — | — |
 | [[fanny_sabre|Fanny Sabre]] | France | Beaune / Pommard | 2 | — | — | — | — |
 | [[gerard_mugneret|Gerard Mugneret]] | France | Vosne-Romanée | 2 | 6 | — | — | — |
+| [[hudelot_noellat|Hudelot Noellat]] | France | '' | 2 | 12 | — | — | — |
 | [[messager-germain|Messager-Germain]] | France | — | 2 | — | — | — | — |
-| [[rapet_pere_et_fils|Rapet Père et Fils]] | France | Pernand-Vergelesses | 2 | — | — | — | — |
+| [[yann_durieux|Yann Durieux]] | France | Hautes-Côtes de Nuits | — | — | — | — | 2 btl |
 | [[amelie_berthaut|Amélie Berthaut]] | France | — | 1 | 1 | — | — | — |
 | [[berthaut-gerbet|Berthaut-Gerbet]] | France | Fixin / Gevrey | 1 | — | — | — | — |
 | [[domaine_cheveau|Domaine Cheveau]] | France | Pouilly-Fuissé | 1 | — | — | — | — |
@@ -75,14 +86,11 @@ producer_count: 85
 | [[francois_buffet|François Buffet]] | France | — | — | 3 | — | 24 | — |
 | [[georges_noellat|Georges Noëllat]] | France | '' | — | 13 | — | — | — |
 | [[gerard_julien|Gerard Julien]] | France | '' | — | 5 | — | — | — |
-| [[gilles__jean__maxime_lafouge|Gilles / Jean / Maxime Lafouge]] | France | Auxey-Duresses | — | — | — | — | — |
 | [[henri_magnien|Henri Magnien]] | France | '' | — | 15 | — | — | — |
-| [[hudelot_noellat|Hudelot Noellat]] | France | '' | — | 12 | — | — | — |
 | [[jean_collet|Jean Collet]] | France | '' | — | 3 | — | — | — |
 | [[jean_javillier|Jean Javillier]] | France | '' | — | 14 | — | — | — |
 | [[jean_pierre_guyon|Jean Pierre Guyon]] | France | '' | — | 21 | — | — | — |
 | [[jean_marc_et_thomas_bouley|Jean-Marc et Thomas Bouley]] | France | — | — | 4 | — | — | — |
-| [[julien_guillot__vignes_du_maynes|Julien Guillot / Vignes du Maynes]] | France | Mâcon / Cruzille | — | — | — | — | — |
 | [[latour_giraud|Latour Giraud]] | France | — | — | 10 | — | — | — |
 | [[loersch|Loersch]] | France | — | — | 9 | — | — | — |
 | [[louis_latour|Louis Latour]] | France | Beaune | — | — | 9 | — | — |

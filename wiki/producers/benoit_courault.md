@@ -75,15 +75,15 @@ _sources:
 
 > 8/28/20 - I remember quite vividly my excitement upon first tasting with Eric and Christine Nicolas - I think it was at the first "Dive Bouteille," perhaps in 1999? I found the wines to be totally unique, pure and crystalline and I was very happy that my…
 
-### ★ [Benoît Courault, simply one of my favorite vignerons - An Article by Pascaline Lepeltier](https://chambersstwines.com/blogs/articles/benoit-courault-simply-one-of-my-favorite-vignerons-an-article-by-pascaline-lepeltier)
-*2020-07*
-
-> 7/2/20 - When asked the question - “which bottles would you take to a desert island?” - you can be sure I would pick a Chenin from Benoît Courault. His wines are among some of my absolute favorites. Whether it be the old-vines and single-vineyard bottlings or…
-
 ### [La Grange Tiphaine, the Loire's most complete line up!](https://chambersstwines.com/blogs/articles/la-grange-tiphaine-the-loires-most-complete-line-up)
 *2020-07*
 
 > 7/14/20 - How lucky am I! After writing about Benoit Courault in my last article, I have today the great pleasure to talk to you about a very unique couple I consider at the very top of the game, this time in Amboise and Montlouis-sur-Loire in the eastern…
+
+### ★ [Benoît Courault, simply one of my favorite vignerons - An Article by Pascaline Lepeltier](https://chambersstwines.com/blogs/articles/benoit-courault-simply-one-of-my-favorite-vignerons-an-article-by-pascaline-lepeltier)
+*2020-07*
+
+> 7/2/20 - When asked the question - “which bottles would you take to a desert island?” - you can be sure I would pick a Chenin from Benoît Courault. His wines are among some of my absolute favorites. Whether it be the old-vines and single-vineyard bottlings or…
 
 ### [History in the making, the new chiseled expressions of dry chenin in Anjou Noir: S. Bernaudeau, S. Érissé, B. Ciofi, T. Boudignon, O. Lejeune + Bonus from La Grange aux Belles & Tessa Laroche](https://chambersstwines.com/blogs/articles/history-in-the-making-the-new-chiseled-expressions-of-dry-chenin-in-anjou-noir-s-bernaudeau-s-erisse-b-ciofi-t-boudignon-o-lejeune-bonus-from-la-grange-aux-belles-tessa-laroche)
 *2020-05*

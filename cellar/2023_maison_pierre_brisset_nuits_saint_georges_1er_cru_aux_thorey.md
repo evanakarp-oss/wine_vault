@@ -22,7 +22,7 @@ opened: []
 
 # Maison Pierre Brisset — Nuits-Saint-Georges 1er Cru Aux Thorey 2023
 
-- **Producer:** Maison Pierre Brisset
+- **Producer:** [[maison_pierre_brisset|Maison Pierre Brisset]]
 - **Cuvée:** Nuits-Saint-Georges 1er Cru Aux Thorey
 - **Vintage:** 2023
 - **Format:** 750ml

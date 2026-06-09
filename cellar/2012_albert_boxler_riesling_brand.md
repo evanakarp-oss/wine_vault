@@ -22,7 +22,7 @@ opened: []
 
 # Albert Boxler — Riesling Brand 2012
 
-- **Producer:** Albert Boxler
+- **Producer:** [[albert_boxler|Albert Boxler]]
 - **Cuvée:** Riesling Brand
 - **Vintage:** 2012
 - **Format:** 750ml

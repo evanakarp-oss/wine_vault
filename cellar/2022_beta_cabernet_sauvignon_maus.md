@@ -22,7 +22,7 @@ opened: []
 
 # Beta — Cabernet Sauvignon Maus 2022
 
-- **Producer:** Beta
+- **Producer:** [[beta|Beta]]
 - **Cuvée:** Cabernet Sauvignon Maus
 - **Vintage:** 2022
 - **Format:** 750ml

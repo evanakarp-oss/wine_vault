@@ -4,11 +4,11 @@ name: "Dressner"
 slug: dressner
 producer_count: 16
 focus: ['Burgundy', 'Jura', 'Rhône', 'Sicily']
-notable_producers: ['Eric Texier', 'Jacques Puffeney', 'Jean-François Ganevat', 'Benoit Courault', 'Domaine Simon Bize']
+notable_producers: ['Eric Texier', 'Julien Guillot / Vignes du Maynes', 'Jacques Puffeney', 'Jean-François Ganevat', 'Benoit Courault']
 updated: 2026-06-09
+url: "https://louisdressner.com"
 tags: ['natural', 'organic']
 _source: wiki/_resources.md
-url: "https://louisdressner.com"
 ---
 # Dressner
 
@@ -18,6 +18,7 @@ url: "https://louisdressner.com"
 | Producer | Country | Region | CSW | Cellar |
 |---|---|---|---:|---:|
 | [[eric_texier|Eric Texier]] | France | Rhône | 26 | — |
+| [[julien_guillot__vignes_du_maynes|Julien Guillot / Vignes du Maynes]] | France | Burgundy | 21 | — |
 | [[jacques_puffeney|Jacques Puffeney]] | France | Jura | 12 | — |
 | [[jean_francois_ganevat|Jean-François Ganevat]] | France | Jura | 12 | 1 |
 | [[benoit_courault|Benoit Courault]] | France | Burgundy | 11 | — |
@@ -32,7 +33,6 @@ url: "https://louisdressner.com"
 | [[dard__ribo|Dard & Ribo]] | France | Rhône | 3 | — |
 | [[duplessis_chablis|Duplessis Chablis]] | France | Burgundy | 3 | — |
 | [[overnoy-crinquand|Overnoy-Crinquand]] | France | Jura | 3 | — |
-| [[julien_guillot__vignes_du_maynes|Julien Guillot / Vignes du Maynes]] | France | Burgundy | — | — |
 
 *Compiled by `scripts/build_rollups.py`.*
 <!-- END AUTO-GENERATED -->

@@ -22,7 +22,7 @@ opened: []
 
 # Remy Nodin — Cornas Les Eygats 2022
 
-- **Producer:** Remy Nodin
+- **Producer:** [[remy_nodin|Remy Nodin]]
 - **Cuvée:** Cornas Les Eygats
 - **Vintage:** 2022
 - **Format:** 750ml

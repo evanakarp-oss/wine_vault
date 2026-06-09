@@ -22,7 +22,7 @@ opened: []
 
 # Mickaël Bourg — Cornas Les P'tits Bouts 2023
 
-- **Producer:** Mickaël Bourg
+- **Producer:** [[mickael_bourg|Mickaël Bourg]]
 - **Cuvée:** Cornas Les P'tits Bouts
 - **Vintage:** 2023
 - **Format:** 750ml

@@ -22,7 +22,7 @@ opened: []
 
 # Sandar & Hem — Cabernet Sauvignon Bates Ranch Santa Cruz Mountains 2019
 
-- **Producer:** Sandar & Hem
+- **Producer:** [[sandar_hem|Sandar & Hem]]
 - **Cuvée:** Cabernet Sauvignon Bates Ranch Santa Cruz Mountains
 - **Vintage:** 2019
 - **Format:** 750ml

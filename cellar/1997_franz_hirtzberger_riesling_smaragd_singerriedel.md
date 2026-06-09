@@ -22,7 +22,7 @@ opened: []
 
 # Franz Hirtzberger — Riesling Smaragd Singerriedel 1997
 
-- **Producer:** Franz Hirtzberger
+- **Producer:** [[franz_hirtzberger|Franz Hirtzberger]]
 - **Cuvée:** Riesling Smaragd Singerriedel
 - **Vintage:** 1997
 - **Format:** 750ml

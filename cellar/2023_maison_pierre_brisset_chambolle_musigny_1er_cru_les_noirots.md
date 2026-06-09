@@ -22,7 +22,7 @@ opened: []
 
 # Maison Pierre Brisset — Chambolle-Musigny 1er Cru Les Noirots 2023
 
-- **Producer:** Maison Pierre Brisset
+- **Producer:** [[maison_pierre_brisset|Maison Pierre Brisset]]
 - **Cuvée:** Chambolle-Musigny 1er Cru Les Noirots
 - **Vintage:** 2023
 - **Format:** 750ml

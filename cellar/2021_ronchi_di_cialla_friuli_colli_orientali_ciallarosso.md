@@ -22,7 +22,7 @@ opened: []
 
 # Ronchi di Cialla — Friuli Colli Orientali CiallaRosso 2021
 
-- **Producer:** Ronchi di Cialla
+- **Producer:** [[ronchi_di_cialla|Ronchi di Cialla]]
 - **Cuvée:** Friuli Colli Orientali CiallaRosso
 - **Vintage:** 2021
 - **Format:** 750ml

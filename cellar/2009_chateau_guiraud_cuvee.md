@@ -22,7 +22,7 @@ opened: []
 
 # Château Guiraud — Château Guiraud 2009
 
-- **Producer:** Château Guiraud
+- **Producer:** [[chateau_guiraud|Château Guiraud]]
 - **Cuvée:** Château Guiraud
 - **Vintage:** 2009
 - **Format:** 375ml

@@ -22,7 +22,7 @@ opened: []
 
 # Domaine Florent Garaudet — Pommard Vieilles Vignes 2021
 
-- **Producer:** Domaine Florent Garaudet
+- **Producer:** [[domaine_florent_garaudet|Domaine Florent Garaudet]]
 - **Cuvée:** Pommard Vieilles Vignes
 - **Vintage:** 2021
 - **Format:** 750ml

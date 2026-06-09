@@ -22,7 +22,7 @@ opened: []
 
 # Yann Durieux — Love and Pif 2022
 
-- **Producer:** Yann Durieux
+- **Producer:** [[yann_durieux|Yann Durieux]]
 - **Cuvée:** Love and Pif
 - **Vintage:** 2022
 - **Format:** 750ml

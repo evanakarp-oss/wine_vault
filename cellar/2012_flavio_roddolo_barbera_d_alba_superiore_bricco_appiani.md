@@ -22,7 +22,7 @@ opened: []
 
 # Flavio Roddolo — Barbera d'Alba Superiore Bricco Appiani 2012
 
-- **Producer:** Flavio Roddolo
+- **Producer:** [[flavio_roddolo|Flavio Roddolo]]
 - **Cuvée:** Barbera d'Alba Superiore Bricco Appiani
 - **Vintage:** 2012
 - **Format:** 750ml

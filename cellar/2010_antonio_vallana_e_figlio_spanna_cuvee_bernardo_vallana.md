@@ -22,7 +22,7 @@ opened: []
 
 # Antonio Vallana e Figlio — Spanna Cuvee Bernardo Vallana 2010
 
-- **Producer:** Antonio Vallana e Figlio
+- **Producer:** [[antonio_vallana_e_figlio|Antonio Vallana e Figlio]]
 - **Cuvée:** Spanna Cuvee Bernardo Vallana
 - **Vintage:** 2010
 - **Format:** 750ml

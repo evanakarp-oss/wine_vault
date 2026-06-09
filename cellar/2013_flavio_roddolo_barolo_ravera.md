@@ -22,7 +22,7 @@ opened: []
 
 # Flavio Roddolo — Barolo Ravera 2013
 
-- **Producer:** Flavio Roddolo
+- **Producer:** [[flavio_roddolo|Flavio Roddolo]]
 - **Cuvée:** Barolo Ravera
 - **Vintage:** 2013
 - **Format:** 750ml

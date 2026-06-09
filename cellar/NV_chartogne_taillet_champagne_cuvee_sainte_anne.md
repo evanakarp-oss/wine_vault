@@ -22,7 +22,7 @@ opened: []
 
 # Chartogne-Taillet — Champagne Cuvée Sainte Anne NV
 
-- **Producer:** Chartogne-Taillet
+- **Producer:** [[chartogne_taillet|Chartogne-Taillet]]
 - **Cuvée:** Champagne Cuvée Sainte Anne
 - **Vintage:** NV
 - **Format:** 750ml

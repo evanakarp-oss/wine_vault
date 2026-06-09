@@ -23,6 +23,7 @@ Entry point for humans. LLMs start at [[index|the wiki index]] instead.
 | View | Updated |
 |---|---|
 | [[architecture_review_2026_06|Vault Architecture Review (2026-06)]] | 2026-06-09 |
+| [[cellar_triage_2026_06|Cellar Producer Triage (2026-06)]] | 2026-06-09 |
 | [[drink_window_due|Drink Window — Urgency View]] | 2026-06-09 |
 | [[gap_csw_championed|Gap: CSW Champions You Don't Own]] | 2026-06-09 |
 | [[gap_raeders_aged_value|Gap: Raeders Aged & Curated Bottles You Don't Own]] | 2026-06-09 |
@@ -34,9 +35,9 @@ Entry point for humans. LLMs start at [[index|the wiki index]] instead.
 
 ## Browse
 
-**360 producer pages.** By country: [[France_Producers|France]] (193) · [[Argentina_Producers|Argentina]] (79) · [[Italy_Producers|Italy]] (43) · [[Germany_Producers|Germany]] (31) · [[United_States_Producers|United States]] (11) · [[Spain_Producers|Spain]] (3)
+**418 producer pages.** By country: [[France_Producers|France]] (216) · [[Argentina_Producers|Argentina]] (79) · [[Italy_Producers|Italy]] (56) · [[Germany_Producers|Germany]] (40) · [[United_States_Producers|United States]] (21) · [[Spain_Producers|Spain]] (4) · [[Austria_Producers|Austria]] (1) · [[Czech_Republic_Producers|Czech Republic]] (1)
 
-Top regions: [[Burgundy_Producers|Burgundy]] (85) · [[Mendoza_Producers|Mendoza]] (62) · [[Rhone_Producers|Rhône]] (32) · [[Bordeaux_Producers|Bordeaux]] (25) · [[Piedmont_Producers|Piedmont]] (20) · [[Mosel_Producers|Mosel]] (19) · [[Champagne_Producers|Champagne]] (16) · [[Jura_Producers|Jura]] (14) · [[California_Producers|California]] (11) · [[Patagonia_Producers|Patagonia]] (9) · [[Tuscany_Producers|Tuscany]] (9) · [[Loire_Producers|Loire]] (6)
+Top regions: [[Burgundy_Producers|Burgundy]] (93) · [[Mendoza_Producers|Mendoza]] (62) · [[Rhone_Producers|Rhône]] (36) · [[Bordeaux_Producers|Bordeaux]] (28) · [[Piedmont_Producers|Piedmont]] (24) · [[Mosel_Producers|Mosel]] (21) · [[California_Producers|California]] (20) · [[Champagne_Producers|Champagne]] (18) · [[Jura_Producers|Jura]] (14) · [[Tuscany_Producers|Tuscany]] (10) · [[Patagonia_Producers|Patagonia]] (9) · [[Beaujolais_Producers|Beaujolais]] (7)
 
 - [[index|Wiki index]] — every page, grouped by type (LLM entry point)
 - [[log|Change log]] — append-only history of vault operations

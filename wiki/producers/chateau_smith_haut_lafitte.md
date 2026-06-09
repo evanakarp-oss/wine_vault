@@ -16,10 +16,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 2
+    article_count: 4
     dedicated_count: 0
     first_year: 2025
-    last_year: 2025
+    last_year: 2026
   dte:
     in_portfolio: false
     cuvee_count: 0

@@ -2,26 +2,29 @@
 type: region_index
 region: "Bordeaux"
 updated: 2026-06-09
-producer_count: 25
+producer_count: 28
 ---
 
 # Bordeaux — Producer Index
 
-**25 producers** tracked.
+**28 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
 | [[chateau_peybonhomme|Chateau Peybonhomme]] | France | Blaye (Côtes de Bordeaux) | 8 | — | — | — | — |
 | [[chateau_gruaud_larose|Château Gruaud-Larose]] | France | Saint-Julien | 1 | — | 4 | — | 6 btl |
 | [[chateau_la_grolet|Château la Grolet]] | France | Bourg (Côtes de Bordeaux) | 6 | — | — | — | — |
+| [[chateau_clerc_milon|Château Clerc Milon]] | France | Pauillac | — | — | — | — | 5 btl |
 | [[clos_du_jaugueyron|Clos du Jaugueyron]] | France | Médoc (Margaux / Haut-Médoc) | 5 | — | — | — | — |
 | [[chateau_fonroque|Chateau Fonroque]] | France | Saint-Emilion Grand Cru | 4 | — | — | — | — |
+| [[chateau_smith_haut_lafitte|Château Smith-Haut-Lafitte]] | France | Pessac-Léognan | 4 | — | 5 | — | — |
 | [[chateau_musar|Chateau Musar]] | France | Bekaa Valley, Lebanon | 3 | — | — | — | — |
+| [[chateau_guiraud|Château Guiraud]] | France | Sauternes | — | — | — | — | 3 btl |
 | [[chateau_le_puy|Château Le Puy]] | France | Francs-Côtes de Bordeaux | 3 | — | — | — | — |
+| [[chateau_leoville_barton|Château Léoville Barton]] | France | Saint-Julien | 3 | — | 2 | — | — |
 | [[elian_da_ros|Elian Da Ros]] | France | Côtes-du-Marmandais (SW France) | 3 | — | — | — | — |
 | [[chateau_brandeau|Chateau Brandeau]] | France | Castillon-Côtes de Bordeaux | 2 | — | — | — | — |
-| [[chateau_leoville_barton|Château Léoville Barton]] | France | Saint-Julien | 2 | — | 2 | — | — |
-| [[chateau_smith_haut_lafitte|Château Smith-Haut-Lafitte]] | France | Pessac-Léognan | 2 | — | 5 | — | — |
+| [[chateau_grand_corbin_despagne|Château Grand Corbin-Despagne]] | France | Saint-Émilion | — | — | — | — | 2 btl |
 | [[clos_puy_arnaud|Clos Puy Arnaud]] | France | Castillon-Côtes de Bordeaux | 2 | — | — | — | — |
 | [[domaine_de_chevalier|Domaine de Chevalier]] | France | Pessac-Léognan | 2 | — | 2 | — | — |
 | [[chateau_calon_segur|Château Calon-Ségur]] | France | Saint-Estèphe | 1 | — | 3 | — | — |

@@ -22,7 +22,7 @@ opened: []
 
 # Ceritas — Chardonnay Trout Gulch 2021
 
-- **Producer:** Ceritas
+- **Producer:** [[ceritas|Ceritas]]
 - **Cuvée:** Chardonnay Trout Gulch
 - **Vintage:** 2021
 - **Format:** 750ml

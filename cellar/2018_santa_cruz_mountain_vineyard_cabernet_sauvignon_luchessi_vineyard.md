@@ -22,7 +22,7 @@ opened: []
 
 # Santa Cruz Mountain Vineyard — Cabernet Sauvignon Luchessi Vineyard 2018
 
-- **Producer:** Santa Cruz Mountain Vineyard
+- **Producer:** [[santa_cruz_mountain_vineyard|Santa Cruz Mountain Vineyard]]
 - **Cuvée:** Cabernet Sauvignon Luchessi Vineyard
 - **Vintage:** 2018
 - **Format:** 750ml

@@ -22,7 +22,7 @@ opened: []
 
 # Maison Pierre Brisset — Vosne-Romanée 1er Cru Les Rouges du Dessus 2023
 
-- **Producer:** Maison Pierre Brisset
+- **Producer:** [[maison_pierre_brisset|Maison Pierre Brisset]]
 - **Cuvée:** Vosne-Romanée 1er Cru Les Rouges du Dessus
 - **Vintage:** 2023
 - **Format:** 750ml

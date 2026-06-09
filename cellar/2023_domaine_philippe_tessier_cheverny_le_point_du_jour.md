@@ -22,7 +22,7 @@ opened: []
 
 # Domaine Philippe Tessier — Cheverny Le Point du Jour 2023
 
-- **Producer:** Domaine Philippe Tessier
+- **Producer:** [[domaine_philippe_tessier|Domaine Philippe Tessier]]
 - **Cuvée:** Cheverny Le Point du Jour
 - **Vintage:** 2023
 - **Format:** 750ml

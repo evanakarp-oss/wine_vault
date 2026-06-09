@@ -22,7 +22,7 @@ opened: []
 
 # Gut Hermannsberg — Niederhäuser Hermannsberg Riesling Großes Gewächs - Reserve 2019
 
-- **Producer:** Gut Hermannsberg
+- **Producer:** [[gut_hermannsberg|Gut Hermannsberg]]
 - **Cuvée:** Niederhäuser Hermannsberg Riesling Großes Gewächs - Reserve
 - **Vintage:** 2019
 - **Format:** 750ml

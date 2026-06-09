@@ -22,7 +22,7 @@ opened: []
 
 # Maison Pierre Brisset — Pommard 1er Cru 2021
 
-- **Producer:** Maison Pierre Brisset
+- **Producer:** [[maison_pierre_brisset|Maison Pierre Brisset]]
 - **Cuvée:** Pommard 1er Cru
 - **Vintage:** 2021
 - **Format:** 750ml

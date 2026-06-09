@@ -22,7 +22,7 @@ opened: []
 
 # Beta — Cabernet Sauvignon Lupina 2021
 
-- **Producer:** Beta
+- **Producer:** [[beta|Beta]]
 - **Cuvée:** Cabernet Sauvignon Lupina
 - **Vintage:** 2021
 - **Format:** 750ml

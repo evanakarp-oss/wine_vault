@@ -22,7 +22,7 @@ opened: []
 
 # Julian Haart — Riesling Rote Erden 2023
 
-- **Producer:** Julian Haart
+- **Producer:** [[julian_haart|Julian Haart]]
 - **Cuvée:** Riesling Rote Erden
 - **Vintage:** 2023
 - **Format:** 750ml

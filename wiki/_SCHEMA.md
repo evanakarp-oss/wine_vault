@@ -56,6 +56,12 @@ roscioli:                             # Roscioli Wine Club (Italian importer-cur
 
 events: []                            # curatorial/festival appearances; see wiki/_TAXONOMY.md events
 tags: ["alsace", "biodynamic", "white-wine-focused"]
+status: seeded                        # editorial maturity: stub | seeded | curated.
+                                      # stub = placeholder; seeded = frontmatter + summary from a
+                                      # triage/compile pass, editorial coverage pending; curated =
+                                      # human/LLM-reviewed page with real source coverage.
+                                      # Absent = legacy page predating the field (treat as curated
+                                      # if it has CSW/critic sections, else seeded).
 ---
 
 # Laurent Barth

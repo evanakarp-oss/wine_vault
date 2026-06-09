@@ -22,7 +22,7 @@ opened: []
 
 # Santa Cruz Mountain Vineyard — Cabernet Sauvignon Reserve Luchessi Vineyard 2017
 
-- **Producer:** Santa Cruz Mountain Vineyard
+- **Producer:** [[santa_cruz_mountain_vineyard|Santa Cruz Mountain Vineyard]]
 - **Cuvée:** Cabernet Sauvignon Reserve Luchessi Vineyard
 - **Vintage:** 2017
 - **Format:** 750ml

@@ -22,7 +22,7 @@ opened: []
 
 # Williams Selyem — Zinfandel North Flats Forchini Vineyard 2009
 
-- **Producer:** Williams Selyem
+- **Producer:** [[williams_selyem|Williams Selyem]]
 - **Cuvée:** Zinfandel North Flats Forchini Vineyard
 - **Vintage:** 2009
 - **Format:** 750ml

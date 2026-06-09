@@ -22,7 +22,7 @@ opened: []
 
 # Renaissance — Cabernet Sauvignon Reserve 2001
 
-- **Producer:** Renaissance
+- **Producer:** [[renaissance|Renaissance]]
 - **Cuvée:** Cabernet Sauvignon Reserve
 - **Vintage:** 2001
 - **Format:** 750ml

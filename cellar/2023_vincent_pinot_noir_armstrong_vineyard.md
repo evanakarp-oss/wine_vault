@@ -22,7 +22,7 @@ opened: []
 
 # Vincent — Pinot Noir Armstrong Vineyard 2023
 
-- **Producer:** Vincent
+- **Producer:** [[vincent|Vincent]]
 - **Cuvée:** Pinot Noir Armstrong Vineyard
 - **Vintage:** 2023
 - **Format:** 750ml

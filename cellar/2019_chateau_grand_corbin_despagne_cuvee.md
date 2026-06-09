@@ -22,7 +22,7 @@ opened: []
 
 # Château Grand Corbin-Despagne — Château Grand Corbin-Despagne 2019
 
-- **Producer:** Château Grand Corbin-Despagne
+- **Producer:** [[chateau_grand_corbin_despagne|Château Grand Corbin-Despagne]]
 - **Cuvée:** Château Grand Corbin-Despagne
 - **Vintage:** 2019
 - **Format:** 750ml

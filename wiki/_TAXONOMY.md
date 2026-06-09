@@ -1,6 +1,6 @@
 ---
 type: taxonomy
-updated: 2026-04-21
+updated: 2026-06-09
 ---
 
 # Wine Wiki Taxonomy
@@ -23,6 +23,7 @@ Add new values here FIRST, then use them in producer files.
 - Argentina
 - Chile
 - Uruguay
+- Czech Republic
 
 ## `region` (indexed by country)
 
@@ -61,6 +62,8 @@ Add new values here FIRST, then use them in producer files.
 - Lombardy
 - Friuli-Venezia Giulia
 - Alto Adige / Südtirol
+- Trentino
+- Umbria
 - Valle d'Aosta
 - Marche
 - Abruzzo
@@ -77,6 +80,17 @@ Add new values here FIRST, then use them in producer files.
 - Jumilla
 - Ribera del Duero
 - Basque Country
+- Canary Islands
+
+### Austria
+- Niederösterreich
+- Burgenland
+- Steiermark
+- Wien
+
+### Czech Republic
+- Moravia
+- Bohemia
 
 ### United States
 - California

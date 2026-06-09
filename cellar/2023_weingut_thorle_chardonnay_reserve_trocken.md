@@ -22,7 +22,7 @@ opened: []
 
 # Weingut Thörle — Chardonnay Reserve trocken 2023
 
-- **Producer:** Weingut Thörle
+- **Producer:** [[weingut_thorle|Weingut Thörle]]
 - **Cuvée:** Chardonnay Reserve trocken
 - **Vintage:** 2023
 - **Format:** 750ml

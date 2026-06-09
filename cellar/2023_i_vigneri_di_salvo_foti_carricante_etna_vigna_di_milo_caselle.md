@@ -22,7 +22,7 @@ opened: []
 
 # I Vigneri di Salvo Foti — Carricante Etna Vigna di Milo Caselle 2023
 
-- **Producer:** I Vigneri di Salvo Foti
+- **Producer:** [[i_vigneri_di_salvo_foti|I Vigneri di Salvo Foti]]
 - **Cuvée:** Carricante Etna Vigna di Milo Caselle
 - **Vintage:** 2023
 - **Format:** 750ml

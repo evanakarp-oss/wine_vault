@@ -22,7 +22,7 @@ opened: []
 
 # Flavio Roddolo — Langhe Cabernet Sauvignon Bricco Appiani 2010
 
-- **Producer:** Flavio Roddolo
+- **Producer:** [[flavio_roddolo|Flavio Roddolo]]
 - **Cuvée:** Langhe Cabernet Sauvignon Bricco Appiani
 - **Vintage:** 2010
 - **Format:** 750ml

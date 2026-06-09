@@ -22,7 +22,7 @@ opened: []
 
 # Jacques-Frédéric Mugnier — Nuits-Saint-Georges 1er Cru Clos de la Maréchale 2018
 
-- **Producer:** Jacques-Frédéric Mugnier
+- **Producer:** [[jacques_frederic_mugnier|Jacques-Frédéric Mugnier]]
 - **Cuvée:** Nuits-Saint-Georges 1er Cru Clos de la Maréchale
 - **Vintage:** 2018
 - **Format:** 750ml

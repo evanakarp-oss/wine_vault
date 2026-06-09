@@ -13,7 +13,7 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 1
     dedicated_count: 0
     first_year: 0
     last_year: 0
@@ -56,3 +56,10 @@ achavalferrer.com / Tim Atkin 2025
 
 - [[Mendoza_Producers|Mendoza]]
 - [[Argentina_Producers|Argentina]]
+
+## CSW Write-ups
+
+### [The Wines of Laura Lorenzo - Daterra Viticultores](https://chambersstwines.com/blogs/articles/the-wines-of-laura-lorenzo-daterra-viticultores)
+*undated*
+
+> For many years, the annual arrival of the Daterra Viticultores wines has been celebrated by the staff at Chambers Street. Enthusiastic hand sells always follow, and soon the small allocation we receive dwindles down to a bottle or two. Before starting to…

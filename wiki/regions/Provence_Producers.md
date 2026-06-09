@@ -11,7 +11,7 @@ producer_count: 3
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
-| [[clos_cibonne|Clos Cibonne]] | France | Côtes de Provence | 3 | — | — | — | — |
+| [[clos_cibonne|Clos Cibonne]] | France | Côtes de Provence | 4 | — | — | — | — |
 | [[ch_de_pibarnon|Ch de Pibarnon]] | France | — | — | 1 | — | — | — |
 | [[chateau_de_pibarnon|Chateau de Pibarnon]] | France | — | — | 1 | — | — | — |
 

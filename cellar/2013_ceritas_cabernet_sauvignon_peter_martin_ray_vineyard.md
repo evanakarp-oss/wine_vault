@@ -22,7 +22,7 @@ opened: []
 
 # Ceritas — Cabernet Sauvignon Peter Martin Ray Vineyard 2013
 
-- **Producer:** Ceritas
+- **Producer:** [[ceritas|Ceritas]]
 - **Cuvée:** Cabernet Sauvignon Peter Martin Ray Vineyard
 - **Vintage:** 2013
 - **Format:** 750ml

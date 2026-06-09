@@ -22,7 +22,7 @@ opened: []
 
 # Jonas Dostert — Pure Dolomite 2022
 
-- **Producer:** Jonas Dostert
+- **Producer:** [[jonas_dostert|Jonas Dostert]]
 - **Cuvée:** Pure Dolomite
 - **Vintage:** 2022
 - **Format:** 750ml

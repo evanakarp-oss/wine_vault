@@ -2,12 +2,12 @@
 type: region_index
 region: "Champagne"
 updated: 2026-06-09
-producer_count: 16
+producer_count: 18
 ---
 
 # Champagne — Producer Index
 
-**16 producers** tracked.
+**18 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -15,9 +15,11 @@ producer_count: 16
 | [[agrapart|Agrapart]] | France | — | 9 | 2 | — | — | 2 btl |
 | [[marguet|Marguet]] | France | — | 10 | 4 | — | — | — |
 | [[bollinger|Bollinger]] | France | '' | 6 | — | 2 | — | — |
-| [[champagne_ponson|Champagne Ponson]] | France | — | 2 | — | — | — | — |
+| [[champagne_ponson|Champagne Ponson]] | France | — | 4 | — | — | — | — |
 | [[pierre_peters|Pierre Peters]] | France | Le Mesnil-sur-Oger | 2 | — | 2 | — | — |
+| [[etienne_calsac|Étienne Calsac]] | France | Avize (Côte des Blancs) | — | — | — | — | 2 btl |
 | [[champagne_les_freres_mignon|Champagne Les Freres Mignon]] | France | — | 1 | — | — | — | — |
+| [[chartogne_taillet|Chartogne-Taillet]] | France | Merfy (Massif de Saint-Thierry) | — | — | — | — | 1 btl |
 | [[dom_perignon|Dom Pérignon]] | France | '' | 1 | — | 7 | — | — |
 | [[jacques_lassaigne|Jacques Lassaigne]] | France | '' | 1 | 3 | — | — | — |
 | [[larmandier_bernier|Larmandier Bernier]] | France | '' | 1 | 3 | 1 | — | — |

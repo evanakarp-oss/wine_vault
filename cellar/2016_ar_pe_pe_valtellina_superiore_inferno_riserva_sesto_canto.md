@@ -22,7 +22,7 @@ opened: []
 
 # AR.PE.PE. — Valtellina Superiore - Inferno Riserva Sesto Canto 2016
 
-- **Producer:** AR.PE.PE.
+- **Producer:** [[ar_pe_pe|AR.PE.PE.]]
 - **Cuvée:** Valtellina Superiore - Inferno Riserva Sesto Canto
 - **Vintage:** 2016
 - **Format:** 750ml

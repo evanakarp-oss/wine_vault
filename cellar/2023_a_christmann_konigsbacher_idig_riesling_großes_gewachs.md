@@ -22,7 +22,7 @@ opened: []
 
 # A. Christmann — Konigsbacher Idig Riesling Großes Gewächs 2023
 
-- **Producer:** A. Christmann
+- **Producer:** [[a_christmann|A. Christmann]]
 - **Cuvée:** Konigsbacher Idig Riesling Großes Gewächs
 - **Vintage:** 2023
 - **Format:** 750ml

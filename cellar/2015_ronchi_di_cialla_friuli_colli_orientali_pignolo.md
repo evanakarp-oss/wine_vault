@@ -22,7 +22,7 @@ opened: []
 
 # Ronchi di Cialla — Friuli Colli Orientali Pignolo 2015
 
-- **Producer:** Ronchi di Cialla
+- **Producer:** [[ronchi_di_cialla|Ronchi di Cialla]]
 - **Cuvée:** Friuli Colli Orientali Pignolo
 - **Vintage:** 2015
 - **Format:** 750ml

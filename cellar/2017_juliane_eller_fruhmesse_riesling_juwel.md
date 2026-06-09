@@ -22,7 +22,7 @@ opened: []
 
 # Juliane Eller — Frühmesse Riesling Juwel 2017
 
-- **Producer:** Juliane Eller
+- **Producer:** [[juliane_eller|Juliane Eller]]
 - **Cuvée:** Frühmesse Riesling Juwel
 - **Vintage:** 2017
 - **Format:** 750ml

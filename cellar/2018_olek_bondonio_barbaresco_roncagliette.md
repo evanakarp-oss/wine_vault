@@ -22,7 +22,7 @@ opened: []
 
 # Olek Bondonio — Barbaresco Roncagliette 2018
 
-- **Producer:** Olek Bondonio
+- **Producer:** [[olek_bondonio|Olek Bondonio]]
 - **Cuvée:** Barbaresco Roncagliette
 - **Vintage:** 2018
 - **Format:** 750ml

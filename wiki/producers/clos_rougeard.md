@@ -101,15 +101,15 @@ berserkers_kelley_body:
 
 > 5/12/2007 - If there ever is a vintage to test the waters of Cabernet Franc on a virgin palate it is the 2005 vintage. Like a confluence of 2004 and 2003 it has the wonderful ripe, sappy fruit of 2003 but also has the structure and acidity of 2004. These are…
 
-### [A Handful of Tissot!](https://chambersstwines.com/blogs/articles/a-handful-of-tissot)
-*undated*
-
-> Domaine Andre et Mireille Tissot, begun in 1962, is in Montigny-les-Arsures, just a few kilometers from Arbois. Stéphane, their son, took over in 1990 and has slowly but surely established the Tissot name as an important one in the history of Jura wine. A…
-
 ### ★ [Clos Rougeard, Saumur-Champigny: There's Nothing That Compares. We Offer the 2004's](https://chambersstwines.com/blogs/articles/clos-rougeard-saumur-champigny-theres-nothing-that-compares-we-offer-the-2004s)
 *undated*
 
 > *Article from 2008 -* This estate has been in the family for several generations. Basically, the Foucault brothers (Nadi and Charlie) tend exceptional vineyards, harvest at small yields, vinify in barrel, let the wines bubble for a couple of years in a…
+
+### [A Handful of Tissot!](https://chambersstwines.com/blogs/articles/a-handful-of-tissot)
+*undated*
+
+> Domaine Andre et Mireille Tissot, begun in 1962, is in Montigny-les-Arsures, just a few kilometers from Arbois. Stéphane, their son, took over in 1990 and has slowly but surely established the Tissot name as an important one in the history of Jura wine. A…
 
 ## CSW Cellar Note
 

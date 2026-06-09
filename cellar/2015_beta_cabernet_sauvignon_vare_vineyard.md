@@ -22,7 +22,7 @@ opened: []
 
 # Beta — Cabernet Sauvignon Vare Vineyard 2015
 
-- **Producer:** Beta
+- **Producer:** [[beta|Beta]]
 - **Cuvée:** Cabernet Sauvignon Vare Vineyard
 - **Vintage:** 2015
 - **Format:** 750ml

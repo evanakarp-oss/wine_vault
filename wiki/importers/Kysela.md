@@ -6,9 +6,9 @@ producer_count: 1
 focus: ['Burgundy']
 notable_producers: ['Domaine de Montille']
 updated: 2026-06-09
+url: "https://kyselawine.com"
 tags: []
 _source: wiki/_resources.md
-url: "https://kyselawine.com"
 ---
 # Kysela
 

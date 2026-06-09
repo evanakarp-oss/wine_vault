@@ -22,7 +22,7 @@ opened: []
 
 # Clos de Gamot — Cahors 2020
 
-- **Producer:** Clos de Gamot
+- **Producer:** [[clos_de_gamot|Clos de Gamot]]
 - **Cuvée:** Cahors
 - **Vintage:** 2020
 - **Format:** 750ml

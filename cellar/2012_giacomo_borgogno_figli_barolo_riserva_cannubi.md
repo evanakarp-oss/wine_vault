@@ -22,7 +22,7 @@ opened: []
 
 # Giacomo Borgogno & Figli — Barolo Riserva Cannubi 2012
 
-- **Producer:** Giacomo Borgogno & Figli
+- **Producer:** [[giacomo_borgogno_figli|Giacomo Borgogno & Figli]]
 - **Cuvée:** Barolo Riserva Cannubi
 - **Vintage:** 2012
 - **Format:** 750ml

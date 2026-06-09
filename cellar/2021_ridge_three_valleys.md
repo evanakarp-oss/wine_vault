@@ -22,7 +22,7 @@ opened: []
 
 # Ridge — Three Valleys 2021
 
-- **Producer:** Ridge
+- **Producer:** [[ridge|Ridge]]
 - **Cuvée:** Three Valleys
 - **Vintage:** 2021
 - **Format:** 750ml

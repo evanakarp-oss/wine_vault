@@ -22,7 +22,7 @@ opened: []
 
 # Domaine des Croix — Beaune 1er Cru Cent-Vignes 2022
 
-- **Producer:** Domaine des Croix
+- **Producer:** [[domaine_des_croix|Domaine des Croix]]
 - **Cuvée:** Beaune 1er Cru Cent-Vignes
 - **Vintage:** 2022
 - **Format:** 750ml

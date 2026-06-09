@@ -22,7 +22,7 @@ opened: []
 
 # Yann Durieux — La Gouzotte 2022
 
-- **Producer:** Yann Durieux
+- **Producer:** [[yann_durieux|Yann Durieux]]
 - **Cuvée:** La Gouzotte
 - **Vintage:** 2022
 - **Format:** 750ml

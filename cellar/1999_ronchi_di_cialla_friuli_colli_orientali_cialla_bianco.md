@@ -22,7 +22,7 @@ opened: []
 
 # Ronchi di Cialla — Friuli Colli Orientali Cialla Bianco 1999
 
-- **Producer:** Ronchi di Cialla
+- **Producer:** [[ronchi_di_cialla|Ronchi di Cialla]]
 - **Cuvée:** Friuli Colli Orientali Cialla Bianco
 - **Vintage:** 1999
 - **Format:** 750ml

@@ -22,7 +22,7 @@ opened: []
 
 # Ceritas — Chardonnay Trout Gulch 2019
 
-- **Producer:** Ceritas
+- **Producer:** [[ceritas|Ceritas]]
 - **Cuvée:** Chardonnay Trout Gulch
 - **Vintage:** 2019
 - **Format:** 750ml

@@ -22,7 +22,7 @@ opened: []
 
 # Vincent — Pinot Noir Cortell-Rose Vineyard Eola - Amity Hills 2023
 
-- **Producer:** Vincent
+- **Producer:** [[vincent|Vincent]]
 - **Cuvée:** Pinot Noir Cortell-Rose Vineyard Eola - Amity Hills
 - **Vintage:** 2023
 - **Format:** 750ml

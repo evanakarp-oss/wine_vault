@@ -22,7 +22,7 @@ opened: []
 
 # Renaissance — Claret Prestige 2004
 
-- **Producer:** Renaissance
+- **Producer:** [[renaissance|Renaissance]]
 - **Cuvée:** Claret Prestige
 - **Vintage:** 2004
 - **Format:** 750ml

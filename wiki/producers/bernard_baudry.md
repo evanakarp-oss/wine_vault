@@ -46,15 +46,15 @@ _Seeded from Down to Earth (Panzer) portfolio. Not yet covered in CSW archive sw
 
 > 8/25/25 - [](https://chambersstwines.com/collections/2023-domaine-pierre-gonon) Due to the generosity of the 2023 vintage, for the first time in many years, we are able to offer to our email subscribers a small quantity of the beautiful Saint Joseph Rouge and…
 
-### [Chenin, Cab Franc and Pineau D'Aunis: New Arrivals and Returning Favorites!](https://chambersstwines.com/blogs/articles/chenin-cab-franc-and-pineau-daunis-new-arrivals-and-returning-favorites)
-*2024-09*
-
-> 9/24/2024 Today's email features new arrivals and returning favorites from the Loire Valley, including essential wines from Domaine Bellivière , Domaine de la Taille aux Loups , François Chidaine , Domaine aux Moines , Le Rocher des Violettes , Domaine Pinon…
-
 ### [Let's Be Franc - Cabernet Franc from Raffault, and Baudry, and new arrivals from Benoit Courault!](https://chambersstwines.com/blogs/articles/lets-be-franc-cabernet-franc-from-raffault-and-baudry-and-new-arrivals-from-benoit-courault)
 *2024-09*
 
 > 9/28/24 - *Photo: Olga Raffault in 1990 (David Lillie)* It was so long ago, I don't remember the year, maybe 1990, when an importer and I visited Domaine Olga Raffault to arrange their first export to the US. Olga's partner and winemaker, the wonderful Ernest…
+
+### [Chenin, Cab Franc and Pineau D'Aunis: New Arrivals and Returning Favorites!](https://chambersstwines.com/blogs/articles/chenin-cab-franc-and-pineau-daunis-new-arrivals-and-returning-favorites)
+*2024-09*
+
+> 9/24/2024 Today's email features new arrivals and returning favorites from the Loire Valley, including essential wines from Domaine Bellivière , Domaine de la Taille aux Loups , François Chidaine , Domaine aux Moines , Le Rocher des Violettes , Domaine Pinon…
 
 ### [Baudry 2022 Chinon \"Domaine\" and Great Value Chinons from Patrick Lambert](https://chambersstwines.com/blogs/articles/baudry-2022-chinon-domaine-and-great-value-chinons-from-patrick-lambert)
 *2024-05*
@@ -126,15 +126,15 @@ _Seeded from Down to Earth (Panzer) portfolio. Not yet covered in CSW archive sw
 
 > 3/5/2007 - **** **Marc Ollivier** **and Geneviève Cormerais** from the **Domaine de la Pépière** Marc's **Muscadet Sevre et Maine** is our biggest selling wine almost every year, and is one of the world's greatest values. His **Clos des Briords 2005** is an…
 
-### [Last Call for Stéphane Guion's Superb 2018s, Plus Baudry and Chevalerie!](https://chambersstwines.com/blogs/articles/last-call-for-stephane-guions-superb-2018s-plus-baudry-and-chevalerie)
-*undated*
-
-> Stéphane Guion made sensational Bourgueils in 2018 and we are nearing the end of stock for both the "Cuvée Authentique" and the "Cuvée des Deux Monts." (2019s are on the way!) Organic since 1965 and now certified Biodynamic as well, Domaine Guion produces…
-
 ### ★ [New Arrivals from Domaine Bernard Baudry: 2022 Chinon \"Les Grézeaux\" and 2021 Chinon \"Les Mollières\"](https://chambersstwines.com/blogs/articles/new-arrivals-from-domaine-bernard-baudry-2022-chinon-les-grezeaux-and-2021-chinon-les-mollieres)
 *undated*
 
 > The Baudry Chinon "Les Grézeaux" is one of the most pleasing and versatile red wines of the Loire – the 2022 is absolutely gorgeous! And we love the new cuvee “Les Mollières” which is delicate and delicious in 2021! The Baudry Chinon "Les Grézeaux" is from a…
+
+### [Last Call for Stéphane Guion's Superb 2018s, Plus Baudry and Chevalerie!](https://chambersstwines.com/blogs/articles/last-call-for-stephane-guions-superb-2018s-plus-baudry-and-chevalerie)
+*undated*
+
+> Stéphane Guion made sensational Bourgueils in 2018 and we are nearing the end of stock for both the "Cuvée Authentique" and the "Cuvée des Deux Monts." (2019s are on the way!) Organic since 1965 and now certified Biodynamic as well, Domaine Guion produces…
 
 ## Down to Earth Wines (Panzer)
 

@@ -2,25 +2,26 @@
 type: country_index
 country: "France"
 updated: 2026-06-09
-producer_count: 193
-region_count: 12
+producer_count: 216
+region_count: 13
 ---
 
 # France — Region Directory
 
-**193 producers** across **12 regions**.
+**216 producers** across **13 regions**.
 
 | Region | Producers | Cellar bottles |
 |---|---:|---:|
-| [[Burgundy_Producers|Burgundy]] | 85 | 61 |
-| [[Rhone_Producers|Rhône]] | 32 | 16 |
-| [[Bordeaux_Producers|Bordeaux]] | 25 | 6 |
-| [[Champagne_Producers|Champagne]] | 16 | 2 |
+| [[Burgundy_Producers|Burgundy]] | 93 | 92 |
+| [[Rhone_Producers|Rhône]] | 36 | 39 |
+| [[Bordeaux_Producers|Bordeaux]] | 28 | 16 |
+| [[Champagne_Producers|Champagne]] | 18 | 5 |
 | [[Jura_Producers|Jura]] | 14 | 1 |
-| [[Loire_Producers|Loire]] | 6 | — |
-| [[Alsace_Producers|Alsace]] | 5 | — |
-| [[Beaujolais_Producers|Beaujolais]] | 4 | — |
+| [[Beaujolais_Producers|Beaujolais]] | 7 | 17 |
+| [[Loire_Producers|Loire]] | 7 | 7 |
+| [[Alsace_Producers|Alsace]] | 6 | 1 |
 | [[Provence_Producers|Provence]] | 3 | — |
+| [[South_West_Producers|South West]] | 1 | 4 |
 | [[Basque_Irouleguy_Producers|Basque (Irouléguy)]] | 1 | — |
 | [[Savoie_Producers|Savoie]] | 1 | — |
 | [[Corsica_Producers|Corsica]] | 1 | — |

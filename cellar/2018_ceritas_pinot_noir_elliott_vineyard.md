@@ -22,7 +22,7 @@ opened: []
 
 # Ceritas — Pinot Noir Elliott Vineyard 2018
 
-- **Producer:** Ceritas
+- **Producer:** [[ceritas|Ceritas]]
 - **Cuvée:** Pinot Noir Elliott Vineyard
 - **Vintage:** 2018
 - **Format:** 750ml

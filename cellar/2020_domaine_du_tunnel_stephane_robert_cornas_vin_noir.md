@@ -22,7 +22,7 @@ opened: []
 
 # Domaine du Tunnel (Stéphane Robert) — Cornas Vin Noir 2020
 
-- **Producer:** Domaine du Tunnel (Stéphane Robert)
+- **Producer:** [[domaine_du_tunnel_stephane_robert|Domaine du Tunnel (Stéphane Robert)]]
 - **Cuvée:** Cornas Vin Noir
 - **Vintage:** 2020
 - **Format:** 750ml

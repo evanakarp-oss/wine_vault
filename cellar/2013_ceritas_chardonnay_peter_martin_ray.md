@@ -22,7 +22,7 @@ opened: []
 
 # Ceritas — Chardonnay Peter Martin Ray 2013
 
-- **Producer:** Ceritas
+- **Producer:** [[ceritas|Ceritas]]
 - **Cuvée:** Chardonnay Peter Martin Ray
 - **Vintage:** 2013
 - **Format:** 750ml

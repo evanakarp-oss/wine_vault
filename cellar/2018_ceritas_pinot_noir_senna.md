@@ -22,7 +22,7 @@ opened: []
 
 # Ceritas — Pinot Noir Senna 2018
 
-- **Producer:** Ceritas
+- **Producer:** [[ceritas|Ceritas]]
 - **Cuvée:** Pinot Noir Senna
 - **Vintage:** 2018
 - **Format:** 750ml

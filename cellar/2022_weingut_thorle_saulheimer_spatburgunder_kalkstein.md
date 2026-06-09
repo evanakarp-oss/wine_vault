@@ -22,7 +22,7 @@ opened: []
 
 # Weingut Thörle — Saulheimer Spätburgunder Kalkstein 2022
 
-- **Producer:** Weingut Thörle
+- **Producer:** [[weingut_thorle|Weingut Thörle]]
 - **Cuvée:** Saulheimer Spätburgunder Kalkstein
 - **Vintage:** 2022
 - **Format:** 750ml

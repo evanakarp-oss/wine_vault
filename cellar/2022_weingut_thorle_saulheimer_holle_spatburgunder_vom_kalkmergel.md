@@ -22,7 +22,7 @@ opened: []
 
 # Weingut Thörle — Saulheimer Hölle Spätburgunder Vom Kalkmergel 2022
 
-- **Producer:** Weingut Thörle
+- **Producer:** [[weingut_thorle|Weingut Thörle]]
 - **Cuvée:** Saulheimer Hölle Spätburgunder Vom Kalkmergel
 - **Vintage:** 2022
 - **Format:** 750ml

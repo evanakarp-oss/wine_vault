@@ -22,7 +22,7 @@ opened: []
 
 # Paolo Bea — Rosso de Véo 2017
 
-- **Producer:** Paolo Bea
+- **Producer:** [[paolo_bea|Paolo Bea]]
 - **Cuvée:** Rosso de Véo
 - **Vintage:** 2017
 - **Format:** 750ml

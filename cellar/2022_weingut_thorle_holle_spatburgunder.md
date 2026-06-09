@@ -22,7 +22,7 @@ opened: []
 
 # Weingut Thörle — Hölle Spätburgunder 2022
 
-- **Producer:** Weingut Thörle
+- **Producer:** [[weingut_thorle|Weingut Thörle]]
 - **Cuvée:** Hölle Spätburgunder
 - **Vintage:** 2022
 - **Format:** 750ml

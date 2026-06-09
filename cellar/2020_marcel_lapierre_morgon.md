@@ -22,7 +22,7 @@ opened: []
 
 # Marcel Lapierre — Morgon 2020
 
-- **Producer:** Marcel Lapierre
+- **Producer:** [[marcel_lapierre|Marcel Lapierre]]
 - **Cuvée:** Morgon
 - **Vintage:** 2020
 - **Format:** 750ml

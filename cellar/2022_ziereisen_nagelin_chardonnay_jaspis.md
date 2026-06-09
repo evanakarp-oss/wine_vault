@@ -22,7 +22,7 @@ opened: []
 
 # Ziereisen — Nägelin Chardonnay Jaspis 2022
 
-- **Producer:** Ziereisen
+- **Producer:** [[ziereisen|Ziereisen]]
 - **Cuvée:** Nägelin Chardonnay Jaspis
 - **Vintage:** 2022
 - **Format:** 750ml

@@ -22,7 +22,7 @@ opened: []
 
 # Beta — Cabernet Sauvignon Maus 2021
 
-- **Producer:** Beta
+- **Producer:** [[beta|Beta]]
 - **Cuvée:** Cabernet Sauvignon Maus
 - **Vintage:** 2021
 - **Format:** 750ml
