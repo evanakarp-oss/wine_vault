@@ -283,3 +283,15 @@ Santa Cruz Mountains (Sandar & Hem, SCMV, Ceritas PMR) + restrained Napa
 (MacDonald, Beta). Best Bordeaux filter-fit buy: Clos du Jaugueyron.
 Flagged Loire Cab Franc as fully unowned despite deep vault coverage
 (Baudry ★20/45, Guion ★9/17, Rougeard).
+
+## [2026-06-10] view | Auction 261W Week 24 Cabernet screen
+
+Landed `raw/auctions/Catalog_261W_24.xlsx` (1,965 lots) and filed
+`wiki/_views/auction_261w_week24_cab_screen_2026_06.md` — the catalog
+screened against `cabernet_definitive_list_2026_06.md`. Three of the five
+reference-set producers are in the sale: Dunn (5 lots incl. 2004 HM at
+$110-150), Dalla Valle (1993 at ~$50-75/btl across 19 bottles, Maya 92/93),
+La Jota (1992/1994 at ~$52-84/btl). Montelena 1984-1997 near-vertical at
+$75-135/btl. Bordeaux drink-now: Gruaud 1982, Cos 1979, Montrose 2014
+(~$100/btl). No Corison or Ridge Monte Bello in the sale. Cult tier
+(Screaming Eagle, Scarecrow, Promontory, SQN) present and skipped.
