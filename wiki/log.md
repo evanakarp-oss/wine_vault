@@ -311,3 +311,19 @@ $37–50/btl ×2 lots, Buisson-Charles Bourgogne Rouge cases at $20–27/btl,
 1990 Bürklin-Wolf Eiswein, Dominus 1990–94 run, 2001 Turley Hayne (97pts),
 1959 Banyuls 6-pack at $75–100/btl. No-estimate lowball targets: Galeyrand,
 Volpaia Gran Selezione, Corte Pavone. Priced-out: DRC, Guilbert-Gillet, Bizot.
+
+## [2026-06-10] view | Zachys Palm Beach collection top picks (1,742 lots screened)
+
+Filed `wiki/_views/zachys_palm_beach_top_picks_2026_06.md` from the Zachys
+zCollections "Exceptional Palm Beach Collection" listing (NY, June 9–22;
+landed at `raw/auctions/zachys_zcollections_palm_beach_2026-06.xls`). Bulk is
+cult California (Schrader 116 lots, Marcassin 29, Bond 23 — skipped), but the
+remainder is strong: 6x 2004 Guido Porro Santa Caterina at $20–30/btl, 9x 2012
+Pataille Clos du Roy at $33–51/btl, aged Produttori riservas, 8-lot Bartolo
+Mascarello ladder, 12x 2019 Ramonet Chassagne Rouge at $50–75/btl, 6x 1990
+Pégau, 2007 Gonon VV, 2003 Soldera Riserva, 12x 1999 Sammarco at $54–79/btl,
+1989 GPL/Rauzan-Ségla at $73–113/btl, 12x 2005 Dom. de Chevalier at $50–75/btl,
+1988 Ridge Monte Bello magnum, 12x 2010 Eyrie at $20–30/btl, 2001 Királyudvar
+Esszencia. Condition-aware (older cellar — shoulder fills on pre-1990 lots).
+Cross-catalog overlaps with 261W flagged (Ledru, Diamond Creek, Dunn 2008,
+Clos Rougeard).
