@@ -110,6 +110,83 @@ mid-tier Bordeaux 12-packs (Clinet '96/'97, Le Bon Pasteur, Péby Faugères —
 Rolland-modern style). Generic NV Champagne (Collet, Piper). Mollydooker-tier
 Australia. The Vivaltus/Toro Spain lots.
 
+## Addendum (2026-06-10): Bordeaux deep cuts + natural-farming sweep
+
+Second pass on two follow-up questions: remaining Bordeaux of interest, and a
+dedicated screen for natural / biodynamic / low-intervention farming.
+
+### Sauternes/Barsac — the best $/quality in the catalog
+
+- Lot 4417 — **12x 2011 Doisy-Daëne, $260–350 → $22–29/btl** (95pts) — Denis
+  Dubourdieu's Barsac; precise, never heavy. Textbook undercovered-value-with-
+  great-farming. Second identical lot 17968.
+- Lot 21395 — **12x 2009 Rieussec, $350–500 → $29–42/btl** (98pts); halves even
+  cheaper (lot 13533: 12 halves 2010, $15–20/half). A wall of Rieussec lots —
+  bid the cheapest, never chase.
+- Lot 22160 — 2x **1986 Coutet Cuvée Madame**, $300–400 ($150–200/btl, 96pts) —
+  rare old-vine bottling, fully mature.
+- Lot 24451 — half **2003 Doisy-Daëne L'Extravagance**, $160–220 (99pts).
+- Lot 24049 — **1967 d'Yquem**, $1100–1400 (99pts) — the legendary vintage; wildcard tier.
+- All the big Rieussec/Suduiraut walls are **HK location**.
+
+### Red/white Bordeaux deep cuts
+
+- Lot 16127 — 2x **1985 Laville Haut-Brion**, $600–800 ($300–400/btl, 93pts) —
+  legendary aged white Graves, genuinely rare.
+- Lot 23112 — 3x **2009 Domaine de Chevalier**, $220–300 ($73–100/btl, 95pts) —
+  classed Graves entering its window; quiet, classical.
+- Lot 17949 — 12x **2016 La Lagune, $450–600 → $37–50/btl** (93 VM) — certified
+  organic/biodynamic-run classed growth; the one *natural-leaning* Bordeaux here.
+- Lots 17959/17960 — 12x **Poujeaux 2012/2014, $240–320 → $20–27/btl** — WK-style
+  cru bourgeois value, serious farming, Moulis. Potensac 2011 ($17–23/btl) and
+  Camensac 2016 ($22–29/btl) same idea. All HK.
+- Lot 24549 — **2006 Palmer**, $160–220 (94pts) — single-bottle classed growth
+  approaching drink-now; estate is biodynamic today (post-2006 conversion).
+- Lot 24142 — 6x **2014 Montrose**, $500–700 ($83–117/btl, 96pts) — great buy but
+  needs another decade; only if patient.
+- **Skip**: the Le Bon Pasteur wall (9 lots — Rolland's own estate, modern style),
+  Croix de Labrie, La Mondotte imperial — garage-modern, off-taste.
+
+### Natural / biodynamic sweep (across all regions)
+
+**Burgundy:**
+- Lot 24522 — **2010 Philippe Pacalet Nuits-St-Georges, $90–120** — whole-cluster,
+  minimal-SO2 négoce from the Chauvet lineage; aged. Best natural buy in the sale.
+- Lot 24495 — 4x **2006 Comte Armand Pommard Clos des Épeneaux**, $300–400
+  ($75–100/btl) — biodynamic monopole, 20 years old.
+- Lots 22000/24045 — 6x **2019 Chandon de Briailles Corton Clos du Roi**,
+  $700–900 ($117–150/btl) — biodynamic, whole-cluster, zero new oak.
+- Lot 24503 — **2009 de Montille Volnay Taillepieds**, $90–120 — bio, aged, single.
+- Lots 22019/22021 — 12x **Naudin-Ferrand 2016** low-SO2 old-vine cuvées
+  (Myosotis Arvensis HCdN $54–67/btl; Viola Odorata CdN-Villages $67–83/btl).
+- Lots 24406/24420 — 12x **Naima & David Didon 2022** (organic young St-Aubin
+  domaine): Bourgogne Blanc **$12.5–17/btl**, Rouge $17–23/btl (HK).
+- Lot 24247 — 2x **2022 Cécile Tremblay Bourgogne Côte d'Or**, $300–400 — bio.
+- Les Horées singles (lots 23854/55, 24249, $140–200) — new organic micro-négoce.
+- Lot 24500 — 2x **2003 Domaine de l'Arlot Clos des Forêts St-Georges**, $100–140
+  ($50–70/btl) — bio, fully mature.
+- Lot 24127 — **2002 Maison Leroy Bourgogne Blanc**, $90–120 — aged Leroy négoce.
+
+**Rhône:** lot 24532 — 4x **2007 Vieille Julienne CdP, $120–160 → $30–40/btl**
+(95pts, organic/bio estate) — sleeper; lot 16644 — 3x **2000 Marcoux VV**
+($117–167/btl, 96pts) — the Armenier sisters, biodynamic pioneers.
+
+**Italy:** lot 4532 — 12x **2021 Podere Le Boncie Chiesamonti, $800–1100 →
+$67–92/btl** — Giovanna Morganti's natural Chianti, hard to find by the case;
+lot 15190 — 2x 2017 Le Cinciole Petresco ($35–45/btl, organic Panzano);
+lot 23923 — Philine Isabelle Langhe Bianco (natural Barolo-zone micro);
+G. Canonica (lot 23927, no estimate) — natural Barolo legend, lowball it.
+
+**California (coastal/own-rooted, natural-adjacent):** lot 24543 — 11x **2012
+Hirsch Bohan-Dillon Pinot, $180–240 → $16–22/btl** — extreme Sonoma Coast,
+aged, stupid cheap; lot 24548 — 4x 2012 Hirsch Chardonnay ($30–40/btl);
+Cobb / Anthill Farms / Wind Gap Soif singles, mostly no-estimate = lowball
+opportunities; lot 4559 — 8x Drew Bahl Briney Chardonnay ($25–35/btl, Mendocino).
+
+**Other:** lot 24482 — **1998 Château Musar**, $90–120 — natural before the word
+existed; **BK Wines** 12-packs (Brendon Keys, Adelaide Hills low-intervention —
+catalog mislabels as Austria) at $12.5–20/btl (HK).
+
 ## Cellar connections
 
 Already own: [[burlotto|Burlotto]] (2008 Barolo), [[roagna|Roagna]] (2020
