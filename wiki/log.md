@@ -286,3 +286,16 @@ F. Rinaldi Cannubi 6-packs ($47–58/btl, HK), Sunier Morgon cases ($15–20/btl
 Boisson Aligoté cases. Gap-fill note: vault has pages but zero bottles for
 Clos Rougeard, Allemand, G. Conterno, Levet, Sunier, Marguet, Péters, Schaefer,
 Boisson.
+
+## [2026-06-10] view | 261W addendum — Bordeaux deep cuts + natural-farming sweep
+
+Appended addendum to `wiki/_views/auction_261w_top_picks_2026_06.md` answering
+two follow-ups. Sauternes is the catalog's best $/quality: 12x 2011 Doisy-Daëne
+at $22–29/btl (95pts), 12x 2009 Rieussec at $29–42/btl (98pts), 1986 Coutet
+Cuvée Madame. Bordeaux deep cuts: 1985 Laville Haut-Brion, 2009 Domaine de
+Chevalier ($73–100/btl), organic-run 2016 La Lagune ($37–50/btl), Poujeaux
+12-packs ($20–27/btl); skipped the 9-lot Le Bon Pasteur wall. Natural sweep:
+2010 Philippe Pacalet NSG ($90–120), 2006 Comte Armand Épeneaux ($75–100/btl),
+Chandon de Briailles Corton, Naudin-Ferrand low-SO2 cases, Didon Bourgogne
+cases ($12.5–17/btl), 2007 Vieille Julienne CdP ($30–40/btl), Le Boncie
+Chiesamonti case, 11x 2012 Hirsch Bohan-Dillon ($16–22/btl), 1998 Musar.
