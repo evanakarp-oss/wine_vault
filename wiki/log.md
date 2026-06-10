@@ -269,3 +269,20 @@ Charles Audoin — WK's Marsannay benchmark, 19 DTE cuvées $45–65, zero
 bottles owned. Flagged: `loersch.md` mis-tagged Burgundy (is Mosel); four
 duplicate producer-page pairs (Bouley ×2, Cheurlin/G. Noëllat, Roty ×2,
 Berthaut ×2).
+
+## [2026-06-10] view | Auction catalog 261W top picks (1,965 lots screened)
+
+Filed `wiki/_views/auction_261w_top_picks_2026_06.md` from a 1,965-lot auction
+catalog (Delaware + Hong Kong; landed at `raw/auctions/catalog_261W_2026-06.xlsx`).
+Screened all lots against the CLAUDE.md taste filters. Catalog is CA-heavy (728
+lots, mostly skipped cult tier) but hides an aged restrained-Napa seam squarely
+on the reference set: Dunn HM verticals ('87/'92/'04/'08), La Jota 1992 HM at
+$52–70/btl, Dalla Valle 1993 at $50–71/btl, Togni '92, Montelena Estate
+1984–1997 vertical. Tier-1 also: 9x 1993 Huet Cuvée Constance ($72–94/btl),
+Prévost Les Béguines, 6x 2008 Clos des Goisses, 2002 Raffault Picasses
+($40–53/btl), Roagna Pira '19 (97 VM, $110–140), 2020 Prüm WS Auslese 6-packs
+($33–47/btl), Clos Rougeard '11, Allemand Reynard '04, Chevillon Chaignots '10,
+F. Rinaldi Cannubi 6-packs ($47–58/btl, HK), Sunier Morgon cases ($15–20/btl),
+Boisson Aligoté cases. Gap-fill note: vault has pages but zero bottles for
+Clos Rougeard, Allemand, G. Conterno, Levet, Sunier, Marguet, Péters, Schaefer,
+Boisson.
