@@ -269,3 +269,17 @@ Charles Audoin — WK's Marsannay benchmark, 19 DTE cuvées $45–65, zero
 bottles owned. Flagged: `loersch.md` mis-tagged Burgundy (is Mosel); four
 duplicate producer-page pairs (Bouley ×2, Cheurlin/G. Noëllat, Roty ×2,
 Berthaut ×2).
+
+## [2026-06-10] view | Definitive Cabernet target list
+
+Filed `wiki/_views/cabernet_definitive_list_2026_06.md`. Joined the 39
+Cabernet-labeled cellar entries + Bordeaux/Italian blends against the
+California/Bordeaux rollups, WB top-100 matrix, and the Raeders aged-value
+view, ranked by the 2026-05-29 taste filter. Core finding: all five
+reference-set producers (Dunn, Corison, La Jota, Dalla Valle, Ridge Monte
+Bello) have zero bottles owned and no producer pages — Ridge is WB #3 with
+the cellar already holding Three Valleys 2021. Cellar's actual Cab spine is
+Santa Cruz Mountains (Sandar & Hem, SCMV, Ceritas PMR) + restrained Napa
+(MacDonald, Beta). Best Bordeaux filter-fit buy: Clos du Jaugueyron.
+Flagged Loire Cab Franc as fully unowned despite deep vault coverage
+(Baudry ★20/45, Guion ★9/17, Rougeard).
