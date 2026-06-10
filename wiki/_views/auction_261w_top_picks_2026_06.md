@@ -187,6 +187,50 @@ opportunities; lot 4559 — 8x Drew Bahl Briney Chardonnay ($25–35/btl, Mendoc
 existed; **BK Wines** 12-packs (Brendon Keys, Adelaide Hills low-intervention —
 catalog mislabels as Austria) at $12.5–20/btl (HK).
 
+### Natural sweep, part 2 (2026-06-10): biodynamic-certified + natural icons
+
+- Lot 24528 — 4x **2002 Rossignol-Trapet Chambertin, $700–900 → $175–225/btl** —
+  biodynamic-farmed *grand cru Chambertin* at 24 years old, under Dunn-1987
+  money. The single best natural-wine value in the sale. (Also lot 23981 —
+  6x 2022 Latricières, $133–183/btl.)
+- Lot 22056 — 6x **2016 Stéphane Bernaudeau Les Ongles**, $950–1200
+  ($158–200/btl) — natural Anjou chenin icon (ex-Mark Angeli vines); almost
+  never seen six at a time. Pairs with the Richard Leroy singles.
+- Lot 24497 — **2011 Comte Lafon Monthélie Les Duresses, $50–70** (91pts) —
+  biodynamic-certified Lafon, mature, at Bourgogne-rouge money. Sleeper. Also
+  lot 24498 — 2009 Volnay Santenots-du-Milieu, $120–160 (93 BH); lot 24250 —
+  2x 2022 Meursault, $150–200/btl.
+- Lot 24282 — 2x **1993 Araujo Eisele Vineyard Cab, $240–320 → $120–160/btl**
+  (96pts) — the biodynamic estate era of Napa's greatest single vineyard, fully
+  mature, restrained pre-cult style. Also lot 24392 — 3x 2011 Eisele Syrah,
+  $50–67/btl; lot 22501 — 2x 2004 Eisele Sauvignon Blanc, $32–40/btl.
+- Lots 24181/82 — 6x **2015 Le Ragnaie Brunello, $220–300 → $37–50/btl** —
+  organic, high-altitude, whole-cluster trad Montalcino in a top vintage. Two
+  identical lots.
+- Lots 23768/24397/98 — 12x **2023 Buisson-Charles Bourgogne Rouge Hautes
+  Coutures, $240–320 → $20–27/btl** (organic, low-intervention Meursault house;
+  Beaune Teurons cases at $37–50/btl). HK.
+- Lot 19650 — 2x **1990 Dr. Bürklin-Wolf Eiswein Wachenheimer Mandelgarten**,
+  $240–320 ($120–160/btl) — the biodynamic Pfalz estate, 36-year-old Eiswein;
+  lot 19649 — 5 halves 1997 BA, $60–80/half.
+- Lot 24316–19 — **Dominus 1990–1994** (dry-farmed Napanook): the 1992
+  (3x, $183–250/btl, 95pts) is the value entry; 1991/1994 are 99-pointers.
+- Lot 24480 — **2001 Turley Hayne Zinfandel, $70–90** (97pts) — organically
+  farmed century-old vines, mature.
+- Lot 16639 — 4x **2003 Mordorée CdP Reine des Bois**, $240–320 ($60–80/btl) —
+  organic Châteauneuf.
+- Lot 24557 — **2021 J. Galeyrand Gevrey En Billard, no estimate** — organic
+  artisan Gevrey; lowball it. Same for Volpaia Gran Selezione '17 and Corte
+  Pavone Brunello '07 (both organic/bio, no estimate).
+- Lot 19030 — 6x **1959 Terroirs du Sud Banyuls VDN, $450–600 → $75–100/btl** —
+  67-year-old fortified Grenache; wildcard, but old Banyuls is indestructible
+  and this is dinner-party magic.
+- Eco Terreno 2018 Cab (2x, $27–35/btl, regenerative/bio Alexander Valley) and
+  Benziger Sangiacomo Chardonnay (3x, ~$12/btl, bio estate) — low-stakes fliers.
+- **Priced out but noting**: DRC (bio, 12 lots, $2,400+/btl), Guilbert-Gillet
+  Savigny ($325–600/btl for Savigny — the hype tax in one line), Bizot
+  Échezeaux, Domaine Leroy '94 Clos Vougeot.
+
 ## Cellar connections
 
 Already own: [[burlotto|Burlotto]] (2008 Barolo), [[roagna|Roagna]] (2020
