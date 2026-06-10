@@ -299,3 +299,15 @@ Chevalier ($73–100/btl), organic-run 2016 La Lagune ($37–50/btl), Poujeaux
 Chandon de Briailles Corton, Naudin-Ferrand low-SO2 cases, Didon Bourgogne
 cases ($12.5–17/btl), 2007 Vieille Julienne CdP ($30–40/btl), Le Boncie
 Chiesamonti case, 11x 2012 Hirsch Bohan-Dillon ($16–22/btl), 1998 Musar.
+
+## [2026-06-10] view | 261W natural sweep part 2 — biodynamic certified + icons
+
+Extended the natural section of `wiki/_views/auction_261w_top_picks_2026_06.md`.
+Headline: 4x 2002 Rossignol-Trapet Chambertin at $175–225/btl (aged biodynamic
+grand cru — best natural value in the sale). Also: 6x 2016 Stéphane Bernaudeau
+Les Ongles ($158–200/btl), 2011 Comte Lafon Monthélie at $50–70 (bio, mature,
+91pts), 1993 Araujo Eisele at $120–160/btl, 6x 2015 Le Ragnaie Brunello at
+$37–50/btl ×2 lots, Buisson-Charles Bourgogne Rouge cases at $20–27/btl,
+1990 Bürklin-Wolf Eiswein, Dominus 1990–94 run, 2001 Turley Hayne (97pts),
+1959 Banyuls 6-pack at $75–100/btl. No-estimate lowball targets: Galeyrand,
+Volpaia Gran Selezione, Corte Pavone. Priced-out: DRC, Guilbert-Gillet, Bizot.
