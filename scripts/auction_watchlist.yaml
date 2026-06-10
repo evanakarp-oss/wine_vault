@@ -1,0 +1,124 @@
+# Watchlist for scripts/auction_watch.py — seeded from CLAUDE.md "Curation
+# taste" + wiki/_views/cabernet_definitive_list_2026_06.md (2026-06-10).
+#
+# Patterns are case-insensitive regexes matched against
+# "<WineName> <Designation> <Producer>" for each auction lot.
+# Tiers are ordered by priority; a lot reports under its first matching tier.
+# Exclusions are checked first and suppress any match (cult-hedonist tier
+# per the Napa filter, plus mass-market noise).
+
+tiers:
+  - name: "Cabernet reference set"
+    note: "The five filter-reference producers — zero bottles owned (view §1)"
+    patterns:
+      - '\bDunn\b'
+      - '\bCorison\b'
+      - 'La Jota'
+      - 'Dalla Valle'
+      - 'Monte ?Bello'
+
+  - name: "Cabernet mountain / restrained / Santa Cruz Mtns"
+    note: "Filter-fit adjacents + producers already anchoring the cellar (view §2)"
+    patterns:
+      - 'Montelena'
+      - 'Mayacamas'
+      - 'Diamond Creek'
+      - 'Togni'
+      - '\bForman\b'
+      - 'Spottswoode'
+      - 'Smith.?Madrone'
+      - 'Mount Eden'
+      - 'Stony Hill'
+      - 'Araujo|Eisele Vineyard'
+      - 'Heitz.*Martha|Martha''s Vineyard.*Heitz'
+      - 'Ceritas'
+      - 'Santa Cruz Mountain Vineyard'
+      - 'Sandar'
+      - 'MacDonald Cabernet'
+      - 'Ridge.*(Geyserville|Lytton|Estate Cabernet)'
+
+  - name: "Bordeaux — farming-first + aged classed growth"
+    note: "WK-style value w/ great farming; classed growth only when aged/drink-now (view §3/§4)"
+    patterns:
+      - 'Pontet.?Canet'
+      - 'Lynch.?Bages'
+      - 'Montrose'
+      - 'Gruaud.?Larose'
+      - "Cos d'?Estournel"
+      - 'Pichon'
+      - 'L[eé]oville'
+      - 'Calon.?S[eé]gur'
+      - 'Ducru.?Beaucaillou'
+      - 'Ch[aâ]teau Palmer'
+      - 'Haut.?Bailly'
+      - 'Smith.?Haut.?Lafitte'
+      - 'Domaine de Chevalier'
+      - 'Jaugueyron'
+      - 'Ch[aâ]teau Le Puy'
+      - 'Puy Arnaud'
+      - 'Pibran'
+      - 'Lafite|Mouton Rothschild|Ch[aâ]teau Latour\b|Ch[aâ]teau Margaux|Haut.?Brion'
+
+  - name: "Champagne — grower / late-disgorged / aged vintage"
+    patterns:
+      - '\bSalon\b'
+      - 'Krug'
+      - 'Dom P[eé]rignon.*(P2|P3|Oenoth)'
+      - 'Bollinger.*(R\.?D\.?|Vieilles Vignes)'
+      - 'Pierre P[eé]ters'
+      - 'Agrapart'
+      - 'Selosse'
+      - 'C[eé]dric Bouchard'
+      - 'Lassaigne'
+      - 'Pr[eé]vost'
+      - 'Egly.?Ouriet'
+      - 'Vilmart'
+      - 'Georges Laval'
+      - 'Larmandier'
+
+  - name: "Burgundy / Loire / Piedmont / Mosel growers"
+    note: "Auction-relevant names from the cellar + WB/WK cross-signal views"
+    patterns:
+      - 'Clos Rougeard'
+      - 'Baudry'
+      - 'Chevillon'
+      - 'Lafarge'
+      - "d'Angerville"
+      - 'Mugnier'
+      - 'Rousseau'
+      - 'Roumier'
+      - 'Dujac'
+      - 'C[eé]cile Tremblay'
+      - 'Trapet'
+      - 'Sylvie Esmonin'
+      - 'Giuseppe Rinaldi|G\. Rinaldi'
+      - 'Bartolo Mascarello|B\. Mascarello'
+      - 'Cappellano'
+      - 'Giacomo Conterno'
+      - 'Burlotto'
+      - 'Produttori del Barbaresco.*Riserva'
+      - 'Roddolo'
+      - 'San Leonardo'
+      - 'Willi Schaefer'
+      - 'J\.? ?J\.? Pr[uü]m'
+      - 'Egon M[uü]ller'
+      - 'D[oö]nnhoff'
+
+exclusions:
+  # Cult-hedonist tier — explicitly outside the Napa filter (view §6)
+  - 'Screaming Eagle'
+  - 'Harlan'
+  - 'Promontory'
+  - '\bBond\b'
+  - 'Scarecrow'
+  - 'Schrader'
+  - 'Colgin'
+  - 'Hundred Acre'
+  - 'Sine Qua Non'
+  - 'Bryant Family'
+  - 'Maybach'
+  - '\bRealm\b'
+  # Generic-luxe noise that pattern-collides with targets
+  - 'Silver Oak'
+  - 'Caymus'
+  - 'Stoetz Ridge|West Ridge|Ridgecrest'

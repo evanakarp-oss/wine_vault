@@ -1,0 +1,60 @@
+name: auction_watch
+
+# Weekly auction scour: fetches current catalogs from the major wine-auction
+# platforms, screens every lot against scripts/auction_watchlist.yaml
+# (seeded from CLAUDE.md curation taste + the Cabernet target-list view),
+# and opens a GitHub issue with the hit report. Manual runs via
+# workflow_dispatch for shakedown or mid-week sales.
+#
+# NOTE: scheduled workflows only fire from the default branch — this arms
+# once merged to main.
+
+on:
+  schedule:
+    - cron: "0 13 * * 1" # Mondays 13:00 UTC (9am ET) — catalogs post over the weekend
+  workflow_dispatch:
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch + screen auction catalogs
+        run: python scripts/auction_watch.py
+
+      - name: Upload report artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: auction-watch-report
+          path: build/auction_watch/
+
+      - name: Open issue when there are hits
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          hits=$(python -c "import json; print(len(json.load(open('build/auction_watch/hits.json'))))")
+          if [ "$hits" -gt 0 ]; then
+            gh issue create \
+              --repo "$GITHUB_REPOSITORY" \
+              --title "Auction watch $(date +%F): $hits watchlist hit(s)" \
+              --body-file build/auction_watch/report.md \
+              --label auction-watch || \
+            gh issue create \
+              --repo "$GITHUB_REPOSITORY" \
+              --title "Auction watch $(date +%F): $hits watchlist hit(s)" \
+              --body-file build/auction_watch/report.md
+          else
+            echo "No hits this week — no issue filed."
+          fi
