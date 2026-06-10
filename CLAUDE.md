@@ -104,7 +104,7 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
 - `ingest_csw.py` — match CSW articles → producer write-ups (re-run after adding producers)
 - `compile_raeders.py` + `compile_raeders_creates_v2.py` — Raeders integration
 - `scrape_wb_thread.py` + `parse_wb_thread.py` + `compile_wb_signals.py` + `build_wb_rollups.py` — Berserkers thread pipeline. Each thread becomes per-producer frontmatter signals + a `## Berserkers` body section + rollup views (top-100, momentum, cellar-overlap, gap candidates).
-- `auction_watch.py` + `auction_watchlist.yaml` — weekly auction scour (`.github/workflows/auction_watch.yml`, Mondays 9am ET). Screens platform catalogs against a taste-filter watchlist; hits open a GitHub issue. `--xlsx <file>` screens a local Acker-format catalog by hand. Watchlist edits = update the YAML, no code change.
+- `auction_watch.py` + `auction_watchlist.yaml` — weekly auction scour (`.github/workflows/auction_watch.yml`, Wednesdays 9am ET). Screens platform catalogs against a taste-filter watchlist; hits open a GitHub issue. `--xlsx <file>` screens a local Acker-format catalog by hand. Watchlist edits = update the YAML, no code change.
 
 ## Conventions
 
@@ -137,7 +137,7 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
 - **Raeders candidates** — `scripts/audit_raeders_candidates.py` produces a triage table at `build/raeders_candidates.md` (1,541 producers not yet in vault). Triage with Evan's curation taste; onboard the keepers via `compile_raeders_creates_v2.py`.
 - **Berserkers threads** — pipeline wired (2026-05), `top10_in_cellar` is the only ingested thread. To add another: scrape → parse → compile, see `raw/berserkers/README.md`.
 - **JSX widget rewire** — `scripts/build_widget_json.py` now emits `build/widget_data.json` from the vault. The widget JSX file (`dte_wines_1.jsx`) lives outside this repo; update it to `fetch('/build/widget_data.json')` instead of the hardcoded arrays.
-- **Auction watch shakedown (2026-06-10)** — `auction_watch.py` is wired and the screen is verified against Acker 261W (1,965 lots → 176 hits), but only the Acker CDN adapter is automated; Zachys / HDH / WineBid / K&L / Sotheby's / Christie's / Spectrum surface as manual-check links in each report. The cron arms only once the workflow file reaches `main`. After the first live Monday run: verify the Acker sale/week URL probe held, then add adapters for whichever platform Evan checks most (network is open on Actions runners, unlike Claude sessions).
+- **Auction watch shakedown (2026-06-10)** — `auction_watch.py` is wired and the screen is verified against Acker 261W (1,965 lots → 176 hits), but only the Acker CDN adapter is automated; Zachys / HDH / WineBid / K&L / Sotheby's / Christie's / Spectrum surface as manual-check links in each report. The cron arms only once the workflow file reaches `main`. After the first live Wednesday run: verify the Acker sale/week URL probe held, then add adapters for whichever platform Evan checks most (network is open on Actions runners, unlike Claude sessions).
 
 ## Closed follow-ups (2026-05-26)
 

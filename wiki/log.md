@@ -299,7 +299,7 @@ $75-135/btl. Bordeaux drink-now: Gruaud 1982, Cos 1979, Montrose 2014
 ## [2026-06-10] ops | Weekly auction-watch agent wired
 
 Added `scripts/auction_watch.py` + `scripts/auction_watchlist.yaml` +
-`.github/workflows/auction_watch.yml`. Every Monday 9am ET the workflow
+`.github/workflows/auction_watch.yml`. Every Wednesday 9am ET the workflow
 fetches current auction catalogs (Acker weekly xlsx automated via its CDN
 sale/week pattern; Zachys/HDH/WineBid/K&L/Sotheby's/Christie's/Spectrum as
 manual-check links until adapters are tuned), screens every lot against a

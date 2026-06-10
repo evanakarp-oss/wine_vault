@@ -3,7 +3,7 @@
 platforms, screen every lot against scripts/auction_watchlist.yaml (seeded
 from Evan's curation taste), and write a markdown hit report.
 
-Run by .github/workflows/auction_watch.yml every Monday; the workflow opens
+Run by .github/workflows/auction_watch.yml every Wednesday; the workflow opens
 a GitHub issue when there are hits. Also usable by hand:
 
     python scripts/auction_watch.py                     # fetch + screen all platforms
