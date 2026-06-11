@@ -343,3 +343,17 @@ Gevrey, Cassaneas = old Chassagne, ~900 btls). French critics validate: RVF
 Caveat for the taste filter: no bio/HVE claim anywhere — Lafon-adjacent
 custom-crush négociant, not a biodynamic grower. Follow-up: promote into
 `wiki/producers/maison_pierre_brisset.md`.
+
+## [2026-06-11] create | Maison Pierre Brisset producer page
+
+Created `wiki/producers/maison_pierre_brisset.md` from the non-English
+source research view (2026-06-11) + the four Fass articles in `raw/fass/` —
+closes the largest cellar-without-page gap (16 bottles across 7
+cuvée-vintages, all Fass buys). Page carries the founding story (2014,
+Château de Bligny, ex-VoyagerMoinsCher/Rakuten), the 0.5 ha Morgeot estate
+parcel, the Wine Studio custom-crush setup with Lafon/Meurgey, cellar
+regime, cuvée name decoder, and the French critic record (RVF 18/20,
+Hachette 2 stars, B&D, Gault&Millau). Evan's call: organic/bio status
+irrelevant for this producer type — placed on the terroir-transparency
+axis. Rollups regenerated (Burgundy_Producers + FASS_Selections now list
+him); index rebuilt; lint 0.

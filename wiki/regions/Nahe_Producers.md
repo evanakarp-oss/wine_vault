@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Nahe"
-updated: 2026-05-26
+updated: 2026-06-11
 producer_count: 3
 ---
 

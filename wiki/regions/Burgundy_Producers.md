@@ -1,16 +1,17 @@
 ---
 type: region_index
 region: "Burgundy"
-updated: 2026-05-26
-producer_count: 85
+updated: 2026-06-11
+producer_count: 86
 ---
 
 # Burgundy — Producer Index
 
-**85 producers** tracked.
+**86 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
+| [[maison_pierre_brisset|Maison Pierre Brisset]] | France | Côte de Beaune / Bligny-lès-Beaune | — | — | — | 0 | 16 btl |
 | [[jean-claude_rateau|Jean-Claude Rateau]] | France | Beaune | 13 | — | — | — | — |
 | [[benoit_courault|Benoit Courault]] | France | Anjou (Loire) | 11 | — | — | — | — |
 | [[domaine_de_montille|Domaine de Montille]] | France | Volnay / Pommard | 11 | — | — | — | — |
