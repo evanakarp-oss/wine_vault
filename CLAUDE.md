@@ -136,6 +136,7 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
 - **Raeders candidates** — `scripts/audit_raeders_candidates.py` produces a triage table at `build/raeders_candidates.md` (1,541 producers not yet in vault). Triage with Evan's curation taste; onboard the keepers via `compile_raeders_creates_v2.py`.
 - **Berserkers threads** — pipeline wired (2026-05), `top10_in_cellar` is the only ingested thread. To add another: scrape → parse → compile, see `raw/berserkers/README.md`.
 - **JSX widget rewire** — `scripts/build_widget_json.py` now emits `build/widget_data.json` from the vault. The widget JSX file (`dte_wines_1.jsx`) lives outside this repo; update it to `fetch('/build/widget_data.json')` instead of the hardcoded arrays.
+- **Ceritas producer page missing** (2026-06-11) — 14 cellar entries and a dedicated CSW article (`raw/csw/markdown/private-collection-ceritas-dirty-rowdy-and-radio-coteau.md`), but no `wiki/producers/ceritas.md`. Create from CSW + cellar data. Auction-watch view filed at `wiki/_views/ceritas_auction_watch_2026_06.md`.
 
 ## Closed follow-ups (2026-05-26)
 

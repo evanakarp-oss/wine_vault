@@ -327,3 +327,17 @@ Pégau, 2007 Gonon VV, 2003 Soldera Riserva, 12x 1999 Sammarco at $54–79/btl,
 Esszencia. Condition-aware (older cellar — shoulder fills on pre-1990 lots).
 Cross-catalog overlaps with 261W flagged (Ledru, Diamond Creek, Dunn 2008,
 Clos Rougeard).
+## [2026-06-11] view | Ceritas auction watch — near-$50 targets
+
+Filed `wiki/_views/ceritas_auction_watch_2026_06.md`. Venue sweep shows
+Ceritas trades only on WineBid (weekly, ~4 active items) and K&L Auctions;
+absent from HDH/Acker/Zachys/Spectrum and from both catalogs in
+`raw/auctions/`. Live lots surfaced: WineBid 2021 Astra Chardonnay + 2013
+Pinnacle Chard magnum; K&L 6-bottle 2019–21 Pinot tasting lot (Chloé,
+Elliott, Hellenthal Old Shop, Trout Gulch — bid ≤$300 = $50/btl) + 2019
+Porter Bass Chard. Near-$50 verdicts from Wine-Searcher averages vs.
+purchase baselines: Costalina PN and older Trout Gulch / PMR Chard are
+realistic; Occidental / Porter-Bass tier is not. Caveat: live bids
+unverifiable from the session (bot-blocked) — links need manual check.
+Gap noted: no `wiki/producers/ceritas.md` despite 14 cellar entries —
+added to CLAUDE.md open follow-ups.
