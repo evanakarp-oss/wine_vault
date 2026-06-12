@@ -327,3 +327,33 @@ Pégau, 2007 Gonon VV, 2003 Soldera Riserva, 12x 1999 Sammarco at $54–79/btl,
 Esszencia. Condition-aware (older cellar — shoulder fills on pre-1990 lots).
 Cross-catalog overlaps with 261W flagged (Ledru, Diamond Creek, Dunn 2008,
 Clos Rougeard).
+
+## [2026-06-11] view | Maison Pierre Brisset non-English source research
+
+Filed `wiki/_views/maison_pierre_brisset_non_english_sources_2026_06.md` —
+French + Japanese record on the producer behind 7 owned cuvée-vintages (all
+Fass buys, no producer page yet). Key finds: founded 2014 at Château de
+Bligny after selling VoyagerMoinsCher.com to Rakuten (2010, per Firadis JP);
+single 0.5 ha estate parcel (Chassagne 1er Abbaye de Morgeot, bought 2013),
+everything else purchased fruit; vinifies at the "Wine Studio" custom-crush
+cellar shared with Dominique Lafon + Pierre Meurgey; whites barrel-fermented,
+reds steel-then-barrique, unfiltered; cuvée names decoded (Gabrius = old
+Gevrey, Cassaneas = old Chassagne, ~900 btls). French critics validate: RVF
+18/20 Chassagne 1er (June 2017), Hachette 2 stars (2024), B&D, Gault&Millau.
+Caveat for the taste filter: no bio/HVE claim anywhere — Lafon-adjacent
+custom-crush négociant, not a biodynamic grower. Follow-up: promote into
+`wiki/producers/maison_pierre_brisset.md`.
+
+## [2026-06-11] create | Maison Pierre Brisset producer page
+
+Created `wiki/producers/maison_pierre_brisset.md` from the non-English
+source research view (2026-06-11) + the four Fass articles in `raw/fass/` —
+closes the largest cellar-without-page gap (16 bottles across 7
+cuvée-vintages, all Fass buys). Page carries the founding story (2014,
+Château de Bligny, ex-VoyagerMoinsCher/Rakuten), the 0.5 ha Morgeot estate
+parcel, the Wine Studio custom-crush setup with Lafon/Meurgey, cellar
+regime, cuvée name decoder, and the French critic record (RVF 18/20,
+Hachette 2 stars, B&D, Gault&Millau). Evan's call: organic/bio status
+irrelevant for this producer type — placed on the terroir-transparency
+axis. Rollups regenerated (Burgundy_Producers + FASS_Selections now list
+him); index rebuilt; lint 0.
