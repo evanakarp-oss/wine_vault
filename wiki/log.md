@@ -357,3 +357,19 @@ Hachette 2 stars, B&D, Gault&Millau). Evan's call: organic/bio status
 irrelevant for this producer type — placed on the terroir-transparency
 axis. Rollups regenerated (Burgundy_Producers + FASS_Selections now list
 him); index rebuilt; lint 0.
+
+## [2026-06-12] view | Acker + Blacksmith retail top picks (1,820 items screened)
+
+Filed `wiki/_views/acker_blacksmith_retail_picks_2026_06.md` from two
+uploaded retail lists: Acker US Fine & Rare stocklist (6/8/26, 1,661 items;
+landed at `raw/acker/fine_rare_stocklist_2026-06-08.xlsx`) and Blacksmith
+Wines sale catalog (6/12/26, 159 items; `raw/blacksmith/
+catalog_export_2026-06-12.xlsx`). Acker headliners: Dunn Howell Mtn 1995
+$299, D'Angerville Champans 1990 $299 (×23), Roulot Tessons 2004 $349
+(×24), Comtes de Champagne 2006 $165 (×146), Clos des Goisses 1996 $459,
+Burlotto Cannubi 2018 $299, Fourrier Chambolle VV 2015 $199, aged Prüm
+Spätlese $79–99, Jamet Côte Rôtie 2007 $249, Monte Bello 2004 $259.
+Blacksmith headliners: Pradeaux Bandol 1982/89 $125–135, La Jota Howell
+Mtn 2012 $135, Sociando-Mallet 1982 $125, Trapet Latricières 1997 $295,
+Beaucastel 1978 $295. Cult-Napa walls and trophy Burgundy skipped per
+taste. Condition caveats noted (Acker list has no fill data).
