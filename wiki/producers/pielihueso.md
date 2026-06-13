@@ -9,7 +9,8 @@ sub_region: "Los Chacayes / Los Sauces, Tunuyán"
 appellations: []
 farming: []
 certifications: []
-importer_us: []
+importer_us:
+- Bowler
 retailers:
   chambers:
     championed: false

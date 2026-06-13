@@ -2,18 +2,18 @@
 type: importer
 name: "Polaner"
 slug: polaner
-producer_count: 10
-focus: ['Burgundy', 'Loire', 'Piedmont']
-notable_producers: ['Domaine Baudry', 'Stéphane Guion', 'Domaine de la Chevalerie', 'Jean-Claude Rateau', 'Produttori del Barbaresco']
-updated: 2026-06-11
-tags: []
+producer_count: 28
+focus: ['Beaujolais', 'Burgundy', 'Champagne', 'Jura', 'Loire', 'Marche', 'Piedmont', 'Rhône', 'Tuscany']
+notable_producers: ['Domaine Baudry', 'Stéphane Guion', 'Domaine de la Chevalerie', 'Jean-Claude Rateau', 'Roagna']
+updated: 2026-06-13
 _source: wiki/_resources.md
 url: "https://polanerselections.com"
+tags: []
 ---
 # Polaner
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**10 producer(s)** in the vault imported by Polaner (US).
+**28 producer(s)** in the vault imported by Polaner (US).
 
 | Producer | Country | Region | CSW | Cellar |
 |---|---|---|---:|---:|
@@ -21,12 +21,30 @@ url: "https://polanerselections.com"
 | [[stephane_guion|Stéphane Guion]] | France | Loire | 17 | — |
 | [[domaine_de_la_chevalerie|Domaine de la Chevalerie]] | France | Loire | 15 | — |
 | [[jean-claude_rateau|Jean-Claude Rateau]] | France | Burgundy | 13 | — |
+| [[roagna|Roagna]] | Italy | Piedmont | 13 | 3 |
+| [[domaine_de_montille|Domaine de Montille]] | France | Burgundy | 11 | — |
+| [[arnot-roberts|Arnot-Roberts]] | France | Jura | 10 | — |
 | [[produttori_del_barbaresco|Produttori del Barbaresco]] | Italy | Piedmont | 10 | — |
+| [[agrapart|Agrapart]] | France | Champagne | 9 | 2 |
 | [[ceretto|Ceretto]] | Italy | Piedmont | 9 | — |
+| [[franck_balthazar|Franck Balthazar]] | France | Rhône | 5 | — |
+| [[giacomo_conterno|Giacomo Conterno]] | Italy | Piedmont | 5 | — |
 | [[jane_et_sylvain|Jane et Sylvain]] | France | Burgundy | 5 | — |
+| [[domaine_boisson|Domaine Boisson]] | France | Burgundy | 4 | — |
 | [[domaine_trapet|Domaine Trapet]] | France | Burgundy | 4 | — |
+| [[cascina_delle_rose|Cascina delle Rose]] | Italy | Piedmont | 3 | 1 |
+| [[trediberri|Trediberri]] | Italy | Piedmont | 3 | — |
+| [[boulay|Boulay]] | France | Loire | 2 | — |
+| [[montenidoli|Montenidoli]] | Italy | Tuscany | 2 | — |
 | [[rapet_pere_et_fils|Rapet Père et Fils]] | France | Burgundy | 2 | — |
+| [[vincent_paris|Vincent Paris]] | France | Rhône | 2 | — |
+| [[georges_glantenay|Georges Glantenay]] | France | Burgundy | 1 | — |
+| [[goisot|Goisot]] | France | Burgundy | 1 | — |
+| [[larmandier_bernier|Larmandier Bernier]] | France | Champagne | 1 | — |
+| [[collestefano|Collestefano]] | Italy | Marche | — | — |
 | [[gilles__jean__maxime_lafouge|Gilles / Jean / Maxime Lafouge]] | France | Burgundy | — | — |
+| [[julien_sunier|Julien Sunier]] | France | Beaujolais | — | — |
+| [[sigaut|Sigaut]] | France | Burgundy | — | — |
 
 *Compiled by `scripts/build_rollups.py`.*
 <!-- END AUTO-GENERATED -->

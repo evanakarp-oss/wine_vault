@@ -12,6 +12,7 @@ farming:
 certifications: []
 importer_us:
 - Kysela
+- Polaner
 retailers:
   chambers:
     championed: true

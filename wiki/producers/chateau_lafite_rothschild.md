@@ -10,7 +10,8 @@ sub_region: Pauillac
 appellations: []
 farming: []
 certifications: []
-importer_us: []
+importer_us:
+- BNP
 retailers:
   chambers:
     championed: false

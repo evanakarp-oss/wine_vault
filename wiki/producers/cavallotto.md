@@ -9,7 +9,8 @@ sub_region: "Barolo (Castiglione Falletto)"
 appellations: []
 farming: []
 certifications: []
-importer_us: []
+importer_us:
+- Skurnik
 retailers:
   chambers:
     championed: true

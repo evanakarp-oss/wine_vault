@@ -11,7 +11,8 @@ appellations: []
 farming:
 - sustainable
 certifications: []
-importer_us: []
+importer_us:
+- BNP
 retailers:
   chambers:
     championed: false

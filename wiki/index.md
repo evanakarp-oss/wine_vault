@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 893
+total_pages: 898
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**893 pages indexed.**
+**898 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -63,9 +63,12 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[AR_Wine_Imports|AR Wine Imports]] — Small portfolio.
 - [[Amuninni|Amuninni]] — Sicilian/Southern Italian specialist.
 - [[Avant-Garde_Wine|Avant-Garde Wine]] — Natural/artisan.
+- [[BNP|BNP]] — Bordeaux
+- [[Banville|Banville]] — Rhône
 - [[Becky_Wasserman_&_Co|Becky Wasserman & Co.]] — Burgundy
 - [[Black_Lamb_Wine|Black Lamb Wine]] — Georgia
 - [[Bobo_Selections|Bobo Selections]] — Small natural portfolio.
+- [[Bowler|Bowler]] — Beaujolais, Burgundy, Champagne, Liguria, Mendoza, Mosel, Piedmont, San Juan
 - [[Bradley_Alan_Imports|Bradley Alan Imports]] — Small artisan portfolio.
 - [[Brazos_Wine_Imports|Brazos Wine Imports]] — Argentina, Chile, Uruguay
 - [[Camille_Riviere|Camille Rivière]] — French natural. (see above)
@@ -83,7 +86,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Fleet_Street_Wine_Merchants|Fleet Street Wine Merchants]] — UK-adjacent portfolio.
 - [[Fruit_of_the_Vine|Fruit of the Vine]] — Logistics/import services. Not a traditional importer.
 - [[German_Wine_Collection_GWC|German Wine Collection (GWC)]] — German specialist.
-- [[Grand_Cru_Selections|Grand Cru Selections]] — Burgundy, France
+- [[Grand_Cru_Selections|Grand Cru Selections]] — Champagne
 - [[Graziano|Graziano]] — Italian specialist.
 - [[Hootananny|Hootananny]] — Natural wines.
 - [[Jeffrey_Alpert_Selections|Jeffrey Alpert Selections]] — NYC. Natural/artisan.
@@ -95,11 +98,11 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Louis|Louis]] — Burgundy, Jura, Rhône, Sicily
 - [[MFW_Wine_Co|MFW Wine Co.]] — France, Georgia, Italy
 - [[Martines_Wines|Martine's Wines]] — France, Italy
-- [[Neal_Rosenthal|Neal Rosenthal]] — Baden, Bordeaux, Piedmont
+- [[Neal_Rosenthal|Neal Rosenthal]] — Baden, Bordeaux, Burgundy, Jura, Piedmont, Rhône
 - [[Ole_&_Obrigado|Ole & Obrigado]] — Spanish and Portuguese wines. NY-based.
 - [[Omniwines_Distribution|Omniwines Distribution]] — Italian wines.
 - [[Other_Blues|Other Blues]] — Spanish, French, CA natural. Small operation.
-- [[Polaner|Polaner]] — Burgundy, Loire, Piedmont
+- [[Polaner|Polaner]] — Beaujolais, Burgundy, Champagne, Jura, Loire, Marche, Piedmont, Rhône, Tuscany
 - [[Roscioli_Wine_Club|Roscioli Wine Club]] — Italy, Piedmont, Tuscany, Sicily, Sardinia, Friuli
 - [[Ruff_Mix_Wines|Ruff Mix Wines]] — French natural wines. Camille Rivière adjacent.
 - [[Savio_Soares_Selections|Savio Soares Selections]] — France, Germany, Italy, Portugal
@@ -107,7 +110,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[SelectioNaturel|SelectioNaturel]] — Natural wines.
 - [[Selection_Massale|Selection Massale]] — France, Germany
 - [[Selections_de_la_Vina|Selections de la Viña]] — Spanish wines. Alvaro de la Viña.
-- [[Skurnik|Skurnik]] — Burgundy, Jura, Mosel, Nahe
+- [[Skurnik|Skurnik]] — Burgundy, Jura, Mendoza, Mosel, Nahe, Patagonia, Piedmont, Provence, Rhône
 - [[Soil_Expedition|Soil Expedition]] — Natural/terroir wines.
 - [[Stelle|Stelle]] — Italian wines.
 - [[Steven_Graf_Wine|Steven Graf Wine]] — France, Italy, Spain
@@ -124,7 +127,9 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Vinum|Vinum]] — (several companies use this name — verify)
 - [[Vom_Boden|Vom Boden]] — Mosel, Rheinhessen
 - [[Weygandt-Metzler_Importing|Weygandt-Metzler Importing]] — France, Georgia, Germany, Italy, Spain
-- [[Wilson_Daniels|Wilson Daniels]] — Burgundy
+- [[Wildman|Wildman]] — Burgundy, Patagonia, Piedmont
+- [[Wilson_Daniels|Wilson Daniels]] — Burgundy, California, Piedmont, Rhône, Sicily, Tuscany, Veneto
+- [[Wine_Source|Wine Source]] — Burgundy
 - [[Zev_Rovine_Selections|Zev Rovine Selections]] — Austria, France, Italy, Spain
 
 ## Retailers

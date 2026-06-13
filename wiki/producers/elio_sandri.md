@@ -9,7 +9,8 @@ sub_region: "Barolo (Castiglione Falletto)"
 appellations: []
 farming: []
 certifications: []
-importer_us: []
+importer_us:
+- Neal Rosenthal
 retailers:
   chambers:
     championed: true
