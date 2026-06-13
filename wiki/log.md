@@ -357,3 +357,48 @@ Hachette 2 stars, B&D, Gault&Millau). Evan's call: organic/bio status
 irrelevant for this producer type — placed on the terroir-transparency
 axis. Rollups regenerated (Burgundy_Producers + FASS_Selections now list
 him); index rebuilt; lint 0.
+
+## [2026-06-13] view | Raeders × importer-list producer overlap
+
+Answered "are there wines/producers at Raeders on any importer list like
+Roscioli?" Cross-referenced the 3,174-bottle Raeders snapshot
+(`master_2026-04-25.csv`, ~1,544 distinct producers) against all 66
+`wiki/importers/` pages via normalized name matching + manual
+disambiguation. Overwhelming overlap is with Roscioli Wine Club: 9 of its
+146 Italian profiles are buyable at Raeders (Roagna, Braida, Cantina
+Sobrero, Castello dei Rampolla, Lamole di Lamole, Le Macchiole,
+Christof Tiefenbrunner, Paitin, and probably Enrico Rizzi). Scattered
+single hits on Polaner (Ceretto, Produttori del Barbaresco),
+Dressner/Louis (Arianna Occhipinti, Domaine des Ardoisières), Skurnik
+(Chandon de Briailles), and Wilson Daniels (Domaine Leflaive). The other
+65 importer pages are vault-rollups of mostly French/German growers Raeders
+doesn't carry, hence near-zero overlap. Filed as
+`wiki/_views/raeders_importer_list_overlap_2026_06.md`; index rebuilt.
+
+## [2026-06-13] view | Raeders × importers full producer list (13-importer consolidation)
+
+Built a single consolidated roster answering "full list by importer of
+producers at Raeders," readable as one file on git. Pulls the
+confirmed-at-Raeders sections from the 13 per-importer cross-check views
+(Wilson Daniels, BNP, Wildman, Kermit Lynch, Polaner, Skurnik, Grand Cru,
+Vineyard Brands, Rosenthal, Bowler, Banville, Wasserman, Wine Source — all
+sourced from real portfolio pastes dated 2026-05-21 on branch
+claude/verify-raeders-kermit-inventory-meoMz) and appends the Roscioli
+overlap. Backbone of the overlap: Wilson Daniels (30/52, ~252 btls), BNP
+(~60, classified Bordeaux), Wildman (~60, Napa + Burgundy GC). Filed as
+wiki/_views/raeders_x_importers_master_2026_06.md; index rebuilt.
+
+## [2026-06-13] view | Raeders × importers × Berserkers × William Kelley signal convergence
+
+Cross-referenced the consolidated Raeders-stocked importer list
+(raeders_x_importers_master_2026_06) against two demand signals: the Wine
+Berserkers "Top 10 in your cellar" top-100 (collector consensus) and William
+Kelley's Berserkers post counts (berserkers_kelley.post_count on producer
+pages). 43 Raeders-buyable producers carry a signal: 3 both (Giacomo Conterno,
+Burlotto, Léoville Barton), 20 Berserkers favorites (Ridge, Rousseau, Mugnier,
+Roumier, Chave, Beaucastel, López de Heredia, Mount Eden, etc.), 20 WK-signal
+(mostly BNP classed-growth Bordeaux + Leflaive/Larmandier-Bernier). Whole-token
+matching reconciled the thread's short surnames against the list's full estate
+names; collisions hand-dropped (Louis Latour≠Château Latour, Olivier/Valentin
+Leflaive≠Domaine Leflaive, Knights Bridge≠Ridge). Filed as
+wiki/_views/raeders_importers_berserkers_wk_signal_2026_06.md; index rebuilt.
