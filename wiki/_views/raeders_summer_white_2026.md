@@ -107,6 +107,54 @@ For house-stocking purposes, here's the floor-up price ladder of every wine at R
 
 **Rosenthal summer-white answer**: zero sub-$30. Lucien Crochet Sancerre $39.99 is the only white, period.
 
+### Polaner — 14 confirmed bottles at Raeder's (excluding false positives)
+
+| Price | Type | Wine |
+|---:|---|---|
+| **$24.99** | White | Ceretto — Arneis Langhe Blangé 2022 ★ *(the only Polaner sub-$30 white)* |
+| $49.99 | Red | Produttori del Barbaresco — Barbaresco 2021 |
+| $49.99 | Red | Trediberri — Barolo "Berri" 2019 |
+| $59.99 | Red | Roagna — Langhe Rosso 2020 |
+| $99.99 | Red | Trediberri — Barolo Rocche dell'Annunziata 2017 |
+| $159.99 | Red | Ceretto — Barolo Prapò 2011 |
+| $189.99 | Red | Roagna — Barbaresco Pajé 2017 |
+| $229.99 | Red | Roagna — Barolo Rocche di Castiglione 2020 |
+| $299.99 | Red | Ceretto — Barolo Prapò 1997 |
+| $329.99 | Red | Ceretto — Barolo Prapò 2000 |
+| $359.99 | Red | Roagna — Barbaresco Pajé Vecchie Viti 2018 |
+| $379.99 | Red | Giacomo Conterno — Barolo Cerretta 2021 |
+| $399.99 | Red | Ceretto — Barolo Bricco Rocche 1996 |
+| $399.99 | Red | Ceretto — Barolo Bricco Rocche 1997 |
+
+**★ Polaner summer-white answer — Ceretto Arneis "Blangé" 2022 — $24.99**
+
+This is THE Polaner pick. Bruno Ceretto's Blangé is the wine that basically saved Roero Arneis from extinction in the 1980s — they bottled it in cool-fermented stainless to preserve aromatics when nobody else thought Arneis could compete with Pinot Grigio. Now the benchmark white from Piedmont's Roero hills. Delicate, floral, almond-finish, low-alcohol (~12.5%), refreshing. Drinks like a serious Italian white at the price of a generic PG.
+
+*Caveat*: Polaner's bench is heavily Piedmont reds + Loire chenin + cult Champagne (Larmandier-Bernier, Agrapart). Their white footprint at Raeder's is thin — Famille Joly Coulée de Serrant 2023 shows up at $179.99 but Joly is actually Wilson Daniels, not Polaner. Ceretto Arneis at $24.99 is the entire Polaner sub-$30 white answer.
+
+### Skurnik — 87 bottles at Raeder's, cheapest 10 (post false-positive cleanup)
+
+| Price | Type | Wine |
+|---:|---|---|
+| **$18.99** | White | Hermann J. Wiemer — Johannisberg Riesling Finger Lakes Semi-Dry NV ★ *(the only Skurnik sub-$30 still white)* |
+| $23.99 | Red | Owen Roe — Abbot's Table Columbia Valley NV |
+| $26.99 | Sparkling | Raventós i Blanc — Cava Brut "L'Hereu" 2023 |
+| $27.99 | Red | Jax Vineyards — Y3 Taureau Red 2022 |
+| $29.99 | Red | Patricia Green — Pinot Noir Willamette Valley Reserve 2023 |
+| $29.99 | Red | Owen Roe — Yakima Valley Cabernet 2017 |
+| $30.99 | White | Bonny Doon — Le Vol Des Anges 2007 |
+| $32.99 | Rosé | Domaine de Marquiliani — Le Rosé Gris de Pauline 2023 *(actually KL — FP)* |
+| $34.99 | White | Ramey — Chardonnay RRV 2022 |
+| $39.99 | White | Carlisle — The Derivative White 2012 |
+
+**★ Skurnik summer-white answer — Hermann J. Wiemer Johannisberg Riesling Semi-Dry NV — $18.99**
+
+Wiemer is the **cult Finger Lakes producer** — Hermann Wiemer was a German immigrant who pioneered Riesling in upstate NY, and the estate now has Oskar Bynke and Fred Merwarth carrying the torch. The Johannisberg Semi-Dry is their workhorse — ~9-10% ABV, off-dry with bright acidity, drinks like a Mosel Kabinett at half the price. Sleeper pick of the Skurnik book at this price tier.
+
+If you want a Skurnik *dry* white at Raeder's you have to flex up — the next-cheapest white is Ramey RRV Chardonnay at $34.99 (a different vibe — California oak/cream Chard).
+
+**Skurnik sparkling alternative**: Raventós i Blanc Cava L'Hereu 2023 at $26.99 — Pepe Raventós's family invented Cava and broke away from the DO to form Conca del Riu Anoia. Biodynamic, traditional method, way better than mass-market Cava. Strong summer-bubbles answer.
+
 ## What to skip on these pages
 
 - **Mass Italian PG**: Cavit, Riff, Santa Margherita, Ruffino, Santi, Santa Marina, Antica Corte
