@@ -13,6 +13,7 @@ certifications: []
 importer_us:
 - Dressner
 - Louis
+- Neal Rosenthal
 retailers:
   chambers:
     championed: true

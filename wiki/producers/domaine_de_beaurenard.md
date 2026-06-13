@@ -9,7 +9,8 @@ sub_region: "Châteauneuf-du-Pape"
 appellations: []
 farming: ['biodynamic']
 certifications: []
-importer_us: []
+importer_us:
+- Wilson Daniels
 retailers:
   chambers:
     championed: false

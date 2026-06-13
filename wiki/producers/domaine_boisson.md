@@ -9,7 +9,8 @@ sub_region: Meursault / Hautes-Côtes de Beaune
 appellations: []
 farming: []
 certifications: []
-importer_us: []
+importer_us:
+- Polaner
 retailers:
   chambers:
     championed: true

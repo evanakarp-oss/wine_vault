@@ -12,6 +12,7 @@ farming:
 certifications: []
 importer_us:
 - Kermit Lynch
+- Polaner
 retailers:
   chambers:
     championed: true
