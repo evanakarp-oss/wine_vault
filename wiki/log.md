@@ -387,3 +387,18 @@ claude/verify-raeders-kermit-inventory-meoMz) and appends the Roscioli
 overlap. Backbone of the overlap: Wilson Daniels (30/52, ~252 btls), BNP
 (~60, classified Bordeaux), Wildman (~60, Napa + Burgundy GC). Filed as
 wiki/_views/raeders_x_importers_master_2026_06.md; index rebuilt.
+
+## [2026-06-13] view | Raeders × importers × Berserkers × William Kelley signal convergence
+
+Cross-referenced the consolidated Raeders-stocked importer list
+(raeders_x_importers_master_2026_06) against two demand signals: the Wine
+Berserkers "Top 10 in your cellar" top-100 (collector consensus) and William
+Kelley's Berserkers post counts (berserkers_kelley.post_count on producer
+pages). 43 Raeders-buyable producers carry a signal: 3 both (Giacomo Conterno,
+Burlotto, Léoville Barton), 20 Berserkers favorites (Ridge, Rousseau, Mugnier,
+Roumier, Chave, Beaucastel, López de Heredia, Mount Eden, etc.), 20 WK-signal
+(mostly BNP classed-growth Bordeaux + Leflaive/Larmandier-Bernier). Whole-token
+matching reconciled the thread's short surnames against the list's full estate
+names; collisions hand-dropped (Louis Latour≠Château Latour, Olivier/Valentin
+Leflaive≠Domaine Leflaive, Knights Bridge≠Ridge). Filed as
+wiki/_views/raeders_importers_berserkers_wk_signal_2026_06.md; index rebuilt.
