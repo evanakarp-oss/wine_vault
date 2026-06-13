@@ -16,10 +16,8 @@ file.
 
 The standalone `wiki/_views/<importer>_at_raeders.md` pages keep the rest
 (curation candidates, stars *not* at Raeders, false positives caught,
-methodology). Those 13 per-importer pages and the raw portfolio pastes
-currently live on branch `claude/verify-raeders-kermit-inventory-meoMz`
-(not yet merged to main) — the "Full detail" pointers below resolve once
-that branch lands.
+methodology). Those 13 per-importer pages and the raw portfolio pastes are
+in the vault (ingested via PR #11) — the "Full detail" pointers below resolve.
 
 ## Summary — overlap by importer
 
