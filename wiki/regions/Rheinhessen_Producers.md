@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Rheinhessen"
-updated: 2026-06-11
+updated: 2026-06-13
 producer_count: 1
 ---
 

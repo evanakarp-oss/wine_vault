@@ -2,11 +2,13 @@
 type: importer
 name: "Grand Cru Selections"
 slug: grand_cru_selections
-url: "https://www.grandcruselections.com"
-focus: ['Burgundy', 'France']
-tags: []
-updated: 2026-05-26
+producer_count: 1
+focus: ['Champagne']
+notable_producers: ['Pierre Peters']
+updated: 2026-06-13
 _source: wiki/_resources.md
+url: "https://www.grandcruselections.com"
+tags: []
 ---
 
 # Grand Cru Selections
@@ -14,7 +16,11 @@ _source: wiki/_resources.md
 Burgundy, France.
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
+**1 producer(s)** in the vault imported by Grand Cru Selections (US).
 
-_No producers from this importer/retailer are tracked in the vault yet._
+| Producer | Country | Region | CSW | Cellar |
+|---|---|---|---:|---:|
+| [[pierre_peters|Pierre Peters]] | France | Champagne | 2 | — |
 
+*Compiled by `scripts/build_rollups.py`.*
 <!-- END AUTO-GENERATED -->

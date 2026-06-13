@@ -5,10 +5,10 @@ slug: theise
 producer_count: 14
 focus: ['Mosel', 'Nahe']
 notable_producers: ['Clemens Busch', 'Knebel', 'Weiser-Künstler', 'Immich-Batterieberg', 'Hofgut Falkenstein']
-updated: 2026-06-11
-tags: []
+updated: 2026-06-13
 _source: wiki/_resources.md
 url: "https://www.skurnik.com/theise"
+tags: []
 ---
 # Theise
 

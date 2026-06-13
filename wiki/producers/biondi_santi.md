@@ -10,7 +10,8 @@ appellations: []
 farming:
 - sustainable
 certifications: []
-importer_us: []
+importer_us:
+- Wilson Daniels
 retailers:
   chambers:
     championed: false

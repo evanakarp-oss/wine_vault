@@ -11,7 +11,8 @@ appellations: []
 farming:
 - biodynamic
 certifications: []
-importer_us: []
+importer_us:
+- BNP
 retailers:
   chambers:
     championed: false

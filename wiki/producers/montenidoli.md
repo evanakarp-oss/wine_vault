@@ -9,7 +9,8 @@ sub_region: "San Gimignano"
 appellations: []
 farming: []
 certifications: []
-importer_us: []
+importer_us:
+- Polaner
 retailers:
   chambers:
     championed: true

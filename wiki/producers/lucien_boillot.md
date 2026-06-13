@@ -9,7 +9,8 @@ sub_region: "Gevrey-Chambertin"
 appellations: []
 farming: []
 certifications: []
-importer_us: []
+importer_us:
+- Kermit Lynch
 retailers:
   chambers:
     championed: false

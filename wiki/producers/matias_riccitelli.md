@@ -9,7 +9,8 @@ sub_region: "Patagonia / Río Negro"
 appellations: []
 farming: []
 certifications: []
-importer_us: []
+importer_us:
+- Skurnik
 retailers:
   chambers:
     championed: false
