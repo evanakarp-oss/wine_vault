@@ -357,3 +357,20 @@ Hachette 2 stars, B&D, Gault&Millau). Evan's call: organic/bio status
 irrelevant for this producer type — placed on the terroir-transparency
 axis. Rollups regenerated (Burgundy_Producers + FASS_Selections now list
 him); index rebuilt; lint 0.
+
+## [2026-06-13] view | Raeders × importer-list producer overlap
+
+Answered "are there wines/producers at Raeders on any importer list like
+Roscioli?" Cross-referenced the 3,174-bottle Raeders snapshot
+(`master_2026-04-25.csv`, ~1,544 distinct producers) against all 66
+`wiki/importers/` pages via normalized name matching + manual
+disambiguation. Overwhelming overlap is with Roscioli Wine Club: 9 of its
+146 Italian profiles are buyable at Raeders (Roagna, Braida, Cantina
+Sobrero, Castello dei Rampolla, Lamole di Lamole, Le Macchiole,
+Christof Tiefenbrunner, Paitin, and probably Enrico Rizzi). Scattered
+single hits on Polaner (Ceretto, Produttori del Barbaresco),
+Dressner/Louis (Arianna Occhipinti, Domaine des Ardoisières), Skurnik
+(Chandon de Briailles), and Wilson Daniels (Domaine Leflaive). The other
+65 importer pages are vault-rollups of mostly French/German growers Raeders
+doesn't carry, hence near-zero overlap. Filed as
+`wiki/_views/raeders_importer_list_overlap_2026_06.md`; index rebuilt.
