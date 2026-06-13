@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Bordeaux"
-updated: 2026-05-28
-producer_count: 25
+updated: 2026-06-13
+producer_count: 26
 ---
 
 # Bordeaux — Producer Index
 
-**25 producers** tracked.
+**26 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -36,5 +36,6 @@ producer_count: 25
 | [[chateau_phelan_segur|Château Phélan-Ségur]] | France | Saint-Estèphe | — | — | 2 | — | — |
 | [[chateau_pibran|Château Pibran]] | France | Pauillac | — | — | 1 | — | — |
 | [[chateau_rauzan_segla|Château Rauzan-Ségla]] | France | Margaux | — | — | 2 | — | — |
+| [[clos_du_pavillon|Clos du Pavillon]] | France | Saint-Émilion (Saint-Sulpice-de-Faleyrens) | — | — | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

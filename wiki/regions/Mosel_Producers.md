@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Mosel"
-updated: 2026-05-28
-producer_count: 19
+updated: 2026-06-13
+producer_count: 22
 ---
 
 # Mosel — Producer Index
 
-**19 producers** tracked.
+**22 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -25,9 +25,12 @@ producer_count: 19
 | [[zilliken|Zilliken]] | Germany | Saar (Saarburg) | 4 | — | — | — | — |
 | [[melsheimer|Melsheimer]] | Germany | — | 1 | 3 | — | — | — |
 | [[alex_loersch|Alex Loersch]] | Germany | — | — | 3 | — | — | — |
+| [[dr_g|Dr. G]] | Germany | '' | — | — | — | — | — |
 | [[max_ferdinand_richter|Max Ferdinand Richter]] | Germany | — | — | 17 | — | — | — |
 | [[peter_lauer__weingut_lauer|Peter Lauer / Weingut Lauer]] | Germany | Saar | — | — | — | — | — |
 | [[richter|Richter]] | Germany | '' | — | 11 | — | — | — |
+| [[staffelter_hof|Staffelter Hof / Jan Matthias Klein]] | Germany | '' | — | — | — | — | — |
+| [[stefan_muller|Stefan Müller]] | Germany | Saar | — | — | — | — | — |
 | [[thanisch|Thanisch]] | Germany | — | — | 7 | — | — | — |
 | [[wwe_dr_h_thanisch|Wwe Dr H Thanisch]] | Germany | — | — | 8 | — | — | — |
 

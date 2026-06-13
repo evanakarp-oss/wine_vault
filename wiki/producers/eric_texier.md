@@ -13,6 +13,7 @@ certifications: []
 importer_us:
 - Dressner
 - Louis
+- David Bowler Wine
 retailers:
   chambers:
     championed: true
@@ -49,7 +50,6 @@ berserkers_kelley_body:
     url: https://www.wineberserkers.com/t/beaujolais-where-have-you-been-my-whole-life/154743/22
   note: derived from body-text re-pass v2; additive to berserkers_kelley
 ---
-
 # Eric Texier
 
 ## CSW Write-ups

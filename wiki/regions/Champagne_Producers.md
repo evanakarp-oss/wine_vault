@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Champagne"
-updated: 2026-05-28
-producer_count: 25
+updated: 2026-06-13
+producer_count: 26
 ---
 
 # Champagne — Producer Index
 
-**25 producers** tracked.
+**26 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -36,5 +36,6 @@ producer_count: 25
 | [[pierre_gerbais|Pierre Gerbais]] | France | Aube / Côte des Bar | — | — | — | — | — |
 | [[ployez_jacquemart|Ployez Jacquemart]] | France | — | — | 6 | — | — | — |
 | [[taittinger|Taittinger]] | France | '' | — | — | 3 | — | — |
+| [[tarlant|Tarlant]] | France | Vallée de la Marne | — | — | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

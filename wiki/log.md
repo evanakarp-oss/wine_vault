@@ -236,3 +236,17 @@ Filed `wiki/_views/wb_top100_csw_wk_matrix_2026_05.md`. Crosses the Wine Berserk
 ## [2026-05-28] ingest | veritas_wines: California importer + 77-producer portfolio seed
 
 Added Veritas Wines (https://veritaswine.com), CA importer/distributor founded 1989, organic/biodynamic-leaning portfolio across France/Italy/Germany/Switzerland/USA. Seeded 77 producers (71 new stubs + 6 importer_us updates on existing pages: arnoux_lachaux, gerard_mugneret, denis_bachelet, sylvain_pataille, domaine_de_montille, chateau_lynch_bages). Strong Burgundy depth (Leroy, Arnoux-Lachaux, Bruno Clair, Lafarge, de Montille, de la Vougeraie, Comte Armand) and grower Champagne (Gerbais, Godmé, Savès, Dhondt, Vincey). Notable: closes Olek Bondonio gap (12 cellar bottles, no prior page) and Domaine des Croix gap (1 cellar bottle). Taxonomy: added Lazio (Italy) for La Visciola. Data harvested via WebSearch snippets against site:veritaswine.com — live site bot-blocked from the Claude Code on the web sandbox. Source provenance + re-scrape protocol in `raw/veritas/_README.md`; one-shot ingest script at `scripts/_archive/ingest_veritas_2026_05.py`. Stubs are minimal; full body enrichment pending local re-scrape pass.
+
+## [2026-06-13] view | importer × Raeder's cross-reference suite (Skurnik, Veritas, ZRS, Bowler, DNS)
+
+Built `scripts/build_importer_raeders_xref.py` (generic) and emitted 5 views under `wiki/_views/`:
+
+- `skurnik_raeders_xref_2026-06.md` — 16 producers in book, 1 at Raeder's (Chandon de Briailles). Skurnik's boutique Mosel + Jura lineup doesn't intersect Raeders' more commercial inventory.
+- `veritas_wines_raeders_xref_2026-06.md` — 77 producers in book, 7 at Raeder's (Lynch-Bages 5 cuvées, Pacalet 2, plus Chavy-Chouet, Lafarge, de Montille, Pataille, de Cassiopée 1 each).
+- `zev_rovine_selections_raeders_xref_2026-06.md` — 13 producers in initial harvest, 0 at Raeder's. Expected: ZRS is pure natural-wine focus, no overlap with Raeders.
+- `david_bowler_wine_raeders_xref_2026-06.md` — 18 producers in initial harvest, 0 at Raeder's.
+- `dns_selections_raeders_xref_2026-06.md` — 13 producers in initial harvest (8 Greek, 4 French Burgundy, 1 Italian Veneto), 0 at Raeder's.
+
+Bootstrapped 3 importer books via `scripts/_archive/ingest_importer_csv_2026_06.py` (generalization of the Veritas ingest): 41 new producer stubs + 3 updates on existing (Frank Cornelissen, Éric Texier, Immich-Batterieberg). Provenance in `raw/{zev_rovine,bowler,dns}/_README.md`. Books are intentionally partial first-pass harvests via WebSearch snippets — all three importer sites are bot-blocked from the Claude Code on the web sandbox. Added Calabria to Italy taxonomy for 'A Vita.
+
+Source-of-truth signal: Skurnik/ZRS/Bowler/DNS are buy-elsewhere channels relative to Raeders. Veritas overlaps slightly (Lynch-Bages is the only repeat-listing producer).

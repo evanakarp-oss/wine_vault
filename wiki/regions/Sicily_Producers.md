@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Sicily"
-updated: 2026-05-28
-producer_count: 8
+updated: 2026-06-13
+producer_count: 10
 ---
 
 # Sicily — Producer Index
 
-**8 producers** tracked.
+**10 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -18,6 +18,8 @@ producer_count: 8
 | [[feudo_montoni|Feudo Montoni]] | Italy | — | 3 | — | 7 | — | — |
 | [[masseria_del_pino|Masseria del Pino]] | Italy | — | 3 | — | — | — | — |
 | [[barraco|Barraco]] | Italy | Marsala | — | — | — | — | — |
+| [[gabrio_bini|Gabrio Bini]] | Italy | Pantelleria | — | — | — | — | — |
+| [[sikele|Sikelè]] | Italy | '' | — | — | — | — | — |
 | [[vino_di_anna|Vino di Anna]] | Italy | Etna | — | — | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

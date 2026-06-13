@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Loire"
-updated: 2026-05-28
-producer_count: 15
+updated: 2026-06-13
+producer_count: 16
 ---
 
 # Loire — Producer Index
 
-**15 producers** tracked.
+**16 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -20,6 +20,7 @@ producer_count: 15
 | [[ogereau|Domaine Ogereau]] | France | Anjou | — | — | — | — | — |
 | [[guiberteau|Guiberteau]] | France | Saumur | — | — | — | — | — |
 | [[isabelle_suire|Isabelle Suire]] | France | Saumur (Berrie) | — | — | — | — | — |
+| [[jean_pierre_robinot|Jean-Pierre Robinot]] | France | Jasnières | — | — | — | — | — |
 | [[jerome_bretaudeau|Jérôme Bretaudeau (Domaine de Bellevue)]] | France | Muscadet | — | — | — | — | — |
 | [[maunoury|Maunoury]] | France | Saumur Puy-Notre-Dame | — | — | — | — | — |
 | [[serol|Sérol]] | France | Côte Roannaise | — | — | — | — | — |

@@ -5,7 +5,7 @@ slug: veritas_wines
 producer_count: 77
 focus: ['Alsace', 'Basque (Irouléguy)', 'Beaujolais', 'Bordeaux', 'Burgundy', 'Campania', 'Champagne', 'Emilia-Romagna', 'Franken', 'Jura', 'Languedoc-Roussillon', 'Lazio', 'Loire', 'New Hampshire', 'Pfalz', 'Piedmont', 'Rheinhessen', 'Rhône', 'Savoie', 'Sicily', 'South West', 'Veneto']
 notable_producers: ['Domaine de Montille', 'Sylvain Pataille', 'Gerard Mugneret', 'Arnoux Lachaux', 'Aurélien Revillot']
-updated: 2026-05-28
+updated: 2026-06-13
 location: "California (CA, NV, CO, AZ, NM; partner network NY)"
 tags: ['biodynamic-leaning', 'organic-focused', 'natural', 'grower-champagne', 'burgundy', 'champagne']
 url: "https://veritaswine.com"

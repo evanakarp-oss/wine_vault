@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 970
+total_pages: 1023
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**970 pages indexed.**
+**1023 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -20,7 +20,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Region rollups
 
-- [[Abruzzo_Producers|Abruzzo Producers]] — **1 producers** tracked.
+- [[Abruzzo_Producers|Abruzzo Producers]] — **2 producers** tracked.
 - [[Alsace_Producers|Alsace Producers]] — **6 producers** tracked.
 - [[Alto_Adige_Sudtirol_Producers|Alto Adige Sudtirol Producers]] — **2 producers** tracked.
 - [[Baden_Producers|Baden Producers]] — **4 producers** tracked.
@@ -28,41 +28,53 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Basque_Irouleguy_Producers|Basque Irouleguy Producers]] — **2 producers** tracked.
 - [[Beaujolais_Producers|Beaujolais Producers]] — **6 producers** tracked.
 - [[Bierzo_Producers|Bierzo Producers]] — **1 producers** tracked.
-- [[Bordeaux_Producers|Bordeaux Producers]] — **25 producers** tracked.
-- [[Burgundy_Producers|Burgundy Producers]] — **109 producers** tracked.
-- [[California_Producers|California Producers]] — **10 producers** tracked.
-- [[Campania_Producers|Campania Producers]] — **1 producers** tracked.
+- [[Bordeaux_Producers|Bordeaux Producers]] — **26 producers** tracked.
+- [[Burgenland_Producers|Burgenland Producers]] — **1 producers** tracked.
+- [[Burgundy_Producers|Burgundy Producers]] — **114 producers** tracked.
+- [[Calabria_Producers|Calabria Producers]] — **1 producers** tracked.
+- [[California_Producers|California Producers]] — **13 producers** tracked.
+- [[Campania_Producers|Campania Producers]] — **2 producers** tracked.
 - [[Catalonia_Producers|Catalonia Producers]] — **1 producers** tracked.
-- [[Champagne_Producers|Champagne Producers]] — **25 producers** tracked.
+- [[Champagne_Producers|Champagne Producers]] — **26 producers** tracked.
 - [[Colli_Tortonesi_Producers|Colli Tortonesi Producers]] — **1 producers** tracked.
 - [[Corsica_Producers|Corsica Producers]] — **1 producers** tracked.
+- [[Crete_Producers|Crete Producers]] — **1 producers** tracked.
+- [[Cyclades_Producers|Cyclades Producers]] — **1 producers** tracked.
 - [[Emilia-Romagna_Producers|Emilia-Romagna Producers]] — **1 producers** tracked.
+- [[Epirus_Producers|Epirus Producers]] — **1 producers** tracked.
 - [[Franken_Producers|Franken Producers]] — **3 producers** tracked.
+- [[Galicia_Producers|Galicia Producers]] — **1 producers** tracked.
 - [[Jujuy_Producers|Jujuy Producers]] — **2 producers** tracked.
-- [[Jura_Producers|Jura Producers]] — **16 producers** tracked.
-- [[Languedoc-Roussillon_Producers|Languedoc-Roussillon Producers]] — **3 producers** tracked.
+- [[Jura_Producers|Jura Producers]] — **18 producers** tracked.
+- [[Languedoc-Roussillon_Producers|Languedoc-Roussillon Producers]] — **5 producers** tracked.
 - [[Lazio_Producers|Lazio Producers]] — **1 producers** tracked.
 - [[Liguria_Producers|Liguria Producers]] — **1 producers** tracked.
-- [[Loire_Producers|Loire Producers]] — **15 producers** tracked.
+- [[Loire_Producers|Loire Producers]] — **16 producers** tracked.
+- [[Macedonia_Producers|Macedonia Producers]] — **2 producers** tracked.
 - [[Marche_Producers|Marche Producers]] — **1 producers** tracked.
 - [[Mendoza_Producers|Mendoza Producers]] — **62 producers** tracked.
-- [[Mosel_Producers|Mosel Producers]] — **19 producers** tracked.
+- [[Mosel_Producers|Mosel Producers]] — **22 producers** tracked.
 - [[Nahe_Producers|Nahe Producers]] — **3 producers** tracked.
 - [[New_Hampshire_Producers|New Hampshire Producers]] — **1 producers** tracked.
+- [[Oregon_Producers|Oregon Producers]] — **2 producers** tracked.
 - [[Patagonia_Producers|Patagonia Producers]] — **9 producers** tracked.
+- [[Peloponnese_Producers|Peloponnese Producers]] — **1 producers** tracked.
 - [[Pfalz_Producers|Pfalz Producers]] — **3 producers** tracked.
 - [[Piedmont_Producers|Piedmont Producers]] — **23 producers** tracked.
 - [[Provence_Producers|Provence Producers]] — **3 producers** tracked.
-- [[Rheinhessen_Producers|Rheinhessen Producers]] — **4 producers** tracked.
-- [[Rhone_Producers|Rhone Producers]] — **33 producers** tracked.
+- [[Rheinhessen_Producers|Rheinhessen Producers]] — **5 producers** tracked.
+- [[Rhone_Producers|Rhone Producers]] — **34 producers** tracked.
 - [[Salta_Producers|Salta Producers]] — **5 producers** tracked.
 - [[San_Juan_Producers|San Juan Producers]] — **1 producers** tracked.
+- [[Santorini_Producers|Santorini Producers]] — **2 producers** tracked.
 - [[Savoie_Producers|Savoie Producers]] — **4 producers** tracked.
-- [[Sicily_Producers|Sicily Producers]] — **8 producers** tracked.
+- [[Sicily_Producers|Sicily Producers]] — **10 producers** tracked.
 - [[South_West_Producers|South West Producers]] — **2 producers** tracked.
-- [[Tuscany_Producers|Tuscany Producers]] — **9 producers** tracked.
+- [[Styria_Producers|Styria Producers]] — **1 producers** tracked.
+- [[Tuscany_Producers|Tuscany Producers]] — **11 producers** tracked.
 - [[Valle_dAosta_Producers|Valle Daosta Producers]] — **1 producers** tracked.
-- [[Veneto_Producers|Veneto Producers]] — **2 producers** tracked.
+- [[Veneto_Producers|Veneto Producers]] — **3 producers** tracked.
+- [[unnamed_Producers|Unnamed Producers]] — **2 producers** tracked.
 
 ## Importers
 
@@ -78,9 +90,9 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Camille_Riviere_Selection|Camille Rivière Selection]] — NYC. French natural wines. Small portfolio.
 - [[Camo_&_Co|Camo & Co.]] — Small French portfolio.
 - [[Corkhorder|Corkhorder]] — Small importer.
-- [[DNS_Selections|DNS Selections]] — French and Greek natural/organic wines.
+- [[DNS_Selections|DNS Selections]] — Burgundy, Crete, Cyclades, Epirus, Macedonia, Peloponnese, Santorini, Veneto
 - [[Daniel_Johnnes_Skurnik|Daniel Johnnes / Skurnik]] — Burgundy
-- [[David_Bowler_Wine|David Bowler Wine]] — NYC. Distributes LDM, Brazos, and own portfolio. Natural/organic focus.
+- [[David_Bowler_Wine|David Bowler Wine]] — Bordeaux, Calabria, California, Campania, Champagne, Galicia, Mosel, Oregon, Rheinhessen, Rhône, Tuscany
 - [[Dr_Loosen_self-import|Dr. Loosen (self-import)]] — Mosel
 - [[Dressner|Dressner]] — Burgundy, Jura, Rhône, Sicily
 - [[Eklektikon|Eklektikon]] — NYC. Greek natural wines specialist. Organic/biodynamic.
@@ -132,7 +144,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Vom_Boden|Vom Boden]] — Mosel, Rheinhessen
 - [[Weygandt-Metzler_Importing|Weygandt-Metzler Importing]] — France, Georgia, Germany, Italy, Spain
 - [[Wilson_Daniels|Wilson Daniels]] — Burgundy
-- [[Zev_Rovine_Selections|Zev Rovine Selections]] — Austria, France, Italy, Spain
+- [[Zev_Rovine_Selections|Zev Rovine Selections]] — Abruzzo, Burgenland, Burgundy, Jura, Languedoc-Roussillon, Loire, Rhône, Sicily, Styria
 
 ## Retailers
 
@@ -268,11 +280,12 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_428 producers across 43 regions._
+_469 producers across 54 regions._
 
 ### Abruzzo
 
 - [[agricola_tiberio|Agricola Tiberio]] — Abruzzo · DTE 1
+- [[lammidia|Lammidia]] — Abruzzo
 
 ### Alsace
 
@@ -339,10 +352,15 @@ _428 producers across 43 regions._
 - [[chateau_rauzan_segla|Château Rauzan-Ségla]] — Bordeaux / Margaux · organic · Raeder 2
 - [[chateau_smith_haut_lafitte|Château Smith-Haut-Lafitte]] — Bordeaux / Pessac-Léognan · biodynamic, organic · CSW 2 · Raeder 5
 - [[clos_du_jaugueyron|Clos du Jaugueyron]] — Bordeaux / Médoc (Margaux / Haut-Médoc) · organic · CSW ★3/5
+- [[clos_du_pavillon|Clos du Pavillon]] — Bordeaux / Saint-Émilion (Saint-Sulpice-de-Faleyrens)
 - [[clos_puy_arnaud|Clos Puy Arnaud]] — Bordeaux / Castillon-Côtes de Bordeaux · biodynamic · CSW ★1/2
 - [[domaine_de_chevalier|Domaine de Chevalier]] — Bordeaux / Pessac-Léognan · sustainable · CSW 2 · Raeder 2
 - [[domaine_uchida|Domaine Uchida]] — Bordeaux / Haut-Médoc / Pauillac · CSW ★1/1
 - [[elian_da_ros|Elian Da Ros]] — Bordeaux / Côtes-du-Marmandais (SW France) · biodynamic · CSW ★2/3
+
+### Burgenland
+
+- [[meinklang|Meinklang]] — Burgenland
 
 ### Burgundy
 
@@ -351,6 +369,7 @@ _428 producers across 43 regions._
 - [[aurelien_revillot|Aurélien Revillot]] — Burgundy
 - [[barraud|Barraud]] — Burgundy · DTE 5
 - [[benoit_courault|Benoit Courault]] — Burgundy / Anjou (Loire) · natural · CSW ★3/11
+- [[benoit_ente|Benoît Ente]] — Burgundy / Puligny-Montrachet
 - [[berthaut-gerbet|Berthaut-Gerbet]] — Burgundy / Fixin / Gevrey · organic · CSW ★1/1
 - [[bessin_tremblay|Bessin-Tremblay]] — Burgundy / Chablis
 - [[bret_brothers|Bret Brothers (La Soufrandière)]] — Burgundy / Mâconnais
@@ -396,6 +415,7 @@ _428 producers across 43 regions._
 - [[domaine_trapet|Domaine Trapet]] — Burgundy / Gevrey-Chambertin · biodynamic · CSW ★4/4
 - [[dujardin|Dujardin]] — Burgundy · CSW ★1/1 · DTE 15
 - [[duplessis_chablis|Duplessis Chablis]] — Burgundy / Chablis · organic · CSW ★2/3
+- [[emmanuel_rouget|Emmanuel Rouget]] — Burgundy / Vosne-Romanée
 - [[fanny_sabre|Fanny Sabre]] — Burgundy / Beaune / Pommard · organic · CSW ★2/2
 - [[francois_bertheau|Francois Bertheau]] — Burgundy · DTE 5
 - [[francois_buffet|François Buffet]] — Burgundy · DTE 3 · FASS 24
@@ -425,6 +445,7 @@ _428 producers across 43 regions._
 - [[louis_latour|Louis Latour]] — Burgundy / Beaune · Raeder 9
 - [[lucien_boillot|Lucien Boillot]] — Burgundy / Gevrey-Chambertin · Raeder 9
 - [[maison_and_domaine_leroy|Maison and Domaine Leroy]] — Burgundy / Côte de Nuits
+- [[maison_en_belles_lies|Maison en Belles Lies]] — Burgundy
 - [[marchand_tawse|Marchand Tawse]] — Burgundy · DTE 25
 - [[maxime_cheurlin|Maxime Cheurlin]] — Burgundy · DTE 18
 - [[meo_camuzet|Méo-Camuzet]] — Burgundy / Vosne-Romanée · sustainable · CSW 1 · Raeder 12
@@ -438,6 +459,8 @@ _428 producers across 43 regions._
 - [[nicolas_faure|Nicolas Faure]] — Burgundy / Côte de Nuits
 - [[parigot_richard|Parigot & Richard]] — Burgundy / Savigny-lès-Beaune
 - [[patrice_rion|Patrice Rion]] — Burgundy · DTE 3
+- [[patrick_piuze|Patrick Piuze]] — Burgundy / Chablis
+- [[perrot_minot|Perrot-Minot]] — Burgundy / Morey-Saint-Denis
 - [[philippe_pacalet|Philippe Pacalet]] — Burgundy
 - [[pierre-yves_colin-morey|Pierre-Yves Colin-Morey]] — Burgundy / St-Aubin / Chassagne · organic · CSW ★2/4
 - [[ramonet|Ramonet]] — Burgundy / Chassagne-Montrachet · CSW 1 · Raeder 9
@@ -455,10 +478,17 @@ _428 producers across 43 regions._
 - [[sylvie_esmonin|Sylvie Esmonin]] — Burgundy / Gevrey-Chambertin · organic · CSW ★6/8
 - [[thomas_et_jean_marc_bouley|Thomas et Jean Marc Bouley]] — Burgundy · DTE 10
 
+### Calabria
+
+- [[a_vita|'A Vita]] — Calabria / Cirò
+
 ### California
 
+- [[bebame|Bebame]] — California
 - [[bergstrom|Bergstrom]] — California / Willamette Valley (Oregon) · biodynamic · Raeder 11
+- [[birichino|Birichino]] — California / Santa Cruz
 - [[bryant_family_vineyard|Bryant Family Vineyard]] — California / Napa Valley (Pritchard Hill) · Raeder 1
+- [[bucklin|Bucklin]] — California / Sonoma
 - [[colgin|Colgin]] — California / Napa Valley (Pritchard Hill) · Raeder 2
 - [[futo_estate|Futo Estate]] — California / Napa Valley (Stags Leap District / Oakville) · sustainable · Raeder 1
 - [[hundred_acre|Hundred Acre]] — California / Napa Valley · Raeder 4
@@ -471,6 +501,7 @@ _428 producers across 43 regions._
 ### Campania
 
 - [[cantine_matrone|Cantine Matrone]] — Campania / Mount Vesuvius
+- [[contrada_salandra|Contrada Salandra]] — Campania / Campi Flegrei
 
 ### Catalonia
 
@@ -503,6 +534,7 @@ _428 producers across 43 regions._
 - [[pierre_peters|Pierre Peters]] — Champagne / Le Mesnil-sur-Oger · sustainable · CSW 2 · Raeder 2
 - [[ployez_jacquemart|Ployez Jacquemart]] — Champagne · DTE 6
 - [[taittinger|Taittinger]] — Champagne · Raeder 3
+- [[tarlant|Tarlant]] — Champagne / Vallée de la Marne
 
 ### Colli Tortonesi
 
@@ -512,15 +544,31 @@ _428 producers across 43 regions._
 
 - [[vaccelli|Vaccelli]] — Corsica · DTE 3
 
+### Crete
+
+- [[domaine_economou|Domaine Economou]] — Crete / Ziros
+
+### Cyclades
+
+- [[domaine_de_kalathas|Domaine de Kalathas]] — Cyclades / Tinos
+
 ### Emilia-Romagna
 
 - [[emilio|Emilio]] — Emilia-Romagna / Modena (Levizzano Rangone)
+
+### Epirus
+
+- [[domaine_glinavos|Domaine Glinavos]] — Epirus / Zitsa
 
 ### Franken
 
 - [[max_kilburg|Max Kilburg]] — Franken · CSW ★2/3
 - [[rudolf_furst|Rudolf Furst]] — Franken · CSW 5 · DTE 2
 - [[sebastian_furst|Sebastian Fürst]] — Franken / Bürgstadt
+
+### Galicia
+
+- [[pedralonga|Pedralonga]] — Galicia / Rías Baixas
 
 ### Jujuy
 
@@ -529,9 +577,11 @@ _428 producers across 43 regions._
 
 ### Jura
 
+- [[alice_bouvot|Alice Bouvot (L'Octavin)]] — Jura / Arbois
 - [[arnot-roberts|Arnot-Roberts]] — Jura / California Trousseau / Jura varieties · CSW ★4/10
 - [[domaine_de_la_tournelle|Domaine de la Tournelle]] — Jura / Arbois · natural · CSW ★2/6
 - [[domaine_de_saint_pierre|Domaine de Saint Pierre]] — Jura / Arbois · natural · CSW ★2/4
+- [[domaine_des_miroirs|Domaine des Miroirs]] — Jura / Rotalier
 - [[domaine_lulu_vigneron|Domaine Lulu Vigneron]] — Jura / Côtes du Jura · natural · CSW ★2/5
 - [[domaine_marnes_blanches|Domaine Marnes Blanches]] — Jura / Côtes du Jura · organic · CSW ★1/6
 - [[domaine_montbourgeau|Domaine Montbourgeau]] — Jura / L'Étoile · organic · CSW ★2/5
@@ -549,6 +599,8 @@ _428 producers across 43 regions._
 
 - [[danjou_banessy|Danjou-Banessy]] — Languedoc-Roussillon / Côtes Catalanes
 - [[domaine_de_montcalmes|Domaine de Montcalmès]] — Languedoc-Roussillon / Terrasses du Larzac
+- [[les_deux_terres|Les Deux Terres]] — Languedoc-Roussillon
+- [[les_tetes|Les Tètes]] — Languedoc-Roussillon
 - [[pedres_blanques|Pedres-Blanques]] — Languedoc-Roussillon / Collioure / Côtes Catalanes
 
 ### Lazio
@@ -568,6 +620,7 @@ _428 producers across 43 regions._
 - [[domaine_de_la_chevalerie|Domaine de la Chevalerie]] — Loire / Bourgueil · organic · CSW ★5/15
 - [[guiberteau|Guiberteau]] — Loire / Saumur
 - [[isabelle_suire|Isabelle Suire]] — Loire / Saumur (Berrie)
+- [[jean_pierre_robinot|Jean-Pierre Robinot]] — Loire / Jasnières
 - [[jerome_bretaudeau|Jérôme Bretaudeau (Domaine de Bellevue)]] — Loire / Muscadet
 - [[maunoury|Maunoury]] — Loire / Saumur Puy-Notre-Dame
 - [[ogereau|Domaine Ogereau]] — Loire / Anjou
@@ -576,6 +629,11 @@ _428 producers across 43 regions._
 - [[terres_dimaginaire|Terres d'Imaginaire]] — Loire
 - [[thibault_denizot|Thibault Denizot]] — Loire / Sancerre / Pouilly-Fumé
 - [[vincent_pinard|Vincent Pinard]] — Loire / Sancerre
+
+### Macedonia
+
+- [[domaine_nerantzi|Domaine Nerantzi]] — Macedonia / Serres
+- [[domaine_tatsis|Domaine Tatsis]] — Macedonia / Goumenissa
 
 ### Marche
 
@@ -651,6 +709,7 @@ _428 producers across 43 regions._
 - [[aj_adam|A.J. Adam]] — Mosel / Dhron · CSW ★1/4
 - [[alex_loersch|Alex Loersch]] — Mosel · DTE 3
 - [[clemens_busch|Clemens Busch]] — Mosel / Pünderich · biodynamic · CSW ★5/20
+- [[dr_g|Dr. G]] — Mosel
 - [[hofgut_falkenstein|Hofgut Falkenstein]] — Mosel / Saar (Konz) · CSW ★6/12
 - [[immich-batterieberg|Immich-Batterieberg]] — Mosel / Enkirch · biodynamic · CSW ★4/14
 - [[knebel|Knebel]] — Mosel / Winningen · CSW ★3/16
@@ -658,6 +717,8 @@ _428 producers across 43 regions._
 - [[melsheimer|Melsheimer]] — Mosel · CSW 1 · DTE 3
 - [[peter_lauer__weingut_lauer|Peter Lauer / Weingut Lauer]] — Mosel / Saar
 - [[richter|Richter]] — Mosel · DTE 11
+- [[staffelter_hof|Staffelter Hof / Jan Matthias Klein]] — Mosel
+- [[stefan_muller|Stefan Müller]] — Mosel / Saar
 - [[steinmetz|Steinmetz]] — Mosel · CSW 9 · DTE 37
 - [[thanisch|Thanisch]] — Mosel · DTE 7
 - [[ulli_stein|Ulli Stein]] — Mosel · natural · CSW ★3/9
@@ -678,6 +739,11 @@ _428 producers across 43 regions._
 
 - [[oyster_river|Oyster River Winegrowers]] — New Hampshire / Warren
 
+### Oregon
+
+- [[day_wines|Day Wines]] — Oregon / Willamette Valley
+- [[hamacher_wines|Hamacher Wines]] — Oregon / Willamette Valley
+
 ### Patagonia
 
 - [[aguijon_de_abeja_durigutti|Aguijón de Abeja (Durigutti)]] — Patagonia / Multi-region: Patagonia / Salta / Catamarca / San Juan
@@ -689,6 +755,10 @@ _428 producers across 43 regions._
 - [[matias_riccitelli|Matías Riccitelli]] — Patagonia / Patagonia / Río Negro
 - [[otronia|Otronia]] — Patagonia / Chubut, Atlantic Patagonia
 - [[puerta_del_abra|Puerta del Abra]] — Patagonia / Balcarce, Buenos Aires Province
+
+### Peloponnese
+
+- [[troupis|Troupis Winery]] — Peloponnese / Mantinia
 
 ### Pfalz
 
@@ -731,6 +801,7 @@ _428 producers across 43 regions._
 ### Rheinhessen
 
 - [[bastian_beny|Bastian Beny]] — Rheinhessen
+- [[gunderloch|Gunderloch]] — Rheinhessen / Rothenberg (Nackenheim)
 - [[mann|Mann]] — Rheinhessen / Eckelsheim
 - [[schatzel|Schätzel]] — Rheinhessen / Nierstein
 - [[wagner_stempel|Wagner Stempel]] — Rheinhessen · DTE 3
@@ -763,6 +834,7 @@ _428 producers across 43 regions._
 - [[ferme_saint-martin|Ferme Saint-Martin]] — Rhône / Beaumes-de-Venise / Ventoux · natural · CSW ★3/4
 - [[franck_balthazar|Franck Balthazar]] — Rhône / Cornas · natural · CSW ★2/5
 - [[georges_vernay|Georges Vernay]] — Rhône · DTE 1 · Raeder 1
+- [[gregory_guillaume|Gregory Guillaume]] — Rhône / Ardèche (Villeneuve de Berg)
 - [[jasmin|Jasmin]] — Rhône · CSW 1 · DTE 1
 - [[jean_baptiste_souillard|Jean-Baptiste Souillard]] — Rhône / Cornas
 - [[jean_royer|Jean Royer]] — Rhône · DTE 1
@@ -783,6 +855,11 @@ _428 producers across 43 regions._
 
 - [[cara_sur|Cara Sur]] — San Juan / Valle de Calingasta
 
+### Santorini
+
+- [[hatzidakis|Hatzidakis Winery]] — Santorini / Pyrgos
+- [[koutsogiannopoulos|Koutsogiannopoulos Winery]] — Santorini
+
 ### Savoie
 
 - [[domaine_de_chevillard|Domaine de Chevillard]] — Savoie
@@ -797,8 +874,10 @@ _428 producers across 43 regions._
 - [[bonavita|Bonavita]] — Sicily / Faro · natural · CSW ★2/3
 - [[feudo_montoni|Feudo Montoni]] — Sicily · organic · CSW ★2/3 · Raeder 7
 - [[frank_cornelissen|Frank Cornelissen]] — Sicily / Etna · natural · CSW ★2/6
+- [[gabrio_bini|Gabrio Bini]] — Sicily / Pantelleria
 - [[gulfi|Gulfi]] — Sicily / Vittoria · CSW 4 · DTE 7
 - [[masseria_del_pino|Masseria del Pino]] — Sicily · organic · CSW ★2/3
+- [[sikele|Sikelè]] — Sicily
 - [[vino_di_anna|Vino di Anna]] — Sicily / Etna
 
 ### South West
@@ -806,12 +885,18 @@ _428 producers across 43 regions._
 - [[domaine_castera|Domaine Castéra]] — South West / Jurançon
 - [[domaine_la_calmette|Domaine la Calmette]] — South West / Cahors (Trespotz)
 
+### Styria
+
+- [[ewald_tscheppe_werlitsch|Ewald Tscheppe (Werlitsch)]] — Styria
+
 ### Tuscany
 
 - [[altesino|Altesino]] — Tuscany / Brunello di Montalcino · Raeder 9
 - [[biondi_santi|Biondi-Santi]] — Tuscany / Brunello di Montalcino · sustainable · CSW 1 · Raeder 8
 - [[castell_in_villa|Castell'in Villa]] — Tuscany / Chianti Classico · DTE 3
+- [[criante|Criante]] — Tuscany
 - [[i_fabbri|I Fabbri]] — Tuscany / Chianti Classico · CSW ★1/2 · DTE 3
+- [[ilbioselvatico|ilBioSelvatico]] — Tuscany / Val di Chiana (Arezzo)
 - [[istine|Istine]] — Tuscany / Chianti Classico · DTE 1
 - [[monte_bernardi|Monte Bernardi]] — Tuscany / Chianti Classico · biodynamic · CSW ★3/6
 - [[montenidoli|Montenidoli]] — Tuscany / San Gimignano · CSW ★2/2 · DTE 7
@@ -824,6 +909,7 @@ _428 producers across 43 regions._
 
 ### Veneto
 
+- [[case_paolin|Case Paolin]] — Veneto / Asolo Prosecco DOCG
 - [[dal_forno_romano|Dal Forno Romano]] — Veneto / Valpolicella · Raeder 22
 - [[massimo_coletti|Massimo Coletti (Via Larghe)]] — Veneto
 

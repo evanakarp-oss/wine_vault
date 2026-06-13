@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Burgundy"
-updated: 2026-05-28
-producer_count: 109
+updated: 2026-06-13
+producer_count: 114
 ---
 
 # Burgundy — Producer Index
 
-**109 producers** tracked.
+**114 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -69,6 +69,7 @@ producer_count: 109
 | [[arnoux_lachaux|Arnoux Lachaux]] | France | '' | — | 16 | — | — | — |
 | [[aurelien_revillot|Aurélien Revillot]] | France | '' | — | — | — | — | — |
 | [[barraud|Barraud]] | France | '' | — | 5 | — | — | — |
+| [[benoit_ente|Benoît Ente]] | France | Puligny-Montrachet | — | — | — | — | — |
 | [[bessin_tremblay|Bessin-Tremblay]] | France | Chablis | — | — | — | — | — |
 | [[bret_brothers|Bret Brothers (La Soufrandière)]] | France | Mâconnais | — | — | — | — | — |
 | [[bruno_clair|Bruno Clair]] | France | Marsannay | — | — | — | — | — |
@@ -84,6 +85,7 @@ producer_count: 109
 | [[denis_race|Denis Race]] | France | Chablis | — | — | — | — | — |
 | [[domaine_de_cassiopee|Domaine de Cassiopée]] | France | Maranges | — | — | — | — | — |
 | [[domaine_de_la_vougeraie|Domaine de la Vougeraie]] | France | Côte de Nuits & Côte de Beaune | — | — | — | — | — |
+| [[emmanuel_rouget|Emmanuel Rouget]] | France | Vosne-Romanée | — | — | — | — | — |
 | [[francois_bertheau|Francois Bertheau]] | France | '' | — | 5 | — | — | — |
 | [[francois_buffet|François Buffet]] | France | — | — | 3 | — | 24 | — |
 | [[georges_noellat|Georges Noëllat]] | France | '' | — | 13 | — | — | — |
@@ -104,6 +106,7 @@ producer_count: 109
 | [[louis_latour|Louis Latour]] | France | Beaune | — | — | 9 | — | — |
 | [[lucien_boillot|Lucien Boillot]] | France | Gevrey-Chambertin | — | — | 9 | — | — |
 | [[maison_and_domaine_leroy|Maison and Domaine Leroy]] | France | Côte de Nuits | — | — | — | — | — |
+| [[maison_en_belles_lies|Maison en Belles Lies]] | France | '' | — | — | — | — | — |
 | [[marchand_tawse|Marchand Tawse]] | France | '' | — | 25 | — | — | — |
 | [[maxime_cheurlin|Maxime Cheurlin]] | France | — | — | 18 | — | — | — |
 | [[michel_lafarge|Michel Lafarge]] | France | Volnay | — | — | — | — | — |
@@ -113,6 +116,8 @@ producer_count: 109
 | [[nicolas_faure|Nicolas Faure]] | France | Côte de Nuits | — | — | — | — | — |
 | [[parigot_richard|Parigot & Richard]] | France | Savigny-lès-Beaune | — | — | — | — | — |
 | [[patrice_rion|Patrice Rion]] | France | — | — | 3 | — | — | — |
+| [[patrick_piuze|Patrick Piuze]] | France | Chablis | — | — | — | — | — |
+| [[perrot_minot|Perrot-Minot]] | France | Morey-Saint-Denis | — | — | — | — | — |
 | [[philippe_pacalet|Philippe Pacalet]] | France | '' | — | — | — | — | — |
 | [[roland_thevenin|Roland Thévenin]] | France | '' | — | — | — | — | — |
 | [[rossignol_changarnier|Rossignol-Changarnier]] | France | '' | — | — | — | — | — |

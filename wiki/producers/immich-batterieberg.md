@@ -4,8 +4,8 @@ name: Immich-Batterieberg
 slug: immich-batterieberg
 aliases: []
 country: Germany
-region: "Mosel"
-sub_region: "Enkirch"
+region: Mosel
+sub_region: Enkirch
 appellations: []
 farming:
 - biodynamic
@@ -13,6 +13,7 @@ certifications: []
 importer_us:
 - Skurnik
 - Theise
+- David Bowler Wine
 retailers:
   chambers:
     championed: true
@@ -40,7 +41,6 @@ tags: []
 _sources:
 - short:short__Immich-Batterieberg.md
 ---
-
 # Immich-Batterieberg
 
 ## CSW Write-ups

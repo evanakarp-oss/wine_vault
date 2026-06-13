@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Rhône"
-updated: 2026-05-28
-producer_count: 33
+updated: 2026-06-13
+producer_count: 34
 ---
 
 # Rhône — Producer Index
 
-**33 producers** tracked.
+**34 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -40,6 +40,7 @@ producer_count: 33
 | [[domaine_de_beaurenard|Domaine de Beaurenard]] | France | Châteauneuf-du-Pape | — | — | 11 | — | — |
 | [[eric_et_joel_durand|Eric et Joel Durand]] | France | — | — | 1 | — | — | — |
 | [[georges_vernay|Georges Vernay]] | France | — | — | 1 | 1 | — | — |
+| [[gregory_guillaume|Gregory Guillaume]] | France | Ardèche (Villeneuve de Berg) | — | — | — | — | — |
 | [[jean_royer|Jean Royer]] | France | — | — | 1 | — | — | — |
 | [[jean_baptiste_souillard|Jean-Baptiste Souillard]] | France | Cornas | — | — | — | — | — |
 | [[marc_sorrel|Marc Sorrel]] | France | '' | — | 15 | — | — | — |

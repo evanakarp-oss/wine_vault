@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Tuscany"
-updated: 2026-05-28
-producer_count: 9
+updated: 2026-06-13
+producer_count: 11
 ---
 
 # Tuscany — Producer Index
 
-**9 producers** tracked.
+**11 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -17,6 +17,8 @@ producer_count: 9
 | [[altesino|Altesino]] | Italy | Brunello di Montalcino | — | — | 9 | — | 1 btl |
 | [[biondi_santi|Biondi-Santi]] | Italy | Brunello di Montalcino | 1 | — | 8 | — | — |
 | [[castell_in_villa|Castell'in Villa]] | Italy | Chianti Classico | — | 3 | — | — | — |
+| [[criante|Criante]] | Italy | '' | — | — | — | — | — |
+| [[ilbioselvatico|ilBioSelvatico]] | Italy | Val di Chiana (Arezzo) | — | — | — | — | — |
 | [[istine|Istine]] | Italy | Chianti Classico | — | 1 | — | — | — |
 | [[pian_dell_orino|Pian dell'Orino]] | Italy | — | — | 1 | — | — | — |
 | [[tenuta_di_carleone|Tenuta di Carleone]] | Italy | Chianti Classico | — | 8 | — | — | — |

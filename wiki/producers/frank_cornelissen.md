@@ -4,8 +4,8 @@ name: Frank Cornelissen
 slug: frank_cornelissen
 aliases: []
 country: Italy
-region: "Sicily"
-sub_region: "Etna"
+region: Sicily
+sub_region: Etna
 appellations: []
 farming:
 - natural
@@ -13,6 +13,7 @@ certifications: []
 importer_us:
 - Dressner
 - Louis
+- Zev Rovine Selections
 retailers:
   chambers:
     championed: true
@@ -40,7 +41,6 @@ tags: []
 _sources:
 - short:short__Frank_Cornelissen.md
 ---
-
 # Frank Cornelissen
 
 ## CSW Write-ups

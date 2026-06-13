@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Piedmont"
-updated: 2026-05-28
+updated: 2026-06-13
 producer_count: 23
 ---
 
