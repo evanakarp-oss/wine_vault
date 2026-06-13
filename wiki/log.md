@@ -374,3 +374,16 @@ Dressner/Louis (Arianna Occhipinti, Domaine des Ardoisières), Skurnik
 65 importer pages are vault-rollups of mostly French/German growers Raeders
 doesn't carry, hence near-zero overlap. Filed as
 `wiki/_views/raeders_importer_list_overlap_2026_06.md`; index rebuilt.
+
+## [2026-06-13] view | Raeders × importers full producer list (13-importer consolidation)
+
+Built a single consolidated roster answering "full list by importer of
+producers at Raeders," readable as one file on git. Pulls the
+confirmed-at-Raeders sections from the 13 per-importer cross-check views
+(Wilson Daniels, BNP, Wildman, Kermit Lynch, Polaner, Skurnik, Grand Cru,
+Vineyard Brands, Rosenthal, Bowler, Banville, Wasserman, Wine Source — all
+sourced from real portfolio pastes dated 2026-05-21 on branch
+claude/verify-raeders-kermit-inventory-meoMz) and appends the Roscioli
+overlap. Backbone of the overlap: Wilson Daniels (30/52, ~252 btls), BNP
+(~60, classified Bordeaux), Wildman (~60, Napa + Burgundy GC). Filed as
+wiki/_views/raeders_x_importers_master_2026_06.md; index rebuilt.
