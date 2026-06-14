@@ -357,3 +357,30 @@ Hachette 2 stars, B&D, Gault&Millau). Evan's call: organic/bio status
 irrelevant for this producer type — placed on the terroir-transparency
 axis. Rollups regenerated (Burgundy_Producers + FASS_Selections now list
 him); index rebuilt; lint 0.
+
+## [2026-06-14] view | Château Coutelin-Merville French-source research
+
+Built `wiki/_views/chateau_coutelin_merville_french_sources_2026_06.md` from
+French-language sources after a bottle of the Saint-Estèphe 2015 surfaced
+(photo, 2026-06-14). The wine is barely distributed stateside, so the English
+record is thin merchant copy; the French sources (Maison du Vin de
+Saint-Estèphe, crus-bourgeois.com, Guide Hachette, chateaunet, lapassionduvin,
+cavusvinifera, twil) carry the real story: Cru Bourgeois on the list since 1932,
+Estager family property since 1902 (from the Corrèze), Bernard + François
+running it since the 1987 succession; ~30 ha argilo-calcaire north of the
+appellation; Merlot-led blend with an unusually high Cabernet Franc share
+(~50/25/20–22/5 Merlot/CS/CF/PV); vinification traditionnelle, 12 months in
+barrique at ~20% new oak. 2015 reads supple/drink-now (best through ~2027–2030).
+No bio/HVE claim — conventional. Curation: a value drinker at the edge of the
+Bordeaux filter, not a cellar-defining buy. Official/Hachette/merchant pages all
+403'd on direct fetch; content recovered via search excerpts.
+
+## [2026-06-14] create | Château Coutelin-Merville producer page
+
+Created `wiki/producers/chateau_coutelin_merville.md` from the French-source
+research view — a Saint-Estèphe Cru Bourgeois the vault had no page for. Carries
+the Estager family history, terroir/encépagement, vinification, the 2015 note,
+and the taste-filter placement (value drinker, edge of Evan's Bordeaux filter).
+Cellar section notes the one bottle on hand (photographed 2026-06-14); not yet a
+formal `cellar/` entry. Bordeaux rollup regenerated (now lists the property),
+index rebuilt, lint 0.

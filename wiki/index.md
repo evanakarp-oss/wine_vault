@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 898
+total_pages: 899
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**898 pages indexed.**
+**899 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -28,7 +28,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Basque_Irouleguy_Producers|Basque Irouleguy Producers]] — **1 producers** tracked.
 - [[Beaujolais_Producers|Beaujolais Producers]] — **4 producers** tracked.
 - [[Bierzo_Producers|Bierzo Producers]] — **1 producers** tracked.
-- [[Bordeaux_Producers|Bordeaux Producers]] — **25 producers** tracked.
+- [[Bordeaux_Producers|Bordeaux Producers]] — **26 producers** tracked.
 - [[Burgundy_Producers|Burgundy Producers]] — **86 producers** tracked.
 - [[California_Producers|California Producers]] — **10 producers** tracked.
 - [[Catalonia_Producers|Catalonia Producers]] — **1 producers** tracked.
@@ -266,7 +266,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_358 producers across 37 regions._
+_359 producers across 37 regions._
 
 ### Abruzzo
 
@@ -315,6 +315,7 @@ _358 producers across 37 regions._
 
 - [[chateau_brandeau|Chateau Brandeau]] — Bordeaux / Castillon-Côtes de Bordeaux · organic · CSW ★1/2
 - [[chateau_cantemerle|Château Cantemerle]] — Bordeaux / Haut-Médoc · CSW 1 · Raeder 2
+- [[chateau_coutelin_merville|Château Coutelin-Merville]] — Bordeaux / Saint-Estèphe
 - [[chateau_ducru_beaucaillou|Château Ducru-Beaucaillou]] — Bordeaux / Saint-Julien · Raeder 2
 - [[chateau_fonroque|Chateau Fonroque]] — Bordeaux / Saint-Emilion Grand Cru · biodynamic · CSW ★1/4
 - [[chateau_gruaud_larose|Château Gruaud-Larose]] — Bordeaux / Saint-Julien · CSW 1 · Raeder 4

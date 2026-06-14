@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Salta"
-updated: 2026-06-13
+updated: 2026-06-14
 producer_count: 5
 ---
 
