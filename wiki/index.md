@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 898
+total_pages: 899
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**898 pages indexed.**
+**899 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -74,6 +74,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Camille_Riviere|Camille Rivière]] — French natural. (see above)
 - [[Camille_Riviere_Selection|Camille Rivière Selection]] — NYC. French natural wines. Small portfolio.
 - [[Camo_&_Co|Camo & Co.]] — Small French portfolio.
+- [[Coeur|Coeur]] — France, Italy, United States, Spain, Austria, South Africa
 - [[Corkhorder|Corkhorder]] — Small importer.
 - [[DNS_Selections|DNS Selections]] — French and Greek natural/organic wines.
 - [[Daniel_Johnnes_Skurnik|Daniel Johnnes / Skurnik]] — Burgundy

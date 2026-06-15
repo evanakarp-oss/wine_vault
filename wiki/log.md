@@ -357,3 +357,17 @@ Hachette 2 stars, B&D, Gault&Millau). Evan's call: organic/bio status
 irrelevant for this producer type — placed on the terroir-transparency
 axis. Rollups regenerated (Burgundy_Producers + FASS_Selections now list
 him); index rebuilt; lint 0.
+
+## [2026-06-15] ingest | Coeur import portfolio saved
+
+Created `wiki/importers/Coeur.md` from a pasted portfolio list — Coeur is a
+US import book of natural / artisan / terroir-driven growers across 14
+countries (139 producers). Organized country → region → producer, matching
+the source. Deepest in France (39: Loire, Rhône, Champagne, Burgundy, Jura)
+and Italy (39: Piedmont-heavy, plus Sicily, Tuscany, Veneto), with a strong
+natural US book (California/NY/Oregon, 23), Spain (Catalonia-led, 14),
+Austria (7), South Africa (6), and single-country footholds in Germany,
+Mexico (mezcal), Argentina, Australia, New Zealand, Hungary, Slovakia/Czech,
+and Romania. These are portfolio names, not vault-tracked producers — no
+producer pages created yet; triage against Evan's curation taste before
+onboarding. `url` left blank (unconfirmed). Index rebuilt; lint 0.
