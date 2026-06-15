@@ -357,3 +357,5 @@ Hachette 2 stars, B&D, Gault&Millau). Evan's call: organic/bio status
 irrelevant for this producer type — placed on the terroir-transparency
 axis. Rollups regenerated (Burgundy_Producers + FASS_Selections now list
 him); index rebuilt; lint 0.
+
+## [2026-06-15] view | Raeders elegant reds for warmer weather buy list
