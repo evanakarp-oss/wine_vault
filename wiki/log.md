@@ -371,3 +371,23 @@ frontmatter. Caveats logged for Marguet (volatile acidity), Agrapart
 (his one DTE pan). Filed at `wiki/_views/wk_dte_picks_2026_06.md`; index
 rebuilt. Source layer is still forum-only — Wine Advocate clippings dir
 empty, so signal is directional not scored.
+
+## [2026-06-16] consolidate | Pull orphaned _views pages from session branches into main
+
+Swept all per-session `claude/*` branches for `wiki/_views/` pages that
+never reached `main` and consolidated 40 view pages (+1 SVG map) onto the
+single read surface. Deduped overlaps per Evan's call: dropped
+`rugged_mountain_cabernet_2026_06.md` (twin of the bedrock-style mountain-cab
+gap view) and kept only `csw_article_archive.md` over the two older
+2012-specific CSW pages (`csw_2012_and_earlier.md`,
+`csw_articles_2012_and_earlier.md`). Covers Burgundy value/Vosne adjacency,
+California cab canon + gaps, Raeders × importer xrefs, FASS picks, auction +
+retail-offer screens, CSW article archive, and vault-meta reviews. Alternate
+drafts of pages already in main (summer-white v2/v3, four gap/matrix pages
+from the vault-architecture branch) were left in their branches, not merged.
+
+Discovered `wiki/_views/` had no catalog — `build_wiki_index.py` skips the
+directory by design — so views were uncataloged anywhere. Added
+`scripts/build_views_index.py` + generated `wiki/_views/_index.md` (69 views)
+as the single read surface, and corrected the CLAUDE.md note that wrongly
+claimed views were listed in `wiki/index.md`.
