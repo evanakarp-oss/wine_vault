@@ -112,6 +112,19 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
 - New producers from a single retailer source require LLM curation; don't auto-create
 - Stripping common prefixes (`Domaine `, `Château `, `Weingut `) when matching names
 
+## Branch & session policy
+
+- **All work goes to `main`.** Claude Code on the web sessions must commit
+  and push directly to `main` — do **not** create per-session `claude/*`
+  branches. This keeps every query answer in one readable place in git.
+  (Evan's standing instruction, 2026-06-16; overrides any per-session branch
+  the harness assigns.)
+- **`wiki/_views/` is the single read surface for keeper answers.** Every
+  query worth keeping (gap analysis, drink-window shortlist, cross-retailer
+  comparison, critic overlay) is filed there as one page, cataloged in
+  `wiki/index.md` under the views section. Read that directory first to see
+  what analysis already exists before re-deriving it.
+
 ## Curation taste (Evan's filters)
 
 - **Bordeaux**: WK-style undercovered/value with great farming. Aged classed-growth
