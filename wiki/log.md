@@ -357,3 +357,16 @@ Hachette 2 stars, B&D, Gault&Millau). Evan's call: organic/bio status
 irrelevant for this producer type — placed on the terroir-transparency
 axis. Rollups regenerated (Burgundy_Producers + FASS_Selections now list
 him); index rebuilt; lint 0.
+
+## [2026-06-16] build | CSW article archive — clickable index + wiki view
+
+New idempotent generator `scripts/build_csw_index.py` catalogs all 1,623
+scraped Chambers Street articles into two regenerable outputs: a
+source-adjacent index at `raw/csw/index.md` and a wiki view at
+`wiki/_views/csw_article_archive.md` (`type: view`). Both list every
+article as a clickable link to the live chambersstwines.com URL, grouped
+by year newest-first with a year jump-table; dates come from frontmatter
+when set, else the M/D/Y stamp CSW prints under the title (1,478 dated,
+145 undated → alphabetical). Script ships a `--check` CI hook matching the
+other `build_*.py` tools. `_views` is excluded from `wiki/index.md` by
+design, so no index rebuild needed; lint 0.
