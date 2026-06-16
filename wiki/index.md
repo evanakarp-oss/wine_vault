@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 899
+total_pages: 900
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**899 pages indexed.**
+**900 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -90,6 +90,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Grand_Cru_Selections|Grand Cru Selections]] — Champagne
 - [[Graziano|Graziano]] — Italian specialist.
 - [[Hootananny|Hootananny]] — Natural wines.
+- [[IPO_Wines|IPO Wines]] — France, Spain, Italy, United States, Austria, Portugal
 - [[Jeffrey_Alpert_Selections|Jeffrey Alpert Selections]] — NYC. Natural/artisan.
 - [[Jenny_&_Francois_Selections|Jenny & François Selections]] — Beaujolais, France, Loire
 - [[Jose_Pastor_Selections|José Pastor Selections]] — Argentina

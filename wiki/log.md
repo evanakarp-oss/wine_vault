@@ -371,3 +371,16 @@ Mexico (mezcal), Argentina, Australia, New Zealand, Hungary, Slovakia/Czech,
 and Romania. These are portfolio names, not vault-tracked producers — no
 producer pages created yet; triage against Evan's curation taste before
 onboarding. `url` left blank (unconfirmed). Index rebuilt; lint 0.
+
+## [2026-06-16] ingest | IPO Wines import portfolio saved
+
+Created `wiki/importers/IPO_Wines.md` from the importer's "Our Producers"
+page — 168 producers, saved as a flat alphabetical roster (source gave names
+only, no country/region grouping). France-heavy (Burgundy, Rhône, Corsica,
+Champagne, Loire, Languedoc-Roussillon) with deep Spain (Gredos, sherry,
+Catalonia), Italy (Veneto/Piedmont/Tuscany/Alto Adige), Austria, Portugal,
+and a cult-Napa contingent (Screaming Eagle, Sloan, Dalla Valle, Grace
+Family, Checkerboard, Jonata, The Hilt). Portfolio names, not vault-tracked
+producers — no producer pages created. Flagged that the cult-hedonist Napa
+names fall outside Evan's California filter (skip on onboarding). `url` left
+blank (unconfirmed). Index rebuilt; lint 0.
