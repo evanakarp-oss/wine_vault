@@ -357,3 +357,17 @@ Hachette 2 stars, B&D, Gault&Millau). Evan's call: organic/bio status
 irrelevant for this producer type — placed on the terroir-transparency
 axis. Rollups regenerated (Burgundy_Producers + FASS_Selections now list
 him); index rebuilt; lint 0.
+
+## [2026-06-16] view | WK × Down to Earth top picks (value-first)
+
+Cross-portfolio shortlist of William Kelley's Down to Earth (Panzer)
+endorsements, framed value-first: a ~11-bottle under-$80 core plus four
+trophy picks. Broadens the earlier Burgundy-only eval to Champagne
+(Larmandier-Bernier, Lassaigne + Petit Clergeot, Laherte) and the Rhône
+(Marc Sorrel white Hermitage), each with verbatim signal from the
+`raw/berserkers/William_Kelley/` forum corpus and DTE price ranges from
+frontmatter. Caveats logged for Marguet (volatile acidity), Agrapart
+(no corpus enthusiasm), Arnoux-Lachaux (zip-code pricing), Michel Noëllat
+(his one DTE pan). Filed at `wiki/_views/wk_dte_picks_2026_06.md`; index
+rebuilt. Source layer is still forum-only — Wine Advocate clippings dir
+empty, so signal is directional not scored.
