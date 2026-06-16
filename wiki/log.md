@@ -384,3 +384,32 @@ Family, Checkerboard, Jonata, The Hilt). Portfolio names, not vault-tracked
 producers — no producer pages created. Flagged that the cult-hedonist Napa
 names fall outside Evan's California filter (skip on onboarding). `url` left
 blank (unconfirmed). Index rebuilt; lint 0.
+
+## [2026-06-16] create | Wine Source exclusives onboarded (20 producer pages)
+
+Audited the Wine Source importer's "collections / Our Exclusives" list against
+the vault — only 2 of 22 producers existed (Fanny Sabre; Sylvain Pataille,
+listed by Wine Source as "Laurent Pataille, Marsannay" — recorded as an alias
+and Wine Source added to his importer_us). Created the 20 missing producer
+pages, all `importer_us: Wine Source`:
+
+- **Burgundy collections (8):** Domaine Prieuré Roch (NSG), Domaine Leroy
+  (Vosne), Philippe Pacalet (Beaune), Domaine Jean Féry (Échevronne), Domaine
+  Jobard Morey (Meursault), Maison Réno Pacalet (Chassagne), Si Tu Sais
+  (Chamilly), Yann Durieux / Recrue des Sens (Hautes-Côtes de Nuits — links to
+  2 existing cellar bottles).
+- **Champagne exclusives (8):** Adrien Dhondt-Grellet (Flavigny), Emmanuel
+  Brochet (Villers-aux-Nœuds), Frédéric Savart (Écueil), Benoît Déhu (Fossoy),
+  Les Monts Fournois (Ludes), Pauline Collin-Bérêche (Ludes), R. Pouillon
+  (Mareuil-sur-Aÿ), Georges & Vincent Laval (Cumières — = Roscioli's "George
+  Laval").
+- **Beyond (4):** Domaine Takahiko (Yoichi, Hokkaido — added Japan + Hokkaido
+  to `_TAXONOMY.md`), Domaine du Clos Saint Martin (Sancerre), Clos St Antonin
+  (S. Rhône — also in IPO Wines list), Le Vignoble du Rêveur (Alsace, Mathieu
+  Deiss).
+
+Geography + US importer are confirmed from the source list; summaries use
+well-established general knowledge only — no fabricated critic coverage (CSW
+sections left empty; several stubs flagged for verification on next ingest).
+Rollups regenerated (Wine_Source importer page now 22; new Hokkaido_Producers
+region page); index rebuilt; lint 0.

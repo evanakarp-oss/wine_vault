@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Burgundy"
-updated: 2026-06-13
-producer_count: 86
+updated: 2026-06-16
+producer_count: 94
 ---
 
 # Burgundy — Producer Index
 
-**86 producers** tracked.
+**94 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -50,6 +50,7 @@ producer_count: 86
 | [[gerard_mugneret|Gerard Mugneret]] | France | Vosne-Romanée | 2 | 6 | — | — | — |
 | [[messager-germain|Messager-Germain]] | France | — | 2 | — | — | — | — |
 | [[rapet_pere_et_fils|Rapet Père et Fils]] | France | Pernand-Vergelesses | 2 | — | — | — | — |
+| [[yann_durieux|Yann Durieux (Recrue des Sens)]] | France | Hautes-Côtes de Nuits | — | — | — | — | 2 btl |
 | [[amelie_berthaut|Amélie Berthaut]] | France | — | 1 | 1 | — | — | — |
 | [[berthaut-gerbet|Berthaut-Gerbet]] | France | Fixin / Gevrey | 1 | — | — | — | — |
 | [[domaine_cheveau|Domaine Cheveau]] | France | Pouilly-Fuissé | 1 | — | — | — | — |
@@ -72,6 +73,10 @@ producer_count: 86
 | [[chicotot|Chicotot]] | France | '' | — | 20 | — | — | — |
 | [[cyril_audoin|Cyril Audoin]] | France | '' | — | 3 | — | — | — |
 | [[denis_bachelet|Denis Bachelet]] | France | '' | — | 1 | — | — | — |
+| [[domaine_jean_fery|Domaine Jean Féry]] | France | Échevronne / Hautes-Côtes de Beaune | — | — | — | — | — |
+| [[domaine_jobard_morey|Domaine Jobard Morey]] | France | Meursault | — | — | — | — | — |
+| [[domaine_leroy|Domaine Leroy]] | France | Vosne-Romanée | — | — | — | — | — |
+| [[prieure_roch|Domaine Prieuré Roch]] | France | Nuits-Saint-Georges | — | — | — | — | — |
 | [[francois_bertheau|Francois Bertheau]] | France | '' | — | 5 | — | — | — |
 | [[francois_buffet|François Buffet]] | France | — | — | 3 | — | 24 | — |
 | [[georges_noellat|Georges Noëllat]] | France | '' | — | 13 | — | — | — |
@@ -88,13 +93,16 @@ producer_count: 86
 | [[loersch|Loersch]] | France | — | — | 9 | — | — | — |
 | [[louis_latour|Louis Latour]] | France | Beaune | — | — | 9 | — | — |
 | [[lucien_boillot|Lucien Boillot]] | France | Gevrey-Chambertin | — | — | 9 | — | — |
+| [[maison_reno_pacalet|Maison Réno Pacalet]] | France | Chassagne-Montrachet | — | — | — | — | — |
 | [[marchand_tawse|Marchand Tawse]] | France | '' | — | 25 | — | — | — |
 | [[maxime_cheurlin|Maxime Cheurlin]] | France | — | — | 18 | — | — | — |
 | [[michel_niellon|Michel Niellon]] | France | Chassagne-Montrachet | — | — | 3 | — | — |
 | [[michel_rebourgeon|Michel Rebourgeon]] | France | — | — | 13 | — | 17 | — |
 | [[modot_guyon|Modot Guyon]] | France | — | — | 6 | — | — | — |
 | [[patrice_rion|Patrice Rion]] | France | — | — | 3 | — | — | — |
+| [[philippe_pacalet|Philippe Pacalet]] | France | Beaune | — | — | — | — | — |
 | [[roty|Roty]] | France | — | — | 1 | — | — | — |
+| [[si_tu_sais|Si Tu Sais]] | France | Chamilly / Côte Chalonnaise | — | — | — | — | — |
 | [[sigaut|Sigaut]] | France | — | — | 9 | — | — | — |
 | [[thomas_et_jean_marc_bouley|Thomas et Jean Marc Bouley]] | France | — | — | 10 | — | — | — |
 

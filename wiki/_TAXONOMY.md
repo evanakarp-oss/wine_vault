@@ -23,6 +23,7 @@ Add new values here FIRST, then use them in producer files.
 - Argentina
 - Chile
 - Uruguay
+- Japan
 
 ## `region` (indexed by country)
 
@@ -85,6 +86,9 @@ Add new values here FIRST, then use them in producer files.
 - Jujuy
 - San Juan
 - Buenos Aires Province
+
+### Japan
+- Hokkaido
 
 ## `farming`
 

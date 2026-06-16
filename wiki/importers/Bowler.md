@@ -5,7 +5,7 @@ slug: bowler
 producer_count: 11
 focus: ['Beaujolais', 'Burgundy', 'Champagne', 'Liguria', 'Mendoza', 'Mosel', 'Piedmont', 'San Juan']
 notable_producers: ['Desvignes', 'Steinmetz', 'Clos de la Roilette', 'Bruna', 'Fratelli Alessandria']
-updated: 2026-06-13
+updated: 2026-06-16
 ---
 
 # Bowler

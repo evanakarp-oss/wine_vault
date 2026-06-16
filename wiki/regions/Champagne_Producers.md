@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Champagne"
-updated: 2026-06-13
-producer_count: 16
+updated: 2026-06-16
+producer_count: 24
 ---
 
 # Champagne — Producer Index
 
-**16 producers** tracked.
+**24 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -22,6 +22,14 @@ producer_count: 16
 | [[jacques_lassaigne|Jacques Lassaigne]] | France | '' | 1 | 3 | — | — | — |
 | [[larmandier_bernier|Larmandier Bernier]] | France | '' | 1 | 3 | 1 | — | — |
 | [[aurore_casanova|Aurore Casanova]] | France | — | — | 4 | — | — | — |
+| [[adrien_dhondt_grellet|Champagne Adrien Dhondt-Grellet]] | France | Flavigny / Côte des Blancs | — | — | — | — | — |
+| [[benoit_dehu|Champagne Benoît Déhu]] | France | Fossoy / Vallée de la Marne | — | — | — | — | — |
+| [[emmanuel_brochet|Champagne Emmanuel Brochet]] | France | Villers-aux-Nœuds / Montagne de Reims | — | — | — | — | — |
+| [[frederic_savart|Champagne Frédéric Savart]] | France | Écueil / Montagne de Reims | — | — | — | — | — |
+| [[les_monts_fournois|Champagne Les Monts Fournois]] | France | Ludes / Montagne de Reims | — | — | — | — | — |
+| [[pauline_collin_bereche|Champagne Pauline Collin-Bérêche]] | France | Ludes / Montagne de Reims | — | — | — | — | — |
+| [[r_pouillon|Champagne R. Pouillon]] | France | Mareuil-sur-Aÿ / Vallée de la Marne | — | — | — | — | — |
+| [[georges_laval|Georges & Vincent Laval]] | France | Cumières / Vallée de la Marne | — | — | — | — | — |
 | [[louis_roederer|Louis Roederer]] | France | '' | — | — | 12 | — | — |
 | [[nathalie_falmet|Nathalie Falmet]] | France | — | — | 1 | — | — | — |
 | [[petit_clergeot|Petit Clergeot]] | France | '' | — | 1 | — | — | — |

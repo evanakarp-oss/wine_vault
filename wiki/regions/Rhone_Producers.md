@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Rhône"
-updated: 2026-06-13
-producer_count: 32
+updated: 2026-06-16
+producer_count: 33
 ---
 
 # Rhône — Producer Index
 
-**32 producers** tracked.
+**33 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -36,6 +36,7 @@ producer_count: 32
 | [[jasmin|Jasmin]] | France | — | 1 | 1 | — | — | — |
 | [[billon|Billon]] | France | '' | — | 4 | — | — | — |
 | [[clos_saouma|Clos Saouma]] | France | — | — | 1 | — | — | — |
+| [[clos_saint_antonin|Clos St Antonin]] | France | Southern Rhône | — | — | — | — | — |
 | [[clusel_roch|Clusel Roch]] | France | '' | — | 3 | 1 | — | — |
 | [[domaine_de_beaurenard|Domaine de Beaurenard]] | France | Châteauneuf-du-Pape | — | — | 11 | — | — |
 | [[eric_et_joel_durand|Eric et Joel Durand]] | France | — | — | 1 | — | — | — |

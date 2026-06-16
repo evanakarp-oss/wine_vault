@@ -5,9 +5,9 @@ slug: raeders
 url: "https://www.raederswine.com"
 location: ""
 producer_count: 56
-updated: 2026-06-13
-_source: wiki/_resources.md
+updated: 2026-06-16
 tags: []
+_source: wiki/_resources.md
 ---
 # Raeder's
 

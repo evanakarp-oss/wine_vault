@@ -2,7 +2,8 @@
 type: producer
 name: Sylvain Pataille
 slug: sylvain_pataille
-aliases: []
+aliases:
+- Laurent Pataille
 country: France
 region: Burgundy
 sub_region: Marsannay
@@ -10,7 +11,8 @@ appellations: []
 farming:
 - biodynamic
 certifications: []
-importer_us: []
+importer_us:
+- Wine Source
 retailers:
   chambers:
     championed: true

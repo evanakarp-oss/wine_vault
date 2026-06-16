@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "California"
-updated: 2026-06-13
+updated: 2026-06-16
 producer_count: 10
 ---
 

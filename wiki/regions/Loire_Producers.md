@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Loire"
-updated: 2026-06-13
-producer_count: 6
+updated: 2026-06-16
+producer_count: 7
 ---
 
 # Loire — Producer Index
 
-**6 producers** tracked.
+**7 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -17,5 +17,6 @@ producer_count: 6
 | [[domaine_de_la_chevalerie|Domaine de la Chevalerie]] | France | Bourgueil | 15 | — | — | — | — |
 | [[clos_rougeard|Clos Rougeard]] | France | Saumur-Champigny | 11 | — | — | — | — |
 | [[boulay|Boulay]] | France | '' | 2 | 1 | — | — | — |
+| [[clos_saint_martin|Domaine du Clos Saint Martin]] | France | Sancerre | — | — | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*
