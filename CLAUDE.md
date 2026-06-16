@@ -100,6 +100,7 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
 - `build_rollups.py` — regenerate region/importer/retailer index pages
 - `build_wiki_index.py` — regenerate `wiki/index.md` from current vault state (idempotent; `--check` for CI)
 - `build_wiki_log.py` — seed `wiki/log.md` from git history; `--check` validates entry format
+- `build_csw_index.py` — regenerate `raw/csw/index.md`, a chronological clickable catalog of all CSW articles (idempotent; `--check` for CI)
 - `lint.py` — schema/taxonomy/dedup checks (run with `--fix` for safe auto-fixes)
 - `ingest_csw.py` — match CSW articles → producer write-ups (re-run after adding producers)
 - `compile_raeders.py` + `compile_raeders_creates_v2.py` — Raeders integration
