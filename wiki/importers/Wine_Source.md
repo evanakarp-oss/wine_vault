@@ -6,6 +6,7 @@ producer_count: 22
 focus: ['Alsace', 'Burgundy', 'Champagne', 'Hokkaido', 'Loire', 'Rhône']
 notable_producers: ['Sylvain Pataille', 'Fanny Sabre', 'Champagne Adrien Dhondt-Grellet', 'Champagne Benoît Déhu', 'Champagne Emmanuel Brochet']
 updated: 2026-06-16
+url: "https://www.wine-source.com"
 ---
 
 # Wine Source
