@@ -138,6 +138,74 @@ friction).
 - Bernaudeau Les Nourrissons 2016 (25310, $240–300) — natural Anjou chenin icon; the
   Les Ongles case (22056, 6×, $158–200/btl) carried over.
 
+## Obscure regions & sleepers (off the beaten path)
+
+The producer-whitelist screen above skips sleepers by design; this is a full read of
+the small/odd region buckets for terroir-driven, biodynamic, aged-value picks.
+
+**More German (the dry & cult-grower side, beyond the 2007 Prüm/Dönnhoff block):**
+- **J.J. Christoffel Ürziger Würzgarten 2007** — Kabinett (lot 25150, 6×, $15–20/btl)
+  and Spätlese (25151, 6×, $16–22/btl, 91pt). Tiny, semi-retired Mosel grower; red-slate
+  spice; aged ~19 yrs at silly money. NEW.
+- **Georg Breuer Berg Schlossberg 2014/2015** (25311/12, 3×, $63–93/btl) — top *dry*
+  Rheingau Riesling, steep Rüdesheim slate, family estate. Dry German is badly
+  under-collected. NEW.
+- **Markus Molitor** Auslese Gold/Green-capsule 2014/2015 (25313/14, $37–130/btl) — the
+  capsule-color sweetness system, resurrected Kinheimer Hubertuslay site; connoisseur
+  bait. NEW.
+- **F. Haag Brauneberger Juffer Sonnenuhr Spätlese 2007** (25149, $25–33/btl) — Fritz
+  Haag benchmark Brauneberg.
+
+**Alsace (aged grand dry Riesling):**
+- **Trimbach Clos Ste Hune** — the Rosacker monopole, Alsace's greatest dry Riesling:
+  1989 Vendange Tardive (22974, 3×, $533–667/btl, 94pt), 2003/2009 ($217–380/btl).
+- **Trimbach Cuvée Frédéric Émile 1990** (24775, $140–170, 96pt WS) — legendary vintage,
+  ages forever (catalog mis-buckets it under Germany). NEW.
+
+**Fortified — the wow-factor value of the sale:**
+- **Graham's 1985 Vintage Port** (24885, **12×, $46–58/btl**, 96pt WS) — a full case of
+  40-yr-old declared-vintage Port at ~$50/btl, drinking now. Best fortified value here. NEW.
+- **Sandeman Vintage Port 1909 / 1940 / 1943** (24886/87/88, $160–800/btl) — pre-war and
+  1909 museum pieces; old Port is indestructible. NEW. Ramos Pinto 1934 (19056) carryover.
+- **Terroirs du Sud Banyuls VDN 1959** (19030, 6×, $75–100/btl) — 67-yr-old fortified
+  Roussillon Grenache; dinner-party magic. Carryover.
+
+**Spain (aged value + obscure fortified):**
+- **Contino Rioja Reserva 1995** (24820, 9×, **$21–27/btl**) — CVNE single-estate Rioja,
+  30 yrs old, ~$24/btl. NEW.
+- **Alvear Montilla-Moriles "1927" solera / Dulce Viejo** (19035, $20–27/btl) — ageless
+  old-solera PX from Montilla; obscure, cheap, immortal.
+- **Flor de Pingus 1996** (24815, 7×, $64–79/btl) — Peter Sisseck's biodynamic Ribera
+  sibling to Pingus, aged 30 yrs — the one biodynamic-terroir Spanish pick. NEW.
+- Aged Ribera value: Pesquera Crianza '97 ($27–34/btl), Condado de Haza '94, Teófilo
+  Reyes '97 ($21–28/btl). Vega Sicilia Único Reserva Especial ($367–467/btl) — the icon.
+- *Notably absent:* López de Heredia (the aged-Rioja grail) is not in this sale.
+
+**Washington — Cayuse (the most on-taste obscure name in the book):**
+- Christophe Baron's biodynamic, own-rooted, cobblestone-terroir Syrah from The Rocks —
+  savory/reductive Northern-Rhône style, cult but farming-driven (not hedonist):
+  **En Cerise 2014** (23724, 4×, $80–105/btl), Wallah Wallah Special #4 2012 ($150–200/btl),
+  Bionic Frog 2018 (24481, $240–320, 94pt VM), Special No. 4/12 singles.
+- **Gramercy Cellars** (Greg Harrington MS) — restrained Walla Walla Syrah/Cab; John Lewis
+  Syrah at $34–93/btl, the value play in the WA bucket.
+
+**Oregon (aged Willamette Pinot value, NEW):**
+- **Domaine Drouhin Willamette 1992** (24883, 4×, $38–45/btl) — Drouhin's Dundee outpost,
+  33-yr-old Pinot. **Beaux Frères 1995** (22991, 11×, $55–68/btl) — biodynamic Ribbon
+  Ridge, 30 yrs. Archery Summit 1997 verticals ($21–42/btl) — lush style but aged-cheap.
+
+**Other curios:** P. Delesvaux Coteaux du Layon SGN 2000/2001 (25309) — biodynamic aged
+botrytis chenin (Anjou); Seña 1995 (24889/90, 6×, $53–70/btl) — aged Chilean icon, 30 yrs.
+
+**Mis-labels / not actually obscure-region:** the "Austria" bucket is entirely **BK Wines**
+(Brendon Keys, Adelaide Hills, *Australia* — catalog error), low-intervention 12-packs at
+$12–20/btl (HK). The Australia bucket proper is mostly Mollydooker/Penfolds — off-taste.
+
+*Absent for an obscure-hunter:* no Jura (Overnoy/Ganevat), no Gredos garnacha (Comando G/
+Envínate), no real Austria (Prager/Knoll/Nikolaihof), no Friuli, no Madeira/Tokaji/Savoie.
+The catalog's obscurity is concentrated in aged Mosel/Rheingau Riesling, old Port, aged
+Rioja/Ribera, Cayuse Syrah, and aged Oregon Pinot.
+
 ## Carryover still live (from the Week-24 view)
 
 A handful of prior picks survived the turnover: **La Jota '92** (24338),

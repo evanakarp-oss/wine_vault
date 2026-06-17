@@ -412,3 +412,17 @@ Flaccianello; deep aged drink-now Bordeaux; grower Champagne (Prévost, Savart, 
 Per a follow-up, screened for Friuli/Collio/Carso and orange wine catalog-wide — zero
 hits; the Italian book is Piedmont + Tuscany + Veneto only. Views index rebuilt (70).
 Committed to main per Evan's standing branch rule (CLAUDE.md, 2026-06-16).
+
+## [2026-06-17] view | Auction 261W Week 25 — obscure/sleeper addendum
+
+Follow-up to the Week-25 auction view: Evan asked for more obscure regions /
+sleepers ("the German flag was good"). Added an "Obscure regions & sleepers"
+section reading the small region buckets in full (the producer-whitelist screen
+skips sleepers by design). Highlights: J.J. Christoffel + Georg Breuer + Molitor
+(dry/cult-grower German), Trimbach Clos Ste Hune + Frédéric Émile (aged Alsace),
+Graham's 1985 Port by the case + 1909/1940/43 Sandeman (fortified), Contino '95
++ Alvear Montilla solera + Flor de Pingus '96 (aged/biodynamic Spain), Cayuse +
+Gramercy (biodynamic WA Syrah), Domaine Drouhin/Beaux Frères aged Oregon Pinot.
+Flagged the "Austria" bucket as a catalog mislabel (BK Wines = Australia), and
+the obscure-hunter gaps (no Jura/Gredos/real-Austria/Friuli/Madeira). Same view
+file, committed to main.
