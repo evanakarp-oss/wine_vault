@@ -391,3 +391,24 @@ directory by design — so views were uncataloged anywhere. Added
 `scripts/build_views_index.py` + generated `wiki/_views/_index.md` (69 views)
 as the single read surface, and corrected the CLAUDE.md note that wrongly
 claimed views were listed in `wiki/index.md`.
+
+
+## [2026-06-17] view | Auction 261W Week 25 top picks (refreshed catalog)
+
+Evan uploaded the Week-25 Acker 261W catalog (`raw/auctions/Catalog_261W_25.xlsx`,
+1,977 rows / 1,505 distinct lots) and asked for the most interesting lots. Diffed
+against the Week-24 file: lot numbers are stable (same number = same wine), but the
+catalog turned over ~half — 769 lots new, 727 dropped, 736 carried over. Most Week-24
+hero lots already sold (Dunn '92/'87, the 7-bottle Dalla Valle '93, Prévost Les
+Béguines, Clos Rougeard, Allemand, Rossignol-Trapet Chambertin, Vatan, '67 d'Yquem).
+
+Fresh taste screen filed at `wiki/_views/auction_261w_week25_top_picks_2026_06.md`.
+Headlines: Ridge Monte Bello 2013 (reference-set Cali Cab, absent from the prior
+sale); a 2007 German Riesling block (Dönnhoff Hermannshöhle, J.J. Prüm Wehlener at
+$18–67/btl); an aged biodynamic Beaucastel CdP vertical (1981–1990); Chandon de
+Briailles 2005 Corton grand-cru cases ($75–117/btl); Dominus aged vertical; Aldo
+Conterno '97 + Oddero Vigna Rionda trad Barolo; Quintarelli Primofiore '05 + Fontodi
+Flaccianello; deep aged drink-now Bordeaux; grower Champagne (Prévost, Savart, Selosse).
+Per a follow-up, screened for Friuli/Collio/Carso and orange wine catalog-wide — zero
+hits; the Italian book is Piedmont + Tuscany + Veneto only. Views index rebuilt (70).
+Committed to main per Evan's standing branch rule (CLAUDE.md, 2026-06-16).
