@@ -457,3 +457,21 @@ the sleeper Robert Mondavi Reserve 1987 (97pt, pre-cult To Kalon). 66 cult lots
 screened out (14 Opus One, Silver Oak, Screaming Eagle, Harlan, Bond). Coverage is
 narrower than Week 24 (no Corison/Togni/Spottswoode/Diamond Creek/MacDonald).
 Views index rebuilt. Committed to main.
+
+## [2026-06-17] view | Vintage guide by region (cooler-classic lens)
+
+Evan asked to add vintage context to the vault — best vintages for regions like
+Burgundy and Napa — with the explicit palate steer that he prefers less-ripe over
+more-ripe (Tuscany named directly), citing the 2008 Mugnier Clos de la Maréchale
+as "a bit too big." Researched cool-vs-warm vintage character 2010–2023 across
+the cellar's regions (Jancis Robinson, Wine Spectator, Wine Scholar Guild, K&L,
+Mosel Fine Wines, Decanter/Finest Bubble, Wine Cellar Insider) and filed a single
+keeper view at wiki/_views/vintage_guide.md. It rates vintages by a ripeness lens
+(❄️ cool/classic = chase · ⚖️ balanced · ☀️ warm/ripe = caution · ⚠️ hot/atypical
+= skip) rather than raw quality, covering Burgundy red+white, Tuscany, Napa Cab,
+Piedmont, Bordeaux, Champagne, Germany, N. Rhône, Loire reds, and Mendoza, plus a
+per-region cheat sheet. Two framing principles: site structure compounds with
+vintage ripeness (the Maréchale read big because the NSG monopole site is broad,
+not because 2008 was a warm year — it wasn't), and in Napa/Mendoza producer beats
+vintage. Reframed the 2008 Maréchale note honestly on that basis. Views index
+rebuilt (73). Committed to main.

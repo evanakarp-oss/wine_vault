@@ -9,7 +9,7 @@ generator: scripts/build_views_index.py
 
 Catalog of every keeper-answer page in `wiki/_views/` — the single read surface for saved analyses (gap analysis, drink-window shortlists, cross-retailer comparisons, critic overlays). The main `wiki/index.md` skips this directory, so this is where views are cataloged.
 
-**72 views.**
+**73 views.**
 
 | Page | Question / title | Updated |
 |---|---|---|
@@ -73,6 +73,7 @@ Catalog of every keeper-answer page in `wiki/_views/` — the single read surfac
 | [[vault_tour_deck|vault_tour_deck]] | Wine Vault |  |
 | [[veritas_wines_raeders_xref_2026-06|veritas_wines_raeders_xref_2026-06]] | Veritas Wines × Raeder's — Cross-Reference | 2026-06-13 |
 | [[vineyard_brands_at_raeders|vineyard_brands_at_raeders]] | Vineyard Brands × Raeder's — Inventory Cross-Check | 2026-05-21 |
+| [[vintage_guide|vintage_guide]] | Best vintages by region, read through a less-ripe / cooler-classic lens (Evan's palate) | 2026-06-17 |
 | [[vosne_adjacency_2026_05|vosne_adjacency_2026_05]] | The Vosne adjacency |  |
 | [[vosne_adjacent_parcels|vosne_adjacent_parcels]] | Vosne-Romanée — Adjacent Parcels (North & South) | 2026-05-25 |
 | [[vosne_styled_nsg|vosne_styled_nsg]] | Vosne-Styled NSG — Deep Dive on Producers & Parcels | 2026-05-26 |
