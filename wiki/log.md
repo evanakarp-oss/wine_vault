@@ -441,3 +441,19 @@ regions: Ganevat/Cavarodes/Marnes Blanches/Tissot (Jura), Belluard (Savoie), Mia
 Elio Sandri (trad Piedmont), Robert Michel 'La Geynale' library Cornas, Jerome
 Prevost Les Beguines, grower Aligote wall, Keller Abtserde GG + Mosel value. Landed
 raw at raw/retailers/, rebuilt the views index. Committed to main.
+
+## [2026-06-17] view | Auction 261W Week 25 California Cabernet screen
+
+Evan asked about the Cali Cabs in the Acker Week-25 catalog. Screened all 601
+California Cab/Meritage + Red lots against the definitive Cabernet target list
+and the Napa filter (rugged/site-transparent, not cult-hedonist). Filed at
+wiki/_views/auction_261w_week25_cab_screen_2026_06.md as a companion refresh of
+the now-stale Week-24 cab screen. Headline: Ridge Monte Bello 2013 (4x,
+$225-300/btl, 97pt) — the #1 unowned Cab on the target list, absent from Week 24
+— is now in the sale. Reference-set also covers Dalla Valle '93 case ($62-75/btl)
++ '92 + Maya '98, La Jota '92 ($52-70/btl), Dunn '08. Restrained adjacents: a deep
+Dominus 1989-1995 vertical, Montelena Estate 1980-1993, Forman '87, Mayacamas, and
+the sleeper Robert Mondavi Reserve 1987 (97pt, pre-cult To Kalon). 66 cult lots
+screened out (14 Opus One, Silver Oak, Screaming Eagle, Harlan, Bond). Coverage is
+narrower than Week 24 (no Corison/Togni/Spottswoode/Diamond Creek/MacDonald).
+Views index rebuilt. Committed to main.
