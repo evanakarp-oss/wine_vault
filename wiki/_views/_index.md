@@ -9,7 +9,7 @@ generator: scripts/build_views_index.py
 
 Catalog of every keeper-answer page in `wiki/_views/` — the single read surface for saved analyses (gap analysis, drink-window shortlists, cross-retailer comparisons, critic overlays). The main `wiki/index.md` skips this directory, so this is where views are cataloged.
 
-**70 views.**
+**71 views.**
 
 | Page | Question / title | Updated |
 |---|---|---|
@@ -55,6 +55,7 @@ Catalog of every keeper-answer page in `wiki/_views/` — the single read surfac
 | [[offers_2026-05-25_csw_flash_top_picks|offers_2026-05-25_csw_flash_top_picks]] | CSW Memorial Day 2026 Flash Sale — Most Essential Picks |  |
 | [[polaner_at_raeders|polaner_at_raeders]] | Polaner × Raeder's — Inventory Cross-Check | 2026-05-21 |
 | [[r_squared_picks_2026_05_27|r_squared_picks_2026_05_27]] | What looks most compelling from R-Squared Wine's 2026-05-27 offer list? | 2026-05-27 |
+| [[r_squared_picks_2026_06_17|r_squared_picks_2026_06_17]] | What's most interesting on R Squared Selections' 2026-06-17 inventory — especially the obscure regions (Jura, Savoie, Friuli)? | 2026-06-17 |
 | [[racking_2k_cellar|racking_2k_cellar]] | Racking the 2,000-Bottle Cellar — Ladder-Style Single-Bottle | 2026-05-19 |
 | [[raeders_burgundy_value_picks_2026_06|raeders_burgundy_value_picks_2026_06]] | Top 15 Burgundy picks under $400 in the Raeders inventory, grounded in William Kelley's actual Wine Berserkers comments. | 2026-06-06 |
 | [[raeders_elegant_reds_warm_weather_2026_06|raeders_elegant_reds_warm_weather_2026_06]] | Buy list — light-to-medium, elegant reds for slightly warmer weather (chillable reds), no Pinot Noir, sourced from the Raeders inventory. | 2026-06-15 |

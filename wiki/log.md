@@ -426,3 +426,18 @@ Gramercy (biodynamic WA Syrah), Domaine Drouhin/Beaux Frères aged Oregon Pinot.
 Flagged the "Austria" bucket as a catalog mislabel (BK Wines = Australia), and
 the obscure-hunter gaps (no Jura/Gredos/real-Austria/Friuli/Madeira). Same view
 file, committed to main.
+
+## [2026-06-17] view | R Squared Selections inventory top picks (2026-06-17)
+
+Evan uploaded R Squared's 2026-06-17 inventory (293 wines, 61 new) and asked to
+"check r squared" — landing on the heels of his obscure-regions question. R Squared
+is a natural/terroir importer whose book is squarely his taste: deep Jura (25),
+Savoie, Friuli, traditional Piemonte, grower Champagne, Cornas, grower-Aligoté white
+Burgundy. Screened the full list against the curation filters and cross-checked the
+cellar (already owns Ganevat Madelon, Cogno x3, Foillard '18) + 22 existing producer
+pages. Filed at wiki/_views/r_squared_picks_2026_06_17.md, leading with the obscure
+regions: Ganevat/Cavarodes/Marnes Blanches/Tissot (Jura), Belluard (Savoie), Miani
+(Friuli). Other highlights: Bartolo Mascarello + Giuseppe Rinaldi + Produttori +
+Elio Sandri (trad Piedmont), Robert Michel 'La Geynale' library Cornas, Jerome
+Prevost Les Beguines, grower Aligote wall, Keller Abtserde GG + Mosel value. Landed
+raw at raw/retailers/, rebuilt the views index. Committed to main.
