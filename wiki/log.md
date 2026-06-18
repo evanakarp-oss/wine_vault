@@ -475,3 +475,22 @@ vintage ripeness (the Maréchale read big because the NSG monopole site is broad
 not because 2008 was a warm year — it wasn't), and in Napa/Mendoza producer beats
 vintage. Reframed the 2008 Maréchale note honestly on that basis. Views index
 rebuilt (73). Committed to main.
+
+## [2026-06-18] ingest | Di Costanzo producer page (Coombsville + Moon Mtn restrained Cab)
+
+Promoted Di Costanzo from a checklist lead to a full producer page
+(`wiki/producers/di_costanzo.md`) at Evan's direction ("def want de costanzo on
+our top producers"). Massimo Di Costanzo (ex-Screaming Eagle assistant winemaker
+under Andy Erickson) founded the label with the 2010 vintage and inverted that
+house style toward finesse: reasonable brix, all-natural acidity, organic/native
+yeast, low SO2, little-to-no fining/filtration. Single-vineyard Cabs from Farella
+(Coombsville's oldest Cab vines, late-1970s), Caldwell (a block formerly farmed by
+Randy Dunn), and dry/organically-farmed Montecillo on Moon Mountain (the same
+Sonoma site that anchors the restrained-Cab canon, also sourced by Arnot-Roberts).
+Frontmatter set country=United States, region=California, sub_region=Coombsville /
+Moon Mountain, farming=[organic, sustainable]. Added to the Core shortlist and
+ticked the checklist (✅) in `wiki/_views/restrained_napa_sonoma_cab_canon_2026_06.md`;
+rebuilt rollups (California rollup now carries it), `wiki/index.md`, and the views
+index. Lint 0. Vinous/WA critic sections left as PENDING stubs — no clipping has
+been ingested (the Vinous Napa list Evan recalls giving was never committed to the
+repo; `raw/clippings/vinous/` holds only its README).

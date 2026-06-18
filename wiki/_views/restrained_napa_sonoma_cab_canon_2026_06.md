@@ -25,6 +25,7 @@ to the full Napa+Sonoma restraint set, grouped so you can shop by terroir.
 | **Mayacamas** | Mt. Veeder | 1,800–2,400', CCOF organic, "marathon-runner" tannins, 10–20 yr. |
 | **Ridge Monte Bello** | Santa Cruz Mtns | The cool-climate Cab benchmark; structured, ageless. |
 | [[mount_eden_vineyards\|Mount Eden]] ✅ | Santa Cruz Mtns | Dry-farmed Franciscan shale, ~2,000', La Questa lineage. |
+| [[di_costanzo\|Di Costanzo]] ✅ | Coombsville + Moon Mtn | Ex-Screaming Eagle Massimo Di Costanzo, inverted to finesse; Farella (oldest Coombsville Cab) + dry-farmed Montecillo. |
 | **Philip Togni** | Spring Mountain | Austere, tannic, classic — a back-vintage benchmark. |
 | **Spottswoode** | St. Helena | Organic/biodynamic, restrained, ageworthy, <14%. |
 | ◐ **Bedrock (Montecillo)** | Moon Mtn, Sonoma | Old-school mountain Cab off dry-farmed late-'60s vines. |
@@ -155,7 +156,7 @@ _✅ Verified strong fits — add:_
 - [ ] **Gallica** *(St. Helena — Rosemary Cakebread, **also ex-Spottswoode**; restraint + elegance, organic, old vines (1953 PS / 1990 Cab), no tasting room)*
 - [ ] **Tres Sabores** *(W. Rutherford bench — certified organic + dry-farmed; Julie Johnson, **Frog's Leap co-founder**; earthy, savory)*
 - [ ] **MacDonald Vineyards** *(Oakville To Kalon — head-trained dry-farmed old vines incl. 1954; "structured yet elegant"; allocation-only / largely unobtainable)*
-- [ ] **Di Costanzo** *(Coombsville — Massimo Di Costanzo; finesse-driven, reasonable brix, all-natural acidity, no fining/filtering, minimal SO2. Farella Vyd = Coombsville's oldest Cab; also a **dry/organically-farmed Montecillo Vyd** Cab — the same Moon Mountain site that anchors this whole list. A MUST per Evan.)*
+- [x] [[di_costanzo\|Di Costanzo]] ✅ *(Coombsville — Massimo Di Costanzo; finesse-driven, reasonable brix, all-natural acidity, no fining/filtering, minimal SO2. Farella Vyd = Coombsville's oldest Cab; also a **dry/organically-farmed Montecillo Vyd** Cab — the same Moon Mountain site that anchors this whole list. A MUST per Evan. **→ now a vault producer page (2026-06-18).**)*
 - [ ] **Trois Noix** *(Jaime Araujo — earlier/brighter picking, neutral/little new oak; B-Corp + Napa Green, organic-leaning; single-site, affordable. Paired with Matthiasson as "farming for the future.")*
 - [ ] **Arns** *(just below Howell Mountain, ~800' — deep dry soils, no irrigation/chemicals, 1–2 t/ac yields, "rugged and structured" mountain Cab)*
 

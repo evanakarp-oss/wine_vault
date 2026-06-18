@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 898
+total_pages: 899
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**898 pages indexed.**
+**899 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -30,7 +30,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Bierzo_Producers|Bierzo Producers]] — **1 producers** tracked.
 - [[Bordeaux_Producers|Bordeaux Producers]] — **25 producers** tracked.
 - [[Burgundy_Producers|Burgundy Producers]] — **86 producers** tracked.
-- [[California_Producers|California Producers]] — **10 producers** tracked.
+- [[California_Producers|California Producers]] — **11 producers** tracked.
 - [[Catalonia_Producers|Catalonia Producers]] — **1 producers** tracked.
 - [[Champagne_Producers|Champagne Producers]] — **16 producers** tracked.
 - [[Colli_Tortonesi_Producers|Colli Tortonesi Producers]] — **1 producers** tracked.
@@ -266,7 +266,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_358 producers across 37 regions._
+_359 producers across 37 regions._
 
 ### Abruzzo
 
@@ -431,6 +431,7 @@ _358 producers across 37 regions._
 - [[bergstrom|Bergstrom]] — California / Willamette Valley (Oregon) · biodynamic · Raeder 11
 - [[bryant_family_vineyard|Bryant Family Vineyard]] — California / Napa Valley (Pritchard Hill) · Raeder 1
 - [[colgin|Colgin]] — California / Napa Valley (Pritchard Hill) · Raeder 2
+- [[di_costanzo|Di Costanzo]] — California / Napa Valley (Coombsville) / Moon Mountain (Sonoma) · organic, sustainable
 - [[futo_estate|Futo Estate]] — California / Napa Valley (Stags Leap District / Oakville) · sustainable · Raeder 1
 - [[hundred_acre|Hundred Acre]] — California / Napa Valley · Raeder 4
 - [[kosta_browne|Kosta Browne]] — California / Sonoma Coast · CSW 1 · Raeder 15
