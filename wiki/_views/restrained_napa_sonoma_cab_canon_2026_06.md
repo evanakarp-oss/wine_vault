@@ -1,6 +1,6 @@
 ---
 type: view
-updated: 2026-06-01
+updated: 2026-06-18
 question: "Top candidates for Napa & Sonoma Cabernet in the restrained / elegant bucket — the Dunn / Corison / Bedrock house style."
 curation_axis: "Sense of place + tension. Dry-farmed / farming-driven / mountain or cool-site / lower-alcohol / ageworthy. NOT the cult-hedonist tier (Harlan/Schrader/SQN/Colgin/Hundred Acre/Screaming Eagle)."
 related: gap_mountain_cabernet_bedrock_style_2026_06.md
@@ -185,6 +185,73 @@ JCB/Boisset, PlumpJack / Cade / Odette, Black Stallion, Cuvaison, ZD, Schramsber
 _Already covered above / on the list:_ Pilcrow (8 reviews — strong), Corison, Dominus,
 Chappellet, Dalla Valle, Robert Craig, Ladera, Viader, Ashes & Diamonds, Monticello /
 Chris Corley, Marineau Mills, Sommras, Alluvium, Monte Rosso Estate, Louis Martini, Charles Krug.
+
+## Vinous Napa producer index — full triage (2026-06)
+
+The producer list Evan pulled from **Vinous** (Napa coverage, ~230 names) — the one
+he kept asking about. Captured verbatim at
+[`raw/vinous/napa_producer_index_2026-06.md`](../../raw/vinous/napa_producer_index_2026-06.md)
+so it can't get lost again, and triaged here against the post-2026-05-29 filter
+(**sense of place + tension**, not the cult-hedonist tier). **Di Costanzo is on the
+list twice (main + "Di Co") and now has a page → [[di_costanzo|Di Costanzo]] ✅.**
+
+_✅ New verified fits (not yet on this canon) — promote / page candidates:_
+- [ ] **Hyde de Villaine (HdV)** *(Carneros — Hyde family × Aubert de Villaine of DRC; Burgundian restraint, balance-first "Belle Cousine" Cab/Merlot + Chard/Syrah. Strongest new fit — **page candidate**.)*
+- [ ] **Detert Family Vineyards** *(a tiny family parcel inside To Kalon — understated, old-school Cabernet Franc & Cab; the antithesis of its blue-chip neighbors.)*
+
+_◐ Worth a look (mountain / cool-site / classic — taste before buying):_
+- [ ] Keenan *(Spring Mountain — classic, structured, value)*
+- [ ] Barnett *(Spring Mountain "Rattlesnake Hill" — mountain Cab)*
+- [ ] Burgess *(Howell Mountain — historic, relaunched under the Lawrence/Heitz team)*
+- [ ] O'Shaughnessy *(Howell Mtn + Mt Veeder — mountain Cab)*
+- [ ] Outpost · Ink Grade *(Howell Mountain estates)*
+- [ ] Seavey *(Conn Valley — classic, ageworthy)*
+- [ ] Selene *(Mia Klein — restrained)*
+- [ ] Snowden *(Oakville hillside family — restrained value "The Ranch")*
+- [ ] Clos du Val *(Stags Leap — historically Bordelais/restrained; chase back-vintages, recent leans richer)*
+- [ ] Chimney Rock · Groth *(Stags Leap / Oakville classics)*
+- [ ] Fisher · Pride Mountain *(Mayacamas ridge — mountain, can lean richer)*
+- [ ] Hudson *(Carneros — balanced, cool)*
+- [ ] El Molino *(historic Rutherford Pinot/Chard — low-key, old-school)*
+- [ ] Haynes Vineyard · Bella Oaks *(historic vineyards, restrained relaunches)*
+- [ ] Arietta *(Kongsgaard-rooted Bordeaux blend — structured; verify current style)*
+- [ ] Massican *(Dan Petroski — fresh Italianate **whites**, balance-movement; not Cab but on-ethos)*
+- [ ] VHR / Vine Hill Ranch *(top Oakville hillside vineyard — still to confirm style)*
+
+_Heritage old-vine (different category — Zin/Petite Sirah — but aligned in spirit):_
+Turley, Robert Biale, Peter Franus *(old-vine, farming-driven; not the Cab axis)*.
+
+_⛔ Skip — cult / opulent tier:_ Harlan, BOND, Colgin (+Jubilation), Screaming Eagle,
+Scarecrow, Promontory, Ulysses, Continuum, Ovid, Bryant Family, Kapcsándy, Bevan, Pahlmeyer,
+TOR, Paul Hobbs (+Crossbarn), Lail, Au Sommet, Roy Estate, Vineyard 29, Sloan, Lokoya,
+Cardinale, Realm, Futo, Moone-Tsai, Carte Blanche, Seven Apart, Cliff Lede, Shafer, Dana,
+Blankiet, Staglin, Abreu, Brand, Aberro, Coup de Foudre, Caterwaul, Kinsman Eades,
+Pulido-Walker, Rewa, Grace Family, Cornell, Gandona, Sentium, Mythical, Patria, Lindstrom,
+Dakota Shy, David Arthur, Jericho Canyon (Rolland-consulted), Mark Herold, Carter, Casa Piena.
+
+_⛔ Skip — commercial / tourist / modern-styled / consultant-négoce:_ Raymond, St. Supéry,
+Turnbull, Frank Family, Round Pond, Robert Mondavi, Opus One, JCB, PlumpJack / Cade / Odette,
+Miner, Hourglass, Priest Ranch, Michael Pozzan, Amici, Alpha Omega, Blackbird, Hobel, Melka,
+Julien Fayard / Les Vins Julien, Pott Wine, Signorello / S by Ray Signorello, Sinegal (+Details
+by Sinegal), St. Helena Winery, Buoncristiani, Aubert, Kongsgaard, Capiaux, Nickel & Nickel,
+Rivers-Marie *(Cab side cult-adjacent; Pinots are the restrained part)*, Antinori Napa (Antica),
+Keever, Keplinger, Gamble, Oakville Ranch, Behrens Family, Seven Stones.
+
+_❓ No signal — likely modern micro-debuts / garagiste (skip unless you know one; tell me any to research):_
+001 Vintners, A.Aitch, Ad Vivum, Aerika Prologue, ALH, Almacerro, Ampleur, Amuse Bouche, Annulus,
+Arrow & Branch, atLarge, Baker Canyon, Baker & Hamilton, Bergman, Brion, Coronet, Correlation,
+Covalence, Covert Estate, Crosby Roamann, Edge Wines, Ellman, Emerson Brown, Fe, Heimark,
+Impensata, J.H. Wheeler, Kerr Cellars, Kizor, Knighton, Kohue, Laz, Le Pich, Mabon, Matt Parish,
+Mending Wall, Mon Trajet, NEOTEMPO, Nid Tissé, Patel, Perliss, PharaohMoans, Purlieu, Remedium,
+Retro Cellars, Richard G. Peterson, Rossi Wallace, Rougiste, Sylvan Lake, T. Berkley, Taplin,
+The Grade, The Vineyardist, Tobias, To Kalon Vineyard Company, Unity, Westborn, William & Mary,
+Zakin, Zeitgeist.
+
+_Already on this canon (the Vinous list confirms them):_ Corison, Dunn, Mayacamas, Spottswoode,
+Philip Togni, Chappellet, Diamond Creek, Dyer, Robert Craig, La Jota, Dalla Valle, Dominus,
+Forman, Frog's Leap, Heitz Cellar, Inglenook, MacDonald, Gallica, **Di Costanzo ✅**, Stony Hill,
+Accendo, Davies, Marineau Mills, Joseph Phelps, Etude *(Soter-era only)*, White Rock,
+Louis M. Martini, Charles Krug.
 
 ## Napa — mountain (the heart of the style)
 

@@ -66,7 +66,7 @@ Catalog of every keeper-answer page in `wiki/_views/` — the single read surfac
 | [[raeders_spanish_triage_2026_06|raeders_spanish_triage_2026_06]] | Raeders Spanish — what's most in my wheelhouse |  |
 | [[raeders_summer_white_2026|raeders_summer_white_2026]] | What sub-$25 white at Raeder's can be my house wine for the summer? | 2026-06-13 |
 | [[raeders_x_importers_master_2026_06|raeders_x_importers_master_2026_06]] | Full list, by importer, of producers stocked at Raeders — consolidated from all importer-portfolio cross-checks. | 2026-06-13 |
-| [[restrained_napa_sonoma_cab_canon_2026_06|restrained_napa_sonoma_cab_canon_2026_06]] | Top candidates for Napa & Sonoma Cabernet in the restrained / elegant bucket — the Dunn / Corison / Bedrock house style. | 2026-06-01 |
+| [[restrained_napa_sonoma_cab_canon_2026_06|restrained_napa_sonoma_cab_canon_2026_06]] | Top candidates for Napa & Sonoma Cabernet in the restrained / elegant bucket — the Dunn / Corison / Bedrock house style. | 2026-06-18 |
 | [[rosenthal_at_raeders|rosenthal_at_raeders]] | Neal Rosenthal × Raeder's — Inventory Cross-Check | 2026-05-21 |
 | [[skurnik_at_raeders|skurnik_at_raeders]] | Skurnik × Raeder's — Inventory Cross-Check | 2026-05-21 |
 | [[skurnik_raeders_xref_2026-06|skurnik_raeders_xref_2026-06]] | Skurnik × Raeder's — Cross-Reference | 2026-06-13 |

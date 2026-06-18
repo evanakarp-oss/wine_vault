@@ -494,3 +494,20 @@ rebuilt rollups (California rollup now carries it), `wiki/index.md`, and the vie
 index. Lint 0. Vinous/WA critic sections left as PENDING stubs — no clipping has
 been ingested (the Vinous Napa list Evan recalls giving was never committed to the
 repo; `raw/clippings/vinous/` holds only its README).
+
+## [2026-06-18] ingest | Vinous Napa producer index — captured + triaged (~230 names)
+
+Evan supplied the Vinous Napa producer list he'd been asking about (the one never
+committed in prior sessions). Captured verbatim at
+`raw/vinous/napa_producer_index_2026-06.md` (provenance only — a bare list, not Web
+Clipper article output, so it does not feed `compile_clippings.py`). Triaged all ~230
+names against the post-2026-05-29 taste filter and filed the result as a new section
+("Vinous Napa producer index — full triage") in
+`wiki/_views/restrained_napa_sonoma_cab_canon_2026_06.md`. New verified fits surfaced:
+Hyde de Villaine (HdV) and Detert Family (both page candidates); a ◐ worth-a-look tier
+(Keenan, Barnett, Burgess, O'Shaughnessy, Outpost, Ink Grade, Seavey, Selene, Snowden,
+Clos du Val, Chimney Rock, Groth, Fisher, Pride, Hudson, El Molino, Haynes, Bella Oaks,
+Arietta, Massican, VHR); cult/opulent and commercial/modern tiers skip-listed; the
+genuine unknowns bucketed as "no signal — modern micro/garagiste, skip unless known."
+Confirmed Di Costanzo appears twice on the list and already has a page (created earlier
+today). Rebuilt wiki/index.md + views index; lint 0.
