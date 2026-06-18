@@ -92,6 +92,9 @@ _Not in portfolio._
   winemaking under a DRC hand — the antithesis of the opulent Napa cult tier. The
   "Belle Cousine" Bordeaux blend is the restrained red; the Chardonnays are the
   estate's calling card.
+- **Pricing (2026-06):** "Belle Cousine" Bordeaux blend ~$96; the Chardonnays
+  ~$91–92; "Californio" Syrah ~$95. Allocation-leaning but recent vintages turn up
+  at retail (K&L, Total Wine, Brix26).
 - **Onboarding source:** promoted from the Vinous Napa producer-index triage
   ("✅ New verified fits") in the restrained-Cab canon view. Page created
   2026-06-18 at Evan's direction.

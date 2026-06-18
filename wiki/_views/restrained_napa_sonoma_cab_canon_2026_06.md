@@ -294,6 +294,61 @@ Forman, Frog's Leap, Heitz Cellar, Inglenook, MacDonald, Gallica, **Di Costanzo 
 Accendo, Davies, Marineau Mills, Joseph Phelps, Etude *(Soter-era only)*, White Rock,
 Louis M. Martini, Charles Krug.
 
+### Price check (2026-06)
+
+Current US retail — release price where known, otherwise wine-searcher average.
+Most of these are tiny allocation wines, so figures are **indicative, not pinned**
+(many retailer/wine-searcher pages 403 to automated lookup; corroborated via
+snippets). ⭐ = genuine value for the quality tier.
+
+**The fits / new pages:**
+
+| Producer | Flagship | ~US price | Notes |
+|---|---|---|---|
+| ⭐ **T. Berkley** | "FRANC" Cab Franc | **$32** | Chenin "BLANC" ~$35 (entry ~$23). Widely available, club. The value play. |
+| ⭐ **Kizor** | Sonoma Mtn Syrah | **$48** | Wirz Vyd Riesling ~$45. Boutique CA retail. (Dunn's winemaker.) |
+| **Retro Cellars** | Park-Muscatine **Petite Sirah** | **~$50** | ⚠️ **no varietal Cab** — PS + one Cab-dominant blend (~$50–60). Mike Dunn. |
+| **Tobias** | "Pauli Vyd" Howell Mtn Cab | **~$150** | Broader Howell Mtn Cab ~$56; Napa Zin ~$15. Retail-findable. |
+| **HdV** | "Belle Cousine" Bord. blend | **~$96** | Chardonnays ~$91–92, Californio Syrah ~$95. Allocation-leaning. |
+| **Detert** | "East Block" Cab Franc | **~$200–280** (retail) | Release ~$100 ex-cellar; reg. Cab Sauv ~$130. Allocation. |
+| **Almacerro** | Estate Howell Mtn Cab | **~$225** | Single wine (Peschon-made). Specialty retail + direct. |
+| **Fe Wines** | "Fe" Spring Mtn Cab | **~$339** | "26" red blend ~$125–175. Estate list + Premiere Napa. Priciest fit. |
+| **VHR** | Vine Hill Ranch Cab | **$325–345** (rel.) | Back-vintage 2020 ~$170. Allocation. |
+
+**Worth-a-look tier:**
+
+| Producer | Flagship | ~US price | Notes |
+|---|---|---|---|
+| ⭐ Rossi Wallace | Chard / Grenache | ~$30–50 | Forman's Burgundian project; Pinot retired. DTC. |
+| ⭐ Crosby Roamann | Napa/Rutherford Cab | ~$74–90 | "Crosby's Reserve" ~$107; lineup $22–107. Widely available. |
+| ⭐ atLarge | Amber Knolls Cab (Lake Co.) | ~$85 | Single cuvée, high-elev. volcanic. Direct/specialty. |
+| ⭐ Baker & Hamilton | Oakville Cab | ~$90–95 | VHR's 2nd label (Peschon) at ~⅓ the flagship. $65–150 by vintage. |
+| Correlation | Napa Cab | ~$80 | Lineup ~$70–90. Limited retail. |
+| Mabon (Hourglass) | Carneros Syrah / GSM | ~$66–85 | Rhône side-label. Direct/club. |
+| Knighton Family | Napa Cab → Reserve | $95 → $180 | ~300 cs, winery-direct. |
+| Covalence | Stags Leap Cab | ~$75 (est) | ~205 cs (Pott). ACME. Too new for an avg. |
+| Richard G. Peterson | SLH Pinot | ~$70–78 | Brut Rosé sparkling ~$175. Findable. |
+| Nid Tissé | single-vyd Chardonnays | ~$90–100 | Pinot ~$90–110. Low-intervention; fine-wine channels. |
+| Covert Estate | Coombsville Cab | ~$120–177 | Cab Franc ~$250. Allocation. |
+| Ampleur | Hayne Vyd Cab | $150 (rel.) | Blanc ~$65; lineup $65–150. New. |
+| Heimark | Napa Cab | ~$170–179 | Market $135–200. Allocation. |
+| Remedium / Pott "Stacked" | Howell Mtn Cab blend | ~$90–125 (est) | ⚠️ Remedium is a **vineyard** — bottled by **Pott Wine** as "Stacked." |
+| The Vineyardist | Diamond Mtn Cab | ~$219 | Library ~$149–175. Biodynamic; members/allocation. |
+| Ad Vivum | Sleeping Lady Cab | ~$200–225 | Chris Phelps. Retail-available. |
+| Arrow & Branch | "Right Bank" blend | ~$172–200 | Heritage Cab Franc ~$325; SB ~$60. Allocation. |
+| 001 Vintners | Ecotone Cab | $225 rel. / ~$300+ avg | Graeme MacDonald-made. Allocation → secondary. |
+| NEOTEMPO | Kiatra Estate Cab | ~$250 rel. / ~$280 avg | Organic; allocation (list full). |
+| Bergman | Spring Mtn red | ~$295 | Abreu-farmed, Kinsman. Allocation. Priciest worth-a-look. |
+| A.Aitch | Rutherford Cab | _no price_ (new, ~130 cs) | Allocation/ACME. |
+| Aerika "Prologue" | Mt. Veeder Cab | _no price_ (2026 debut) | Mailing-list only. |
+| Baker Canyon | Mt. Veeder Cab | _no price_ (new) | By-appt allocation. (Erickson — skip-tier anyway.) |
+
+**Read:** the value end is **T. Berkley (~$32), Kizor (~$45–48), Rossi Wallace (~$30–50),
+Crosby Roamann (~$74+), atLarge (~$85), Baker & Hamilton (~$90)**. The lineage names
+you'd most want — Retro (Dunn) and Tobias (Forman) — are reachable at ~$50 and ~$56–150.
+The flagship Cabs (VHR, Fe, NEOTEMPO, 001, Bergman, Almacerro) all run $225–345 and are
+allocation-gated.
+
 ## Napa — mountain (the heart of the style)
 
 **Howell Mountain** — iron-fisted, structured, slow:

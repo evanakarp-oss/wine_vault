@@ -91,6 +91,9 @@ _Not in portfolio._
   négociant-style "To Kalon" labels chasing the name.
 - **Open data gap:** no explicit organic/dry-farming certification surfaced in
   research — `farming:` left empty pending confirmation.
+- **Pricing (2026-06):** "East Block" old-vine Cabernet Franc ~$200–280 at retail
+  (release ~$100 ex-cellar; the secondary markup reflects scarcity); the regular
+  Cabernet Sauvignon ~$130. Allocation-list driven, thin secondary.
 - **Onboarding source:** promoted from the Vinous Napa producer-index triage
   ("✅ New verified fits") in the restrained-Cab canon view. Page created
   2026-06-18 at Evan's direction.

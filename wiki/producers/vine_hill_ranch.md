@@ -92,6 +92,10 @@ _Not in portfolio._
   and structured rather than opulent.
 - **Second label:** **Baker & Hamilton** is VHR's négociant-style sibling (same fruit
   base / Peschon hand) — kept as a "worth a look" on the canon, leans more polished.
+- **Pricing (2026-06):** the VHR estate Cabernet is the pricey end — $325 (2022) to
+  $345 (2023) on release, ~$301 wine-searcher average; back-vintages cheaper (2020
+  ~$170). Direct-winery allocation. The **Baker & Hamilton** second label (same fruit
+  base, Peschon hand) is the value route in at ~$90–95.
 - **Onboarding source:** confirmed from the ◐ worth-a-look tier (Wine Advocate +
   Vinous Napa index triage) → promoted to a page. Created 2026-06-18 at Evan's
   direction ("VHR great").

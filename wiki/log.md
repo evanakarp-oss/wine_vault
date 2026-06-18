@@ -530,3 +530,17 @@ Fe Wines (CCOF-organic Spring Mtn), T. Berkley (old-vine Cab Franc/Chenin), Kizo
 (Dunn's winemaker; off-Cab) — plus a worth-a-look tier and confirmed cult/négoce skips.
 Two remain unknown (Kohue, Unity). Rebuilt California rollup, wiki/index.md, views
 index; lint 0.
+
+## [2026-06-18] view | Price check on the Vinous Napa fits + worth-a-look (~32 names)
+
+Researched current US retail prices off-vault (4 parallel agents) for the nine
+fits/pages plus the ~23-name worth-a-look tier, and filed a "Price check (2026-06)"
+section (two tables) in `wiki/_views/restrained_napa_sonoma_cab_canon_2026_06.md`.
+Also appended pricing notes to the hyde_de_villaine, detert_family_vineyards and
+vine_hill_ranch pages. Value standouts: T. Berkley (~$32), Kizor (~$45–48), Rossi
+Wallace (~$30–50), Crosby Roamann (~$74+), atLarge (~$85), Baker & Hamilton (~$90,
+VHR's 2nd label). Lineage names reachable: Retro Cellars ~$50, Tobias ~$56–150.
+Flagship allocation Cabs (VHR $325–345, Fe ~$339, NEOTEMPO ~$250, 001 ~$225+,
+Bergman ~$295, Almacerro ~$225) run high. Two corrections logged: Retro Cellars makes
+**no varietal Cabernet** (Petite Sirah + one Cab-blend), and "Remedium" is a vineyard
+bottled by **Pott Wine as 'Stacked'." Prices indicative (many sources 403); lint 0.
