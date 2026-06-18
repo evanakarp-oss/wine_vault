@@ -583,3 +583,16 @@ Lassaigne/Guiborat fils; Beaujolais by-millésime horizontals; Jura Château-Cha
 Vin Jaune verticals). Includes a how-to-mine guide and a Berserkers-style ingest
 sketch (blocker: LPV 403s the fetcher — needs a real scraper). Search-surfaced;
 contents not fully fetched. Filed wiki/_views/lpv_signal_map_french_regions_2026_06.md.
+
+## [2026-06-18] scaffold | LPV (La Passion du Vin) source section
+Started LPV as a community-pulse source, mirroring the Berserkers pattern.
+Added: `raw/lpv/README.md` (source layer + data contract + 403 scraper caveat),
+`raw/lpv/threads/_TEMPLATE.json` (canonical JSON shape), `raw/lpv/threads/index.md`
+(region-tagged registry of candidate anchor threads to ingest, N. Rhône first).
+Registered `community.lpv` in `wiki/_SCHEMA.md` (frontmatter block + `## LPV` body
+section, both keyed by thread `kind`: producer_fil / blind_panel / best_of_poll)
+and `community.lpv.threads` in `wiki/_TAXONOMY.md` (empty table — none ingested yet).
+Updated CLAUDE.md: LPV row in source-roles table, planned `*_lpv_*` pipeline under
+common scripts, and an open follow-up. No producer pages carry `community.lpv` yet;
+scraper + parse/compile/rollup scripts are TODO (LPV 403s the fetcher → manual paste
+for now). lint 0, all --check gates green.

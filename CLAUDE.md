@@ -47,6 +47,7 @@ Drive auto-mirrors on every push**).
 | **Vinous** | critic depth | `## Vinous Reviews` on producer pages (PENDING — Web Clipper) |
 | **Wine Advocate (Kelley)** | focused critic | `## Wine Advocate (Kelley)` (PENDING — Web Clipper) |
 | **Berserkers** | community pulse | `## Berserkers` body + `community.berserkers.threads.*` frontmatter — drives gap analysis + momentum signals |
+| **LPV** (La Passion du Vin) | French community pulse | `## LPV` body + `community.lpv.threads.*` frontmatter — French-region consensus (blind panels / producer fils / best-of polls). **Scaffolded** (`raw/lpv/`, schema, taxonomy); scraper + compiler TODO (site 403s the fetcher) |
 | **Cellar (CT export)** | what Evan owns | `## Cellar` section + cellar/*.md files |
 
 ## Operations
@@ -105,6 +106,7 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
 - `ingest_csw.py` — match CSW articles → producer write-ups (re-run after adding producers)
 - `compile_raeders.py` + `compile_raeders_creates_v2.py` — Raeders integration
 - `scrape_wb_thread.py` + `parse_wb_thread.py` + `compile_wb_signals.py` + `build_wb_rollups.py` — Berserkers thread pipeline. Each thread becomes per-producer frontmatter signals + a `## Berserkers` body section + rollup views (top-100, momentum, cellar-overlap, gap candidates).
+- `scrape_lpv_thread.py` + `parse_lpv_thread.py` + `compile_lpv_signals.py` + `build_lpv_rollups.py` — **planned** LPV (La Passion du Vin) pipeline, mirroring Berserkers. Not yet written; source layer + data contract scaffolded in `raw/lpv/` (manual-paste ingest for now — LPV 403s the fetcher).
 
 ## Conventions
 
@@ -151,6 +153,7 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
 - **One Drive duplicate left**: `wiki/wiki/`. `_drive_sync/wine_wiki_v2/` and `wine_vault_fromdocuments/` are approved-for-delete (2026-05-26). Before deleting `wiki/wiki/`, run `python scripts/audit_drive_duplicates.py /path/to/Drive/wine_vault/wiki/wiki` — exits non-zero if any producer slug lives only on Drive.
 - **Raeders candidates** — `scripts/audit_raeders_candidates.py` produces a triage table at `build/raeders_candidates.md` (1,541 producers not yet in vault). Triage with Evan's curation taste; onboard the keepers via `compile_raeders_creates_v2.py`.
 - **Berserkers threads** — pipeline wired (2026-05), `top10_in_cellar` is the only ingested thread. To add another: scrape → parse → compile, see `raw/berserkers/README.md`.
+- **LPV source** — scaffolded 2026-06-18 (`raw/lpv/` README + data contract + thread registry, `community.lpv` schema, taxonomy namespace; signal map at `wiki/_views/lpv_signal_map_french_regions_2026_06.md`). **Two things left:** (1) a real scraper — LPV 403s WebFetch, so either build a headers/session scraper or ingest by manual paste into `raw/lpv/threads/<slug>.raw.md`; (2) write `parse_lpv_thread.py` + `compile_lpv_signals.py` + `build_lpv_rollups.py`. First threads to ingest are listed in `raw/lpv/threads/index.md` (N. Rhône priority).
 - **JSX widget rewire** — `scripts/build_widget_json.py` now emits `build/widget_data.json` from the vault. The widget JSX file (`dte_wines_1.jsx`) lives outside this repo; update it to `fetch('/build/widget_data.json')` instead of the hardcoded arrays.
 
 ## Closed follow-ups (2026-05-26)

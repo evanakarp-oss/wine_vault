@@ -142,6 +142,7 @@ Free-form, but lowercase, hyphenated. Some encouraged conventions:
 ## `community` (sources keyed under the `community:` frontmatter block)
 
 - `berserkers` → Wine Berserkers community forum (https://www.wineberserkers.com)
+- `lpv` → La Passion du Vin, French amateur forum (https://www.lapassionduvin.com)
 
 ### `community.berserkers.threads` (registered thread slugs)
 
@@ -155,3 +156,16 @@ metadata (URL, title, post count) lives in
 | `top10_in_cellar` | Top 10 Producers in your cellar? | https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370 |
 
 (Add a row when ingesting a new thread.)
+
+### `community.lpv.threads` (registered thread slugs)
+
+Each entry is an LPV thread ingested into `raw/lpv/threads/<slug>.json`.
+Threads come in three kinds — `producer_fil`, `blind_panel`, `best_of_poll`
+(see `raw/lpv/README.md`). **None ingested yet**; candidate anchor threads to
+ingest are listed in `raw/lpv/threads/index.md`.
+
+| Slug | Kind | Title | URL |
+|---|---|---|---|
+| _(none yet)_ | | | |
+
+(Add a row when ingesting a thread; the slug must match the JSON filename.)

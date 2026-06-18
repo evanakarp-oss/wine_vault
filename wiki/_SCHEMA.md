@@ -162,6 +162,37 @@ Don't hand-edit `community.berserkers.threads.*` blocks. They're regenerated
 on every `compile_wb_signals.py --apply` from the canonical thread JSON.
 Hand-edits will be silently overwritten.
 
+### `community.lpv` block
+
+Same family as `community.berserkers`, for La Passion du Vin (the French amateur
+forum). Sourced from `raw/lpv/threads/<slug>.json`. LPV threads come in three
+**kinds** — `producer_fil`, `blind_panel`, `best_of_poll` — so the per-thread
+shape carries a `kind` and (for panels/polls) a rank and a `/20` score rather
+than Berserkers-style mention tallies. **Status: scaffolded — no producer pages
+carry this block yet; the compiler (`compile_lpv_signals.py`) is not yet written.**
+
+```yaml
+community:
+  lpv:
+    threads:
+      saint_joseph_2018_horizontale:
+        kind: blind_panel                 # producer_fil | blind_panel | best_of_poll
+        rank: 11                          # int|null — rank within the panel/poll
+        panel_size: 24                    # int|null — n wines tasted/ranked
+        score_20: 15.5                    # float|null — mean blind score /20 (panels)
+        sentiment: positive               # reference|positive|mixed|cautious|null
+        vintages: [2018]                  # list|null — vintages discussed
+        last_updated: 2026-06-18
+      <future_thread_slug>:
+        ...
+```
+
+Field rules: **thread slug** must match a registered slug in `_TAXONOMY.md` →
+`community.lpv.threads`. **`score_20`** is the LPV `/20` convention (blind panels
+only); `null` for `producer_fil` / `best_of_poll`. **`sentiment`** summarises the
+fil's consensus when there's no numeric score. All optional fields accept `null`.
+Same anti-pattern as Berserkers: regenerated from thread JSON, don't hand-edit.
+
 ---
 
 ## Producer page — `## Berserkers` body section
@@ -195,6 +226,34 @@ before `## Down to Earth Wines (Panzer)` / `## Cross-references` / `## Notes`.
 Don't hand-edit the `## Berserkers` section either — it's fully regenerated
 from the thread JSON. If you want to add an editorial note about a producer's
 WB reputation, put it in the producer's free-form `## Notes` section instead.
+
+---
+
+## Producer page — `## LPV` body section
+
+The La Passion du Vin counterpart to `## Berserkers`. Auto-rendered by
+`compile_lpv_signals.py` (TODO — not yet written) from `raw/lpv/threads/*.json`.
+One sub-section per thread the producer appears in, shaped by the thread `kind`:
+
+```markdown
+## LPV
+
+### [Horizontale 24 Saint-Joseph rouges 2018 à l'aveugle](https://www.lapassionduvin.com/...) — blind panel, 2018
+**Rank 11** of 24 (blind) — **15,5/20**.
+
+> "texture très fine, arômes précis, jeune producteur à suivre" — LPV taster, 2024-01
+```
+
+A `producer_fil` sub-section renders the consensus sentiment + vintage track
+record instead of a rank/score; a `best_of_poll` renders the poll standing.
+Inserted after `## Berserkers` (if present), before `## Vinous Reviews`.
+
+### Anti-pattern
+
+Don't hand-edit — regenerated from the thread JSON. Editorial notes about a
+producer's LPV standing go in `## Notes` (free-form). Resolve `raw_name` →
+producer slug by LLM curation, not blind string-match (the "Blachon" name maps
+to two different Saint-Joseph estates — see the Blachon view).
 
 ---
 

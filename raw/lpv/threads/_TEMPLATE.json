@@ -1,0 +1,30 @@
+{
+  "thread": {
+    "slug": "REQUIRED_matches_filename",
+    "title": "",
+    "url": "",
+    "section": "rhone|bordeaux|bourgognebeaujolais|champagne|loire|jura-et-savoie|degustations-eclectiques",
+    "kind": "producer_fil|blind_panel|best_of_poll",
+    "region": "",
+    "appellation": null,
+    "vintage": null,
+    "first_post_date": null,
+    "last_post_date": null,
+    "post_count": null,
+    "panel_size": null,
+    "scraped_at": null,
+    "scrape_method": "template"
+  },
+  "producers": [
+    {
+      "raw_name": "",
+      "slug": null,
+      "cuvee": null,
+      "rank": null,
+      "score_20": null,
+      "sentiment": null,
+      "vintages": null,
+      "notable_quotes": []
+    }
+  ]
+}
