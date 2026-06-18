@@ -9,7 +9,7 @@ generator: scripts/build_views_index.py
 
 Catalog of every keeper-answer page in `wiki/_views/` — the single read surface for saved analyses (gap analysis, drink-window shortlists, cross-retailer comparisons, critic overlays). The main `wiki/index.md` skips this directory, so this is where views are cataloged.
 
-**74 views.**
+**75 views.**
 
 | Page | Question / title | Updated |
 |---|---|---|
@@ -51,6 +51,7 @@ Catalog of every keeper-answer page in `wiki/_views/` — the single read surfac
 | [[kermit_lynch_at_raeders|kermit_lynch_at_raeders]] | Kermit Lynch × Raeder's — Inventory Cross-Check | 2026-05-21 |
 | [[lighter_medium_reds_non_pinot_2026_06|lighter_medium_reds_non_pinot_2026_06]] | I want more lighter-to-medium reds but don't want to be over-exposed to Pinot. What should I collect? |  |
 | [[lowest_alcohol_tuscan_umbrian_veneto_reds_2026_05|lowest_alcohol_tuscan_umbrian_veneto_reds_2026_05]] | Lowest-Alcohol Tuscan / Umbrian / Veneto Reds at Raeders | 2026-05-31 |
+| [[lpv_signal_map_french_regions_2026_06|lpv_signal_map_french_regions_2026_06]] | On La Passion du Vin (LPV), where is the community signal exceptionally strong — across the French regions Evan cares about? | 2026-06-18 |
 | [[maison_pierre_brisset_non_english_sources_2026_06|maison_pierre_brisset_non_english_sources_2026_06]] | What do non-English sources (French + Japanese) say about Maison Pierre Brisset? | 2026-06-11 |
 | [[marsannay|marsannay]] | Marsannay — Northern Côte de Nuits | 2026-05-25 |
 | [[offers_2026-05-25|offers_2026-05-25]] | Weekly Offers Roundup — 2026-05-25 |  |

@@ -569,3 +569,17 @@ Saint-Joseph horizontal (below the LPV reference tier: Guigal Vignes de l'Hospic
 lieu-dit cuvée is not individually reviewed on LPV; the "Domaine Blachon" thread
 also conflates the Mauves Hommage estate with Sébastien's cave. LPV pages 403 the
 fetcher — content reconstructed from search snippets.
+
+## [2026-06-18] view | LPV signal map — Evan's French regions
+Browsed LPV (La Passion du Vin) to locate where forum signal is exceptionally
+strong, mapped to Evan's French regions of interest (N. Rhône, Burgundy, Bordeaux,
+Champagne, Loire, Beaujolais, Jura/Savoie). Five signal types ranked: per-producer
+"fil" megathreads > organized blind horizontals/verticals (/degustations-eclectiques)
+> curated best-of polls > regional circles (cercles régionaux) > annual-event coverage
+(Grands Jours de Bourgogne etc.). Per-region section URLs + strongest anchor threads
+captured (e.g. Rhône "Top 10 domaines les plus lus", Clape/Vincent Paris/Jamet fils;
+Bordeaux millésime horizontals 1986/1989; Champagne "vignerons préférés" poll +
+Lassaigne/Guiborat fils; Beaujolais by-millésime horizontals; Jura Château-Chalon /
+Vin Jaune verticals). Includes a how-to-mine guide and a Berserkers-style ingest
+sketch (blocker: LPV 403s the fetcher — needs a real scraper). Search-surfaced;
+contents not fully fetched. Filed wiki/_views/lpv_signal_map_french_regions_2026_06.md.
