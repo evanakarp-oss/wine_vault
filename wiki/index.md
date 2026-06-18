@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 899
+total_pages: 902
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**899 pages indexed.**
+**902 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -30,7 +30,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Bierzo_Producers|Bierzo Producers]] — **1 producers** tracked.
 - [[Bordeaux_Producers|Bordeaux Producers]] — **25 producers** tracked.
 - [[Burgundy_Producers|Burgundy Producers]] — **86 producers** tracked.
-- [[California_Producers|California Producers]] — **11 producers** tracked.
+- [[California_Producers|California Producers]] — **14 producers** tracked.
 - [[Catalonia_Producers|Catalonia Producers]] — **1 producers** tracked.
 - [[Champagne_Producers|Champagne Producers]] — **16 producers** tracked.
 - [[Colli_Tortonesi_Producers|Colli Tortonesi Producers]] — **1 producers** tracked.
@@ -266,7 +266,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_359 producers across 37 regions._
+_362 producers across 37 regions._
 
 ### Abruzzo
 
@@ -431,14 +431,17 @@ _359 producers across 37 regions._
 - [[bergstrom|Bergstrom]] — California / Willamette Valley (Oregon) · biodynamic · Raeder 11
 - [[bryant_family_vineyard|Bryant Family Vineyard]] — California / Napa Valley (Pritchard Hill) · Raeder 1
 - [[colgin|Colgin]] — California / Napa Valley (Pritchard Hill) · Raeder 2
+- [[detert_family_vineyards|Detert Family Vineyards]] — California / Napa Valley (Oakville — To Kalon)
 - [[di_costanzo|Di Costanzo]] — California / Napa Valley (Coombsville) / Moon Mountain (Sonoma) · organic, sustainable
 - [[futo_estate|Futo Estate]] — California / Napa Valley (Stags Leap District / Oakville) · sustainable · Raeder 1
 - [[hundred_acre|Hundred Acre]] — California / Napa Valley · Raeder 4
+- [[hyde_de_villaine|Hyde de Villaine (HdV)]] — California / Napa Valley (Los Carneros) · sustainable
 - [[kosta_browne|Kosta Browne]] — California / Sonoma Coast · CSW 1 · Raeder 15
 - [[lewis_cellars|Lewis Cellars]] — California / Napa Valley · Raeder 10
 - [[schrader_cellars|Schrader Cellars]] — California / Napa Valley (Beckstoffer To Kalon) · Raeder 12
 - [[screaming_eagle|Screaming Eagle]] — California / Napa Valley (Oakville) · CSW 1 · Raeder 1
 - [[sine_qua_non|Sine Qua Non]] — California / Ventura / Central Coast · organic · Raeder 7
+- [[vine_hill_ranch|VHR, Vine Hill Ranch]] — California / Napa Valley (Oakville) · sustainable
 
 ### Catalonia
 

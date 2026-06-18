@@ -196,8 +196,8 @@ so it can't get lost again, and triaged here against the post-2026-05-29 filter
 list twice (main + "Di Co") and now has a page → [[di_costanzo|Di Costanzo]] ✅.**
 
 _✅ New verified fits (not yet on this canon) — promote / page candidates:_
-- [ ] **Hyde de Villaine (HdV)** *(Carneros — Hyde family × Aubert de Villaine of DRC; Burgundian restraint, balance-first "Belle Cousine" Cab/Merlot + Chard/Syrah. Strongest new fit — **page candidate**.)*
-- [ ] **Detert Family Vineyards** *(a tiny family parcel inside To Kalon — understated, old-school Cabernet Franc & Cab; the antithesis of its blue-chip neighbors.)*
+- [x] [[hyde_de_villaine|Hyde de Villaine (HdV)]] ✅ *(Carneros — Hyde family × Aubert de Villaine of DRC; Burgundian restraint, balance-first "Belle Cousine" Cab/Merlot + Chard/Syrah. **→ now a vault page, 2026-06-18.**)*
+- [x] [[detert_family_vineyards|Detert Family Vineyards]] ✅ *(a tiny family parcel inside To Kalon — understated, old-school Cabernet Franc & Cab; the antithesis of its blue-chip neighbors. **→ now a vault page, 2026-06-18.**)*
 
 _◐ Worth a look (mountain / cool-site / classic — taste before buying):_
 - [ ] Keenan *(Spring Mountain — classic, structured, value)*
@@ -216,7 +216,7 @@ _◐ Worth a look (mountain / cool-site / classic — taste before buying):_
 - [ ] Haynes Vineyard · Bella Oaks *(historic vineyards, restrained relaunches)*
 - [ ] Arietta *(Kongsgaard-rooted Bordeaux blend — structured; verify current style)*
 - [ ] Massican *(Dan Petroski — fresh Italianate **whites**, balance-movement; not Cab but on-ethos)*
-- [ ] VHR / Vine Hill Ranch *(top Oakville hillside vineyard — still to confirm style)*
+- [x] [[vine_hill_ranch|VHR / Vine Hill Ranch]] ✅ *(historic southern-Oakville bench grower between Harlan & Dominus; estate Cab since 2008 made by Françoise Peschon, ex-Araujo. **→ now a vault page, 2026-06-18.**)*
 
 _Heritage old-vine (different category — Zin/Petite Sirah — but aligned in spirit):_
 Turley, Robert Biale, Peter Franus *(old-vine, farming-driven; not the Cab axis)*.
@@ -237,15 +237,56 @@ by Sinegal), St. Helena Winery, Buoncristiani, Aubert, Kongsgaard, Capiaux, Nick
 Rivers-Marie *(Cab side cult-adjacent; Pinots are the restrained part)*, Antinori Napa (Antica),
 Keever, Keplinger, Gamble, Oakville Ranch, Behrens Family, Seven Stones.
 
-_❓ No signal — likely modern micro-debuts / garagiste (skip unless you know one; tell me any to research):_
-001 Vintners, A.Aitch, Ad Vivum, Aerika Prologue, ALH, Almacerro, Ampleur, Amuse Bouche, Annulus,
-Arrow & Branch, atLarge, Baker Canyon, Baker & Hamilton, Bergman, Brion, Coronet, Correlation,
-Covalence, Covert Estate, Crosby Roamann, Edge Wines, Ellman, Emerson Brown, Fe, Heimark,
-Impensata, J.H. Wheeler, Kerr Cellars, Kizor, Knighton, Kohue, Laz, Le Pich, Mabon, Matt Parish,
-Mending Wall, Mon Trajet, NEOTEMPO, Nid Tissé, Patel, Perliss, PharaohMoans, Purlieu, Remedium,
-Retro Cellars, Richard G. Peterson, Rossi Wallace, Rougiste, Sylvan Lake, T. Berkley, Taplin,
-The Grade, The Vineyardist, Tobias, To Kalon Vineyard Company, Unity, Westborn, William & Mary,
-Zakin, Zeitgeist.
+### The "no signal" 60 — researched off-vault (2026-06-18)
+
+All ~60 unknowns from the first pass were looked up on the web (5 parallel research
+agents). Re-bucketed by Evan's filter. **Six genuine new fits surfaced — three of
+them lineage gold (Randy Dunn's son, Ric Forman's son, La Jota's old ground).**
+
+_✅✅ Strong NEW fits — page candidates:_
+- [ ] **Retro Cellars** *(Howell Mountain — **Mike Dunn, son of Randy Dunn**, made at Dunn; head-pruned, "harvest favoring restraint," historic Park-Muscatine Petite Sirah. Direct Dunn lineage — the purest fit on the whole list.)*
+- [ ] **Tobias Vineyards** *(Howell Mountain — **Toby Forman, son of Ric Forman**; volcanic estate, elegant/muscular old-school Forman house style.)*
+- [ ] **Almacerro** *(Howell Mountain — 1,780', 25-yr vines on historic **La Jota** ground; **Françoise Peschon** consulting (ex-Araujo); stated goal "balanced, evocative of the wild place.")*
+- [ ] **Fe Wines** *(Spring Mountain — **CCOF-certified organic** volcanic ("Fe" = iron) estate, <600 cases, terroir-driven Bordeaux blends.)*
+- [ ] **T. Berkley** *(Calistoga — Taylor Berkley Boydstun, ex-Littorai/Felton Road; sustainably-farmed old-vine **Cabernet Franc & Chenin**, Loire-inspired, "clean, sleek.")*
+- [ ] **Kizor Family Cellars** *(off-Napa-Cab, but on-ethos — **Ted Kizor is the current Dunn winemaker**; cool-climate Syrah + old-vine Riesling, low-intervention. A non-Cab curiosity worth knowing.)*
+
+_◐ Worth a look (cool-site / mountain / low-intervention — taste before buying):_
+- [ ] **The Vineyardist** *(Diamond Mountain — genuine **biodynamic** mountain estate; but markets as "First Growth Napa," cult-priced — confirm restraint)*
+- [ ] **Covalence** *(Stags Leap District — ~2 ac hillside Cab off Carl Doumani's land, Aaron Pott, "supremely elegant," ~205 cases)*
+- [ ] **Crosby Roamann** *(small organic/biodynamic sourcing, native-yeast, often unfined/unfiltered — strong low-intervention signals; négoce-style multi-vineyard)*
+- [ ] **Remedium** *(Howell Mountain — Garcia-family vineyard Aaron Pott farms; mountain site, VCC-clone Cab Franc; feeds Pott's premium program)*
+- [ ] **Bergman** *(Spring Mountain — certified-organic, Abreu-farmed, Nigel Kinsman; allocation-cult packaging is the caution)*
+- [ ] **Covert Estate** *(Coombsville — cooler site, Fayard-made, "freshness/finesse/graphite")*
+- [ ] **Heimark** *(Dutch Henry Canyon — single-site volcanic Cab, ~250–500 cs; Melka-associated, ~$150)*
+- [ ] **Knighton Family** *(Mt. St. Helena, 1,000–1,500' — genuine high-elevation mountain Cab; made off-site by the Vineyard 29 team)*
+- [ ] **001 Vintners** *(Ecotone Vineyard old vines, made by **Graeme MacDonald**; reads "powerful/brooding" — taste)*
+- [ ] **A.Aitch** *(Rutherford bench, "refined/elegant," brand-new, thin data)*
+- [ ] **Ad Vivum** *(Sleeping Lady/Yountville — **Chris Phelps**, "Old-World sensibility"; ~$200 richness flag)*
+- [ ] **Aerika "Prologue"** *(Mt. Veeder 1,600–2,000' — native ferments, no fining/filtration, declassifies if tannins don't resolve; Harlan/SE résumé + price flag)*
+- [ ] **Ampleur** *(historic **Hayne Vineyard** old vines, St. Helena; opulence/oak risk)*
+- [ ] **Arrow & Branch** *(Coombsville — Cab Franc/Right-Bank focus, "power without overripe")*
+- [ ] **atLarge** *(Lake County high-elevation volcanic, sane ~$85; not Napa AVA — confirm oak)*
+- [ ] **Baker Canyon** *(Mt. Veeder "rugged" identity — but Andy Erickson, built for big scores)*
+- [ ] **Baker & Hamilton** *(VHR's négociant second label — Peschon hand, polished Oakville)*
+- [ ] **Correlation** *(Spring Mountain — Steffens/Vineyard 7&8 + Martha McClellan; leans richer)*
+- [ ] _Non-Cab / off-category but on-ethos:_ **Mabon** (Hourglass Rhône side, cool Carneros Syrah/GSM); **Nid Tissé** (Marie-Laure Ammons low-intervention Chard/Pinot); **Richard G. Peterson** (industry legend; Pinot/sparkling); **Rossi Wallace** (Ric Forman's Burgundian Pinot/Chard); **NEOTEMPO** (organic, cool S-Napa, tiny — eco-luxury marketing flag).
+
+_⛔ Skip — cult / consultant / score-chaser tier:_ ALH (Paul Hobbs), Amuse Bouche
+(Heidi Barrett), Annulus, Brion, Coronet, Ellman (Erickson), Impensata, J.H. Wheeler
+(Araujo redux), Kerr Cellars (celebrity), Laz (Celia Welch), Le Pich (Fayard),
+Mending Wall (T.R. Brown), Mon Trajet · PharaohMoans · Rougiste (all John Schwartz /
+Grands Joueurs stable), Patel (100% new oak, Fayard), Perliss (Pott, $275), Purlieu
+(Fayard), Sylvan Lake (Welch, 15.3%), Taplin (Fayard), The Grade (T.R. Brown),
+William & Mary (T.R. Brown), Zakin (Melka), Emerson Brown (Vineyard 29 insiders, polished).
+
+_⛔ Skip — commercial / négoce / out-of-category:_ Edge Wines (Signorello sub-$20 value),
+Matt Parish (Naked Wines DTC), To Kalon Vineyard Company (Constellation), Westborn
+(sparkling négoce), Zeitgeist (blended négoce Cab).
+
+_❓ Still unknown (too new / no reliable data):_ **Kohue** (TM 2024, in Vinous coverage,
+site blocked); **Unity** (no standalone producer found — maps to a Fisher cuvée or the
+JCB/Boisset négoce bottling).
 
 _Already on this canon (the Vinous list confirms them):_ Corison, Dunn, Mayacamas, Spottswoode,
 Philip Togni, Chappellet, Diamond Creek, Dyer, Robert Craig, La Jota, Dalla Valle, Dominus,

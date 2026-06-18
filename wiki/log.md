@@ -511,3 +511,22 @@ Arietta, Massican, VHR); cult/opulent and commercial/modern tiers skip-listed; t
 genuine unknowns bucketed as "no signal — modern micro/garagiste, skip unless known."
 Confirmed Di Costanzo appears twice on the list and already has a page (created earlier
 today). Rebuilt wiki/index.md + views index; lint 0.
+
+## [2026-06-18] ingest | HdV, Detert, VHR pages + "no signal" 60 researched off-vault
+
+At Evan's direction ("HDV and detert u can / VHR great"), promoted three leads from
+the Vinous Napa triage to full producer pages: `wiki/producers/hyde_de_villaine.md`
+(Carneros; Larry Hyde × Aubert de Villaine of DRC; Burgundian restraint), 
+`wiki/producers/detert_family_vineyards.md` (old-vine Cabernet Franc inside To Kalon,
+Oakville; family since 1954), and `wiki/producers/vine_hill_ranch.md` (VHR — historic
+southern-Oakville bench grower between Harlan & Dominus; estate Cab since 2008 by
+Françoise Peschon). Marked all three ✅ in the canon view.
+
+Separately, researched all ~60 "no signal" names from the Vinous list off-vault (5
+parallel web-research agents) and re-bucketed them in the canon view's Vinous-triage
+section. Six new fits surfaced — Retro Cellars (Mike Dunn, son of Randy Dunn, made at
+Dunn), Tobias (Toby Forman, son of Ric Forman), Almacerro (La Jota ground, Peschon),
+Fe Wines (CCOF-organic Spring Mtn), T. Berkley (old-vine Cab Franc/Chenin), Kizor
+(Dunn's winemaker; off-Cab) — plus a worth-a-look tier and confirmed cult/négoce skips.
+Two remain unknown (Kohue, Unity). Rebuilt California rollup, wiki/index.md, views
+index; lint 0.
