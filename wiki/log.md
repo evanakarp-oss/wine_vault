@@ -558,3 +558,14 @@ violette/litchi/eucalyptus, bouche suave. Flagged the name collision: **Cave
 Sébastien Blachon** (Margiriat, St-Jean-de-Muzols) ≠ **Domaine Blachon** (Hommage
 Roger, Mauves, Guide Hachette 1★). Blachon remains a Tier 1 onboard candidate (no
 producer page / cellar bottle yet). Filed `wiki/_views/blachon_margiriat_fass_french_2026_06.md`.
+
+## [2026-06-18] view | Blachon Margiriat — added LPV Rhône forum read
+Follow-up to the Blachon Margiriat view: added a La Passion du Vin (LPV) section.
+LPV covers Sébastien Blachon but more soberly than Fass — 2018 flagged as a
+"découverte / jeune producteur à suivre" (texture fine, nez violette), Alban 2020
+positively noted, and his 2018 scored ~15,5/20 mid-pack in a blind 24-bottle
+Saint-Joseph horizontal (below the LPV reference tier: Guigal Vignes de l'Hospice
+~16,2, Coursodon La Sensonne ~16,08, Delas Sainte-Épine ~16,07). The Margiriat
+lieu-dit cuvée is not individually reviewed on LPV; the "Domaine Blachon" thread
+also conflates the Mauves Hommage estate with Sébastien's cave. LPV pages 403 the
+fetcher — content reconstructed from search snippets.

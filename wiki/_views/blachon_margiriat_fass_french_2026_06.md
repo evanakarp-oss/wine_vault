@@ -93,6 +93,35 @@ Hachette score by mistake.**
   (Mauves), **pas** la cuvée Margiriat de Sébastien Blachon.
 - **RVF** — aucune note spécifique trouvée pour le Margiriat.
 
+### LPV (La Passion du Vin) Rhône forum — the community read
+
+LPV is the relevant French-amateur benchmark (the elite-amateur Rhône forum). It
+**does** cover Sébastien Blachon, but the verdict is **measured, not the superlative
+Fass gives** — and **no LPV post names the "Margiriat" cuvée specifically** in what's
+surfaceable; the discussion is of his Saint-Joseph generally.
+
+- **Dedicated thread "Domaine Blachon"** (`rhone/45638`). ⚠️ This thread **mixes both
+  estates** — the Mauves *Hommage* (Roger) and Sébastien's cuvées (*Alban*, the 2018) —
+  so read it with the two-Blachon distinction in mind.
+- **Sébastien Blachon Saint-Joseph 2018** — flagged as a *découverte*: *« texture très
+  fine, arômes précis… jeune producteur à suivre »*, nez typé violette. Positive but
+  "one to watch," not a benchmark.
+- **Saint-Joseph "Alban" 2020** — *« robe très sombre, bouche complexe, tanins fins,
+  fruits noirs et poivre, belle acidité salivante. »* (Alban is a Sébastien cuvée.)
+- **Blind horizontal — "Horizontale 24 Saint-Joseph rouges 2018 à l'aveugle"**
+  (`degustations-eclectiques/52174`, org. Gérard Esposito): Blachon 2018 scored
+  **~15,5/20** — solid but **mid-pack**, well under the LPV community's St-Joseph
+  reference tier (Guigal Vignes de l'Hospice ~16,2 · Coursodon La Sensonne ~16,08 ·
+  Delas Sainte-Épine ~16,07 · Villard Reflets ~15,9).
+- **Hommage 2009** (the *Mauves* Domaine Blachon, not Sébastien) — *« robe grenat
+  profond, cassis/myrtille, tanins présents mais vin délicat porté par l'acidité. »*
+
+**Net of LPV:** the French forum likes Sébastien Blachon as a promising young grower
+(~15,5/20, "à suivre"), but does **not** put him in the top St-Joseph tier the way Fass
+does — and the Margiriat lieu-dit cuvée itself isn't individually reviewed there. (LPV
+threads 403 the fetcher; the above is reconstructed from search snippets — verify
+in-browser before quoting as gospel.)
+
 ## Bottom line for Evan
 
 Fass loves it and it slots cleanly into your Saint-Joseph / granite-Syrah lane, but the
@@ -108,5 +137,6 @@ Guide Hachette — not the same wine. Good candidate to finally turn into a prod
 - [Vivino FR — Sébastien Blachon Margiriat Saint-Joseph](https://www.vivino.com/FR/fr/sebastien-blachon-margiriat-saint-joseph/w/9003366)
 - [viniou.fr — Sébastien Blachon Saint-Joseph](https://www.viniou.fr/vins/pays/france/104_vallee-du-rhone/267_saint-joseph/147122_sebastien-blachon-2018)
 - [Guide Hachette — Domaine Blachon "Hommage Roger" (the *other* Blachon)](https://www.hachette-vins.com/guide-vins/les-vins/domaine-blachon-hommage-roger-2012-2015/20156900/) · [EARL Domaine Blachon](https://www.hachette-vins.com/guide-vins/producteurs/84465/earl-domaine-blachon/)
+- [LPV — Domaine Blachon thread](https://www.lapassionduvin.com/rhone/45638-domaine-blachon) · [Horizontale 24 Saint-Joseph rouges 2018 à l'aveugle](https://www.lapassionduvin.com/degustations-eclectiques/52174-cr-horizontale-24-saint-joseph-rouges-2018-a-l-aveugle-partie-1-2) · [SAINT-JOSEPH: les "meilleures" cuvées?](https://www.lapassionduvin.com/rhone/14503-saint-joseph-les-meilleures-cuvees)
 - [CellarTracker — 2020 Cave Sébastien Blachon St. Joseph Margiriat](https://www.cellartracker.com/wine.asp?iWine=4708427)
 - Vault: `raw/fass/markdown/an-old-school-fass-selections-producer-with-revirand-top-10-in-st-joseph-96-points-2019-the-elegant-st-epine-style.md`, `raw/fass/markdown/the-birth-of-athena-2-northern-rhone-super-cuvees-i-gave-the-red-a-9-8-one-of-the-best-wines-i-drank-last-year.md`
