@@ -544,3 +544,17 @@ Flagship allocation Cabs (VHR $325–345, Fe ~$339, NEOTEMPO ~$250, 001 ~$225+,
 Bergman ~$295, Almacerro ~$225) run high. Two corrections logged: Retro Cellars makes
 **no varietal Cabernet** (Petite Sirah + one Cab-blend), and "Remedium" is a vineyard
 bottled by **Pott Wine as 'Stacked'." Prices indicative (many sources 403); lint 0.
+
+## [2026-06-18] view | Blachon Margiriat — Fass verdict + French sources
+`/ask-cellar`: does Fass like the Sébastien Blachon Saint-Joseph "Margiriat",
+and what do French-language sources say? Fass (Lyle Fass) calls "Blachon Margariat"
+one of his **top two Saint-Josephs of the vintage** (alongside Pierres Sèches
+Revirand) and lists the white "Islaline" among his elite St-Jo blancs — strong
+endorsement. French press is thin on *scores*: no Guide Hachette / RVF rating for
+the Sébastien Blachon Margiriat itself; substantive French material is the
+producer's own dégustation note (caveblachon.fr) — 100% Syrah, granite coteaux of
+Saint-Jean-de-Muzols, vines 15–90 yrs, 100% grappe entière, 12 mo barrel; nose of
+violette/litchi/eucalyptus, bouche suave. Flagged the name collision: **Cave
+Sébastien Blachon** (Margiriat, St-Jean-de-Muzols) ≠ **Domaine Blachon** (Hommage
+Roger, Mauves, Guide Hachette 1★). Blachon remains a Tier 1 onboard candidate (no
+producer page / cellar bottle yet). Filed `wiki/_views/blachon_margiriat_fass_french_2026_06.md`.
