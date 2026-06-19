@@ -156,6 +156,8 @@ an update — verify any specific winery/tasting-room detail before relying on i
 restrained-Sonoma producers in [[restrained_napa_sonoma_cab_canon_2026_06|the restrained Napa/Sonoma cab canon]]
 to build a tasting itinerary that matches the "sense of place + tension" axis.
 
+> **Deep dive →** [[wb_sonoma_visit_2026_06|Planning a Sonoma visit — the trip-planning framework + 10 takeaways]] (lodging logic by AVA, drive-time realities, itinerary skeleton).
+
 ## 8. The 16-bottle Chardonnay Blowout Challenge! — *aging experiment / humor* {#chardonnay-blowout}
 [thread →](https://www.wineberserkers.com/t/the-16-bottle-chardonnay-blowout-challenge/101084)
 

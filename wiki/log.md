@@ -717,3 +717,18 @@ the false-positive rather than invite a futile re-run. NB: the global ingest run
 ~197 other producer pages (vault-wide CSW drift since the last run) — deliberately NOT
 committed here; that belongs in its own reviewed sweep. Regenerated wiki index; lint 0, all
 --check gates green.
+
+## [2026-06-19] query | Sonoma visit deep dive (Berserkers #91711) — trip-planning framework
+Deep read of the HoF travel thread #91711 (the long-running "Planning your visit to Sonoma
+County" hub). New keeper view `wiki/_views/wb_sonoma_visit_2026_06.md`. Since the thread is
+~10+ yrs old and flagged (Jan 2024) for updates, the view centers the EVERGREEN framework over
+the stale venue list: 10 takeaways (Sonoma is a county not a town; base by AVA cluster;
+Healdsburg = the Dry Creek/RRV/Alexander hub; drive-time realities — Sonoma↔Healdsburg 1hr+ on
+2-lane roads, the "Girl & the Fig then 1pm RRV Pinot needs a helicopter" quip; cap at 1–2 AVAs/
+day; split-stay vs central-base; appointment-only reality; west-county orbit; dining as a
+planning input; treat the thread as a template), a "where to base yourself" lodging-logic table,
+an AVA character cheat-sheet, dining/lodging anchors (Catelli's, Girl & the Fig, Flambeaux,
+Lynmar Bliss House — flagged verify-before-booking), and a cellar take mapping it to Evan's
+restrained-California targets (Bedrock Montecillo/Moon Mtn, the old-vine Zin atlas, Arnot-Roberts
+RRV/Sonoma Coast) with an itinerary skeleton. Linked from HoF catalogue §7 + registry (#3 →
+snippet⁺). Search-snippet sourced (WB 403s the fetcher). Views index 78 → 79, lint 0, gates green.
