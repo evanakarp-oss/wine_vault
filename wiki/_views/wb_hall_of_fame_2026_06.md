@@ -89,6 +89,8 @@ Clape, Jamet, Allemand, Gonon all have deep dedicated *fils* on LPV too — i.e.
 **double community consensus**. Treat Gonon (St-Joseph) and Clape/Allemand (Cornas)
 as priority targets; cross-ref any of these already in the vault.
 
+> **Deep dive →** [[wb_northern_rhone_tour_2026_06|Northern Rhône Tour — 10 takeaways + per-producer insights]] (incl. the CA-vs-Rhône blind ranking).
+
 ## 4. Consolidated off-the-beaten-path Burgundy TNs — *value / discovery* {#offbeat-burgundy}
 [thread →](https://www.wineberserkers.com/t/consolidated-off-the-beaten-path-burgundy-tns/112867)
 

@@ -19,13 +19,16 @@ All currently `snippet` fidelity — see `README.md` for the access constraint.
 | 2 | shitty_07_oregon_pinot | Another Shitty '07 Oregon Pinot Noir | 45228¹ | https://www.wineberserkers.com/forum/viewtopic.php?t=45228 | vintage-rehab | snippet |
 | 3 | sonoma_county_visit | Planning your visit to Sonoma "County"? This might help. | 91711 | https://www.wineberserkers.com/t/planning-your-visit-to-sonoma-county-this-might-help/91711 | travel | snippet |
 | 4 | trad_modern_barolo | Traditional vs. Modern Barolo / Barbaresco | 99925 | https://www.wineberserkers.com/t/traditional-vs-modern-barolo-barbaresco/99925 | style-map | snippet |
-| 5 | northern_rhone_tour | Northern Rhone Tour: Clusel-Roch, Jamet, Perret, Gonon, Sorrel, Cave de Tain, Clape, Allemand | 120248 | https://www.wineberserkers.com/t/northern-rhone-tour-clusel-roch-jamet-perret-gonon-sorrel-cave-de-tain-clape-allemand/120248 | producer-tour | snippet |
+| 5 | northern_rhone_tour | Northern Rhone Tour: Clusel-Roch, Jamet, Perret, Gonon, Sorrel, Cave de Tain, Clape, Allemand | 120248 | https://www.wineberserkers.com/t/northern-rhone-tour-clusel-roch-jamet-perret-gonon-sorrel-cave-de-tain-clape-allemand/120248 | producer-tour | snippet⁺ |
 | 6 | premier_cru_complaint | Premier Cru Master Complaint Thread (MERGED) | 56697 | https://www.wineberserkers.com/t/premier-cru-master-complaint-thread-merged/56697 | cautionary / fraud | snippet |
 | 7 | trad_modern_bordeaux | Traditional vs. Modern Bordeaux? | 85688 | https://www.wineberserkers.com/t/traditional-vs-modern-bordeaux/85688 | style-map | snippet |
 | 8 | offbeat_burgundy_tns | Consolidated off-the-beaten-path Burgundy TNs | 112867 | https://www.wineberserkers.com/t/consolidated-off-the-beaten-path-burgundy-tns/112867 | value / discovery | snippet |
 | 9 | old_vine_zin_vineyards | California's great old vine Zinfandel vineyards | 18190¹ | https://www.wineberserkers.com/forum/viewtopic.php?t=18190 | vineyard-atlas | snippet |
 | 10 | buying_consuming_burgundy | Thoughts on Buying and Consuming BURGUNDY | 146528 | https://www.wineberserkers.com/t/thoughts-on-buying-and-consuming-burgundy/146528 | strategy | snippet |
 | 11 | subterranean_cellar | Building a subterranean wine cellar/root cellar | 170960 | https://www.wineberserkers.com/t/building-a-subterranean-wine-cellar-root-cellar/170960 | cellar-build | snippet |
+
+⁺ #5 has a dedicated deep-dive view: `wiki/_views/wb_northern_rhone_tour_2026_06.md`
+(10 takeaways + per-producer insights + the CA-vs-Rhône blind ranking from sequel #132977).
 
 ¹ Legacy vBulletin thread id (`viewtopic.php?t=…`). These predate the Discourse
 migration; the new `/t/<slug>/<id>` permalink redirects from the old URL but the

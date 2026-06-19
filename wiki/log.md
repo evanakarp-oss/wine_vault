@@ -673,3 +673,18 @@ content is search-snippet sourced (titles/URLs/IDs + consensus producer lists ar
 real; post-level detail summarized) — all 11 marked `fidelity: snippet`, upgrade path
 documented. N. Rhône names cross-confirmed against the LPV signal map (double
 consensus). Views index regenerated (76 → 77), lint 0, all --check gates green.
+
+## [2026-06-19] query | Northern Rhône Tour deep dive (Berserkers #120248) — 10 takeaways + producer insights
+Deep read of HoF thread #120248 (the Clusel-Roch→Allemand N. Rhône cellar tour) and its
+CA-vs-Rhône blind sequel #132977. New keeper view `wiki/_views/wb_northern_rhone_tour_2026_06.md`:
+trip framing (Paul Gordon/Halcón + John Livingston-Learmonth, ~100 wines/day x4, day-5 CA pour),
+10 key takeaways (whole-cluster house style, no new oak, multi-parcel blending, artisan vs.
+Guigal/Chapoutier hillside-engineering tension, hand-ploughing, Cornas as emotional core,
+Gonon = St-Joseph benchmark, serious co-op Cave de Tain, CA register-overlap not mimicry,
+appellation drink-now vs. cellar logic), per-producer insights for all 8 visited domaines
+(farming/winemaking + cuvées + vault status), and the full 16-wine blind ranking table (Wind
+Gap + Halcón over Jamet/Gonon; young Clape closed at 11th). Linked from HoF catalogue §3 +
+registry (#5 marked snippet⁺). Onboarding priorities flagged: Jamet + Auguste Clape (no vault
+page), then André Perret + Cave de Tain. Search-snippet sourced (WB 403s the fetcher), cross-
+checked vs. merchant/importer profiles; per CLAUDE.md the user declined the Ojai blog source.
+Views index 77 → 78, lint 0, all --check gates green.
