@@ -81,12 +81,12 @@ cuvée — **~200 cases of Les Grandes Places**; La Viallière is the other flag
 Massale-selection mindset (old-vine Serine clones). Reference for *delicate, perfumed* Côte-Rôtie
 rather than power. Blind sequel: 2012 Viallière placed 10th of 16 (showing young/closed).
 
-### Jamet — Côte-Rôtie
+### Jamet — Côte-Rôtie *(in vault: [[../producers/jamet|Jamet]])*
 The thread's archetypal classicist. **~8.5 ha across ~25 parcels in up to 17 lieux-dits**,
 majority on the schist of the **Côte Brune** (fractured, well-drained), ~25% Côte Blonde.
 **Whole-cluster**, resisted the destemming trend his whole career; complexity comes from the
 **interplay of many parcels**, not single-parcel isolation. The 2012 Côte-Rôtie ranked **3rd**
-in the blind — the top-finishing French wine. *(No vault page yet — onboarding candidate.)*
+in the blind — the top-finishing French wine.
 
 ### André Perret — Condrieu & St-Joseph
 The trip's Condrieu (Viognier) reference, also a serious St-Joseph producer (**Les Grisières**
@@ -112,14 +112,13 @@ appellation volume** (incl. ~25% of Hermitage). Invested in **new facilities in 
 multiply parcel selections**. The trip's argument that a serious co-op deserves a seat at the
 table. *(No vault page yet.)*
 
-### Auguste Clape — Cornas
+### Auguste Clape — Cornas *(in vault: [[../producers/auguste_clape|Auguste Clape]])*
 The Cornas standard-bearer. **No destemming (100% whole cluster), native-yeast ferment in
 concrete, no temperature control, ~22 months in old foudres/demi-muids, no new oak (new casks
 broken in at Domaine Ott, Bandol), unfined/unfiltered.** The flagship **blends all the
 terroirs** (La Côte, Reynard…); **"Renaissance"** is the younger-vine cuvée. The 2013 Cornas
 placed **11th** blind and "was guessed incorrectly by most of the group" — a reminder that the
-greatest traditional Cornas can show closed/idiosyncratic young. *(No vault page yet —
-high-priority onboarding candidate.)*
+greatest traditional Cornas can show closed/idiosyncratic young.
 
 ### Thierry Allemand — Cornas *(in vault: [[../producers/allemand|Thierry Allemand]])*
 The trip's most vivid character study. Arrived in Cornas **as a teenager with no wine
@@ -162,9 +161,9 @@ the **register overlap** — cool-climate CA Syrah and N. Rhône are now genuine
 - **Double community consensus.** Every classic on this trip (Jamet, Gonon, Clape, Allemand,
   Sorrel, Clusel-Roch) also carries a deep dedicated *fil* on LPV — see
   [[lpv_signal_map_french_regions_2026_06|the LPV signal map]]. Berserkers + LPV agreement = high conviction.
-- **Onboarding priorities (no vault page yet):** **Jamet** and **Auguste Clape** first
-  (reference Côte-Rôtie + Cornas), then **André Perret** (Condrieu/St-Joseph) and a note on
-  **Cave de Tain** as a value benchmark.
+- **Onboarding status:** **Jamet** and **Auguste Clape** now have vault pages
+  ([[../producers/jamet|Jamet]], [[../producers/auguste_clape|Auguste Clape]]); still
+  uncreated: **André Perret** (Condrieu/St-Joseph) and **Cave de Tain** (value benchmark).
 - **Value-greatness picks that fit Evan's taste:** **Gonon St-Joseph** and **Allemand Cornas**
   (both already in-vault) are the trip's clearest "tension + sense of place" buys; Clape
   "Renaissance" is the younger-vine entry to the appellation.

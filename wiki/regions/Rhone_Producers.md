@@ -2,12 +2,12 @@
 type: region_index
 region: "Rhône"
 updated: 2026-06-19
-producer_count: 33
+producer_count: 35
 ---
 
 # Rhône — Producer Index
 
-**33 producers** tracked.
+**35 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -34,6 +34,7 @@ producer_count: 33
 | [[vincent_paris|Vincent Paris]] | France | '' | 2 | 1 | — | 1 | — |
 | [[clos_du_mont_olivet|Clos du Mont Olivet]] | France | '' | 1 | 1 | — | — | — |
 | [[jasmin|Jasmin]] | France | — | 1 | 1 | — | — | — |
+| [[auguste_clape|Auguste Clape]] | France | Cornas | — | — | — | — | — |
 | [[billon|Billon]] | France | '' | — | 4 | — | — | — |
 | [[clos_saouma|Clos Saouma]] | France | — | — | 1 | — | — | — |
 | [[clusel_roch|Clusel Roch]] | France | '' | — | 3 | 1 | — | — |
@@ -41,6 +42,7 @@ producer_count: 33
 | [[domaine_gallety|Domaine Gallety]] | France | Côtes du Vivarais | — | — | — | — | — |
 | [[eric_et_joel_durand|Eric et Joel Durand]] | France | — | — | 1 | — | — | — |
 | [[georges_vernay|Georges Vernay]] | France | — | — | 1 | 1 | — | — |
+| [[jamet|Jamet]] | France | Côte-Rôtie | — | — | — | — | — |
 | [[jean_royer|Jean Royer]] | France | — | — | 1 | — | — | — |
 | [[marc_sorrel|Marc Sorrel]] | France | '' | — | 15 | — | — | — |
 | [[pierre_benetiere|Pierre Benetiere]] | France | — | — | 5 | — | — | — |

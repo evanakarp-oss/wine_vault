@@ -688,3 +688,18 @@ registry (#5 marked snippet⁺). Onboarding priorities flagged: Jamet + Auguste 
 page), then André Perret + Cave de Tain. Search-snippet sourced (WB 403s the fetcher), cross-
 checked vs. merchant/importer profiles; per CLAUDE.md the user declined the Ojai blog source.
 Views index 77 → 78, lint 0, all --check gates green.
+
+## [2026-06-19] ingest | Create Jamet + Auguste Clape producer pages (N. Rhône tour onboarding)
+Closed the two highest-priority onboarding gaps from the Northern Rhône Tour deep dive:
+created `wiki/producers/jamet.md` (Côte-Rôtie reference — ~8.5 ha / ~25 parcels / 17
+lieux-dits, Côte Brune-dominant, whole-cluster, multi-parcel assemblage; Kermit Lynch) and
+`wiki/producers/auguste_clape.md` (Cornas standard-bearer — no destemming, native yeast in
+concrete, old foudres/demi-muids, no new oak / casks broken-in at Domaine Ott, terroir blend
++ younger-vine "Renaissance"; Kermit Lynch). Conservative stubs: retailer counts left at zero
+for ingest_csw.py to backfill, farming left empty (neither certified) with practices in
+`## Notes`; deep-dive knowledge (incl. the CA-vs-Rhône blind placements: Jamet 3rd, Clape 11th)
+filed as free-form Notes per schema. Both cross-link to Allemand + the tour view; the deep-dive
+view + registry updated to reflect them in-vault (remaining gaps: André Perret, Cave de Tain).
+Regenerated rollups (Rhône region + Kermit Lynch importer: 13 → 15) and wiki index; reverted
+incidental key-reorder churn on 11 unrelated rollup pages. Search-snippet sourced (WB 403s the
+fetcher), cross-checked vs. importer/merchant profiles. Lint 0, all --check gates green.

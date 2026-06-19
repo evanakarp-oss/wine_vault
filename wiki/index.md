@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 904
+total_pages: 906
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**904 pages indexed.**
+**906 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -49,7 +49,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Piedmont_Producers|Piedmont Producers]] — **20 producers** tracked.
 - [[Provence_Producers|Provence Producers]] — **3 producers** tracked.
 - [[Rheinhessen_Producers|Rheinhessen Producers]] — **1 producers** tracked.
-- [[Rhone_Producers|Rhone Producers]] — **33 producers** tracked.
+- [[Rhone_Producers|Rhone Producers]] — **35 producers** tracked.
 - [[Salta_Producers|Salta Producers]] — **5 producers** tracked.
 - [[San_Juan_Producers|San Juan Producers]] — **1 producers** tracked.
 - [[Savoie_Producers|Savoie Producers]] — **1 producers** tracked.
@@ -267,7 +267,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_363 producers across 37 regions._
+_365 producers across 37 regions._
 
 ### Abruzzo
 
@@ -665,6 +665,7 @@ _363 producers across 37 regions._
 ### Rhône
 
 - [[allemand|Allemand]] — Rhône / Cornas · natural · CSW ★1/9
+- [[auguste_clape|Auguste Clape]] — Rhône / Cornas
 - [[billon|Billon]] — Rhône · DTE 4
 - [[chapelle_st_theodoric|Chapelle St. Theodoric]] — Rhône / Châteauneuf-du-Pape · organic · CSW ★2/2
 - [[clos_du_joncuas|Clos du Joncuas]] — Rhône / Gigondas · biodynamic · CSW ★4/10
@@ -691,6 +692,7 @@ _363 producers across 37 regions._
 - [[ferme_saint-martin|Ferme Saint-Martin]] — Rhône / Beaumes-de-Venise / Ventoux · natural · CSW ★3/4
 - [[franck_balthazar|Franck Balthazar]] — Rhône / Cornas · natural · CSW ★2/5
 - [[georges_vernay|Georges Vernay]] — Rhône · DTE 1 · Raeder 1
+- [[jamet|Jamet]] — Rhône / Côte-Rôtie
 - [[jasmin|Jasmin]] — Rhône · CSW 1 · DTE 1
 - [[jean_royer|Jean Royer]] — Rhône · DTE 1
 - [[langlore|L'Anglore]] — Rhône / Tavel / Lirac · natural · CSW 6
