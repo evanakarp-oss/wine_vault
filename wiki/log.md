@@ -614,3 +614,25 @@ per-producer LLM passes. Cross-linked the 3 roster names already in the vault vi
 mis-tag surfaced by the ingest — Arnot-Roberts was filed France/Jura, corrected to
 United States/California (Sonoma). Ran build_rollups + build_wiki_index; lint 0.
 Open follow-up: onboard the curated Henderson candidates.
+
+## [2026-06-19] ingest | Domaine Gallety (Côtes du Vivarais) + terroir-neighbors view
+Added Domaine Gallety from the Kermit Lynch grower PDF
+(https://kermitlynch.com/files/domaine-gallety.pdf). The session egress policy
+blocks kermitlynch.com (host_not_allowed), so the PDF could not be fetched
+directly; content was reconstructed from Kermit Lynch grower/shop pages and
+importer/retailer listings via web search and saved as a stub note at
+`raw/kermit_lynch/domaine-gallety.pdf`. Gallety is the benchmark estate of the
+Côtes du Vivarais — a cool, west-bank, limestone AOC (status since 1999) in the
+Ardèche, organic since 1979, ~15 ha clay-limestone, Syrah/Grenache reds + a
+Grenache Blanc/Marsanne/Roussanne white. Created
+`wiki/producers/domaine_gallety.md` (region Rhône, sub_region Côtes du Vivarais,
+importer Kermit Lynch); rollups regenerated (Kermit Lynch 12→13 producers, Rhône
+index 32→33). Second task — "find other producers near the same terroir that
+haven't blown up yet" — filed as a keeper view
+`wiki/_views/cotes_du_vivarais_terroir_neighbors_2026_06.md`: triage of
+under-the-radar west-bank-limestone neighbors (Notre Dame de Cousignac + Domaine
+de Vigier as search-confirmed organic in-appellation leads; Mas de Bagnols,
+Belvezet, Mas de Libian, and the Brézème pair Grangeon/Lombard as verify-first
+leads; Le Mazel/Calek/Azzoni flagged as the already-discovered natural-wine
+cohort to skip). No pages created for the leads — view is the queue. index +
+views index regenerated, lint 0.

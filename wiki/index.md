@@ -49,7 +49,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Piedmont_Producers|Piedmont Producers]] — **20 producers** tracked.
 - [[Provence_Producers|Provence Producers]] — **3 producers** tracked.
 - [[Rheinhessen_Producers|Rheinhessen Producers]] — **1 producers** tracked.
-- [[Rhone_Producers|Rhone Producers]] — **32 producers** tracked.
+- [[Rhone_Producers|Rhone Producers]] — **33 producers** tracked.
 - [[Salta_Producers|Salta Producers]] — **5 producers** tracked.
 - [[San_Juan_Producers|San Juan Producers]] — **1 producers** tracked.
 - [[Savoie_Producers|Savoie Producers]] — **1 producers** tracked.
@@ -267,7 +267,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_362 producers across 37 regions._
+_363 producers across 37 regions._
 
 ### Abruzzo
 
@@ -677,6 +677,7 @@ _362 producers across 37 regions._
 - [[domaine_de_beaurenard|Domaine de Beaurenard]] — Rhône / Châteauneuf-du-Pape · biodynamic · Raeder 11
 - [[domaine_des_amphores|Domaine des Amphores]] — Rhône / Saint-Joseph / Condrieu · biodynamic · CSW ★2/6
 - [[domaine_des_ardoisieres|Domaine des Ardoisières]] — Rhône / Savoie (Cevins) · biodynamic · CSW ★1/6 · Raeder 1
+- [[domaine_gallety|Domaine Gallety]] — Rhône / Côtes du Vivarais · organic
 - [[domaine_garon|Domaine Garon]] — Rhône / Côte-Rôtie · CSW ★2/2
 - [[domaine_gripa|Domaine Gripa]] — Rhône / Saint-Joseph / Saint-Péray · CSW ★1/2
 - [[domaine_levet|Domaine Levet]] — Rhône / Côte-Rôtie · natural · CSW ★3/6
