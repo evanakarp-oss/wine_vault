@@ -3,12 +3,12 @@ type: importer
 name: "Polaner"
 slug: polaner
 producer_count: 28
-focus: ['Beaujolais', 'Burgundy', 'Champagne', 'Jura', 'Loire', 'Marche', 'Piedmont', 'Rhône', 'Tuscany']
+focus: ['Beaujolais', 'Burgundy', 'California', 'Champagne', 'Loire', 'Marche', 'Piedmont', 'Rhône', 'Tuscany']
 notable_producers: ['Domaine Baudry', 'Stéphane Guion', 'Domaine de la Chevalerie', 'Jean-Claude Rateau', 'Roagna']
-updated: 2026-06-13
-_source: wiki/_resources.md
-url: "https://polanerselections.com"
+updated: 2026-06-19
 tags: []
+url: "https://polanerselections.com"
+_source: wiki/_resources.md
 ---
 # Polaner
 
@@ -23,7 +23,7 @@ tags: []
 | [[jean-claude_rateau|Jean-Claude Rateau]] | France | Burgundy | 13 | — |
 | [[roagna|Roagna]] | Italy | Piedmont | 13 | 3 |
 | [[domaine_de_montille|Domaine de Montille]] | France | Burgundy | 11 | — |
-| [[arnot-roberts|Arnot-Roberts]] | France | Jura | 10 | — |
+| [[arnot-roberts|Arnot-Roberts]] | United States | California | 10 | — |
 | [[produttori_del_barbaresco|Produttori del Barbaresco]] | Italy | Piedmont | 10 | — |
 | [[agrapart|Agrapart]] | France | Champagne | 9 | 2 |
 | [[ceretto|Ceretto]] | Italy | Piedmont | 9 | — |

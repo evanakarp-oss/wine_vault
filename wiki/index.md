@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 902
+total_pages: 903
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**902 pages indexed.**
+**903 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -30,14 +30,14 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Bierzo_Producers|Bierzo Producers]] — **1 producers** tracked.
 - [[Bordeaux_Producers|Bordeaux Producers]] — **25 producers** tracked.
 - [[Burgundy_Producers|Burgundy Producers]] — **86 producers** tracked.
-- [[California_Producers|California Producers]] — **14 producers** tracked.
+- [[California_Producers|California Producers]] — **15 producers** tracked.
 - [[Catalonia_Producers|Catalonia Producers]] — **1 producers** tracked.
 - [[Champagne_Producers|Champagne Producers]] — **16 producers** tracked.
 - [[Colli_Tortonesi_Producers|Colli Tortonesi Producers]] — **1 producers** tracked.
 - [[Corsica_Producers|Corsica Producers]] — **1 producers** tracked.
 - [[Franken_Producers|Franken Producers]] — **2 producers** tracked.
 - [[Jujuy_Producers|Jujuy Producers]] — **2 producers** tracked.
-- [[Jura_Producers|Jura Producers]] — **15 producers** tracked.
+- [[Jura_Producers|Jura Producers]] — **14 producers** tracked.
 - [[Liguria_Producers|Liguria Producers]] — **1 producers** tracked.
 - [[Loire_Producers|Loire Producers]] — **6 producers** tracked.
 - [[Marche_Producers|Marche Producers]] — **1 producers** tracked.
@@ -88,6 +88,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[German_Wine_Collection_GWC|German Wine Collection (GWC)]] — German specialist.
 - [[Grand_Cru_Selections|Grand Cru Selections]] — Champagne
 - [[Graziano|Graziano]] — Italian specialist.
+- [[Henderson_Selections|Henderson Selections]] — Bordeaux, Burgundy, California
 - [[Hootananny|Hootananny]] — Natural wines.
 - [[Jeffrey_Alpert_Selections|Jeffrey Alpert Selections]] — NYC. Natural/artisan.
 - [[Jenny_&_Francois_Selections|Jenny & François Selections]] — Beaujolais, France, Loire
@@ -102,7 +103,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Ole_&_Obrigado|Ole & Obrigado]] — Spanish and Portuguese wines. NY-based.
 - [[Omniwines_Distribution|Omniwines Distribution]] — Italian wines.
 - [[Other_Blues|Other Blues]] — Spanish, French, CA natural. Small operation.
-- [[Polaner|Polaner]] — Beaujolais, Burgundy, Champagne, Jura, Loire, Marche, Piedmont, Rhône, Tuscany
+- [[Polaner|Polaner]] — Beaujolais, Burgundy, California, Champagne, Loire, Marche, Piedmont, Rhône, Tuscany
 - [[Roscioli_Wine_Club|Roscioli Wine Club]] — Italy, Piedmont, Tuscany, Sicily, Sardinia, Friuli
 - [[Ruff_Mix_Wines|Ruff Mix Wines]] — French natural wines. Camille Rivière adjacent.
 - [[Savio_Soares_Selections|Savio Soares Selections]] — France, Germany, Italy, Portugal
@@ -428,6 +429,7 @@ _362 producers across 37 regions._
 
 ### California
 
+- [[arnot-roberts|Arnot-Roberts]] — California / Sonoma County (North Coast Trousseau & Jura varieties) · CSW ★4/10
 - [[bergstrom|Bergstrom]] — California / Willamette Valley (Oregon) · biodynamic · Raeder 11
 - [[bryant_family_vineyard|Bryant Family Vineyard]] — California / Napa Valley (Pritchard Hill) · Raeder 1
 - [[colgin|Colgin]] — California / Napa Valley (Pritchard Hill) · Raeder 2
@@ -486,7 +488,6 @@ _362 producers across 37 regions._
 
 ### Jura
 
-- [[arnot-roberts|Arnot-Roberts]] — Jura / California Trousseau / Jura varieties · CSW ★4/10
 - [[domaine_de_la_tournelle|Domaine de la Tournelle]] — Jura / Arbois · natural · CSW ★2/6
 - [[domaine_de_saint_pierre|Domaine de Saint Pierre]] — Jura / Arbois · natural · CSW ★2/4
 - [[domaine_lulu_vigneron|Domaine Lulu Vigneron]] — Jura / Côtes du Jura · natural · CSW ★2/5

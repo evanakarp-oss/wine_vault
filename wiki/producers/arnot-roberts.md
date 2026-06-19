@@ -3,14 +3,15 @@ type: producer
 name: Arnot-Roberts
 slug: arnot-roberts
 aliases: []
-country: France
-region: Jura
-sub_region: California Trousseau / Jura varieties
+country: United States
+region: California
+sub_region: Sonoma County (North Coast Trousseau & Jura varieties)
 appellations: []
 farming: []
 certifications: []
 importer_us:
 - Polaner
+- Henderson Selections
 retailers:
   chambers:
     championed: true
@@ -133,6 +134,7 @@ _Not yet populated._
 
 ## Cross-references
 
-- [[Jura_Producers|Jura]]
-- [[California Trousseau / Jura varieties]]
+- [[California_Producers|California]]
+- [[Polaner|Polaner (importer)]]
+- [[Henderson_Selections|Henderson Selections (importer)]]
 - [[CSW Article Archive]]

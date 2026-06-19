@@ -596,3 +596,21 @@ Updated CLAUDE.md: LPV row in source-roles table, planned `*_lpv_*` pipeline und
 common scripts, and an open follow-up. No producer pages carry `community.lpv` yet;
 scraper + parse/compile/rollup scripts are TODO (LPV 403s the fetcher → manual paste
 for now). lint 0, all --check gates green.
+
+## [2026-06-19] ingest | Henderson Selections importer
+
+Added Henderson Selections (Austin TX artisanal distributor/importer, est. 2012,
+"Place Over Process," low-intervention small vignerons; Texas now + NY/NJ soon) as
+a new importer source. Saved the full ~130-name roster to
+`raw/henderson/producers_2026-06-19.md` (US West Coast + Australia, Austria, Chile,
+France, Italy, Slovenia, Spain, Switzerland). Created
+`wiki/importers/Henderson_Selections.md` with the roster, a curated onboarding
+shortlist mapped to Evan's taste (grower Champagne bench, terroir Beaujolais,
+Burgundy/Loire growers, Piedmont classicists, Skerk/Carso, Sonoma-Coast
+California — Saxum/Epoch deliberately skipped), and an out-of-scope note. Did NOT
+bulk-create producer pages (anti-pattern); candidates are stub wikilinks pending
+per-producer LLM passes. Cross-linked the 3 roster names already in the vault via
+`importer_us`: Arnot-Roberts, Hudelot-Noëllat, Elian Da Ros. Fixed a pre-existing
+mis-tag surfaced by the ingest — Arnot-Roberts was filed France/Jura, corrected to
+United States/California (Sonoma). Ran build_rollups + build_wiki_index; lint 0.
+Open follow-up: onboard the curated Henderson candidates.
