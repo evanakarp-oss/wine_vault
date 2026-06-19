@@ -2,19 +2,18 @@
 type: region_index
 region: "Jura"
 updated: 2026-06-19
-producer_count: 15
+producer_count: 14
 ---
 
 # Jura — Producer Index
 
-**15 producers** tracked.
+**14 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
 | [[stephane_tissot|Stéphane Tissot]] | France | Arbois | 13 | — | — | — | — |
 | [[jacques_puffeney|Jacques Puffeney]] | France | Arbois (retired 2014) | 12 | — | — | — | — |
 | [[jean_francois_ganevat|Jean-François Ganevat]] | France | Côtes du Jura | 12 | — | — | — | — |
-| [[arnot-roberts|Arnot-Roberts]] | France | California Trousseau / Jura varieties | 10 | — | — | — | — |
 | [[michel_gahier|Michel Gahier]] | France | Arbois (Montigny-lès-Arsures) | 8 | — | — | — | — |
 | [[domaine_de_la_tournelle|Domaine de la Tournelle]] | France | Arbois | 6 | — | — | — | — |
 | [[domaine_marnes_blanches|Domaine Marnes Blanches]] | France | Côtes du Jura | 6 | — | — | — | — |

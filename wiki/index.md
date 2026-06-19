@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 903
+total_pages: 904
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**903 pages indexed.**
+**904 pages indexed.**
 
 ## Schema & taxonomy
 

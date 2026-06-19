@@ -2,15 +2,16 @@
 type: region_index
 region: "California"
 updated: 2026-06-19
-producer_count: 14
+producer_count: 15
 ---
 
 # California — Producer Index
 
-**14 producers** tracked.
+**15 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
+| [[arnot-roberts|Arnot-Roberts]] | United States | Sonoma County (North Coast Trousseau & Jura varieties) | 10 | — | — | — | — |
 | [[kosta_browne|Kosta Browne]] | United States | Sonoma Coast | 1 | — | 15 | — | — |
 | [[screaming_eagle|Screaming Eagle]] | United States | Napa Valley (Oakville) | 1 | — | 1 | — | — |
 | [[bergstrom|Bergstrom]] | United States | Willamette Valley (Oregon) | — | — | 11 | — | — |
