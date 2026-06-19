@@ -52,9 +52,11 @@ deep dive ([[../_views/wb_northern_rhone_tour_2026_06|view]]).
 
 ## CSW Write-ups
 
-_Clape is referenced across Chambers' Northern Rhône offers. Frontmatter retailer
-counts left at zero — re-run `scripts/ingest_csw.py` to fold in the CSW article set +
-excerpts._
+_No dedicated Chambers article in the CSW corpus (scraped 2026-04). Clape appears only in
+passing (e.g. a Clos Saron profile noting Gideon Beinstock once tasted with Auguste Clape) —
+`ingest_csw.py` matches the 5-char "Clape" as a false positive, so chambers counts are
+deliberately left at zero. Clape is, however, regularly offered in Chambers' Northern Rhône
+emails; fold in a genuine dedicated offer here if one appears._
 
 ## Cellar
 

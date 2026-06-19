@@ -703,3 +703,17 @@ view + registry updated to reflect them in-vault (remaining gaps: André Perret,
 Regenerated rollups (Rhône region + Kermit Lynch importer: 13 → 15) and wiki index; reverted
 incidental key-reorder churn on 11 unrelated rollup pages. Search-snippet sourced (WB 403s the
 fetcher), cross-checked vs. importer/merchant profiles. Lint 0, all --check gates green.
+
+## [2026-06-19] ingest | Backfill CSW coverage for Jamet (Clape = no genuine match)
+Ran `ingest_csw.py` to fold Chambers coverage into the two new N. Rhône pages. Jamet:
+two genuine dedicated articles matched — "Champet and Jamet: Cote Rotie and more" (2018-12)
+and "Allemand and Jamet, Cornas and Cote Rotie" (2006-11); chambers frontmatter set
+championed=true, article_count=2, dedicated_count=2, 2006–2018. Auguste Clape: the only
+match was a false positive — "Different Sides of the Prism: Cain and Renaissance" (a Napa
+Cabernet article that mentions Auguste Clape only in passing, via a Clos Saron profile),
+caught by the 5-char "Clape" word match. No dedicated Clape article exists in the CSW corpus
+(scraped 2026-04), so Clape's chambers counts left at zero and its CSW note updated to record
+the false-positive rather than invite a futile re-run. NB: the global ingest run also rewrites
+~197 other producer pages (vault-wide CSW drift since the last run) — deliberately NOT
+committed here; that belongs in its own reviewed sweep. Regenerated wiki index; lint 0, all
+--check gates green.

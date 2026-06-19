@@ -18,11 +18,11 @@ importer_us:
 - Kermit Lynch
 retailers:
   chambers:
-    championed: false
-    article_count: 0
-    dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    championed: true
+    article_count: 2
+    dedicated_count: 2
+    first_year: 2006
+    last_year: 2018
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -52,9 +52,15 @@ deep dive ([[../_views/wb_northern_rhone_tour_2026_06|view]]).
 
 ## CSW Write-ups
 
-_Chambers has carried Jamet historically (e.g. the 2006 "Allemand and Jamet, Cornas
-and Côte-Rôtie" offer). Frontmatter retailer counts left at zero — re-run
-`scripts/ingest_csw.py` to fold in the full CSW article set + excerpts._
+### ★ [Champet and Jamet: Cote Rotie and more](https://chambersstwines.com/blogs/articles/champet-and-jamet-cote-rotie-and-more)
+*2018-12*
+
+> 12/20/18 - Jamet is a household name, but Champet remains a bit of a secret. This may be, in part, because the wines aren’t Parkerian, as they lack the requisite gobs and toasty toast*. The conventional line is that little or nothing has changed at Champet -…
+
+### ★ [Allemand and Jamet, Cornas and Cote Rotie](https://chambersstwines.com/blogs/articles/allemand-and-jamet-cornas-and-cote-rotie)
+*2006-11*
+
+> 11/12/2006 - We have some of the very best Northern Rhône wines coming in – and you don’t have to spend hundreds for Guigal… Well, anyway we think that Allemand and Jamet make some of the very best wines. Both Domaines have a bit of cult status – Allemand…
 
 ## Cellar
 

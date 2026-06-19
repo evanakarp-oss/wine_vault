@@ -692,7 +692,7 @@ _365 producers across 37 regions._
 - [[ferme_saint-martin|Ferme Saint-Martin]] — Rhône / Beaumes-de-Venise / Ventoux · natural · CSW ★3/4
 - [[franck_balthazar|Franck Balthazar]] — Rhône / Cornas · natural · CSW ★2/5
 - [[georges_vernay|Georges Vernay]] — Rhône · DTE 1 · Raeder 1
-- [[jamet|Jamet]] — Rhône / Côte-Rôtie
+- [[jamet|Jamet]] — Rhône / Côte-Rôtie · CSW ★2/2
 - [[jasmin|Jasmin]] — Rhône · CSW 1 · DTE 1
 - [[jean_royer|Jean Royer]] — Rhône · DTE 1
 - [[langlore|L'Anglore]] — Rhône / Tavel / Lirac · natural · CSW 6
