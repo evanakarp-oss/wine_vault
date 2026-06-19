@@ -132,6 +132,17 @@ _Not in portfolio._
   1999), the Ardèche reads as bulk-country IGP to most buyers, and Gallety is the
   lone serious name — so the wine still sells on quality rather than hype. A
   drink-now-and-cellar value.
+- **Community pulse (checked 2026-06-19):** a *French*-forum favorite, not yet an
+  Anglophone one — the clean tell that it's undiscovered in the US. **La Passion du
+  Vin** carries a dedicated multi-page producer *fil*
+  ([#13366](https://www.lapassionduvin.com/rhone/13366-domaine-gallety-coteaux-du-vivarais),
+  16+ pages, plus a "Haute Vigne de Gallety" thread) with sustained favorable
+  consensus — density, purity, finesse, the grenache/syrah marriage, low yields,
+  affordability. **Wine Berserkers**, by contrast, has no dedicated thread, only
+  peripheral mentions. Not yet run through an LPV ingest (the `community.lpv`
+  pipeline is still TODO and LPV 403s the fetcher), so no structured signals are
+  recorded here. See the [terroir-neighbors view](../_views/cotes_du_vivarais_terroir_neighbors_2026_06.md)
+  for the full LPV-vs-Berserkers scan of the cluster.
 - **Created 2026-06-19** from the Kermit Lynch grower PDF
   (`raw/kermit_lynch/domaine-gallety.pdf` — host blocked by the session egress
   policy; content reconstructed from Kermit Lynch's grower/shop pages and

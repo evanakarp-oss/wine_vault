@@ -636,3 +636,22 @@ Belvezet, Mas de Libian, and the Brézème pair Grangeon/Lombard as verify-first
 leads; Le Mazel/Calek/Azzoni flagged as the already-discovered natural-wine
 cohort to skip). No pages created for the leads — view is the queue. index +
 views index regenerated, lint 0.
+
+## [2026-06-19] query | LPV vs. Berserkers scan — Côtes du Vivarais / S. Ardèche cluster
+Followed the Gallety terroir-neighbors view with a community-forum check: who in
+the west-bank-limestone cluster is mentioned favorably on La Passion du Vin (LPV)
+vs. Wine Berserkers. Finding: it's an LPV story, near-invisible on Berserkers —
+which is itself the "haven't blown up in the US" evidence. Favorable dedicated LPV
+fils: Domaine Gallety (#13366, 16+ pp), Mas de Libian (#4069, 6+ pp), Domaine
+Lombard/Brézème (#33636), Eric Texier/Brézème (#10299, already in vault); milder
+but positive: Domaine de Vigier (#11042); mixed: Notre Dame de Cousignac (#29385,
+recent notes flag alcohol heat) — demoted below Vigier; absent on both: Mas de
+Bagnols, Belvezet. Berserkers had no dedicated threads for any (peripheral hits
+only). Re-ranked the view's recommendations (Libian + Lombard top by esteem; Vigier
+ahead of Cousignac among the organic in-appellation pair) and added a "Community
+forum signal" section + LPV-vs-Berserkers table. Added an editorial community-pulse
+note to the Gallety page `## Notes` (per schema, forum-standing notes are free-form,
+not a hand-edited `community.lpv` block — that pipeline is still TODO). Flagged
+Gallety #13366 / Libian #4069 / Lombard #33636 as clean first candidates for
+`raw/lpv/threads/index.md`. Search-snippet sourced (LPV 403s the fetcher) — treat
+as directional. views index regenerated, lint 0, all --check gates green.
