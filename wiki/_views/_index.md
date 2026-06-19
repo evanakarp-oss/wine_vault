@@ -9,7 +9,7 @@ generator: scripts/build_views_index.py
 
 Catalog of every keeper-answer page in `wiki/_views/` — the single read surface for saved analyses (gap analysis, drink-window shortlists, cross-retailer comparisons, critic overlays). The main `wiki/index.md` skips this directory, so this is where views are cataloged.
 
-**76 views.**
+**77 views.**
 
 | Page | Question / title | Updated |
 |---|---|---|
@@ -81,6 +81,7 @@ Catalog of every keeper-answer page in `wiki/_views/` — the single read surfac
 | [[vosne_adjacent_parcels|vosne_adjacent_parcels]] | Vosne-Romanée — Adjacent Parcels (North & South) | 2026-05-25 |
 | [[vosne_styled_nsg|vosne_styled_nsg]] | Vosne-Styled NSG — Deep Dive on Producers & Parcels | 2026-05-26 |
 | [[wasserman_at_raeders|wasserman_at_raeders]] | Becky Wasserman × Raeder's — Inventory Cross-Check | 2026-05-21 |
+| [[wb_hall_of_fame_2026_06|wb_hall_of_fame_2026_06]] | What durable knowledge lives in the best Wine Berserkers 'Hall of Fame' threads, distilled and mapped to Evan's cellar? | 2026-06-19 |
 | [[wb_top100_csw_wk_matrix_2026_05|wb_top100_csw_wk_matrix_2026_05]] | Wine Berserkers 'Top 10 in your cellar' top 100, cross-referenced with CSW coverage and William Kelley signal | 2026-05-26 |
 | [[wildman_at_raeders|wildman_at_raeders]] | Wildman × Raeder's — Inventory Cross-Check | 2026-05-21 |
 | [[wilson_daniels_at_raeders|wilson_daniels_at_raeders]] | Wilson Daniels × Raeder's — Inventory Cross-Check | 2026-05-21 |

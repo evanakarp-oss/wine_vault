@@ -655,3 +655,21 @@ not a hand-edited `community.lpv` block — that pipeline is still TODO). Flagge
 Gallety #13366 / Libian #4069 / Lombard #33636 as clean first candidates for
 `raw/lpv/threads/index.md`. Search-snippet sourced (LPV 403s the fetcher) — treat
 as directional. views index regenerated, lint 0, all --check gates green.
+
+## [2026-06-19] ingest | Berserkers Hall-of-Fame editorial threads — catalogue + source layer
+Added a second kind of Berserkers source: the knowledge-rich *editorial* threads
+from the WB Wine Talk Hall of Fame (#129985), distinct from the producer-mention
+tally pipeline in `raw/berserkers/threads/`. Evan flagged 11 threads (2026-06-19):
+trad/modern Barolo (#99925) + Bordeaux (#85688), the Clusel-Roch→Allemand N. Rhône
+tour (#120248), off-beat Burgundy TNs (#112867), buying/consuming Burgundy (#146528),
+California old-vine Zin vineyards (#18190), Sonoma travel (#91711), the 16-bottle
+Chardonnay blowout (#101084), the '07 Oregon Pinot vintage-rehab (#45228), the
+Premier Cru fraud complaint thread (#56697), and the passive subterranean root-cellar
+build (#170960). New source layer `raw/berserkers/hall_of_fame/` (README data
+contract + thread registry `index.md`); distillations filed as one keeper view
+`wiki/_views/wb_hall_of_fame_2026_06.md`, each section mapped to Evan's curation
+taste with a "Cellar take" + live thread link. WB 403s the fetcher (same as LPV), so
+content is search-snippet sourced (titles/URLs/IDs + consensus producer lists are
+real; post-level detail summarized) — all 11 marked `fidelity: snippet`, upgrade path
+documented. N. Rhône names cross-confirmed against the LPV signal map (double
+consensus). Views index regenerated (76 → 77), lint 0, all --check gates green.
