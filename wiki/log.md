@@ -755,3 +755,22 @@ Source-roles row, planned 4-script pipeline (`scrape/parse/compile/build_vinolis
 follow-up. Scraper + compiler are TODO (blocked); manual-paste ingest for now. Search-snippet
 sourced (Resy Hit List / Star Wine List / Wine Spectator / Decanter / VinePair); contents
 flagged verify-before-quoting. Regenerated views index; gates green.
+
+## [2026-06-21] ingest | Write + test the Vinolist NYC pipeline scripts (scrape/parse/compile/rollups)
+Turned the morning's Vinolist scaffold into a working pipeline, mirroring the Berserkers
+four-script shape. New scripts: `scrape_vinolist.py` (browser-UA fetch + retries → saves
+`<slug>.raw.html`, best-effort auto-extract of wine rows via __NEXT_DATA__/JSON-LD/table
+strategies → `<slug>.json`; runs locally — host egress-blocked here), `parse_vinolist.py`
+(re-parses saved HTML **or** a manual one-wine-per-line `.raw.md` paste → contract JSON),
+`compile_vinolist_signals.py` (aggregates restaurant JSONs → per-producer `community.vinolist`
+frontmatter: list_count, prestige_lists, price_floor/median, momentum vs dated snapshot; writes
+`raw/vinolist/snapshots/producers_<date>.json` + a discovery/gap report; reuses the validated
+`compile_wb_signals` slug-matcher), `build_vinolist_rollups.py` (→ `_views/vinolist_rollup_<YYYY_MM>.md`:
+top-N by demand, price floors, momentum risers, gap candidates). Tested parse + compile + rollups
+end-to-end against synthetic Terroir/EMP fixtures: aggregation, prestige flagging (grand_cellar),
+price floor/median, momentum (Selosse +1 vs a backdated snapshot), in-vault marking, and the
+frontmatter upsert (clean `community.vinolist` block inserted into `agrapart.md`, lint 0) all
+verified; fixtures + test snapshots removed and producer pages restored. Scrape step is written but
+unvalidated against live HTML (selectors will need one tune); manual-paste path works today. Docs
+updated (CLAUDE.md source-roles + scripts + follow-up; `raw/vinolist/README.md` status → wired).
+No restaurants ingested yet. Gates green.

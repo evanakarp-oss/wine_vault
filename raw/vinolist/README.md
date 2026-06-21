@@ -2,7 +2,7 @@
 type: source_readme
 source: vinolist
 updated: 2026-06-21
-status: scaffolded — data contract + registry defined; scraper/compiler not yet written
+status: wired — pipeline scripts written + tested (scrape step needs one local validation run); no restaurants ingested yet
 ---
 
 # Vinolist NYC — source layer
@@ -26,14 +26,22 @@ Serves three jobs (see the keeper view
    (which lists) · momentum (Δ list-count between dated snapshots).
 3. **Discovery** — producers on many top lists not yet in the vault → onboarding triage.
 
-## ⚠️ Scraper blocker (read first)
+## ⚠️ Run the scraper locally (read first)
 
 vinolistnyc.com **403s the WebFetch tool** (bot protection) **and the host is
-egress-blocked** from the Claude-Code-on-web environment. Same situation as LPV. Until
-a real scraper exists (browser headers/session run locally, or a manual paste
-workflow), ingest is **manual paste**: copy a restaurant's list into
-`restaurants/<slug>.raw.md`, then parse. The data contract below is designed so a
-future automated scraper drops in without changing the JSON shape.
+egress-blocked** from the Claude-Code-on-web environment. Same situation as LPV.
+`scrape_vinolist.py` therefore **runs on Evan's machine, not in a web session** — it
+uses a real browser User-Agent + retries. Two ingest paths, both supported:
+
+- **Scrape:** `python scripts/scrape_vinolist.py <url> --tier <t>` → saves
+  `restaurants/<slug>.raw.html` and (if auto-extraction succeeds) `<slug>.json`.
+  The extraction selectors are best-guesses until validated against real HTML.
+- **Manual paste** (fallback, always works): paste the list into
+  `restaurants/<slug>.raw.md` (one wine per line — see `parse_vinolist.py`), then
+  `python scripts/parse_vinolist.py restaurants/<slug>.raw.md`.
+
+Either way the `.raw.html`/`.raw.md` is the durable record; re-parsing never re-hits
+the network.
 
 ## Layout
 
@@ -95,19 +103,22 @@ lists (EMP / Le Bernardin) it sits on. Schema block lives in `wiki/_SCHEMA.md` �
 `community.vinolist` (**scaffolded — no producer pages carry it yet**). Momentum comes
 from diffing dated `snapshots/producers_<date>.json`.
 
-## Pipeline (planned — scripts not yet written)
+## Pipeline (written — scrape step needs one live validation)
 
-Mirrors the Berserkers four-script pipeline. **None of these exist yet**; this README
-defines the contract they'll implement.
+Mirrors the Berserkers four-script pipeline. **All four scripts exist.** `parse`,
+`compile`, and `build` are tested against synthetic fixtures and work; `scrape` is
+written but **unvalidated against the live site** (403 + egress-blocked from the web
+sandbox — run it locally, then tune `extract_wines()` once against real HTML).
 
 ```
-scrape_vinolist.py        URL/all            → restaurants/<slug>.raw.md   (TODO — blocked by 403/egress; manual paste for now)
-parse_vinolist.py         <slug>.raw.md      → restaurants/<slug>.json     (TODO)
-compile_vinolist_signals.py  restaurants/*.json → wiki/producers/*.md      (TODO — writes community.vinolist.*)
-build_vinolist_rollups.py    all + snapshots → wiki/_views/*.md            (TODO — top-N, price floors, momentum, gap candidates)
+scrape_vinolist.py           URL                → restaurants/<slug>.raw.html (+ .json if auto-extract works)
+parse_vinolist.py            <slug>.raw.html|md → restaurants/<slug>.json     (HTML re-parse OR manual paste)
+compile_vinolist_signals.py  restaurants/*.json → wiki/producers/*.md         (writes community.vinolist.* + dated snapshot)
+build_vinolist_rollups.py    restaurants/*.json → wiki/_views/vinolist_rollup_<YYYY_MM>.md
 ```
 
-Each will be dry-run by default; `--apply` to write — same convention as `*_wb_*`.
+Each is dry-run by default; `--apply` to write — same convention as `*_wb_*`. `compile`
+and `build` reuse the validated slug-matcher from `compile_wb_signals.py`.
 
 ## Adding a restaurant (manual-paste workflow, today)
 
