@@ -732,3 +732,6 @@ Lynmar Bliss House — flagged verify-before-booking), and a cellar take mapping
 restrained-California targets (Bedrock Montecillo/Moon Mtn, the old-vine Zin atlas, Arnot-Roberts
 RRV/Sonoma Coast) with an itinerary skeleton. Linked from HoF catalogue §7 + registry (#3 →
 snippet⁺). Search-snippet sourced (WB 403s the fetcher). Views index 78 → 79, lint 0, gates green.
+
+## [2026-06-21] view | Flatiron Wines Bordeaux Sale — compelling picks
+Screened Flatiron Wines' 84-bottle Bordeaux Sale through Evan's Bordeaux taste filter (WK-style undercovered/value with great farming; aged classed-growth drink-now only; skip generic mid-tier). Filed `wiki/_views/flatiron_bordeaux_sale_2026_06.md`: Tier 1 buy = la Grolet 2022 (biodynamic, CSW-championed, in vault) + Pontet-Canet 2007 (biodynamic Pauillac, aged drink-now); Tier 2 = Denis Durantou satellites (Saintayme/La Chenade/Les Cruzelles — gap candidates); Tier 3 = aged classed-growth drink-now (Giscours '01, du Tertre '10, Potensac '05, Dom. de Chevalier '15, Haut-Bailly '07). Flagged Gruaud-Larose 2005 as already-owned. Views index re-run.
