@@ -9,7 +9,7 @@ generator: scripts/build_views_index.py
 
 Catalog of every keeper-answer page in `wiki/_views/` — the single read surface for saved analyses (gap analysis, drink-window shortlists, cross-retailer comparisons, critic overlays). The main `wiki/index.md` skips this directory, so this is where views are cataloged.
 
-**80 views.**
+**81 views.**
 
 | Page | Question / title | Updated |
 |---|---|---|
@@ -87,6 +87,7 @@ Catalog of every keeper-answer page in `wiki/_views/` — the single read surfac
 | [[wb_sonoma_visit_2026_06|wb_sonoma_visit_2026_06]] | Deep dive into the Berserkers 'Planning your visit to Sonoma County' thread (#91711): the evergreen trip-planning framework + 10 takeaways, mapped to Evan's Sonoma targets. | 2026-06-19 |
 | [[wb_top100_csw_wk_matrix_2026_05|wb_top100_csw_wk_matrix_2026_05]] | Wine Berserkers 'Top 10 in your cellar' top 100, cross-referenced with CSW coverage and William Kelley signal | 2026-05-26 |
 | [[wildman_at_raeders|wildman_at_raeders]] | Wildman × Raeder's — Inventory Cross-Check | 2026-05-21 |
+| [[william_kelley_taste_2026_06|william_kelley_taste_2026_06]] | What does William Kelley (WK, Wine Advocate) say he likes — his palate, philosophy, and Bordeaux worldview? | 2026-06-21 |
 | [[wilson_daniels_at_raeders|wilson_daniels_at_raeders]] | Wilson Daniels × Raeder's — Inventory Cross-Check | 2026-05-21 |
 | [[wine_source_at_raeders|wine_source_at_raeders]] | Wine Source × Raeder's — Inventory Cross-Check (partial) | 2026-05-21 |
 | [[wk_dte_burgundy_2026_06|wk_dte_burgundy_2026_06]] | Which Burgundy producers in the Down to Earth (Panzer) portfolio would William Kelley actually buy? | 2026-06-09 |
