@@ -9,7 +9,7 @@ generator: scripts/build_views_index.py
 
 Catalog of every keeper-answer page in `wiki/_views/` — the single read surface for saved analyses (gap analysis, drink-window shortlists, cross-retailer comparisons, critic overlays). The main `wiki/index.md` skips this directory, so this is where views are cataloged.
 
-**79 views.**
+**80 views.**
 
 | Page | Question / title | Updated |
 |---|---|---|
@@ -55,6 +55,7 @@ Catalog of every keeper-answer page in `wiki/_views/` — the single read surfac
 | [[lpv_signal_map_french_regions_2026_06|lpv_signal_map_french_regions_2026_06]] | On La Passion du Vin (LPV), where is the community signal exceptionally strong — across the French regions Evan cares about? | 2026-06-18 |
 | [[maison_pierre_brisset_non_english_sources_2026_06|maison_pierre_brisset_non_english_sources_2026_06]] | What do non-English sources (French + Japanese) say about Maison Pierre Brisset? | 2026-06-11 |
 | [[marsannay|marsannay]] | Marsannay — Northern Côte de Nuits | 2026-05-25 |
+| [[nyc_restaurant_wine_lists_2026_06|nyc_restaurant_wine_lists_2026_06]] | Which NYC restaurants have the best wine lists for Evan's taste, and how do I use Vinolist NYC to track producers (popularity / price / prestige) and discover new ones? | 2026-06-21 |
 | [[offers_2026-05-25|offers_2026-05-25]] | Weekly Offers Roundup — 2026-05-25 |  |
 | [[offers_2026-05-25_csw_flash_top_picks|offers_2026-05-25_csw_flash_top_picks]] | CSW Memorial Day 2026 Flash Sale — Most Essential Picks |  |
 | [[polaner_at_raeders|polaner_at_raeders]] | Polaner × Raeder's — Inventory Cross-Check | 2026-05-21 |

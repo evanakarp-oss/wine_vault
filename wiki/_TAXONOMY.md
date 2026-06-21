@@ -169,3 +169,19 @@ ingest are listed in `raw/lpv/threads/index.md`.
 | _(none yet)_ | | | |
 
 (Add a row when ingesting a thread; the slug must match the JSON filename.)
+
+### `community.vinolist.restaurants` (registered restaurant slugs)
+
+Each entry is an NYC restaurant whose wine list has been ingested from
+[Vinolist NYC](https://vinolistnyc.com/) into
+`raw/vinolist/restaurants/<slug>.json`. The slug is referenced when aggregating
+per-producer `community.vinolist.*` signals. **None ingested yet** (scraper blocked —
+403 + egress); candidate restaurants are listed in `raw/vinolist/restaurants/index.md`.
+`tier` ∈ `grand_cellar`, `grower_champagne`, `grower_french`, `italian_deepcut`,
+`natural_bar`.
+
+| Slug | Restaurant | Tier | URL |
+|---|---|---|---|
+| _(none yet)_ | | | |
+
+(Add a row when ingesting a restaurant; the slug must match the JSON filename.)

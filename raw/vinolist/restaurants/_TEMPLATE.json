@@ -1,0 +1,26 @@
+{
+  "restaurant": {
+    "slug": "",
+    "name": "",
+    "url": "",
+    "borough": "Manhattan",
+    "tier": "grower_french",
+    "bottle_count": null,
+    "price_min": null,
+    "price_max": null,
+    "wine_director": null,
+    "scraped_at": "YYYY-MM-DD",
+    "scrape_method": "template"
+  },
+  "wines": [
+    {
+      "raw_producer": "",
+      "slug": null,
+      "cuvee": null,
+      "region": null,
+      "vintage": null,
+      "price": null,
+      "color": null
+    }
+  ]
+}

@@ -732,3 +732,26 @@ Lynmar Bliss House — flagged verify-before-booking), and a cellar take mapping
 restrained-California targets (Bedrock Montecillo/Moon Mtn, the old-vine Zin atlas, Arnot-Roberts
 RRV/Sonoma Coast) with an itinerary skeleton. Linked from HoF catalogue §7 + registry (#3 →
 snippet⁺). Search-snippet sourced (WB 403s the fetcher). Views index 78 → 79, lint 0, gates green.
+
+## [2026-06-21] ingest | Scaffold Vinolist NYC as a trade/somm-demand source + NYC restaurant-list view
+Researched [vinolistnyc.com](https://vinolistnyc.com/) — **not a shop/importer**, but a search
+engine aggregating ~65 NYC **restaurant** wine lists ("65 Restaurants, 37,878 Bottles"; count
+drifts on re-scrape). Founder (lower-confidence): Etesh Mangray (holds the older vinolist.com
+"The Wine Database" trademark). Site 403s WebFetch **and** the host is egress-blocked, so data
+extraction is blocked exactly like LPV. Integrated it the vault-native way, mirroring the
+Berserkers/LPV pattern, to serve Evan's three stated uses: (1) restaurant database, (2) producer
+tracking by popularity/price/prestige, (3) discovery. New keeper view
+`wiki/_views/nyc_restaurant_wine_lists_2026_06.md` — taste-filtered NYC restaurant picks (grand
+cellars EMP/Chambers/Le Bernardin; grower-Champagne Terroir/Compagnie; grower-French Le Veau
+d'Or/Frenchette/Winona's/Ops/Lei; Italian deep-cut Peasant), a producer-tracking recipe
+(list-count = popularity/prestige, min/avg/max price, momentum via dated snapshots), a v0
+manual producer-sighting seed (Selosse, Agrapart, Suenen, Dhondt-Grellet, La Rogerie, Vouette &
+Sorbée, Tarlant, Cordeuil, Julien Meyer, Dreyer, Joly, Clos des Plantes, Métras, Valette,
+Skyaasen, Tschida — all gap-check), and a query cheat-sheet. Source layer scaffolded at
+`raw/vinolist/` (README + data contract + `restaurants/_TEMPLATE.json` + taste-tagged registry +
+`snapshots/` for momentum). Schema block `community.vinolist` (scaffolded) added to `_SCHEMA.md`;
+`community.vinolist.restaurants` namespace registered in `_TAXONOMY.md`. CLAUDE.md updated:
+Source-roles row, planned 4-script pipeline (`scrape/parse/compile/build_vinolist*`), open
+follow-up. Scraper + compiler are TODO (blocked); manual-paste ingest for now. Search-snippet
+sourced (Resy Hit List / Star Wine List / Wine Spectator / Decanter / VinePair); contents
+flagged verify-before-quoting. Regenerated views index; gates green.

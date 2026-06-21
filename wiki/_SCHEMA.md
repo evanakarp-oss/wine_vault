@@ -193,6 +193,34 @@ only); `null` for `producer_fil` / `best_of_poll`. **`sentiment`** summarises th
 fil's consensus when there's no numeric score. All optional fields accept `null`.
 Same anti-pattern as Berserkers: regenerated from thread JSON, don't hand-edit.
 
+### `community.vinolist` block
+
+Same family, for [Vinolist NYC](https://vinolistnyc.com/) — the aggregator of NYC
+**restaurant** wine lists. This is a **trade / sommelier-demand** signal (different
+from the amateur-community signals above): how many NYC lists pour a producer, at what
+price, and on which prestige lists. Sourced from `raw/vinolist/restaurants/<slug>.json`,
+aggregated across all restaurants. **Status: scaffolded — no producer pages carry this
+block yet; the compiler (`compile_vinolist_signals.py`) is not yet written.**
+
+```yaml
+community:
+  vinolist:
+    list_count: 7                       # int — # of indexed NYC lists carrying this producer
+    prestige_lists: [eleven_madison_park, le_bernardin]  # list|null — grand-cellar lists it sits on
+    price_floor: 95                     # int|null — lowest bottle price across lists (USD)
+    price_median: 180                   # int|null — median bottle price across lists (USD)
+    momentum_2026: 2                    # int|null — Δ list_count vs the prior dated snapshot
+    last_updated: 2026-06-21
+```
+
+Field rules: **`list_count`** is the popularity/prestige proxy (count of restaurant
+JSONs in `raw/vinolist/restaurants/` referencing the producer). **`prestige_lists`**
+are the `tier: grand_cellar` slugs registered in `_TAXONOMY.md` →
+`community.vinolist.restaurants`. **`momentum_2026`** is computed by diffing dated
+`raw/vinolist/snapshots/producers_<date>.json`; `null` until two snapshots exist. All
+optional fields accept `null`. Same anti-pattern as Berserkers: regenerated from the
+restaurant JSON, don't hand-edit.
+
 ---
 
 ## Producer page — `## Berserkers` body section
