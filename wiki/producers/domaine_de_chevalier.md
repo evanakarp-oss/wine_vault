@@ -122,3 +122,11 @@ _[Raeders link](https://www.raederswine.com/wines/Domaine-De-Chevalier-Pessac-Le
 ## FASS
 
 _Not yet populated._
+
+## Notes
+
+### William Kelley — take
+
+*Synthesized from WK's WineBerserkers posts (see `## Berserkers (William Kelley)` above); not a Wine Advocate publication quote.* WK is wary of the **oaky 2000s** DDC rouge and leans toward older or very recent bottles. His "12 nights" anecdote — drinking a case of the 2004 over twelve consecutive evenings as a student, watching the new oak grow more apparent each night — pushed him toward older vintages.
+
+> "I remember drinking an entire case of the 2004 Domaine de Chevalier over 12 consecutive nights … the wine's 'makeup' in terms of new oak became more and more apparent each night. … I also decided to try to seek out pre-1999 Domaine de Chevalier rather than buying futures." — [WB](https://www.wineberserkers.com/t/topic/158027/5)

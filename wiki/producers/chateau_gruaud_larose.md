@@ -116,3 +116,11 @@ _[Raeders link](https://www.raederswine.com/wines/Chateau-Gruaud-Larose-Saint-Ju
 ## FASS
 
 _Not yet populated._
+
+## Notes
+
+### William Kelley — take
+
+*Synthesized from WK's WineBerserkers posts (see `## Berserkers (William Kelley)` above); the block quote is WK reproducing his own TWA write-up in a forum post.* One of WK's headline recent **turnarounds**: from 2019, organic conversion plus agroforestry, ~50% replanting to match variety to soil, lower yields, gentler cellar work. Not a return to the rustic Cordier era nor the lean late-90s/early-2000s — "elegant and intense." Buy the modern vintages.
+
+> "In the last few years, Gruaud Larose has been transformed. … 2019 marked the beginning of organic conversion … agroforestry (3,000 trees have been planted) … we are learning that Gruaud Larose can produce wines that are both elegant and intense." — [WB, 2024 (quoting his TWA review)](https://www.wineberserkers.com/t/oh-the-irony-i-just-subscribed-to-wine-advocate-and-heres-why/179185/131)

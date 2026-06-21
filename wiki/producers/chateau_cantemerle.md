@@ -111,3 +111,11 @@ _[Raeders link](https://www.raederswine.com/wines/Chateau-Cantemerle-Haut-Medoc-
 ## FASS
 
 _Not yet populated._
+
+## Notes
+
+### William Kelley — take
+
+*Synthesized from WK's WineBerserkers posts (see `## Berserkers (William Kelley)` above); not a Wine Advocate publication quote.* WK rates Cantemerle as genuine Haut-Médoc **value** on the rise: a homogeneous crescent of fine Mindel-series gravels, high-density planting (8,500 vines/ha), gentle "air-pulse" winemaking (prototyped here), and modest new oak. A warmer-south site, so suppler and more charming than its peers.
+
+> "When this estate gets everything right its terrific value, and they are increasingly getting everything right." — [WB, 2022](https://www.wineberserkers.com/t/thoughts-on-cantemerle/178431/35)

@@ -135,3 +135,11 @@ Vintages on offer: 2018.
 ## FASS
 
 _Not yet populated._
+
+## Notes
+
+### William Kelley — take
+
+*Synthesized from WK's WineBerserkers posts (see `## Berserkers (William Kelley)` above); not a Wine Advocate publication quote.* A benchmark of classical Graves for WK, and a producer he says you can buy on trust. Among value/undervalued vintages he singles out the **1998** ("very undervalued maturing example"), the **2006** ("a bit overlooked") and especially the **2008** — concentrated, long-haul, and he'd wager it ages past the pricier 2010.
+
+> "I have quite a bit of experience with these wines in both their older and more recent incarnations, and would say that you can buy Haut Bailly with confidence. … the 1998 is a very undervalued maturing example … The 2006 is very creditable and also a bit overlooked. And the 2008 is just terrific, with lots of tension and vibrancy." — [WB, 2016](https://www.wineberserkers.com/t/haut-bailly-spoofin-or-keepin-it-real/119724/3)

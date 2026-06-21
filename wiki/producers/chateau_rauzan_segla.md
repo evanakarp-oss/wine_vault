@@ -92,3 +92,11 @@ Vintages on offer: 2014, 2019.
 ## FASS
 
 _Not yet populated._
+
+## Notes
+
+### William Kelley — take
+
+*Synthesized from WK's WineBerserkers posts (see `## Berserkers (William Kelley)` above); not a Wine Advocate publication quote.* Part of WK's "back to DNA" Médoc revival — he flags a recent peak rather than the older vintages.
+
+> "Rauzan Segla 2020 is probably their best since the 1950s at least." — [WB, 2023](https://www.wineberserkers.com/t/new-william-kelley-mega-article-on-bordeaux-today/298476/56)

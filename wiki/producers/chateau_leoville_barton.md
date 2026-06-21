@@ -153,3 +153,11 @@ Vintages on offer: 2000, 2018.
 ## FASS
 
 _Not yet populated._
+
+## Notes
+
+### William Kelley — take
+
+*Synthesized from WK's WineBerserkers posts (see `## Berserkers (William Kelley)` above); not a Wine Advocate publication quote.* A traditionalist favourite of WK's (he's noted ~98 bottles of it in his own cellar). He prizes the pre-new-oak classics and the mid-80s; the **1982** was the last vintage with no new oak, and he rates the **1985** for sheer longevity. Drink-window read: the 1985 is "mature but with a good twenty-five years ahead of it."
+
+> "Have been drinking a few 1985 Bordeaux lately, and would consider … the 1985 Léoville-Barton mature but with a good twenty-five years ahead of it." — [WB, 2018](https://www.wineberserkers.com/t/how-about-a-vintage-drinking-windows-thread-for-bordeaux-rhone-and-burgundy/146571/3)
