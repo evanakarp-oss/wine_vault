@@ -5,10 +5,10 @@ slug: grand_cru_selections
 producer_count: 1
 focus: ['Champagne']
 notable_producers: ['Pierre Peters']
-updated: 2026-06-19
-tags: []
-url: "https://www.grandcruselections.com"
+updated: 2026-06-22
 _source: wiki/_resources.md
+url: "https://www.grandcruselections.com"
+tags: []
 ---
 
 # Grand Cru Selections

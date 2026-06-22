@@ -5,7 +5,7 @@ slug: wine_source
 producer_count: 1
 focus: ['Burgundy']
 notable_producers: ['Fanny Sabre']
-updated: 2026-06-19
+updated: 2026-06-22
 ---
 
 # Wine Source

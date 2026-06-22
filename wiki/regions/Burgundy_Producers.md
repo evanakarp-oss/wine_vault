@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Burgundy"
-updated: 2026-06-19
+updated: 2026-06-22
 producer_count: 86
 ---
 

@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 906
+total_pages: 907
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**906 pages indexed.**
+**907 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -20,7 +20,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Region rollups
 
-- [[Abruzzo_Producers|Abruzzo Producers]] — **1 producers** tracked.
+- [[Abruzzo_Producers|Abruzzo Producers]] — **2 producers** tracked.
 - [[Alsace_Producers|Alsace Producers]] — **5 producers** tracked.
 - [[Alto_Adige_Sudtirol_Producers|Alto Adige Sudtirol Producers]] — **2 producers** tracked.
 - [[Baden_Producers|Baden Producers]] — **4 producers** tracked.
@@ -267,11 +267,12 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_365 producers across 37 regions._
+_366 producers across 37 regions._
 
 ### Abruzzo
 
 - [[agricola_tiberio|Agricola Tiberio]] — Abruzzo · DTE 1
+- [[valentini|Valentini]] — Abruzzo · CSW 1
 
 ### Alsace
 

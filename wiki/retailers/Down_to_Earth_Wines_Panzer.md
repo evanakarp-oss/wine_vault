@@ -5,7 +5,7 @@ slug: dte
 url: ""
 location: "NYC (import portfolio)"
 producer_count: 102
-updated: 2026-06-19
+updated: 2026-06-22
 ---
 
 # Down to Earth Wines (Panzer)

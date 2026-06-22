@@ -5,10 +5,10 @@ slug: skurnik
 producer_count: 31
 focus: ['Burgundy', 'Jura', 'Mendoza', 'Mosel', 'Nahe', 'Patagonia', 'Piedmont', 'Provence', 'Rhône']
 notable_producers: ['Clemens Busch', 'Knebel', 'Weiser-Künstler', 'Immich-Batterieberg', 'Stéphane Tissot']
-updated: 2026-06-19
-tags: ['grower', 'grower-champagne']
-url: "https://www.skurnik.com"
+updated: 2026-06-22
 _source: wiki/_resources.md
+url: "https://www.skurnik.com"
+tags: ['grower', 'grower-champagne']
 ---
 # Skurnik
 

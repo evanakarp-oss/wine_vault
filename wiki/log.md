@@ -774,3 +774,18 @@ verified; fixtures + test snapshots removed and producer pages restored. Scrape 
 unvalidated against live HTML (selectors will need one tune); manual-paste path works today. Docs
 updated (CLAUDE.md source-roles + scripts + follow-up; `raw/vinolist/README.md` status → wired).
 No restaurants ingested yet. Gates green.
+
+## [2026-06-22] ingest | create Valentini producer page (auction focus target)
+
+_Trebbiano focus follow-up._
+
+Created `wiki/producers/valentini.md` after Evan flagged Valentini (Abruzzo) as a
+going-forward focus following the 261W auction screen — Lot 24441, 2013 Trebbiano
+d'Abruzzo ($130–170, "Italy's greatest white, aged"). Seeded from the one CSW
+source on file (the Aug 2025 "Private Collection: Spain and Valentini" vertical
+offer, 1982–2002) plus the auction sighting. Frontmatter `farming: []` left blank
+(famously hands-off but no certification — not overclaimed); tagged
+`watchlist`/`auction-target`. Regenerated region rollups (Abruzzo: 1→2 producers)
+and `wiki/index.md`. Lint 0. Acquisition path is auction + private-collection
+verticals, not standing retail — focus = watching catalogs/offers. Open: no
+Vinous/Wine Advocate clippings on file yet.
