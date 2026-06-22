@@ -9,7 +9,7 @@ generator: scripts/build_views_index.py
 
 Catalog of every keeper-answer page in `wiki/_views/` — the single read surface for saved analyses (gap analysis, drink-window shortlists, cross-retailer comparisons, critic overlays). The main `wiki/index.md` skips this directory, so this is where views are cataloged.
 
-**80 views.**
+**81 views.**
 
 | Page | Question / title | Updated |
 |---|---|---|
@@ -20,6 +20,7 @@ Catalog of every keeper-answer page in `wiki/_views/` — the single read surfac
 | [[auction_261w_week24_cab_screen_2026_06|auction_261w_week24_cab_screen_2026_06]] | Auction catalog 261W Week 24 screened against the definitive Cabernet target list | 2026-06-10 |
 | [[auction_261w_week25_cab_screen_2026_06|auction_261w_week25_cab_screen_2026_06]] | Auction catalog 261W Week 25 — California Cabernet section screened against the definitive Cabernet target list | 2026-06-17 |
 | [[auction_261w_week25_top_picks_2026_06|auction_261w_week25_top_picks_2026_06]] | Auction catalog 261W Week 25 (refreshed catalog, 1,977 lots, Delaware + Hong Kong) — most interesting lots filtered through Evan's curation taste. | 2026-06-17 |
+| [[auction_265DE_wheelhouse_2026_06|auction_265DE_wheelhouse_2026_06]] | What's in my wheelhouse to bid on in auction catalog 265DE (1,453 lots)? | 2026-06-22 |
 | [[banville_at_raeders|banville_at_raeders]] | Banville × Raeder's — Inventory Cross-Check | 2026-05-21 |
 | [[blachon_margiriat_fass_french_2026_06|blachon_margiriat_fass_french_2026_06]] | Does Fass like the Sébastien Blachon Saint-Joseph 'Margiriat', and what do French-language sources say? | 2026-06-18 |
 | [[bnp_at_raeders|bnp_at_raeders]] | BNP × Raeder's — Inventory Cross-Check | 2026-05-21 |
