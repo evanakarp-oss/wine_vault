@@ -44,8 +44,8 @@ Drive auto-mirrors on every push**).
 |---|---|---|
 | **CSW** | editorial teacher | drives page creation, summaries, region context |
 | **Raeders** | inventory only | section update on existing pages; doesn't justify new pages alone |
-| **Vinous** | critic depth | `## Vinous Reviews` on producer pages (PENDING — Web Clipper) |
-| **Wine Advocate (Kelley)** | focused critic | `## Wine Advocate (Kelley)` (PENDING — Web Clipper) |
+| **Vinous** | critic depth | `## Vinous Reviews` on producer pages (PENDING — manual paste or Markdown clipper into `raw/clippings/vinous/`) |
+| **Wine Advocate (Kelley)** | focused critic | `## Wine Advocate (Kelley)` (PENDING — manual paste or Markdown clipper into `raw/clippings/wine_advocate/`) |
 | **Berserkers** | community pulse | `## Berserkers` body + `community.berserkers.threads.*` frontmatter — drives gap analysis + momentum signals |
 | **LPV** (La Passion du Vin) | French community pulse | `## LPV` body + `community.lpv.threads.*` frontmatter — French-region consensus (blind panels / producer fils / best-of polls). **Scaffolded** (`raw/lpv/`, schema, taxonomy); scraper + compiler TODO (site 403s the fetcher) |
 | **Vinolist NYC** | trade / somm-demand pulse | aggregator of ~65 NYC **restaurant** wine lists (vinolistnyc.com). Drives a restaurant-picking view + per-producer `community.vinolist.*` signals (list-count = popularity/prestige, price floor/median, momentum) + discovery triage. **Pipeline wired** (`raw/vinolist/`, schema, taxonomy, view, 4 scripts); parse/compile/rollups tested, scrape needs one local validation run (site 403s the fetcher + host egress-blocked). No restaurants ingested yet. |
@@ -70,8 +70,8 @@ thread JSON).
 
 **Query.** Read `wiki/index.md` first to shortlist candidates. Drill
 into producer / region / retailer pages to confirm. Apply the
-curation taste filters below before recommending. Cite by Obsidian
-wikilink (`[[slug|Display]]`). When the answer is worth keeping (a
+curation taste filters below before recommending. Cite by wikilink
+(`[[slug|Display]]` — the vault's internal linking convention). When the answer is worth keeping (a
 comparison, a gap analysis, a drink-window shortlist), file it back
 as a new page in `wiki/_views/` or as a section on the relevant
 rollup — don't let analysis disappear into chat. `/ask-cellar
@@ -152,7 +152,6 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
 
 - **Catena Zapata** is in the cellar (2 bottles) but has no producer page — gap. Either create the page from the cellar entries, or accept that some cellar bottles don't need wiki pages (Catena is generic-tier per the existing taste filter).
 - **Roscioli 152 missing producer pages** — the 2026-05-19 `_PATCH_roscioli_2026-05.md` claimed 152 new Italian producer pages had been uploaded to Drive. Audit (2026-05-26) shows they never made it. The importer rollup page `wiki/importers/Roscioli_Wine_Club.md` lists all 156 names with profile URLs and sub-regions — re-run the original Roscioli scraper (location unknown — likely a notebook Evan ran locally) OR seed the 152 pages from the rollup data + scraping the live `roscioliwineclub.com/<slug>/` URLs.
-- **One Drive duplicate left**: `wiki/wiki/`. `_drive_sync/wine_wiki_v2/` and `wine_vault_fromdocuments/` are approved-for-delete (2026-05-26). Before deleting `wiki/wiki/`, run `python scripts/audit_drive_duplicates.py /path/to/Drive/wine_vault/wiki/wiki` — exits non-zero if any producer slug lives only on Drive.
 - **Raeders candidates** — `scripts/audit_raeders_candidates.py` produces a triage table at `build/raeders_candidates.md` (1,541 producers not yet in vault). Triage with Evan's curation taste; onboard the keepers via `compile_raeders_creates_v2.py`.
 - **Henderson Selections candidates** — new importer ingested 2026-06-19 (Austin TX, low-intervention; `wiki/importers/Henderson_Selections.md`, roster in `raw/henderson/producers_2026-06-19.md`). 3 roster names already in the vault are cross-linked; the rest are uncreated. The importer page carries a curated onboarding shortlist mapped to Evan's taste (grower Champagne, terroir Beaujolais, Burgundy/Loire growers, Piedmont classicists, Skerk, Sonoma-Coast California). Onboard the keepers via per-producer LLM passes (verify farming + critic coverage; don't bulk-create).
 - **Berserkers threads** — pipeline wired (2026-05), `top10_in_cellar` is the only ingested thread. To add another: scrape → parse → compile, see `raw/berserkers/README.md`.
@@ -160,12 +159,13 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
 - **Vinolist NYC source** — scaffolded 2026-06-21 (`raw/vinolist/` README + data contract + restaurant registry, `community.vinolist` schema, taxonomy namespace; restaurant-picking view at `wiki/_views/nyc_restaurant_wine_lists_2026_06.md` with a v0 producer-sighting seed). Serves three jobs: restaurant database, producer tracking (list-count = popularity/prestige, price floor/median, momentum via dated `snapshots/`), discovery triage. **Pipeline now written + tested** (2026-06-21): `scrape/parse/compile/build_vinolist*`. **What's left:** (1) run `scrape_vinolist.py` locally against one real restaurant URL (it's egress-blocked here) and tune `extract_wines()` selectors against the live HTML — or just use the `parse_vinolist.py` manual-paste path, which is tested and works today; (2) ingest the first restaurants from `raw/vinolist/restaurants/index.md` (grower-Champagne + grower-French priority), then `compile_vinolist_signals.py --apply` + `build_vinolist_rollups.py --apply` + `build_views_index.py`. Onboard the discovery-seed producers via per-producer LLM passes — grower Champagne is the richest vein (Selosse/Agrapart/Suenen/Dhondt-Grellet/La Rogerie/Vouette & Sorbée/Tarlant/Cordeuil).
 - **JSX widget rewire** — `scripts/build_widget_json.py` now emits `build/widget_data.json` from the vault. The widget JSX file (`dte_wines_1.jsx`) lives outside this repo; update it to `fetch('/build/widget_data.json')` instead of the hardcoded arrays.
 
-## Closed follow-ups (2026-05-26)
+## Closed follow-ups
 
 - ✅ **/ask-cellar skill** — committed in-repo at `.claude/skills/ask-cellar/SKILL.md`, points at `wine_vault/wiki/` + `cellar/` + `raw/`. Drive paths deprecated.
-- ✅ **Vinous + Wine Advocate (Kelley) ingest** — wired. Drop Obsidian Web Clipper output into `raw/clippings/vinous/` or `raw/clippings/wine_advocate/`, run `python scripts/compile_clippings.py <source> --apply`. Schema sections `## Vinous Reviews` and `## Wine Advocate (Kelley)` are in `_SCHEMA.md`.
+- ✅ **Vinous + Wine Advocate (Kelley) ingest** — wired. Drop any Markdown-formatted clipping (manual paste, browser extension, etc.) into `raw/clippings/vinous/` or `raw/clippings/wine_advocate/`, run `python scripts/compile_clippings.py <source> --apply`. Schema sections `## Vinous Reviews` and `## Wine Advocate (Kelley)` are in `_SCHEMA.md`.
 - ✅ **Lint** — 60 (then 66) → 0. See architecture-fix entry below.
 - ✅ **Importer / retailer reference** — `wiki/_resources.md` (flat ~190-entry list) migrated to one-per-file pages: 66 importer pages + 129 retailer pages. `build_rollups.py` now preserves hand-edited frontmatter + prose (regenerates only inside `<!-- BEGIN AUTO-GENERATED -->` markers).
+- ✅ **Drive duplicate cleanup** — `_drive_sync/wine_wiki_v2/` and `wine_vault_fromdocuments/` deleted. `wiki/wiki/` Drive duplicate is low-priority since git is now the primary read surface; Drive mirror is push-only.
 
 ## Mobile access
 
