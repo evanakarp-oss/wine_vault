@@ -7,7 +7,7 @@ Drive auto-mirrors on every push**).
 
 ## Three use cases this serves
 
-1. **Study** — browse `wiki/` in Obsidian; producer/region pages teach
+1. **Study** — browse `wiki/` in git (GitHub web UI or local clone); producer/region pages teach
 2. **Q&A** — `/ask-cellar` (or any plain question to Claude) against the vault
 3. **Cellar planning** — gap analysis, drink-window urgency, what's owned vs targeted
 
@@ -171,11 +171,11 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
 
 See `WORKFLOW.md` for the full setup. Quick version:
 
-- **Editing on mobile** — Claude Code (this session) commits to git → `drive_mirror` workflow auto-pushes to Drive within ~1 minute. OR install Working Copy iOS, clone into iCloud, point Obsidian Mobile at the iCloud-synced git clone.
-- **Reading on mobile** — Drive's iOS app reads the auto-mirrored copy. Obsidian Mobile reads the iCloud-synced clone.
+- **Editing on mobile** — Claude Code (this session) commits to git → `drive_mirror` workflow auto-pushes to Drive within ~1 minute.
+- **Reading on mobile** — GitHub web UI or a local git clone. Drive auto-mirrors on every push but is not the primary read surface.
 - **Q&A on mobile** — claude.ai Project with the Drive connector pointed at the mirror.
 
-**Anti-pattern**: editing files directly in Drive (web UI, Obsidian-on-Drive, chat upload). The mirror is push-only — your Drive edits will be overwritten on the next push to main. Edit in git, always.
+**Anti-pattern**: editing files directly in Drive (web UI, chat upload). The mirror is push-only — your Drive edits will be overwritten on the next push to main. Edit in git, always.
 
 ## Architecture-fix history
 
