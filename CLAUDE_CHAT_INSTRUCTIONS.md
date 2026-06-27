@@ -27,7 +27,7 @@ cellar/                 ← ~294 cuvée-vintage files, ~631 bottles owned
 2. **Check `wiki/_views/_index.md`** — if a saved analysis already answers the question, link to it instead of re-deriving it.
 3. **Drill into producer pages** — frontmatter has farming, importer, retailer signals; prose has CSW editorial, Berserkers community signals, Vinous/Wine Advocate reviews where present.
 4. **Cross-reference region rollups** — for "who should I buy in X region" questions, read the region page after shortlisting producers.
-5. **Cite with Obsidian wikilinks**: `[[slug|Display Name]]`. Producer slug = lowercase_underscored (e.g. `[[domaine_leflaive|Domaine Leflaive]]`).
+5. **Cite with wikilinks**: `[[slug|Display Name]]`. Producer slug = lowercase_underscored (e.g. `[[domaine_leflaive|Domaine Leflaive]]`).
 
 ---
 
