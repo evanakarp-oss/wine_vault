@@ -843,3 +843,12 @@ name + accent/prefix-insensitive normalized fallback). `build_wb_search_page.py`
 page wins) and shows a **Country** column beside Region. Coverage: 99% of the top-125 by mentions,
 97% of ≥5-mention producers, 82% of ≥2; the obscure single-mention tail + parse noise stays blank by
 design. Regenerated both HTML views. Edit the TSV + re-run `--apply` to extend.
+
+## [2026-07-01] query | USA producers in the WB top10 thread not yet in the vault (discovery gap)
+Answered "which USA producers have I not encountered?" — thread producers with a US region, no
+`wiki/producers/` page, and no cellar bottle. 337 total, 129 with ≥3 mentions. Filed
+`wiki/_views/wb_usa_not_in_vault_2026_07.md`: curated through Evan's California axis (sense of place +
+tension; skip cult-hedonist). Standouts flagged — reference-set gaps (Dunn, Dalla Valle, Mount Eden,
+Mayacamas, Togni, Spottswoode), rising Oregon (Goodfellow, Walter Scott, Kelley Fox, Arterberry
+Maresh), Sonoma-Coast restraint (Rhys, Peay, Dehlinger, Ultramarine, Halcon, Desire Lines) — vs the
+opulent tier to skip (SQN, Schrader, Realm, Aubert, Bevan, Abreu, Maybach…). Full ranked table included.

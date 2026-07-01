@@ -9,7 +9,7 @@ generator: scripts/build_views_index.py
 
 Catalog of every keeper-answer page in `wiki/_views/` — the single read surface for saved analyses (gap analysis, drink-window shortlists, cross-retailer comparisons, critic overlays). The main `wiki/index.md` skips this directory, so this is where views are cataloged.
 
-**85 views.**
+**86 views.**
 
 | Page | Question / title | Updated |
 |---|---|---|
@@ -91,6 +91,7 @@ Catalog of every keeper-answer page in `wiki/_views/` — the single read surfac
 | [[wb_top100_csw_wk_matrix_2026_05|wb_top100_csw_wk_matrix_2026_05]] | Wine Berserkers 'Top 10 in your cellar' top 100, cross-referenced with CSW coverage and William Kelley signal | 2026-05-26 |
 | [[wb_top10_in_cellar_momentum|wb_top10_in_cellar_momentum]] | WB Momentum 2023+ — Top 10 Producers in your cellar? | 2026-07-01 |
 | [[wb_top10_in_cellar_top_100|wb_top10_in_cellar_top_100]] | WB Top 100 — Top 10 Producers in your cellar? | 2026-07-01 |
+| [[wb_usa_not_in_vault_2026_07|wb_usa_not_in_vault_2026_07]] | USA producers Berserkers ranks that I haven't encountered | 2026-07-01 |
 | [[wildman_at_raeders|wildman_at_raeders]] | Wildman × Raeder's — Inventory Cross-Check | 2026-05-21 |
 | [[wilson_daniels_at_raeders|wilson_daniels_at_raeders]] | Wilson Daniels × Raeder's — Inventory Cross-Check | 2026-05-21 |
 | [[wine_source_at_raeders|wine_source_at_raeders]] | Wine Source × Raeder's — Inventory Cross-Check (partial) | 2026-05-21 |
