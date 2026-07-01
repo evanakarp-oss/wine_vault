@@ -32,6 +32,17 @@ retailers:
     first_year: 2016
     last_year: 2019
     latest_post: https://www.wineberserkers.com/t/tn-1990-andre-brunel-chateauneuf-du-pape-les-cailloux/156209/6
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 715
+        mentions: 1
+        mentions_2013_2014: 1
+        mentions_2021_2022: 0
+        mentions_2023_2026: 0
+        momentum_score_2023: 0.0
+        last_updated: 2026-07-01
 tags: []
 _sources:
 - dte_jsx:dte_wines_1.jsx
@@ -57,6 +68,32 @@ _Seeded from Down to Earth (Panzer) portfolio. Not yet covered in CSW archive sw
 *2017-03*
 
 > 3/14/17 - These wines come from our friend T, who had a very simple answer when I asked why he was selling: “I have too much wine!” He started drinking Chateauneuf-du-Pape when he was fairly new to wine (not to date him, but that was a long time ago, and he…
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 616** of 1492 producers — **1 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 1 |
+| 2021–2022 | 0 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 715** of 1492 producers — **1 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 1 |
+| 2021–2022 | 0 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
 
 ## Berserkers (William Kelley)
 

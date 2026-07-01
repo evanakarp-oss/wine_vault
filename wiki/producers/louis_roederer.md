@@ -35,6 +35,17 @@ retailers:
     first_year: 0
     last_year: 0
     latest_post: ''
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 94
+        mentions: 9
+        mentions_2013_2014: 2
+        mentions_2021_2022: 6
+        mentions_2023_2026: 1
+        momentum_score_2023: 0.5
+        last_updated: 2026-07-01
 tags:
 - aged
 - biodynamic
@@ -63,6 +74,20 @@ _Family-owned grande maison, certified biodynamic across estate vineyards. Crist
 ## CSW Write-ups
 
 _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles._
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 94** of 1492 producers — **9 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 2 |
+| 2021–2022 | 6 |
+| 2023–2026 | 1 |
+
+**Momentum 2023+:** 0.5× (steady).
 
 ## Down to Earth Wines (Panzer)
 

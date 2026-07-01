@@ -35,6 +35,17 @@ retailers:
     first_year: 2017
     last_year: 2018
     latest_post: https://www.wineberserkers.com/t/tn-some-new-calif-rhones-long-boring/142712/21
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 1008
+        mentions: 1
+        mentions_2013_2014: 1
+        mentions_2021_2022: 0
+        mentions_2023_2026: 0
+        momentum_score_2023: 0.0
+        last_updated: 2026-07-01
 tags: []
 _sources:
 - short:short__Arnot-Roberts.md
@@ -107,6 +118,32 @@ berserkers_kelley_body:
 ## CSW Cellar Note
 
 > ocative of how California wines were made several decades ago. Across their portfolio, the wines are elegantly balanced, texturally beautiful, and truly reflect
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 128** of 1492 producers — **6 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 4 |
+| 2021–2022 | 2 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 1008** of 1492 producers — **1 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 1 |
+| 2021–2022 | 0 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
 
 ## Berserkers (William Kelley)
 

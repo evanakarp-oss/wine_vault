@@ -36,6 +36,17 @@ retailers:
     first_year: 2020
     last_year: 2020
     latest_post: https://www.wineberserkers.com/t/high-alcohol-wines-and-aging/157303/177
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 1327
+        mentions: 1
+        mentions_2013_2014: 0
+        mentions_2021_2022: 0
+        mentions_2023_2026: 1
+        momentum_score_2023: inf
+        last_updated: 2026-07-01
 tags:
 - aged-only
 - bordeaux
@@ -64,6 +75,20 @@ _Pauillac 1st-growth. Tracked here for aged drink-now bottles only — current v
 *2015-05*
 
 > *﻿5/13/15 -* *(Who is the monkey riding that giant fish? Come ask Mike the meaning behind his cryptic label.)* We are long time admirers of Michael Dashe. He’s a sweet tempered winemaker whose excitement about fermentation and all things wine is incredibly…
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 1327** of 1492 producers — **1 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 0 |
+| 2021–2022 | 0 |
+| 2023–2026 | 1 |
+
+**Momentum 2023+:** new entrant (no earlier-era baseline).
 
 ## Berserkers (William Kelley)
 

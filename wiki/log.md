@@ -790,3 +790,27 @@ now correctly shows Burlotto (rank 52, 18 mentions, 2.0× momentum, 1 btl). Era-
 fields remain null for most producers (spreadsheet seed only carries totals; a fresh thread scrape
 would repopulate them, but WB 403s the fetcher). Regenerated views + wiki indexes; lint 0, both
 `--check` gates green.
+
+## [2026-07-01] ingest | Full-thread Berserkers top10_in_cellar parse (logged-in-browser fetch) — real era splits + momentum
+Upgraded the `top10_in_cellar` thread from the top-100 spreadsheet seed (era splits all null) to a
+full parse of the actual thread. Fetched via `scripts/wb_browser_fetch.js` / bookmarklet from a
+logged-in browser (WB 403s the Python scraper); 620 posts landed as
+`raw/berserkers/threads/top10_in_cellar.discourse.json`. `parse_wb_thread.py --merge-with` the seed
+→ 429 producer-list posts, **1492 unique producers, 4297 mentions**, with real per-era counts +
+2023+ momentum. Coverage caveat: the fetched stream runs 2013-02→2024-03 (no 2025-26 tail), so the
+2023-2026 column is undercounted — noted in the thread JSON; re-grab to extend.
+
+Fixed three `parse_wb_thread.py` defects found on real data (the seed had masked them): (1) numbered
+top-10 lists (`1. Bedrock`) were read as prose — now the leading enumerator is stripped before the
+sentence check; (2) Discourse `cooked` HTML lists lost their line breaks — block/`<br>` tags now
+become newlines; (3) **BBCode `[quote=…]…[/quote]` blocks were tallied**, ranking `[/quote]` #1 with
+156 mentions and double-counting quoted lists — quotes are now stripped before tallying (top-20
+subsequently snaps to the expected Bedrock/Rhys/Ridge/Rivers-Marie shape). Also skip colon-terminated
+section headers ("Champagne:", "My ten:").
+
+`compile_wb_signals.py --apply`: **102 producers now match** vault pages (was 14), 84 pages updated
+with real `community.berserkers` frontmatter + `## Berserkers` sections. `build_wb_rollups.py --apply`
+regenerated the three views: the Cellar×WB overlap now shows **5 owned producers** (Burlotto, Roagna,
+Gruaud Larose, Altesino, Agrapart) and the momentum board surfaces real risers (Lopez de Heredia,
+Burlotto, Kelley Fox 5-6×). Fixed the rollup glob to skip `*.discourse.json` scrape dumps. Restored
+CRLF on 44 pages the compiler flipped. Regenerated views + wiki indexes; lint 0, `--check` green.

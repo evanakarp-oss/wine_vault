@@ -32,6 +32,17 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 1208
+        mentions: 1
+        mentions_2013_2014: 0
+        mentions_2021_2022: 1
+        mentions_2023_2026: 0
+        momentum_score_2023: 0.0
+        last_updated: 2026-07-01
 tags:
 - rhône
 - cote-rotie
@@ -61,6 +72,32 @@ deep dive ([[../_views/wb_northern_rhone_tour_2026_06|view]]).
 *2006-11*
 
 > 11/12/2006 - We have some of the very best Northern Rhône wines coming in – and you don’t have to spend hundreds for Guigal… Well, anyway we think that Allemand and Jamet make some of the very best wines. Both Domaines have a bit of cult status – Allemand…
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 137** of 1492 producers — **6 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 3 |
+| 2021–2022 | 1 |
+| 2023–2026 | 2 |
+
+**Momentum 2023+:** 0.67× (steady).
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 1208** of 1492 producers — **1 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 0 |
+| 2021–2022 | 1 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
 
 ## Cellar
 

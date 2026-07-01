@@ -35,6 +35,17 @@ retailers:
     first_year: 2016
     last_year: 2021
     latest_post: https://www.wineberserkers.com/t/wa-s-2010-bordeaux-retrospective/175026/21
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 120
+        mentions: 7
+        mentions_2013_2014: 0
+        mentions_2021_2022: 4
+        mentions_2023_2026: 3
+        momentum_score_2023: 0.75
+        last_updated: 2026-07-01
 tags: []
 _sources:
 - short:short__Domaine_Levet.md
@@ -88,6 +99,20 @@ berserkers_kelley_body:
 ## CSW Cellar Note
 
 > to keep you warm over the next few months, or to cellar for winters to come… We lead off with a superb wine and a sensational value, the 2021 Dumien-Serrette Co
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 120** of 1492 producers — **7 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 0 |
+| 2021–2022 | 4 |
+| 2023–2026 | 3 |
+
+**Momentum 2023+:** 0.75× (steady).
 
 ## Berserkers (William Kelley)
 

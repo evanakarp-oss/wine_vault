@@ -36,6 +36,17 @@ retailers:
     first_year: 0
     last_year: 0
     latest_post: ''
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 284
+        mentions: 3
+        mentions_2013_2014: 1
+        mentions_2021_2022: 1
+        mentions_2023_2026: 1
+        momentum_score_2023: 1.0
+        last_updated: 2026-07-01
 tags: []
 _sources:
 - short:short__Weiser-K├╝nstler.md
@@ -128,6 +139,20 @@ _sources:
 ## CSW Cellar Note
 
 > found their town's posts to be sub-par! Over the decades, however, all of these local specialists have disappeared, the last one closing up shop sometime in the
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 284** of 1492 producers — **3 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 1 |
+| 2021–2022 | 1 |
+| 2023–2026 | 1 |
+
+**Momentum 2023+:** 1.0× (steady).
 
 ## Down to Earth Wines (Panzer)
 

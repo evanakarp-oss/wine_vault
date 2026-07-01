@@ -37,12 +37,12 @@ community:
   berserkers:
     threads:
       top10_in_cellar:
-        rank: 65
-        mentions: 16
+        rank: 1105
+        mentions: 1
         mentions_2013_2014: 0
-        mentions_2021_2022: null
-        mentions_2023_2026: null
-        momentum_score_2023: 7.5
+        mentions_2021_2022: 1
+        mentions_2023_2026: 0
+        momentum_score_2023: 0.0
         last_updated: 2026-07-01
 tags:
 - california
@@ -94,17 +94,29 @@ _Not covered by Chambers Street as of this writing._
 
 ## Berserkers
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
 
-**Rank 65** of 1115 producers — **16 mentions** across 1089 posts.
+**Rank 225** of 1492 producers — **4 mentions** across 620 posts.
 
 | Era | Mentions |
 |---|---|
 | 2013–2014 | 0 |
-| 2021–2022 | — |
-| 2023–2026 | — |
+| 2021–2022 | 2 |
+| 2023–2026 | 2 |
 
-**Momentum 2023+:** 7.5× (strongly accelerating).
+**Momentum 2023+:** 1.0× (steady).
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 1105** of 1492 producers — **1 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 0 |
+| 2021–2022 | 1 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
 
 ## Vinous Reviews
 

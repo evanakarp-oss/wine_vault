@@ -36,6 +36,17 @@ retailers:
     first_year: 0
     last_year: 0
     latest_post: ''
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 496
+        mentions: 2
+        mentions_2013_2014: 0
+        mentions_2021_2022: 1
+        mentions_2023_2026: 1
+        momentum_score_2023: 1.0
+        last_updated: 2026-07-01
 tags: []
 _sources:
 - short:short__Franck_Balthazar.md
@@ -73,6 +84,20 @@ _sources:
 ## CSW Cellar Note
 
 > erest and reward drinkers over the next couple of decades at least. Thierry Allemand is never a fan of the large scale, solar vintages, so gave this enthusiasti
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 496** of 1492 producers — **2 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 0 |
+| 2021–2022 | 1 |
+| 2023–2026 | 1 |
+
+**Momentum 2023+:** 1.0× (steady).
 
 ## Down to Earth Wines (Panzer)
 

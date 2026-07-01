@@ -35,6 +35,17 @@ retailers:
     first_year: 2022
     last_year: 2023
     latest_post: https://www.wineberserkers.com/t/bordeaux-2022/299143/837
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 712
+        mentions: 1
+        mentions_2013_2014: 1
+        mentions_2021_2022: 0
+        mentions_2023_2026: 0
+        momentum_score_2023: 0.0
+        last_updated: 2026-07-01
 tags:
 - bordeaux
 - haut-medoc
@@ -65,6 +76,20 @@ _Haut-Médoc 5th-growth; classic WK 'undercovered Bordeaux' shoutout. Value clar
 *undated*
 
 > We recently acquired a collection of aged and more recent Bordeaux wines. Today's offer starts off with different chateaus, starting with Boyd Cantenac, Cantemerle, and Calon Segur to name a few! ## >>> View Wines Here <<<
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 712** of 1492 producers — **1 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 1 |
+| 2021–2022 | 0 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
 
 ## Berserkers (William Kelley)
 

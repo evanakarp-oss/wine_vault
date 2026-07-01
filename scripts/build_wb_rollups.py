@@ -411,7 +411,9 @@ def main() -> int:
     if args.thread:
         sources = [THREADS_DIR / f"{args.thread}.json"]
     else:
-        sources = sorted(THREADS_DIR.glob("*.json"))
+        # Only tally JSONs — skip raw scrape dumps (<slug>.discourse.json).
+        sources = sorted(p for p in THREADS_DIR.glob("*.json")
+                         if not p.name.endswith(".discourse.json"))
     if not sources:
         print("No thread JSONs found.", file=sys.stderr)
         return 2

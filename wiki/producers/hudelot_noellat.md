@@ -36,12 +36,12 @@ community:
   berserkers:
     threads:
       top10_in_cellar:
-        rank: 25
-        mentions: 26
-        mentions_2013_2014: null
-        mentions_2021_2022: null
-        mentions_2023_2026: null
-        momentum_score_2023: null
+        rank: 49
+        mentions: 15
+        mentions_2013_2014: 8
+        mentions_2021_2022: 3
+        mentions_2023_2026: 4
+        momentum_score_2023: 0.5
         last_updated: 2026-07-01
 tags: []
 _sources:
@@ -79,9 +79,17 @@ _Seeded from Down to Earth (Panzer) portfolio. Not yet covered in CSW archive sw
 
 ## Berserkers
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
 
-**Rank 25** of 1115 producers — **26 mentions** across 1089 posts.
+**Rank 49** of 1492 producers — **15 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 8 |
+| 2021–2022 | 3 |
+| 2023–2026 | 4 |
+
+**Momentum 2023+:** 0.5× (steady).
 
 ## Berserkers (William Kelley)
 

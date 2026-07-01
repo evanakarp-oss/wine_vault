@@ -35,6 +35,17 @@ retailers:
     first_year: 0
     last_year: 0
     latest_post: ''
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 707
+        mentions: 1
+        mentions_2013_2014: 1
+        mentions_2021_2022: 0
+        mentions_2023_2026: 0
+        momentum_score_2023: 0.0
+        last_updated: 2026-07-01
 tags: []
 _sources:
 - dte_jsx:dte_wines_1.jsx
@@ -64,6 +75,20 @@ _Seeded from Down to Earth (Panzer) portfolio. Not yet covered in CSW archive sw
 *2017-03*
 
 > 3/5/17 - 2015 has been touted as the vintage of the century, or the best since ____ (fill in the blank) and indeed it's a vintage in France that produced excellent wines in many regions. There is a great deal of variation, of course, having to do with the…
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 707** of 1492 producers — **1 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 1 |
+| 2021–2022 | 0 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
 
 ## Down to Earth Wines (Panzer)
 

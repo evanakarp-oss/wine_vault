@@ -34,6 +34,17 @@ retailers:
     first_year: 2016
     last_year: 2023
     latest_post: https://www.wineberserkers.com/t/upcoming-cristal-releases/298865/22
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 158
+        mentions: 5
+        mentions_2013_2014: 3
+        mentions_2021_2022: 0
+        mentions_2023_2026: 2
+        momentum_score_2023: 0.67
+        last_updated: 2026-07-01
 tags:
 - champagne
 - rd
@@ -90,6 +101,20 @@ _Pinot-driven Aÿ house. Grande Année (vintage) and R.D. (late-disgorged) are t
 *undated*
 
 > [Vigneron Fabrice Gass opening a bottle of Cuvée Speciale in one of the prettiest spots in Damery.] While there are a multitude of fascinating growers in Champagne (and quite a few characters), one of our absolute favorites is the singular Fabrice Gass from…
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 158** of 1492 producers — **5 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 3 |
+| 2021–2022 | 0 |
+| 2023–2026 | 2 |
+
+**Momentum 2023+:** 0.67× (steady).
 
 ## Berserkers (William Kelley)
 

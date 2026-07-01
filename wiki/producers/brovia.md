@@ -38,12 +38,12 @@ community:
   berserkers:
     threads:
       top10_in_cellar:
-        rank: 89
-        mentions: 13
-        mentions_2013_2014: null
-        mentions_2021_2022: null
-        mentions_2023_2026: null
-        momentum_score_2023: null
+        rank: 61
+        mentions: 14
+        mentions_2013_2014: 8
+        mentions_2021_2022: 5
+        mentions_2023_2026: 1
+        momentum_score_2023: 0.12
         last_updated: 2026-07-01
 tags: []
 _sources:
@@ -125,9 +125,17 @@ _sources:
 
 ## Berserkers
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
 
-**Rank 89** of 1115 producers — **13 mentions** across 1089 posts.
+**Rank 61** of 1492 producers — **14 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 8 |
+| 2021–2022 | 5 |
+| 2023–2026 | 1 |
+
+**Momentum 2023+:** 0.12× (fading).
 
 ## Down to Earth Wines (Panzer)
 

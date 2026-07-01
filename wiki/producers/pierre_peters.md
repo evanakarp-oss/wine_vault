@@ -36,6 +36,17 @@ retailers:
     first_year: 2016
     last_year: 2022
     latest_post: https://www.wineberserkers.com/t/champagne-vintage-discussion/178174/10
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 573
+        mentions: 1
+        mentions_2013_2014: 1
+        mentions_2021_2022: 0
+        mentions_2023_2026: 0
+        momentum_score_2023: 0.0
+        last_updated: 2026-07-01
 tags:
 - blanc-de-blancs
 - champagne
@@ -73,6 +84,32 @@ _Le Mesnil-sur-Oger grower, all Chardonnay. WK-celebrated grower champagne; Les 
 *2007-01*
 
 > 1/8/2007 - “Champagne’s cult-grower number one”, says Richard Juhlin, in his remarkable book “4000 Champagnes”. Selosse’s cult status has been exacerbated in the US by the near total absence of his wines – it seems that no importer can persuade him to sign-up…
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 459** of 1492 producers — **2 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 0 |
+| 2021–2022 | 2 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 573** of 1492 producers — **1 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 1 |
+| 2021–2022 | 0 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
 
 ## Berserkers (William Kelley)
 

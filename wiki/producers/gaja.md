@@ -30,6 +30,17 @@ retailers:
     price_max: 1199.99
   fass:
     in_portfolio: false
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 202
+        mentions: 4
+        mentions_2013_2014: 4
+        mentions_2021_2022: 0
+        mentions_2023_2026: 0
+        momentum_score_2023: 0.0
+        last_updated: 2026-07-01
 tags: ['nebbiolo', 'piedmont', 'icon']
 _sources: ["raeders_compile_curated:2026-04-25"]
 ---
@@ -41,6 +52,20 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 ## CSW Write-ups
 
 _Not yet covered in CSW archive sweep._
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 202** of 1492 producers — **4 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 4 |
+| 2021–2022 | 0 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
 
 ## Down to Earth Wines (Panzer)
 

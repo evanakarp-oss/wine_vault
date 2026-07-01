@@ -37,6 +37,17 @@ retailers:
     first_year: 2015
     last_year: 2023
     latest_post: https://www.wineberserkers.com/t/new-william-kelley-mega-article-on-bordeaux-today/298476/292
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 842
+        mentions: 1
+        mentions_2013_2014: 1
+        mentions_2021_2022: 0
+        mentions_2023_2026: 0
+        momentum_score_2023: 0.0
+        last_updated: 2026-07-01
 tags:
 - biodynamic
 - bordeaux
@@ -66,6 +77,32 @@ _Margaux 3rd-growth (drinks at 1st-growth level). Certified biodynamic since 201
 *2025-04*
 
 > 4/12/2025 **We're not sure why the French term for organic is "biologique,"** but whatever you call it, recent data suggests that the percentage of organic certified vineyards in France is somewhere between 15 and 22 percent, depending on who you believe. In…
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 556** of 1492 producers — **1 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 1 |
+| 2021–2022 | 0 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 842** of 1492 producers — **1 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 1 |
+| 2021–2022 | 0 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
 
 ## Berserkers (William Kelley)
 

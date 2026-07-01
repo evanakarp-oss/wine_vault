@@ -30,6 +30,17 @@ retailers:
   fass:
     in_portfolio: false
 events: []
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 1252
+        mentions: 1
+        mentions_2013_2014: 0
+        mentions_2021_2022: 1
+        mentions_2023_2026: 0
+        momentum_score_2023: 0.0
+        last_updated: 2026-07-01
 tags:
 - california
 - napa
@@ -61,6 +72,20 @@ neighbors: heritage site, not hype.
 ## CSW Write-ups
 
 _Not covered by Chambers Street as of this writing._
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 1252** of 1492 producers — **1 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 0 |
+| 2021–2022 | 1 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
 
 ## Vinous Reviews
 

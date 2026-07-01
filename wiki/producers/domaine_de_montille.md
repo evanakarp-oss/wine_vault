@@ -36,6 +36,17 @@ retailers:
     first_year: 2018
     last_year: 2025
     latest_post: https://www.wineberserkers.com/t/the-last-great-vestige-of-value-in-red-burgundy-chassagne-rouge/330056/64
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 389
+        mentions: 2
+        mentions_2013_2014: 2
+        mentions_2021_2022: 0
+        mentions_2023_2026: 0
+        momentum_score_2023: 0.0
+        last_updated: 2026-07-01
 tags: []
 _sources:
 - short:short__Domaine_de_Montille.md
@@ -116,6 +127,32 @@ berserkers_kelley_body:
 ## CSW Cellar Note
 
 > ything. His wines were classically structured and built to age. By 1983, his son Etienne joined the domaine and the dedication in winemaking was clearly in his
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 184** of 1492 producers — **4 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 2 |
+| 2021–2022 | 2 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 389** of 1492 producers — **2 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 2 |
+| 2021–2022 | 0 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
 
 ## Berserkers (William Kelley)
 

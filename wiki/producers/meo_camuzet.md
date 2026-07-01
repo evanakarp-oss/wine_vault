@@ -31,6 +31,17 @@ retailers:
     price_max: 2499.99
   fass:
     in_portfolio: false
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 1203
+        mentions: 1
+        mentions_2013_2014: 0
+        mentions_2021_2022: 1
+        mentions_2023_2026: 0
+        momentum_score_2023: 0.0
+        last_updated: 2026-07-01
 tags: ['pinot-noir', 'burgundy']
 _sources: ["raeders_compile_curated:2026-04-25"]
 ---
@@ -45,6 +56,44 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 *2007-07*
 
 > *7/20/2007 -* Bruno Clavelier might not be the first person you think of when someone utters the magical name Vosne Romanee. Robert Arnoux, Domaine de la Romanee Conti, Grivot, Engel, Meo-Camuzet, Hudelot-Noellat are just some that come to a typical Burgundy…
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 310** of 1492 producers — **2 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 2 |
+| 2021–2022 | 0 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 719** of 1492 producers — **1 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 1 |
+| 2021–2022 | 0 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 1203** of 1492 producers — **1 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 0 |
+| 2021–2022 | 1 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
 
 ## Down to Earth Wines (Panzer)
 

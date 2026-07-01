@@ -39,12 +39,12 @@ community:
   berserkers:
     threads:
       top10_in_cellar:
-        rank: 16
-        mentions: 30
-        mentions_2013_2014: null
-        mentions_2021_2022: null
-        mentions_2023_2026: null
-        momentum_score_2023: null
+        rank: 13
+        mentions: 33
+        mentions_2013_2014: 15
+        mentions_2021_2022: 11
+        mentions_2023_2026: 7
+        momentum_score_2023: 0.47
         last_updated: 2026-07-01
 tags: []
 _sources:
@@ -286,9 +286,17 @@ _sources:
 
 ## Berserkers
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
 
-**Rank 16** of 1115 producers — **30 mentions** across 1089 posts.
+**Rank 13** of 1492 producers — **33 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 15 |
+| 2021–2022 | 11 |
+| 2023–2026 | 7 |
+
+**Momentum 2023+:** 0.47× (fading).
 
 ## Berserkers (William Kelley)
 

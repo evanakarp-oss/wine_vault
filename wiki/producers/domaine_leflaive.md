@@ -36,6 +36,17 @@ retailers:
     first_year: 2015
     last_year: 2022
     latest_post: https://www.wineberserkers.com/t/white-burgundy-15-years-on/176078/96
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 832
+        mentions: 1
+        mentions_2013_2014: 1
+        mentions_2021_2022: 0
+        mentions_2023_2026: 0
+        momentum_score_2023: 0.0
+        last_updated: 2026-07-01
 tags:
 - biodynamic
 - chardonnay
@@ -93,6 +104,32 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 *2008-05*
 
 > *﻿5/22/2008 -* The amount of high quality wine coming out of Germany right now is at an all time high especially considering that Germany only produces 1% of all the wine in the world. I still have not tasted every great producer . . .yet. So every now and…
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 95** of 1492 producers — **8 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 8 |
+| 2021–2022 | 0 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 832** of 1492 producers — **1 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 1 |
+| 2021–2022 | 0 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
 
 ## Berserkers (William Kelley)
 

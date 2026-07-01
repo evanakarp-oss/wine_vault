@@ -36,6 +36,17 @@ retailers:
     first_year: 2015
     last_year: 2021
     latest_post: https://www.wineberserkers.com/t/topic/171299/38
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 390
+        mentions: 2
+        mentions_2013_2014: 2
+        mentions_2021_2022: 0
+        mentions_2023_2026: 0
+        momentum_score_2023: 0.0
+        last_updated: 2026-07-01
 tags:
 - aged
 - bordeaux
@@ -67,6 +78,20 @@ _Saint-Julien 2nd-growth. 1980s-90s vintages drink beautifully today; modern era
 *undated*
 
 > {cke_protected}{C}%3C!%2D%2D%5Bendif%5D%E2%80%94%2D%2D%3E{cke_protected}{C}%3C!%2D%2D%E2%80%94%5Bif%20gte%20mso%209%5D%2D%2D%3E{cke_protected}{C}%3C!%2D%2D%5Bendif%5D%E2%80%94%2D%2D%3E{cke_protected}{C}%3C!%2D%2D%E2%80%94%5Bif%20!mso%5D%2D%2D%3E…
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 390** of 1492 producers — **2 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 2 |
+| 2021–2022 | 0 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
 
 ## Berserkers (William Kelley)
 

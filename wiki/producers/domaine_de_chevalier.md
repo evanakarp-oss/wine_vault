@@ -35,6 +35,17 @@ retailers:
     first_year: 2015
     last_year: 2022
     latest_post: https://www.wineberserkers.com/t/2019-bordeaux/176323/530
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 444
+        mentions: 2
+        mentions_2013_2014: 0
+        mentions_2021_2022: 2
+        mentions_2023_2026: 0
+        momentum_score_2023: 0.0
+        last_updated: 2026-07-01
 tags:
 - bordeaux
 - classed-growth
@@ -71,6 +82,20 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 *2013-10*
 
 > 10/15/2013 Chateau Musar occupies a unique place among great wine estates. Located in Lebanon's Bekaa Valley, one of the ancient world's most important agricultural regions, Musar produces natural wines from varieties well known elsewhere (Cabernet Sauvignon,…
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 444** of 1492 producers — **2 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 0 |
+| 2021–2022 | 2 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
 
 ## Berserkers (William Kelley)
 

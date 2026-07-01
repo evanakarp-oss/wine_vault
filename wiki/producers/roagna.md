@@ -46,6 +46,17 @@ roscioli:
     first_year: 2020
     last_year: 2020
     latest_post: https://www.wineberserkers.com/t/dream-5-wine-allocations/164315/36
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 187
+        mentions: 4
+        mentions_2013_2014: 2
+        mentions_2021_2022: 1
+        mentions_2023_2026: 1
+        momentum_score_2023: 0.5
+        last_updated: 2026-07-01
 tags: []
 _sources:
 - short:short__Roagna.md
@@ -123,6 +134,20 @@ _sources:
 ## CSW Cellar Note
 
 > freshness, and approachability. While the 2020's will age, they will not need as much time as 2019, finding elegance and silkier fruit in their youth. I want to
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 187** of 1492 producers — **4 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 2 |
+| 2021–2022 | 1 |
+| 2023–2026 | 1 |
+
+**Momentum 2023+:** 0.5× (steady).
 
 ## Berserkers (William Kelley)
 

@@ -34,6 +34,17 @@ retailers:
     first_year: 0
     last_year: 0
     latest_post: ''
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 537
+        mentions: 1
+        mentions_2013_2014: 1
+        mentions_2021_2022: 0
+        mentions_2023_2026: 0
+        momentum_score_2023: 0.0
+        last_updated: 2026-07-01
 tags: []
 _sources:
 - short:short__Lignier-Michelot.md
@@ -57,6 +68,20 @@ _sources:
 *2007-11*
 
 > *11/29/2007 -* What a year for Burgundy! With the great 2005 vintage upon us there have been a feast of fantastic vinous delights that have passed through CSW this year. With so many wines to choose that we have in stock and others that are long sold out this…
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 537** of 1492 producers — **1 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 1 |
+| 2021–2022 | 0 |
+| 2023–2026 | 0 |
+
+**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
 
 ## Down to Earth Wines (Panzer)
 

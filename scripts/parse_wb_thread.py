@@ -356,11 +356,36 @@ def parse_discourse_json(path: Path) -> list[Post]:
     for it in items:
         username = it.get("username") or it.get("name") or ""
         created = it.get("created_at") or it.get("date") or ""
-        # Prefer raw markdown if present, else strip HTML tags from cooked
-        text = it.get("raw") or strip_html(it.get("cooked", ""))
+        # Prefer raw markdown if present, else strip HTML tags from cooked.
+        # Quoted material (someone else's post being cited) is removed first so
+        # it isn't tallied under the quoter — otherwise `[/quote]` itself, and
+        # every producer in the quoted list, gets double-counted.
+        raw = it.get("raw")
+        if raw:
+            text = strip_bbcode_quotes(raw)
+        else:
+            text = strip_html(HTML_QUOTE_RE.sub("\n", it.get("cooked", "")))
         if username and text:
             posts.append(Post(username=username, created_at=str(created), text=text))
     return posts
+
+
+# Discourse quotes: BBCode `[quote=…]…[/quote]` in raw markdown, or an
+# `<aside class="quote">…</aside>` block in cooked HTML.
+BBCODE_QUOTE_RE = re.compile(r"\[quote\b[^\]]*\].*?\[/quote\]", re.DOTALL | re.IGNORECASE)
+ORPHAN_QUOTE_RE = re.compile(r"\[/?quote\b[^\]]*\]", re.IGNORECASE)
+HTML_QUOTE_RE = re.compile(
+    r'<aside\b[^>]*\bclass="[^"]*\bquote\b[^"]*"[^>]*>.*?</aside>',
+    re.DOTALL | re.IGNORECASE,
+)
+
+
+def strip_bbcode_quotes(s: str) -> str:
+    prev = None
+    while prev != s:  # loop to unwrap nested quotes
+        prev = s
+        s = BBCODE_QUOTE_RE.sub("\n", s)
+    return ORPHAN_QUOTE_RE.sub(" ", s)
 
 
 HTML_TAG_RE = re.compile(r"<[^>]+>")

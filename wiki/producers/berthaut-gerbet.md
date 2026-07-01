@@ -35,6 +35,17 @@ retailers:
     first_year: 2019
     last_year: 2019
     latest_post: https://www.wineberserkers.com/t/tn-2009-clos-salomon-givry-1er-cru-clos-salomon/124227/13
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 1491
+        mentions: 1
+        mentions_2013_2014: 0
+        mentions_2021_2022: 0
+        mentions_2023_2026: 1
+        momentum_score_2023: inf
+        last_updated: 2026-07-01
 tags: []
 _sources:
 - short:short__Berthaut-Gerbet.md
@@ -59,6 +70,20 @@ berserkers_kelley_body:
 *2025-07*
 
 > 7/14/25 - The wines of Amélie Berthaut are those of great purity and finesse. Her vines are mostly concentrated in Fixin, but spread all the way to some of the Grand Crus in Vosne-Romanée! Amélie has been turning heads since she took over in 2013 when she was…
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 1491** of 1492 producers — **1 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 0 |
+| 2021–2022 | 0 |
+| 2023–2026 | 1 |
+
+**Momentum 2023+:** new entrant (no earlier-era baseline).
 
 ## Berserkers (William Kelley)
 

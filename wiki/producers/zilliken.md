@@ -35,6 +35,17 @@ retailers:
     first_year: 2016
     last_year: 2018
     latest_post: https://www.wineberserkers.com/t/need-a-2015-for-the-long-haul/142319/43
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 210
+        mentions: 4
+        mentions_2013_2014: 1
+        mentions_2021_2022: 1
+        mentions_2023_2026: 2
+        momentum_score_2023: 2.0
+        last_updated: 2026-07-01
 tags: []
 _sources:
 - short:short__Zilliken.md
@@ -67,6 +78,20 @@ _sources:
 ## CSW Cellar Note
 
 > g, one of the world's most terroir-expressive and long-lived white wines. Rieslingfeier , loosely in the tradition of La Paulée de New York, will take place Feb
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+
+**Rank 210** of 1492 producers — **4 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 1 |
+| 2021–2022 | 1 |
+| 2023–2026 | 2 |
+
+**Momentum 2023+:** 2.0× (rising).
 
 ## Berserkers (William Kelley)
 

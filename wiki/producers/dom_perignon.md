@@ -39,12 +39,12 @@ community:
   berserkers:
     threads:
       top10_in_cellar:
-        rank: 28
-        mentions: 24
-        mentions_2013_2014: null
-        mentions_2021_2022: null
-        mentions_2023_2026: null
-        momentum_score_2023: null
+        rank: 75
+        mentions: 12
+        mentions_2013_2014: 3
+        mentions_2021_2022: 5
+        mentions_2023_2026: 4
+        momentum_score_2023: 1.33
         last_updated: 2026-07-01
 tags:
 - aged
@@ -81,9 +81,17 @@ _LVMH prestige; only ever vintage. P2 (15+ years on lees) and P3 (40+) are the a
 
 ## Berserkers
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
 
-**Rank 28** of 1115 producers — **24 mentions** across 1089 posts.
+**Rank 75** of 1492 producers — **12 mentions** across 620 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 3 |
+| 2021–2022 | 5 |
+| 2023–2026 | 4 |
+
+**Momentum 2023+:** 1.33× (rising).
 
 ## Berserkers (William Kelley)
 
