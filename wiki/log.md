@@ -835,3 +835,11 @@ fading / new, min-mentions noise filter, deep-links to producer pages. `wb_top10
 same data defaulting to momentum-sorted with min-mentions=3, for scanning risers (Goodfellow 4.42×,
 Keller 3.0×, Bedrock 1.91×) vs faders (Rhys 0.38×) and new entrants. No network/deps; open the file.
 Regenerate with `python scripts/build_wb_search_page.py --apply` after any re-ingest.
+
+## [2026-07-01] query | Add country/region to the Berserkers search + momentum HTML pages
+Producers without a vault page had no region (the thread carries none), so added a curated
+`raw/berserkers/producer_regions.tsv` (best-effort country/region for ~450 producers, keyed by exact
+name + accent/prefix-insensitive normalized fallback). `build_wb_search_page.py` now joins it (vault
+page wins) and shows a **Country** column beside Region. Coverage: 99% of the top-125 by mentions,
+97% of ≥5-mention producers, 82% of ≥2; the obscure single-mention tail + parse noise stays blank by
+design. Regenerated both HTML views. Edit the TSV + re-run `--apply` to extend.

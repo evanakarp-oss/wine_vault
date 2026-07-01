@@ -23,18 +23,45 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from build_wb_rollups import (  # noqa: E402
     build_indices, find_path, cellar_counts, producer_info, _now_iso_date,
 )
+from parse_wb_thread import normalize_for_alias  # noqa: E402
 
 VAULT = Path(__file__).resolve().parent.parent
 THREADS = VAULT / "raw" / "berserkers" / "threads"
 VIEWS = VAULT / "wiki" / "_views"
+REGION_TSV = VAULT / "raw" / "berserkers" / "producer_regions.tsv"
 
 
-def build_rows(producers, exact, cidx, cellar):
+def load_region_map() -> dict[str, tuple[str, str]]:
+    """Curated fallback country/region for producers with no vault page.
+    Returns a dict keyed by BOTH the exact raw_name and its normalized form
+    (accent/prefix/paren-insensitive) so lookups are forgiving. Vault-page
+    region always wins over this."""
+    out: dict[str, tuple[str, str]] = {}
+    if not REGION_TSV.exists():
+        return out
+    for line in REGION_TSV.read_text(encoding="utf-8").splitlines():
+        if not line.strip() or line.lstrip().startswith("#"):
+            continue
+        parts = line.split("\t")
+        if len(parts) >= 3:
+            name, val = parts[0].strip(), (parts[1].strip(), parts[2].strip())
+            out[name] = val
+            out.setdefault(normalize_for_alias(name), val)
+    return out
+
+
+def build_rows(producers, exact, cidx, cellar, region_map):
     rows = []
     for p in producers:
         path = find_path(p["raw_name"], exact, cidx)
         slug = path.stem if path else None
         info = producer_info(path) if path else {}
+        region = info.get("region", "")
+        country = info.get("country", "")
+        if not region:  # fall back to the curated map (exact, then normalized)
+            hit = region_map.get(p["raw_name"]) or region_map.get(normalize_for_alias(p["raw_name"]))
+            if hit:
+                country, region = hit
         bottles = cellar.get(slug, 0) if slug else 0
         score = p.get("momentum_score_2023")
         # Sort key for momentum: null -> -1, new entrant (inf) -> 999.
@@ -56,8 +83,8 @@ def build_rows(producers, exact, cidx, cellar):
             "momd": mom_disp,
             "vault": bool(path),
             "cellar": bottles,
-            "region": info.get("region", ""),
-            "country": info.get("country", ""),
+            "region": region,
+            "country": country,
         })
     return rows
 
@@ -134,6 +161,7 @@ HTML = """<!DOCTYPE html>
   <th class="num hide-sm" data-k="e2">’21–22</th>
   <th class="num hide-sm" data-k="e3">’23–26</th>
   <th class="num" data-k="mom">Momentum</th>
+  <th class="hide-sm" data-k="country">Country</th>
   <th class="hide-sm" data-k="region">Region</th>
 </tr></thead>
 <tbody id="tb"></tbody>
@@ -193,6 +221,7 @@ function render() {{
       '<td class="num hide-sm">'+n(r.e2)+'</td>'+
       '<td class="num hide-sm">'+n(r.e3)+'</td>'+
       '<td class="num">'+momCell(r)+'</td>'+
+      '<td class="hide-sm mut">'+(r.country||"")+'</td>'+
       '<td class="hide-sm mut">'+(r.region||"")+'</td>'+
     '</tr>';
   }}).join("");
@@ -236,8 +265,10 @@ def main() -> int:
 
     exact, cidx = build_indices()
     cellar = cellar_counts()
-    rows = build_rows(producers, exact, cidx, cellar)
+    region_map = load_region_map()
+    rows = build_rows(producers, exact, cidx, cellar, region_map)
     data_json = json.dumps(rows, ensure_ascii=False)
+    n_region = sum(1 for r in rows if r["region"])
 
     n_vault = sum(1 for r in rows if r["vault"])
     n_cellar = sum(1 for r in rows if r["cellar"])
