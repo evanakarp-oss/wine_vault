@@ -38,7 +38,7 @@ community:
   berserkers:
     threads:
       top10_in_cellar:
-        rank: 836
+        rank: 1043
         mentions: 1
         mentions_2013_2014: 1
         mentions_2021_2022: 0
@@ -76,9 +76,9 @@ _The original Napa cult Cab. Allocation only. The Flight (second wine) and Sauv 
 
 ## Berserkers
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
 
-**Rank 140** of 1492 producers — **5 mentions** across 620 posts.
+**Rank 206** of 2067 producers — **5 mentions** across 1093 posts.
 
 | Era | Mentions |
 |---|---|
@@ -88,9 +88,9 @@ _The original Napa cult Cab. Allocation only. The Flight (second wine) and Sauv 
 
 **Momentum 2023+:** 0.33× (fading).
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
 
-**Rank 836** of 1492 producers — **1 mentions** across 620 posts.
+**Rank 1043** of 2067 producers — **1 mentions** across 1093 posts.
 
 | Era | Mentions |
 |---|---|

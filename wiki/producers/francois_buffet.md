@@ -29,6 +29,17 @@ retailers:
     cuvee_count: 24
     price_min: 0
     price_max: 0
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 1724
+        mentions: 1
+        mentions_2013_2014: 0
+        mentions_2021_2022: 0
+        mentions_2023_2026: 1
+        momentum_score_2023: inf
+        last_updated: 2026-07-01
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
 ---
@@ -40,6 +51,20 @@ _Seeded from Down to Earth (Panzer) portfolio. Not yet covered in CSW archive sw
 ## CSW Write-ups
 
 _No Chambers Street write-ups on file._
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
+
+**Rank 1724** of 2067 producers — **1 mentions** across 1093 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 0 |
+| 2021–2022 | 0 |
+| 2023–2026 | 1 |
+
+**Momentum 2023+:** new entrant (no earlier-era baseline).
 
 ## Down to Earth Wines (Panzer)
 

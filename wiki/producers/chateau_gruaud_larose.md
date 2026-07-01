@@ -40,7 +40,7 @@ community:
   berserkers:
     threads:
       top10_in_cellar:
-        rank: 390
+        rank: 532
         mentions: 2
         mentions_2013_2014: 2
         mentions_2021_2022: 0
@@ -81,9 +81,9 @@ _Saint-Julien 2nd-growth. 1980s-90s vintages drink beautifully today; modern era
 
 ## Berserkers
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
 
-**Rank 390** of 1492 producers — **2 mentions** across 620 posts.
+**Rank 532** of 2067 producers — **2 mentions** across 1093 posts.
 
 | Era | Mentions |
 |---|---|

@@ -36,6 +36,17 @@ retailers:
     first_year: 0
     last_year: 0
     latest_post: ''
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 691
+        mentions: 2
+        mentions_2013_2014: 0
+        mentions_2021_2022: 0
+        mentions_2023_2026: 2
+        momentum_score_2023: inf
+        last_updated: 2026-07-01
 tags: []
 _sources:
 - short:short__Gerard_Mugneret.md
@@ -78,6 +89,20 @@ _sources:
 ## CSW Cellar Note
 
 > e wines that are delicious now and have very good aging potential. Michel Lafarge compares it to 1952, which to this day is a great vintage. Marie Christine Mug
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
+
+**Rank 691** of 2067 producers — **2 mentions** across 1093 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 0 |
+| 2021–2022 | 0 |
+| 2023–2026 | 2 |
+
+**Momentum 2023+:** new entrant (no earlier-era baseline).
 
 ## Down to Earth Wines (Panzer)
 

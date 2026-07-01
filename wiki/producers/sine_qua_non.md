@@ -33,7 +33,7 @@ community:
   berserkers:
     threads:
       top10_in_cellar:
-        rank: 837
+        rank: 1044
         mentions: 1
         mentions_2013_2014: 1
         mentions_2021_2022: 0
@@ -54,9 +54,9 @@ _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles.
 
 ## Berserkers
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
 
-**Rank 837** of 1492 producers — **1 mentions** across 620 posts.
+**Rank 1044** of 2067 producers — **1 mentions** across 1093 posts.
 
 | Era | Mentions |
 |---|---|

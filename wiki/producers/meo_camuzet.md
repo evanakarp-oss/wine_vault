@@ -35,7 +35,7 @@ community:
   berserkers:
     threads:
       top10_in_cellar:
-        rank: 1203
+        rank: 1349
         mentions: 1
         mentions_2013_2014: 0
         mentions_2021_2022: 1
@@ -59,21 +59,21 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 
 ## Berserkers
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
 
-**Rank 310** of 1492 producers — **2 mentions** across 620 posts.
+**Rank 324** of 2067 producers — **3 mentions** across 1093 posts.
 
 | Era | Mentions |
 |---|---|
 | 2013–2014 | 2 |
 | 2021–2022 | 0 |
-| 2023–2026 | 0 |
+| 2023–2026 | 1 |
 
-**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
+**Momentum 2023+:** 0.5× (steady).
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
 
-**Rank 719** of 1492 producers — **1 mentions** across 620 posts.
+**Rank 932** of 2067 producers — **1 mentions** across 1093 posts.
 
 | Era | Mentions |
 |---|---|
@@ -83,9 +83,9 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 
 **Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
 
-**Rank 1203** of 1492 producers — **1 mentions** across 620 posts.
+**Rank 1349** of 2067 producers — **1 mentions** across 1093 posts.
 
 | Era | Mentions |
 |---|---|

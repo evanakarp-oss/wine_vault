@@ -41,7 +41,7 @@ community:
   berserkers:
     threads:
       top10_in_cellar:
-        rank: 246
+        rank: 337
         mentions: 3
         mentions_2013_2014: 2
         mentions_2021_2022: 1
@@ -94,9 +94,9 @@ _Cathiard-owned Pessac estate; certified biodynamic, especially celebrated for t
 
 ## Berserkers
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
 
-**Rank 246** of 1492 producers — **3 mentions** across 620 posts.
+**Rank 337** of 2067 producers — **3 mentions** across 1093 posts.
 
 | Era | Mentions |
 |---|---|

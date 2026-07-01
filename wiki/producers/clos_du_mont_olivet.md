@@ -36,7 +36,7 @@ community:
   berserkers:
     threads:
       top10_in_cellar:
-        rank: 715
+        rank: 928
         mentions: 1
         mentions_2013_2014: 1
         mentions_2021_2022: 0
@@ -71,9 +71,9 @@ _Seeded from Down to Earth (Panzer) portfolio. Not yet covered in CSW archive sw
 
 ## Berserkers
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
 
-**Rank 616** of 1492 producers — **1 mentions** across 620 posts.
+**Rank 842** of 2067 producers — **1 mentions** across 1093 posts.
 
 | Era | Mentions |
 |---|---|
@@ -83,9 +83,9 @@ _Seeded from Down to Earth (Panzer) portfolio. Not yet covered in CSW archive sw
 
 **Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
 
-**Rank 715** of 1492 producers — **1 mentions** across 620 posts.
+**Rank 928** of 2067 producers — **1 mentions** across 1093 posts.
 
 | Era | Mentions |
 |---|---|

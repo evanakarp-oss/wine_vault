@@ -31,7 +31,7 @@ community:
   berserkers:
     threads:
       top10_in_cellar:
-        rank: 177
+        rank: 258
         mentions: 4
         mentions_2013_2014: 4
         mentions_2021_2022: 0
@@ -52,9 +52,9 @@ _No Chambers Street write-ups on file._
 
 ## Berserkers
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
 
-**Rank 177** of 1492 producers — **4 mentions** across 620 posts.
+**Rank 258** of 2067 producers — **4 mentions** across 1093 posts.
 
 | Era | Mentions |
 |---|---|

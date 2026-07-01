@@ -27,6 +27,17 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 684
+        mentions: 2
+        mentions_2013_2014: 0
+        mentions_2021_2022: 0
+        mentions_2023_2026: 2
+        momentum_score_2023: inf
+        last_updated: 2026-07-01
 tags: []
 _sources: ["dte_jsx:dte_wines_1.jsx"]
 ---
@@ -81,6 +92,20 @@ _Seeded from Down to Earth (Panzer) portfolio. Not yet covered in CSW archive sw
 *2007-06*
 
 > 6/1/2007 - It has been a very exciting year for German wines at CSW with the tail end of the 2005 vintage selling briskly and the extremely limited-production high- quality 2006's arriving mostly with some more to arrive throughout winter/spring 2008. Since I…
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
+
+**Rank 684** of 2067 producers — **2 mentions** across 1093 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 0 |
+| 2021–2022 | 0 |
+| 2023–2026 | 2 |
+
+**Momentum 2023+:** new entrant (no earlier-era baseline).
 
 ## Down to Earth Wines (Panzer)
 

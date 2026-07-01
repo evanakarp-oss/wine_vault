@@ -30,7 +30,7 @@ community:
   berserkers:
     threads:
       top10_in_cellar:
-        rank: 404
+        rank: 543
         mentions: 2
         mentions_2013_2014: 2
         mentions_2021_2022: 0
@@ -57,21 +57,21 @@ _sources: ["short:short__Domaine_Pavelot.md"]
 
 ## Berserkers
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
 
-**Rank 133** of 1492 producers — **6 mentions** across 620 posts.
+**Rank 142** of 2067 producers — **8 mentions** across 1093 posts.
 
 | Era | Mentions |
 |---|---|
 | 2013–2014 | 6 |
 | 2021–2022 | 0 |
-| 2023–2026 | 0 |
+| 2023–2026 | 2 |
 
-**Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
+**Momentum 2023+:** 0.33× (fading).
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
 
-**Rank 404** of 1492 producers — **2 mentions** across 620 posts.
+**Rank 543** of 2067 producers — **2 mentions** across 1093 posts.
 
 | Era | Mentions |
 |---|---|

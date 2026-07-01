@@ -814,3 +814,14 @@ regenerated the three views: the Cellar×WB overlap now shows **5 owned producer
 Gruaud Larose, Altesino, Agrapart) and the momentum board surfaces real risers (Lopez de Heredia,
 Burlotto, Kelley Fox 5-6×). Fixed the rollup glob to skip `*.discourse.json` scrape dumps. Restored
 CRLF on 44 pages the compiler flipped. Regenerated views + wiki indexes; lint 0, `--check` green.
+
+## [2026-07-01] ingest | Extend Berserkers top10_in_cellar to full 2013–2026 coverage (1093 posts)
+Re-grabbed the thread from a logged-in browser to capture the 2024–2026 tail missing from the first
+620-post fetch. Combined fetch = **1093 posts, complete 2013-02→2026-06**. Re-parsed
+(`--merge-with`): 668 producer-list posts, **2067 unique producers, 6573 mentions**, now with a real
+recent era. Top of tally unchanged in shape (Bedrock #1 @129, Rhys #2 @111) but momentum is now
+trustworthy — Bedrock 1.91×, Goodfellow 4.42×, Keller 3.0×, Rivers-Marie 1.32× accelerating; the old
+guard (Rhys 0.38×, Huet 0.31×) fading. `compile_wb_signals.py --apply`: **121 producers match** vault
+pages (was 102), 96 pages refreshed. Rollups regenerated — Cellar×WB overlap now **7 owned producers**
+(added Cascina delle Rose + Chantereves; Burlotto momentum 13.0×). Updated the thread JSON coverage
+note. Restored CRLF on 52 flipped pages. Views + wiki indexes regenerated; lint 0, `--check` green.

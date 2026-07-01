@@ -39,7 +39,7 @@ community:
   berserkers:
     threads:
       top10_in_cellar:
-        rank: 1491
+        rank: 1803
         mentions: 1
         mentions_2013_2014: 0
         mentions_2021_2022: 0
@@ -73,9 +73,33 @@ berserkers_kelley_body:
 
 ## Berserkers
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
 
-**Rank 1491** of 1492 producers — **1 mentions** across 620 posts.
+**Rank 313** of 2067 producers — **4 mentions** across 1093 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 0 |
+| 2021–2022 | 0 |
+| 2023–2026 | 4 |
+
+**Momentum 2023+:** new entrant (no earlier-era baseline).
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
+
+**Rank 442** of 2067 producers — **3 mentions** across 1093 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 0 |
+| 2021–2022 | 0 |
+| 2023–2026 | 3 |
+
+**Momentum 2023+:** new entrant (no earlier-era baseline).
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
+
+**Rank 1803** of 2067 producers — **1 mentions** across 1093 posts.
 
 | Era | Mentions |
 |---|---|

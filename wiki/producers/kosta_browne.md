@@ -33,12 +33,12 @@ community:
   berserkers:
     threads:
       top10_in_cellar:
-        rank: 831
+        rank: 1664
         mentions: 1
-        mentions_2013_2014: 1
+        mentions_2013_2014: 0
         mentions_2021_2022: 0
-        mentions_2023_2026: 0
-        momentum_score_2023: 0.0
+        mentions_2023_2026: 1
+        momentum_score_2023: inf
         last_updated: 2026-07-01
 tags: ['pinot-noir', 'california', 'cult']
 _sources: ["raeders_compile_curated:2026-04-25"]
@@ -57,21 +57,21 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 
 ## Berserkers
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
 
-**Rank 46** of 1492 producers — **15 mentions** across 620 posts.
+**Rank 80** of 2067 producers — **16 mentions** across 1093 posts.
 
 | Era | Mentions |
 |---|---|
 | 2013–2014 | 13 |
 | 2021–2022 | 1 |
-| 2023–2026 | 1 |
+| 2023–2026 | 2 |
 
-**Momentum 2023+:** 0.08× (fading).
+**Momentum 2023+:** 0.15× (fading).
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
 
-**Rank 831** of 1492 producers — **1 mentions** across 620 posts.
+**Rank 1038** of 2067 producers — **1 mentions** across 1093 posts.
 
 | Era | Mentions |
 |---|---|
@@ -80,6 +80,18 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 | 2023–2026 | 0 |
 
 **Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
+
+**Rank 1664** of 2067 producers — **1 mentions** across 1093 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 0 |
+| 2021–2022 | 0 |
+| 2023–2026 | 1 |
+
+**Momentum 2023+:** new entrant (no earlier-era baseline).
 
 ## Down to Earth Wines (Panzer)
 

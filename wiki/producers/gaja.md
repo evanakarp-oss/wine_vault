@@ -34,7 +34,7 @@ community:
   berserkers:
     threads:
       top10_in_cellar:
-        rank: 202
+        rank: 277
         mentions: 4
         mentions_2013_2014: 4
         mentions_2021_2022: 0
@@ -55,9 +55,9 @@ _Not yet covered in CSW archive sweep._
 
 ## Berserkers
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
 
-**Rank 202** of 1492 producers — **4 mentions** across 620 posts.
+**Rank 277** of 2067 producers — **4 mentions** across 1093 posts.
 
 | Era | Mentions |
 |---|---|

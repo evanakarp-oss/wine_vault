@@ -34,6 +34,17 @@ retailers:
     first_year: 2018
     last_year: 2023
     latest_post: https://www.wineberserkers.com/t/neal-martins-recent-article-on-mature-burgundy/299308/22
+community:
+  berserkers:
+    threads:
+      top10_in_cellar:
+        rank: 1722
+        mentions: 1
+        mentions_2013_2014: 0
+        mentions_2021_2022: 0
+        mentions_2023_2026: 1
+        momentum_score_2023: inf
+        last_updated: 2026-07-01
 tags: []
 _sources:
 - short:short__Domaine_Duroch├⌐.md
@@ -52,6 +63,44 @@ _sources:
 *2024-12*
 
 > 12/9/24 - There is always a bit of competition with neighbors, and that remains true when you talk about the Côte de Nuits vs. the Côte de Beaune. What does one expect when both areas contain some of the best vineyard sites in the whole world and they are…
+
+## Berserkers
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
+
+**Rank 435** of 2067 producers — **3 mentions** across 1093 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 0 |
+| 2021–2022 | 0 |
+| 2023–2026 | 3 |
+
+**Momentum 2023+:** new entrant (no earlier-era baseline).
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
+
+**Rank 740** of 2067 producers — **2 mentions** across 1093 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 0 |
+| 2021–2022 | 0 |
+| 2023–2026 | 2 |
+
+**Momentum 2023+:** new entrant (no earlier-era baseline).
+
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
+
+**Rank 1722** of 2067 producers — **1 mentions** across 1093 posts.
+
+| Era | Mentions |
+|---|---|
+| 2013–2014 | 0 |
+| 2021–2022 | 0 |
+| 2023–2026 | 1 |
+
+**Momentum 2023+:** new entrant (no earlier-era baseline).
 
 ## Berserkers (William Kelley)
 

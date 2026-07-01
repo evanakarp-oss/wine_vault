@@ -36,7 +36,7 @@ community:
   berserkers:
     threads:
       top10_in_cellar:
-        rank: 1208
+        rank: 1354
         mentions: 1
         mentions_2013_2014: 0
         mentions_2021_2022: 1
@@ -75,21 +75,21 @@ deep dive ([[../_views/wb_northern_rhone_tour_2026_06|view]]).
 
 ## Berserkers
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
 
-**Rank 137** of 1492 producers — **6 mentions** across 620 posts.
+**Rank 90** of 2067 producers — **15 mentions** across 1093 posts.
 
 | Era | Mentions |
 |---|---|
 | 2013–2014 | 3 |
 | 2021–2022 | 1 |
-| 2023–2026 | 2 |
+| 2023–2026 | 11 |
 
-**Momentum 2023+:** 0.67× (steady).
+**Momentum 2023+:** 3.67× (strongly accelerating).
 
-### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2024-03)
+### [Top 10 Producers in your cellar?](https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370) (thread #74370, 2013-02–2026-06)
 
-**Rank 1208** of 1492 producers — **1 mentions** across 620 posts.
+**Rank 1354** of 2067 producers — **1 mentions** across 1093 posts.
 
 | Era | Mentions |
 |---|---|
