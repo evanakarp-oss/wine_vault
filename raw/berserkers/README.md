@@ -71,6 +71,37 @@ build_wb_rollups.py     all threads/*.json       → wiki/_views/*.md, build/wb_
 
 Each script is dry-run by default; pass `--apply` to write.
 
+## Full-thread ingest via logged-in browser (WB 403s the scraper)
+
+`scrape_wb_thread.py` is bot-blocked (403) from this host, so it only ever
+seeds the top-100 from a spreadsheet. To land the **whole** thread (all posts →
+real era splits + momentum), pull it through a logged-in browser, which is *not*
+blocked:
+
+1. **Grab** — log in to wineberserkers.com, open the thread, and run
+   `scripts/wb_browser_fetch.js` in the DevTools console, **or** tap the
+   one-line bookmarklet in `scripts/wb_browser_fetch.bookmarklet.txt` (works on
+   mobile). Either downloads `<slug>.discourse.json` — the exact shape
+   `parse_wb_thread.py` consumes. No copy-paste of posts, nothing leaves the
+   browser but normal same-site requests.
+2. **Parse** — drop the file at `threads/<slug>.discourse.json` and run:
+
+   ```
+   python scripts/parse_wb_thread.py raw/berserkers/threads/top10_in_cellar.discourse.json \
+     --slug top10_in_cellar \
+     --title "Top 10 Producers in your cellar?" \
+     --thread-url https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370 \
+     --merge-with raw/berserkers/threads/top10_in_cellar.json
+   ```
+
+   `--merge-with` preserves curated `notable_quotes` from the existing seed and
+   overwrites the tally with full per-era counts.
+3. **Compile + roll up** — `compile_wb_signals.py --apply` then
+   `build_wb_rollups.py --apply`, then `build_wiki_index.py` + a `log.md` entry.
+
+Last-resort fallback (no console/bookmarklet): paste rendered posts into
+`threads/<slug>.raw.md` using `_PASTE_TEMPLATE.raw.md`, then parse that file.
+
 ## Adding a second thread
 
 1. `python scripts/scrape_wb_thread.py https://www.wineberserkers.com/t/.../12345 --slug aged_champagne`

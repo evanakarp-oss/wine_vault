@@ -364,9 +364,14 @@ def parse_discourse_json(path: Path) -> list[Post]:
 
 
 HTML_TAG_RE = re.compile(r"<[^>]+>")
+# Tags that imply a line break — Discourse `cooked` HTML packs list items and
+# paragraphs onto one line with no newline, so converting these to `\n` before
+# stripping is what turns an <li>…</li><li>…</li> run into one-name-per-line.
+BLOCK_TAG_RE = re.compile(r"(?i)</(?:li|p|div|tr|h[1-6]|blockquote)>|<br\s*/?>")
 
 
 def strip_html(html: str) -> str:
+    html = BLOCK_TAG_RE.sub("\n", html)
     return re.sub(r"\n{3,}", "\n\n", HTML_TAG_RE.sub("", html))
 
 
@@ -397,6 +402,23 @@ def parse_raw_markdown(path: Path) -> list[Post]:
 
 PCT_LINE_RE = re.compile(r"\d+(?:\.\d+)?\s*%")
 SENTENCE_END_RE = re.compile(r"[.!?]\s+[A-Z]")
+LEAD_ENUM_RE = re.compile(r"^\s*[\d\)\.\-\*•#]+[\.\)]?\s*")
+TRAIL_COUNT_RE = re.compile(
+    r"\s*[-–—:]?\s*\d+(?:\.\d+)?\s*(?:%|bottles?|btls?|bot|x)?\s*$",
+    re.IGNORECASE,
+)
+
+
+def _clean_line(line: str) -> str:
+    """Strip the leading enumerator/bullet and any trailing %/bottle-count so
+    the line is just the candidate producer name. Applied *before* the prose
+    check so `1. Bedrock` is not mistaken for a sentence."""
+    line = LEAD_ENUM_RE.sub("", line)
+    line = TRAIL_COUNT_RE.sub("", line)
+    line = line.strip(" -*•\t")
+    if line.endswith(":"):  # section header / label ("Champagne:", "My ten:")
+        return ""
+    return line
 
 
 def looks_like_list_post(text: str) -> bool:
@@ -404,7 +426,7 @@ def looks_like_list_post(text: str) -> bool:
     look like prose."""
     candidates = 0
     for line in text.splitlines():
-        line = line.strip(" -*•\t")
+        line = _clean_line(line)
         if not line:
             continue
         if SENTENCE_END_RE.search(line):
@@ -425,10 +447,7 @@ def extract_producers(text: str) -> list[str]:
     """Pull candidate producer names from a list post's lines."""
     out = []
     for line in text.splitlines():
-        # Drop bullets, numbers, percentages
-        line = re.sub(r"^\s*[\d\)\.\-\*•]+\s*", "", line)
-        line = re.sub(r"\s*[-–—]?\s*\d+(?:\.\d+)?%?\s*$", "", line)
-        line = line.strip(" -*•\t")
+        line = _clean_line(line)
         if not line:
             continue
         if SENTENCE_END_RE.search(line):

@@ -1,0 +1,33 @@
+Wine Berserkers — one-tap thread fetcher (bookmarklet)
+=======================================================
+
+Zero copying. Works on desktop AND mobile browsers. It pulls the entire thread
+through your logged-in session and downloads one file you upload back to Claude.
+
+SETUP (once)
+  Desktop: create a new bookmark, name it "WB grab", and paste the whole
+    javascript: line below as the URL.
+  Mobile (iOS Safari): bookmark any page, then edit that bookmark — rename it
+    "WB grab" and replace its URL with the javascript: line below.
+    (Chrome/Firefox mobile: same idea via the bookmark editor.)
+
+USE (each thread)
+  1. Log in to wineberserkers.com.
+  2. Open the thread, e.g.
+       https://www.wineberserkers.com/t/top-10-producers-in-your-cellar/74370
+  3. Tap the "WB grab" bookmark. Wait for the "Downloaded …" alert
+     (a few seconds for a big thread — it fetches ~20 posts per batch).
+  4. Upload the downloaded  <slug>.discourse.json  to Claude. Done.
+
+THE BOOKMARKLET (one line — paste as the bookmark URL)
+
+javascript:(async()=>{const R=true,B=20,T=300,K=["id","username","name","post_number","created_at","updated_at","raw","cooked"],m=location.pathname.match(/^\/t\/([^/]+)\/(\d+)/);if(!m){alert("Open a Wine Berserkers thread page first, then tap this.");return;}const s=m[1],t=+m[2],o=location.origin,z=x=>new Promise(r=>setTimeout(r,x)),g=async u=>{const r=await fetch(u,{headers:{Accept:"application/json"},credentials:"include"});if(!r.ok)throw new Error("HTTP "+r.status);return r.json()};let M=await g(o+"/t/"+s+"/"+t+".json"+(R?"?include_raw=true":""));const ti=M.title||M.fancy_title||s,st=(M.post_stream&&M.post_stream.stream)||[],sd=(M.post_stream&&M.post_stream.posts)||[],h=new Map(sd.map(p=>[p.id,p])),mi=st.filter(i=>!h.has(i));for(let i=0;i<mi.length;i+=B){const b=mi.slice(i,i+B),q=b.map(i=>"post_ids[]="+i).join("&"),u=o+"/t/"+t+"/posts.json?"+q+(R?"&include_raw=true":"");try{const d=await g(u);for(const p of (d.post_stream&&d.post_stream.posts)||[])h.set(p.id,p);}catch(e){}await z(T);}const ps=st.filter(i=>h.has(i)).map(i=>{const p=h.get(i),x={};for(const k of K)if(k in p)x[k]=p[k];return x;}),pl={thread:{title:ti,url:o+"/t/"+s+"/"+t,thread_id:t,slug:s,post_count:ps.length},posts:ps},bl=new Blob([JSON.stringify(pl,null,2)+"\n"],{type:"application/json"}),a=document.createElement("a");a.href=URL.createObjectURL(bl);a.download=s+".discourse.json";document.body.appendChild(a);a.click();a.remove();alert("Downloaded "+s+".discourse.json ("+ps.length+" posts). Upload it to Claude.");})();
+
+NOTES
+  - Nothing leaves your browser except normal same-site requests to
+    wineberserkers.com. No cookies/passwords are sent anywhere else.
+  - If the alert says an HTTP error, your account may not have raw-markdown
+    access; the readable script (scripts/wb_browser_fetch.js) has a
+    WB_INCLUDE_RAW=false switch that falls back to rendered HTML.
+  - iOS: if tapping the bookmark does nothing, paste the readable snippet into
+    a desktop browser console instead — same result.
