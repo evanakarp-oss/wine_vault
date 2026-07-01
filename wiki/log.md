@@ -825,3 +825,13 @@ guard (Rhys 0.38×, Huet 0.31×) fading. `compile_wb_signals.py --apply`: **121 
 pages (was 102), 96 pages refreshed. Rollups regenerated — Cellar×WB overlap now **7 owned producers**
 (added Cascina delle Rose + Chantereves; Burlotto momentum 13.0×). Updated the thread JSON coverage
 note. Restored CRLF on 52 flipped pages. Views + wiki indexes regenerated; lint 0, `--check` green.
+
+## [2026-07-01] query | Interactive HTML search + momentum-scan pages for the Berserkers top10 thread
+Added `scripts/build_wb_search_page.py` — generates two self-contained, offline HTML views from the
+`top10_in_cellar` tally (reusing the rollup's slug-match + cellar join so vault/cellar flags agree
+with the `_views` rollups). `wb_top10_in_cellar_search.html`: search-as-you-type across all 2067
+producers (name/region/country), sortable columns, chips for in-cellar / has-page / surging /
+fading / new, min-mentions noise filter, deep-links to producer pages. `wb_top10_in_cellar_momentum_scan.html`:
+same data defaulting to momentum-sorted with min-mentions=3, for scanning risers (Goodfellow 4.42×,
+Keller 3.0×, Bedrock 1.91×) vs faders (Rhys 0.38×) and new entrants. No network/deps; open the file.
+Regenerate with `python scripts/build_wb_search_page.py --apply` after any re-ingest.
