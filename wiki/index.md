@@ -780,6 +780,7 @@ _294 cuvée-vintage entries · ~631 bottles · 187 producers._
 - [[bond|Bond]] — 1 entry: 2010 Quella
 - [[bouchard_pere_et_fils|Bouchard Pere Et Fils]] — 2 entries: 2009 Beaune 1er Cru Clos St. Landry Blanc; 2012 Beaune 1er Cru Clos St. Landry Blanc
 - [[bruno_lorenzon|Bruno Lorenzon]] — 2 entries: 2022 Mercurey Le Chapitre; 2022 Montagny 1er Cru Le Mont Laurent Blanc
+- [[burlotto|Burlotto]] — 1 entry: 2008 Barolo
 - [[cabecas_do_reguengo|Cabecas Do Reguengo]] — 2 entries: 2022 Alentejo Seiva; 2022 Respiro Clarete
 - [[candialle|Candialle]] — 1 entry: 2012 Ciclope Toscana IGT
 - [[carlisle|Carlisle]] — 1 entry: 2013 Syrah Sonoma County
@@ -807,7 +808,6 @@ _294 cuvée-vintage entries · ~631 bottles · 187 producers._
 - [[clementine_carter|Clementine Carter]] — 1 entry: 2022 Grenache Blanc
 - [[clos_de_gamot|Clos De Gamot]] — 1 entry: 2020 Cahors
 - [[clos_du_rouge_gorge|Clos Du Rouge Gorge]] — 1 entry: 2022 Côtes Catalanes Cuvée du Patron
-- [[comm_g_b_burlotto|Comm G B Burlotto]] — 1 entry: 2008 Barolo
 - [[croix_courbet|Croix Courbet]] — 1 entry: 2022 Côtes du Jura Savadonnay
 - [[dalzocchio|Dalzocchio]] — 1 entry: 2020 Pinot Nero Vigneti delle Dolomiti IGT
 - [[dana_estates|Dana Estates]] — 1 entry: 2016 Cabernet Sauvignon Onda

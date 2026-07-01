@@ -774,3 +774,19 @@ verified; fixtures + test snapshots removed and producer pages restored. Scrape 
 unvalidated against live HTML (selectors will need one tune); manual-paste path works today. Docs
 updated (CLAUDE.md source-roles + scripts + follow-up; `raw/vinolist/README.md` status → wired).
 No restaurants ingested yet. Gates green.
+
+## [2026-07-01] ingest | Land the Berserkers "Top 10 Producers in your cellar?" thread (compile signals + rollups)
+Finished the previously-partial ingest of the `top10_in_cellar` thread (WB #74370; 1089 posts,
+1115 unique producers, 4999 mentions — top-100-by-mentions seed). Ran `compile_wb_signals.py --apply`:
+of the top 100, **14** match existing `wiki/producers/` pages and now carry
+`community.berserkers.threads.top10_in_cellar` frontmatter (rank/mentions/era-splits/momentum) plus
+a `## Berserkers` body section; the other **86** have no page and are logged as gap candidates in
+`build/wb_gap_candidates.md`. Ran `build_wb_rollups.py --apply` → three keeper views
+(`wiki/_views/wb_top10_in_cellar_top_100.md`, `wb_top10_in_cellar_momentum.md`, `wb_in_cellar.md`).
+Fixed a cellar↔wiki join defect surfaced by the overlap view: the Burlotto cellar entry used
+`producer_slug: comm_g_b_burlotto`, which never matched the canonical `burlotto` page slug, hiding
+the owned bottle from every cellar rollup (not just WB). Corrected it to `burlotto`; `wb_in_cellar`
+now correctly shows Burlotto (rank 52, 18 mentions, 2.0× momentum, 1 btl). Era-split + momentum
+fields remain null for most producers (spreadsheet seed only carries totals; a fresh thread scrape
+would repopulate them, but WB 403s the fetcher). Regenerated views + wiki indexes; lint 0, both
+`--check` gates green.

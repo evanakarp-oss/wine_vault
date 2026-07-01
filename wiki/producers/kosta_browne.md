@@ -39,7 +39,7 @@ community:
         mentions_2021_2022: null
         mentions_2023_2026: null
         momentum_score_2023: null
-        last_updated: 2026-05-29
+        last_updated: 2026-07-01
 tags: ['pinot-noir', 'california', 'cult']
 _sources: ["raeders_compile_curated:2026-04-25"]
 ---

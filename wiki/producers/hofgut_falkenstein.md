@@ -45,7 +45,7 @@ community:
         mentions_2021_2022: null
         mentions_2023_2026: null
         momentum_score_2023: null
-        last_updated: 2026-05-29
+        last_updated: 2026-07-01
 tags: []
 _sources:
 - short:short__Hofgut_Falkenstein.md

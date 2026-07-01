@@ -1,7 +1,7 @@
 ---
 type: cellar_entry
 producer: "Comm. G.B. Burlotto"
-producer_slug: comm_g_b_burlotto
+producer_slug: burlotto
 cuvee: "Barolo"
 vintage: "2008"
 bottle_size: "750ml"
