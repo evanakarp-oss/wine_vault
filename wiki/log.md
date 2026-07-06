@@ -852,3 +852,16 @@ tension; skip cult-hedonist). Standouts flagged — reference-set gaps (Dunn, Da
 Mayacamas, Togni, Spottswoode), rising Oregon (Goodfellow, Walter Scott, Kelley Fox, Arterberry
 Maresh), Sonoma-Coast restraint (Rhys, Peay, Dehlinger, Ultramarine, Halcon, Desire Lines) — vs the
 opulent tier to skip (SQN, Schrader, Realm, Aubert, Bevan, Abreu, Maybach…). Full ranked table included.
+
+## [2026-07-06] query | auction 261W week-28 wheelhouse screen
+Screened the Week-28 261W catalog (`raw/auctions/Catalog_261W_28.xlsx`; 1,822 rows / 1,638 distinct
+lots, est. $755K–$1.01M, Delaware + Hong Kong) against Evan's CLAUDE.md taste filters and diffed it
+against the Week-26 file: **1,050 lots new, 588 carryover, 1,181 dropped** (~64% turnover; most Week-26
+heroes sold). Filed `wiki/_views/auction_261W_week28_wheelhouse_2026_07.md`. Three fresh on-taste
+consignments: a Châteauneuf vertical block (Beaucastel / P. Usseglio Mon Aieul / Vieux Télégraphe La
+Crau), a 2005/2007 German Riesling block (Dönnhoff, F. Haag, J.J. Prüm, Christoffel at $16–50/btl), and
+a 2005 mature-Burgundy grower consignment (H. Gouges, R. Chevillon, Comte Lafon Santenots, Fèvre
+Chablis). Highest-conviction value: 1996 Jamet Côte-Rôtie ($40–55), 1996 S. Grasso Barolo ($37–50), the
+Mosel-Nahe cases, and the Usseglio/VT Châteauneuf block. Reference California returns as a Montelena Cab
+vertical + 2005 Dunn + Dominus (anti-cult axis). Regenerated `wiki/_views/_index.md` (87 views) and
+`wiki/index.md`.
