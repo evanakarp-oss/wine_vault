@@ -83,6 +83,14 @@ friction).
   2007 (27867, 94+pt, $75–100). Restrained, structured, ageworthy Calistoga Cab.
 - **Diamond Creek** Gravelly Meadow 1996 (27871, 91pt WS, $160–220); **Mayacamas** Merlot 1992
   (24476, $100–140); **Ridge** Monte Bello magnum 2022 (27887, $400–600) & Monte Bello Cabernet Franc 2002 (27945, $60–80).
+- **Philip Togni** Cabernet (Spring Mtn, austere/ageworthy): 2004 6-pack (27882, 95pt VM, **$83–117/btl**), 1996 (27881, 96pt, $125–175). **Spottswoode Lyndenhurst** 2009 (26823, 91pt WS, $50–67) & 2010–13 singles (26824/26826) — organic St. Helena.
+
+**Aged old-guard Napa classics (NEW, on-taste when mature — see CLAUDE.md taste note):**
+These pre-cult structured houses drink beautifully at 25–30 yrs and are undervalued here.
+- **Beringer Private Reserve**: 1995 12-pack (27850, 96pt, **$62–83/btl**), 1992 12-pack (27847, 92pt, $54–71), 1996 (27851, $50–67).
+- **Robert Mondavi Reserve**: 1996 (27893, 95pt WS, **$58–83**), 1997 (27894, $75–100), 1995 (27892, $65–88); Oakville non-Reserve '95/'97 (27888/89, $30–47) is the drink-now value.
+- **Sterling Reserve** '86/'96/'97 (26256/27899–901, **$25–47/btl**); **Flora Springs Reserve** 1992 (27874, $40–56); **Groth** Cab 1994 (24330, $52–70).
+- *Skip the younger/modern tier of these houses and Shafer Hillside Select (opulent).*
 
 ## Tier 3 — grower Champagne + Loire chenin
 
@@ -99,10 +107,13 @@ Moelleux 2016 (5408/7815, $125–150). **E. Vatan** Sancerre Clos la Néore magn
 
 ## Skip (off-taste)
 
-- **Bulk California** (531 lots across Cab/Red/White): the mass is mid-tier + cult/hedonist
-  (Sine Qua Non — 18 lots at $150–733/btl, Screaming Eagle-style trophies). Off the
-  site-transparent axis; only the Montelena/Dunn/Dominus/Diamond Creek/Ridge/Mayacamas
-  set above is on-taste.
+- **Bulk California** (531 lots across Cab/Red/White): the mass is cult/hedonist
+  (Sine Qua Non — 18 lots at $150–733/btl; Harlan, Hundred Acre, Quintessa, Opus,
+  Peter Michael, Hourglass, Rudd) plus SQN-adjacent Rhône projects (Next of Kyn 44
+  lots, Pax 32, The Third Twin 25). Off the site-transparent axis. On-taste here is
+  the reference set + aged old-guard classics in Tier 2 (Montelena/Dunn/Dominus/
+  Diamond Creek/Ridge/Mayacamas/Togni/Spottswoode + mature Beringer PR/Mondavi
+  Reserve/Sterling/Flora Springs).
 - **Trophy Red Burgundy** (424 lots): Dujac Bonnes-Mares ($8K–11K), Roumier Amoureuses,
   Fourrier VV — great estates but priced as trophies, not value. Fourrier village-level
   ('06 Champeaux/Cherbaudes 26425/27, $220–300) is the only near-approachable tranche.

@@ -865,3 +865,12 @@ Chablis). Highest-conviction value: 1996 Jamet Côte-Rôtie ($40–55), 1996 S. 
 Mosel-Nahe cases, and the Usseglio/VT Châteauneuf block. Reference California returns as a Montelena Cab
 vertical + 2005 Dunn + Dominus (anti-cult axis). Regenerated `wiki/_views/_index.md` (87 views) and
 `wiki/index.md`.
+
+## [2026-07-06] curation | aged old-guard Napa classics are on-taste when mature
+Refined the California Cab taste filter in `CLAUDE.md` per Evan: the classically structured, pre-cult
+Napa houses — **Beringer Private Reserve (1990s), Robert Mondavi Reserve (1970s–90s), Sterling Reserve
+(older), Flora Springs Reserve (older)**, plus siblings (Philip Togni, Spottswoode, Groth, Phelps
+Insignia) — are targets when mature (25–30 yrs), not "generic mid-tier skips." The skip remains the
+young/modern mid-tier and the opulent cult tier. Folded the on-thesis Week-28 261W lots into
+`wiki/_views/auction_261W_week28_wheelhouse_2026_07.md` (Tier 2 aged old-guard Napa block; standouts:
+1995 Beringer PR 12x $62–83/btl 96pt, 1996 Mondavi Reserve $58–83 95pt WS, Togni 2004 $83–117).

@@ -144,6 +144,15 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
   too opulent, not site-transparent. Overarching axis across the cellar:
   sense of place + tension. (Updated 2026-05-29; previously listed the cult
   tier as the target — flipped after Evan clarified taste.)
+  - **Aged old-guard Napa classics are on-taste when mature.** The classically
+    structured, pre-cult Napa houses drink beautifully with age and are
+    undervalued at auction — buy the *old* vintages: **Beringer Private Reserve
+    (1990s)**, **Robert Mondavi Reserve (1970s–1990s)**, **Sterling Reserve
+    (older only)**, **Flora Springs Reserve (older)**, plus siblings in the same
+    vein (Philip Togni, Spottswoode, Groth, Phelps Insignia). These are NOT the
+    "generic mid-tier skip" — a mature Beringer PR or Mondavi Reserve at 25–30
+    yrs is a target, not a pass. The skip is the *young/modern* mid-tier and the
+    opulent cult tier. (Added 2026-07-06 per Evan.)
 - **Burgundy / Loire / Mosel / Piedmont**: terroir-driven, biodynamic-leaning, grower-scale.
 - **Argentina (Mendoza / Patagonia / Salta)**: accepted as an interest area as of 2026-05-26. Bias toward biodynamic / terroir-driven / artisan-scale producers (Chacra, Colomé, Cara Sur, Canopus, Altos Las Hormigas style). Argentina_Reloaded curator's selection (Paz Levinson, 79 producers) is the seed.
 - **Cellar style**: NYC/US retailers, German biodynamic, US boutique, Italian Friuli/Piedmont.
