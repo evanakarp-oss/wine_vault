@@ -9,7 +9,7 @@ generator: scripts/build_views_index.py
 
 Catalog of every keeper-answer page in `wiki/_views/` — the single read surface for saved analyses (gap analysis, drink-window shortlists, cross-retailer comparisons, critic overlays). The main `wiki/index.md` skips this directory, so this is where views are cataloged.
 
-**87 views.**
+**88 views.**
 
 | Page | Question / title | Updated |
 |---|---|---|
@@ -43,6 +43,7 @@ Catalog of every keeper-answer page in `wiki/_views/` — the single read surfac
 | [[drink_window_due|drink_window_due]] | Drink Window — Urgency View | 2026-05-14 |
 | [[fass_compelling_picks_2026_05|fass_compelling_picks_2026_05]] | Stripping out FASS marketing tone, who in the portfolio is genuinely compelling — and where do WB top-100 + William Kelley signal align? | 2026-05-26 |
 | [[fass_unmatched_triage_2026_05|fass_unmatched_triage_2026_05]] | Which of the 227 FASS unmatched producers should be onboarded — and which spelling variants should consolidate? | 2026-05-26 |
+| [[focus_distributors|focus_distributors]] | Focus distributors — importers Evan tracks closely and buys from deliberately | 2026-07-07 |
 | [[gap_csw_buy_candidates_2026_05|gap_csw_buy_candidates_2026_05]] | What are the top candidates in my cellar gaps — who should I buy from CSW? | 2026-05-26 |
 | [[gap_csw_championed|gap_csw_championed]] | Gap: CSW Champions You Don't Own | 2026-05-14 |
 | [[gap_csw_wk_overlay_2026_05|gap_csw_wk_overlay_2026_05]] | 143 CSW-championed producers I don't own, with William Kelley signal overlaid | 2026-05-26 |

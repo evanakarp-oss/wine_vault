@@ -37,7 +37,7 @@ FM_RE = re.compile(r"^---\n(.*?)\n---\n(.*)$", re.DOTALL)
 # notes, _source, custom focus override) is preserved.
 PRESERVED_FRONTMATTER_KEYS = {
     "url", "tags", "_source", "location", "scale", "philosophy",
-    "editorial_url_pattern",
+    "editorial_url_pattern", "focus_distributor",
 }
 
 # Marker pair the rollup writes around the auto block. When merging,

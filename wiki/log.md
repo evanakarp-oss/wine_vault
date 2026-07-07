@@ -874,3 +874,21 @@ Insignia) — are targets when mature (25–30 yrs), not "generic mid-tier skips
 young/modern mid-tier and the opulent cult tier. Folded the on-thesis Week-28 261W lots into
 `wiki/_views/auction_261W_week28_wheelhouse_2026_07.md` (Tier 2 aged old-guard Napa block; standouts:
 1995 Beringer PR 12x $62–83/btl 96pt, 1996 Mondavi Reserve $58–83 95pt WS, Togni 2004 $83–117).
+
+## [2026-07-07] ingest | add Benvenu as a focus distributor
+Added **Benvenu** (benvenusa.com) as the vault's first **focus distributor** — a new curation
+concept for importers Evan tracks closely and buys from deliberately, per Evan ("I really like the
+wines I've had from this portfolio"). Created `wiki/importers/Benvenu.md`: a small book of hand-farmed
+(<10 ha) micro-producers spanning Etna (Cantina Maugeri, Giuseppe Lazzaro), Friuli Collio/Colli
+Orientali/Isonzo (Doro Princic, Ronc Platât, Luigino Balozio, Murva, Belluzzo), border Slovenia (Edi
+Simčič — Brda, Hedele — Vipava, Due del Monte), Tuscany (Stefano Amerighi — biodynamic Cortona Syrah,
+Cigliano di Sopra, Tregole), Sardinia/Mamoiada (Vike Vike, Esole) and one Langhe grower (Lapo Berti —
+organic Barolo-cru Nebbiolo). All 16 verified for region via the importer's producer pages + Wine
+Enthusiast/retailer listings; none in the vault yet, so the page carries a full roster table + a
+three-tier curated onboarding priority (Amerighi/Princic/Simčič/Berti/Maugeri lead). Mechanism:
+`focus_distributor: true` frontmatter + `focus-distributor` tag; added `focus_distributor` to
+`build_rollups.py`'s preserved-key set so the flag survives regeneration. Read surface:
+`wiki/_views/focus_distributors.md` (documents the concept + how to add more). Seeded `_TAXONOMY.md`
+with the values the portfolio needs — **Sardinia** (Italy region), **Slovenia** (country) + **Goriška
+Brda / Vipava Valley / Kras** regions — so onboarding these producers is legal later. Regenerated
+`wiki/index.md` and `wiki/_views/_index.md` (88 views); lint 0 issues; both `--check` hooks pass.

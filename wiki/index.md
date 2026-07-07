@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 906
+total_pages: 907
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**906 pages indexed.**
+**907 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -66,6 +66,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[BNP|BNP]] — Bordeaux
 - [[Banville|Banville]] — Rhône
 - [[Becky_Wasserman_&_Co|Becky Wasserman & Co.]] — Burgundy
+- [[Benvenu|Benvenu]] — Sicily, Friuli-Venezia Giulia, Slovenia, Tuscany, Sardinia, Piedmont
 - [[Black_Lamb_Wine|Black Lamb Wine]] — Georgia
 - [[Bobo_Selections|Bobo Selections]] — Small natural portfolio.
 - [[Bowler|Bowler]] — Beaujolais, Burgundy, Champagne, Liguria, Mendoza, Mosel, Piedmont, San Juan

@@ -23,6 +23,7 @@ Add new values here FIRST, then use them in producer files.
 - Argentina
 - Chile
 - Uruguay
+- Slovenia
 
 ## `region` (indexed by country)
 
@@ -57,6 +58,7 @@ Add new values here FIRST, then use them in producer files.
 - Piedmont
 - Tuscany
 - Sicily
+- Sardinia
 - Veneto
 - Lombardy
 - Friuli-Venezia Giulia
@@ -85,6 +87,11 @@ Add new values here FIRST, then use them in producer files.
 - Jujuy
 - San Juan
 - Buenos Aires Province
+
+### Slovenia
+- Goriška Brda
+- Vipava Valley
+- Kras (Karst)
 
 ## `farming`
 
