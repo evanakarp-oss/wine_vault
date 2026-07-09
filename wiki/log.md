@@ -907,3 +907,18 @@ list would otherwise carry: Franny Beck (OR Pinot), Milos (Croatian Plavac), Sun
 Pinot), Championship Bottle (a shop). Confirmed the rising garagiste cluster as real Napa Cab
 (William & Mary, EMH, La Pelle, Fait-Main, Becklyn, Quivet, Adversity, Beta/Jasud, Greer).
 Regenerated `wiki/_views/_index.md` (89 views); both `--check` hooks pass.
+
+## [2026-07-09] query | Single-mention palate picks from the WB Top-10 thread
+
+_Filed `wiki/_views/wb_top10_single_mention_palate_picks_2026_07.md`._ From the
+`top10_in_cellar` WineBerserkers export (2,067 producers), isolated the **1,320
+named exactly once**, stripped the tail's parse noise (forum chatter, region
+headers, CellarTracker table rows), and dropped the 96 that already carry a vault
+page. Screened the remainder against CLAUDE.md taste filters (terroir-driven,
+farming-first, grower-scale, classicist over cult-hedonist) and web-verified
+(July 2026) every survivor. Result: a ★ top tier of 12 (Vatan, Collier, Boudignon,
+Cavarodes, Roddolo, Vallana, Le Ragnaie, Il Marroneto, Valentini, Julian Haart,
+Roses de Jeanne, Prévost) plus a ★★ strong tier grouped by region. Verification
+caught a common misattribution — La Rogerie is Boxler/Petit, not a Dom Pérignon
+alumnus. Explicitly excluded the single-mention Paso/big-Aussie/Napa-cult names as
+off-axis. Regenerated `wiki/_views/_index.md` (90 views); both `--check` hooks pass.
