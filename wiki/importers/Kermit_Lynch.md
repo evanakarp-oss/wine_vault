@@ -5,10 +5,10 @@ slug: kermit_lynch
 producer_count: 15
 focus: ['Burgundy', 'Rhône']
 notable_producers: ['Domaine Pierre Gonon', 'Domaine Pierre André', 'Clos du Joncuas', 'Allemand', 'Sylvie Esmonin']
-updated: 2026-06-19
+updated: 2026-07-09
 _source: wiki/_resources.md
-tags: []
 url: "https://kermitlynch.com"
+tags: []
 ---
 # Kermit Lynch
 
@@ -27,10 +27,10 @@ url: "https://kermitlynch.com"
 | [[domaine_levet|Domaine Levet]] | France | Rhône | 6 | — |
 | [[franck_balthazar|Franck Balthazar]] | France | Rhône | 5 | — |
 | [[ferme_saint-martin|Ferme Saint-Martin]] | France | Rhône | 4 | — |
+| [[jamet|Jamet]] | France | Rhône | 2 | — |
 | [[meo_camuzet|Méo-Camuzet]] | France | Burgundy | 1 | — |
 | [[auguste_clape|Auguste Clape]] | France | Rhône | — | — |
 | [[domaine_gallety|Domaine Gallety]] | France | Rhône | — | — |
-| [[jamet|Jamet]] | France | Rhône | — | — |
 | [[lucien_boillot|Lucien Boillot]] | France | Burgundy | — | — |
 
 *Compiled by `scripts/build_rollups.py`.*

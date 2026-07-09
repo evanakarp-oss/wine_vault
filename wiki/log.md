@@ -907,3 +907,19 @@ list would otherwise carry: Franny Beck (OR Pinot), Milos (Croatian Plavac), Sun
 Pinot), Championship Bottle (a shop). Confirmed the rising garagiste cluster as real Napa Cab
 (William & Mary, EMH, La Pelle, Fait-Main, Becklyn, Quivet, Adversity, Beta/Jasud, Greer).
 Regenerated `wiki/_views/_index.md` (89 views); both `--check` hooks pass.
+
+## [2026-07-09] ingest | add La Grenouille as an importer
+
+Added **La Grenouille** ([lagrenouillewine.com](https://www.lagrenouillewine.com)) — La Grenouille
+Wine Imports, a small California importer (owner Jérôme Brenot; South Pasadena / greater LA;
+distributes CA + NY) of curated French grower wines, natural-leaning and terroir-driven with a deep
+**grower-Champagne** bench and a strong **Northern Rhône / Loire / Jura** spine. Created
+`wiki/importers/La_Grenouille.md` from the site's *Growers* page (~40 producers, pasted 2026-07-09),
+organized by region as a curated onboarding shortlist mapped to Evan's taste filters. Three roster
+names already have producer pages — [[pierre_benetiere|Pierre Bénetière]] (Côte-Rôtie),
+[[ployez_jacquemart|Ployez-Jacquemart]] (Champagne, also Bowler) and [[bruno_lorenzon|Bruno
+Lorenzon]] (Mercurey) — so La Grenouille was added to their `importer_us` and they now render in the
+auto-generated overlap table (Lorenzon carries 3 cellar bottles). Priority veins flagged for later
+per-producer onboarding: grower Champagne (Cazals / Lallement / Brice), Northern Rhône (Gangloff /
+Chave / Reynaud), Josmeyer, the Savennières/Saumur Loire growers, and the Jura (Crédoz). Ran
+`build_rollups.py` (17 importer pages), regenerated `wiki/index.md`; lint 0 issues.

@@ -11,6 +11,7 @@ farming: []
 certifications: []
 importer_us:
 - Bowler
+- La Grenouille
 retailers:
   chambers:
     championed: false

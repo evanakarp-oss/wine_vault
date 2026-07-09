@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Valle d'Aosta"
-updated: 2026-06-19
+updated: 2026-07-09
 producer_count: 1
 ---
 

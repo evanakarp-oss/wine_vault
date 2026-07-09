@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Provence"
-updated: 2026-06-19
+updated: 2026-07-09
 producer_count: 3
 ---
 

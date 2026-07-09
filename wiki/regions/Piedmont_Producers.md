@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Piedmont"
-updated: 2026-06-19
+updated: 2026-07-09
 producer_count: 20
 ---
 
@@ -15,7 +15,7 @@ producer_count: 20
 | [[brovia|Brovia]] | Italy | Barolo / Barbaresco (Castiglione Falletto) | 13 | — | — | — | — |
 | [[produttori_del_barbaresco|Produttori del Barbaresco]] | Italy | Barbaresco | 10 | — | 1 | — | — |
 | [[ceretto|Ceretto]] | Italy | Barolo / Barbaresco | 9 | — | 7 | — | — |
-| [[burlotto|Burlotto]] | Italy | Verduno (Barolo) | 6 | — | — | — | — |
+| [[burlotto|Burlotto]] | Italy | Verduno (Barolo) | 6 | — | — | — | 1 btl |
 | [[cavallotto|Cavallotto]] | Italy | Barolo (Castiglione Falletto) | 6 | — | — | — | — |
 | [[elio_sandri|Elio Sandri]] | Italy | Barolo (Castiglione Falletto) | 6 | — | — | — | — |
 | [[giacomo_conterno|Giacomo Conterno]] | Italy | Barolo (Monforte) | 5 | — | 1 | — | — |

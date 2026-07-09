@@ -5,7 +5,7 @@ slug: bnp
 producer_count: 6
 focus: ['Bordeaux']
 notable_producers: ['Château Léoville Barton', 'Château Calon-Ségur', 'Château Gruaud-Larose', 'Château Lafite Rothschild', 'Château Palmer']
-updated: 2026-06-19
+updated: 2026-07-09
 ---
 
 # BNP

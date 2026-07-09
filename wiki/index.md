@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 907
+total_pages: 908
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**907 pages indexed.**
+**908 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -96,6 +96,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Jose_Pastor_Selections|José Pastor Selections]] — Argentina
 - [[Kermit_Lynch|Kermit Lynch]] — Burgundy, Rhône
 - [[Kysela|Kysela]] — Burgundy
+- [[La_Grenouille|La Grenouille]] — Burgundy, Champagne, Rhône
 - [[Living_Wine_Imports|Living Wine Imports]] — Natural wines.
 - [[Louis|Louis]] — Burgundy, Jura, Rhône, Sicily
 - [[MFW_Wine_Co|MFW Wine Co.]] — France, Georgia, Italy

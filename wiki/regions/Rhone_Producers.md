@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Rhône"
-updated: 2026-06-19
+updated: 2026-07-09
 producer_count: 35
 ---
 
@@ -31,6 +31,7 @@ producer_count: 35
 | [[dard__ribo|Dard & Ribo]] | France | Crozes-Hermitage / Saint-Joseph | 3 | — | — | — | — |
 | [[chapelle_st_theodoric|Chapelle St. Theodoric]] | France | Châteauneuf-du-Pape | 2 | — | — | — | — |
 | [[domaine_gripa|Domaine Gripa]] | France | Saint-Joseph / Saint-Péray | 2 | — | — | — | — |
+| [[jamet|Jamet]] | France | Côte-Rôtie | 2 | — | — | — | — |
 | [[vincent_paris|Vincent Paris]] | France | '' | 2 | 1 | — | 1 | — |
 | [[clos_du_mont_olivet|Clos du Mont Olivet]] | France | '' | 1 | 1 | — | — | — |
 | [[jasmin|Jasmin]] | France | — | 1 | 1 | — | — | — |
@@ -42,7 +43,6 @@ producer_count: 35
 | [[domaine_gallety|Domaine Gallety]] | France | Côtes du Vivarais | — | — | — | — | — |
 | [[eric_et_joel_durand|Eric et Joel Durand]] | France | — | — | 1 | — | — | — |
 | [[georges_vernay|Georges Vernay]] | France | — | — | 1 | 1 | — | — |
-| [[jamet|Jamet]] | France | Côte-Rôtie | — | — | — | — | — |
 | [[jean_royer|Jean Royer]] | France | — | — | 1 | — | — | — |
 | [[marc_sorrel|Marc Sorrel]] | France | '' | — | 15 | — | — | — |
 | [[pierre_benetiere|Pierre Benetiere]] | France | — | — | 5 | — | — | — |

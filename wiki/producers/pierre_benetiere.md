@@ -9,7 +9,7 @@ sub_region: ""
 appellations: []
 farming: []
 certifications: []
-importer_us: []
+importer_us: ["La Grenouille"]
 retailers:
   chambers:
     championed: false
