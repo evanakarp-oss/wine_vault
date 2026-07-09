@@ -892,3 +892,18 @@ three-tier curated onboarding priority (Amerighi/Princic/Simčič/Berti/Maugeri 
 with the values the portfolio needs — **Sardinia** (Italy region), **Slovenia** (country) + **Goriška
 Brda / Vipava Valley / Kras** regions — so onboarding these producers is legal later. Regenerated
 `wiki/index.md` and `wiki/_views/_index.md` (88 views); lint 0 issues; both `--check` hooks pass.
+
+## [2026-07-09] query | US Cabernet producers in the WineBerserkers momentum dataset
+
+_Filed `wiki/_views/us_cabernet_producers_wb_2026_07.md`._ Scanned the WineBerserkers
+cellar-mention momentum export (mentions + '13–14 / '21–22 / '23–26 buckets + momentum
+multiplier) and pulled out the **US Cabernet / Bordeaux-variety red** producers, verifying
+every ambiguous or garagiste name **outside the vault** (web, July 2026) rather than trusting
+the region column. Organized by region (Napa classic / Napa cult-garagiste / Sonoma /
+Washington / Santa Cruz-Monterey), plus a Cab-adjacent tier and an explicit
+flagged-out list. Applied CLAUDE.md's Cabernet taste axis (✅ on-taste site-transparent +
+aged old-guard; ⚠️ cult-hedonist skip). Outside-vault verification caught non-Cab noise the
+list would otherwise carry: Franny Beck (OR Pinot), Milos (Croatian Plavac), Sun Break (OR
+Pinot), Championship Bottle (a shop). Confirmed the rising garagiste cluster as real Napa Cab
+(William & Mary, EMH, La Pelle, Fait-Main, Becklyn, Quivet, Adversity, Beta/Jasud, Greer).
+Regenerated `wiki/_views/_index.md` (89 views); both `--check` hooks pass.
