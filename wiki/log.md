@@ -957,3 +957,16 @@ Skurnik ([[chandon_de_briailles|Chandon de Briailles]] Corton $75), Wilson Danie
 surfaced the pass's best new find, **1974 Biondi Santi Greppo at $80/btl**. Flagged 7 vault
 producers with empty `importer_us` worth backfilling. Regenerated `wiki/_views/_index.md` (91
 views); hooks pass.
+
+## [2026-07-13] query | week-29 whole-case candidates
+
+Third lens on the week-29 catalog: filtered all 223 twelve-bottle lots and ranked the on-taste
+cases; appended a "Whole-case candidates" section to [[auction_261W_week29_wheelhouse_2026_07]].
+Core play is mature Burgundy in case depth — 2003 d'Angerville Champans (×4 identical OCBs,
+$79/btl), Cacheux Croix Rameau '10/'12 ($79–100), M. Noellat Clos Vougeot '95/'96 ($108–125),
+Lafarge Mitans '13 / Comte Lafon Champans '15 ($108), Dujac Morey '14 ($125), Méo NSG ($133–142),
+[[roty|Roty]] Charmes TVV '13 ($183). New finds this pass: **12× 2005 Ganevat Cuvée Julien at
+$50/btl** (owned producer), **2009 Clos des Papes at $54** anchoring a mature-CdP case block
+($25–67), 2015 Confuron-Cotétidot Suchots at $92 (trad whole-cluster Vosne), 1999 J. Raphet Morey
+Millandes at $54, and Naudin-Ferrand HCDN/CdNV cases ($54–67). Case-format skips: the HK
+mid-tier Bordeaux wall, Perrot-Minot, Péby Faugères, Leonetti.

@@ -148,6 +148,71 @@ low. Locations: **DE** (Delaware) or **HK** (Hong Kong — shipping friction).
   Bourg 1er Trie 1989 single (25308, $130).
 - **Vega Sicilia Unico 1990** (28637, $450) — only if the Spanish itch needs scratching.
 
+## Whole-case candidates (12-bottle lots, added 2026-07-13)
+
+223 twelve-bottle lots in the sale; these are the on-taste ones, ranked. (OCB =
+original case.)
+
+**Mature Burgundy in case depth — the core play:**
+
+| Lot | Case | Est | Per btl |
+|---|---|---|---|
+| 22730/31/33/34 | 2003 **Marquis d'Angerville** Volnay Champans (×4 identical, OCB, Rahl cellar) | $950–1,200 | **$79** |
+| 22784 | 2003 **d'Angerville** Volnay Clos des Ducs | $1,700–2,200 | **$142** |
+| 28319 / 28318 | 2012 / 2010 **J. Cacheux** Vosne La Croix Rameau (OCB) | $950–1,500 | **$79–100** |
+| 28309 | 2012 **J. Cacheux** Echézeaux (OCB) | $1,300–1,600 | **$108** |
+| 24717/18 / 24725 | 1995 / 1996 **M. Noellat** Clos Vougeot + 1999 Suchots (OCB) | $1,300–2,000 | **$108–133** |
+| 24050 | 2003 **H. Lignier** Morey Cuvée Romain (OCB, Rahl) | $950–1,200 | **$79** |
+| 28378 | 2013 **M. Lafarge** Volnay Les Mitans (OCB) | $1,300–1,600 | **$108** |
+| 28242 | 2015 **Comte Lafon** Volnay Champans (OCB) | $1,300–1,600 | **$108** |
+| 28245 | 2015 **Confuron-Cotétidot** Vosne Les Suchots (OCB) | $1,100–1,400 | **$92** — trad whole-cluster Vosne, sleeper of the case list |
+| 28270 | 2014 **Dujac** Morey St-Denis (OCB) | $1,500–1,800 | **$125** |
+| 28390 / 28391 | 2011 Boudots / 2013 Murgers **Méo-Camuzet** NSG (OCB) | $1,600–2,200 | **$133–142** |
+| 28348 | 2013 **[[roty\|Roty]]** Charmes-Chambertin TVV (OCB) | $2,200–2,800 | **$183** — grand cru case, vault producer |
+| 28236 / 28238 | 2015 Chambolle Charmes / 2012 Griottes-Chambertin **Chézeaux (Ponsot)** | $1,300–2,800 | **$108–183** |
+| 25730 | 2020 **[[chandon_de_briailles\|Chandon de Briailles]]** Corton Maréchaudes | $900–1,200 | **$75** |
+| 28224 | 2014 **[[domaine_bart\|Bart]]** Marsannay Les St. Jacques | $420–600 | **$35** |
+
+**Value cases under $90 (non-Burgundy or entry):**
+
+- 28839 — 12× 2005 **J.F. Ganevat** Côtes du Jura Cuvée Julien, **$50/btl** (NEW;
+  owned producer, aged grower Jura by the case)
+- 28475 — 12× 2009 **Clos des Papes** Châteauneuf (OCB), **$54/btl** — benchmark
+  estate, top vintage; with 28463 St-Préfert Auguste Favier '17 ($40), 28452
+  Bosquet des Papes '10 ($27), 28477 P. Usseglio Mon Aïeul '09 ($42), 28480
+  R. Usseglio Vignes Centenaires '15 ($67) this is a full mature-CdP case block
+- 27648–50 — 12× 2005 **R. Usseglio** Châteauneuf, **$25/btl** (×3)
+- 23777 etc. — 12× **J. Sunier** Morgon '22 / Fleurie '23 (OCB), **$15/btl** (×8, HK)
+- 23767–69 etc. — **Buisson-Charles** 2023: Beaune Les Teurons **$38**, Volnay
+  Nuances de Calcaires **$83**, Bourgogne rouge **$20** (HK)
+- 22019/21 — 2016 **Naudin-Ferrand** Hautes-Côtes Myosotis Arvensis **$54** /
+  CdN-Villages Viola Odorata **$67** (OCB) — low-intervention cult growers
+- 24709 — 12× 1999 **J. Raphet** Morey Les Millandes (OCB), **$54** — old-school
+  Gevrey négoce-era domaine, mature
+- 25138 — 12× 2005 **Tortochot** Gevrey Champerrier VV (OCB), **$38**
+- 28753 / 28785 — 12× 1996 **Carbonnieux** / 1994 **Lafon-Rochet**, **$29/btl** —
+  mature drink-now claret by the case
+- 28835 — 12× 2005 **N. Potel** Côte de Nuits-Villages VV, **$22**
+
+**White Burgundy cases:** 28439 — 2019 **M. Morey** Chassagne Les Caillerets
+(**$71**); 28424 — 2015 **Bernard Moreau** Chassagne La Maltroie (OCB, **$92**);
+28441 — 2016 **[[ramonet|Ramonet]]** Ruchottes (OCB, **$233**); 27568 — 2008
+**L. Michel** Chablis Butteaux (**$42**, mature oak-free Chablis).
+
+**Trophy cases if depth is the goal:** 28225 Bertheau Bonnes-Mares 2015 ($233),
+28345 Grivot Beaux Monts 2012 ($217), 28401 Mugneret-Gibourg Chaignots 2019
+($250), 28768 Cos d'Estournel 2000 (OCB, $200), 26885/86 Palmer 2001 ($217).
+
+**Case-format skips:** the HK Bordeaux mid-tier wall (Poujeaux, La Lagune, Dame
+de Montrose, Potensac, Desmirail — generic mid-tier per the filter), Perrot-Minot
+(modern extraction), Péby Faugères/Valandraud (modern St-Émilion), Leonetti (WA),
+Ruffino Riserva Ducale.
+
+*Best 6-pack OCBs, for completeness:* the 2007 Prüm Spätlese block ($18–50),
+F. Rinaldi Brunate/Cannubi ($47–53, HK), Chave Hermitage '13/'17 ($217),
+Duroché Champeaux '16 ($142), H. Lignier La Justice '19 ($63), Heresztyn
+Millandes '05 ($80), G. Noellat Petits Monts '15 ($183), Huet Haut-Lieu '16 ($125).
+
 ## Skip (off-taste)
 
 - **The cult-CA mass** (~290 lots): Hundred Acre (7), Bryant, Harlan, Colgin,
