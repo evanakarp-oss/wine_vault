@@ -940,3 +940,20 @@ Champagne (DP P2 '96/'00, Krug '04, Cédric Bouchard), and an **aged old-guard N
 F. Rinaldi Brunate/Cannubi cases ($47–53), 2007 J.J. Prüm Spätlese cases ($18–50), 1993 Huet
 Constance ($72), [[domaine_bart|Bart]] Marsannay ($35). Saved the catalog to `raw/auctions/`,
 regenerated `wiki/_views/_index.md` (90 views); both `--check` hooks pass.
+
+## [2026-07-13] query | week-29 catalog x Fass aesthetic x vault importers
+
+Follow-up lens on [[auction_261W_week29_wheelhouse_2026_07]]: cross-referenced the week-29 Acker
+catalog against the Fass Selections book (123 producers, [[fass_compelling_picks_2026_05]] +
+`raw/fass/markdown/` grep) and against `importer_us` frontmatter (126 producers with data). Filed
+[[auction_261W_week29_fass_importer_xref_2026_07]]. **Zero direct Fass-roster overlap** — but Fass's
+own copy benchmarks against catalog names (Burlotto, Mascarello, G. Rinaldi, Cappellano, Giacosa,
+Bertheau, d'Angerville, Lafarge), so the sale is where to buy the referents: purest "Fass wines Fass
+doesn't sell" are J. Sunier cru Beaujolais ($15/btl), 2003 d'Angerville Champans cases ($79 — mature
+d'Angerville at Buffet money), and the 1975 Fonroque/Phélan Ségur + 1978 Chevalier claret ($35–50,
+the Bel Air-Marquis d'Aligre move). Importer map (137 lots matched): Kermit Lynch deepest (NEW
+Méo-Camuzet NSG Boudots/Murgers cases $133–142/btl), Polaner (G. Conterno '79 Riserva, Sunier),
+Skurnik ([[chandon_de_briailles|Chandon de Briailles]] Corton $75), Wilson Daniels — whose xref
+surfaced the pass's best new find, **1974 Biondi Santi Greppo at $80/btl**. Flagged 7 vault
+producers with empty `importer_us` worth backfilling. Regenerated `wiki/_views/_index.md` (91
+views); hooks pass.
