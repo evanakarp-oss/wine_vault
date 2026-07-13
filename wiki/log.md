@@ -923,3 +923,20 @@ auto-generated overlap table (Lorenzon carries 3 cellar bottles). Priority veins
 per-producer onboarding: grower Champagne (Cazals / Lallement / Brice), Northern Rhône (Gangloff /
 Chave / Reynaud), Josmeyer, the Savennières/Saumur Loire growers, and the Jura (Crédoz). Ran
 `build_rollups.py` (17 importer pages), regenerated `wiki/index.md`; lint 0 issues.
+
+## [2026-07-13] query | auction 261W week-29 wheelhouse screen
+
+Screened Acker catalog `raw/auctions/Catalog_261W_29.xlsx` (1,541 rows / 1,443 distinct lots,
+est. $895K–$1.17M, DE + HK) against the taste filters and diffed against Week 28: **730 lots new**,
+713 carryover, 925 dropped — the Week-28 heroes (1996 Jamet, the Châteauneuf block, 2005
+Gouges/Chevillon, the Montelena vertical) sold. Filed
+[[auction_261W_week29_wheelhouse_2026_07]]. The week is defined by one giant NEW 28xxx consignment:
+a grower Red-Burgundy block (Rousseau, Dujac, Mugneret-Gibourg, [[francois_bertheau|Bertheau]],
+[[domaine_duroche|Duroché]], H. Lignier, [[roty|Roty]] Charmes-TVV mags at $217/btl, Grivot, Cacheux
+Vosne cases at $63–142), a 2019 Raveneau / Roulot / [[ramonet|Ramonet]] white block, late-disgorged
+Champagne (DP P2 '96/'00, Krug '04, Cédric Bouchard), and an **aged old-guard Napa consignment**
+(Heitz Martha's '69–'77, BV Private Reserve '69/'74, Mondavi '69/'74 at ~$90–100/btl, Phelps
+'74/'76, Inglenook '73, Monte Bello '74) — the 2026-07-06 taste note made flesh. Other Tier-1s:
+F. Rinaldi Brunate/Cannubi cases ($47–53), 2007 J.J. Prüm Spätlese cases ($18–50), 1993 Huet
+Constance ($72), [[domaine_bart|Bart]] Marsannay ($35). Saved the catalog to `raw/auctions/`,
+regenerated `wiki/_views/_index.md` (90 views); both `--check` hooks pass.
