@@ -9,7 +9,7 @@ generator: scripts/build_views_index.py
 
 Catalog of every keeper-answer page in `wiki/_views/` — the single read surface for saved analyses (gap analysis, drink-window shortlists, cross-retailer comparisons, critic overlays). The main `wiki/index.md` skips this directory, so this is where views are cataloged.
 
-**91 views.**
+**92 views.**
 
 | Page | Question / title | Updated |
 |---|---|---|
@@ -75,6 +75,7 @@ Catalog of every keeper-answer page in `wiki/_views/` — the single read surfac
 | [[raeders_importers_berserkers_wk_signal_2026_06|raeders_importers_berserkers_wk_signal_2026_06]] | Of the producers stocked at Raeders via the importer-list cross-check, which carry a Berserkers community-favorite signal and/or a William Kelley signal? | 2026-06-13 |
 | [[raeders_spanish_triage_2026_06|raeders_spanish_triage_2026_06]] | Raeders Spanish — what's most in my wheelhouse |  |
 | [[raeders_summer_white_2026|raeders_summer_white_2026]] | What sub-$25 white at Raeder's can be my house wine for the summer? | 2026-06-13 |
+| [[raeders_top100_wb_wk_2026_07|raeders_top100_wb_wk_2026_07]] | Top 100 bottles to buy at Raeders right now, ranked by Berserkers community signal × William Kelley signal × Evan's taste | 2026-07-15 |
 | [[raeders_x_importers_master_2026_06|raeders_x_importers_master_2026_06]] | Full list, by importer, of producers stocked at Raeders — consolidated from all importer-portfolio cross-checks. | 2026-06-13 |
 | [[restrained_napa_sonoma_cab_canon_2026_06|restrained_napa_sonoma_cab_canon_2026_06]] | Top candidates for Napa & Sonoma Cabernet in the restrained / elegant bucket — the Dunn / Corison / Bedrock house style. | 2026-06-18 |
 | [[rosenthal_at_raeders|rosenthal_at_raeders]] | Neal Rosenthal × Raeder's — Inventory Cross-Check | 2026-05-21 |

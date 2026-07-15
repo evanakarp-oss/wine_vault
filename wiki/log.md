@@ -970,3 +970,17 @@ $50/btl** (owned producer), **2009 Clos des Papes at $54** anchoring a mature-Cd
 ($25–67), 2015 Confuron-Cotétidot Suchots at $92 (trad whole-cluster Vosne), 1999 J. Raphet Morey
 Millandes at $54, and Naudin-Ferrand HCDN/CdNV cases ($54–67). Case-format skips: the HK
 mid-tier Bordeaux wall, Perrot-Minot, Péby Faugères, Leonetti.
+
+## [2026-07-15] view | Raeders Top 100 — Berserkers × Kelley × taste
+
+Bottle-level buy list from the Raeders 2026-04-25 snapshot (3,174 bottles), filed at
+`wiki/_views/raeders_top100_wb_wk_2026_07.md`. Method: normalized token match of every
+snapshot producer against the WB top10_in_cellar megathread (2,067 names) + producer-page
+`berserkers_kelley.post_count`, manually disambiguated (Pine Ridge ≠ Ridge, Antica ≠ Antica
+Terra, Giuseppe ≠ Bartolo Mascarello, Louis Latour ≠ Latour), then hand-curated to 100 priced
+bottles through the CLAUDE.md taste filters. Highlights: both named standing Napa targets are
+in stock (Beringer PR 1996 $170, Mondavi Reserve 1986 $200); Palmer '81/'64 + Lynch-Bages '78
+anchor the aged-Bordeaux block; Ramonet (WK 99 posts) and Bruno Lorenzon (WK 12) carry the
+Kelley white-Burgundy lane; Bedrock/Carlisle aged library Zins at release-era prices top the
+WB signal. Sidebar lists 16 unpriced would-be picks to inquire on (Léoville Barton 2000,
+Tondonia 2012, DP P2 '95/'00, Monte Bello 2022).
