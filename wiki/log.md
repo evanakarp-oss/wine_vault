@@ -984,3 +984,17 @@ anchor the aged-Bordeaux block; Ramonet (WK 99 posts) and Bruno Lorenzon (WK 12)
 Kelley white-Burgundy lane; Bedrock/Carlisle aged library Zins at release-era prices top the
 WB signal. Sidebar lists 16 unpriced would-be picks to inquire on (Léoville Barton 2000,
 Tondonia 2012, DP P2 '95/'00, Monte Bello 2022).
+
+## [2026-07-15] update | Raeders Top 100 — vintage refinement pass
+
+Second pass over `wiki/_views/raeders_top100_wb_wk_2026_07.md` applying the cooler-classic
+vintage lens from `vintage_guide.md`. Every pick now carries a ❄️/⚖️/☀️ vintage tag. Twelve
+swaps (out → in): Monprivato '17 → Albino Rocca Barbaresco '04; Vietti Ravera '11 → Langoa
+Barton '14; Roederer Vintage '16 → Valentin Leflaive BdB '14; Péters Montjolys '17 → Roederer
+Brut Nature '15; Palmer '64 → La Lagune '70; Lynch-Bages '03 (heatwave) → Pichon Comtesse '66;
+Giscours '98 → Haut-Batailley '66; To Kalon Res '15 → Groth Reserve '19; Larkmead Dr. Olmo '13
+→ Larkmead '19; Artadi Pagos Viejos '00 → Bethel Heights Aeolian '12; Biondi-Santi '15 → Le
+Chiuse '18 (same lineage, chase year, half price). Two same-wine vintage switches: Togni '18
+→ '19, GPL '18 → '22. Warm-year keeps flagged inline (Ravera '15, Pajé '17, Batailley '82,
+Heitz '16). Beaucastel Blanc VV 2002 reclassified as hard skip (flood-year CdP). d'Angerville
+Champans 2021 (❄️ Volnay bullseye) promoted into the top-10 conviction list.
