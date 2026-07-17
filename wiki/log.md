@@ -998,3 +998,23 @@ Chiuse '18 (same lineage, chase year, half price). Two same-wine vintage switche
 → '19, GPL '18 → '22. Warm-year keeps flagged inline (Ravera '15, Pajé '17, Batailley '82,
 Heitz '16). Beaucastel Blanc VV 2002 reclassified as hard skip (flood-year CdP). d'Angerville
 Champans 2021 (❄️ Volnay bullseye) promoted into the top-10 conviction list.
+
+## [2026-07-17] view | Data integration & quality review — phantom June-9 pass, signal layer, freshness
+
+Full-vault audit answering "how do we improve data integration and answer
+quality." Filed as `wiki/_views/data_quality_integration_review_2026_07.md`.
+Headline: the 2026-06-09 architecture fix pass documented in
+`architecture_review_2026_06` **never landed** — no `link_cellar.py` /
+`fix_crossrefs.py` / `build_home.py` / `HOME.md`, none of the 58 triage
+producer pages, no country hubs, 0/294 cellar wikilinks, and broken
+wikilinks measured at 667 targets / 1,314 occurrences (lint misses them:
+it only checks producer-slug links in producer bodies). Second phantom-work
+incident after Roscioli-152. Eleven ranked recommendations: re-land the
+June-9 pass from the surviving decision records, extend lint to audit
+wikilinks vault-wide + script references in log/views, push-before-log
+session rule, `build_signals.py` unified per-producer signal join,
+freshness stamps (`updated:`/`as_of:`; Raeders snapshot is 12 weeks old),
+views lifecycle status, CRLF + heading-canon normalization (163 CRLF pages,
+`\r` corrupting wikilink targets), one-unit ingests for the four empty
+pipelines, 261W realized-price capture, `scripts/lib/` + idempotency tests,
+drink-window curation. Created this view; regenerated `_views/_index.md`.
