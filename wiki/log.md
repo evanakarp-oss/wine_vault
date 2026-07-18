@@ -1018,3 +1018,18 @@ views lifecycle status, CRLF + heading-canon normalization (163 CRLF pages,
 `\r` corrupting wikilink targets), one-unit ingests for the four empty
 pipelines, 261W realized-price capture, `scripts/lib/` + idempotency tests,
 drink-window curation. Created this view; regenerated `_views/_index.md`.
+
+## [2026-07-18] fix | drive_mirror dead since ~July 7 — migrated Drive auth from service account to personal OAuth
+
+Every `drive_mirror` run was ending "cancelled": Google removed storage
+quota from service accounts, so every upload to the consumer My Drive
+folder failed with `403 storageQuotaExceeded` and rclone retried until
+the 15-min job timeout killed it. Rewrote `drive_mirror.yml` +
+`drive_audit.yml` to authenticate with a personal rclone OAuth token
+(`GDRIVE_RCLONE_TOKEN` secret) instead of `GDRIVE_SERVICE_ACCOUNT_JSON`,
+and made quota/auth failures fail fast and red (`--retries 2`,
+`--drive-stop-on-upload-limit`) instead of hanging. WORKFLOW.md one-time
+setup rewritten (`rclone authorize "drive"` → repo secret; recommended
+one-time wipe of the stale SA-owned Drive contents). Mirror stays down
+until Evan adds the token secret — the workflow now says so explicitly
+instead of pretending to succeed.

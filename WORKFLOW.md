@@ -1,6 +1,6 @@
 ---
 type: workflow_doc
-updated: 2026-05-26
+updated: 2026-07-18
 ---
 
 # Wine Vault — Workflow
@@ -49,9 +49,9 @@ Git solves this:
 ### `drive_mirror.yml`
 
 Triggered on every push to `main` (or manual dispatch). Uses `rclone
-sync` with the service-account credentials to overwrite the Drive
-`wine_vault/` folder with the current repo. Excludes `.git/`,
-`.github/`, `build/`, legacy folders.
+sync` with a personal OAuth token (`GDRIVE_RCLONE_TOKEN` secret) to
+overwrite the Drive `wine_vault/` folder with the current repo.
+Excludes `.git/`, `.github/`, `build/`, legacy folders.
 
 Latency: usually 30–90 seconds after push.
 
@@ -67,50 +67,63 @@ issue if anything is unique to Drive.
 The report lives at `build/drive_audit.md` and is uploaded as a
 workflow artifact (30-day retention).
 
-## One-time setup: Google service account
+## One-time setup: personal OAuth token
 
-Both workflows need a Google service account with Drive API access.
-Five-minute setup:
+Both workflows authenticate to Drive as **you** (evanakarp@gmail.com)
+via a personal rclone OAuth token stored as a repo secret.
 
-1. Go to https://console.cloud.google.com → create a new project
-   (or pick an existing one). Note the project ID.
+> **Why not a service account?** The original setup used a Google
+> service account (`GDRIVE_SERVICE_ACCOUNT_JSON`). Google removed
+> storage quota from service accounts (mid-2026): every upload to a
+> consumer My Drive folder now fails with
+> `403 storageQuotaExceeded`, so the mirror silently broke — runs
+> hung on retries until the 15-min timeout showed them as
+> "cancelled". Shared Drives / OAuth delegation (Google's suggested
+> fixes) both require a paid Workspace account. Personal OAuth is
+> the supported path for a gmail.com account, and has a bonus: the
+> mirrored files are owned by you, not by a robot.
 
-2. Enable the Google Drive API for the project:
-   https://console.cloud.google.com/apis/library/drive.googleapis.com
+Five-minute setup, on any machine with a browser:
 
-3. Create a service account:
-   - IAM & Admin → Service Accounts → Create service account
-   - Name: `wine-vault-mirror`
-   - Skip role grants (Drive permissions are folder-scoped, not
-     project-scoped)
-   - Click Done
+1. Install rclone locally (`brew install rclone` on macOS, or
+   https://rclone.org/install/).
 
-4. Download the JSON key:
-   - Open the service account → Keys tab → Add key → Create new key
-   - Type: JSON → Create
-   - Save the downloaded file
+2. Run:
 
-5. Share the Drive folder with the service account:
-   - Open https://drive.google.com/drive/folders/1lqMRm9PiLel19kGC7FAZgd-2cHu2CZBB
-   - Click Share
-   - Paste the service account email (looks like
-     `wine-vault-mirror@<project>.iam.gserviceaccount.com`)
-   - Set role: **Editor** (the mirror needs write access)
-   - Click Send (uncheck "Notify people")
+   ```sh
+   rclone authorize "drive"
+   ```
 
-6. Add the JSON as a GitHub repo secret:
+   A browser window opens → sign in as evanakarp@gmail.com → allow.
+   The terminal then prints a token — a single-line JSON blob like
+   `{"access_token":"ya29...","token_type":"Bearer","refresh_token":"1//...","expiry":"..."}`.
+   Copy the whole `{...}` blob (only the JSON, not the surrounding
+   `--->`/`<---` markers).
+
+3. Add it as a GitHub repo secret:
    - GitHub → repo Settings → Secrets and variables → Actions → New
      repository secret
-   - Name: `GDRIVE_SERVICE_ACCOUNT_JSON`
-   - Value: paste the entire JSON file contents (one big blob)
+   - Name: `GDRIVE_RCLONE_TOKEN`
+   - Value: the JSON blob from step 2
    - Click Add
 
-7. Test:
-   - Actions tab → drive_mirror → Run workflow → check "Dry-run" → Run
-   - Should complete green. If it fails, the log shows what's wrong
-     (usually a missing share or the wrong folder ID).
+4. One-time cleanup (recommended): the old service account owned the
+   files it uploaded, and the mirror was broken for a while, so the
+   Drive folder is stale and mixed-ownership. Open
+   https://drive.google.com/drive/folders/1lqMRm9PiLel19kGC7FAZgd-2cHu2CZBB
+   and delete its **contents** (not the folder itself). The next
+   mirror run repopulates it fresh, owned by you.
 
-After this, every push to `main` mirrors automatically.
+5. Test:
+   - Actions tab → drive_mirror → Run workflow → check "Dry-run" → Run
+   - Should complete green. Then run once without dry-run (or just
+     push to `main`).
+
+After this, every push to `main` mirrors automatically. The token
+includes a refresh token, so it doesn't expire on a timer; if it's
+ever revoked (Google account security page, password change), repeat
+steps 2–3. The old `GDRIVE_SERVICE_ACCOUNT_JSON` secret can be
+deleted.
 
 ## Mobile setup (one-time)
 

@@ -30,21 +30,24 @@ jobs:
 
       - name: Configure rclone
         env:
-          SA_JSON: ${{ secrets.GDRIVE_SERVICE_ACCOUNT_JSON }}
+          RCLONE_TOKEN: ${{ secrets.GDRIVE_RCLONE_TOKEN }}
         run: |
-          if [ -z "$SA_JSON" ]; then
-            echo "::error::GDRIVE_SERVICE_ACCOUNT_JSON repo secret not set."
+          if [ -z "$RCLONE_TOKEN" ]; then
+            echo "::error::GDRIVE_RCLONE_TOKEN repo secret not set. Run 'rclone authorize \"drive\"' locally and save the token JSON as a repo secret. See WORKFLOW.md."
             exit 1
           fi
           mkdir -p "$HOME/.config/rclone"
-          echo "$SA_JSON" > "$HOME/.config/rclone/sa.json"
           cat > "$HOME/.config/rclone/rclone.conf" <<EOF
+          # scope = drive (not readonly): must match the scope the
+          # GDRIVE_RCLONE_TOKEN was authorized with. The audit itself
+          # only reads.
           [gdrive]
           type = drive
-          scope = drive.readonly
-          service_account_file = $HOME/.config/rclone/sa.json
+          scope = drive
+          token = $RCLONE_TOKEN
           root_folder_id = 1lqMRm9PiLel19kGC7FAZgd-2cHu2CZBB
           EOF
+          chmod 600 "$HOME/.config/rclone/rclone.conf"
 
       - name: Run audit
         id: audit

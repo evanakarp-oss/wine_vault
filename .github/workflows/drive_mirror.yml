@@ -5,11 +5,16 @@ name: drive_mirror
 # a read-only output (so Obsidian / claude.ai / the iOS Drive app can
 # browse the latest state without having to clone the repo).
 #
-# Requires the `GDRIVE_SERVICE_ACCOUNT_JSON` repo secret — a Google
-# service-account JSON key with the Drive API enabled. The service
-# account email must be shared as an editor on the wine_vault Drive
-# folder (folder ID `1lqMRm9PiLel19kGC7FAZgd-2cHu2CZBB`). See WORKFLOW.md
-# for one-time setup.
+# Auth: requires the `GDRIVE_RCLONE_TOKEN` repo secret — a personal
+# Google OAuth token generated with `rclone authorize "drive"`. See
+# WORKFLOW.md for the one-time setup.
+#
+# History: this workflow originally authenticated with a Google service
+# account (`GDRIVE_SERVICE_ACCOUNT_JSON`). Google removed storage quota
+# from service accounts (mid-2026), so every upload to a consumer My
+# Drive folder now fails with 403 storageQuotaExceeded — the mirror
+# silently hung on retries until the job timeout killed it. Personal
+# OAuth is the supported path for non-Workspace accounts.
 #
 # Trigger: push to main, or manual via the Actions tab.
 
@@ -41,24 +46,28 @@ jobs:
           curl -fsSL https://rclone.org/install.sh | sudo bash
           rclone version
 
-      - name: Write service-account credentials
+      - name: Write rclone OAuth config
         env:
+          RCLONE_TOKEN: ${{ secrets.GDRIVE_RCLONE_TOKEN }}
           SA_JSON: ${{ secrets.GDRIVE_SERVICE_ACCOUNT_JSON }}
         run: |
-          if [ -z "$SA_JSON" ]; then
-            echo "::error::GDRIVE_SERVICE_ACCOUNT_JSON repo secret not set. See WORKFLOW.md for setup."
+          if [ -z "$RCLONE_TOKEN" ]; then
+            if [ -n "$SA_JSON" ]; then
+              echo "::error::GDRIVE_RCLONE_TOKEN secret not set. The old GDRIVE_SERVICE_ACCOUNT_JSON no longer works — Google removed storage quota from service accounts, so all uploads 403. Run 'rclone authorize \"drive\"' locally and save the token JSON as the GDRIVE_RCLONE_TOKEN repo secret. See WORKFLOW.md."
+            else
+              echo "::error::GDRIVE_RCLONE_TOKEN repo secret not set. See WORKFLOW.md for setup."
+            fi
             exit 1
           fi
           mkdir -p "$HOME/.config/rclone"
-          echo "$SA_JSON" > "$HOME/.config/rclone/sa.json"
           cat > "$HOME/.config/rclone/rclone.conf" <<EOF
           [gdrive]
           type = drive
           scope = drive
-          service_account_file = $HOME/.config/rclone/sa.json
+          token = $RCLONE_TOKEN
           root_folder_id = 1lqMRm9PiLel19kGC7FAZgd-2cHu2CZBB
           EOF
-          chmod 600 "$HOME/.config/rclone/sa.json"
+          chmod 600 "$HOME/.config/rclone/rclone.conf"
 
       - name: Mirror repo → Drive (git is source of truth)
         env:
@@ -67,6 +76,9 @@ jobs:
           # --exclude patterns mirror .driveignore + repo metadata.
           # The `.git/` directory itself is never synced (no one wants
           # a 500MB .git tree mirrored to Drive).
+          # Low retry counts + --drive-stop-on-upload-limit: a quota or
+          # auth failure should fail the run red in seconds, not hang
+          # on retries until the job timeout reports "cancelled".
           DRY_FLAG=""
           if [ "$DRY" = "true" ]; then DRY_FLAG="--dry-run"; fi
           rclone sync . gdrive: \
@@ -84,12 +96,14 @@ jobs:
             --fast-list \
             --transfers 8 \
             --checkers 16 \
+            --retries 2 \
+            --low-level-retries 4 \
+            --drive-stop-on-upload-limit \
             $DRY_FLAG \
             --stats 30s \
             --stats-one-line
 
       - name: Summary
-        if: always()
         run: |
           echo "Mirrored commit ${GITHUB_SHA:0:7} to Drive."
           echo "Drive folder: https://drive.google.com/drive/folders/1lqMRm9PiLel19kGC7FAZgd-2cHu2CZBB"
