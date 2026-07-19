@@ -1057,3 +1057,25 @@ Carso pair, Raccaro, Doro Princic), decode table, cellar drink-now flags
 mini-vertical idea. Regenerated rollups (new
 `regions/Friuli-Venezia_Giulia_Producers.md`), `wiki/index.md`,
 `_views/_index.md`; lint 0 issues.
+
+## [2026-07-19] view | WK price ↔ quality dislocation board
+
+Query: "which wines are most dislocated in price from the quality/pleasure
+WK ascribes to them?" Answered strictly from the Berserkers Kelley corpus
+(4,729 posts) plus the existing WK views; the Wine Advocate clipping dirs
+are still empty, so signal is forum prose with verbatim cites. Filed at
+`_views/wk_price_quality_dislocations_2026_07`. Underpriced side is ranked:
+Roty Marsannay + grand crus vs Rousseau ("relatively weak renditions"),
+Chassagne Rouge as a category (Bachelet/Pillot/Cardeuse/Ramonet reds),
+Mugnier Clos de la Maréchale ("amazing that it isn't more expensive"),
+Audoin-vs-Dujac, Bouley Fremiers, Dureuil-Janthial Meix Cadot ("if this
+came from Puligny…"), Richoux Irancy, Javillier, Glantenay, plus his
+drinking-list one-liners (Pepière, des Tours, Chermette, Kalin, aged NV
+Champagne) and blanket region calls. Overpriced side: Vosne zip-code 1ers
+(Suchots / Michel Noëllat), Rousseau Mazis/Charmes, Arnoux-Lachaux at
+retail. Closed-dislocation section (Mugneret-Gibourg Chaignots, Jean-Marc
+Vincent, Ramonet whites) plus contrarian-Bordeaux finds verified against
+raw posts — the "1982/2011 overpriced" quotes were other posters; WK took
+the value side (2011 VCC, 2011 Latour, well-stored '82s). Cellar overlap:
+already own the two clearest single-wine dislocations (2018 Mugnier
+Maréchale, 2013 Maltroye Clos St-Jean Rouge). Regenerated `_views/_index.md`.
