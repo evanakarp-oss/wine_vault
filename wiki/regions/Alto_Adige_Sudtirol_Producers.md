@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Alto Adige / Südtirol"
-updated: 2026-07-09
+updated: 2026-07-19
 producer_count: 2
 ---
 

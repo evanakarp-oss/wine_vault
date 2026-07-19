@@ -1033,3 +1033,27 @@ setup rewritten (`rclone authorize "drive"` → repo secret; recommended
 one-time wipe of the stale SA-owned Drive contents). Mirror stays down
 until Evan adds the token secret — the workflow now says so explicitly
 instead of pretending to succeed.
+
+## [2026-07-19] ingest | Friuli pass: 56 producer pages from enoteca list + cellar, region rollup, producer-map view
+
+The vault had zero Friuli-Venezia Giulia producer pages despite "Italian
+Friuli" sitting in the cellar style and 26 owned Friuli bottles. Evan
+supplied a machine-translated Italian enoteca list (~50 producers; landed
+raw in `raw/friuli_list/wine_list_2026-07-19.md` with decode notes in its
+README). LLM-decoded the garbled names ("Streets of Romans" = Vie di
+Romans, "Linden Village" = Borgo del Tiglio, "Picky" = Pignolo,
+"Highlands" = Terre Alte), then created 56 producer pages: ~50 from the
+list plus the 5 cellar-owned producers with no wiki backing (Ronchi di
+Cialla, Le Due Terre, Radikon, Dario Princic, Marco Sara). CSW's Friuli
+editorial (2026-01 "Friuli!", 2025-06 Radikon feature, 2016 aged-Collio
+piece) seeds the pages it covers; Jermann + Livio Felluga carry their
+Raeders snapshot rows. Four pages are provisional and tagged `verify`
+(La Magnolia, Galliussi, Necotium, Malina); two list names stayed
+unresolved (Sungiorgio, "Indian Fund"). Keeper analysis filed at
+`_views/friuli_producer_map_2026_07` — taste-tiered map (Tier 1: Oslavia
+school, Vignai da Duline, Ronco del Gnemiz, Borgo del Tiglio, Edi Keber,
+Carso pair, Raccaro, Doro Princic), decode table, cellar drink-now flags
+(Radikon 2008, Cialla '98/'99, Sacrisassi Bianco 2019), and a Pignolo
+mini-vertical idea. Regenerated rollups (new
+`regions/Friuli-Venezia_Giulia_Producers.md`), `wiki/index.md`,
+`_views/_index.md`; lint 0 issues.

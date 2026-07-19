@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 908
+total_pages: 965
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**908 pages indexed.**
+**965 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -36,6 +36,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Colli_Tortonesi_Producers|Colli Tortonesi Producers]] — **1 producers** tracked.
 - [[Corsica_Producers|Corsica Producers]] — **1 producers** tracked.
 - [[Franken_Producers|Franken Producers]] — **2 producers** tracked.
+- [[Friuli-Venezia_Giulia_Producers|Friuli-Venezia Giulia Producers]] — **56 producers** tracked.
 - [[Jujuy_Producers|Jujuy Producers]] — **2 producers** tracked.
 - [[Jura_Producers|Jura Producers]] — **14 producers** tracked.
 - [[Liguria_Producers|Liguria Producers]] — **1 producers** tracked.
@@ -94,7 +95,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Jeffrey_Alpert_Selections|Jeffrey Alpert Selections]] — NYC. Natural/artisan.
 - [[Jenny_&_Francois_Selections|Jenny & François Selections]] — Beaujolais, France, Loire
 - [[Jose_Pastor_Selections|José Pastor Selections]] — Argentina
-- [[Kermit_Lynch|Kermit Lynch]] — Burgundy, Rhône
+- [[Kermit_Lynch|Kermit Lynch]] — Burgundy, Friuli-Venezia Giulia, Rhône
 - [[Kysela|Kysela]] — Burgundy
 - [[La_Grenouille|La Grenouille]] — Burgundy, Champagne, Rhône
 - [[Living_Wine_Imports|Living Wine Imports]] — Natural wines.
@@ -269,7 +270,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_365 producers across 37 regions._
+_421 producers across 38 regions._
 
 ### Abruzzo
 
@@ -482,6 +483,65 @@ _365 producers across 37 regions._
 
 - [[max_kilburg|Max Kilburg]] — Franken · CSW ★2/3
 - [[rudolf_furst|Rudolf Furst]] — Franken · CSW 5 · DTE 2
+
+### Friuli-Venezia Giulia
+
+- [[adriano_gigante|Gigante (Adriano)]] — Friuli-Venezia Giulia / Colli Orientali (Corno di Rosazzo)
+- [[borgo_del_tiglio|Borgo del Tiglio]] — Friuli-Venezia Giulia / Collio (Brazzano di Cormons) · CSW 1
+- [[canus|Canus]] — Friuli-Venezia Giulia / Colli Orientali (Corno di Rosazzo)
+- [[castelvecchio|Castelvecchio]] — Friuli-Venezia Giulia / Carso (Sagrado)
+- [[colle_duga|Colle Duga]] — Friuli-Venezia Giulia / Collio (Zegla, Cormons)
+- [[damijan_podversic|Damijan Podversic]] — Friuli-Venezia Giulia / Collio (Gorizia / Monte Calvario) · organic, natural
+- [[dario_coos|Dario Coos]] — Friuli-Venezia Giulia / Colli Orientali (Nimis / Ramandolo)
+- [[dario_princic|Dario Princic]] — Friuli-Venezia Giulia / Collio (Oslavia) · organic, natural
+- [[dario_raccaro|Dario Raccaro]] — Friuli-Venezia Giulia / Collio (Cormons)
+- [[de_puppi|De Puppi]] — Friuli-Venezia Giulia / Colli Orientali (Moimacco)
+- [[di_lenardo|Di Lenardo]] — Friuli-Venezia Giulia / Friuli Grave (Ontagnano di Gonars)
+- [[doro_princic|Doro Princic]] — Friuli-Venezia Giulia / Collio (Pradis di Cormons) · CSW 1
+- [[edi_keber|Edi Keber]] — Friuli-Venezia Giulia / Collio (Zegla, Cormons) · sustainable
+- [[eugenio_collavini|Eugenio Collavini]] — Friuli-Venezia Giulia / Colli Orientali (Corno di Rosazzo)
+- [[franco_toros|Franco Toros]] — Friuli-Venezia Giulia / Collio (Novali, Cormons)
+- [[galliussi|Galliussi]] — Friuli-Venezia Giulia / Colli Orientali
+- [[gravner|Gravner]] — Friuli-Venezia Giulia / Collio (Oslavia) · biodynamic, natural · CSW 1
+- [[isidoro_polencig|Isidoro Polencig]] — Friuli-Venezia Giulia / Collio (Plessiva, Cormons)
+- [[jermann|Jermann]] — Friuli-Venezia Giulia / Collio / Isonzo (Villanova di Farra) · Raeder 4
+- [[kante|Kante]] — Friuli-Venezia Giulia / Carso (San Pelagio, Duino Aurisina) · organic
+- [[la_castellada|La Castellada]] — Friuli-Venezia Giulia / Collio (Oslavia) · organic, natural
+- [[la_magnolia|La Magnolia]] — Friuli-Venezia Giulia / Colli Orientali
+- [[la_ponca|La Ponca]] — Friuli-Venezia Giulia / Collio · organic
+- [[la_tunella|La Tunella]] — Friuli-Venezia Giulia / Colli Orientali (Premariacco)
+- [[le_due_terre|Le Due Terre]] — Friuli-Venezia Giulia / Colli Orientali (Prepotto) · organic
+- [[le_monde|Le Monde]] — Friuli-Venezia Giulia / Friuli Grave (Prata di Pordenone)
+- [[le_vigne_di_zamo|Le Vigne di Zamò]] — Friuli-Venezia Giulia / Colli Orientali (Rosazzo / Manzano)
+- [[lis_neris|Lis Neris]] — Friuli-Venezia Giulia / Isonzo (San Lorenzo Isontino)
+- [[livio_felluga|Livio Felluga]] — Friuli-Venezia Giulia / Colli Orientali (Brazzano / Rosazzo) · Raeder 1
+- [[livon|Livon]] — Friuli-Venezia Giulia / Collio (Dolegnano, San Giovanni al Natisone)
+- [[malina|Malina]] — Friuli-Venezia Giulia / Colli Orientali
+- [[marco_sara|Marco Sara]] — Friuli-Venezia Giulia / Colli Orientali (Savorgnano del Torre, Povoletto) · organic
+- [[monviert|Monviert]] — Friuli-Venezia Giulia / Colli Orientali (Savorgnano del Torre, Povoletto)
+- [[necotium|Necotium]] — Friuli-Venezia Giulia / Colli Orientali
+- [[paolo_caccese|Paolo Caccese]] — Friuli-Venezia Giulia / Collio (Pradis, Cormons)
+- [[paolo_rodaro|Paolo Rodaro]] — Friuli-Venezia Giulia / Colli Orientali (Spessa di Cividale)
+- [[piticco|Piticco]] — Friuli-Venezia Giulia / Colli Orientali (Prepotto area)
+- [[puiatti|Puiatti]] — Friuli-Venezia Giulia / Collio / Isonzo (Romans d'Isonzo)
+- [[radikon|Radikon]] — Friuli-Venezia Giulia / Collio (Oslavia) · organic, natural · CSW ★1/1
+- [[roberto_picech|Roberto Picèch]] — Friuli-Venezia Giulia / Collio (Pradis, Cormons)
+- [[ronchi_di_cialla|Ronchi di Cialla]] — Friuli-Venezia Giulia / Colli Orientali (Cialla, Prepotto) · CSW 1
+- [[ronchi_di_manzano|Ronchi di Manzano]] — Friuli-Venezia Giulia / Colli Orientali (Manzano)
+- [[ronco_dei_tassi|Ronco dei Tassi]] — Friuli-Venezia Giulia / Collio (Cormons)
+- [[ronco_del_gnemiz|Ronco del Gnemiz]] — Friuli-Venezia Giulia / Colli Orientali (San Giovanni al Natisone) · organic
+- [[rosa_bosco|Rosa Bosco]] — Friuli-Venezia Giulia / Colli Orientali (Manzano)
+- [[russiz_superiore|Russiz Superiore]] — Friuli-Venezia Giulia / Collio (Capriva del Friuli)
+- [[specogna|Specogna]] — Friuli-Venezia Giulia / Colli Orientali (Corno di Rosazzo) · sustainable
+- [[tenuta_luisa|Tenuta Luisa]] — Friuli-Venezia Giulia / Isonzo (Corona di Mariano del Friuli)
+- [[tiare|Tiare]] — Friuli-Venezia Giulia / Collio (Dolegna del Collio)
+- [[torre_rosazza|Torre Rosazza]] — Friuli-Venezia Giulia / Colli Orientali (Oleis di Manzano)
+- [[venica_venica|Venica & Venica]] — Friuli-Venezia Giulia / Collio (Dolegna del Collio) · sustainable
+- [[vie_di_romans|Vie di Romans]] — Friuli-Venezia Giulia / Isonzo (Mariano del Friuli)
+- [[vignai_da_duline|Vignai da Duline]] — Friuli-Venezia Giulia / Colli Orientali (San Giovanni al Natisone / Villanova del Judrio) · organic · CSW 1
+- [[villa_russiz|Villa Russiz]] — Friuli-Venezia Giulia / Collio (Capriva del Friuli)
+- [[zidarich|Zidarich]] — Friuli-Venezia Giulia / Carso (Prepotto, Duino Aurisina) · organic, natural · CSW 1
+- [[zuani|Zuani]] — Friuli-Venezia Giulia / Collio (San Floriano del Collio)
 
 ### Jujuy
 

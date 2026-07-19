@@ -4,15 +4,15 @@ name: "Raeder's"
 slug: raeders
 url: "https://www.raederswine.com"
 location: ""
-producer_count: 56
-updated: 2026-07-09
-_source: wiki/_resources.md
+producer_count: 58
+updated: 2026-07-19
 tags: []
+_source: wiki/_resources.md
 ---
 # Raeder's
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**56 producers** from this retailer are tracked in the wiki.
+**58 producers** from this retailer are tracked in the wiki.
 
 ## Producers in portfolio
 
@@ -46,6 +46,7 @@ tags: []
 | [[chateau_smith_haut_lafitte|Château Smith-Haut-Lafitte]] | France | Bordeaux | 5 | 2 |
 | [[chateau_gruaud_larose|Château Gruaud-Larose]] | France | Bordeaux | 4 | 1 |
 | [[hundred_acre|Hundred Acre]] | United States | California | 4 | — |
+| [[jermann|Jermann]] | Italy | Friuli-Venezia Giulia | 4 | — |
 | [[chateau_calon_segur|Château Calon-Ségur]] | France | Bordeaux | 3 | 1 |
 | [[chateau_pape_clement|Château Pape Clément]] | France | Bordeaux | 3 | — |
 | [[michel_niellon|Michel Niellon]] | France | Burgundy | 3 | — |
@@ -72,6 +73,7 @@ tags: []
 | [[georges_vernay|Georges Vernay]] | France | Rhône | 1 | — |
 | [[giacomo_conterno|Giacomo Conterno]] | Italy | Piedmont | 1 | 5 |
 | [[larmandier_bernier|Larmandier Bernier]] | France | Champagne | 1 | 1 |
+| [[livio_felluga|Livio Felluga]] | Italy | Friuli-Venezia Giulia | 1 | — |
 | [[produttori_del_barbaresco|Produttori del Barbaresco]] | Italy | Piedmont | 1 | 10 |
 | [[screaming_eagle|Screaming Eagle]] | United States | California | 1 | 1 |
 
