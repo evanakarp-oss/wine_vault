@@ -1079,3 +1079,24 @@ raw posts — the "1982/2011 overpriced" quotes were other posters; WK took
 the value side (2011 VCC, 2011 Latour, well-stored '82s). Cellar overlap:
 already own the two clearest single-wine dislocations (2018 Mugnier
 Maréchale, 2013 Maltroye Clos St-Jean Rouge). Regenerated `_views/_index.md`.
+
+## [2026-07-19] view | WK × priced inventory — live dislocations
+
+Follow-up to the dislocation board: restrict to wines with actual price
+data (Raeders 2026-04-25 bottle rows + DTE ranges) and weight WK's
+qualitative WB prose heavily — his personal purchases (W1) above explicit
+mispricing statements (W2) above emphatic praise (W3); mere mentions
+excluded. Scores were a near-empty set (WA clippings dir empty, Raeders
+score columns all zero; only the 98-pt 2019 A-L RSV and a third-party
+"many 95pts" Lorenzon report), so prose carries the ranking. Frontmatter
+join found 59 producers with WK signal + price; manual sweep added the
+WK names missing `berserkers_kelley` blocks. Filed at
+`_views/wk_priced_inventory_dislocations_2026_07`. Headline: Boulay
+Sancerre $32 (Cotat company), Desvignes Morgon from $23, Bouley 1ers from
+$55 (WK bought 12 bottles of the 2020s himself — corpus find
+`285849__0446`), Mugnier Maréchale $230, Ramonet Chassagne Rouge $120;
+aged sleeper 1964 Ducru $100. Avoid side: Arnoux-Lachaux at retail,
+Michel Noëllat, Esprit Leflaive négoce at $370–540, Lady Gaga DP $500,
+post-2009 Clos du Mont Olivet. Watchlist for names WK rates but nothing
+priced today (Dureuil, Richoux, Pepière, des Tours, Antoine-vs-Julien
+Sunier trap). Regenerated `_views/_index.md`.

@@ -9,7 +9,7 @@ generator: scripts/build_views_index.py
 
 Catalog of every keeper-answer page in `wiki/_views/` — the single read surface for saved analyses (gap analysis, drink-window shortlists, cross-retailer comparisons, critic overlays). The main `wiki/index.md` skips this directory, so this is where views are cataloged.
 
-**95 views.**
+**96 views.**
 
 | Page | Question / title | Updated |
 |---|---|---|
@@ -106,5 +106,6 @@ Catalog of every keeper-answer page in `wiki/_views/` — the single read surfac
 | [[wk_dte_burgundy_2026_06|wk_dte_burgundy_2026_06]] | Which Burgundy producers in the Down to Earth (Panzer) portfolio would William Kelley actually buy? | 2026-06-09 |
 | [[wk_dte_picks_2026_06|wk_dte_picks_2026_06]] | Of the wines at Down to Earth (Panzer), what are William Kelley's top picks — most under $80, a few trophy bottles? | 2026-06-16 |
 | [[wk_price_quality_dislocations_2026_07|wk_price_quality_dislocations_2026_07]] | Which wines are most dislocated in price from the quality/pleasure William Kelley ascribes to them? | 2026-07-19 |
+| [[wk_priced_inventory_dislocations_2026_07|wk_priced_inventory_dislocations_2026_07]] | WK comments (and scores) compared against wines we hold price data on, weighting his qualitative WB prose heavily — where are the live dislocations? | 2026-07-19 |
 | [[zachys_palm_beach_top_picks_2026_06|zachys_palm_beach_top_picks_2026_06]] | Top picks from Zachys zCollections 'Exceptional Palm Beach Collection' (NY, June 9–22; 1,742 lots) filtered through Evan's curation taste. | 2026-06-10 |
 | [[zev_rovine_selections_raeders_xref_2026-06|zev_rovine_selections_raeders_xref_2026-06]] | Zev Rovine Selections × Raeder's — Cross-Reference | 2026-06-13 |
