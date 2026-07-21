@@ -1133,3 +1133,21 @@ page (Dunn, Matthiasson, Anthill Farms, R. Chevillon, S. Bize, H. Lamy, Roulot,
 Raveneau, Dauvissat, Huet, Sauzet, Dominio del Águila, Kelley Fox, Eyrie, Togni,
 C. Bouchard, P. Péters) as onboarding candidates. Saved the catalog to
 `raw/auctions/`, regenerated `wiki/_views/_index.md`; both `--check` hooks pass.
+
+## [2026-07-21] fix | Napa-Cab taste filter — opulent cult tier is on-taste
+
+Evan corrected the California-Cab curation filter (had over-indexed on "skip the
+cult-hedonist tier"). Reality is **two** on-taste tracks, not one: (1) old-guard /
+restrained / site-transparent — Dunn, Corison, La Jota, Ridge Monte Bello, Dalla
+Valle, **Beta** (which Evan places in the Dunn/Corison old-school vein, *not* the
+cult tier); and (2) **opulent / cult Napa Cabernet, genuinely loved** — **Bond,
+Harlan, Araujo (Eisele), Kapcsandy** are targets, buy in range (Abreu same camp).
+**Schrader, Colgin, Hundred Acre** are admired-but-out-of-range — cite, don't chase,
+but *not* off-taste skips. The real skip is opulent California **Syrah/Rhône** (Sine
+Qua Non, Saxum, Next of Kyn, Law Estate), inferred from Evan's "opulent cab vs
+Syrah" framing. Rewrote `CLAUDE.md` Curation-taste (two-track structure, superseding
+the 2026-05-29 blanket "skip Harlan/Schrader/SQN/Colgin/Hundred Acre" line) and
+reworked [[auction_261W_week30_wheelhouse_2026_07]]: moved Bond/Harlan/Kapcsandy/
+Abreu from Skip into a new "Opulent / cult Napa Cabernet (Track 2)" section, added
+Beta to Track 1, and narrowed the Skip to opulent CA Syrah + other unscreened Napa
+Cab (now presumptively in-scope).

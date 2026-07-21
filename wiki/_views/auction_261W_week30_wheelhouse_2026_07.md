@@ -113,16 +113,35 @@ Locations: **DE** (Delaware), **HK** (Hong Kong — shipping friction), **LN**
 - **Soldera Case Basse 1998** (29691/92, $733–750) — legendary ultra-trad
   Brunello, for the shrine.
 
-### Aged old-guard & mountain California Cab
+### Aged old-guard & mountain California Cab (Track 1 — restrained/site-transparent)
 - **Stag's Leap Wine Cellars SLV 1975** (29416, **$130**) — the Judgment-of-Paris
   wine at 50 yrs; historic old-guard.
 - **[[philip_togni|Philip Togni]]** — NEW: 2019 9-pack (29251, **$77**), 2009
   (29250, $90). Spring Mtn classicist, taste-note sibling, by the case.
+- **Beta Cabernet Montecillo Vineyard 2016 / 2017** (29698/99, **$60–65**) — cellar
+  producer; Evan places it in the old-school Dunn/Corison vein, not the cult tier.
 - **Joseph Phelps Insignia** — aged: 2002 (29707, **$225**), 2005 (26721, $180,
   carry), 2006 (26722, $260). Taste-note sibling.
 - **Carry old-guard values** — Flora Springs Reserve 1992 (27874, **$40**), Groth
   1994 (24330, **$52**), Sterling Reserve 1986 (26256, **$30**), Dunn Napa 2005
   (26658, $160), Mayacamas Merlot 1992 (24476, $100). Ric Forman '85/'93 (29704).
+
+### Opulent / cult Napa Cabernet (Track 2 — corrected 2026-07-21)
+Evan's taste genuinely embraces the opulent Napa-Cab tier alongside the old guard;
+these move **out of the Skip pile** and into scope — buy in range:
+- **Bond** — full NEW vertical, Melbury / St Eden / Vecina / Quella / Pluribus
+  2003–2014 (29216–43), **$220–320/btl**; the 2009/2013 singles ($220–260) are the
+  value doors.
+- **Harlan Estate** — 2013 The Maiden (29248, **$200**) is the entry; estate 2011
+  (29246, $550) / 2014 (29247, $700) / 1996 (29705, $800) / 2009 (26671, $1,200).
+- **Kapcsandy** State Lane Vyd 2014 (29440, **$150**, HK) — cheapest way into the tier.
+- **Abreu** (same camp) Madrona Ranch 2006/2008 (29211/12, $180–260), Cappella
+  2007/2008 (29213–15, $180–200); **Dalla Valle Maya 2007** (29437, $300, HK) —
+  bridges both tracks (Oakville reference estate).
+- **Admired but "out of range"** (cite, don't chase): Schrader CCS 2013 (29252,
+  $250) / GIII / LPV ($150); Colgin IX Estate ($175–400); Hundred Acre (Wraith /
+  Dark Ark / Kayli Morgan, $375–433); Screaming Eagle 2020 ($1,833). *Araujo: only
+  the Eisele Vineyard Sauvignon Blanc 2020 (28526) is in the sale — no Araujo Cab.*
 
 ### Cool-climate California (Anthill / Matthiasson consignment)
 - **Anthill Farms** — NEW, dozens of lots of restrained Sonoma/Anderson Pinot:
@@ -256,17 +275,19 @@ Monvigliero (100pts), Soldera Case Basse '98, G. Rinaldi Brunate Le Coste 2009
 
 ## Skip (off-taste)
 
-- **The cult-CA mass** (~180 new lots): the entire **BOND** vertical (Melbury /
-  St Eden / Vecina / Quella / Pluribus, 29216–43), **Abreu** (Madrona / Thorevilos
-  / Cappella), Harlan, Colgin IX Estate, Screaming Eagle, Schrader (CCS/GIII/LPV),
-  Hundred Acre (Wraith/Dark Ark), Paul Hobbs To-Kalon, Peter Michael, Rudd,
-  Maybach, Kapcsandy, Realm, Blankiet, Lokoya. Off the site-transparent axis. (Note:
-  BOND, Blankiet, Beta are *cellar* producers from Evan's pre-2026 opulent phase —
-  present here, but off the current taste axis; not flagged as buys.)
-- **The opulent-Rhône-style CA blocks** — the large **Saxum** consignment (~110
-  lots, Paso GSM/Syrah, $55–190) and **Sine Qua Non** run (Grenache/Syrah,
-  $160–400) plus Next of Kyn, Law Estate, Alban: genuinely single-vineyard but the
-  opulent/high-octane profile the 2026-05-29 note steers away from.
+*Correction (2026-07-21): opulent **Napa Cabernet** is on-taste, not a skip — the
+Bond / Harlan / Kapcsandy / Abreu block moved up to "Opulent / cult Napa Cabernet
+(Track 2)," and Beta to Track 1. The real skip is opulent California **Syrah**.*
+
+- **Opulent California Syrah / Rhône** — this is the line Evan won't cross: the
+  large **Saxum** consignment (~110 lots, Paso GSM/Syrah, $55–190), the **Sine Qua
+  Non** run (Grenache/Syrah, $160–400), plus **Next of Kyn**, **Law Estate**,
+  **Alban** — genuinely single-vineyard but the high-octane profile the "opulent
+  cab vs Syrah" note steers away from.
+- **Other opulent Napa Cab, not individually screened** — Paul Hobbs To-Kalon,
+  Peter Michael, Rudd, Maybach, Realm, Lokoya, Quintessa, Pahlmeyer, Silver Oak,
+  Hall, Hourglass, Morlet. Per the 2026-07-21 correction these are *presumptively
+  in-scope* (Track-2 style) rather than off-taste; flag any you want screened.
 - **Cayuse / Quilceda Creek Washington** (~90 lots) — treated as off-axis in the
   [[auction_261W_week29_wheelhouse_2026_07|Week-29 screen]]; the polished-powerful
   style, not site-transparency. (Quilceda CVR 2016 at $30 / Palengat at $45 are the

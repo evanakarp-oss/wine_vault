@@ -137,13 +137,26 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
 - **Bordeaux**: WK-style undercovered/value with great farming. Aged classed-growth
   for drink-now bottles only. Skip generic mid-tier.
 - **Champagne**: aged vintage cuvées, late-disgorged (P2/RD), or grower champagne. Not generic NV.
-- **Napa / California Cab**: rugged, farming-driven, terroir-distinct — NOT the
-  cult-hedonist tier. Reference set: Dunn (Howell Mtn), Corison (restrained
-  St. Helena), La Jota (Howell Mtn), Dalla Valle (Oakville), Ridge Monte Bello
-  (Santa Cruz Mtns). Skip Harlan/Schrader/SQN/Colgin/Hundred Acre style —
-  too opulent, not site-transparent. Overarching axis across the cellar:
-  sense of place + tension. (Updated 2026-05-29; previously listed the cult
-  tier as the target — flipped after Evan clarified taste.)
+- **Napa / California Cab — two on-taste tracks, plus a narrower skip.** The
+  overarching axis is *sense of place + tension*, but it resolves into **two**
+  accepted styles, not one. (Corrected 2026-07-21 per Evan; the 2026-05-29 note
+  that told us to "skip Harlan/Schrader/SQN/Colgin/Hundred Acre" was too blunt —
+  opulent *Napa Cab* is embraced, only opulent *CA Syrah* is out.)
+  - **Track 1 — old-guard / restrained / site-transparent:** Dunn (Howell Mtn),
+    Corison (restrained St. Helena), La Jota (Howell Mtn), Ridge Monte Bello
+    (Santa Cruz Mtns), Dalla Valle (Oakville), and **Beta** (Montecillo — Evan
+    places it squarely in the Dunn/Corison old-school vein). Plus the aged
+    old-guard classics (next bullet).
+  - **Track 2 — opulent / cult Napa Cabernet, genuinely loved:** **Bond, Harlan,
+    Araujo (Eisele Vineyard), Kapcsandy** are *targets* — buy in range; Abreu and
+    that camp are on-style too. **Schrader, Colgin, Hundred Acre** (and
+    Screaming-Eagle-tier pricing) are "incredible but out of range" — admired,
+    cite as reference, **not** active buys and **not** off-taste skips.
+  - **The skip is opulent California *Syrah / Rhône*, not Cab:** Sine Qua Non,
+    Saxum, Next of Kyn, Law Estate — the high-octane GSM/Syrah profile is where
+    Evan gets off the bus. That is what the old "cult-hedonist skip" language
+    should now mean. (If this Syrah read is wrong, correct it — inferred from the
+    "opulent cab vs Syrah" framing, 2026-07-21.)
   - **Aged old-guard Napa classics are on-taste when mature.** The classically
     structured, pre-cult Napa houses drink beautifully with age and are
     undervalued at auction — buy the *old* vintages: **Beringer Private Reserve
@@ -151,8 +164,9 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
     (older only)**, **Flora Springs Reserve (older)**, plus siblings in the same
     vein (Philip Togni, Spottswoode, Groth, Phelps Insignia). These are NOT the
     "generic mid-tier skip" — a mature Beringer PR or Mondavi Reserve at 25–30
-    yrs is a target, not a pass. The skip is the *young/modern* mid-tier and the
-    opulent cult tier. (Added 2026-07-06 per Evan.)
+    yrs is a target, not a pass. The skip is the *young/modern* generic mid-tier
+    — **not** the opulent Napa-cult tier, which Evan embraces (see Track 2 above).
+    (Added 2026-07-06 per Evan; skip-scope corrected 2026-07-21.)
 - **Burgundy / Loire / Mosel / Piedmont**: terroir-driven, biodynamic-leaning, grower-scale.
 - **Argentina (Mendoza / Patagonia / Salta)**: accepted as an interest area as of 2026-05-26. Bias toward biodynamic / terroir-driven / artisan-scale producers (Chacra, Colomé, Cara Sur, Canopus, Altos Las Hormigas style). Argentina_Reloaded curator's selection (Paz Levinson, 79 producers) is the seed.
 - **Cellar style**: NYC/US retailers, German biodynamic, US boutique, Italian Friuli/Piedmont.
