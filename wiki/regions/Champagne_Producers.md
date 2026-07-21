@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Champagne"
-updated: 2026-07-19
-producer_count: 16
+updated: 2026-07-21
+producer_count: 17
 ---
 
 # Champagne — Producer Index
 
-**16 producers** tracked.
+**17 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -22,6 +22,7 @@ producer_count: 16
 | [[jacques_lassaigne|Jacques Lassaigne]] | France | '' | 1 | 3 | — | — | — |
 | [[larmandier_bernier|Larmandier Bernier]] | France | '' | 1 | 3 | 1 | — | — |
 | [[aurore_casanova|Aurore Casanova]] | France | — | — | 4 | — | — | — |
+| [[cedric_bouchard|Cédric Bouchard]] | France | Aube (Côte des Bar) | — | — | — | — | — |
 | [[louis_roederer|Louis Roederer]] | France | '' | — | — | 12 | — | — |
 | [[nathalie_falmet|Nathalie Falmet]] | France | — | — | 1 | — | — | — |
 | [[petit_clergeot|Petit Clergeot]] | France | '' | — | 1 | — | — | — |

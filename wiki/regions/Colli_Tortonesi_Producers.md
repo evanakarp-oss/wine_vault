@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Colli Tortonesi"
-updated: 2026-07-19
+updated: 2026-07-21
 producer_count: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 965
+total_pages: 987
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**965 pages indexed.**
+**987 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -29,10 +29,10 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Beaujolais_Producers|Beaujolais Producers]] — **4 producers** tracked.
 - [[Bierzo_Producers|Bierzo Producers]] — **1 producers** tracked.
 - [[Bordeaux_Producers|Bordeaux Producers]] — **25 producers** tracked.
-- [[Burgundy_Producers|Burgundy Producers]] — **86 producers** tracked.
-- [[California_Producers|California Producers]] — **15 producers** tracked.
+- [[Burgundy_Producers|Burgundy Producers]] — **93 producers** tracked.
+- [[California_Producers|California Producers]] — **23 producers** tracked.
 - [[Catalonia_Producers|Catalonia Producers]] — **1 producers** tracked.
-- [[Champagne_Producers|Champagne Producers]] — **16 producers** tracked.
+- [[Champagne_Producers|Champagne Producers]] — **17 producers** tracked.
 - [[Colli_Tortonesi_Producers|Colli Tortonesi Producers]] — **1 producers** tracked.
 - [[Corsica_Producers|Corsica Producers]] — **1 producers** tracked.
 - [[Franken_Producers|Franken Producers]] — **2 producers** tracked.
@@ -40,17 +40,19 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Jujuy_Producers|Jujuy Producers]] — **2 producers** tracked.
 - [[Jura_Producers|Jura Producers]] — **14 producers** tracked.
 - [[Liguria_Producers|Liguria Producers]] — **1 producers** tracked.
-- [[Loire_Producers|Loire Producers]] — **6 producers** tracked.
+- [[Loire_Producers|Loire Producers]] — **7 producers** tracked.
 - [[Marche_Producers|Marche Producers]] — **1 producers** tracked.
 - [[Mendoza_Producers|Mendoza Producers]] — **62 producers** tracked.
 - [[Mosel_Producers|Mosel Producers]] — **19 producers** tracked.
 - [[Nahe_Producers|Nahe Producers]] — **3 producers** tracked.
+- [[Oregon_Producers|Oregon Producers]] — **2 producers** tracked.
 - [[Patagonia_Producers|Patagonia Producers]] — **9 producers** tracked.
 - [[Pfalz_Producers|Pfalz Producers]] — **2 producers** tracked.
 - [[Piedmont_Producers|Piedmont Producers]] — **20 producers** tracked.
 - [[Provence_Producers|Provence Producers]] — **3 producers** tracked.
 - [[Rheinhessen_Producers|Rheinhessen Producers]] — **1 producers** tracked.
 - [[Rhone_Producers|Rhone Producers]] — **35 producers** tracked.
+- [[Ribera_del_Duero_Producers|Ribera Del Duero Producers]] — **1 producers** tracked.
 - [[Salta_Producers|Salta Producers]] — **5 producers** tracked.
 - [[San_Juan_Producers|San Juan Producers]] — **1 producers** tracked.
 - [[Savoie_Producers|Savoie Producers]] — **1 producers** tracked.
@@ -270,7 +272,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_421 producers across 38 regions._
+_441 producers across 40 regions._
 
 ### Abruzzo
 
@@ -355,6 +357,7 @@ _421 producers across 38 regions._
 - [[charles_audoin|Charles Audoin]] — Burgundy · DTE 19
 - [[chicotot|Chicotot]] — Burgundy · DTE 20
 - [[cyril_audoin|Cyril Audoin]] — Burgundy · DTE 3
+- [[dauvissat|Domaine Vincent Dauvissat]] — Burgundy / Chablis · organic, biodynamic
 - [[denis_bachelet|Denis Bachelet]] — Burgundy · DTE 1
 - [[domaine_amiot-servelle|Domaine Amiot-Servelle]] — Burgundy / Chambolle-Musigny · organic · CSW ★2/6
 - [[domaine_armand_heitz|Domaine Armand Heitz]] — Burgundy / Pommard / Meursault · biodynamic · CSW ★2/2
@@ -392,6 +395,7 @@ _421 producers across 38 regions._
 - [[guillot_broux|Guillot-Broux]] — Burgundy · CSW ★1/3 · DTE 2
 - [[henri_magnien|Henri Magnien]] — Burgundy · DTE 15
 - [[heresztyn-mazzini|Heresztyn-Mazzini]] — Burgundy / Gevrey-Chambertin · CSW ★1/1
+- [[hubert_lamy|Domaine Hubert Lamy]] — Burgundy / Saint-Aubin · sustainable
 - [[hudelot_noellat|Hudelot Noellat]] — Burgundy · DTE 12
 - [[jane_et_sylvain|Jane et Sylvain]] — Burgundy / Gevrey-Chambertin · organic · CSW ★5/5
 - [[jean-claude_rateau|Jean-Claude Rateau]] — Burgundy / Beaune · biodynamic · CSW ★6/13
@@ -420,9 +424,14 @@ _421 producers across 38 regions._
 - [[pierre-yves_colin-morey|Pierre-Yves Colin-Morey]] — Burgundy / St-Aubin / Chassagne · organic · CSW ★2/4
 - [[ramonet|Ramonet]] — Burgundy / Chassagne-Montrachet · CSW 1 · Raeder 9
 - [[rapet_pere_et_fils|Rapet Père et Fils]] — Burgundy / Pernand-Vergelesses · organic · CSW 2
+- [[raveneau|Domaine Raveneau]] — Burgundy / Chablis · sustainable
 - [[robert_ampeau|Robert Ampeau]] — Burgundy / Meursault / Auxey · CSW ★1/1
+- [[robert_chevillon|Robert Chevillon]] — Burgundy / Nuits-Saint-Georges · sustainable
 - [[roty|Roty]] — Burgundy · DTE 1
+- [[roulot|Domaine Roulot]] — Burgundy / Meursault · organic
+- [[sauzet|Domaine Étienne Sauzet]] — Burgundy / Puligny-Montrachet · organic, biodynamic
 - [[sigaut|Sigaut]] — Burgundy · DTE 9
+- [[simon_bize|Domaine Simon Bize]] — Burgundy / Savigny-lès-Beaune · organic
 - [[simon_colin|Simon Colin]] — Burgundy / Chassagne-Montrachet · CSW ★1/1
 - [[sirugue|Sirugue]] — Burgundy · CSW ★1/1 · DTE 4
 - [[stephane_magnien|Stéphane Magnien]] — Burgundy / Morey-Saint-Denis · organic · CSW ★4/6
@@ -432,17 +441,25 @@ _421 producers across 38 regions._
 
 ### California
 
+- [[anthill_farms|Anthill Farms]] — California / Sonoma Coast · sustainable
 - [[arnot-roberts|Arnot-Roberts]] — California / Sonoma County (North Coast Trousseau & Jura varieties) · CSW ★4/10
 - [[bergstrom|Bergstrom]] — California / Willamette Valley (Oregon) · biodynamic · Raeder 11
+- [[beta|Beta]] — California / Napa Valley · sustainable
+- [[bond|BOND]] — California / Napa Valley · sustainable
 - [[bryant_family_vineyard|Bryant Family Vineyard]] — California / Napa Valley (Pritchard Hill) · Raeder 1
 - [[colgin|Colgin]] — California / Napa Valley (Pritchard Hill) · Raeder 2
+- [[corison|Corison]] — California / Napa Valley (St. Helena) · organic
 - [[detert_family_vineyards|Detert Family Vineyards]] — California / Napa Valley (Oakville — To Kalon)
 - [[di_costanzo|Di Costanzo]] — California / Napa Valley (Coombsville) / Moon Mountain (Sonoma) · organic, sustainable
+- [[dunn|Dunn Vineyards]] — California / Napa Valley (Howell Mountain) · sustainable
 - [[futo_estate|Futo Estate]] — California / Napa Valley (Stags Leap District / Oakville) · sustainable · Raeder 1
+- [[harlan|Harlan Estate]] — California / Napa Valley (Oakville) · sustainable
 - [[hundred_acre|Hundred Acre]] — California / Napa Valley · Raeder 4
 - [[hyde_de_villaine|Hyde de Villaine (HdV)]] — California / Napa Valley (Los Carneros) · sustainable
 - [[kosta_browne|Kosta Browne]] — California / Sonoma Coast · CSW 1 · Raeder 15
 - [[lewis_cellars|Lewis Cellars]] — California / Napa Valley · Raeder 10
+- [[matthiasson|Matthiasson]] — California / Napa Valley · organic, sustainable
+- [[philip_togni|Philip Togni Vineyard]] — California / Napa Valley (Spring Mountain) · sustainable
 - [[schrader_cellars|Schrader Cellars]] — California / Napa Valley (Beckstoffer To Kalon) · Raeder 12
 - [[screaming_eagle|Screaming Eagle]] — California / Napa Valley (Oakville) · CSW 1 · Raeder 1
 - [[sine_qua_non|Sine Qua Non]] — California / Ventura / Central Coast · organic · Raeder 7
@@ -457,6 +474,7 @@ _421 producers across 38 regions._
 - [[agrapart|Agrapart]] — Champagne · CSW ★7/9 · DTE 2
 - [[aurore_casanova|Aurore Casanova]] — Champagne · DTE 4
 - [[bollinger|Bollinger]] — Champagne · CSW 6 · Raeder 2
+- [[cedric_bouchard|Cédric Bouchard]] — Champagne / Aube (Côte des Bar) · organic
 - [[champagne_les_freres_mignon|Champagne Les Freres Mignon]] — Champagne · CSW ★1/1
 - [[champagne_ponson|Champagne Ponson]] — Champagne · CSW ★2/2
 - [[dom_perignon|Dom Pérignon]] — Champagne · CSW 1 · Raeder 7
@@ -575,6 +593,7 @@ _421 producers across 38 regions._
 - [[clos_rougeard|Clos Rougeard]] — Loire / Saumur-Champigny · natural · CSW ★2/11
 - [[domaine_baudry|Domaine Baudry]] — Loire / Chinon · organic · CSW ★20/45
 - [[domaine_de_la_chevalerie|Domaine de la Chevalerie]] — Loire / Bourgueil · organic · CSW ★5/15
+- [[huet|Domaine Huet]] — Loire / Vouvray · biodynamic
 - [[stephane_guion|Stéphane Guion]] — Loire / Bourgueil · organic since 1965 · CSW ★9/17
 
 ### Marche
@@ -674,6 +693,11 @@ _421 producers across 38 regions._
 - [[emrich_schonleber|Emrich-Schönleber]] — Nahe · organic · CSW ★2/3
 - [[schafer-frohlich|Schafer-Frohlich]] — Nahe · CSW ★2/6
 
+### Oregon
+
+- [[eyrie|The Eyrie Vineyards]] — Oregon / Willamette Valley (Dundee Hills) · organic, sustainable
+- [[kelley_fox|Kelley Fox Wines]] — Oregon / Willamette Valley (Dundee Hills) · organic, biodynamic
+
 ### Patagonia
 
 - [[aguijon_de_abeja_durigutti|Aguijón de Abeja (Durigutti)]] — Patagonia / Multi-region: Patagonia / Salta / Catamarca / San Juan
@@ -761,6 +785,10 @@ _421 producers across 38 regions._
 - [[marc_sorrel|Marc Sorrel]] — Rhône · DTE 15
 - [[pierre_benetiere|Pierre Benetiere]] — Rhône · DTE 5
 - [[vincent_paris|Vincent Paris]] — Rhône · CSW ★1/2 · DTE 1 · FASS 1
+
+### Ribera del Duero
+
+- [[dominio_del_aguila|Dominio del Águila]] — Ribera del Duero / La Aguilera · organic
 
 ### Salta
 

@@ -2,18 +2,18 @@
 type: importer
 name: "Kermit Lynch"
 slug: kermit_lynch
-producer_count: 16
+producer_count: 17
 focus: ['Burgundy', 'Friuli-Venezia Giulia', 'Rhône']
 notable_producers: ['Domaine Pierre Gonon', 'Domaine Pierre André', 'Clos du Joncuas', 'Allemand', 'Sylvie Esmonin']
-updated: 2026-07-19
+updated: 2026-07-21
 tags: []
-url: "https://kermitlynch.com"
 _source: wiki/_resources.md
+url: "https://kermitlynch.com"
 ---
 # Kermit Lynch
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**16 producer(s)** in the vault imported by Kermit Lynch (US).
+**17 producer(s)** in the vault imported by Kermit Lynch (US).
 
 | Producer | Country | Region | CSW | Cellar |
 |---|---|---|---:|---:|
@@ -32,6 +32,7 @@ _source: wiki/_resources.md
 | [[meo_camuzet|Méo-Camuzet]] | France | Burgundy | 1 | — |
 | [[auguste_clape|Auguste Clape]] | France | Rhône | — | — |
 | [[domaine_gallety|Domaine Gallety]] | France | Rhône | — | — |
+| [[dauvissat|Domaine Vincent Dauvissat]] | France | Burgundy | — | — |
 | [[lucien_boillot|Lucien Boillot]] | France | Burgundy | — | — |
 
 *Compiled by `scripts/build_rollups.py`.*

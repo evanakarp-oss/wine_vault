@@ -5,7 +5,7 @@ slug: wildman
 producer_count: 3
 focus: ['Burgundy', 'Patagonia', 'Piedmont']
 notable_producers: ['Burlotto', 'Méo-Camuzet', 'Otronia']
-updated: 2026-07-19
+updated: 2026-07-21
 ---
 
 # Wildman

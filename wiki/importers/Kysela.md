@@ -5,10 +5,10 @@ slug: kysela
 producer_count: 1
 focus: ['Burgundy']
 notable_producers: ['Domaine de Montille']
-updated: 2026-07-19
+updated: 2026-07-21
 tags: []
-url: "https://kyselawine.com"
 _source: wiki/_resources.md
+url: "https://kyselawine.com"
 ---
 # Kysela
 

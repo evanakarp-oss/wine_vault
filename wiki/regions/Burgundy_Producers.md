@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Burgundy"
-updated: 2026-07-19
-producer_count: 86
+updated: 2026-07-21
+producer_count: 93
 ---
 
 # Burgundy — Producer Index
 
-**86 producers** tracked.
+**93 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -72,6 +72,12 @@ producer_count: 86
 | [[chicotot|Chicotot]] | France | '' | — | 20 | — | — | — |
 | [[cyril_audoin|Cyril Audoin]] | France | '' | — | 3 | — | — | — |
 | [[denis_bachelet|Denis Bachelet]] | France | '' | — | 1 | — | — | — |
+| [[hubert_lamy|Domaine Hubert Lamy]] | France | Saint-Aubin | — | — | — | — | — |
+| [[raveneau|Domaine Raveneau]] | France | Chablis | — | — | — | — | — |
+| [[roulot|Domaine Roulot]] | France | Meursault | — | — | — | — | — |
+| [[simon_bize|Domaine Simon Bize]] | France | Savigny-lès-Beaune | — | — | — | — | — |
+| [[dauvissat|Domaine Vincent Dauvissat]] | France | Chablis | — | — | — | — | — |
+| [[sauzet|Domaine Étienne Sauzet]] | France | Puligny-Montrachet | — | — | — | — | — |
 | [[francois_bertheau|Francois Bertheau]] | France | '' | — | 5 | — | — | — |
 | [[francois_buffet|François Buffet]] | France | — | — | 3 | — | 24 | — |
 | [[georges_noellat|Georges Noëllat]] | France | '' | — | 13 | — | — | — |
@@ -94,6 +100,7 @@ producer_count: 86
 | [[michel_rebourgeon|Michel Rebourgeon]] | France | — | — | 13 | — | 17 | — |
 | [[modot_guyon|Modot Guyon]] | France | — | — | 6 | — | — | — |
 | [[patrice_rion|Patrice Rion]] | France | — | — | 3 | — | — | — |
+| [[robert_chevillon|Robert Chevillon]] | France | Nuits-Saint-Georges | — | — | — | — | — |
 | [[roty|Roty]] | France | — | — | 1 | — | — | — |
 | [[sigaut|Sigaut]] | France | — | — | 9 | — | — | — |
 | [[thomas_et_jean_marc_bouley|Thomas et Jean Marc Bouley]] | France | — | — | 10 | — | — | — |

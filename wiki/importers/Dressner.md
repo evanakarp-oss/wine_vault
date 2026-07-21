@@ -2,18 +2,18 @@
 type: importer
 name: "Dressner"
 slug: dressner
-producer_count: 16
+producer_count: 17
 focus: ['Burgundy', 'Jura', 'Rhône', 'Sicily']
 notable_producers: ['Eric Texier', 'Jacques Puffeney', 'Jean-François Ganevat', 'Benoit Courault', 'Domaine Simon Bize']
-updated: 2026-07-19
+updated: 2026-07-21
 tags: ['natural', 'organic']
-url: "https://louisdressner.com"
 _source: wiki/_resources.md
+url: "https://louisdressner.com"
 ---
 # Dressner
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**16 producer(s)** in the vault imported by Dressner (US).
+**17 producer(s)** in the vault imported by Dressner (US).
 
 | Producer | Country | Region | CSW | Cellar |
 |---|---|---|---:|---:|
@@ -32,6 +32,7 @@ _source: wiki/_resources.md
 | [[dard__ribo|Dard & Ribo]] | France | Rhône | 3 | — |
 | [[duplessis_chablis|Duplessis Chablis]] | France | Burgundy | 3 | — |
 | [[overnoy-crinquand|Overnoy-Crinquand]] | France | Jura | 3 | — |
+| [[simon_bize|Domaine Simon Bize]] | France | Burgundy | — | — |
 | [[julien_guillot__vignes_du_maynes|Julien Guillot / Vignes du Maynes]] | France | Burgundy | — | — |
 
 *Compiled by `scripts/build_rollups.py`.*
