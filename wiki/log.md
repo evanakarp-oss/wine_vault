@@ -1100,3 +1100,36 @@ Michel Noëllat, Esprit Leflaive négoce at $370–540, Lady Gaga DP $500,
 post-2009 Clos du Mont Olivet. Watchlist for names WK rates but nothing
 priced today (Dureuil, Richoux, Pepière, des Tours, Antoine-vs-Julien
 Sunier trap). Regenerated `_views/_index.md`.
+
+## [2026-07-21] query | auction 261W week-30 wheelhouse screen
+
+Screened Acker catalog `raw/auctions/Catalog_261W_30.xlsx` (1,973 rows / 1,734
+distinct lots, est. $949K–$1.27M, DE + HK + LN) against the taste filters and
+diffed against Week 29: **1,078 lots new**, 656 carryover, 787 dropped — a ~62%
+refresh; the Week-29 heroes (the Rousseau/Dujac/Cacheux block, DP P2 '96/'00, the
+Heitz/BV/Mondavi old-guard Napa run) sold. Filed
+[[auction_261W_week30_wheelhouse_2026_07]] — the most on-taste, and most
+case-deep, 261W week yet. Seven consignments define it: a grower-Champagne block
+(Cédric Bouchard, [[agrapart|Agrapart]], Pierre Péters Chétillons, Prévost,
+Leclapart, Tarlant, new-wave Brochet/Chaillon + aged late-disgorged Charles
+Heidsieck BdM / Deutz / DP P2), a grower-Loire block ([[boulay|Boulay]] Sancerre
+$21–30, Huet, Dagueneau Silex, Vatan, R. Leroy, Bernaudeau, Ch. des Tours),
+traditional-Piedmont depth ([[cavallotto|Cavallotto]] Bricco Boschis OCB **$50**,
+G. Mascarello Monprivato + [[giacomo_conterno|G. Conterno]] Cascina Francia
+verticals, [[burlotto|Burlotto]], [[roagna|Roagna]], B. Giacosa), aged Dunn
+Howell-Mtn Cabs ($100–180) + pre-cult Napa (Inglenook '60/'67, Stag's Leap SLV
+'75, [[philip_togni|Togni]], Phelps Insignia), an Anthill Farms + Matthiasson
+cool-climate CA consignment (Sonoma Pinot cases **$20**, Ribolla $15), a terroir
+red-Burgundy grower run (R. Chevillon, S. Bize, [[meo_camuzet|Grivot]]), and aged
+drink-now Bordeaux ([[chateau_fonroque|Fonroque]] '75 $35, Monbrison '76 $55, a
+'82/'86 first-growth wall). Two **exact cellar siblings**: [[domaine_garon|Garon]]
+Côte-Rôtie Les Triotes 2016 ($60, own the '20) and Guastaferro Taurasi Primum 2019
+($30, own the '11). Other value anchors: 2007 J.J. Prüm WS Spätlese case ($26),
+[[donnhoff|Dönnhoff]] Spätlese ($60), Dominio del Águila Ribera ($100), Hubert Lamy
+St-Aubin ($110–133). Skips: the BOND/Abreu/cult-CA mass, the opulent Saxum + SQN
+blocks, Cayuse/Quilceda WA, modernist Voerzio, the HK Bordeaux mid-tier wall,
+big-house NV Champagne, the DRC trophy wall. Flagged 17 on-taste names with no vault
+page (Dunn, Matthiasson, Anthill Farms, R. Chevillon, S. Bize, H. Lamy, Roulot,
+Raveneau, Dauvissat, Huet, Sauzet, Dominio del Águila, Kelley Fox, Eyrie, Togni,
+C. Bouchard, P. Péters) as onboarding candidates. Saved the catalog to
+`raw/auctions/`, regenerated `wiki/_views/_index.md`; both `--check` hooks pass.

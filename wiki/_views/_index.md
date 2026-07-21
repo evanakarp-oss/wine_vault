@@ -9,7 +9,7 @@ generator: scripts/build_views_index.py
 
 Catalog of every keeper-answer page in `wiki/_views/` — the single read surface for saved analyses (gap analysis, drink-window shortlists, cross-retailer comparisons, critic overlays). The main `wiki/index.md` skips this directory, so this is where views are cataloged.
 
-**96 views.**
+**97 views.**
 
 | Page | Question / title | Updated |
 |---|---|---|
@@ -20,6 +20,7 @@ Catalog of every keeper-answer page in `wiki/_views/` — the single read surfac
 | [[auction_261W_week28_wheelhouse_2026_07|auction_261W_week28_wheelhouse_2026_07]] | What's in my wheelhouse to bid on in auction catalog 261W week-28 (1,822 lots)? | 2026-07-06 |
 | [[auction_261W_week29_fass_importer_xref_2026_07|auction_261W_week29_fass_importer_xref_2026_07]] | Which Italy + France lots in auction 261W week-29 fit the Fass Selections aesthetic — and which catalog producers map to importers tracked in the vault? | 2026-07-13 |
 | [[auction_261W_week29_wheelhouse_2026_07|auction_261W_week29_wheelhouse_2026_07]] | What's in my wheelhouse to bid on in auction catalog 261W week-29 (1,541 lots)? | 2026-07-13 |
+| [[auction_261W_week30_wheelhouse_2026_07|auction_261W_week30_wheelhouse_2026_07]] | What's in my wheelhouse to bid on in Acker auction catalog 261W week-30 (1,734 lots)? | 2026-07-21 |
 | [[auction_261w_top_picks_2026_06|auction_261w_top_picks_2026_06]] | Top picks from auction catalog 261W (1,965 lots, Delaware + Hong Kong) filtered through Evan's curation taste. | 2026-06-10 |
 | [[auction_261w_week24_cab_screen_2026_06|auction_261w_week24_cab_screen_2026_06]] | Auction catalog 261W Week 24 screened against the definitive Cabernet target list | 2026-06-10 |
 | [[auction_261w_week25_cab_screen_2026_06|auction_261w_week25_cab_screen_2026_06]] | Auction catalog 261W Week 25 — California Cabernet section screened against the definitive Cabernet target list | 2026-06-17 |
