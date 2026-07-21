@@ -143,6 +143,14 @@ _Le Mesnil-sur-Oger grower, all Chardonnay. WK-celebrated grower champagne; Les 
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Pierre Peters Vintage Champagne Les Chetillons | 2015 | — | 94 | ...has turned out well, unwinding in the glass with aromas of freshly baked bread, crisp orchard fruit, clear honey, warm biscuits and dried white flowers. | 261W·W30 lot 29148 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **2 cuvée/vintage entries**; prices $79.99–$329.99.

@@ -43,6 +43,14 @@ _Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Stree
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Anthill Farms Pinot Noir Tina Marie Vineyard | 2015 | Vinous | 92 |  | 261W·W30 lot 29796 |
+
 ## Raeder's
 
 _Not yet populated._

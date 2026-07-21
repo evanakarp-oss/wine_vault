@@ -119,6 +119,15 @@ _Cathiard-owned Pessac estate; certified biodynamic, especially celebrated for t
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Chateau Smith Haut Lafitte | 2000 | — | 95 | One can't say enough about this winery, which may still fly under the radar of most consumers. The fully mature 2000 displays gorgeous aromas of camphor, lead p… | 261W·W30 lot 29542 |
+| Chateau Smith Haut Lafitte | 2019 | Vinous | 96 | ... has a Burgundian like purity on the nose: raspberry and wild strawberry fruit, touches of pressed rose petal emerging with time. The oak is a little promine… | 261W·W30 lot 29392 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **5 cuvée/vintage entries**; prices $159.99–$199.99.

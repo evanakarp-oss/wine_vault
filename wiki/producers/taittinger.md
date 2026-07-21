@@ -196,6 +196,14 @@ _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles.
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Taittinger Vintage Champagne Comtes de Champagne | 2013 | Vinous | 98 | Rich, sumptuous and explosive, the 2013 soars out of the glass with a captivating mix of tropical fruit, apricot, passion fruit, baked apple tart, mint and yell… | 261W·W30 lot 29149 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **3 cuvée/vintage entries**; prices $279.99–$279.99.

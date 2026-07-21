@@ -111,6 +111,14 @@ _The original Napa cult Cab. Allocation only. The Flight (second wine) and Sauv 
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Screaming Eagle Cabernet Sauvignon | 2020 | Vinous | 96 | All the elements are so well balanced. Dark blue/purplish fruit, lavender, menthol, spice, leather and a soft touch of all fill out the layers effortlessly. | 261W·W30 lot 24891 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **1 cuvée/vintage entries**; prices —–—.

@@ -75,6 +75,14 @@ _sources:
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Chateau Musar | 1998 | — | 90 | The 1998 Chateau Musar is a rather prototypical Musar lots of acidity, some brett, fine structure. It reveals a more gentle style on opening, but aeration prove… | 261W·W30 lot 29482 |
+
 ## Raeder's
 
 _Not yet populated._

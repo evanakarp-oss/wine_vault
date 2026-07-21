@@ -111,6 +111,14 @@ _Saint-Julien 2nd-growth. 1980s-90s vintages drink beautifully today; modern era
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Chateau Gruaud Larose | 1982 | — | 98 | A massive wine that is clearly of first-growth quality in this vintage, the 1982 Gruaud Larose remains a youngster. A broodingly dense, thick, unctuously textur… | 261W·W30 lot 29333 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **4 cuvée/vintage entries**; prices $99.99–$499.99.

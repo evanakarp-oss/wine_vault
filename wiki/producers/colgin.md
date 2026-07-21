@@ -70,6 +70,18 @@ _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles.
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Colgin Red Cariad Vineyard | 2011 | — | 93 | ...deep ruby/purple color along with aromas of tapenade, barbecue smoke, black currants, sweet cherries, baking spices and licorice. Medium-bodied and fleshy wi… | 261W·W30 lot 26643 |
+| Colgin Red IX Estate | 2003 | — | 96+ | The 2003 IX Estate Proprietary Red is a blend of 64% Cabernet Sauvignon, 31% Merlot and rest Cabernet Franc and Petit Verdot from their steep hillside vineyards… | 261W·W30 lot 29244 |
+| Colgin Red IX Estate | 2006 | — | 100 | ...reveals the noble sweetness of tannin, the extraordinary rich, intense mouthfeel, and sumptuous aromas of flowers, burning embers, blackberries, blueberries,… | 261W·W30 lot 29476 |
+| Colgin Red IX Estate | 2007 | — | 100 | The staggeringly rich, complex, harmonious, impeccably well-balanced 2007 IX Proprietary Red Estate (1,400 case produced) exhibits aromas of spring flowers, ced… | 261W·W30 lot 29477 |
+| Colgin Red IX Estate | 2012 | — | 99 | Absolutely spectacular aromatics of spring flowers, blueberry, blackberry and blackcurrant fruit intermixed with creosote, graphite and floral notes are followe… | 261W·W30 lot 29245 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **2 cuvée/vintage entries**; prices —–—.

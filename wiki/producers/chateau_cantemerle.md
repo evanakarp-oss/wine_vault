@@ -114,6 +114,14 @@ _Haut-Médoc 5th-growth; classic WK 'undercovered Bordeaux' shoutout. Value clar
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Chateau Cantemerle | 2016 | Vinous | 92 | ...delivers serious flavor intensity without being at all heavy. Smoke, iron and cedar add character to a Haut-Médoc that has a lot to offer. | 261W·W30 lot 25270 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **2 cuvée/vintage entries**; prices $49.99–$49.99.

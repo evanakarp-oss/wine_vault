@@ -110,6 +110,14 @@ _Saint-Estèphe 3rd-growth, Suravenir-owned since 2012, sustainable farming. Str
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Chateau Calon Segur | 2016 | Vinous | 97 | Sweet floral, spice and minty notes add aromatic intensity to a core of sweet red cherry and plum fruit. There is plenty of underlying structure, but the tannin… | 261W·W30 lot 29357 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **3 cuvée/vintage entries**; prices $189.99–$229.99.

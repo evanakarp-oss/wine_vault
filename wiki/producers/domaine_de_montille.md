@@ -207,6 +207,15 @@ berserkers_kelley_body:
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Vosne Romanee Aux Malconsorts | 2019 | Vinous | 93-95 | A very intense bouquet of red and blue fruit infused with rose petal and violet, touches of clove and blood orange developing with time. The palate is medium-bo… | 261W·W30 lot 28932 |
+| Vosne Romanee Aux Malconsorts, Christiane | 2019 | Vinous | 94-96 | A touch more intensity on the nose, while the fruit is a little darker: bilberry and blackberry, plus touches of violet petals. The medium-bodied palate is roun… | 261W·W30 lot 28933 |
+
 ## Raeder's
 
 _Not yet populated._

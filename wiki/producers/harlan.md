@@ -43,6 +43,20 @@ _Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Stree
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Harlan Estate Red | 1996 | — | 98 | The opaque purple-colored 1996 Harlan Estate reveals extraordinary intensity, a spicy, black currant, tobacco, cedar, and fruit cake-scented bouquet, full body,… | 261W·W30 lot 29705 |
+| Harlan Estate Red | 2009 | — | 97 | Cloves, dark plums, cherries, smoke and graphite add richness and resonance to this powerful, incisive wine. Juicy and exuberant, the 2009 has always had a cert… | 261W·W30 lot 26671 |
+| Harlan Estate Red | 2011 | — | 93 | Its plum/purple color is followed by a sweet perfume of camphor, blackcurrants, lead pencil shavings, Christmas fruitcake and hints of forest floor and underbru… | 261W·W30 lot 29246 |
+| Harlan Estate Red | 2014 | — | 98 | The deep garnet-purple colored 2014 Proprietary Red Wine offers up subtle cassis, black cherries and crushed blackberries notes with tons of savory and earthy l… | 261W·W30 lot 29247 |
+| Harlan Estate Red The Maiden | 2006 | — | 91 |  | 261W·W30 lot 26673 |
+| Harlan Estate Red The Maiden | 2009 | — | 93 | ...wraps around the palate with dark cherries, plums, cinnamon, cloves and new leather. This is a surprisingly muscular style for the year, with quite a bit les… | 261W·W30 lot 26675 |
+| Harlan Estate Red The Maiden | 2013 | — | 95 | More serious and concentrated, bigger and denser, the 2013 The Maiden is one of the strongest efforts, and possibly the best Maiden tasted to date. Deep, with m… | 261W·W30 lot 29248 |
+
 ## Raeder's
 
 _Not yet populated._

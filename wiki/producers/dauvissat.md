@@ -43,6 +43,15 @@ _Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Stree
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Chablis La Forest | 2022 | — | 93-96 | ...unfurls in the glass with youthfully reductive scents of citrus oil, crisp stone fruit, white flowers, oyster shell and subtle hints of orange blossom. | 261W·W30 lot 29046 |
+| Chablis Les Preuses | 2022 | Vinous | 95-97 | ...will be very seductive on the nose, discrete at first, unfurling with yellow plum, flint, touches of oyster shell and spice box. | 261W·W30 lot 29047 |
+
 ## Raeder's
 
 _Not yet populated._

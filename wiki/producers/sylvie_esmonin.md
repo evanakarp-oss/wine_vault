@@ -92,6 +92,14 @@ _sources:
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Gevrey Chambertin Clos St. Jacques | 2002 | Burghound | 90 | This is not far behind the '03 in terms of ripeness but there is much better acidity and freshness with mocha, blackberry and blueberry notes on the nose that l… | 261W·W30 lot 29581 |
+
 ## Raeder's
 
 _Not yet populated._

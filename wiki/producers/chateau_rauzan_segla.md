@@ -103,6 +103,14 @@ _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles.
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Chateau Rauzan Segla | 2016 | Vinous | 97+ | The 2016 Rauzan-Ségla is simply stunning. Ample and generous in the glass, the 2016 is a positively stellar wine that will leave readers weak at the knees. The… | 261W·W30 lot 29541 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **2 cuvée/vintage entries**; prices $139.99–$139.99.

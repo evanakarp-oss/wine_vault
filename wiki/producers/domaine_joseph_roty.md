@@ -88,6 +88,16 @@ berserkers_kelley_body:
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Charmes Chambertin Cuvee de Tres Vieilles Vignes | 1991 | Burghound | 93 | High-toned, wonderfully elegant fruit with flavors that are tight yet show outstanding complexity and depth. The tannins are ripe and still quite prominent on t… | 261W·W30 lot 22633 |
+| Charmes Chambertin Cuvee de Tres Vieilles Vignes | 2014 | Burghound | 95 | Once again the nose has mostly absorbed its wood treatment on the ultra-spicy, ripe and attractively fresh nose of black cherry, earth, underbrush and soft flor… | 261W·W30 lot 28955 |
+| Charmes Chambertin Cuvee de Tres Vieilles Vignes | 2015 | Burghound | 94 | This is almost as elegant as the Griotte but with a different aromatic profile that runs more toward a slightly darker range of fruit, earth, game and discreet… | 261W·W30 lot 28956 |
+
 ## Raeder's
 
 _Not yet populated._

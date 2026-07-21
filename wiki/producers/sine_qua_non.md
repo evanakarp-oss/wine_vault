@@ -70,6 +70,24 @@ _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles.
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Sine Qua Non Grenache Dirt Vernacular | 2016 | — | 98+ | The label of the 2016 Dirt Venacular is based on a picture of a stone imbedded in another stone. The wine is composed of 78% Grenache, 11.5% Mourvèdre, 7% Touri… | 261W·W30 lot 29256 |
+| Sine Qua Non Grenache Jusqu'a l'os | 2013 | — | 100 | ...displays a medium to deep garnet color and rock star vibrant red currant and black raspberry scents with hints of licorice, mocha, Indian spices and peppered… | 261W·W30 lot 29257 |
+| Sine Qua Non Grenache Le Chemin Vers L'Heresie | 2015 | — | 98+ | It has a deep garnet-purple color and fragrant nose of violets, kirsch, blueberry compote and dark chocolate with hints of lavender, smoky bacon, Provence herbs… | 261W·W30 lot 29258 |
+| Sine Qua Non Grenache Rattrapante | 2012 | — | 100 | Giving up tons of black raspberries, peppery herbs, licorice, dried flowers and cured meats, it's a massively concentrated, rich and layered Grenache that someh… | 261W·W30 lot 29259 |
+| Sine Qua Non Grenache Raven Series, No. 9 | 2006 | — | 98 | The wine has loads of meat, licorice, smoke, charcoal and graphite, as well as huge peppery, blackberry and black cherry notes. Full-bodied, with great acidity,… | 261W·W30 lot 29260 |
+| Sine Qua Non Syrah Against the Wall | 1996 | — | 96 | The color is opaque black/purple, and the nose offers a combination of cassis/blackberry jamminess intermixed with tar, pepper, and spice. Thick, massively full… | 261W·W30 lot 24911 |
+| Sine Qua Non Syrah Labels | 2007 | — | 98+ | The recently released 2007 Syrah Labels (89% Syrah, 7% Grenache, and 4% Viognier) comes from the 11 Confessions Estate Vineyard (57%), a small amount from the h… | 261W·W30 lot 29261 |
+| Sine Qua Non Syrah Male | 2013 | — | 98 | The 2013 Syrah Male is an elegant, seamless Syrah that exudes class in its creme de cassis, black raspberry, smoked meats, graphite and asphalt-laced bouquet. T… | 261W·W30 lot 29262 |
+| Sine Qua Non Syrah Ratsel | 2016 | — | 99 | Deep garnet-purple in color, this Syrah from the relatively effortless, beautifully harmonious 2016 vintage comes blasting from the glass with notions of baked… | 261W·W30 lot 29263 |
+| Sine Qua Non Syrah Touche | 2012 | — | 100 | Deep, concentrated, full-bodied and layered, with a multidimensional texture and to-die-for notes of camphor, cured meats, violets, smoke and assorted dark frui… | 261W·W30 lot 29265 |
+| Sine Qua Non Syrah Trouver L'Arene | 2015 | — | 100 | ...deep purple-black color with intense cassis, black plums and black cherries scents plus hints of anise, violets, sage and tar, with wafts of savory/smoked me… | 261W·W30 lot 29266 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **7 cuvée/vintage entries**; prices $249.99–$999.99.

@@ -43,6 +43,18 @@ _Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Stree
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Corton Charlemagne | 2016 | Burghound | 92-94 | Here the nose is very firmly reduced and impossible to assess. On the plus side, the is both more volume and power to the broad-shouldered flavors that possess… | 261W·W30 lot 29014 |
+| Corton Charlemagne | 2019 | Burghound | 93-95 | Here too there are petrol whiffs on the cooler aromas of green apple, various citrus, anise and elegant floral suggestions. There is impressive intensity; indee… | 261W·W30 lot 29015 |
+| Corton Charlemagne | 2020 | Burghound | 93 | ...with its array of white pepper, menthol, essence of pear and mineral reduction. There is outstanding volume to the stony and powerful larger-scaled flavors..… | 261W·W30 lot 29016 |
+| Meursault A Mon Plaisir, Clos du Haut Tesson | 2019 | — | 92-94 | Aromas of crisp orchard fruit, white flowers, toasted almonds, iodine and struck match preface the 2019 Meursault À Mon Plaisir Clos du Haut Tesson, a medium to… | 261W·W30 lot 29027 |
+| Meursault A Mon Plaisir, Clos du Haut Tesson | 2022 | Burghound | 92-94 | Cool, elegant and layered aromas are comprised by notes of Granny Smith apple, citrus rind and plenty of floral elements are trimmed in a smoky component. | 261W·W30 lot 29028 |
+
 ## Raeder's
 
 _Not yet populated._

@@ -146,6 +146,14 @@ _sources:
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Latricieres Chambertin | 2005 | Burghound | 94 | An exceptionally fresh nose of beautiful red berry fruit and mineral hints trimmed in a subtle touch of wood spice introduces absolutely lovely, classy and pure… | 261W·W30 lot 29320 |
+
 ## Raeder's
 
 _Not yet populated._

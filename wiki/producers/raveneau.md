@@ -43,6 +43,19 @@ _Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Stree
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Chablis | 2019 | Burghound | 90 | A discreet application of wood sets off ripe orchard fruit suffused with oyster shell, lemon zest and cool iodine wisps. There is again fine density to the inte… | 261W·W30 lot 29021 |
+| Chablis | 2021 | Burghound | 89-91 | Hints of wood and menthol suffuse the slightly riper yet still cool and airy aromas of iodine, lemon-lime, shellfish and Granny Smith apples. | 261W·W30 lot 29022 |
+| Chablis Blanchot | 2000 | Burghound | 94 | This highly complex effort has evolved perfectly with a delicate and mature nose that makes one think of the sea shore with background hints of flowers and citr… | 261W·W30 lot 29337 |
+| Chablis Butteaux | 2019 | Burghound | 94 | An interesting and beautifully layered nose reflects notes of soft wood, white orchard fruit, citrus confit, iodine, tidal pool and shellfish. The rich, concent… | 261W·W30 lot 28444 |
+| Chablis Montee de Tonnerre | 1999 | Burghound | 90 | This is a robust, exuberant wine and even though it is somewhat austere, this makes a firm statement on both the nose and the palate and it offers buckets of cl… | 261W·W30 lot 27988 |
+| Petit Chablis | 2022 | Burghound | 88-91 | A fresh, cool and citrusy nose features ripe aromas of white orchard fruit and solid Chablis typicity. | 261W·W30 lot 29023 |
+
 ## Raeder's
 
 _Not yet populated._

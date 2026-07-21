@@ -129,6 +129,18 @@ berserkers_kelley_body:
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Barbera d'Alba Cascina Francia | 2006 | — | 93 | ...tastes just like it did in barrel, which is to say plump, juicy and full of vibrant dark fruit. Notes of iron, tar and smoke that are typical of the Cascina… | 261W·W30 lot 29671 |
+| Barolo Cascina Francia | 1993 | — | 91 | ...exhibits a dark ruby color with purple nuances, in addition to aromas of roasted herbs, tobacco, tar, kirsch, and dried cherries as well as some volatile aci… | 261W·W30 lot 29669 |
+| Barolo Cascina Francia | 2015 | Vinous | 95-98 | Soaring aromatics and seemingly endless layers of fruit open up in the glass, but there is something about the wine's completeness that is deeply thrilling. | 261W·W30 lot 29175 |
+| Barolo Cascina Francia | 2016 | Vinous | 97 | Conterno's 2016 Barolo Francia is effusive, with a real sense of expansiveness that gives the wine breadth. Sage, mint, cedar, tobacco and strong mineral accent… | 261W·W30 lot 29176 |
+| Barolo Cascina Francia | 2017 | Vinous | 97 | The 2017 Barolo Francia is dense, rich and explosive right out of the gate. There is virtually no feeling of tannin, as the creaminess of the fruit is so expans… | 261W·W30 lot 29177 |
+
 ## Raeder's
 
 Currently tracked: **1 cuvée/vintage entries**; prices $379.99–$379.99.

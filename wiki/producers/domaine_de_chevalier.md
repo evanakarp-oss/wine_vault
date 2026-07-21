@@ -139,6 +139,15 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Domaine de Chevalier | 2012 | — | 92-95 | One of the stars of the vintage, it boasts a dense purple color as well as a big, sweet bouquet of red and black currants, graphite, subtle flowers and well-int… | 261W·W30 lot 17963 |
+| Domaine de Chevalier | 2013 | Vinous | 91-94 | ...opens up beautifully, showing off its multi-faceted personality. What a gorgeous wine this is. Violets, sage and new leather add the final layers of complexi… | 261W·W30 lot 25286 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **2 cuvée/vintage entries**; prices $99.99–$169.99.

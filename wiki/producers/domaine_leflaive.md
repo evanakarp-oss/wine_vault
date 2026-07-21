@@ -415,6 +415,15 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Batard Montrachet | 2021 | Burghound | 95-98 | Once again a subtle but not invisible application of wood frames cool and ripe aromas of green apple, acacia blossom, petrol and airy zest-tinged nuances. | 261W·W30 lot 28427 |
+| Puligny Montrachet Les Combettes | 2002 | Burghound | 90-3 | Softly perfumed, very ripe aromas, in fact this has the ripest fruit of any wine to this point with generous, harmonious and pure flavors that deliver excellent… | 261W·W30 lot 15242 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **19 cuvée/vintage entries**; prices $89.99–$599.99.

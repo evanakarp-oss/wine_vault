@@ -149,6 +149,15 @@ _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles.
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Chateau Lynch Bages | 2016 | — | 97+ | Deep garnet-purple colored, the 2016 Lynch Bages comes charging out of the gate with pronounced cassis, chocolate-covered cherries, mulberries and menthol notio… | 261W·W30 lot 29376 |
+| Chateau Lynch Bages | 2018 | Vinous | 94 | ...has a wonderful bouquet of supremely well-defined blackberry, briar, crushed rock and pencil lead aromas that develop more floral scents with continued aerat… | 261W·W30 lot 29377 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **5 cuvée/vintage entries**; prices $259.99–$399.99.

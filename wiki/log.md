@@ -1151,3 +1151,37 @@ reworked [[auction_261W_week30_wheelhouse_2026_07]]: moved Bond/Harlan/Kapcsandy
 Abreu from Skip into a new "Opulent / cult Napa Cabernet (Track 2)" section, added
 Beta to Track 1, and narrowed the Skip to opulent CA Syrah + other unscreened Napa
 Cab (now presumptively in-scope).
+
+## [2026-07-21] onboard | 20 new producer pages (261W on-taste gaps)
+
+Created 20 producer pages closing on-taste gaps flagged across the 261W screens.
+California — Track-1 old-guard ([[dunn|Dunn]], [[corison|Corison]],
+[[philip_togni|Philip Togni]], [[matthiasson|Matthiasson]],
+[[anthill_farms|Anthill Farms]], [[beta|Beta]]) and Track-2 opulent/cult
+([[bond|BOND]], [[harlan|Harlan]]); Burgundy growers ([[robert_chevillon|R.
+Chevillon]], [[simon_bize|Simon Bize]], [[hubert_lamy|Hubert Lamy]],
+[[roulot|Roulot]], [[raveneau|Raveneau]], [[dauvissat|Dauvissat]],
+[[sauzet|Sauzet]]); Loire ([[huet|Huet]]); Champagne ([[cedric_bouchard|Cédric
+Bouchard]]); Ribera del Duero ([[dominio_del_aguila|Dominio del Águila]]); Oregon
+([[kelley_fox|Kelley Fox]], [[eyrie|Eyrie]]). Frontmatter from domain knowledge;
+retailer blocks default (CSW ingest re-runnable); importer_us only where the vault
+already knew it (Dauvissat → [[Kermit_Lynch]], Simon Bize → [[Dressner]]).
+`build_rollups.py` created new Oregon + Ribera del Duero region rollups; regenerated
+`wiki/index.md`. `lint.py` clean.
+
+## [2026-07-21] pipeline | auction critic-ratings ingest (parse + compile)
+
+Started the rating-ingest work. Built a landing→compile pipeline for the critic
+scores + tasting-note excerpts embedded in auction catalogs' `WineNote` column
+(Acker 261W), mirroring the scrape/parse/compile + clippings architecture.
+`scripts/parse_auction_ratings.py` lands them to `raw/ratings/261W/ratings_week30.json`
+(**784 scored lots** — Vinous 177, Burghound 111, Wine Spectator 31, +others, 436
+score-only); `scripts/compile_auction_ratings.py` matches to producer pages
+(conservative: exact name / `Initial. Surname` / unambiguous single-token wine
+prefix — the ambiguity guard leaves e.g. bare "Latour" unmatched) and writes a
+`## Critic Ratings` table. First `--apply`: **53 producers, 178 rating rows**;
+580 unmatched → `build/auction_ratings_report.md` (mostly page-less off-taste
+producers). New `## Critic Ratings` section documented in `_SCHEMA.md`; scripts
+in CLAUDE.md. Idempotent; re-run `compile_` after adding producer pages. **Next:**
+extend to Raeders score columns + the wired-but-empty Vinous/WA article clippings
+(`raw/clippings/`); optionally roll a per-producer score index into `_views`.

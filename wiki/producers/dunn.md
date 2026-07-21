@@ -43,6 +43,19 @@ _Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Stree
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Dunn Vineyards Cabernet Sauvignon Howell Mountain | 1994 | — | 96 | This black/purple-colored wine adds a few more nuances (minerals, licorice, and floral scents) to the lavish display of creme de cassis. | 261W·W30 lot 29700 |
+| Dunn Vineyards Cabernet Sauvignon Howell Mountain | 2008 | — | 98+ | ...takes things to another level, as hard as it may seem to believe. This was another difficult vintage for Dunn. Yields were down a full 50%. In exchange, natu… | 261W·W30 lot 29478 |
+| Dunn Vineyards Cabernet Sauvignon Napa Valley | 1994 | — | 94 | This fruit bomb displays considerable breadth and expansiveness on the palate, in essence revealing only two dimensions - fruit and tannin. | 261W·W30 lot 29701 |
+| Dunn Vineyards Cabernet Sauvignon Napa Valley | 1995 | — | 94 | This mammoth offering displays extraordinary concentration and purity, as well as a thick, unctuous texture with high tannin levels. | 261W·W30 lot 29702 |
+| Dunn Vineyards Cabernet Sauvignon Napa Valley | 1997 | — | 92 | ...exhibits an opaque purple color as well as a gorgeous nose of pure cassis and blackberries with flinty notions in the background. | 261W·W30 lot 29703 |
+| Dunn Vineyards Cabernet Sauvignon Napa Valley | 2005 | — | 92 | The 2005 Cabernet Sauvignon Napa Valley is gorgeous. It is a soft, caressing wine laced with expressive dark fruit, blackberries, spices, leather and flowers, a… | 261W·W30 lot 26658 |
+
 ## Raeder's
 
 _Not yet populated._

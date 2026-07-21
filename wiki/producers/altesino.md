@@ -70,6 +70,15 @@ _Not yet covered in CSW archive sweep._
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Brunello di Montalcino Montosoli | 1995 | — | 93 | Extremely evolved and precocious is the 1995 Brunello di Montalcino Montosoli. A dark ruby/plum color is followed by a sweet, complex, jammy nose of spice box,… | 261W·W30 lot 29646 |
+| Brunello di Montalcino Riserva | 1995 | — | 91 | Altesino's flagship offering, the 1995 Brunello di Montalcino Riserva, exhibits a dark plum/garnet color in addition to superb, complex aromas of dried flowers,… | 261W·W30 lot 27779 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **9 cuvée/vintage entries**; prices $64.99–$168.99.

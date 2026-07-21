@@ -108,6 +108,17 @@ _Pauillac 1st-growth. Tracked here for aged drink-now bottles only — current v
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Chateau Lafite Rothschild | 1975 | — | 93 | ...with scents of sweet red berries, camphor, cigar box and loamy soil. Medium to full-bodied, ample and enveloping, with a generous core of fruit, melting tann… | 261W·W30 lot 29510 |
+| Chateau Lafite Rothschild | 1982 | — | 100 | The 1982 Lafite possesses a dark, dense ruby/purple color with only a subtle lightening at the rim. Spectacular aromatics offer jammy cherry and black fruits in… | 261W·W30 lot 29305 |
+| Chateau Lafite Rothschild | 1983 | — | 93 | Finally, the 1983 Lafite is beginning to shed its tannin. The wine exhibits a deep ruby/garnet color with only a slight lightening at the edge. The intoxicating… | 261W·W30 lot 28905 |
+| Chateau Lafite Rothschild | 1999 | — | 95 | ...both elegant and intensely flavored, and almost diaphanous in its layers that unfold with no heaviness. An opaque ruby/purple color is accompanied by a compl… | 261W·W30 lot 29511 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **10 cuvée/vintage entries**; prices $299.99–$1,999.99.

@@ -139,6 +139,17 @@ _Saint-Julien 2nd-growth; Anthony Barton legacy, traditional vinification. WK lo
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Chateau Leoville Barton | 1996 | JK | 93 | ...more powerful, as it typically is, with a touch of game and exotic boysenberry in there. | 261W·W30 lot 29516 |
+| Chateau Leoville Barton | 2004 | — | 92+ | Concentrated, with loads of smoke, creme de cassis, forest floor, and earthy notes emerge from this impressive, but oh, so backward wine. | 261W·W30 lot 29517 |
+| Chateau Leoville Barton | 2005 | Wine Spectator | 96 | Delivers breathtaking aromas of blackberry, currant, licorice and flowers. Full-bodied, with a solid core of fruit and supersilky tannins. Dark chocolate, curra… | 261W·W30 lot 29454 |
+| Chateau Leoville Barton | 2015 | Vinous | 96+ | ... is going to need quite a bit of time to come together, as it is massively tannic and structured at this stage. | 261W·W30 lot 29519 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **2 cuvée/vintage entries**; prices —–—.

@@ -120,6 +120,15 @@ _sources:
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Barolo Acclivi | 2019 | — | 97 | The bouquet opens to elegant floral intensity with wild rose, violet, orange peel and delicate berry. This wine feels very alive thanks to the lifted and delica… | 261W·W30 lot 29167 |
+| Barolo Monvigliero | 2019 | — | 100 | ...definitely spoke to me thanks to its immediate complexity that transcends wild strawberry, aromatic herb, white pepper, orange peel, hazelnut, truffle essenc… | 261W·W30 lot 29168 |
+
 ## Raeder's
 
 _Not yet populated._

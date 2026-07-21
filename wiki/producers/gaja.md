@@ -71,6 +71,19 @@ _Not yet covered in CSW archive sweep._
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Barbaresco | 1997 | Wine Spectator | 95 | Super Barbaresco. Intense aromas of ripe plums, violets and berries lead to a full-bodied palate with chewy tannins. | 261W·W30 lot 28877 |
+| Barbaresco | 2019 | — | 95+ | The 2019 Barbaresco is striking and beautiful as a result, with enormous depth and clarity. This is a generous wine with ample structure, lots of vibrant acidit… | 261W·W30 lot 29185 |
+| Barbaresco Sori San Lorenzo | 1997 | — | 98 | ...is an elegant, nuanced, and complex Gaja offering. It exhibits a striking perfume of lead pencil, roasted nuts, black fruits, spice box, leather, cedar, and… | 261W·W30 lot 29186 |
+| Barbaresco Sori San Lorenzo | 2000 | Wine Spectator | 97 | Serious dark color, with meaty, earthy aromas that blow off to ultraripe and exotic fruit. Fresh truffles and porcini. Almost Port-like in the end. Full-bodied,… | 261W·W30 lot 29187 |
+| Barbaresco Sori Tildin | 2000 | Vinous | 96 | The 2000 Sor Tild n is like cashmere on the palate. Sweet red berries, flowers, mint and spices flow effortlessly from this beautifully detailed, nuanced wine.… | 261W·W30 lot 29188 |
+| Barolo Sperss | 2001 | Vinous | 95 | More muscular than the Conteisa, the dark and brooding 2001 Sperss displays much Serralunga character in its complex nose of tar, licorice, underbrush and new o… | 261W·W30 lot 29190 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **30 cuvée/vintage entries**; prices $55.99–$1,199.99.

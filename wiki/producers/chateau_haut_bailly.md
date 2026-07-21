@@ -122,6 +122,15 @@ _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles.
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Chateau Haut Bailly | 2011 | — | 94+ | The saturated ruby/purple-hued 2011 Haut-Bailly exhibits a glorious, subtle, noble set of aromatics consisting of red and black currants, sweet cherries, graphi… | 261W·W30 lot 25856 |
+| Chateau Haut Bailly | 2013 | Vinous | 90-93 | ...possesses lovely balance and plenty of personality. A final burst of new leather, violets red plums and smoke lingers on the close. | 261W·W30 lot 15349 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **1 cuvée/vintage entries**; prices —–—.

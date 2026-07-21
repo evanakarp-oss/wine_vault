@@ -99,6 +99,14 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Clos Vougeot | 2019 | Vinous | 95-97 | The palate is medium-bodied with succulent ripe tannins. This is a juicy Clos de Vougeot, a little savory and quite peppery on the finish... | 261W·W30 lot 28388 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **12 cuvée/vintage entries**; prices $109.99–$2,499.99.

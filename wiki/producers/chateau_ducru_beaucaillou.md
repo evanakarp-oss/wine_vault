@@ -105,6 +105,15 @@ _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles.
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Chateau Ducru Beaucaillou | 2018 | James Suckling | 99 | Aromas of blackberries, blackcurrants, new leather and bark follow through to a full body with a dense, deep palate that goes on and on, but is still shy and re… | 261W·W30 lot 29363 |
+| Chateau Ducru Beaucaillou | 2019 | Vinous | 98 | ... has a glorious bouquet of cigar humidor, cedar, black fruit and a touch of black truffle, very complex and quite compelling. The palate is still very Pauill… | 261W·W30 lot 29365 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **2 cuvée/vintage entries**; prices $99.99–$299.99.

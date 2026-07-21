@@ -248,6 +248,20 @@ _LVMH prestige; only ever vintage. P2 (15+ years on lees) and P3 (40+) are the a
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Dom Perignon Vintage Champagne | 2008 | Vinous | 98+ | What I admire most about the 2008 is the way it shows all the focus, translucence and energy that is such a signature of the year, and yet it is also remarkably… | 261W·W30 lot 29089 |
+| Dom Perignon Vintage Champagne | 2010 | — | 92 | The 2010 Dom Pérignon is already expressive, wafting from the glass with aromas of crisp green apple, peach, iodine, freshly baked bread, orange oil and smoke.… | 261W·W30 lot 29091 |
+| Dom Perignon Vintage Champagne | 2012 | Vinous | 97 | ...dense, powerful wine. I am almost shocked by its vinous intensity and raw, unbridled power. The 2012 reminds me of the 2003, but with more finesse and not qu… | 261W·W30 lot 29092 |
+| Dom Perignon Vintage Champagne | 2013 | — | 95 | ... is a charming and elegant vintage for this cuvée. It reveals complex aromas of buttery pastry, spices, citrus oil, almonds, honey and, with aeration, a touc… | 261W·W30 lot 29402 |
+| Dom Perignon Vintage Champagne P2 | 1998 | Vinous | 95 | ...quite open at this stage. Hints of apricot, almond, white flowers and chamomile add texture on the fleshy, resonant finish. The added time on the lees has gi… | 261W·W30 lot 29096 |
+| Dom Perignon Vintage Champagne P2 | 2003 | Vinous | 96 | Power, generosity and volume are all exalted. The P2 balances richness with a greater sense of creaminess that comes through extended time on the cork. Readers… | 261W·W30 lot 29097 |
+| Dom Perignon Vintage Champagne Rose | 2008 | Wine Spectator | 97 | An impeccably balanced and graceful sparkling rosé, with a plushly creamy mousse. It's hard to tell where the firm spine of well-honed acidity and the expressiv… | 261W·W30 lot 29099 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **7 cuvée/vintage entries**; prices $499.99–$499.99.

@@ -93,6 +93,17 @@ _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles.
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Louis Roederer Champagne Collection 242 | NV | — | 92 | ...offering up aromas of pear, orange zest, white flowers, almonds and hazelnuts. Medium to full-bodied, ample and fleshy, with racy acids and a bright, saline… | 261W·W30 lot 28867 |
+| Louis Roederer Vintage Champagne Cristal | 2007 | Vinous | 97+ | The aromatics alone are captivating, but then the wine opens on the palate, revealing layer after layer of flavor to match a multi-dimensional, kaleidoscopic pe… | 261W·W30 lot 29406 |
+| Louis Roederer Vintage Champagne Cristal | 2009 | Vinous | 96 | ...captures all of the natural generosity of the vintage while also retaining a good bit of freshness and aromatic intensity. Immediate and totally sensual in i… | 261W·W30 lot 29407 |
+| Louis Roederer Vintage Champagne Cristal | 2014 | Vinous | 98 | ...feel totally wrapped up in waves of creamy, resonant fruit to the point the mousse is barely perceptible, especially with aeration. The flavors are bright an… | 261W·W30 lot 29141 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **12 cuvée/vintage entries**; prices $65.99–$899.99.

@@ -111,6 +111,14 @@ Currently tracked: **13 cuvée/vintage entries**; prices $49–$899.
 | Vosne Romanée 1er Chaumes | 2018 | $169 |
 | Vosne Romanée villages | 2020 | $109 |
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Gevrey Chambertin Les Fontenys | 2017 | Burghound | 90-93 | This is also restrained but not mute with its background earth scents on the ripe plum and dark cherry scents. | 261W·W30 lot 13487 |
+
 ## Raeder's
 
 _Not yet populated._

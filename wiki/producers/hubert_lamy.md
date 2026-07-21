@@ -43,6 +43,19 @@ _Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Stree
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Puligny Montrachet Les Tremblots, Vieilles Vignes | 2021 | Vinous | 92 | Beautifully layered aromas of citrus confit, smoke and a variety of white fleshed fruit are complemented by utterly delicious, caressing and solidly concentrate… | 261W·W30 lot 29002 |
+| St. Aubin En Remilly | 2016 | Vinous | 91 | The palate is marked by sour lemon and lime, rather harmonious with moderate depth, I find it a bit "fishy" and very saline on the finish. | 261W·W30 lot 29006 |
+| St. Aubin En Remilly | 2017 | Vinous | 93 | The 2017 Saint-Aubin En Remilly 1er Cru has a well-defined, attractive bouquet of pressed flower, honeysuckle and crushed stone aromas; the oak is very well int… | 261W·W30 lot 29007 |
+| St. Aubin En Remilly | 2018 | — | 94 | Unwinding in the glass with notes of orange oil, nutmeg, pear and toasted bread, it's medium to full-bodied, bright and incisive, with a coiled and concentrated… | 261W·W30 lot 29008 |
+| St. Aubin En Remilly | 2020 | Burghound | 92 | There is notably better density to the equally beautifully textured medium-bodied flavors that flash excellent minerality on the solidly powerful, lengthy and i… | 261W·W30 lot 29010 |
+| St. Aubin En Remilly | 2022 | Vinous | 95 | It has a strict flint- and crushed stone-scented nose that's very minerally and uncompromising. The palate is fresh, vibrant and beautifully balanced on the ent… | 261W·W30 lot 29012 |
+
 ## Raeder's
 
 _Not yet populated._

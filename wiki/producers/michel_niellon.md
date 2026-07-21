@@ -79,6 +79,14 @@ _Not yet covered in CSW archive sweep._
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Chassagne Montrachet Les Vergers | 2008 | — | 92 | ... a deep and complex nose of apple, a touch of pineapple, lovely minerality, citrus blossoms and a stylish base of buttery oak. On the palate the wine is deep… | 261W·W30 lot 28440 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **3 cuvée/vintage entries**; prices $109.99–$239.99.

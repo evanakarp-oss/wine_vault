@@ -43,6 +43,19 @@ _Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Stree
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Nuits St. Georges Les Chaignots | 2014 | Vinous | 93 | ...has a lovely bouquet with well-defined brambly red berry fruit, crushed stone, iris flower and a light ash-like tincture. | 261W·W30 lot 28969 |
+| Nuits St. Georges Les Roncieres | 2005 | — | 91-92 | The 2005 Nuits-St.-Georges Les Roncieres offers a fascinating Cabernet Franc-like hint of machine oil along with ripe red cherry, tobacco, cedar, and wood smoke… | 261W·W30 lot 29576 |
+| Nuits St. Georges Les St. Georges | 2019 | Vinous | 94-96 | ...has a sublime bouquet, a mixture of red and black fruit, sous-bois and light rose petal aromas, very harmonious and sophisticated; a light sea cave aroma eme… | 261W·W30 lot 28970 |
+| Nuits St. Georges Les St. Georges | 2020 | — | 93-95 | ...opens in the glass with aromas of dark berries and plums mingled with warm spices, baking chocolate and loamy soil. Medium to full-bodied, rich and layered,… | 261W·W30 lot 28971 |
+| Nuits St. Georges Les St. Georges | 2022 | Burghound | 93-95 | Here the wood influence is also nicely subtle on the floral and spice-inflected red pinot, cherry and soft earth-suffused aromas. There is good detail to the bi… | 261W·W30 lot 28972 |
+| Nuits St. Georges Les Vaucrains | 2011 | Burghound | 92 | This is very reserved, indeed to the point where the nose is borderline taciturn and requires considerable swirling to reveal the ripe and intensely earthy nose… | 261W·W30 lot 28973 |
+
 ## Raeder's
 
 _Not yet populated._

@@ -98,6 +98,14 @@ _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles.
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Chateau Phelan Segur | 2015 | — | 90+ | Medium to deep garnet-purple in color, the 2015 Phélan Ségur has a nose of red and black currants with earthy notes of fungi, dried herbs, damp soil and tapenad… | 261W·W30 lot 29535 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **2 cuvée/vintage entries**; prices $69.99–$69.99.

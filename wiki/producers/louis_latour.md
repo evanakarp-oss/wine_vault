@@ -81,6 +81,14 @@ _Not yet covered in CSW archive sweep._
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Corton Charlemagne | 1997 | — | 91-93 | Latour's Corton-Charlemagne is this negociant's flagship wine. The 1997's nose was rather unyielding on my visit to the firm's Chateau Grancey (in Aloxe-Corton)… | 261W·W30 lot 24748 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **9 cuvée/vintage entries**; prices $39.99–$104.99.

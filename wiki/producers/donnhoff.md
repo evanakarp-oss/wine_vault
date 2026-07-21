@@ -143,6 +143,14 @@ berserkers_kelley_body:
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Riesling Spatlese Niederhauser Hermannshohle | 2002 | — | 96 | ...hovering in that zone bordering perfection in which wines touch the soul. Profound aromas of liquid slate and pepper emanate from the it has flavors reminisc… | 261W·W30 lot 29471 |
+
 ## Raeder's
 
 _Not yet populated._

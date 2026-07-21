@@ -43,6 +43,15 @@ _Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Stree
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Philip Togni Cabernet Sauvignon | 2009 | — | 95+ | The 2009 Cabernet Sauvignon is stunningly beautiful and seductive in its red fruit, mint and tobacco. This is a surprisingly accessible vintage for the Cabernet… | 261W·W30 lot 29250 |
+| Philip Togni Cabernet Sauvignon | 2019 | Vinous | 96-99 | Black cherry, plum, graphite, spice and incense build into the palate-staining finish. | 261W·W30 lot 29251 |
+
 ## Raeder's
 
 _Not yet populated._

@@ -219,6 +219,15 @@ _Margaux 3rd-growth (drinks at 1st-growth level). Certified biodynamic since 201
 
 _Not yet populated._
 
+## Critic Ratings
+
+_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Chateau Palmer | 2001 | Wine Spectator | 94 | Extremely pretty, with flowers, berries, chocolate and spices. Full-bodied, with a solid core of fruit and ripe, silky tannins; long and caressing. Beautiful. P… | 261W·W30 lot 26885 |
+| Chateau Palmer | 2018 | Vinous | 100 | The 2018 Palmer is even more impressive from bottle than it was from barrel, and that is saying something. Rich, exotic and beautifully layered, Palmer is a rea… | 261W·W30 lot 29388 |
+
 ## Raeder's
 
 Currently tracked at Raeders: **8 cuvée/vintage entries**; prices $399.99–$1,299.99.
