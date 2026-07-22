@@ -9,6 +9,18 @@ distinct_producers_after_alias_merge: ~110
 
 # FASS Unmatched — Triage (2026-05-26)
 
+> **Progress — 2026-07-22:** first onboarding batch executed. 12 iconic on-taste
+> Tier-1 producers created ([[jean_michel_stephan|J-M Stéphan]], [[domaine_blachon|Blachon]],
+> [[philippe_naddef|Naddef]], [[perseval_farge|Perseval-Farge]], [[paul_weltner|Weltner]],
+> [[david_leclapart|Léclapart]], [[joh_jos_prum|J.J. Prüm]], [[markus_molitor|Molitor]],
+> [[martin_muellen|Müllen]], [[domaine_des_roches_neuves|Roches Neuves]],
+> [[yvon_metras|Métras]], [[gut_hermannsberg|Gut Hermannsberg]]), six enriched with
+> current Gmail offer data. Cross-source consolidation: Gonon, Pierre Brisset and
+> JJ Girard were already in the vault under other slugs (`domaine_pierre_gonon`,
+> `maison_pierre_brisset`, `jean_jacques_girard`) — aliased in `ingest_fass.py`, not
+> re-created. **~60 Tier-1 producers still queued** below. The weekly Gmail sweep
+> ([[retailer_email_offers_2026_07|offers view]]) will keep surfacing the rest.
+
 The FASS rebuild matched only 14 of ~110 distinct producers in the portfolio.
 The other ~96 are real producers, mostly NEW to the wiki. This view triages
 each one against Evan's curation filters (CLAUDE.md) into onboard / watch /

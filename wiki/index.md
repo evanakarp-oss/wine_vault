@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 1003
+total_pages: 1015
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**1003 pages indexed.**
+**1015 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -26,32 +26,32 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Baden_Producers|Baden Producers]] — **4 producers** tracked.
 - [[Basque_Country_Producers|Basque Country Producers]] — **1 producers** tracked.
 - [[Basque_Irouleguy_Producers|Basque Irouleguy Producers]] — **1 producers** tracked.
-- [[Beaujolais_Producers|Beaujolais Producers]] — **4 producers** tracked.
+- [[Beaujolais_Producers|Beaujolais Producers]] — **5 producers** tracked.
 - [[Bierzo_Producers|Bierzo Producers]] — **1 producers** tracked.
 - [[Bordeaux_Producers|Bordeaux Producers]] — **25 producers** tracked.
-- [[Burgundy_Producers|Burgundy Producers]] — **100 producers** tracked.
+- [[Burgundy_Producers|Burgundy Producers]] — **101 producers** tracked.
 - [[California_Producers|California Producers]] — **23 producers** tracked.
 - [[Catalonia_Producers|Catalonia Producers]] — **1 producers** tracked.
-- [[Champagne_Producers|Champagne Producers]] — **22 producers** tracked.
+- [[Champagne_Producers|Champagne Producers]] — **24 producers** tracked.
 - [[Colli_Tortonesi_Producers|Colli Tortonesi Producers]] — **1 producers** tracked.
 - [[Corsica_Producers|Corsica Producers]] — **1 producers** tracked.
-- [[Franken_Producers|Franken Producers]] — **2 producers** tracked.
+- [[Franken_Producers|Franken Producers]] — **3 producers** tracked.
 - [[Friuli-Venezia_Giulia_Producers|Friuli-Venezia Giulia Producers]] — **56 producers** tracked.
 - [[Jujuy_Producers|Jujuy Producers]] — **2 producers** tracked.
 - [[Jura_Producers|Jura Producers]] — **14 producers** tracked.
 - [[Liguria_Producers|Liguria Producers]] — **1 producers** tracked.
-- [[Loire_Producers|Loire Producers]] — **11 producers** tracked.
+- [[Loire_Producers|Loire Producers]] — **12 producers** tracked.
 - [[Marche_Producers|Marche Producers]] — **1 producers** tracked.
 - [[Mendoza_Producers|Mendoza Producers]] — **62 producers** tracked.
-- [[Mosel_Producers|Mosel Producers]] — **19 producers** tracked.
-- [[Nahe_Producers|Nahe Producers]] — **3 producers** tracked.
+- [[Mosel_Producers|Mosel Producers]] — **22 producers** tracked.
+- [[Nahe_Producers|Nahe Producers]] — **4 producers** tracked.
 - [[Oregon_Producers|Oregon Producers]] — **2 producers** tracked.
 - [[Patagonia_Producers|Patagonia Producers]] — **9 producers** tracked.
 - [[Pfalz_Producers|Pfalz Producers]] — **2 producers** tracked.
 - [[Piedmont_Producers|Piedmont Producers]] — **20 producers** tracked.
 - [[Provence_Producers|Provence Producers]] — **3 producers** tracked.
 - [[Rheinhessen_Producers|Rheinhessen Producers]] — **1 producers** tracked.
-- [[Rhone_Producers|Rhone Producers]] — **35 producers** tracked.
+- [[Rhone_Producers|Rhone Producers]] — **37 producers** tracked.
 - [[Ribera_del_Duero_Producers|Ribera Del Duero Producers]] — **1 producers** tracked.
 - [[Salta_Producers|Salta Producers]] — **5 producers** tracked.
 - [[San_Juan_Producers|San Juan Producers]] — **1 producers** tracked.
@@ -173,7 +173,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[E&R_Wine_Shop|E&R Wine Shop]] — https://www.erwine.com
 - [[Eataly_Wine|Eataly Wine]] — https://www.eataly.com/wine
 - [[Envoyer_Business_Wine|Envoyer Business Wine]] — https://www.envoyerwine.com
-- [[FASS_Selections|FASS Selections]] — <!-- BEGIN AUTO-GENERATED (build_rollups.py) --> **5 producers** from this retailer are tracked in the wiki.
+- [[FASS_Selections|FASS Selections]] — <!-- BEGIN AUTO-GENERATED (build_rollups.py) --> **17 producers** from this retailer are tracked in the wiki.
 - [[FLX_Provisions|FLX Provisions]] — https://www.flxprovisions.com
 - [[Fermented_Grapes|Fermented Grapes]] — https://www.fermentedgrapes.com
 - [[Ferry_Plaza_Wine_Merchant|Ferry Plaza Wine Merchant]] — https://www.ferrywinery.com
@@ -272,7 +272,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_457 producers across 40 regions._
+_469 producers across 40 regions._
 
 ### Abruzzo
 
@@ -312,6 +312,7 @@ _457 producers across 40 regions._
 - [[clos_de_la_roilette|Clos de la Roilette]] — Beaujolais · CSW ★6/8 · DTE 1
 - [[desvignes|Desvignes]] — Beaujolais · CSW ★4/13 · DTE 2
 - [[julien_sunier|Julien Sunier]] — Beaujolais · DTE 1
+- [[yvon_metras|Yvon Métras]] — Beaujolais / Fleurie · organic · FASS
 
 ### Bierzo
 
@@ -426,6 +427,7 @@ _457 producers across 40 regions._
 - [[modot_guyon|Modot Guyon]] — Burgundy · DTE 6
 - [[nicolas_rossignol|Nicolas Rossignol]] — Burgundy / Volnay · DTE 3
 - [[patrice_rion|Patrice Rion]] — Burgundy · DTE 3
+- [[philippe_naddef|Philippe Naddef]] — Burgundy / Gevrey-Chambertin · FASS
 - [[pierre-yves_colin-morey|Pierre-Yves Colin-Morey]] — Burgundy / St-Aubin / Chassagne · organic · CSW ★2/4
 - [[ramonet|Ramonet]] — Burgundy / Chassagne-Montrachet · CSW 1 · Raeder 9
 - [[rapet_pere_et_fils|Rapet Père et Fils]] — Burgundy / Pernand-Vergelesses · organic · CSW 2
@@ -484,6 +486,7 @@ _457 producers across 40 regions._
 - [[cedric_bouchard|Cédric Bouchard]] — Champagne / Aube (Côte des Bar) · organic
 - [[champagne_les_freres_mignon|Champagne Les Freres Mignon]] — Champagne · CSW ★1/1
 - [[champagne_ponson|Champagne Ponson]] — Champagne · CSW ★2/2
+- [[david_leclapart|David Léclapart]] — Champagne / Montagne de Reims · biodynamic · FASS
 - [[dehu|Déhu]] — Champagne / Vallée de la Marne · DTE 5
 - [[dom_perignon|Dom Pérignon]] — Champagne · CSW 1 · Raeder 7
 - [[jacques_lassaigne|Jacques Lassaigne]] — Champagne · CSW 1 · DTE 3
@@ -494,6 +497,7 @@ _457 producers across 40 regions._
 - [[marguet|Marguet]] — Champagne · CSW ★3/10 · DTE 4
 - [[marie_courtin|Marie Courtin]] — Champagne / Côte des Bar · biodynamic · DTE 7
 - [[nathalie_falmet|Nathalie Falmet]] — Champagne · DTE 1
+- [[perseval_farge|Perseval-Farge]] — Champagne / Montagne de Reims · FASS
 - [[petit_clergeot|Petit Clergeot]] — Champagne · DTE 1
 - [[philippe_lancelot|Philippe Lancelot]] — Champagne / Côte des Blancs · DTE 2
 - [[pierre_peters|Pierre Peters]] — Champagne / Le Mesnil-sur-Oger · sustainable · CSW 2 · Raeder 2
@@ -512,6 +516,7 @@ _457 producers across 40 regions._
 ### Franken
 
 - [[max_kilburg|Max Kilburg]] — Franken · CSW ★2/3
+- [[paul_weltner|Paul Weltner]] — Franken · FASS
 - [[rudolf_furst|Rudolf Furst]] — Franken · CSW 5 · DTE 2
 
 ### Friuli-Venezia Giulia
@@ -605,6 +610,7 @@ _457 producers across 40 regions._
 - [[clos_rougeard|Clos Rougeard]] — Loire / Saumur-Champigny · natural · CSW ★2/11
 - [[domaine_baudry|Domaine Baudry]] — Loire / Chinon · organic · CSW ★20/45
 - [[domaine_de_la_chevalerie|Domaine de la Chevalerie]] — Loire / Bourgueil · organic · CSW ★5/15
+- [[domaine_des_roches_neuves|Domaine des Roches Neuves]] — Loire / Saumur-Champigny · biodynamic · FASS
 - [[domaine_fl|Domaine FL]] — Loire / Savennières · DTE 1
 - [[francois_chidaine|François Chidaine]] — Loire / Montlouis-sur-Loire · biodynamic · DTE 1
 - [[huet|Domaine Huet]] — Loire / Vouvray · biodynamic
@@ -688,7 +694,10 @@ _457 producers across 40 regions._
 - [[clemens_busch|Clemens Busch]] — Mosel / Pünderich · biodynamic · CSW ★5/20
 - [[hofgut_falkenstein|Hofgut Falkenstein]] — Mosel / Saar (Konz) · CSW ★6/12
 - [[immich-batterieberg|Immich-Batterieberg]] — Mosel / Enkirch · biodynamic · CSW ★4/14
+- [[joh_jos_prum|Joh. Jos. Prüm]] — Mosel / Wehlen · FASS
 - [[knebel|Knebel]] — Mosel / Winningen · CSW ★3/16
+- [[markus_molitor|Markus Molitor]] — Mosel · FASS
+- [[martin_muellen|Martin Müllen]] — Mosel / Traben-Trarbach · FASS
 - [[max_ferdinand_richter|Max Ferdinand Richter]] — Mosel · DTE 17
 - [[melsheimer|Melsheimer]] — Mosel · CSW 1 · DTE 3
 - [[peter_lauer__weingut_lauer|Peter Lauer / Weingut Lauer]] — Mosel / Saar
@@ -707,6 +716,7 @@ _457 producers across 40 regions._
 
 - [[donnhoff|Dönnhoff]] — Nahe · CSW ★2/10
 - [[emrich_schonleber|Emrich-Schönleber]] — Nahe · organic · CSW ★2/3
+- [[gut_hermannsberg|Gut Hermannsberg]] — Nahe · FASS
 - [[schafer-frohlich|Schafer-Frohlich]] — Nahe · CSW ★2/6
 
 ### Oregon
@@ -776,6 +786,7 @@ _457 producers across 40 regions._
 - [[clusel_roch|Clusel Roch]] — Rhône · DTE 3 · Raeder 1
 - [[dard__ribo|Dard & Ribo]] — Rhône / Crozes-Hermitage / Saint-Joseph · natural · CSW ★3/3
 - [[domaine_barou|Domaine Barou]] — Rhône / Saint-Joseph · organic · CSW ★2/6
+- [[domaine_blachon|Domaine Blachon]] — Rhône / Saint-Joseph · FASS
 - [[domaine_charvin|Domaine Charvin]] — Rhône / Châteauneuf-du-Pape · organic · CSW ★1/7
 - [[domaine_de_beaurenard|Domaine de Beaurenard]] — Rhône / Châteauneuf-du-Pape · biodynamic · Raeder 11
 - [[domaine_des_amphores|Domaine des Amphores]] — Rhône / Saint-Joseph / Condrieu · biodynamic · CSW ★2/6
@@ -796,6 +807,7 @@ _457 producers across 40 regions._
 - [[georges_vernay|Georges Vernay]] — Rhône · DTE 1 · Raeder 1
 - [[jamet|Jamet]] — Rhône / Côte-Rôtie · CSW ★2/2
 - [[jasmin|Jasmin]] — Rhône · CSW 1 · DTE 1
+- [[jean_michel_stephan|Jean-Michel Stéphan]] — Rhône / Côte-Rôtie · organic · FASS
 - [[jean_royer|Jean Royer]] — Rhône · DTE 1
 - [[langlore|L'Anglore]] — Rhône / Tavel / Lirac · natural · CSW 6
 - [[marc_sorrel|Marc Sorrel]] — Rhône · DTE 15

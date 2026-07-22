@@ -2,12 +2,12 @@
 type: region_index
 region: "Burgundy"
 updated: 2026-07-22
-producer_count: 100
+producer_count: 101
 ---
 
 # Burgundy — Producer Index
 
-**100 producers** tracked.
+**101 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -105,6 +105,7 @@ producer_count: 100
 | [[modot_guyon|Modot Guyon]] | France | — | — | 6 | — | — | — |
 | [[nicolas_rossignol|Nicolas Rossignol]] | France | Volnay | — | 3 | — | — | — |
 | [[patrice_rion|Patrice Rion]] | France | — | — | 3 | — | — | — |
+| [[philippe_naddef|Philippe Naddef]] | France | Gevrey-Chambertin | — | — | — | 0 | — |
 | [[robert_chevillon|Robert Chevillon]] | France | Nuits-Saint-Georges | — | — | — | — | — |
 | [[roger_belland|Roger Belland]] | France | Santenay | — | 2 | — | — | — |
 | [[roty|Roty]] | France | — | — | 1 | — | — | — |

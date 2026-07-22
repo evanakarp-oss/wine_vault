@@ -2,12 +2,12 @@
 type: region_index
 region: "Loire"
 updated: 2026-07-22
-producer_count: 11
+producer_count: 12
 ---
 
 # Loire — Producer Index
 
-**11 producers** tracked.
+**12 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -17,6 +17,7 @@ producer_count: 11
 | [[domaine_de_la_chevalerie|Domaine de la Chevalerie]] | France | Bourgueil | 15 | — | — | — | — |
 | [[clos_rougeard|Clos Rougeard]] | France | Saumur-Champigny | 11 | — | — | — | — |
 | [[boulay|Boulay]] | France | '' | 2 | 1 | — | — | — |
+| [[domaine_des_roches_neuves|Domaine des Roches Neuves]] | France | Saumur-Champigny | — | — | — | 0 | — |
 | [[domaine_fl|Domaine FL]] | France | Savennières | — | 1 | — | — | — |
 | [[huet|Domaine Huet]] | France | Vouvray | — | — | — | — | — |
 | [[francois_chidaine|François Chidaine]] | France | Montlouis-sur-Loire | — | 1 | — | — | — |

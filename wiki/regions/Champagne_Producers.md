@@ -2,12 +2,12 @@
 type: region_index
 region: "Champagne"
 updated: 2026-07-22
-producer_count: 22
+producer_count: 24
 ---
 
 # Champagne — Producer Index
 
-**22 producers** tracked.
+**24 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -23,11 +23,13 @@ producer_count: 22
 | [[larmandier_bernier|Larmandier Bernier]] | France | '' | 1 | 3 | 1 | — | — |
 | [[aurore_casanova|Aurore Casanova]] | France | — | — | 4 | — | — | — |
 | [[cedric_bouchard|Cédric Bouchard]] | France | Aube (Côte des Bar) | — | — | — | — | — |
+| [[david_leclapart|David Léclapart]] | France | Montagne de Reims | — | — | — | 0 | — |
 | [[dehu|Déhu]] | France | Vallée de la Marne | — | 5 | — | — | — |
 | [[legrand_latour|Legrand-Latour]] | France | — | — | 2 | — | — | — |
 | [[louis_roederer|Louis Roederer]] | France | '' | — | — | 12 | — | — |
 | [[marie_courtin|Marie Courtin]] | France | Côte des Bar | — | 7 | — | — | — |
 | [[nathalie_falmet|Nathalie Falmet]] | France | — | — | 1 | — | — | — |
+| [[perseval_farge|Perseval-Farge]] | France | Montagne de Reims | — | — | — | 0 | — |
 | [[petit_clergeot|Petit Clergeot]] | France | '' | — | 1 | — | — | — |
 | [[philippe_lancelot|Philippe Lancelot]] | France | Côte des Blancs | — | 2 | — | — | — |
 | [[ployez_jacquemart|Ployez Jacquemart]] | France | — | — | 6 | — | — | — |

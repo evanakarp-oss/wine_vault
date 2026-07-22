@@ -2,12 +2,12 @@
 type: region_index
 region: "Rhône"
 updated: 2026-07-22
-producer_count: 35
+producer_count: 37
 ---
 
 # Rhône — Producer Index
 
-**35 producers** tracked.
+**37 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -39,11 +39,13 @@ producer_count: 35
 | [[billon|Billon]] | France | '' | — | 4 | — | — | — |
 | [[clos_saouma|Clos Saouma]] | France | — | — | 1 | — | — | — |
 | [[clusel_roch|Clusel Roch]] | France | '' | — | 3 | 1 | — | — |
+| [[domaine_blachon|Domaine Blachon]] | France | Saint-Joseph | — | — | — | 0 | — |
 | [[domaine_de_beaurenard|Domaine de Beaurenard]] | France | Châteauneuf-du-Pape | — | — | 11 | — | — |
 | [[domaine_gallety|Domaine Gallety]] | France | Côtes du Vivarais | — | — | — | — | — |
 | [[eric_et_joel_durand|Eric et Joel Durand]] | France | — | — | 1 | — | — | — |
 | [[georges_vernay|Georges Vernay]] | France | — | — | 1 | 1 | — | — |
 | [[jean_royer|Jean Royer]] | France | — | — | 1 | — | — | — |
+| [[jean_michel_stephan|Jean-Michel Stéphan]] | France | Côte-Rôtie | — | — | — | 0 | — |
 | [[marc_sorrel|Marc Sorrel]] | France | '' | — | 15 | — | — | — |
 | [[pierre_benetiere|Pierre Benetiere]] | France | — | — | 5 | — | — | — |
 

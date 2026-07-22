@@ -29,6 +29,36 @@ FASS_ALIASES: dict[str, str] = {
     "baudry": "bernard_baudry",
     "bernard baudry": "bernard_baudry",
     "matthieu baudry": "matthieu_baudry",
+    # --- 2026-07-22 batch: 12 onboarded from the triage + Gmail offers ---
+    "jean michel stephan": "jean_michel_stephan",
+    "jean-michel stephan": "jean_michel_stephan",
+    "domaine blachon": "domaine_blachon",
+    "cave sebastien blachon": "domaine_blachon",
+    "philippe naddef": "philippe_naddef",
+    "domaine philippe naddef": "philippe_naddef",
+    "michel naddef": "philippe_naddef",
+    "perseval farge": "perseval_farge",
+    "perseval-farge": "perseval_farge",
+    "paul weltner": "paul_weltner",
+    "leclapart": "david_leclapart",
+    "david leclapart": "david_leclapart",
+    "jj prum": "joh_jos_prum",
+    "j.j. prum": "joh_jos_prum",
+    "markus molitor": "markus_molitor",
+    "markus moitor": "markus_molitor",
+    "martin muellen": "martin_muellen",
+    "martin mullen": "martin_muellen",
+    "domaine des roches neuves": "domaine_des_roches_neuves",
+    "thierry germain": "domaine_des_roches_neuves",
+    "yvon metras": "yvon_metras",
+    "gut hermannsberg": "gut_hermannsberg",
+    # --- cross-source consolidation: already covered under other slugs ---
+    "gonon": "domaine_pierre_gonon",
+    "pierre gonon": "domaine_pierre_gonon",
+    "pierre brisset": "maison_pierre_brisset",
+    "maison brisset": "maison_pierre_brisset",
+    "jj girard": "jean_jacques_girard",   # = DTE "Jean-Jacques Girard" (Savigny)
+    "j.j. girard": "jean_jacques_girard",
 }
 
 

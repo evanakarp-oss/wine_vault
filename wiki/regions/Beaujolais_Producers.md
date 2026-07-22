@@ -2,12 +2,12 @@
 type: region_index
 region: "Beaujolais"
 updated: 2026-07-22
-producer_count: 4
+producer_count: 5
 ---
 
 # Beaujolais — Producer Index
 
-**4 producers** tracked.
+**5 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -15,5 +15,6 @@ producer_count: 4
 | [[clos_de_la_roilette|Clos de la Roilette]] | France | '' | 8 | 1 | — | — | — |
 | [[anthony_thevenet|Anthony Thevenet]] | France | — | 1 | 1 | — | — | — |
 | [[julien_sunier|Julien Sunier]] | France | '' | — | 1 | — | — | — |
+| [[yvon_metras|Yvon Métras]] | France | Fleurie | — | — | — | 0 | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

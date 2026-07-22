@@ -2,12 +2,12 @@
 type: region_index
 region: "Mosel"
 updated: 2026-07-22
-producer_count: 19
+producer_count: 22
 ---
 
 # Mosel — Producer Index
 
-**19 producers** tracked.
+**22 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -25,6 +25,9 @@ producer_count: 19
 | [[zilliken|Zilliken]] | Germany | Saar (Saarburg) | 4 | — | — | — | — |
 | [[melsheimer|Melsheimer]] | Germany | — | 1 | 3 | — | — | — |
 | [[alex_loersch|Alex Loersch]] | Germany | — | — | 3 | — | — | — |
+| [[joh_jos_prum|Joh. Jos. Prüm]] | Germany | Wehlen | — | — | — | 0 | — |
+| [[markus_molitor|Markus Molitor]] | Germany | — | — | — | — | 0 | — |
+| [[martin_muellen|Martin Müllen]] | Germany | Traben-Trarbach | — | — | — | 0 | — |
 | [[max_ferdinand_richter|Max Ferdinand Richter]] | Germany | — | — | 17 | — | — | — |
 | [[peter_lauer__weingut_lauer|Peter Lauer / Weingut Lauer]] | Germany | Saar | — | — | — | — | — |
 | [[richter|Richter]] | Germany | '' | — | 11 | — | — | — |

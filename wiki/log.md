@@ -1230,3 +1230,26 @@ Rossignol, Roger Belland, Château de la Maltroye, Alvina Pernot). Coverage view
 [[dte_portfolio_coverage_2026_07]]. Rebuilt rollups (460 producer pages) + wiki
 index; lint clean. Follow-up: extend `DTE_ALIASES` then re-run `ingest_dte_jsx.py`
 to refresh prices for the 109 already-covered (blind run would dupe ~17 pages).
+
+## [2026-07-22] onboard | Fass coverage batch (12 producers) + weekly Gmail sweep
+
+Ensured Fass Selections coverage is moving and stood up the recurring email
+sweep. Onboarded 12 iconic on-taste producers from the 2026-05 Fass triage
+([[fass_unmatched_triage_2026_05]]), six enriched with current offer data from
+`lyle@fassselections.com`: [[jean_michel_stephan]], [[domaine_blachon]],
+[[philippe_naddef]], [[perseval_farge]], [[paul_weltner]], [[david_leclapart]]
+(Gmail-enriched), plus [[joh_jos_prum]], [[markus_molitor]], [[martin_muellen]],
+[[domaine_des_roches_neuves]], [[yvon_metras]], [[gut_hermannsberg]]. Cross-source
+consolidation: Gonon / Pierre Brisset / JJ Girard were already in the vault under
+other slugs — aliased in `ingest_fass.py`, not re-created (JJ Girard = the DTE
+Jean-Jacques Girard onboarded earlier today). ~60 Tier-1 Fass producers still
+queued in the triage view.
+
+**Weekly Gmail sweep** — new `/email-sweep` skill (`.claude/skills/email-sweep/`)
+sweeps `lyle@fassselections.com` + `robertpanzer@hotmail.com`, records offers in a
+rolling view ([[retailer_email_offers_2026_07]], seeded with this week's Fass + DTE
+offers incl. Lyle's /10 scores), folds "Recent offer" notes onto producer pages,
+and flags un-paged on-taste producers (e.g. Mugneret-Gibourg) for onboarding
+without auto-creating. Durable weekly Routine (Mon 09:07 ET) drafted — pending
+Evan's approval of the scheduler permission. Follow-up (data quality): probable
+duplicate Bouley page — `jean_marc_et_thomas_bouley` vs `thomas_et_jean_marc_bouley`.
