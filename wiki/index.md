@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 1050
+total_pages: 1062
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**1050 pages indexed.**
+**1062 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -48,7 +48,8 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Oregon_Producers|Oregon Producers]] — **2 producers** tracked.
 - [[Patagonia_Producers|Patagonia Producers]] — **9 producers** tracked.
 - [[Pfalz_Producers|Pfalz Producers]] — **2 producers** tracked.
-- [[Piedmont_Producers|Piedmont Producers]] — **20 producers** tracked.
+- [[Piedmont_Producers|Piedmont Producers]] — **19 producers** tracked.
+- [[Piemonte_Producers|Piemonte Producers]] — **13 producers** tracked.
 - [[Provence_Producers|Provence Producers]] — **3 producers** tracked.
 - [[Rheinhessen_Producers|Rheinhessen Producers]] — **1 producers** tracked.
 - [[Rhone_Producers|Rhone Producers]] — **37 producers** tracked.
@@ -272,7 +273,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_504 producers across 40 regions._
+_515 producers across 40 regions._
 
 ### Abruzzo
 
@@ -505,10 +506,6 @@ _504 producers across 40 regions._
 - [[ployez_jacquemart|Ployez Jacquemart]] — Champagne · DTE 6
 - [[taittinger|Taittinger]] — Champagne · Raeder 3
 - [[vauversin|Vauversin]] — Champagne / Côte des Blancs · DTE 3
-
-### Colli Tortonesi
-
-- [[walter_massa|Walter Massa]] — Colli Tortonesi / Timorasso · natural · CSW ★1/2
 
 ### Corsica
 
@@ -777,13 +774,28 @@ _504 producers across 40 regions._
 - [[fratelli_alessandria|Fratelli Alessandria]] — Piedmont / Verduno (Barolo) · CSW ★2/2
 - [[gaja|Gaja]] — Piedmont / Barbaresco / Barolo · sustainable · Raeder 30
 - [[giacomo_conterno|Giacomo Conterno]] — Piedmont / Barolo (Monforte) · CSW ★2/5 · Raeder 1
-- [[le_piane|Le Piane]] — Piedmont / Alto Piemonte · CSW 1 · DTE 6
 - [[lorenzo_accomasso|Lorenzo Accomasso]] — Piedmont / Barolo (La Morra) · CSW ★1/2
 - [[pianelle|Pianelle]] — Piedmont / Alto Piemonte · DTE 6
 - [[produttori_del_barbaresco|Produttori del Barbaresco]] — Piedmont / Barbaresco · CSW ★5/10 · Raeder 1
 - [[roagna|Roagna]] — Piedmont / Barbaresco / Barolo · biodynamic · CSW ★4/13 · Raeder 6
 - [[sottimano|Sottimano]] — Piedmont · DTE 12
 - [[trediberri|Trediberri]] — Piedmont / Barolo (La Morra) · organic · CSW ★2/3
+
+### Piemonte
+
+- [[alberto_oggero|Alberto Oggero]] — Piemonte / Alba
+- [[andrea_scovero|Andrea Scovero]] — Piemonte / Alba
+- [[antoniolo|Antoniolo]] — Piemonte / Alto Piemonte
+- [[bruno_giacosa|Bruno Giacosa]] — Piemonte / Alba
+- [[bruno_rocca|Bruno Rocca]] — Piemonte / Alba
+- [[cascina_gasparda|Cascina Gasparda]] — Piemonte / Alba
+- [[cascina_giacoma|Cascina Giacoma]] — Piemonte / Alba
+- [[claudio_mariotto|Claudio Mariotto]] — Piemonte / Colli Tortonesi
+- [[fernando_vietti|Fernando Vietti]] — Piemonte / Alto Piemonte
+- [[giordano_lombardo|Giordano Lombardo]] — Piemonte / Alba
+- [[il_passo|Il Passo]] — Piemonte / Alba
+- [[le_piane|Le Piane]] — Piemonte / Alba
+- [[walter_massa|Walter Massa]] — Piemonte / Colli Tortonesi
 
 ### Provence
 

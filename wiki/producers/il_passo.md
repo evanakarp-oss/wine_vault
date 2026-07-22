@@ -1,7 +1,7 @@
 ---
 type: producer
-name: "Le Piane"
-slug: le_piane
+name: "Il Passo"
+slug: il_passo
 country: "Italy"
 region: "Piemonte"
 sub_region: "Alba"
@@ -34,7 +34,7 @@ _sources:
   - campanale_wine_book
 ---
 
-# Le Piane
+# Il Passo
 
 Piemonte-based wine producer.
 

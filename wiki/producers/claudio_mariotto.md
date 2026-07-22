@@ -1,11 +1,11 @@
 ---
 type: producer
-name: "Le Piane"
-slug: le_piane
+name: "Claudio Mariotto"
+slug: claudio_mariotto
 country: "Italy"
 region: "Piemonte"
-sub_region: "Alba"
-appellations: ["Piemonte"]
+sub_region: "Colli Tortonesi"
+appellations: ["Colli Tortonesi"]
 
 farming: []
 certifications: []
@@ -29,14 +29,14 @@ retailers:
   fass:
     in_portfolio: false
 
-tags: ["piemonte", "alba", "italy-piedmont"]
+tags: ["piemonte", "colli-tortonesi", "italy-piedmont"]
 _sources:
   - campanale_wine_book
 ---
 
-# Le Piane
+# Claudio Mariotto
 
-Piemonte-based wine producer.
+Colli Tortonesi-based producer in Piemonte. White wine specialist.
 
 ## Notes
 

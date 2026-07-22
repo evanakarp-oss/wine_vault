@@ -1,11 +1,11 @@
 ---
 type: producer
-name: "Le Piane"
-slug: le_piane
+name: "Bruno Rocca"
+slug: bruno_rocca
 country: "Italy"
 region: "Piemonte"
 sub_region: "Alba"
-appellations: ["Piemonte"]
+appellations: ["Barbaresco", "Piemonte"]
 
 farming: []
 certifications: []
@@ -29,14 +29,14 @@ retailers:
   fass:
     in_portfolio: false
 
-tags: ["piemonte", "alba", "italy-piedmont"]
+tags: ["piemonte", "alba", "barbaresco", "nebbiolo", "italy-piedmont"]
 _sources:
   - campanale_wine_book
 ---
 
-# Le Piane
+# Bruno Rocca
 
-Piemonte-based wine producer.
+Alba-based Barbaresco producer in Piemonte. Bruno Rocca produces structured, elegant Nebbiolo-based reds from the Alba region.
 
 ## Notes
 
@@ -45,3 +45,4 @@ Piemonte-based wine producer.
 ## Cross-references
 
 - [[Piemonte_Producers|Piemonte]]
+- [[Barbaresco]]

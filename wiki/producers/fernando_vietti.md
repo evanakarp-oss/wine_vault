@@ -1,10 +1,10 @@
 ---
 type: producer
-name: "Le Piane"
-slug: le_piane
+name: "Fernando Vietti"
+slug: fernando_vietti
 country: "Italy"
 region: "Piemonte"
-sub_region: "Alba"
+sub_region: "Alto Piemonte"
 appellations: ["Piemonte"]
 
 farming: []
@@ -29,14 +29,14 @@ retailers:
   fass:
     in_portfolio: false
 
-tags: ["piemonte", "alba", "italy-piedmont"]
+tags: ["piemonte", "alto-piemonte", "italy-piedmont"]
 _sources:
   - campanale_wine_book
 ---
 
-# Le Piane
+# Fernando Vietti
 
-Piemonte-based wine producer.
+Alto Piemonte producer. Alpine Piemonte wine producer.
 
 ## Notes
 

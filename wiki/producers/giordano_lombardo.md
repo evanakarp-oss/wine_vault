@@ -1,7 +1,7 @@
 ---
 type: producer
-name: "Le Piane"
-slug: le_piane
+name: "Giordano Lombardo"
+slug: giordano_lombardo
 country: "Italy"
 region: "Piemonte"
 sub_region: "Alba"
@@ -34,7 +34,7 @@ _sources:
   - campanale_wine_book
 ---
 
-# Le Piane
+# Giordano Lombardo
 
 Piemonte-based wine producer.
 

@@ -4,14 +4,14 @@ name: "Down to Earth Wines (Panzer)"
 slug: dte
 url: ""
 location: "NYC (import portfolio)"
-producer_count: 119
+producer_count: 118
 updated: 2026-07-22
 ---
 
 # Down to Earth Wines (Panzer)
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**119 producers** from this retailer are tracked in the wiki.
+**118 producers** from this retailer are tracked in the wiki.
 
 ## Producers in portfolio
 
@@ -53,7 +53,6 @@ updated: 2026-07-22
 | [[elio_ottin|Elio Ottin]] | Italy | Valle d'Aosta | 6 | — |
 | [[gerard_mugneret|Gerard Mugneret]] | France | Burgundy | 6 | 2 |
 | [[laherte|Laherte]] | France | Champagne | 6 | 12 |
-| [[le_piane|Le Piane]] | Italy | Piedmont | 6 | 1 |
 | [[modot_guyon|Modot Guyon]] | France | Burgundy | 6 | — |
 | [[philippe_gilbert|Philippe Gilbert]] | France | Loire | 6 | — |
 | [[pianelle|Pianelle]] | Italy | Piedmont | 6 | — |
