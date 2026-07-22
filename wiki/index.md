@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 1025
+total_pages: 1039
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**1025 pages indexed.**
+**1039 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -58,7 +58,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Savoie_Producers|Savoie Producers]] — **1 producers** tracked.
 - [[Sicily_Producers|Sicily Producers]] — **6 producers** tracked.
 - [[Tuscany_Producers|Tuscany Producers]] — **9 producers** tracked.
-- [[Valle_dAosta_Producers|Valle Daosta Producers]] — **1 producers** tracked.
+- [[Valle_dAosta_Producers|Valle Daosta Producers]] — **15 producers** tracked.
 - [[Veneto_Producers|Veneto Producers]] — **1 producers** tracked.
 
 ## Importers
@@ -272,7 +272,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_479 producers across 40 regions._
+_493 producers across 40 regions._
 
 ### Abruzzo
 
@@ -867,7 +867,21 @@ _479 producers across 40 regions._
 
 ### Valle d'Aosta
 
+- [[caves_de_donnas|Caves de Donnas]] — Valle d'Aosta / Donnas
+- [[diego_curtaz|Diego Curtaz]] — Valle d'Aosta / Nus
+- [[dieter_gerbelle|Dieter Gerbelle]] — Valle d'Aosta / Aymavilles
 - [[elio_ottin|Elio Ottin]] — Valle d'Aosta · DTE 6
+- [[fabio_vovenna|Fabio Vovenna]] — Valle d'Aosta / Verrès
+- [[fedoudu_di_vozzuzzo|Fedoudu di Vozzuzzo]] — Valle d'Aosta / Vozzuzzo
+- [[la_kiuvia|La Kiuvia]] — Valle d'Aosta / Issogne
+- [[les_cretes|Les Crêtes]] — Valle d'Aosta / Aymavilles
+- [[lo_triolet|Lo Triolet]] — Valle d'Aosta / Introd
+- [[maison_anselmet|Maison Anselmet]] — Valle d'Aosta / Châtillon
+- [[maison_vevey_d_aranzo|Maison Vevey d'Aranzo]] — Valle d'Aosta / Aranzo
+- [[nadir_curtazz|Nadir Curtazz]] — Valle d'Aosta / Courmayeur
+- [[orfin|Orfin]] — Valle d'Aosta / Aosta
+- [[pero_brunt|Pero Brunt]] — Valle d'Aosta / Pila
+- [[rosset|Rosset]] — Valle d'Aosta / Antey-Saint-André
 
 ### Veneto
 
