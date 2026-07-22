@@ -1,4 +1,8 @@
 """
+ARCHIVED 2026-07-22 — the Google Drive mirror was retired; git is the single
+source of truth and there is no Drive copy left to diff against. Kept for
+history only; do not run.
+
 audit_drive_duplicates.py — diff producer slug sets between the canonical
 git vault and a Drive-mounted copy of `wiki/wiki/`.
 

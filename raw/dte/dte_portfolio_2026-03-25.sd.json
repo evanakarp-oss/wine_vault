@@ -1,0 +1,7327 @@
+{
+"P": [
+"Agrapart",
+"Agricola Tiberio",
+"Albert Morot",
+"Alvina Pernot",
+"Amélie Berthaut",
+"Anthony Thevenet",
+"Arnoux Lachaux",
+"Aurore Casanova",
+"Barraud",
+"Baudry",
+"Billon",
+"Boulay",
+"Bursin",
+"Castell'in Villa",
+"Castro Ventosa",
+"Charles Audoin",
+"Chateau de Pibarnon",
+"Chateau de la Maltroye",
+"Chicotot",
+"Chidaine",
+"Clos Saouma",
+"Clos de la Roilette",
+"Clos du Mont Olivet",
+"Clusel Roch",
+"Collestefano",
+"Denis Bachelet",
+"Desvignes",
+"Dirler-Cadé",
+"Domaine FL",
+"Domenico Clerico",
+"Dujardin",
+"Déhu",
+"Elio Altare",
+"Elio Ottin",
+"Eric et Joel Durand",
+"François Bertheau",
+"François Buffet",
+"Garon",
+"Georges Glantenay",
+"Georges Noellat",
+"Georges Vernay",
+"Gerard Julien",
+"Goisot",
+"Guillot-Broux",
+"Gulfi",
+"Guyon",
+"Gérard Mugneret",
+"Henri Magnien",
+"Hudelot Noellat",
+"I Fabbri",
+"Ilarria",
+"Istine",
+"Jacques Lassaigne",
+"Jasmin",
+"Jean Collet",
+"Jean Javillier",
+"Jean Masson",
+"Jean Pierre Guyon",
+"Jean Royer",
+"Jean-Jacques Girard",
+"Josephus Mayr",
+"Julien Sunier",
+"Kientzler",
+"Lafouge",
+"Laherte",
+"Larmandier Bernier",
+"Latour Giraud",
+"Legrand Latour",
+"Loersch",
+"Lorenzon",
+"Magnien",
+"Mallard",
+"Marc Sorrel",
+"Marchand Tawse",
+"Marguet",
+"Marie Courtin",
+"Mata I Coloma",
+"Maxime Cheurlin",
+"Melsheimer",
+"Michel Mallard",
+"Michel Noellat",
+"Michel Rebourgeon",
+"Modot Guyon",
+"Montenidoli",
+"Mosbacher",
+"Nathalie Falmet",
+"Nicolas Rossignol",
+"Pacherhof",
+"Paris",
+"Patrice Rion",
+"Pavelot",
+"Petit Clergeot",
+"Philippe Foreau",
+"Philippe Gilbert",
+"Philippe Lancelot",
+"Pian dell'Orino",
+"Piane",
+"Pianelle",
+"Pierre Benetiere",
+"Ployez Jacquemart",
+"Produttori",
+"Richter",
+"Rings",
+"Roger Belland",
+"Roty",
+"Rousset",
+"Rudolf Furst",
+"Schaefer Frohlich",
+"Sigaut",
+"Simon Bize",
+"Sirugue",
+"Sottimano",
+"Steinmetz",
+"Sven Enderle",
+"Taupenot Merme",
+"Tawse",
+"Tenuta di Carleone",
+"Thanisch",
+"Thomas et Jean Marc Bouley",
+"Tissot",
+"Urkizahar",
+"Vaccelli",
+"Vauversin",
+"Vincent Paris",
+"Wagner Stempel"
+],
+"C": [
+"France",
+"Germany",
+"Italy",
+"Spain"
+],
+"R": [
+"Alsace",
+"Baden",
+"Basque",
+"Beaujolais",
+"Bierzo",
+"Burgundy",
+"Catalonia",
+"Champagne",
+"Corsica",
+"Franken",
+"Jura",
+"Loire",
+"Mosel",
+"Nahe",
+"Piedmont",
+"Provence",
+"Rheinhessen",
+"Rhône",
+"Savoie",
+"Tuscany"
+],
+"D": [
+[
+24,
+"Verdicchio di Matelica",
+"2020",
+2,
+0,
+16.0
+],
+[
+24,
+"Ribona Colli Maceratesi",
+"2020",
+2,
+0,
+16.0
+],
+[
+24,
+"Verdicchio di Matelica",
+"2021",
+2,
+0,
+16.0
+],
+[
+24,
+"Rosa di Elena rosato",
+"2021",
+2,
+0,
+16.0
+],
+[
+24,
+"Rosa di Elena Rosato",
+"2022",
+2,
+0,
+16.0
+],
+[
+24,
+"Verdicchio di Matelica",
+"2022",
+2,
+0,
+16.0
+],
+[
+96,
+"Maggiorina",
+"2018",
+2,
+0,
+17.0
+],
+[
+44,
+"Rossojbleo",
+"2021",
+2,
+0,
+19.0
+],
+[
+87,
+"Gewurtztraminer",
+"2012",
+2,
+0,
+20.0
+],
+[
+96,
+"Maggiorina",
+"2020",
+2,
+0,
+20.0
+],
+[
+44,
+"Rossojbleo",
+"2023",
+2,
+0,
+20.0
+],
+[
+1,
+"Pecorino Colli Aprutini",
+"2012",
+2,
+0,
+22.0
+],
+[
+100,
+"Nebbiolo di Carema Classico",
+"2017",
+2,
+0,
+22.0
+],
+[
+44,
+"Cerasuolo di Vittoria",
+"2023",
+2,
+0,
+22.0
+],
+[
+96,
+"Nebbiolo Colline Novaresi",
+"2020",
+2,
+0,
+23.0
+],
+[
+24,
+"Spumante Dosaggio Zero Vigna le Prata",
+"2020",
+2,
+0,
+23.0
+],
+[
+44,
+"Nerojbleo",
+"2022",
+2,
+0,
+23.0
+],
+[
+96,
+"Nebbiolo Colline Novaresi",
+"2023",
+2,
+0,
+23.0
+],
+[
+13,
+"Rosato Il Gazzara",
+"2024",
+2,
+0,
+24.0
+],
+[
+33,
+"Torrette Superieur",
+"2019",
+2,
+0,
+25.0
+],
+[
+83,
+"Canaiuolo rose",
+"2024",
+2,
+0,
+25.0
+],
+[
+116,
+"Rosato",
+"2024",
+2,
+0,
+25.0
+],
+[
+83,
+"Canaiuolo rosé",
+"2021",
+2,
+0,
+26.0
+],
+[
+83,
+"IGT",
+"2020",
+2,
+0,
+26.0
+],
+[
+96,
+"Bianco Erbaluce",
+"2021",
+2,
+0,
+27.0
+],
+[
+96,
+"Mimmo",
+"2018",
+2,
+0,
+27.0
+],
+[
+96,
+"Mimmo",
+"2017",
+2,
+0,
+29.0
+],
+[
+33,
+"Petite Arvine",
+"2019",
+2,
+0,
+29.0
+],
+[
+33,
+"Pinot Noir",
+"2019",
+2,
+0,
+29.0
+],
+[
+33,
+"Fumin",
+"2019",
+2,
+0,
+29.0
+],
+[
+96,
+"Bianko Erbaluce",
+"2023",
+2,
+0,
+29.0
+],
+[
+96,
+"Mimmo",
+"2020",
+2,
+0,
+29.0
+],
+[
+83,
+"IGT",
+"2021",
+2,
+0,
+29.0
+],
+[
+116,
+"Il Randagio",
+"2022",
+2,
+0,
+29.0
+],
+[
+116,
+"Chianti Classico",
+"2022",
+2,
+0,
+29.0
+],
+[
+49,
+"Chianti Classico Lamole",
+"2022",
+2,
+0,
+29.0
+],
+[
+49,
+"Chianti Classico Lamole",
+"2023",
+2,
+0,
+29.0
+],
+[
+116,
+"Pianvecchio bianco",
+"2024",
+2,
+0,
+29.0
+],
+[
+44,
+"NeroBaronj",
+"2019",
+2,
+0,
+33.0
+],
+[
+44,
+"Carjcante",
+"2020",
+2,
+0,
+33.0
+],
+[
+60,
+"Unterganzner Lagrein Riserva",
+"2011",
+2,
+0,
+35.0
+],
+[
+13,
+"Chianti Classico",
+"2020",
+2,
+0,
+35.0
+],
+[
+83,
+"Vernaccia di San Gimignano Carato",
+"2021",
+2,
+0,
+45.0
+],
+[
+87,
+"Riesling MAGNUM",
+"2012",
+2,
+0,
+45.0
+],
+[
+33,
+"Pinot Noir Emerico",
+"2017",
+2,
+0,
+45.0
+],
+[
+33,
+"Pinot Noir Emerico",
+"2018",
+2,
+0,
+45.0
+],
+[
+97,
+"Bramaterra",
+"2016",
+2,
+0,
+49.0
+],
+[
+97,
+"Bramaterra",
+"2018",
+2,
+0,
+49.0
+],
+[
+96,
+"Colline Novaresi",
+"2021",
+2,
+0,
+49.0
+],
+[
+49,
+"Chianti Classico Riserva",
+"2021",
+2,
+0,
+55.0
+],
+[
+51,
+"550 Merlot IGT",
+"2021",
+2,
+0,
+55.0
+],
+[
+44,
+"Nero Buffaleffj",
+"2014",
+2,
+0,
+59.0
+],
+[
+116,
+"Il Guercio",
+"2023",
+2,
+0,
+65.0
+],
+[
+96,
+"Boca",
+"2017",
+2,
+0,
+69.0
+],
+[
+96,
+"Boca",
+"2018",
+2,
+0,
+69.0
+],
+[
+13,
+"Santacroce IGT",
+"2016",
+2,
+0,
+69.0
+],
+[
+116,
+"Uno",
+"2021",
+2,
+0,
+85.0
+],
+[
+116,
+"Uno",
+"2022",
+2,
+0,
+85.0
+],
+[
+96,
+"Colline Novaresi Magnum",
+"2021",
+2,
+0,
+99.0
+],
+[
+97,
+"Bramaterra Magnum",
+"2016",
+2,
+0,
+109.0
+],
+[
+97,
+"Bramaterra Magnum",
+"2018",
+2,
+0,
+109.0
+],
+[
+96,
+"Boca MAGNUM",
+"2016",
+2,
+0,
+129.0
+],
+[
+96,
+"Boca Magnum",
+"2018",
+2,
+0,
+149.0
+],
+[
+116,
+"Uno Magnum",
+"2021",
+2,
+0,
+179.0
+],
+[
+97,
+"Bramaterra 3L",
+"2016",
+2,
+0,
+229.0
+],
+[
+97,
+"Bramaterra 3L",
+"2018",
+2,
+0,
+229.0
+],
+[
+84,
+"Riesling trocken",
+"2016",
+1,
+0,
+16.0
+],
+[
+102,
+"Pfalz Riesling Gutswein",
+"2021",
+1,
+0,
+20.0
+],
+[
+102,
+"Sand und Kiesel Portugieser",
+"2019",
+1,
+0,
+25.0
+],
+[
+119,
+"Cremant du Jura Indigene",
+"NV",
+0,
+10,
+35.0
+],
+[
+99,
+"Extra Quality Brut Magnum",
+"NV",
+0,
+7,
+85.0
+],
+[
+99,
+"Extra Quality Brut 375ml",
+"NV",
+0,
+7,
+25.0
+],
+[
+99,
+"Extra Quality Brut",
+"NV",
+0,
+7,
+39.0
+],
+[
+99,
+"Extra Brut rosé MAG",
+"NV",
+0,
+7,
+109.0
+],
+[
+99,
+"Extra Brut rosé 375ml",
+"NV",
+0,
+7,
+29.0
+],
+[
+99,
+"Extra Brut rosé",
+"NV",
+0,
+7,
+55.0
+],
+[
+85,
+"Solera",
+"NV",
+0,
+7,
+89.0
+],
+[
+76,
+"Trepat rosé",
+"NV",
+3,
+6,
+17.0
+],
+[
+76,
+"Cupada rosé",
+"NV",
+3,
+6,
+16.0
+],
+[
+76,
+"Cupada #25 Brut Nature",
+"NV",
+3,
+6,
+17.0
+],
+[
+65,
+"Longitude Blanc de Blancs Extra Brut 1er cru Magnum",
+"NV",
+0,
+7,
+149.0
+],
+[
+65,
+"Longitude Blanc de Blancs Extra Brut 1er cru",
+"NV",
+0,
+7,
+69.0
+],
+[
+65,
+"Latitude Blanc de Blancs Extra Brut",
+"NV",
+0,
+7,
+59.0
+],
+[
+64,
+"Rosé de Meunier Extra Brut",
+"NV",
+0,
+7,
+59.0
+],
+[
+64,
+"Petit Meslier",
+"NV",
+0,
+7,
+115.0
+],
+[
+64,
+"Extra Brut Ultradition MAG",
+"NV",
+0,
+7,
+99.0
+],
+[
+64,
+"Extra Brut Ultradition",
+"NV",
+0,
+7,
+49.0
+],
+[
+64,
+"Blanc de Blancs Brut Nature MAGNUM",
+"NV",
+0,
+7,
+119.0
+],
+[
+64,
+"Blanc de Blancs Brut Nature",
+"NV",
+0,
+7,
+59.0
+],
+[
+52,
+"Vignes de Montgueux Blanc de Blancs Brut Nature",
+"NV",
+0,
+7,
+59.0
+],
+[
+52,
+"Le Cotet Blanc de blancs",
+"NV",
+0,
+7,
+99.0
+],
+[
+52,
+"la Colline Inspiree Blanc de blancs",
+"NV",
+0,
+7,
+99.0
+],
+[
+7,
+"Puisieulx Grand cru les Petites Vignes Blanc de Noirs MAGNUM",
+"NV",
+0,
+7,
+199.0
+],
+[
+7,
+"Puisieulx Grand cru les Petites Vignes Blanc de Noirs",
+"NV",
+0,
+7,
+89.0
+],
+[
+7,
+"Puisieulx Grand cru Les Petites Vignes Blanc de Blancs",
+"NV",
+0,
+7,
+89.0
+],
+[
+7,
+"Mesnil sur Oger Grand cru Malo Blanc de Blancs MAGNUM",
+"NV",
+0,
+7,
+229.0
+],
+[
+0,
+"les Terroirs Extra Brut Blanc de Blancs Grand cru",
+"NV",
+0,
+7,
+79.0
+],
+[
+0,
+"les 7 Crus Blanc de Blancs Brut 1er cru",
+"NV",
+0,
+7,
+59.0
+],
+[
+117,
+"Bernkasteler Lay Riesling Kabinett",
+"2024",
+1,
+12,
+32.0
+],
+[
+117,
+"Bernkasteler Graben Grosses Gewachs",
+"2024",
+1,
+12,
+49.0
+],
+[
+117,
+"Bernkasteler Doctor Riesling Spatlese",
+"2024",
+1,
+12,
+69.0
+],
+[
+117,
+"Bernkasteler Doctor Riesling Kabinett Magnum",
+"2024",
+1,
+12,
+129.0
+],
+[
+117,
+"Bernkasteler Doctor Riesling Kabinett",
+"2024",
+1,
+12,
+55.0
+],
+[
+117,
+"Bernkasteler Doctor Riesling Grosses Gewachs",
+"2024",
+1,
+12,
+79.0
+],
+[
+117,
+"Bernkasteler Badstube Riesling Kabinett Feinherb",
+"2024",
+1,
+12,
+27.0
+],
+[
+117,
+"Bernkasteler Badstube Riesling Kabinett",
+"2024",
+1,
+12,
+29.0
+],
+[
+107,
+"Monziger Fruhlingsplatzchen Grosses Gewachs",
+"2024",
+1,
+13,
+89.0
+],
+[
+107,
+"Bockenauer Stromberg Riesling Grosses Gewachs",
+"2024",
+1,
+13,
+89.0
+],
+[
+107,
+"Bockenauer Felseneck Riesling Spatlese Goldkapsule",
+"2024",
+1,
+13,
+65.0
+],
+[
+107,
+"Bockenauer Felseneck Riesling Grosses Gewachs",
+"2024",
+1,
+13,
+99.0
+],
+[
+107,
+"Bockenauer Felseneck Riesling Auslese 375ml",
+"2024",
+1,
+13,
+65.0
+],
+[
+79,
+"Bourgogne blanc",
+"2024",
+0,
+5,
+33.0
+],
+[
+101,
+"Wehlener Sonnenuhr Riesling Spatlese Magnum",
+"2024",
+1,
+12,
+89.0
+],
+[
+101,
+"Wehlener Sonnenuhr Riesling Spatlese",
+"2024",
+1,
+12,
+35.0
+],
+[
+101,
+"Wehlener Sonnenuhr Riesling Kabinett Feinherb",
+"2024",
+1,
+12,
+25.0
+],
+[
+101,
+"Wehlener Sonnenuhr Riesling Kabinett",
+"2024",
+1,
+12,
+26.0
+],
+[
+101,
+"Wehlener Sonnenuhr Riesling Grosses Gewachs",
+"2024",
+1,
+12,
+55.0
+],
+[
+101,
+"Veldenzer Elisenberg Riesling Spatlese Magnum",
+"2024",
+1,
+12,
+89.0
+],
+[
+101,
+"Veldenzer Elisenberg Riesling Spatlese",
+"2024",
+1,
+12,
+32.0
+],
+[
+101,
+"Veldenzer Elisenberg Riesling Kabinett",
+"2024",
+1,
+12,
+26.0
+],
+[
+101,
+"Riesling Brauneberger Juffer Kabinett Fass 4 Magnum",
+"2024",
+1,
+12,
+79.0
+],
+[
+101,
+"Riesling Brauneberger Juffer Kabinett Fass 4",
+"2024",
+1,
+12,
+29.0
+],
+[
+101,
+"Graacher Himmelreich Riesling Kabinett",
+"2024",
+1,
+12,
+26.0
+],
+[
+101,
+"Brauneberger Juffer Sonnenuhr Riesling Spatlese",
+"2024",
+1,
+12,
+35.0
+],
+[
+101,
+"Brauneberger Juffer Sonnenuhr Riesling Grosses Gewachs",
+"2024",
+1,
+12,
+45.0
+],
+[
+101,
+"Brauneberger Juffer Riesling Kabinett",
+"2024",
+1,
+12,
+26.0
+],
+[
+101,
+"Alter Satz",
+"2024",
+1,
+12,
+29.0
+],
+[
+66,
+"Volnay 1er Clos des Chenes",
+"2024",
+0,
+5,
+129.0
+],
+[
+66,
+"Puligny Montrachet 1er Champs Canet",
+"2024",
+0,
+5,
+189.0
+],
+[
+66,
+"Pommard 1er Refene",
+"2024",
+0,
+5,
+129.0
+],
+[
+66,
+"Meursault villages les Narvaux",
+"2024",
+0,
+5,
+119.0
+],
+[
+66,
+"Meursault villages Cuvée Charles Maxime",
+"2024",
+0,
+5,
+89.0
+],
+[
+66,
+"Meursault 1er Poruzots",
+"2024",
+0,
+5,
+159.0
+],
+[
+66,
+"Meursault 1er cru Genevrieres",
+"2024",
+0,
+5,
+179.0
+],
+[
+66,
+"Meursault 1er Charmes",
+"2024",
+0,
+5,
+179.0
+],
+[
+66,
+"Coteaux Bourguignons",
+"2024",
+0,
+5,
+32.0
+],
+[
+66,
+"Bourgogne Chardonnay",
+"2024",
+0,
+5,
+49.0
+],
+[
+50,
+"Irouleguy rosé",
+"2024",
+0,
+2,
+25.0
+],
+[
+50,
+"Irouleguy blanc",
+"2024",
+0,
+2,
+39.0
+],
+[
+30,
+"Monthelie villages les Trois Climats",
+"2024",
+0,
+5,
+45.0
+],
+[
+30,
+"Monthelie villages blanc la Goulotte",
+"2024",
+0,
+5,
+59.0
+],
+[
+30,
+"Monthelie villages blanc la Combe Danay",
+"2024",
+0,
+5,
+45.0
+],
+[
+30,
+"Monthelie les Plantes blanc",
+"2024",
+0,
+5,
+45.0
+],
+[
+30,
+"Monthelie 1er cru les Vignes Rondes",
+"2024",
+0,
+5,
+55.0
+],
+[
+30,
+"Monthelie 1er cru Champs Fulliot",
+"2024",
+0,
+5,
+59.0
+],
+[
+30,
+"Meursault villages",
+"2024",
+0,
+5,
+75.0
+],
+[
+30,
+"Bouzeron la Tournelle",
+"2024",
+0,
+5,
+29.0
+],
+[
+30,
+"Bourgogne Aligote Chasne",
+"2024",
+0,
+5,
+25.0
+],
+[
+30,
+"Auxey Duresses blanc les Fosses",
+"2024",
+0,
+5,
+45.0
+],
+[
+18,
+"Nuits Saint Georges villages les Charmottes",
+"2024",
+0,
+5,
+75.0
+],
+[
+18,
+"Nuits Saint Georges villages Aux Saint Juliens",
+"2024",
+0,
+5,
+69.0
+],
+[
+18,
+"Nuits Saint Georges villages Aux Allots",
+"2024",
+0,
+5,
+69.0
+],
+[
+18,
+"Nuits Saint Georges 1er Vaucrains",
+"2024",
+0,
+5,
+179.0
+],
+[
+18,
+"Nuits Saint Georges 1er Rue de Chaux",
+"2024",
+0,
+5,
+119.0
+],
+[
+18,
+"Nuits Saint Georges 1er Pruliers",
+"2024",
+0,
+5,
+129.0
+],
+[
+18,
+"Nuits Saint Georges 1er Aux Thorey",
+"2024",
+0,
+5,
+129.0
+],
+[
+18,
+"Cotes de Nuits villages les Creux de Sobron",
+"2024",
+0,
+5,
+45.0
+],
+[
+112,
+"Wintricher Riesling trocken",
+"2023",
+1,
+12,
+17.0
+],
+[
+112,
+"Wintricher Geierslay Sur Lie Riesling trocken",
+"2023",
+1,
+12,
+23.0
+],
+[
+112,
+"Wintricher Geierslay GW Riesling",
+"2023",
+1,
+12,
+33.0
+],
+[
+112,
+"Wehlener Sonnenuhr Riesling Kabinett",
+"2023",
+1,
+12,
+25.0
+],
+[
+112,
+"Piesporter Treppchen Riesling Von den Terrassen",
+"2023",
+1,
+12,
+59.0
+],
+[
+112,
+"Piesporter Treppchen Riesling Kabinett",
+"2023",
+1,
+12,
+29.0
+],
+[
+112,
+"Piesporter Treppchen Auslese Goldkapsule",
+"2023",
+1,
+12,
+49.0
+],
+[
+112,
+"Piesporter Goldtropfchen Spätlese Goldkapsule",
+"2023",
+1,
+12,
+33.0
+],
+[
+112,
+"Piesporter Goldtröpfchen GP",
+"2023",
+1,
+12,
+33.0
+],
+[
+112,
+"Piesporter Domherr Kabinett",
+"2023",
+1,
+12,
+25.0
+],
+[
+112,
+"Oligsberg Rondel Riesling trocken",
+"2023",
+1,
+12,
+25.0
+],
+[
+112,
+"Neumagener Rosengartchen Riesling Von den Terrassen",
+"2023",
+1,
+12,
+59.0
+],
+[
+112,
+"Neumagener Rosengartchen Am Fels",
+"2023",
+1,
+12,
+45.0
+],
+[
+112,
+"Dhroner Hofberg Kandel Riesling trocken",
+"2023",
+1,
+12,
+25.0
+],
+[
+112,
+"Dhroner Hofberg Auslese Goldkapsule",
+"2023",
+1,
+12,
+45.0
+],
+[
+112,
+"Dhroner Grosser Hengelberg Riesling Reserve Monopollage",
+"2023",
+1,
+12,
+59.0
+],
+[
+112,
+"Dhroner Grosser Hengelberg Riesling Monopollage",
+"2023",
+1,
+12,
+45.0
+],
+[
+112,
+"Brauneberger Juffer Riesling Kabinett",
+"2023",
+1,
+12,
+25.0
+],
+[
+112,
+"Brauneberger Juffer Riesling GB",
+"2023",
+1,
+12,
+33.0
+],
+[
+101,
+"Wehlener Sonnenuhr Uralte Reben Riesling GG",
+"2023",
+1,
+12,
+49.0
+],
+[
+101,
+"Wehlener Sonnenuhr Riesling Spätlese",
+"2023",
+1,
+12,
+34.0
+],
+[
+101,
+"Wehlener Sonnenuhr Riesling Kabinett",
+"2023",
+1,
+12,
+26.0
+],
+[
+101,
+"Wehlener Sonnenuhr Riesling Auslese *** Fass 42",
+"2023",
+1,
+12,
+109.0
+],
+[
+101,
+"Veldenzer Elisenberg Riesling Spätlese",
+"2023",
+1,
+12,
+29.0
+],
+[
+101,
+"Veldenzer Elisenberg Kabinett",
+"2023",
+1,
+12,
+24.0
+],
+[
+101,
+"Brauneberger Juffer Sonnenuhr Spatlese",
+"2023",
+1,
+12,
+34.0
+],
+[
+101,
+"Brauneberger Juffer Sonnenuhr Riesling GG",
+"2023",
+1,
+12,
+45.0
+],
+[
+101,
+"Brauneberger Juffer Riesling Kabinett",
+"2023",
+1,
+12,
+25.0
+],
+[
+101,
+"Brauneberger Juffer Kabinett Fass 4 Magnum",
+"2023",
+1,
+12,
+69.0
+],
+[
+101,
+"Brauneberger Juffer Kabinett Fass 4",
+"2023",
+1,
+12,
+29.0
+],
+[
+83,
+"Vernaccia di San Gimignano Tradizionale",
+"2023",
+2,
+19,
+25.0
+],
+[
+83,
+"Vernaccia di San Gimignano Fiore",
+"2023",
+2,
+19,
+32.0
+],
+[
+26,
+"Morgon Impenitents",
+"2022",
+0,
+3,
+79.0
+],
+[
+26,
+"Morgon la Voûte Saint Vincent",
+"2022",
+0,
+3,
+23.0
+],
+[
+36,
+"Bourgogne rouge",
+"2023",
+0,
+5,
+23.0
+],
+[
+81,
+"Bourgogne rouge",
+"2023",
+0,
+5,
+29.0
+],
+[
+15,
+"Bourgogne rouge",
+"2021",
+0,
+5,
+29.0
+],
+[
+55,
+"Bourgogne rouge",
+"2020",
+0,
+5,
+26.0
+],
+[
+55,
+"Bourgogne rouge",
+"2021",
+0,
+5,
+26.0
+],
+[
+110,
+"Bourgogne rouge",
+"2021",
+0,
+5,
+35.0
+],
+[
+73,
+"Bourgogne rouge Vigne blanche",
+"2023",
+0,
+5,
+39.0
+],
+[
+46,
+"Bourgogne Passetoutgrains",
+"2017",
+0,
+5,
+30.0
+],
+[
+46,
+"Bourgogne Passetoutgrains Pourpre",
+"2023",
+0,
+5,
+35.0
+],
+[
+46,
+"Vin de France Pourpre",
+"2018",
+0,
+5,
+30.0
+],
+[
+110,
+"Bourgogne Passetoutgrains",
+"2021",
+0,
+5,
+27.0
+],
+[
+63,
+"Aligoté",
+"2020",
+0,
+5,
+22.0
+],
+[
+30,
+"Bouzeron la Tournelle",
+"2023",
+0,
+5,
+29.0
+],
+[
+48,
+"Bourgogne rouge",
+"2023",
+0,
+5,
+49.0
+],
+[
+6,
+"Bourgogne Pinot Fin",
+"2019",
+0,
+5,
+299.0
+],
+[
+54,
+"Chablis AOC",
+"2022",
+0,
+5,
+25.0
+],
+[
+8,
+"Macon Vergisson la Roche",
+"2022",
+0,
+5,
+26.0
+],
+[
+8,
+"Macon Vergisson la Roche",
+"2023",
+0,
+5,
+26.0
+],
+[
+42,
+"Bourgogne Côtes d'Auxerre Corps de Garde blanc",
+"2020",
+0,
+5,
+25.0
+],
+[
+42,
+"Côtes d'Auxerre Corps de Garde blanc Chardonnay",
+"2019",
+0,
+5,
+29.0
+],
+[
+4,
+"Fixin villages",
+"2023",
+0,
+5,
+55.0
+],
+[
+15,
+"Fixin le Rozier",
+"2016",
+0,
+5,
+39.0
+],
+[
+15,
+"Fixin le Rozier",
+"2019",
+0,
+5,
+45.0
+],
+[
+15,
+"Fixin le Rozier",
+"2021",
+0,
+5,
+55.0
+],
+[
+15,
+"Fixin le Rozier",
+"2022",
+0,
+5,
+59.0
+],
+[
+15,
+"Marsannay Charme aux Pretres rouge",
+"2013",
+0,
+5,
+45.0
+],
+[
+15,
+"Marsannay Clos du Roy rouge",
+"2017",
+0,
+5,
+45.0
+],
+[
+15,
+"Marsannay Clos du Roy rouge",
+"2018",
+0,
+5,
+45.0
+],
+[
+15,
+"Marsannay Longeroies",
+"2018",
+0,
+5,
+45.0
+],
+[
+15,
+"Marsannay Clos de Jeu",
+"2017",
+0,
+5,
+45.0
+],
+[
+15,
+"Marsannay Clos de Jeu",
+"2018",
+0,
+5,
+49.0
+],
+[
+15,
+"Marsannay blanc Cuvee Charlie",
+"2020",
+0,
+5,
+45.0
+],
+[
+15,
+"Marsannay Cuvée Marie Ragonneau",
+"2021",
+0,
+5,
+45.0
+],
+[
+15,
+"Marsannay Clos du Roy rouge",
+"2021",
+0,
+5,
+59.0
+],
+[
+15,
+"Marsannay les Favieres",
+"2021",
+0,
+5,
+59.0
+],
+[
+15,
+"Marsannay Longeroies",
+"2021",
+0,
+5,
+59.0
+],
+[
+15,
+"Marsannay Cuvée Marie Ragonneau",
+"2022",
+0,
+5,
+45.0
+],
+[
+15,
+"Marsannay Charme aux Pretres rouge",
+"2022",
+0,
+5,
+59.0
+],
+[
+15,
+"Marsannay Clos de Jeu",
+"2022",
+0,
+5,
+59.0
+],
+[
+15,
+"Marsannay Longeroies",
+"2022",
+0,
+5,
+59.0
+],
+[
+15,
+"Marsannay Clos du Roy rouge",
+"2023",
+0,
+5,
+59.0
+],
+[
+15,
+"Marsannay Longeroies",
+"2023",
+0,
+5,
+59.0
+],
+[
+15,
+"Marsannay Favieres",
+"2023",
+0,
+5,
+65.0
+],
+[
+15,
+"Marsannay Au Champ Salomon rouge",
+"2023",
+0,
+5,
+65.0
+],
+[
+15,
+"Marsannay Charme aux Pretres rouge",
+"2023",
+0,
+5,
+65.0
+],
+[
+15,
+"Marsannay Clos de Jeu",
+"2023",
+0,
+5,
+65.0
+],
+[
+70,
+"Aloxe Corton 1er cru la Coutière",
+"2021",
+0,
+5,
+70.0
+],
+[
+70,
+"Gevrey Chambertin villages Vieilles Vignes",
+"2023",
+0,
+5,
+59.0
+],
+[
+70,
+"Gevrey Chambertin villages Vieilles Vignes",
+"2021",
+0,
+5,
+65.0
+],
+[
+70,
+"Gevrey Chambertin villages Champerrier",
+"2021",
+0,
+5,
+75.0
+],
+[
+70,
+"Gevrey Chambertin 1er cru Champeaux",
+"2023",
+0,
+5,
+119.0
+],
+[
+70,
+"Gevrey Chambertin 1er cru Champeaux",
+"2021",
+0,
+5,
+125.0
+],
+[
+70,
+"Corton Grand cru Les Grandes Lolières",
+"2021",
+0,
+5,
+135.0
+],
+[
+70,
+"Corton Grand cru Les Grandes Lolières",
+"2023",
+0,
+5,
+135.0
+],
+[
+70,
+"Ruchottes Chambertin Grand cru",
+"2021",
+0,
+5,
+299.0
+],
+[
+47,
+"Ruchottes Chambertin Grand cru",
+"2023",
+0,
+5,
+299.0
+],
+[
+47,
+"Gevrey Chambertin 1er cru Cazetiers",
+"2023",
+0,
+5,
+135.0
+],
+[
+47,
+"Gevrey Chambertin 1er cru Estournelles Saint Jacques",
+"2023",
+0,
+5,
+125.0
+],
+[
+47,
+"Gevrey Chambertin 1er cru Lavaux Saint Jacques",
+"2023",
+0,
+5,
+129.0
+],
+[
+47,
+"Gevrey Chambertin 1er cru Cazetiers Magnum",
+"2023",
+0,
+5,
+299.0
+],
+[
+47,
+"Gevrey Chambertin 1er cru Lavaux Saint Jacques Magnum",
+"2023",
+0,
+5,
+269.0
+],
+[
+77,
+"Hautes Cotes de Nuits rouge",
+"2021",
+0,
+5,
+39.0
+],
+[
+77,
+"Hautes Cotes de Nuits villages",
+"2018",
+0,
+5,
+35.0
+],
+[
+77,
+"Cotes de Nuits villages",
+"2018",
+0,
+5,
+39.0
+],
+[
+77,
+"Bourgogne Hautes Côtes de Nuits villages",
+"2020",
+0,
+5,
+40.0
+],
+[
+77,
+"Gevrey Chambertin villages En Champs",
+"2018",
+0,
+5,
+55.0
+],
+[
+77,
+"Gevrey Chambertin villages En Champs",
+"2021",
+0,
+5,
+89.0
+],
+[
+77,
+"Chambolle Musigny villages",
+"2018",
+0,
+5,
+89.0
+],
+[
+77,
+"Chambolle Musigny villages",
+"2020",
+0,
+5,
+99.0
+],
+[
+77,
+"Chambolle Musigny villages",
+"2021",
+0,
+5,
+109.0
+],
+[
+77,
+"Morey Saint Denis villages",
+"2021",
+0,
+5,
+89.0
+],
+[
+77,
+"Morey Saint Denis 1er cru Monts Luisants",
+"2021",
+0,
+5,
+149.0
+],
+[
+77,
+"Nuits Saint Georges 1er cru Damodes",
+"2021",
+0,
+5,
+149.0
+],
+[
+77,
+"Nuits Saint Georges 1er cru Vignes Rondes",
+"2021",
+0,
+5,
+149.0
+],
+[
+77,
+"Chambolle Musigny 1er cru Feusselottes",
+"2020",
+0,
+5,
+199.0
+],
+[
+77,
+"Chambolle Musigny 1er cru Feusselottes",
+"2021",
+0,
+5,
+199.0
+],
+[
+108,
+"Chambolle Musigny villages",
+"2021",
+0,
+5,
+69.0
+],
+[
+108,
+"Chambolle Musigny villages",
+"2020",
+0,
+5,
+75.0
+],
+[
+108,
+"Chambolle Musigny villages Derriere le Four",
+"2021",
+0,
+5,
+79.0
+],
+[
+108,
+"Chambolle Musigny villages les Bussières",
+"2021",
+0,
+5,
+85.0
+],
+[
+108,
+"Morey Saint Denis 1er cru les Charrières",
+"2021",
+0,
+5,
+79.0
+],
+[
+108,
+"Morey Saint Denis 1er cru les Millandes",
+"2021",
+0,
+5,
+109.0
+],
+[
+108,
+"Chambolle Musigny 1er cru les Fuées",
+"2021",
+0,
+5,
+119.0
+],
+[
+108,
+"Chambolle Musigny 1er cru les Noirots",
+"2021",
+0,
+5,
+119.0
+],
+[
+108,
+"Chambolle Musigny 1er cru les Sentiers Vieilles Vignes",
+"2021",
+0,
+5,
+135.0
+],
+[
+73,
+"Nuits Saint Georges villages Petite Charmotte",
+"2021",
+0,
+5,
+69.0
+],
+[
+73,
+"Gevrey Chambertin villages En Pallud",
+"2021",
+0,
+5,
+79.0
+],
+[
+73,
+"Gevrey Chambertin villages Sans Soufre",
+"2021",
+0,
+5,
+79.0
+],
+[
+73,
+"Morey Saint Denis villages Rue de Vergy",
+"2021",
+0,
+5,
+79.0
+],
+[
+73,
+"Morey Saint Denis 1er Clos des Ormes",
+"2021",
+0,
+5,
+89.0
+],
+[
+73,
+"Nuits Saint Georges 1er Perrieres",
+"2021",
+0,
+5,
+99.0
+],
+[
+73,
+"Morey Saint Denis villages Au Rue de Vergy",
+"2023",
+0,
+5,
+79.0
+],
+[
+73,
+"Nuits Saint Georges 1er cru Corvées Pagets",
+"2023",
+0,
+5,
+89.0
+],
+[
+73,
+"Morey Saint Denis 1er cru Millandes",
+"2023",
+0,
+5,
+99.0
+],
+[
+73,
+"Nuits Saint Georges 1er Perrieres",
+"2023",
+0,
+5,
+99.0
+],
+[
+73,
+"Gevrey Chambertin 1er Champeaux",
+"2023",
+0,
+5,
+135.0
+],
+[
+73,
+"Vosne Romanée 1er cru Suchots",
+"2023",
+0,
+5,
+169.0
+],
+[
+73,
+"Mazoyeres Chambertin Grand cru",
+"2023",
+0,
+5,
+299.0
+],
+[
+115,
+"Gevrey Chambertin En Pallud",
+"2016",
+0,
+5,
+69.0
+],
+[
+115,
+"Gevrey Chambertin villages Cuvée Ronde",
+"2023",
+0,
+5,
+69.0
+],
+[
+38,
+"Volnay villages",
+"2020",
+0,
+5,
+49.0
+],
+[
+38,
+"Pommard villages",
+"2020",
+0,
+5,
+59.0
+],
+[
+38,
+"Volnay villages Vieilles Vignes",
+"2020",
+0,
+5,
+65.0
+],
+[
+38,
+"Chambolle Musigny villages",
+"2021",
+0,
+5,
+79.0
+],
+[
+38,
+"Chambolle Musigny villages",
+"2020",
+0,
+5,
+85.0
+],
+[
+38,
+"Pommard 1er cru les Combes Dessus",
+"2020",
+0,
+5,
+79.0
+],
+[
+38,
+"Volnay 1er cru Ronceret",
+"2020",
+0,
+5,
+89.0
+],
+[
+38,
+"Chambolle Musigny 1er Feusselottes",
+"2021",
+0,
+5,
+179.0
+],
+[
+39,
+"Nuits Saint Georges villages",
+"2013",
+0,
+5,
+59.0
+],
+[
+39,
+"Cotes de Nuits villages",
+"2021",
+0,
+5,
+49.0
+],
+[
+39,
+"Nuits Saint Georges villages",
+"2020",
+0,
+5,
+79.0
+],
+[
+39,
+"Vosne Romanée villages",
+"2020",
+0,
+5,
+109.0
+],
+[
+39,
+"Vosne Romanee villages",
+"2021",
+0,
+5,
+119.0
+],
+[
+39,
+"Nuits Saint Georges 1er cru Boudots",
+"2021",
+0,
+5,
+199.0
+],
+[
+39,
+"Vosne Romanee 1er cru Chaumes",
+"2021",
+0,
+5,
+199.0
+],
+[
+39,
+"Vosne Romanée 1er Chaumes",
+"2018",
+0,
+5,
+169.0
+],
+[
+41,
+"Cotes de Nuits villages Cuvée Armand",
+"2021",
+0,
+5,
+45.0
+],
+[
+41,
+"Cotes de Nuits villages les Essards",
+"2021",
+0,
+5,
+45.0
+],
+[
+41,
+"Cotes de Nuits villages Cuvée Armand",
+"2022",
+0,
+5,
+55.0
+],
+[
+41,
+"Echezeaux Grand cru",
+"2021",
+0,
+5,
+299.0
+],
+[
+41,
+"Echezeaux Grand cru",
+"2022",
+0,
+5,
+299.0
+],
+[
+46,
+"Vosne Romanée Precolombiere villages",
+"2021",
+0,
+5,
+159.0
+],
+[
+46,
+"Vosne Romanée villages Quatrain",
+"2023",
+0,
+5,
+129.0
+],
+[
+46,
+"Vosne Romanée villages Précolombière",
+"2023",
+0,
+5,
+169.0
+],
+[
+80,
+"Morey St Denis villages Tres Girard",
+"2012",
+0,
+5,
+45.0
+],
+[
+104,
+"Cotes de Nuits villages",
+"2013",
+0,
+5,
+49.0
+],
+[
+89,
+"Chambolle Musigny 1er cru Gruenchers",
+"2013",
+0,
+5,
+75.0
+],
+[
+89,
+"Vougeot 1er cru les Cras",
+"2013",
+0,
+5,
+65.0
+],
+[
+89,
+"Vougeot 1er cru les Cras",
+"2014",
+0,
+5,
+65.0
+],
+[
+35,
+"Chambolle Musigny villages",
+"2022",
+0,
+5,
+89.0
+],
+[
+35,
+"Chambolle Musigny 1er cru",
+"2022",
+0,
+5,
+109.0
+],
+[
+35,
+"Chambolle Musigny 1er Charmes",
+"2022",
+0,
+5,
+149.0
+],
+[
+36,
+"Volnay villages",
+"2020",
+0,
+5,
+55.0
+],
+[
+36,
+"Volnay 1er cru Clos des Chênes",
+"2022",
+0,
+5,
+65.0
+],
+[
+82,
+"Chambolle Musigny villages",
+"2023",
+0,
+5,
+65.0
+],
+[
+82,
+"Chambolle Musigny 1er cru les Fuees",
+"2023",
+0,
+5,
+89.0
+],
+[
+57,
+"Bourgogne rouge",
+"2023",
+0,
+5,
+69.0
+],
+[
+57,
+"Chorey les Beaune les Bons Ores",
+"2023",
+0,
+5,
+69.0
+],
+[
+57,
+"Gevrey Chambertin villages la Platière",
+"2023",
+0,
+5,
+129.0
+],
+[
+57,
+"Nuits Saint Georges villages les Herbues",
+"2023",
+0,
+5,
+129.0
+],
+[
+57,
+"Mes Nuages",
+"2023",
+0,
+5,
+179.0
+],
+[
+57,
+"Vosne Romanée villages",
+"2023",
+0,
+5,
+229.0
+],
+[
+57,
+"Vosne Romanée villages les Charmes de Maizières",
+"2023",
+0,
+5,
+275.0
+],
+[
+48,
+"Chambolle Musigny villages",
+"2023",
+0,
+5,
+105.0
+],
+[
+48,
+"Nuits Saint Georges villages Bas de Combe",
+"2023",
+0,
+5,
+109.0
+],
+[
+48,
+"Vosne Romanee villages",
+"2023",
+0,
+5,
+119.0
+],
+[
+48,
+"Vougeot 1er cru Petits Vougeot",
+"2023",
+0,
+5,
+169.0
+],
+[
+48,
+"Chambolle Musigny 1er cru Charmes",
+"2023",
+0,
+5,
+249.0
+],
+[
+48,
+"Vosne Romanee 1er cru Beaumonts",
+"2023",
+0,
+5,
+299.0
+],
+[
+48,
+"Vosne Romanee 1er cru Suchots",
+"2023",
+0,
+5,
+299.0
+],
+[
+48,
+"Clos de Vougeot Grand cru",
+"2023",
+0,
+5,
+329.0
+],
+[
+48,
+"Romanee Saint Vivant Grand cru",
+"2023",
+0,
+5,
+1199.0
+],
+[
+48,
+"Vougeot 1er Petits Vougeot",
+"2022",
+0,
+5,
+159.0
+],
+[
+48,
+"Clos de Vougeot Grand cru",
+"2022",
+0,
+5,
+329.0
+],
+[
+81,
+"Beaune 1er Chouacheux",
+"2020",
+0,
+5,
+49.0
+],
+[
+81,
+"Beaune 1er Chouacheux",
+"2022",
+0,
+5,
+49.0
+],
+[
+81,
+"Beaune 1er cru Epenottes",
+"2023",
+0,
+5,
+49.0
+],
+[
+81,
+"Pommard Trois Terroirs villages",
+"2023",
+0,
+5,
+55.0
+],
+[
+81,
+"Volnay 1er cru Brouillards",
+"2023",
+0,
+5,
+65.0
+],
+[
+81,
+"Volnay 1er cru Carelle Sous la Chapelle",
+"2023",
+0,
+5,
+65.0
+],
+[
+81,
+"Pommard les Perrières villages",
+"2023",
+0,
+5,
+69.0
+],
+[
+81,
+"Pommard villages Vaumuriens",
+"2023",
+0,
+5,
+69.0
+],
+[
+81,
+"Pommard Noizons villages",
+"2022",
+0,
+5,
+89.0
+],
+[
+81,
+"Pommard Arvelets 1er",
+"2023",
+0,
+5,
+89.0
+],
+[
+81,
+"Pommard 1er Rugiens",
+"2023",
+0,
+5,
+119.0
+],
+[
+81,
+"Pommard 1er Charmots Magnum",
+"2023",
+0,
+5,
+179.0
+],
+[
+55,
+"Pommard 1er cru",
+"2020",
+0,
+5,
+65.0
+],
+[
+55,
+"Pommard 1er cru",
+"2022",
+0,
+5,
+65.0
+],
+[
+55,
+"Volnay 1er cru Caillerets",
+"2022",
+0,
+5,
+69.0
+],
+[
+55,
+"Volnay 1er cru Clos des Chenes",
+"2022",
+0,
+5,
+69.0
+],
+[
+55,
+"Volnay 1er cru Santenots",
+"2022",
+0,
+5,
+69.0
+],
+[
+55,
+"Volnay villages",
+"2022",
+0,
+5,
+45.0
+],
+[
+55,
+"Pommard 1er cru Rugiens",
+"2022",
+0,
+5,
+79.0
+],
+[
+118,
+"Bourgogne rouge",
+"2023",
+0,
+5,
+55.0
+],
+[
+118,
+"Hautes Cotes de Beaune villages Vibrations",
+"2023",
+0,
+5,
+75.0
+],
+[
+118,
+"Volnay villages",
+"2023",
+0,
+5,
+95.0
+],
+[
+118,
+"Pommard villages",
+"2023",
+0,
+5,
+109.0
+],
+[
+118,
+"Volnay villages Clos de la Cave",
+"2023",
+0,
+5,
+119.0
+],
+[
+118,
+"Volnay villages Vieilles Vignes",
+"2023",
+0,
+5,
+119.0
+],
+[
+118,
+"Beaune 1er cru Reversées",
+"2023",
+0,
+5,
+119.0
+],
+[
+118,
+"Volnay 1er cru Mitans",
+"2023",
+0,
+5,
+249.0
+],
+[
+118,
+"Volnay 1er cru Clos des Chenes",
+"2023",
+0,
+5,
+249.0
+],
+[
+38,
+"Pommard 1er Rugiens Hauts",
+"2022",
+0,
+5,
+139.0
+],
+[
+38,
+"Volnay 1er Robardelle",
+"2022",
+0,
+5,
+79.0
+],
+[
+38,
+"Volnay 1er Ronceret",
+"2022",
+0,
+5,
+79.0
+],
+[
+38,
+"Volnay 1er Brouillards",
+"2022",
+0,
+5,
+89.0
+],
+[
+38,
+"Bourgogne rouge Maisons Dieu",
+"2022",
+0,
+5,
+33.0
+],
+[
+69,
+"Montagny 1er cru le Mont Laurent",
+"2022",
+0,
+5,
+75.0
+],
+[
+69,
+"Mercurey 1er Champs Martin rouge",
+"2022",
+0,
+5,
+79.0
+],
+[
+69,
+"Mercurey 1er cru blanc Clos des Barraults",
+"2023",
+0,
+5,
+89.0
+],
+[
+63,
+"Auxey Duresses 1er cru Climat du Val",
+"2022",
+0,
+5,
+50.0
+],
+[
+63,
+"Auxey Duresses 1er Aux Duresses",
+"2022",
+0,
+5,
+55.0
+],
+[
+63,
+"Auxey Duresses 1er cru la Chapelle",
+"2022",
+0,
+5,
+55.0
+],
+[
+63,
+"Auxey Duresses 1er cru les Ecusseaux",
+"2022",
+0,
+5,
+55.0
+],
+[
+63,
+"Pommard 1er Chanlins",
+"2022",
+0,
+5,
+85.0
+],
+[
+73,
+"Savigny les Beaune 1er Lavieres",
+"2022",
+0,
+5,
+59.0
+],
+[
+73,
+"Beaune 1er Clos du Roi",
+"2022",
+0,
+5,
+65.0
+],
+[
+73,
+"Beaune 1er Teurons",
+"2022",
+0,
+5,
+69.0
+],
+[
+73,
+"Beaune 1er Teurons",
+"2023",
+0,
+5,
+69.0
+],
+[
+54,
+"Chablis 1er cru Butteaux",
+"2022",
+0,
+5,
+39.0
+],
+[
+54,
+"Chablis 1er cru Forets",
+"2022",
+0,
+5,
+39.0
+],
+[
+82,
+"Bourgogne Chardonnay",
+"2023",
+0,
+5,
+33.0
+],
+[
+55,
+"Bourgogne rouge Cuvée Magny",
+"2022",
+0,
+5,
+33.0
+],
+[
+25,
+"Bourgogne Aligoté",
+"2023",
+0,
+5,
+45.0
+],
+[
+30,
+"Monthelie 1er cru les Vignes Rondes",
+"2022",
+0,
+5,
+49.0
+],
+[
+30,
+"Monthelie 1er cru Champs Fulliot",
+"2022",
+0,
+5,
+59.0
+],
+[
+45,
+"Chorey les Beaune villages Les Bons Ores",
+"2022",
+0,
+5,
+65.0
+],
+[
+73,
+"Beaune 1er Tuvilains",
+"2022",
+0,
+5,
+65.0
+],
+[
+118,
+"Hautes Cotes de Beaune villages les Vibrations",
+"2022",
+0,
+5,
+69.0
+],
+[
+118,
+"Volnay villages",
+"2022",
+0,
+5,
+85.0
+],
+[
+118,
+"Volnay Vieilles Vignes",
+"2022",
+0,
+5,
+109.0
+],
+[
+118,
+"Volnay villages Clos de la Cave",
+"2022",
+0,
+5,
+109.0
+],
+[
+105,
+"Crozes Hermitage rouge",
+"2019",
+0,
+17,
+23.0
+],
+[
+105,
+"Crozes Hermitage rouge",
+"2022",
+0,
+17,
+23.0
+],
+[
+72,
+"Hermitage blanc Classique",
+"2022",
+0,
+17,
+129.0
+],
+[
+72,
+"Hermitage rouge Classique",
+"2022",
+0,
+17,
+139.0
+],
+[
+72,
+"Hermitage blanc les Rocoules",
+"2022",
+0,
+17,
+249.0
+],
+[
+72,
+"Hermitage rouge le Gréal",
+"2022",
+0,
+17,
+259.0
+],
+[
+72,
+"Hermitage le Gréal",
+"2021",
+0,
+17,
+249.0
+],
+[
+72,
+"Hermitage blanc les Rocoules",
+"2021",
+0,
+17,
+249.0
+],
+[
+72,
+"Hermitage blanc",
+"2018",
+0,
+17,
+119.0
+],
+[
+72,
+"Hermitage blanc les Rocoules",
+"2017",
+0,
+17,
+199.0
+],
+[
+72,
+"Hermitage rouge Classique",
+"2020",
+0,
+17,
+129.0
+],
+[
+10,
+"Cote Rotie les Brocardes",
+"2018",
+0,
+17,
+72.0
+],
+[
+10,
+"Cote Rotie les Elotins",
+"2017",
+0,
+17,
+49.0
+],
+[
+10,
+"Cote Rotie les Elotins",
+"2018",
+0,
+17,
+49.0
+],
+[
+10,
+"Vin de Vienne la Batie",
+"2018",
+0,
+17,
+39.0
+],
+[
+123,
+"Cornas la Geynale",
+"2018",
+0,
+17,
+59.0
+],
+[
+98,
+"Cote Rotie Cordeloux",
+"2019",
+0,
+17,
+129.0
+],
+[
+98,
+"Cote Rotie Cordeloux",
+"2017",
+0,
+17,
+119.0
+],
+[
+98,
+"Cote Rotie Cordeloux",
+"2018",
+0,
+17,
+119.0
+],
+[
+98,
+"Cote Rotie Cordeloux MAGNUM",
+"2017",
+0,
+17,
+249.0
+],
+[
+98,
+"Cote Rotie Cordeloux Magnum",
+"2018",
+0,
+17,
+249.0
+],
+[
+23,
+"Côte Rôtie les Grandes Places",
+"2019",
+0,
+17,
+135.0
+],
+[
+23,
+"Côte Rôtie les Grandes Places MAG",
+"2020",
+0,
+17,
+279.0
+],
+[
+23,
+"Côte Rôtie la Viallière MAG",
+"2020",
+0,
+17,
+229.0
+],
+[
+37,
+"Côte Rôtie Lancement",
+"2019",
+0,
+17,
+159.0
+],
+[
+37,
+"Côte Rôtie Lancement",
+"2020",
+0,
+17,
+159.0
+],
+[
+37,
+"Côte Rôtie Lancement",
+"2017",
+0,
+17,
+129.0
+],
+[
+37,
+"Côte Rôtie Lancement",
+"2018",
+0,
+17,
+129.0
+],
+[
+37,
+"Côte Rôtie Triotes MAGNUM",
+"2020",
+0,
+17,
+129.0
+],
+[
+37,
+"Côte Rôtie Rochins MAGNUM",
+"2019",
+0,
+17,
+229.0
+],
+[
+37,
+"Côte Rôtie Rochins MAGNUM",
+"2020",
+0,
+17,
+229.0
+],
+[
+53,
+"Côte Rôtie la Giroflarie",
+"2016",
+0,
+17,
+55.0
+],
+[
+40,
+"St Joseph Terres d'Encre",
+"2016",
+0,
+17,
+45.0
+],
+[
+34,
+"St Joseph Lautaret",
+"2010",
+0,
+17,
+35.0
+],
+[
+22,
+"Chateauneuf du Pape Cuvee du Papet",
+"2015",
+0,
+17,
+69.0
+],
+[
+58,
+"Chateauneuf du Pape Prestige Magnum",
+"2016",
+0,
+17,
+119.0
+],
+[
+20,
+"Arioso Chateauneuf du Pape",
+"2009",
+0,
+17,
+179.0
+],
+[
+12,
+"As de Be",
+"2020",
+0,
+0,
+20.0
+],
+[
+12,
+"As de Be",
+"2021",
+0,
+0,
+20.0
+],
+[
+12,
+"As de Be",
+"2022",
+0,
+0,
+20.0
+],
+[
+12,
+"Sylvaner Lutzeltal",
+"2017",
+0,
+0,
+18.0
+],
+[
+27,
+"Crémant d'Alsace",
+"2014",
+0,
+0,
+22.0
+],
+[
+27,
+"Memoire",
+"2021",
+0,
+0,
+22.0
+],
+[
+27,
+"Gewurztraminer Kitterlé Grand Cru",
+"2019",
+0,
+0,
+39.0
+],
+[
+27,
+"Riesling Kessler Grand Cru",
+"2012",
+0,
+0,
+33.0
+],
+[
+27,
+"Riesling Saering Grand Cru",
+"2013",
+0,
+0,
+33.0
+],
+[
+62,
+"Muscat Kirchberg de Ribeauville Grand Cru",
+"2016",
+0,
+0,
+35.0
+],
+[
+9,
+"Chinon les Granges",
+"2019",
+0,
+11,
+20.0
+],
+[
+9,
+"Chinon les Granges",
+"2021",
+0,
+11,
+20.0
+],
+[
+21,
+"Fleurie",
+"2021",
+0,
+3,
+22.0
+],
+[
+5,
+"Morgon",
+"2022",
+0,
+3,
+26.0
+],
+[
+16,
+"Bandol rouge",
+"2021",
+0,
+15,
+47.0
+],
+[
+121,
+"Ajaccio rouge Chioso Novo",
+"2021",
+0,
+8,
+89.0
+],
+[
+121,
+"Ajaccio rouge Granit",
+"2021",
+0,
+8,
+75.0
+],
+[
+121,
+"Ile de Beaute rouge Quartz",
+"2021",
+0,
+8,
+75.0
+],
+[
+56,
+"Apremont la Centenaire",
+"2012",
+0,
+18,
+25.0
+],
+[
+119,
+"Arbois Pinot Noir En Barbaron",
+"2015",
+0,
+10,
+49.0
+],
+[
+113,
+"Pinot Noir Kalk",
+"2022",
+1,
+1,
+69.0
+],
+[
+113,
+"Lemberger",
+"2022",
+1,
+1,
+49.0
+],
+[
+117,
+"Bernkasteler Doctor GG",
+"2021",
+1,
+12,
+69.0
+],
+[
+101,
+"Brauneberger Juffer Sonnenuhr Riesling GG",
+"2021",
+1,
+12,
+42.0
+],
+[
+112,
+"Pinot Noir",
+"2019",
+1,
+12,
+23.0
+],
+[
+112,
+"Neumagener Rosengartchen Riesling Von den Terrassen Magnum",
+"2022",
+1,
+12,
+149.0
+],
+[
+106,
+"Burgstadter Berg Erste Lage Spatburgunder MAGNUM",
+"2015",
+1,
+9,
+129.0
+],
+[
+106,
+"Burgstadter Riesling trocken",
+"2018",
+1,
+9,
+35.0
+],
+[
+124,
+"Fürfeld Melaphyr Riesling trocken",
+"2019",
+1,
+16,
+33.0
+],
+[
+124,
+"Riesling Binger Scharlachberg GG",
+"2021",
+1,
+16,
+59.0
+],
+[
+124,
+"Siefersheimer Heerkretz Grosses Gewachs",
+"2020",
+1,
+16,
+59.0
+],
+[
+107,
+"Fröhlich Muller Thurgau trocken",
+"2019",
+1,
+13,
+19.0
+],
+[
+107,
+"Schiefergestein Riesling trocken",
+"2014",
+1,
+13,
+35.0
+],
+[
+107,
+"Schiefergestein trocken",
+"2019",
+1,
+13,
+39.0
+],
+[
+107,
+"Riesling Stromberg GG",
+"2020",
+1,
+13,
+99.0
+],
+[
+111,
+"Barbaresco Cotta",
+"2018",
+2,
+14,
+65.0
+],
+[
+111,
+"Barbaresco Cotta",
+"2008",
+2,
+14,
+49.0
+],
+[
+111,
+"Barbaresco Curra",
+"2008",
+2,
+14,
+55.0
+],
+[
+111,
+"Barbaresco Fausoni",
+"2018",
+2,
+14,
+65.0
+],
+[
+111,
+"Barbaresco Fausoni",
+"2009",
+2,
+14,
+49.0
+],
+[
+111,
+"Barbaresco Pajore",
+"2009",
+2,
+14,
+55.0
+],
+[
+111,
+"Barbaresco Pajore MAGNUM",
+"2014",
+2,
+14,
+115.0
+],
+[
+111,
+"Barbera d'Alba Pairolero",
+"2009",
+2,
+14,
+25.0
+],
+[
+111,
+"Barbera d'Alba Pairolero",
+"2019",
+2,
+14,
+24.0
+],
+[
+32,
+"Barolo Arborina",
+"2009",
+2,
+14,
+75.0
+],
+[
+29,
+"Barolo Pajana",
+"2008",
+2,
+14,
+75.0
+],
+[
+29,
+"Barolo Percristina MAGNUM",
+"2004",
+2,
+14,
+349.0
+],
+[
+111,
+"Langhe Nebbiolo",
+"2020",
+2,
+14,
+24.0
+],
+[
+111,
+"Langhe Nebbiolo",
+"2009",
+2,
+14,
+20.0
+],
+[
+111,
+"Dolcetto d'Alba Bric del Salto",
+"2010",
+2,
+14,
+14.0
+],
+[
+42,
+"Bourgogne Côtes d'Auxerre La Ronce",
+"2019",
+0,
+5,
+39.0
+],
+[
+42,
+"Côtes d'Auxerre Rouge Court Vit",
+"2019",
+0,
+5,
+39.0
+],
+[
+11,
+"Sancerre Blanc Tradition",
+"2022",
+0,
+11,
+32.0
+],
+[
+14,
+"Mencia Bierzo Villegas",
+"2021",
+3,
+4,
+79.0
+],
+[
+42,
+"Bourgogne Côtes d'Auxerre La Ronce",
+"2020",
+0,
+5,
+39.0
+],
+[
+42,
+"Irancy La Voie de Cravant",
+"2020",
+0,
+5,
+39.0
+],
+[
+43,
+"Macon Cruzille La Myotte",
+"2019",
+0,
+5,
+49.0
+],
+[
+43,
+"Macon Cruzille Les Genevrières Rouge",
+"2019",
+0,
+5,
+42.0
+],
+[
+8,
+"Pouilly Fuissé En Buland",
+"2023",
+0,
+5,
+55.0
+],
+[
+82,
+"Coteaux Bourguignons rouge",
+"2023",
+0,
+5,
+25.0
+],
+[
+82,
+"Chambolle Musigny villages les Creux Baissants",
+"2023",
+0,
+5,
+75.0
+],
+[
+82,
+"Bourgogne rouge",
+"2023",
+0,
+5,
+29.0
+],
+[
+79,
+"Savigny les Beaune 1er Serpentieres",
+"2023",
+0,
+5,
+65.0
+],
+[
+79,
+"Ladoix Clos Royer rouge",
+"2023",
+0,
+5,
+49.0
+],
+[
+79,
+"Ladoix 1er Joyeuses",
+"2023",
+0,
+5,
+69.0
+],
+[
+79,
+"Ladoix 1er Corvée",
+"2023",
+0,
+5,
+69.0
+],
+[
+79,
+"Corton Rognet Grand cru",
+"2023",
+0,
+5,
+155.0
+],
+[
+79,
+"Corton Renardes Magnum",
+"2023",
+0,
+5,
+329.0
+],
+[
+79,
+"Corton Renardes",
+"2023",
+0,
+5,
+159.0
+],
+[
+79,
+"Chorey les Beaune Beaumonts",
+"2023",
+0,
+5,
+49.0
+],
+[
+71,
+"Ladoix 1er Grechons",
+"2023",
+0,
+5,
+69.0
+],
+[
+72,
+"Hermitage rouge le Gréal Magnum",
+"2023",
+0,
+17,
+599.0
+],
+[
+72,
+"Hermitage rouge le Gréal",
+"2023",
+0,
+17,
+279.0
+],
+[
+72,
+"Hermitage rouge Classique",
+"2023",
+0,
+17,
+159.0
+],
+[
+72,
+"Hermitage blanc les Rocoules",
+"2023",
+0,
+17,
+279.0
+],
+[
+72,
+"Hermitage blanc Classique",
+"2023",
+0,
+17,
+159.0
+],
+[
+72,
+"Crozes Hermitage rouge",
+"2023",
+0,
+17,
+69.0
+],
+[
+68,
+"Trittenheimer Apotheke trocken Vogelsang",
+"2023",
+0,
+5,
+27.0
+],
+[
+68,
+"Trittenheimer Apotheke Kabinett",
+"2023",
+1,
+12,
+23.0
+],
+[
+68,
+"Trittenheimer Apotheke Auslese",
+"2023",
+1,
+12,
+33.0
+],
+[
+68,
+"Trittenheimer Apotheke Alte Reben Spätlese",
+"2023",
+1,
+12,
+32.0
+],
+[
+68,
+"Piesporter Goldtröpfchen Kabinett",
+"2023",
+1,
+12,
+29.0
+],
+[
+68,
+"Trittenheimer Apotheke Devon-Terrassen GG",
+"2023",
+1,
+12,
+35.0
+],
+[
+68,
+"Tittenheimer Apotheke Alte Reben Auslese 750ml",
+"2023",
+1,
+12,
+59.0
+],
+[
+68,
+"Tittenheimer Apotheke Alte Reben Auslese 375ml",
+"2023",
+1,
+12,
+32.0
+],
+[
+55,
+"Volnay villages",
+"2023",
+0,
+5,
+45.0
+],
+[
+55,
+"Volnay 1er cru Clos des Chenes",
+"2023",
+0,
+5,
+69.0
+],
+[
+55,
+"Volnay 1er cru Caillerets",
+"2023",
+0,
+5,
+69.0
+],
+[
+55,
+"Meursault villages",
+"2023",
+0,
+5,
+49.0
+],
+[
+57,
+"Nuits Saint Georges blanc les Argillats",
+"2023",
+0,
+5,
+89.0
+],
+[
+57,
+"Morey Saint Denis blanc la Bidaude",
+"2023",
+0,
+5,
+89.0
+],
+[
+57,
+"Echezeaux En Orveau Grand cru",
+"2023",
+0,
+5,
+999.0
+],
+[
+57,
+"Clos de Vougeot Grand cru",
+"2023",
+0,
+5,
+599.0
+],
+[
+57,
+"Clos de Vougeot Grand cru",
+"2022",
+0,
+5,
+699.0
+],
+[
+57,
+"Echezeaux Grand cru",
+"2022",
+0,
+5,
+1099.0
+],
+[
+57,
+"Vosne Romanée 1er cru Aux Brulées",
+"2022",
+0,
+5,
+499.0
+],
+[
+57,
+"Vosne Romanée 1er cru Orveau",
+"2022",
+0,
+5,
+499.0
+],
+[
+57,
+"Mes Nuages Vin de France",
+"2022",
+0,
+5,
+159.0
+],
+[
+57,
+"Vosne Romanee villages",
+"2022",
+0,
+5,
+229.0
+],
+[
+57,
+"Vosne Romanée villages les Charmes de Maizieres",
+"2022",
+0,
+5,
+249.0
+],
+[
+57,
+"Gevrey Chambertin villages",
+"2022",
+0,
+5,
+129.0
+],
+[
+57,
+"Nuits Saint Georges villages les Herbues",
+"2022",
+0,
+5,
+129.0
+],
+[
+57,
+"Bourgogne rouge",
+"2022",
+0,
+5,
+59.0
+],
+[
+18,
+"Nuits Saint Georges villages les Plantes au Baron",
+"2023",
+0,
+5,
+79.0
+],
+[
+18,
+"Nuits Saint Georges villages les Papillons de Nuys",
+"2023",
+0,
+5,
+69.0
+],
+[
+18,
+"Nuits Saint Georges villages les Charmois",
+"2023",
+0,
+5,
+69.0
+],
+[
+18,
+"Nuits Saint Georges 1er Vaucrains",
+"2023",
+0,
+5,
+179.0
+],
+[
+18,
+"Nuits Saint Georges 1er Rue de Chaux",
+"2023",
+0,
+5,
+109.0
+],
+[
+18,
+"Nuits Saint Georges 1er Pruliers",
+"2023",
+0,
+5,
+119.0
+],
+[
+18,
+"Nuits Saint Georges 1er Aux Thorey",
+"2023",
+0,
+5,
+119.0
+],
+[
+18,
+"Nuits Saint Georges 1er Les Saint Georges",
+"2023",
+0,
+5,
+179.0
+],
+[
+18,
+"Cotes de Nuits villages les Creux de Sobron",
+"2023",
+0,
+5,
+45.0
+],
+[
+18,
+"Nuits Saint Georges villages Aux Allots",
+"2023",
+0,
+5,
+69.0
+],
+[
+18,
+"Nuits Saint Georges villages les Charmottes",
+"2023",
+0,
+5,
+69.0
+],
+[
+18,
+"Nuits Saint Georges villages Aux Saint Juliens",
+"2023",
+0,
+5,
+69.0
+],
+[
+118,
+"Pommard 1er Fremiers",
+"2023",
+0,
+5,
+249.0
+],
+[
+73,
+"Savigny les Beaune 1er cru Aux Vergelesses blanc",
+"2023",
+0,
+5,
+59.0
+],
+[
+73,
+"Savigny les Beaune 1er cru Aux Vergelesses blanc",
+"2022",
+0,
+5,
+55.0
+],
+[
+73,
+"Nuits Saint Georges 1er Murgers",
+"2022",
+0,
+5,
+99.0
+],
+[
+73,
+"Gevrey Chambertin villages Etelois",
+"2022",
+0,
+5,
+89.0
+],
+[
+113,
+"Pinot Noir Keuper",
+"2022",
+1,
+1,
+59.0
+],
+[
+113,
+"Pinot Noir",
+"2022",
+1,
+1,
+39.0
+],
+[
+113,
+"Lemberger Keuper",
+"2022",
+1,
+1,
+59.0
+],
+[
+112,
+"Zeltinger Sonnenuhr Riesling GZ",
+"2022",
+1,
+12,
+39.0
+],
+[
+112,
+"Wintricher Geierslay Riesling Kabinett",
+"2022",
+1,
+12,
+25.0
+],
+[
+112,
+"Wehlener Sonnenuhr Riesling Kabinett",
+"2022",
+1,
+12,
+25.0
+],
+[
+112,
+"Syrah",
+"2022",
+1,
+12,
+35.0
+],
+[
+112,
+"Pinot Meunier",
+"2022",
+1,
+12,
+23.0
+],
+[
+112,
+"Piesporter Treppchen Riesling Von den Terrassen Magnum",
+"2022",
+1,
+12,
+129.0
+],
+[
+112,
+"Piesporter Treppchen Riesling Von den Terrassen",
+"2022",
+1,
+12,
+55.0
+],
+[
+112,
+"Piesporter Treppchen Riesling Am Fels Magnum",
+"2022",
+1,
+12,
+129.0
+],
+[
+112,
+"Piesporter Treppchen Riesling Am Fels",
+"2022",
+1,
+12,
+49.0
+],
+[
+112,
+"Piesporter Treppchen Auslese Goldkapsule",
+"2022",
+1,
+12,
+49.0
+],
+[
+112,
+"Piesporter Grafenberg Riesling Kabinett",
+"2022",
+1,
+12,
+25.0
+],
+[
+112,
+"Piesporter Goldtropfchen Riesling Kabinett",
+"2022",
+1,
+12,
+25.0
+],
+[
+112,
+"Piesporter Domherr Kabinett",
+"2022",
+1,
+12,
+25.0
+],
+[
+112,
+"Kestener Paulinshofberg Riesling GK",
+"2022",
+1,
+12,
+33.0
+],
+[
+112,
+"Brauneberger Juffer Riesling Kabinett",
+"2022",
+1,
+12,
+25.0
+],
+[
+112,
+"Juffer Sonnenuhr Riesling GB",
+"2022",
+1,
+12,
+45.0
+],
+[
+101,
+"Reserve Pinot Noir",
+"2022",
+1,
+12,
+55.0
+],
+[
+68,
+"Trittenheimer Apotheke trocken Vogelsang Fass 7",
+"2022",
+1,
+12,
+27.0
+],
+[
+68,
+"Trittenheimer Apotheke Kabinett Auction Wine",
+"2022",
+1,
+12,
+45.0
+],
+[
+68,
+"Trittenheimer Apotheke Kabinett",
+"2022",
+1,
+12,
+23.0
+],
+[
+68,
+"Trittenheimer Apotheke Fels-Terrassen feinherb",
+"2022",
+1,
+12,
+35.0
+],
+[
+78,
+"Riesling Vade Retro trocken",
+"2022",
+1,
+12,
+35.0
+],
+[
+78,
+"Reiler Mullay-Hofberg Riesling Spätlese Schäf",
+"2022",
+1,
+12,
+35.0
+],
+[
+78,
+"Reiler Mullay-Hofberg Riesling Kabinett",
+"2022",
+1,
+12,
+23.0
+],
+[
+88,
+"Saint Joseph les Côtes",
+"2022",
+0,
+17,
+29.0
+],
+[
+88,
+"Cornas Granit 30",
+"2022",
+0,
+17,
+39.0
+],
+[
+91,
+"Brut Nature Les Commes",
+"2022",
+0,
+7,
+79.0
+],
+[
+74,
+"Shaman rose Grand cru Magnum",
+"2022",
+0,
+7,
+159.0
+],
+[
+74,
+"Shaman rose Grand cru",
+"2022",
+0,
+7,
+69.0
+],
+[
+74,
+"Shaman blanc Grand cru",
+"2022",
+0,
+7,
+69.0
+],
+[
+74,
+"Coteaux Champenois Ambonnay blanc",
+"2022",
+0,
+7,
+99.0
+],
+[
+110,
+"Bourgogne Passetoutgrains Rose",
+"2022",
+0,
+5,
+25.0
+],
+[
+110,
+"Bourgogne Aligote",
+"2022",
+0,
+5,
+23.0
+],
+[
+69,
+"Montagny 1er cru les Truffieres",
+"2022",
+0,
+5,
+69.0
+],
+[
+69,
+"Montagny 1er cru le Choix du Roi",
+"2022",
+0,
+5,
+79.0
+],
+[
+69,
+"Mercurey 1er Croichots",
+"2022",
+0,
+5,
+79.0
+],
+[
+69,
+"Mercurey 1er Clos des Barraults",
+"2022",
+0,
+5,
+79.0
+],
+[
+69,
+"Mercurey 1er Champs Martin rouge Magnum",
+"2022",
+0,
+5,
+199.0
+],
+[
+69,
+"Mercurey 1er Champs Martin blanc Magnum",
+"2022",
+0,
+5,
+229.0
+],
+[
+69,
+"Mercurey 1er Champs Martin blanc",
+"2022",
+0,
+5,
+79.0
+],
+[
+69,
+"Mercurey 1er cru Champs Martin rouge",
+"2023",
+0,
+5,
+85.0
+],
+[
+69,
+"Mercurey 1er cru blanc Croichots",
+"2023",
+0,
+5,
+79.0
+],
+[
+69,
+"Mercurey 1er cru blanc Champs Martin",
+"2023",
+0,
+5,
+85.0
+],
+[
+69,
+"Bourgogne blanc Clos Alfred",
+"2023",
+0,
+5,
+39.0
+],
+[
+69,
+"Montagny 1er cru Mont Laurent",
+"2023",
+0,
+5,
+75.0
+],
+[
+63,
+"Auxey Duresses blanc les Hautés",
+"2022",
+0,
+5,
+48.0
+],
+[
+16,
+"Bandol rose",
+"2023",
+0,
+15,
+37.0
+],
+[
+8,
+"Pouilly Fuisse 1er les Crays",
+"2023",
+0,
+5,
+49.0
+],
+[
+8,
+"Macon Chaintre les Pierres Polies",
+"2023",
+0,
+5,
+26.0
+],
+[
+120,
+"Txakoli",
+"2022",
+3,
+2,
+23.0
+],
+[
+117,
+"Bernkasteler Lay Kabinett Cuvée Christina",
+"2022",
+1,
+12,
+27.0
+],
+[
+117,
+"Bernkasteler Doctor Riesling Spätlese",
+"2022",
+1,
+12,
+55.0
+],
+[
+117,
+"Bernkasteler Doctor Riesling Kabinett",
+"2022",
+1,
+12,
+49.0
+],
+[
+117,
+"Bernkasteler Doctor Riesling GG",
+"2022",
+1,
+12,
+59.0
+],
+[
+117,
+"Bernkasteler Badstube Kabinett Feinherb",
+"2022",
+1,
+12,
+23.0
+],
+[
+117,
+"Bernkasteler Badstube Kabinett",
+"2022",
+1,
+12,
+23.0
+],
+[
+79,
+"Ladoix Clos Royer blanc",
+"2022",
+0,
+5,
+49.0
+],
+[
+15,
+"Marsannay Clos du Roy blanc",
+"2023",
+0,
+5,
+59.0
+],
+[
+15,
+"Marsannay Charme aux Pretres blanc",
+"2023",
+0,
+5,
+59.0
+],
+[
+15,
+"Marsannay Au Champ Salomon blanc",
+"2023",
+0,
+5,
+59.0
+],
+[
+42,
+"Bourgogne Côtes d'Auxerre Corps de Garde Pinot Noir",
+"2020",
+0,
+5,
+25.0
+],
+[
+95,
+"Piandorino",
+"2022",
+2,
+19,
+49.0
+],
+[
+71,
+"Corton Marechaudes Grand Cru",
+"2021",
+0,
+5,
+119.0
+],
+[
+71,
+"Corton Marechaudes Grand cru",
+"2020",
+0,
+5,
+129.0
+],
+[
+71,
+"Corton Marechaudes Grand Cru",
+"2016",
+0,
+5,
+109.0
+],
+[
+79,
+"Corton Rognet Grand cru",
+"2021",
+0,
+5,
+125.0
+],
+[
+79,
+"Corton Rognet Grand cru",
+"2020",
+0,
+5,
+135.0
+],
+[
+79,
+"Corton Renardes",
+"2021",
+0,
+5,
+129.0
+],
+[
+79,
+"Corton Renardes",
+"2020",
+0,
+5,
+139.0
+],
+[
+79,
+"Corton Renardes",
+"2018",
+0,
+5,
+125.0
+],
+[
+79,
+"Corton Rognet Grand cru Cuvée Camille",
+"2018",
+0,
+5,
+139.0
+],
+[
+79,
+"Corton Rognet Grand cru Cuvée Camille MAGNUM",
+"2018",
+0,
+5,
+299.0
+],
+[
+79,
+"Ladoix 1er Corvée",
+"2020",
+0,
+5,
+65.0
+],
+[
+79,
+"Ladoix 1er Joyeuses",
+"2020",
+0,
+5,
+59.0
+],
+[
+79,
+"Ladoix 1er Joyeuses",
+"2021",
+0,
+5,
+55.0
+],
+[
+79,
+"Ladoix Clos Royer rouge",
+"2021",
+0,
+5,
+49.0
+],
+[
+79,
+"Ladoix 1er cru Marechaudes",
+"2020",
+0,
+5,
+99.0
+],
+[
+79,
+"Aloxe Corton villages les Crapousuets",
+"2020",
+0,
+5,
+49.0
+],
+[
+79,
+"Aloxe Corton 1er Valozieres",
+"2018",
+0,
+5,
+75.0
+],
+[
+6,
+"Chambolle Musigny villages",
+"2019",
+0,
+5,
+799.0
+],
+[
+6,
+"Clos de Vougeot Grand cru",
+"2019",
+0,
+5,
+2299.0
+],
+[
+6,
+"Clos de Vougeot Grand cru",
+"2018",
+0,
+5,
+2299.0
+],
+[
+6,
+"Echezeaux Grand cru",
+"2019",
+0,
+5,
+2749.0
+],
+[
+6,
+"Echezeaux Grand cru",
+"2018",
+0,
+5,
+2599.0
+],
+[
+6,
+"Latricieres Chambertin Grand cru",
+"2019",
+0,
+5,
+3999.0
+],
+[
+6,
+"Latricieres Chambertin Grand cru",
+"2018",
+0,
+5,
+2499.0
+],
+[
+6,
+"Nuits Saint Georges 1er cru Clos des Corvées Pagets",
+"2019",
+0,
+5,
+1399.0
+],
+[
+6,
+"Nuits Saint Georges 1er Proces",
+"2019",
+0,
+5,
+999.0
+],
+[
+6,
+"Nuits Saint Georges 1er Proces",
+"2018",
+0,
+5,
+949.0
+],
+[
+6,
+"Nuits Saint Georges villages Poisets",
+"2019",
+0,
+5,
+999.0
+],
+[
+6,
+"Vosne Romanée les Hautes Maizieres",
+"2019",
+0,
+5,
+1299.0
+],
+[
+6,
+"Vosne Romanée 1er Suchots",
+"2018",
+0,
+5,
+2199.0
+],
+[
+6,
+"Vosne Romanée 1er cru Aux Reignots",
+"2018",
+0,
+5,
+3999.0
+],
+[
+6,
+"Romanée Saint Vivant Grand cru",
+"2018",
+0,
+5,
+6999.0
+],
+[
+61,
+"Morgon MAGNUM",
+"2014",
+0,
+3,
+59.0
+],
+[
+39,
+"Grands Echezeaux Grand cru",
+"2021",
+0,
+5,
+899.0
+],
+[
+39,
+"Echezeaux Grand cru",
+"2021",
+0,
+5,
+549.0
+],
+[
+39,
+"Vosne Romanee 1er cru Beaumonts",
+"2021",
+0,
+5,
+349.0
+],
+[
+39,
+"Beaune 1er Tuvilains",
+"2017",
+0,
+5,
+75.0
+],
+[
+39,
+"Beaune 1er cru Tuvilains",
+"2021",
+0,
+5,
+99.0
+],
+[
+73,
+"Mazis Chambertin Grand cru",
+"2021",
+0,
+5,
+349.0
+],
+[
+73,
+"Beaune 1er Tuvilains",
+"2021",
+0,
+5,
+59.0
+],
+[
+47,
+"Gevrey Chambertin 1er cru 4 Carac'Terres Magnum",
+"2023",
+0,
+5,
+399.0
+],
+[
+47,
+"Gevrey Chambertin 1er cru Cazetiers 3L",
+"2023",
+0,
+5,
+599.0
+],
+[
+47,
+"Gevrey Chambertin 1er cru Cazetiers",
+"2022",
+0,
+5,
+135.0
+],
+[
+47,
+"Gevrey Chambertin 1er cru Estournelles Saint Jacques",
+"2022",
+0,
+5,
+125.0
+],
+[
+47,
+"Gevrey Chambertin 1er cru Cazetiers Magnum",
+"2022",
+0,
+5,
+279.0
+],
+[
+47,
+"Gevrey Chambertin 1er cru Lavaux Saint Jacques Magnum",
+"2022",
+0,
+5,
+269.0
+],
+[
+47,
+"Gevrey Chambertin 1er cru Estournelles Saint Jacques Magnum",
+"2022",
+0,
+5,
+269.0
+],
+[
+47,
+"Gevrey Chambertin 1er cru 4 Carac'Terres Magnum",
+"2022",
+0,
+5,
+399.0
+],
+[
+47,
+"Gevrey Chambertin 1er cru Cazetiers 3L",
+"2022",
+0,
+5,
+599.0
+],
+[
+35,
+"Chambolle Musigny 1er Amoureuses",
+"2022",
+0,
+5,
+599.0
+],
+[
+35,
+"Bonnes Mares",
+"2022",
+0,
+5,
+649.0
+],
+[
+77,
+"Clos de Vougeot Grand cru",
+"2021",
+0,
+5,
+399.0
+],
+[
+77,
+"Morey Saint Denis 1er cru Monts Luisants",
+"2020",
+0,
+5,
+149.0
+],
+[
+77,
+"Nuits Saint Georges 1er cru Damodes",
+"2020",
+0,
+5,
+149.0
+],
+[
+30,
+"Monthelie villages blanc la Goulotte",
+"2023",
+0,
+5,
+59.0
+],
+[
+30,
+"Monthelie villages blanc la Combe Danay",
+"2023",
+0,
+5,
+45.0
+],
+[
+38,
+"Pommard 1er Rugiens Hauts",
+"2019",
+0,
+5,
+119.0
+],
+[
+59,
+"Savigny les Beaune villages blanc",
+"2021",
+0,
+5,
+33.0
+],
+[
+59,
+"Savigny les Beaune 1er cru les Rouvrettes",
+"2020",
+0,
+5,
+39.0
+],
+[
+59,
+"Savigny les Beaune 1er cru les Peuillets",
+"2021",
+0,
+5,
+40.0
+],
+[
+59,
+"Savigny les Beaune 1er cru les Serpentieres",
+"2021",
+0,
+5,
+40.0
+],
+[
+59,
+"Pernand Vergelesses 1er cru Aux Vergelesses",
+"2021",
+0,
+5,
+40.0
+],
+[
+59,
+"Pernand Vergelesses 1er Aux Vergelesses",
+"2019",
+0,
+5,
+45.0
+],
+[
+59,
+"Savigny les Beaune 1er Peuillets",
+"2020",
+0,
+5,
+45.0
+],
+[
+59,
+"Savigny les Beaune 1er Serpentieres",
+"2020",
+0,
+5,
+45.0
+],
+[
+59,
+"Savigny les Beaune 1er Narbantons",
+"2020",
+0,
+5,
+45.0
+],
+[
+59,
+"Pernand Vergelesses 1er cru Aux Vergelesses",
+"2020",
+0,
+5,
+45.0
+],
+[
+59,
+"Savigny les Beaune 1er cru les Narbantons",
+"2021",
+0,
+5,
+45.0
+],
+[
+59,
+"Savigny les Beaune 1er cru les Lavières",
+"2021",
+0,
+5,
+45.0
+],
+[
+59,
+"Beaune 1er Clos du Roi",
+"2021",
+0,
+5,
+45.0
+],
+[
+59,
+"Pommard Vieilles Vignes",
+"2021",
+0,
+5,
+55.0
+],
+[
+59,
+"Pommard Vieilles Vignes",
+"2020",
+0,
+5,
+59.0
+],
+[
+59,
+"Gevrey Chambertin villages",
+"2021",
+0,
+5,
+59.0
+],
+[
+59,
+"Volnay 1er cru Chevrets",
+"2020",
+0,
+5,
+75.0
+],
+[
+59,
+"Volnay 1er cru les Mitans",
+"2021",
+0,
+5,
+75.0
+],
+[
+59,
+"Volnay 1er cru Chevrets",
+"2021",
+0,
+5,
+75.0
+],
+[
+59,
+"Pommard 1er cru les Chaponnières",
+"2020",
+0,
+5,
+89.0
+],
+[
+59,
+"Pernand Vergelesses villages les Belles Filles",
+"2020",
+0,
+5,
+33.0
+],
+[
+59,
+"Savigny les Beaune villages blanc",
+"2020",
+0,
+5,
+35.0
+],
+[
+86,
+"Volnay 1er Santenots",
+"2012",
+0,
+5,
+109.0
+],
+[
+86,
+"Beaune 1er Clos du Roi",
+"2011",
+0,
+5,
+49.0
+],
+[
+86,
+"Volnay 1er Cailleret",
+"2012",
+0,
+5,
+109.0
+],
+[
+90,
+"Savigny les Beaune 1er Guettes 375ml",
+"2011",
+0,
+5,
+23.0
+],
+[
+90,
+"Savigny les Beaune 1er Dominode 375ml",
+"2011",
+0,
+5,
+28.0
+],
+[
+90,
+"Savigny les Beaune 1er Guettes",
+"2013",
+0,
+5,
+39.0
+],
+[
+90,
+"Savigny les Beaune 1er Dominode",
+"2013",
+0,
+5,
+45.0
+],
+[
+103,
+"Santenay Beauregard 1er cru 375ml",
+"2015",
+0,
+5,
+22.0
+],
+[
+103,
+"Santenay la Comme Dessus",
+"2011",
+0,
+5,
+25.0
+],
+[
+17,
+"Chassagne Montrachet 1er cru Boudriottes",
+"2013",
+0,
+5,
+49.0
+],
+[
+17,
+"Chassagne Montrachet villages blanc",
+"2020",
+0,
+5,
+65.0
+],
+[
+2,
+"Beaune 1er Toussaints",
+"2019",
+0,
+5,
+55.0
+],
+[
+2,
+"Beaune 1er Aigrots blanc",
+"2019",
+0,
+5,
+49.0
+],
+[
+109,
+"Latricieres Chambertin Grand cru",
+"2017",
+0,
+5,
+279.0
+],
+[
+114,
+"Saint Romain villages blanc",
+"2017",
+0,
+5,
+39.0
+],
+[
+3,
+"Bienvenue Batard Montrachet Grand cru",
+"2022",
+0,
+5,
+899.0
+],
+[
+3,
+"Saint Romain villages blanc",
+"2022",
+0,
+5,
+49.0
+],
+[
+118,
+"Hautes Cotes de Beaune",
+"2018",
+0,
+5,
+39.0
+],
+[
+36,
+"Pernand Vergelsses 1er cru Les Vergelesses",
+"2020",
+0,
+5,
+55.0
+],
+[
+36,
+"Pernand Vergelsses 1er cru Les Vergelesses",
+"2021",
+0,
+5,
+55.0
+],
+[
+36,
+"Volnay 1er cru Carelle Sous la Chapelle",
+"2021",
+0,
+5,
+75.0
+],
+[
+36,
+"Pommard 1er cru Clos Micot",
+"2021",
+0,
+5,
+75.0
+],
+[
+36,
+"Volnay 1er cru le Village",
+"2021",
+0,
+5,
+75.0
+],
+[
+36,
+"Volnay 1er cru Clos de la Rougeotte",
+"2021",
+0,
+5,
+75.0
+],
+[
+36,
+"Volnay 1er cru Champans",
+"2021",
+0,
+5,
+89.0
+],
+[
+36,
+"Pommard 1er cru Poutures",
+"2021",
+0,
+5,
+89.0
+],
+[
+36,
+"Volnay villages",
+"2021",
+0,
+5,
+55.0
+],
+[
+36,
+"Volnay 1er cru le Village",
+"2020",
+0,
+5,
+65.0
+],
+[
+36,
+"Pommard 1er cru Clos Micot",
+"2020",
+0,
+5,
+65.0
+],
+[
+42,
+"Bourgogne Côtes d'Auxerre blanc Biaumont",
+"2019",
+0,
+5,
+35.0
+],
+[
+42,
+"Côtes d'Auxerre Gondonne",
+"2019",
+0,
+5,
+35.0
+],
+[
+42,
+"Côtes d'Auxerre Gueules de Loup",
+"2019",
+0,
+5,
+35.0
+],
+[
+42,
+"St Bris Moury Sauvignon Blanc",
+"2019",
+0,
+5,
+22.0
+],
+[
+42,
+"Bourgogne Côtes d'Auxerre Biaumont",
+"2020",
+0,
+5,
+33.0
+],
+[
+42,
+"Bourgogne Côtes d'Auxerre Gondonne",
+"2020",
+0,
+5,
+33.0
+],
+[
+42,
+"Bourgogne Côtes d'Auxerre Gueules de Loup",
+"2020",
+0,
+5,
+33.0
+],
+[
+42,
+"Chablis Faucertaine",
+"2020",
+0,
+5,
+33.0
+],
+[
+42,
+"Saint Bris blanc La Ronce",
+"2020",
+0,
+5,
+33.0
+],
+[
+42,
+"Saint Bris Corps de Garde",
+"2020",
+0,
+5,
+25.0
+],
+[
+42,
+"Aligoté",
+"2021",
+0,
+5,
+19.0
+],
+[
+42,
+"Aligoté",
+"2022",
+0,
+5,
+20.0
+],
+[
+42,
+"Côtes d'Auxerre blanc",
+"2022",
+0,
+5,
+23.0
+],
+[
+42,
+"St Bris Exogyra Virgula Sauvignon Blanc",
+"2022",
+0,
+5,
+22.0
+],
+[
+42,
+"St Bris Moury Sauvignon Blanc",
+"2022",
+0,
+5,
+22.0
+],
+[
+43,
+"Macon Cruzille le Clos de la Mollepierre",
+"2019",
+0,
+5,
+65.0
+],
+[
+43,
+"Macon Cruzille le Clos de la Mollepierre",
+"2020",
+0,
+5,
+59.0
+],
+[
+43,
+"Pouilly Fuissé 1er Sur la Roche",
+"2020",
+0,
+5,
+79.0
+],
+[
+43,
+"Macon Cruzille les Genevrieres blanc",
+"2021",
+0,
+5,
+39.0
+],
+[
+43,
+"Macon Cruzille les Perrières",
+"2021",
+0,
+5,
+59.0
+],
+[
+43,
+"Pouilly Fuissé les Métertières",
+"2021",
+0,
+5,
+39.0
+],
+[
+55,
+"Meursault villages",
+"2021",
+0,
+5,
+49.0
+],
+[
+55,
+"Meursault villages Tillets",
+"2021",
+0,
+5,
+59.0
+],
+[
+55,
+"Bourgogne blanc",
+"2022",
+0,
+5,
+26.0
+],
+[
+55,
+"Meursault villages Cuvée Jean Magnum",
+"2022",
+0,
+5,
+149.0
+],
+[
+54,
+"Chablis 1er cru Montee de Tonnere",
+"2022",
+0,
+5,
+45.0
+],
+[
+54,
+"Chablis 1er cru Montmains",
+"2022",
+0,
+5,
+39.0
+],
+[
+54,
+"Chablis 1er cru Secher",
+"2022",
+0,
+5,
+49.0
+],
+[
+54,
+"Chablis 1er cru Vaillons",
+"2022",
+0,
+5,
+39.0
+],
+[
+54,
+"Chablis Vieilles Vignes",
+"2022",
+0,
+5,
+29.0
+],
+[
+63,
+"Aligoté",
+"2022",
+0,
+5,
+23.0
+],
+[
+57,
+"Nuits Saint Georges les Argillats Pinot blanc",
+"2022",
+0,
+5,
+79.0
+],
+[
+8,
+"Pouilly Fuissé 1er la Roche",
+"2022",
+0,
+5,
+49.0
+],
+[
+8,
+"Pouilly Fuissé Cuvée Alliance Vergisson",
+"2022",
+0,
+5,
+33.0
+],
+[
+8,
+"Saint Veran En Creches",
+"2022",
+0,
+5,
+30.0
+],
+[
+8,
+"Saint Veran les Pommards",
+"2022",
+0,
+5,
+33.0
+],
+[
+8,
+"Pouilly Fuisse 1er les Crays",
+"2022",
+0,
+5,
+49.0
+],
+[
+15,
+"Bourgogne Aligote Vieilles Vignes",
+"2022",
+0,
+5,
+26.0
+],
+[
+15,
+"Marsannay blanc Cuvee Charlie",
+"2022",
+0,
+5,
+45.0
+],
+[
+30,
+"Monthelie les Plantes blanc",
+"2022",
+0,
+5,
+45.0
+],
+[
+38,
+"Aligote Vieilles Vignes",
+"2022",
+0,
+5,
+23.0
+],
+[
+38,
+"Bourgogne blanc les Lameroses",
+"2022",
+0,
+5,
+33.0
+],
+[
+38,
+"Aligote Vieilles Vignes",
+"2021",
+0,
+5,
+23.0
+],
+[
+15,
+"Bourgogne Aligote Vieilles Vignes",
+"2021",
+0,
+5,
+29.0
+],
+[
+15,
+"Marsannay blanc Cuvee Charlie",
+"2021",
+0,
+5,
+49.0
+],
+[
+38,
+"Meursault villages les Santenots",
+"2020",
+0,
+5,
+75.0
+],
+[
+77,
+"Bourgogne Hautes Côtes de Nuits villages blanc",
+"2020",
+0,
+5,
+39.0
+],
+[
+79,
+"Ladoix Clos Royer blanc",
+"2020",
+0,
+5,
+49.0
+],
+[
+79,
+"Ladoix villages les Buis",
+"2020",
+0,
+5,
+39.0
+],
+[
+110,
+"Ladoix villages Buisson",
+"2021",
+0,
+5,
+65.0
+],
+[
+25,
+"Bourgogne Aligoté",
+"2021",
+0,
+5,
+45.0
+],
+[
+92,
+"Vouvray Methode Traditionelle Demi Sec",
+"2009",
+0,
+11,
+27.0
+],
+[
+92,
+"Vouvray Demi sec Clos Naudin",
+"2011",
+0,
+11,
+29.0
+],
+[
+92,
+"Vouvray Moelleux Clos Naudin",
+"2011",
+0,
+11,
+39.0
+],
+[
+28,
+"Savennieres Chateau du Chamboureau MAGNUM",
+"2012",
+0,
+11,
+59.0
+],
+[
+93,
+"Menetou Salon 35 Rangs",
+"2014",
+0,
+11,
+45.0
+],
+[
+93,
+"Menetou Salon blanc Chandelieres",
+"2015",
+0,
+11,
+33.0
+],
+[
+93,
+"Menetou Salon Chandelieres rouge",
+"2015",
+0,
+11,
+35.0
+],
+[
+93,
+"Menetou Salon Renardieres blanc",
+"2015",
+0,
+11,
+33.0
+],
+[
+93,
+"Menetou Salon Renardieres rouge",
+"2015",
+0,
+11,
+35.0
+],
+[
+93,
+"Menetou Salon rose",
+"2018",
+0,
+11,
+25.0
+],
+[
+19,
+"Vin de France Vouvray les Argiles sec",
+"2019",
+0,
+11,
+30.0
+],
+[
+11,
+"Sancerre la Cote Magnum",
+"2019",
+0,
+11,
+119.0
+],
+[
+11,
+"Sancerre Clos de Beaujeu",
+"2020",
+0,
+11,
+49.0
+],
+[
+11,
+"Sancerre la Cote",
+"2020",
+0,
+11,
+55.0
+],
+[
+11,
+"Sancerre Mont Damnes",
+"2020",
+0,
+11,
+49.0
+],
+[
+11,
+"Sancerre la Cote",
+"2021",
+0,
+11,
+59.0
+],
+[
+11,
+"Sancerre rosé Sybylle",
+"2022",
+0,
+11,
+29.0
+],
+[
+65,
+"Vieille Vigne du Levant Blanc de Blancs Extra Brut Grand cru MAGNUM",
+"2012",
+0,
+7,
+299.0
+],
+[
+65,
+"Vieille Vigne du Levant Blanc de Blancs Extra Brut Grand cru MAG",
+"2013",
+0,
+7,
+299.0
+],
+[
+65,
+"Rosé de Maturation",
+"2014",
+0,
+7,
+135.0
+],
+[
+65,
+"Vieille Vigne du Levant Blanc de Blancs Extra Brut Grand cru",
+"2014",
+0,
+7,
+149.0
+],
+[
+85,
+"le Val Cornet Brut MAGNUM",
+"2014",
+0,
+7,
+129.0
+],
+[
+31,
+"Initiation Brut Nature",
+"2015",
+0,
+7,
+65.0
+],
+[
+64,
+"Extra Brut Chouilly Mont Aigu Grand cru",
+"2015",
+0,
+7,
+109.0
+],
+[
+65,
+"Les Chemins d'Avize Blanc de Blancs Extra Brut Grand cru",
+"2015",
+0,
+7,
+149.0
+],
+[
+31,
+"Cuvée de l'Orme Extra Brut",
+"2016",
+0,
+7,
+129.0
+],
+[
+31,
+"Rue Des Noyers Brut Nature",
+"2016",
+0,
+7,
+85.0
+],
+[
+75,
+"Blanc de Noirs Extra Brut Efflorescence Magnum",
+"2016",
+0,
+7,
+179.0
+],
+[
+99,
+"Parcellaire AB 390 Pinot Meunier",
+"2016",
+0,
+7,
+89.0
+],
+[
+0,
+"Brut Nature Grand cru L'Experience",
+"2017",
+0,
+7,
+299.0
+],
+[
+0,
+"Extra Brut Blanc de Blancs Grand cru Minéral",
+"2017",
+0,
+7,
+119.0
+],
+[
+0,
+"Extra Brut Blanc de Blancs Grand cru Minéral Magnum",
+"2017",
+0,
+7,
+279.0
+],
+[
+31,
+"Initiation Brut Nature",
+"2017",
+0,
+7,
+65.0
+],
+[
+64,
+"Les Grandes Crayeres Blanc de Blancs Extra Brut",
+"2017",
+0,
+7,
+75.0
+],
+[
+64,
+"Les Longues Voyes Blanc de Noirs Extra Brut 1er cru",
+"2017",
+0,
+7,
+75.0
+],
+[
+75,
+"Blanc de Noirs Extra Brut Efflorescence 3L",
+"2017",
+0,
+7,
+349.0
+],
+[
+75,
+"Blanc de Noirs Extra Brut Efflorescence Magnum",
+"2017",
+0,
+7,
+179.0
+],
+[
+85,
+"le Val Cornet Brut",
+"2017",
+0,
+7,
+65.0
+],
+[
+0,
+"Extra Brut Blanc de Blancs Grand cru L'Avizoise",
+"2018",
+0,
+7,
+159.0
+],
+[
+31,
+"Rue des Noyers Coteaux Champenois rouge",
+"2018",
+0,
+7,
+89.0
+],
+[
+64,
+"Blanc de Blancs Extra Brut Les Grandes Crayères",
+"2018",
+0,
+7,
+85.0
+],
+[
+64,
+"Blanc de Noirs Extra Brut Les Longues Voyes 1er cru",
+"2018",
+0,
+7,
+85.0
+],
+[
+64,
+"Blanc de Noirs Extra Brut les Vignes d'Autrefois",
+"2018",
+0,
+7,
+85.0
+],
+[
+64,
+"Coteaux Champenois les Rouges Maisons",
+"2018",
+0,
+7,
+89.0
+],
+[
+75,
+"Concordance Blanc de Noirs Extra Brut Sans Soufre",
+"2018",
+0,
+7,
+89.0
+],
+[
+75,
+"Efflorescence Blanc de Noirs Extra Brut",
+"2018",
+0,
+7,
+89.0
+],
+[
+75,
+"Efflorescence Blanc de Noirs Extra Brut MAGNUM",
+"2018",
+0,
+7,
+199.0
+],
+[
+94,
+"Hauts d'Epernay Extra Brut",
+"2018",
+0,
+7,
+85.0
+],
+[
+94,
+"les Pommiers Extra Brut",
+"2018",
+0,
+7,
+149.0
+],
+[
+74,
+"Ambonnay Grand cru",
+"2019",
+0,
+7,
+85.0
+],
+[
+74,
+"la Grande Ruelle Grand cru Brut Nature",
+"2019",
+0,
+7,
+119.0
+],
+[
+74,
+"Verzenay Grand cru",
+"2019",
+0,
+7,
+89.0
+],
+[
+64,
+"Blanc de Noirs Extra Brut les Vignes d'Autrefois",
+"2019",
+0,
+7,
+85.0
+],
+[
+65,
+"Rosé de Saignée Extra Brut Premier cru",
+"2019",
+0,
+7,
+99.0
+],
+[
+65,
+"Rosé de Saignée Extra Brut Premier cru MAGNUM",
+"2019",
+0,
+7,
+229.0
+],
+[
+85,
+"Brut Nature",
+"2019",
+0,
+7,
+55.0
+],
+[
+85,
+"le Val Cornet Brut MAGNUM",
+"2019",
+0,
+7,
+149.0
+],
+[
+122,
+"Oger Blanc de Blancs Grand cru Crayeres Brut Nature",
+"2019",
+0,
+7,
+79.0
+],
+[
+122,
+"Oger Blanc de Blancs Grand Cru Orpair Extra Brut",
+"2019",
+0,
+7,
+69.0
+],
+[
+122,
+"Oger Blanc de Blancs Grand cru Rossignol Brut Nature",
+"2019",
+0,
+7,
+79.0
+],
+[
+74,
+"Ambonnay Coteaux Champenois blanc",
+"2020",
+0,
+7,
+89.0
+],
+[
+74,
+"Cumieres Coteaux Champenois",
+"2020",
+0,
+7,
+89.0
+],
+[
+74,
+"Oger Coteaux Champenois",
+"2020",
+0,
+7,
+89.0
+],
+[
+65,
+"Rosé de Saignée Extra Brut Premier cru",
+"2020",
+0,
+7,
+99.0
+],
+[
+67,
+"Eocene Brut Nature",
+"2020",
+0,
+7,
+89.0
+],
+[
+67,
+"Lutetien Brut Nature",
+"2020",
+0,
+7,
+119.0
+],
+[
+74,
+"Ambonnay Grand cru",
+"2020",
+0,
+7,
+99.0
+],
+[
+74,
+"Ambonnay rose Grand cru",
+"2020",
+0,
+7,
+99.0
+],
+[
+74,
+"Avize Grand cru",
+"2020",
+0,
+7,
+99.0
+],
+[
+74,
+"Bermonts Grand cru",
+"2020",
+0,
+7,
+119.0
+],
+[
+74,
+"Bouzy Grand cru",
+"2020",
+0,
+7,
+99.0
+],
+[
+74,
+"Grande Ruelle Grand cru",
+"2020",
+0,
+7,
+119.0
+],
+[
+74,
+"Le Parc Grand cru",
+"2020",
+0,
+7,
+119.0
+],
+[
+74,
+"Oger Grand cru",
+"2020",
+0,
+7,
+99.0
+],
+[
+74,
+"Saint Remys Grand cru",
+"2020",
+0,
+7,
+119.0
+],
+[
+74,
+"Verzenay Grand cru",
+"2020",
+0,
+7,
+99.0
+],
+[
+85,
+"le Val Cornet Brut",
+"2020",
+0,
+7,
+69.0
+],
+[
+74,
+"Avize Coteaux Champenois",
+"2021",
+0,
+7,
+89.0
+],
+[
+74,
+"Shaman blanc Grand cru",
+"2021",
+0,
+7,
+65.0
+],
+[
+74,
+"Shaman blanc Grand cru Magnum",
+"2021",
+0,
+7,
+129.0
+],
+[
+74,
+"Yuman Premier cru",
+"2021",
+0,
+7,
+59.0
+],
+[
+74,
+"Shaman rose Grand cru",
+"2021",
+0,
+7,
+69.0
+],
+[
+75,
+"Resonance Blanc de Noirs Extra Brut",
+"2021",
+0,
+7,
+69.0
+],
+[
+91,
+"Brut Nature Les Commes",
+"2021",
+0,
+7,
+99.0
+],
+[
+91,
+"Chevry Brut Nature Cuvee Cuve",
+"2021",
+0,
+7,
+79.0
+],
+[
+91,
+"Chevry Brut Nature Cuvee Fut",
+"2021",
+0,
+7,
+79.0
+]
+],
+"WK": {
+"Georges Glantenay": {
+"2021|Pommard 1er Rugiens Hauts": 92,
+"2021|Volnay 1er Les Santenots": 92,
+"2021|Volnay 1er Brouillards": "91+",
+"2021|Volnay 1er Robardelle": 91,
+"2021|Volnay Vieilles Vignes": 90,
+"2021|Volnay 1er Ronceret": 89
+},
+"Thomas et Jean Marc Bouley": {
+"2023|Pommard 1er Rugiens": 100,
+"2023|Pommard 1er Fremiers": 96,
+"2023|Volnay 1er cru Mitans": 95,
+"2023|Volnay 1er cru Clos des Chenes": 95,
+"2023|Volnay 1er Carelle sous la Chapelle": 94,
+"2023|Volnay villages Clos de la Cave": 94,
+"2023|Volnay villages Vieilles Vignes": 92,
+"2023|Volnay villages": 91,
+"2023|Hautes Cotes de Beaune villages Vibrations": 91,
+"2023|Pommard villages": 91,
+"2023|Beaune 1er cru Reversées": 90,
+"2023|Bourgogne rouge": 88,
+"2022|Pommard 1er Rugiens": "97+",
+"2022|Pommard 1er Fremiers": "96+",
+"2022|Volnay 1er Caillerets": 96,
+"2022|Volnay 1er cru Mitans": 95,
+"2022|Volnay 1er cru Clos des Chenes": 95,
+"2022|Volnay 1er Carelle sous la Chapelle": 94,
+"2022|Volnay villages Clos de la Cave": 93,
+"2022|Beaune 1er cru Reversées": 93,
+"2022|Volnay Vieilles Vignes": "92+",
+"2022|Pommard villages": 92,
+"2022|Volnay villages": 91,
+"2022|Hautes Cotes de Beaune villages les Vibrations": 90,
+"2022|Bourgogne rouge": 89,
+"2021|Volnay 1er Caillerets": 96,
+"2021|Pommard 1er Rugiens": "95+",
+"2021|Pommard 1er Fremiers": "94+",
+"2021|Volnay 1er cru Clos des Chenes": 94,
+"2021|Volnay 1er Carelle sous la Chapelle": 93,
+"2021|Beaune 1er cru Reversées": 92,
+"2021|Volnay Vieilles Vignes": 92,
+"2021|Volnay villages Clos de la Cave": 91,
+"2021|Pommard villages": "90+",
+"2021|Volnay villages": 90,
+"2021|Hautes Cotes de Beaune Vibrations": 89,
+"2021|Bourgogne rouge": 88,
+"2020|Pommard 1er Rugiens": 98,
+"2020|Pommard 1er Fremiers": 96,
+"2020|Volnay 1er cru Clos des Chenes": "94+",
+"2020|Volnay 1er Caillerets": 94,
+"2020|Volnay 1er Carelle sous la Chapelle": 94
+},
+"Michel Rebourgeon": {
+"2023|Pommard 1er Charmots": "92-94",
+"2023|Pommard 1er Rugiens": "92-94",
+"2023|Volnay 1er cru Carelle Sous la Chapelle": "91-93",
+"2023|Pommard Arvelets 1er": "91-93",
+"2023|Volnay 1er cru Brouillards": "91-93",
+"2023|Pommard Noizons villages": "90-92",
+"2023|Pommard les Perrières villages": "90-91",
+"2023|Pommard villages Vaumuriens": "90-91",
+"2023|Pommard Trois Terroirs villages": "89-91",
+"2023|Beaune 1er cru Epenottes": "89-91",
+"2023|Beaune 1er Chouacheux": "88-90",
+"2023|Bourgogne rouge": 89,
+"2019|Pommard 1er Rugiens": "92+",
+"2019|Pommard 1er Arvelets": 92,
+"2019|Pommard Noizons villages": 90,
+"2019|Volnay 1er cru Carelle Sous la Chapelle": 89,
+"2019|Pommard Trois Terroirs villages": "88+",
+"2019|Bourgogne rouge": 87
+},
+"Dujardin": {
+"2020|Monthelie 1er cru Champs Fulliot": "91+",
+"2020|Monthelie 1er cru les Vignes Rondes": 91,
+"2020|Meursault": 90,
+"2020|Monthelie Rouge ***": 90,
+"2020|Monthelie La Goulotte": 90,
+"2020|Monthelie Rouge": 89,
+"2020|Monthelie Blanc": 89,
+"2020|Auxey-Duresses Blanc": "88+",
+"2020|Beaune Les Beaux Fougets": "87+"
+},
+"Latour Giraud": {
+"2007|Meursault 1er Genevrières": 93,
+"2007|Meursault 1er Perrières": 92,
+"2007|Meursault 1er Bouchères": 92,
+"2007|Puligny-Montrachet 1er Champ Canet": 92,
+"2007|Meursault Les Narvaux": 90,
+"2007|Meursault Cuvée Maxime": 89,
+"2015|Meursault 1er Genevrières": 92,
+"2007|Meursault 1er Charmes": "90+"
+},
+"Goisot": {
+"2015|Bourgogne Cotes d'Auxerre La Ronce": "90+",
+"2015|Bourgogne Cotes d'Auxerre Gondonne": 90,
+"2015|Saint-Bris Corps de Garde": 92,
+"2015|Bourgogne Cotes d'Auxerre Corps de Garde": 88,
+"2015|Bourgogne Cotes d'Auxerre Biaumont": 91,
+"2015|Irancy Les Mazelots": 92,
+"2015|Bourgogne Aligote": 91,
+"2015|Bourgogne Cotes d'Auxerre Gueules de Loup": 92,
+"2014|Bourgogne Cotes d'Auxerre Biaumont": 93,
+"2014|Saint-Bris Corps de Garde": 94,
+"2014|Bourgogne Cotes d'Auxerre Gondonne": 92,
+"2014|Bourgogne Cotes d'Auxerre Corps de Garde Blanc": 92,
+"2013|Irancy Les Mazelots": 92,
+"2013|Bourgogne Cotes d'Auxerre Gondonne": 92,
+"2013|Bourgogne Cotes d'Auxerre Corps de Garde Blanc": 92,
+"2013|Saint-Bris Corps de Garde": 92,
+"2013|Bourgogne Cotes d'Auxerre Gueules de Loup": 91,
+"2013|Bourgogne Cotes d'Auxerre La Ronce": 90
+},
+"Barraud": {
+"2020|Pouilly-Fuissé 1er Les Crays": 93,
+"2020|Saint-Véran En Crèches": 92,
+"2020|Mâcon-Vergisson La Roche": 90,
+"2020|Pouilly-Fuissé En France": 90,
+"2019|Pouilly-Fuissé Les Crays": 92,
+"2019|Pouilly-Fuissé La Verchère VV": 91,
+"2019|Mâcon-Vergisson La Roche": 90,
+"2019|Pouilly-Fuissé En France": 90,
+"2018|Pouilly-Fuissé Sur La Roche": 92,
+"2018|Saint-Véran En Crèches": 92,
+"2018|Pouilly-Fuissé Les Chataigniers VV": 92,
+"2018|Pouilly-Fuissé La Verchère VV": 91
+},
+"Guillot-Broux": {
+"2021|Macon-Cruzille Clos de la Mollepierre": 93,
+"2021|Macon-Cruzille Les Perrières": 92,
+"2021|Bourgogne Pinot Noir La Myotte": 92,
+"2021|Bourgogne Pinot Noir Les Geniévrières": 91,
+"2021|Bourgogne Rouge Les Renardières": 91,
+"2021|Macon-Cruzille Beaumont": 91,
+"2020|Macon-Cruzille Les Perrières": "93+",
+"2020|Macon-Cruzille Clos de la Mollepierre": 93,
+"2020|Bourgogne Rouge Les Renardières": 93,
+"2020|Macon-Cruzille Les Geniévrières": 93,
+"2020|Bourgogne Pinot Noir Les Geniévrières": 92,
+"2020|Bourgogne Pinot Noir La Myotte": "92+",
+"2020|Macon-Cruzille Beaumont": 92,
+"2020|Macon-Chardonnay Les Combettes": 92,
+"2019|Macon-Cruzille Les Perrières": "94+",
+"2019|Macon-Cruzille Clos de la Mollepierre": "93+",
+"2019|Macon-Chardonnay Les Combettes": "93+",
+"2019|Macon-Cruzille Les Geniévrières": 93,
+"2019|Macon-Cruzille Les Molières": 93,
+"2019|Pouilly-Fuissé Sur la Roche": 93,
+"2019|Macon-Cruzille Beaumont": "92+",
+"2019|Bourgogne Pinot Noir La Myotte": 92,
+"2019|Bourgogne Pinot Noir Les Geniévrières": "90+",
+"2018|Macon-Cruzille Les Perrières": 93,
+"2018|Macon-Cruzille Beaumont": "92+",
+"2018|Macon-Cruzille Les Geniévrières": 92,
+"2018|Bourgogne Pinot Noir La Myotte": 90,
+"2018|Macon-Chardonnay Les Combettes": 90,
+"2017|Macon-Cruzille Les Perrières": "93+",
+"2017|Macon-Cruzille Clos de la Mollepierre": "92+",
+"2017|Macon-Cruzille Les Geniévrières": "91+",
+"2017|Macon-Chardonnay Les Combettes": 91,
+"2017|Bourgogne Pinot Noir La Myotte": 89,
+"2016|Bourgogne Pinot Noir La Myotte": 92,
+"2016|Macon-Cruzille Clos de la Mollepierre": "91+",
+"2016|Macon-Cruzille Les Geniévrières": 90
+},
+"Jean Javillier": {
+"2020|Meursault 1er Poruzots": 94,
+"2020|Pommard 1er cru Rugiens": "92-94",
+"2020|Volnay 1er Caillerets": "92-94",
+"2020|Volnay 1er Clos des Chenes": "92-94",
+"2020|Volnay 1er Santenots": "91-93",
+"2020|Meursault Tillets": 91,
+"2020|Meursault Cuvée Jean": "91+",
+"2020|Meursault Petit Charrons": "91+",
+"2020|Meursault Vieilles Vignes": "90+",
+"2020|Bourgogne Pinot Noir Magny": 89,
+"2020|Bourgogne Chardonnay Magny": "88+",
+"2019|Pommard 1er cru Rugiens": 94,
+"2019|Volnay 1er Clos des Chenes": "93+",
+"2019|Volnay 1er Santenots": 93,
+"2019|Volnay 1er Caillerets": 93,
+"2019|Meursault 1er Poruzots": 93,
+"2019|Meursault Cuvée Jean": "90+",
+"2019|Meursault Vieilles Vignes": 90,
+"2019|Bourgogne Chardonnay Magny": 88,
+"2019|Bourgogne Pinot Noir": 88
+},
+"Lorenzon": {
+"2023|Mercurey 1er Pièce 13": 95,
+"2023|Mercurey 1er Pièce 15": 95,
+"2023|Mercurey 1er Clos de Champs Martin Cuvée Carline": "94+",
+"2023|Montagny 1er Le Choix du Roi": 94,
+"2023|Mercurey 1er Les Champs Martin": 94,
+"2023|Montagny 1er Le Mont Laurent": 93,
+"2023|Mercurey 1er Les Croichots Blanc": 93,
+"2023|Mercurey 1er Champs Martin Rouge": 93,
+"2023|Mercurey 1er Clos des Barraults Blanc": "92+",
+"2023|Montagny 1er Les Truffières": 92,
+"2023|Bourgogne Blanc Clos Alfred": 90,
+"2022|Mercurey 1er Clos de Champs Martin Cuvée Carline": 94,
+"2022|Mercurey 1er Les Champs Martin": 94,
+"2022|Mercurey 1er Champs Martin Rouge": 93,
+"2022|Montagny 1er Le Mont Laurent": 93,
+"2022|Mercurey 1er Les Croichots Blanc": 92,
+"2022|Mercurey 1er Pièce 13": 92
+}
+}
+}
