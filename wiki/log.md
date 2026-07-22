@@ -1300,3 +1300,18 @@ backfill stats, ~770 broken-link report). Design + roadmap in
 [[linkage_architecture_2026_07]]. Wired `/ask-cellar` to read signals first; added
 build_signals/build_ratings_board/build_views_index `--check` to CI. The trust
 ranking is a tunable default — flagged for Evan to reorder. lint clean.
+
+## [2026-07-22] pipeline | trust tiers set by Evan + WK-comments signal wired
+
+Replaced the placeholder trust ranking in `build_signals.py` with Evan's actual
+hierarchy (2026-07-22). **Tier 1:** Down to Earth (Panzer), Chambers/CSW
+(championed), Polaner, David Bowler, Grand Cru, WK comments, Neal Rosenthal,
+Skurnik. **Tier 2:** Fass, Raeders + Kermit Lynch, Louis/Dressner, Theise, Zev
+Rovine, Wilson Daniels, Vineyard Brands, etc. Wired "WK comments" as a first-class
+trust signal = William Kelley's Berserkers posts about a producer
+(`retailers.berserkers_kelley.post_count > 0`, 93 producers — Ramonet ×99, Leflaive
+×44, Duroché ×15, Clos Rougeard ×14), surfaced as `WK×N` in the board. Fixed a
+frontmatter-parser bug (`\s*` after a key crossed newlines → list values kept a
+`- ` prefix) and made block-list parsing indentation-tolerant + the link-integrity
+scan skip its own board (single-pass fixed point). Result: 293 Tier-1 / 39 Tier-2
+/ 70% resolved. Updated [[producer_signals_board_2026_07]] + [[linkage_architecture_2026_07]].

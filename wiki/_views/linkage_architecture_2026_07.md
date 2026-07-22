@@ -69,16 +69,21 @@ and trust — so ranking is a value, not a vibe:
 Trust in a producer = trust in the book that curated it. Decision table in the
 script (`IMPORTER_TIER` / `RETAILER_TRUST`), tunable:
 
-- **Tier 1** — most-trusted grower curators: Kermit Lynch, Louis/Dressner, Neal
-  Rosenthal, Polaner, Terry Theise, Zev Rovine + the retailer books Evan buys
-  direct (Down to Earth/Panzer, Fass, Chambers-championed).
-- **Tier 2** — trusted, broader: Skurnik, Bowler, Wilson Daniels, Vineyard
-  Brands, Wasserman, Wildman, Henderson, Grand Cru, BNP, Banville, Raeders.
-- **unresolved** (30%) — no importer + not in a trusted book → invisible trust,
-  the #1 backfill target.
+- **Tier 1 (set by Evan, 2026-07-22)** — Down to Earth (Panzer), Chambers/CSW
+  (championed), Polaner, David Bowler, Grand Cru, **WK comments**, Neal Rosenthal,
+  Skurnik. "WK comments" is a first-class trust signal, not an importer: it's
+  William Kelley's Berserkers posts about the producer
+  (`retailers.berserkers_kelley.post_count > 0` — 93 producers, e.g. Ramonet ×99,
+  Leflaive ×44, Duroché ×15, Clos Rougeard ×14).
+- **Tier 2** — Fass, Raeders + broader trusted books: Kermit Lynch, Louis/Dressner,
+  Terry Theise, Zev Rovine, Wilson Daniels, Vineyard Brands, Wasserman, Wildman,
+  Henderson, BNP, Banville.
+- **unresolved** (30%) — no importer + not in a trusted book/signal → invisible
+  trust, the #1 backfill target.
 
-> **This ranking is a defensible starting default, not gospel — it's the one piece
-> that most wants Evan's own ordering.** Reorder `IMPORTER_TIER` in the script.
+Result: **293 Tier-1, 39 Tier-2, 70% resolved.** Tier 1 is broad because CSW and
+DTE are large curated books — which is exactly the intended bias. Reorder the
+`IMPORTER_TIER` / `RETAILER_TRUST` tables + the WK hook in `build_signals.py` to tune.
 
 ### taste_fit (the "styles I'm drawn to")
 

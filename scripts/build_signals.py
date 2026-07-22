@@ -39,18 +39,22 @@ BOARD = VAULT / "wiki" / "_views" / "producer_signals_board_2026_07.md"
 # ─────────────────────────────────────────────────────────────────────────────
 
 # Trust in a source = trust in the producers it curates. Keys are importer_us /
-# retailer names (lowercased, prefix-matched). TUNE WITH EVAN.
+# retailer names (lowercased, prefix-matched).
+# Tier 1 set by Evan (2026-07-22): DTE, CSW, Polaner, Bowler, Grand Cru, WK
+# comments, Rosenthal, Skurnik. (DTE + CSW are retailers → RETAILER_TRUST; WK
+# comments = a Kelley Berserkers-post signal → compute_trust; the rest are here.)
 IMPORTER_TIER = {
-    1: ["kermit lynch", "louis/dressner", "louis dressner", "dressner", "neal rosenthal",
-        "rosenthal", "polaner", "theise", "terry theise", "zev rovine", "rovine",
-        "selection massale", "jenny & francois", "de maison"],
-    2: ["skurnik", "bowler", "david bowler", "wilson daniels", "vineyard brands",
-        "wasserman", "becky wasserman", "wildman", "a.i. select", "henderson",
-        "grand cru", "bnp", "banville", "vom boden", "schatzi", "jose pastor",
-        "the source", "wine source", "kysela", "veritas", "dns"],
+    1: ["polaner", "bowler", "david bowler", "grand cru", "neal rosenthal",
+        "rosenthal", "skurnik"],
+    2: ["kermit lynch", "louis/dressner", "louis dressner", "dressner", "theise",
+        "terry theise", "zev rovine", "rovine", "selection massale", "jenny & francois",
+        "de maison", "wilson daniels", "vineyard brands", "wasserman", "becky wasserman",
+        "wildman", "a.i. select", "henderson", "bnp", "banville", "vom boden", "schatzi",
+        "jose pastor", "the source", "wine source", "kysela", "veritas", "dns"],
 }
-# Retailers that are themselves curated books Evan buys from (retailers.* frontmatter).
-RETAILER_TRUST = {"dte": 1, "fass": 1, "chambers_championed": 1, "raeders": 2}
+# Retailers/books Evan buys from (retailers.* frontmatter). DTE + CSW-championed
+# are Tier 1 per Evan; Fass + Raeders are trusted Tier 2.
+RETAILER_TRUST = {"dte": 1, "chambers_championed": 1, "fass": 2, "raeders": 2}
 
 # taste_fit — regions that are the on-taste heartland (grower / terroir).
 REGION_CORE = {
@@ -78,12 +82,12 @@ WIKILINK_RE = re.compile(r"\[\[([^\]|#]+)")
 
 
 def scalar(fm, key):
-    m = re.search(rf"^{key}:\s*(.*?)\s*$", fm, re.MULTILINE)
+    m = re.search(rf"^{key}:[ \t]*(.*?)[ \t]*$", fm, re.MULTILINE)
     return m.group(1).strip().strip('"').strip("'") if m else ""
 
 
 def yaml_list(fm, key):
-    m = re.search(rf"^{key}:\s*(.*)$", fm, re.MULTILINE)
+    m = re.search(rf"^{key}:[ \t]*(.*)$", fm, re.MULTILINE)
     if not m:
         return []
     inline = m.group(1).strip()
@@ -91,9 +95,10 @@ def yaml_list(fm, key):
         return [x.strip().strip('"') for x in inline.strip("[]").split(",") if x.strip()]
     out, tail = [], fm[m.end():]
     for ln in tail.split("\n"):
-        if ln.startswith("- "):
-            out.append(ln[2:].strip().strip('"'))
-        elif ln.strip() and not ln.startswith(" "):
+        s = ln.strip()
+        if s.startswith("- "):
+            out.append(s[2:].strip().strip('"').strip("'"))
+        elif s:                       # first non-empty, non-item line ends the list
             break
     return out
 
@@ -128,6 +133,13 @@ def wb_rank(fm):
     return int(m.group(1)) if m else None
 
 
+def wk_posts(fm):
+    """'WK comments' = William Kelley's Berserkers posts about the producer
+    (retailers.berserkers_kelley.post_count). A Tier-1 trust signal per Evan."""
+    m = re.search(r"berserkers_kelley:\n(?:\s+[a-z_]+:.*\n)*?\s+post_count:\s*(\d+)", fm)
+    return int(m.group(1)) if m else 0
+
+
 def importer_tier(importers):
     best = None
     for imp in importers:
@@ -143,6 +155,8 @@ def compute_trust(fm, importers):
     t = importer_tier(importers)
     if t:
         tiers.append(t)
+    if wk_posts(fm) > 0:          # WK comments → Tier 1 (Evan, 2026-07-22)
+        tiers.append(1)
     for r, tier in RETAILER_TRUST.items():
         if r == "chambers_championed":
             if chambers_championed(fm):
@@ -193,9 +207,13 @@ def main() -> int:
     records, all_slugs, link_targets = [], set(), []
     for p in sorted(PROD.glob("*.md")):
         all_slugs.add(p.stem)
-    # gather links across wiki + _views + cellar for integrity check
+    # gather links across wiki + _views + cellar for integrity check. Skip this
+    # script's own generated board so the output isn't a function of itself
+    # (keeps the run a single-pass fixed point for --check).
     for base in (VAULT / "wiki", VAULT / "cellar"):
         for f in base.rglob("*.md"):
+            if f == BOARD:
+                continue
             for m in WIKILINK_RE.finditer(f.read_text(encoding="utf-8", errors="replace")):
                 link_targets.append(m.group(1).strip())
 
@@ -217,12 +235,13 @@ def main() -> int:
         fit = compute_taste_fit(name, region, sub, farming)
         critic = best_critic(body)
         wb = wb_rank(fm)
+        wk = wk_posts(fm)
         owned = "## Cellar" in body
         rec = {
             "slug": p.stem, "name": name, "region": region, "sub_region": sub,
             "appellations": yaml_list(fm, "appellations"), "farming": farming,
             "importer_us": importers, "available_at": avail,
-            "trust_tier": trust, "taste_fit": fit,
+            "trust_tier": trust, "taste_fit": fit, "wk_posts": wk,
             "best_critic": critic, "wb_rank": wb, "owned": owned,
             "conviction": conviction(fit, trust, critic, wb),
         }
@@ -280,10 +299,11 @@ def main() -> int:
          "Riesling/Piedmont/Beaujolais/Jura/Friuli/N-Rhône + the two accepted Napa-Cab tracks) · "
          "`adjacent` (plausible, needs a flag: generic Napa, Bordeaux, S-Rhône, Argentina non-bio) · "
          "`skip` (opulent CA Syrah/Rhône — SQN/Saxum/Law/Next of Kyn).",
-         "- **trust_tier** — 1 = Evan's most-trusted grower curators (Kermit Lynch, Louis/Dressner, "
-         "Rosenthal, Polaner, Theise, Zev Rovine + the DTE/Fass/Chambers-championed books) · 2 = "
-         "trusted broader books (Skurnik, Bowler, Wilson Daniels, Vineyard Brands, …). **This ranking "
-         "is a starting default — confirm/reorder with Evan.**",
+         "- **trust_tier** — set by Evan (2026-07-22). **Tier 1:** Down to Earth (Panzer), "
+         "Chambers/CSW (championed), Polaner, David Bowler, Grand Cru, **WK comments** (a William "
+         "Kelley Berserkers-post signal, `retailers.berserkers_kelley.post_count > 0`), Neal "
+         "Rosenthal, Skurnik. **Tier 2:** Fass, Raeders + broader trusted books (Kermit Lynch, "
+         "Louis/Dressner, Theise, Zev Rovine, Wilson Daniels, Vineyard Brands, …).",
          "- **conviction** — `taste_fit + trust_tier + critic + WB-momentum`, the shortlist rank.",
          "",
          f"## High-conviction buy list — on-taste, from a trusted source, not owned ({len(core_buy)})",
@@ -306,9 +326,12 @@ def main() -> int:
           "",
           "| Producer | Region / land | Fit | Source | Owned? |",
           "|---|---|:---:|---|:---:|"]
-    for r in sorted(tier1, key=lambda r: (r["region"], r["name"]))[:80]:
+    for r in sorted(tier1, key=lambda r: (-r["wk_posts"], r["region"], r["name"]))[:90]:
         land = f"{r['region']}" + (f" · {r['sub_region']}" if r['sub_region'] else "")
-        src = ", ".join(r["importer_us"][:1] + [a for a in r["available_at"] if a in ("dte", "fass", "chambers")][:1]) or "—"
+        srcs = r["importer_us"][:1] + [a for a in r["available_at"] if a in ("dte", "chambers")][:1]
+        if r["wk_posts"]:
+            srcs.append(f"WK×{r['wk_posts']}")
+        src = ", ".join(srcs) or "—"
         L.append(f"| {link(r)} | {land} | {r['taste_fit']} | {src} | {'🍷' if r['owned'] else '—'} |")
     L += ["",
           "## Curation backfill — where the graph is thin",

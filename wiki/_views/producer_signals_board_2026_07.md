@@ -13,7 +13,7 @@ The vault's **join layer**: 473 producers, one row each, unifying signals that o
 **Derived judgments (curated decision tables in the script — tune there):**
 
 - **taste_fit** — `core` (on-taste heartland: grower Burgundy/Loire/Champagne/German Riesling/Piedmont/Beaujolais/Jura/Friuli/N-Rhône + the two accepted Napa-Cab tracks) · `adjacent` (plausible, needs a flag: generic Napa, Bordeaux, S-Rhône, Argentina non-bio) · `skip` (opulent CA Syrah/Rhône — SQN/Saxum/Law/Next of Kyn).
-- **trust_tier** — 1 = Evan's most-trusted grower curators (Kermit Lynch, Louis/Dressner, Rosenthal, Polaner, Theise, Zev Rovine + the DTE/Fass/Chambers-championed books) · 2 = trusted broader books (Skurnik, Bowler, Wilson Daniels, Vineyard Brands, …). **This ranking is a starting default — confirm/reorder with Evan.**
+- **trust_tier** — set by Evan (2026-07-22). **Tier 1:** Down to Earth (Panzer), Chambers/CSW (championed), Polaner, David Bowler, Grand Cru, **WK comments** (a William Kelley Berserkers-post signal, `retailers.berserkers_kelley.post_count > 0`), Neal Rosenthal, Skurnik. **Tier 2:** Fass, Raeders + broader trusted books (Kermit Lynch, Louis/Dressner, Theise, Zev Rovine, Wilson Daniels, Vineyard Brands, …).
 - **conviction** — `taste_fit + trust_tier + critic + WB-momentum`, the shortlist rank.
 
 ## High-conviction buy list — on-taste, from a trusted source, not owned (197)
@@ -22,23 +22,23 @@ The money query, resolved once. `core` taste-fit × currently available at a vau
 
 | Conv | Producer | Region / land | Trust | At | Best critic |
 |---:|---|---|:---:|---|---:|
+| 9 | [[dom_perignon\|Dom Pérignon]] | Champagne | T1 | raeders | 98 |
+| 9 | [[taittinger\|Taittinger]] | Champagne | T1 | raeders | 98 |
 | 9 | [[burlotto\|Burlotto]] | Piedmont · Verduno (Barolo) | T1 | chambers | 100 |
 | 9 | [[cavallotto\|Cavallotto]] | Piedmont · Barolo (Castiglione Falletto) | T1 | chambers | 98 |
 | 9 | [[giacomo_conterno\|Giacomo Conterno]] | Piedmont · Barolo (Monforte) | T1 | raeders, chambers | 98 |
 | 8 | [[domaine_duroche\|Domaine Duroché]] | Burgundy · Gevrey-Chambertin | T1 | chambers | 97 |
-| 8 | [[meo_camuzet\|Méo-Camuzet]] | Burgundy · Vosne-Romanée | T1 | raeders | 97 |
-| 8 | [[dom_perignon\|Dom Pérignon]] | Champagne | T2 | raeders | 98 |
+| 8 | [[domaine_leflaive\|Domaine Leflaive]] | Burgundy · Puligny-Montrachet | T1 | raeders | 98 |
+| 8 | [[louis_latour\|Louis Latour]] | Burgundy · Beaune | T1 | raeders | 98 |
 | 8 | [[louis_roederer\|Louis Roederer]] | Champagne | T2 | raeders | 98 |
-| 8 | [[taittinger\|Taittinger]] | Champagne | T2 | raeders | 98 |
 | 8 | [[donnhoff\|Dönnhoff]] | Nahe | T1 | chambers | 96 |
 | 7 | [[cecile_tremblay\|Cecile Tremblay]] | Burgundy · Vosne-Romanée / Chambolle | T1 | chambers | — |
 | 7 | [[domaine_armand_heitz\|Domaine Armand Heitz]] | Burgundy · Pommard / Meursault | T1 | chambers | 96 |
 | 7 | [[domaine_joseph_roty\|Domaine Joseph Roty]] | Burgundy · Gevrey-Chambertin | T1 | chambers | 95 |
-| 7 | [[domaine_leflaive\|Domaine Leflaive]] | Burgundy · Puligny-Montrachet | T2 | raeders | 98 |
 | 7 | [[domaine_de_montille\|Domaine de Montille]] | Burgundy · Volnay / Pommard | T1 | chambers | 96 |
 | 7 | [[hudelot_noellat\|Hudelot Noellat]] | Burgundy | T1 | dte | — |
-| 7 | [[louis_latour\|Louis Latour]] | Burgundy · Beaune | T2 | raeders | 98 |
-| 7 | [[lucien_boillot\|Lucien Boillot]] | Burgundy · Gevrey-Chambertin | T1 | raeders | 96 |
+| 7 | [[meo_camuzet\|Méo-Camuzet]] | Burgundy · Vosne-Romanée | T2 | raeders | 97 |
+| 7 | [[bollinger\|Bollinger]] | Champagne | T1 | raeders | — |
 | 7 | [[clos_rougeard\|Clos Rougeard]] | Loire · Saumur-Champigny | T1 | chambers | — |
 | 7 | [[hofgut_falkenstein\|Hofgut Falkenstein]] | Mosel · Saar (Konz) | T1 | chambers | — |
 | 7 | [[willi_schaefer\|Willi Schaefer]] | Mosel · Graach | T1 | chambers | — |
@@ -60,7 +60,6 @@ The money query, resolved once. `core` taste-fit × currently available at a vau
 | 6 | [[clos_de_la_roilette\|Clos de la Roilette]] | Beaujolais | T1 | dte, chambers | — |
 | 6 | [[desvignes\|Desvignes]] | Beaujolais | T1 | dte, chambers | — |
 | 6 | [[julien_sunier\|Julien Sunier]] | Beaujolais | T1 | dte | — |
-| 6 | [[yvon_metras\|Yvon Métras]] | Beaujolais · Fleurie | T1 | fass | — |
 | 6 | [[albert_morot\|Albert Morot]] | Burgundy · Côte de Beaune | T1 | dte | — |
 | 6 | [[alvina_pernot\|Alvina Pernot]] | Burgundy · Côte de Beaune | T1 | dte | — |
 | 6 | [[amelie_berthaut\|Amélie Berthaut]] | Burgundy | T1 | dte | — |
@@ -72,93 +71,104 @@ The money query, resolved once. `core` taste-fit × currently available at a vau
 | 6 | [[charles_audoin\|Charles Audoin]] | Burgundy | T1 | dte | — |
 | 6 | [[chicotot\|Chicotot]] | Burgundy | T1 | dte | — |
 | 6 | [[chateau_de_la_maltroye\|Château de la Maltroye]] | Burgundy · Chassagne-Montrachet | T1 | dte | — |
+| 6 | [[cyril_audoin\|Cyril Audoin]] | Burgundy | T1 | dte | — |
 
-## Tier-1 trusted-source producers (278)
+## Tier-1 trusted-source producers (293)
 
 Everyone who reaches Evan through a most-trusted curated book. This is the bias he asked for made queryable — start here when shortlisting.
 
 | Producer | Region / land | Fit | Source | Owned? |
 |---|---|:---:|---|:---:|
-| [[agricola_tiberio\|Agricola Tiberio]] | Abruzzo | adjacent | dte | — |
-| [[agathe_bursin\|Agathe Bursin]] | Alsace | core | dte | — |
-| [[beck-hartweg\|Beck-Hartweg]] | Alsace · Dambach-la-Ville | core | chambers | — |
-| [[dirler_cade\|Dirler Cadé]] | Alsace | core | dte | — |
-| [[kientzler\|Kientzler]] | Alsace | core | dte | — |
-| [[laurent_barth\|Laurent Barth]] | Alsace · Bennwihr | core | chambers | — |
-| [[josephus_mayr\|Josephus Mayr]] | Alto Adige / Südtirol | adjacent | dte | — |
-| [[pacherhof\|Pacherhof]] | Alto Adige / Südtirol · Eisacktal | adjacent | dte | — |
-| [[bernhard_huber\|Bernhard Huber]] | Baden | adjacent | Neal Rosenthal, chambers | — |
-| [[enderle__moll\|Enderle & Moll]] | Baden | adjacent | chambers | — |
-| [[sven_enderle\|Sven Enderle]] | Baden | adjacent | dte | 🍷 |
-| [[wasenhaus\|Wasenhaus]] | Baden | adjacent | chambers | — |
-| [[ilarria\|Ilarria]] | Basque (Irouléguy) | adjacent | dte | — |
-| [[urkizahar\|Urkizahar]] | Basque Country | adjacent | dte | — |
-| [[anthony_thevenet\|Anthony Thevenet]] | Beaujolais | core | dte | — |
-| [[clos_de_la_roilette\|Clos de la Roilette]] | Beaujolais | core | - Bowler, dte | — |
-| [[desvignes\|Desvignes]] | Beaujolais | core | - Bowler, dte | — |
-| [[julien_sunier\|Julien Sunier]] | Beaujolais | core | - Polaner, dte | — |
-| [[yvon_metras\|Yvon Métras]] | Beaujolais · Fleurie | core | fass | — |
-| [[castro_ventosa\|Castro Ventosa]] | Bierzo | adjacent | dte | — |
-| [[chateau_brandeau\|Chateau Brandeau]] | Bordeaux · Castillon-Côtes de Bordeaux | adjacent | chambers | — |
-| [[chateau_fonroque\|Chateau Fonroque]] | Bordeaux · Saint-Emilion Grand Cru | adjacent | chambers | — |
-| [[chateau_musar\|Chateau Musar]] | Bordeaux · Bekaa Valley, Lebanon | adjacent | chambers | — |
-| [[chateau_peybonhomme\|Chateau Peybonhomme]] | Bordeaux · Blaye (Côtes de Bordeaux) | adjacent | chambers | — |
-| [[chateau_le_puy\|Château Le Puy]] | Bordeaux · Francs-Côtes de Bordeaux | adjacent | - Neal Rosenthal, chambers | — |
-| [[chateau_la_grolet\|Château la Grolet]] | Bordeaux · Bourg (Côtes de Bordeaux) | adjacent | chambers | — |
-| [[clos_puy_arnaud\|Clos Puy Arnaud]] | Bordeaux · Castillon-Côtes de Bordeaux | adjacent | chambers | — |
-| [[clos_du_jaugueyron\|Clos du Jaugueyron]] | Bordeaux · Médoc (Margaux / Haut-Médoc) | adjacent | chambers | — |
-| [[domaine_uchida\|Domaine Uchida]] | Bordeaux · Haut-Médoc / Pauillac | adjacent | chambers | — |
-| [[elian_da_ros\|Elian Da Ros]] | Bordeaux · Côtes-du-Marmandais (SW France) | adjacent | - Henderson Selections, chambers | — |
-| [[albert_morot\|Albert Morot]] | Burgundy · Côte de Beaune | core | dte | — |
-| [[alvina_pernot\|Alvina Pernot]] | Burgundy · Côte de Beaune | core | dte | — |
-| [[amelie_berthaut\|Amélie Berthaut]] | Burgundy | core | dte | — |
-| [[arnoux_lachaux\|Arnoux Lachaux]] | Burgundy | core | - Bowler, dte | — |
-| [[barraud\|Barraud]] | Burgundy | core | - Skurnik, dte | — |
-| [[benoit_courault\|Benoit Courault]] | Burgundy · Anjou (Loire) | core | - Dressner, chambers | — |
-| [[berthaut-gerbet\|Berthaut-Gerbet]] | Burgundy · Fixin / Gevrey | core | - Bowler, chambers | — |
-| [[bruno_lorenzon\|Bruno Lorenzon]] | Burgundy | core | La Grenouille, dte | 🍷 |
-| [[cecile_tremblay\|Cecile Tremblay]] | Burgundy · Vosne-Romanée / Chambolle | core | chambers | — |
-| [[chandon_de_briailles\|Chandon de Briailles]] | Burgundy · Savigny / Pernand / Corton | core | - Skurnik, chambers | — |
-| [[charles_audoin\|Charles Audoin]] | Burgundy | core | dte | — |
-| [[chicotot\|Chicotot]] | Burgundy | core | dte | — |
-| [[chateau_de_la_maltroye\|Château de la Maltroye]] | Burgundy · Chassagne-Montrachet | core | dte | — |
-| [[cyril_audoin\|Cyril Audoin]] | Burgundy | core | dte | — |
-| [[denis_bachelet\|Denis Bachelet]] | Burgundy | core | dte | — |
-| [[domaine_amiot-servelle\|Domaine Amiot-Servelle]] | Burgundy · Chambolle-Musigny | core | chambers | — |
-| [[domaine_armand_heitz\|Domaine Armand Heitz]] | Burgundy · Pommard / Meursault | core | chambers | — |
-| [[domaine_bart\|Domaine Bart]] | Burgundy · Marsannay / Fixin | core | chambers | 🍷 |
-| [[domaine_boisson\|Domaine Boisson]] | Burgundy · Meursault / Hautes-Côtes de Beaune | core | - Polaner, chambers | — |
-| [[domaine_chantal_lescure\|Domaine Chantal Lescure]] | Burgundy · Meursault → Vougeot | core | chambers | — |
-| [[domaine_chantereves\|Domaine Chanterêves]] | Burgundy | core | chambers | 🍷 |
-| [[domaine_cheveau\|Domaine Cheveau]] | Burgundy · Pouilly-Fuissé | core | - Neal Rosenthal, chambers | — |
-| [[domaine_celine_perrin\|Domaine Céline Perrin]] | Burgundy · Ladoix | core | chambers | — |
-| [[domaine_david_moreau\|Domaine David Moreau]] | Burgundy · Santenay | core | chambers | — |
-| [[domaine_duroche\|Domaine Duroché]] | Burgundy · Gevrey-Chambertin | core | chambers | — |
-| [[domaine_forey\|Domaine Forey]] | Burgundy · Vosne-Romanée / Nuits | core | chambers | — |
-| [[domaine_guillemot-michel\|Domaine Guillemot-Michel]] | Burgundy · Mâcon-Viré | core | - Dressner, chambers | — |
-| [[domaine_jean_chauvenet\|Domaine Jean Chauvenet]] | Burgundy · Nuits-Saint-Georges | core | chambers | — |
-| [[domaine_joseph_roty\|Domaine Joseph Roty]] | Burgundy · Gevrey-Chambertin | core | chambers | — |
-| [[domaine_laroche\|Domaine Laroche]] | Burgundy · Chablis | core | - Wilson Daniels, chambers | — |
-| [[domaine_lienhardt\|Domaine Lienhardt]] | Burgundy · Côte de Nuits Villages | core | chambers | — |
-| [[domaine_pavelot\|Domaine Pavelot]] | Burgundy · Pernand-Vergelesses | core | chambers | — |
-| [[domaine_rossignol-fevrier\|Domaine Rossignol-Fevrier]] | Burgundy · Volnay | core | chambers | — |
-| [[domaine_simon_bize\|Domaine Simon Bize]] | Burgundy · Savigny-lès-Beaune | core | - Dressner, chambers | — |
-| [[simon_bize\|Domaine Simon Bize]] | Burgundy · Savigny-lès-Beaune | core | Dressner | — |
-| [[domaine_trapet\|Domaine Trapet]] | Burgundy · Gevrey-Chambertin | core | - Polaner, chambers | — |
-| [[dauvissat\|Domaine Vincent Dauvissat]] | Burgundy · Chablis | core | Kermit Lynch | — |
-| [[domaine_de_chassorney\|Domaine de Chassorney]] | Burgundy · Saint-Romain / Volnay | core | chambers | — |
-| [[domaine_de_montille\|Domaine de Montille]] | Burgundy · Volnay / Pommard | core | - Kysela, chambers | — |
-| [[dujardin\|Dujardin]] | Burgundy | core | dte | — |
-| [[duplessis_chablis\|Duplessis Chablis]] | Burgundy · Chablis | core | - Dressner, chambers | — |
-| [[fanny_sabre\|Fanny Sabre]] | Burgundy · Beaune / Pommard | core | - Wine Source, chambers | — |
-| [[francois_bertheau\|Francois Bertheau]] | Burgundy | core | dte | — |
-| [[francois_buffet\|François Buffet]] | Burgundy | core | dte | — |
-| [[georges_glantenay\|Georges Glantenay]] | Burgundy | core | - Polaner, dte | — |
-| [[georges_noellat\|Georges Noëllat]] | Burgundy | core | - Skurnik, dte | — |
-| [[gerard_julien\|Gerard Julien]] | Burgundy | core | dte | — |
-| [[gerard_mugneret\|Gerard Mugneret]] | Burgundy · Vosne-Romanée | core | dte | — |
-| [[gilles__jean__maxime_lafouge\|Gilles / Jean / Maxime Lafouge]] | Burgundy · Auxey-Duresses | core | - Polaner | — |
-| [[goisot\|Goisot]] | Burgundy | core | - Polaner, dte | — |
+| [[ramonet\|Ramonet]] | Burgundy · Chassagne-Montrachet | core | WK×99 | — |
+| [[domaine_leflaive\|Domaine Leflaive]] | Burgundy · Puligny-Montrachet | core | Wilson Daniels, WK×44 | — |
+| [[dom_perignon\|Dom Pérignon]] | Champagne | core | WK×23 | — |
+| [[bollinger\|Bollinger]] | Champagne | core | WK×18 | — |
+| [[chateau_palmer\|Château Palmer]] | Bordeaux · Margaux | adjacent | BNP, WK×17 | — |
+| [[taittinger\|Taittinger]] | Champagne | core | WK×16 | — |
+| [[domaine_duroche\|Domaine Duroché]] | Burgundy · Gevrey-Chambertin | core | chambers, WK×15 | — |
+| [[clos_rougeard\|Clos Rougeard]] | Loire · Saumur-Champigny | core | chambers, WK×14 | — |
+| [[chateau_pape_clement\|Château Pape Clément]] | Bordeaux · Pessac-Léognan | adjacent | WK×13 | — |
+| [[domaine_levet\|Domaine Levet]] | Rhône · Côte-Rôtie | core | Kermit Lynch, chambers, WK×13 | — |
+| [[desvignes\|Desvignes]] | Beaujolais | core | Bowler, dte, WK×12 | — |
+| [[bruno_lorenzon\|Bruno Lorenzon]] | Burgundy | core | La Grenouille, dte, WK×12 | 🍷 |
+| [[chateau_haut_bailly\|Château Haut-Bailly]] | Bordeaux · Pessac-Léognan | adjacent | WK×9 | — |
+| [[chateau_lynch_bages\|Château Lynch-Bages]] | Bordeaux · Pauillac | adjacent | WK×9 | — |
+| [[chateau_leoville_barton\|Château Léoville Barton]] | Bordeaux · Saint-Julien | adjacent | BNP, WK×9 | — |
+| [[cecile_tremblay\|Cecile Tremblay]] | Burgundy · Vosne-Romanée / Chambolle | core | chambers, WK×9 | — |
+| [[larmandier_bernier\|Larmandier Bernier]] | Champagne | core | Polaner, dte, WK×9 | — |
+| [[clos_de_la_roilette\|Clos de la Roilette]] | Beaujolais | core | Bowler, dte, WK×8 | — |
+| [[arnoux_lachaux\|Arnoux Lachaux]] | Burgundy | core | Bowler, dte, WK×8 | — |
+| [[rapet_pere_et_fils\|Rapet Père et Fils]] | Burgundy · Pernand-Vergelesses | core | Polaner, WK×8 | — |
+| [[allemand\|Allemand]] | Rhône · Cornas | core | Kermit Lynch, chambers, WK×8 | — |
+| [[chandon_de_briailles\|Chandon de Briailles]] | Burgundy · Savigny / Pernand / Corton | core | Skurnik, chambers, WK×7 | — |
+| [[domaine_trapet\|Domaine Trapet]] | Burgundy · Gevrey-Chambertin | core | Polaner, chambers, WK×7 | — |
+| [[domaine_de_montille\|Domaine de Montille]] | Burgundy · Volnay / Pommard | core | Kysela, chambers, WK×7 | — |
+| [[hudelot_noellat\|Hudelot Noellat]] | Burgundy | core | Henderson Selections, dte, WK×7 | — |
+| [[chateau_ducru_beaucaillou\|Château Ducru-Beaucaillou]] | Bordeaux · Saint-Julien | adjacent | BNP, WK×6 | — |
+| [[willi_schaefer\|Willi Schaefer]] | Mosel · Graach | core | Skurnik, chambers, WK×6 | — |
+| [[barraud\|Barraud]] | Burgundy | core | Skurnik, dte, WK×5 | — |
+| [[georges_noellat\|Georges Noëllat]] | Burgundy | core | Skurnik, dte, WK×5 | — |
+| [[julien_guillot__vignes_du_maynes\|Julien Guillot / Vignes du Maynes]] | Burgundy · Mâcon / Cruzille | core | Dressner, WK×5 | — |
+| [[michel_mallard\|Michel Mallard]] | Burgundy | core | dte, WK×5 | — |
+| [[chateau_phelan_segur\|Château Phélan-Ségur]] | Bordeaux · Saint-Estèphe | adjacent | WK×4 | — |
+| [[domaine_de_chevalier\|Domaine de Chevalier]] | Bordeaux · Pessac-Léognan | adjacent | WK×4 | — |
+| [[denis_bachelet\|Denis Bachelet]] | Burgundy | core | dte, WK×4 | — |
+| [[domaine_boisson\|Domaine Boisson]] | Burgundy · Meursault / Hautes-Côtes de Beaune | core | Polaner, chambers, WK×4 | — |
+| [[domaine_joseph_roty\|Domaine Joseph Roty]] | Burgundy · Gevrey-Chambertin | core | chambers, WK×4 | — |
+| [[pierre-yves_colin-morey\|Pierre-Yves Colin-Morey]] | Burgundy · St-Aubin / Chassagne | core | chambers, WK×4 | — |
+| [[pierre_peters\|Pierre Peters]] | Champagne · Le Mesnil-sur-Oger | core | Grand Cru Selections, WK×4 | — |
+| [[chateau_cantemerle\|Château Cantemerle]] | Bordeaux · Haut-Médoc | adjacent | WK×3 | — |
+| [[domaine_simon_bize\|Domaine Simon Bize]] | Burgundy · Savigny-lès-Beaune | core | Dressner, chambers, WK×3 | — |
+| [[joseph_voillot\|Joseph Voillot]] | Burgundy · Volnay / Pommard | core | chambers, WK×3 | — |
+| [[schrader_cellars\|Schrader Cellars]] | California · Napa Valley (Beckstoffer To Kalon) | adjacent | WK×3 | — |
+| [[boulay\|Boulay]] | Loire | core | Polaner, dte, WK×3 | — |
+| [[billon\|Billon]] | Rhône | adjacent | dte, WK×3 | — |
+| [[domaine_charvin\|Domaine Charvin]] | Rhône · Châteauneuf-du-Pape | adjacent | Kermit Lynch, chambers, WK×3 | — |
+| [[biondi_santi\|Biondi-Santi]] | Tuscany · Brunello di Montalcino | adjacent | Wilson Daniels, WK×3 | — |
+| [[chateau_calon_segur\|Château Calon-Ségur]] | Bordeaux · Saint-Estèphe | adjacent | BNP, WK×2 | — |
+| [[chateau_gruaud_larose\|Château Gruaud-Larose]] | Bordeaux · Saint-Julien | adjacent | BNP, WK×2 | — |
+| [[chateau_lafite_rothschild\|Château Lafite Rothschild]] | Bordeaux · Pauillac | adjacent | BNP, WK×2 | — |
+| [[chateau_rauzan_segla\|Château Rauzan-Ségla]] | Bordeaux · Margaux | adjacent | WK×2 | — |
+| [[charles_audoin\|Charles Audoin]] | Burgundy | core | dte, WK×2 | — |
+| [[chicotot\|Chicotot]] | Burgundy | core | dte, WK×2 | — |
+| [[domaine_armand_heitz\|Domaine Armand Heitz]] | Burgundy · Pommard / Meursault | core | chambers, WK×2 | — |
+| [[domaine_guillemot-michel\|Domaine Guillemot-Michel]] | Burgundy · Mâcon-Viré | core | Dressner, chambers, WK×2 | — |
+| [[domaine_laroche\|Domaine Laroche]] | Burgundy · Chablis | core | Wilson Daniels, chambers, WK×2 | — |
+| [[jean_javillier\|Jean Javillier]] | Burgundy | core | dte, WK×2 | — |
+| [[louis_latour\|Louis Latour]] | Burgundy · Beaune | core | WK×2 | — |
+| [[michel_niellon\|Michel Niellon]] | Burgundy · Chassagne-Montrachet | core | WK×2 | — |
+| [[robert_ampeau\|Robert Ampeau]] | Burgundy · Meursault / Auxey | core | chambers, WK×2 | — |
+| [[arnot-roberts\|Arnot-Roberts]] | California · Sonoma County (North Coast Trousseau & Jura varieties) | adjacent | Polaner, chambers, WK×2 | — |
+| [[laherte\|Laherte]] | Champagne | core | dte, WK×2 | — |
+| [[zilliken\|Zilliken]] | Mosel · Saar (Saarburg) | core | Skurnik, chambers, WK×2 | — |
+| [[burlotto\|Burlotto]] | Piedmont · Verduno (Barolo) | core | Wildman, chambers, WK×2 | — |
+| [[giacomo_conterno\|Giacomo Conterno]] | Piedmont · Barolo (Monforte) | core | Polaner, chambers, WK×2 | — |
+| [[clos_du_mont_olivet\|Clos du Mont Olivet]] | Rhône | adjacent | Skurnik, dte, WK×2 | — |
+| [[julien_sunier\|Julien Sunier]] | Beaujolais | core | Polaner, dte, WK×1 | — |
+| [[chateau_musar\|Chateau Musar]] | Bordeaux · Bekaa Valley, Lebanon | adjacent | chambers, WK×1 | — |
+| [[chateau_smith_haut_lafitte\|Château Smith-Haut-Lafitte]] | Bordeaux · Pessac-Léognan | adjacent | WK×1 | — |
+| [[berthaut-gerbet\|Berthaut-Gerbet]] | Burgundy · Fixin / Gevrey | core | Bowler, chambers, WK×1 | — |
+| [[domaine_lienhardt\|Domaine Lienhardt]] | Burgundy · Côte de Nuits Villages | core | chambers, WK×1 | — |
+| [[francois_bertheau\|Francois Bertheau]] | Burgundy | core | dte, WK×1 | — |
+| [[gerard_julien\|Gerard Julien]] | Burgundy | core | dte, WK×1 | — |
+| [[guillot_broux\|Guillot-Broux]] | Burgundy | core | dte, WK×1 | — |
+| [[jean_collet\|Jean Collet]] | Burgundy | core | dte, WK×1 | — |
+| [[jean_pierre_guyon\|Jean Pierre Guyon]] | Burgundy | core | dte, WK×1 | — |
+| [[marchand_tawse\|Marchand Tawse]] | Burgundy | core | dte, WK×1 | — |
+| [[michel_noellat\|Michel Noellat]] | Burgundy | core | dte, WK×1 | — |
+| [[simon_colin\|Simon Colin]] | Burgundy · Chassagne-Montrachet | core | chambers, WK×1 | — |
+| [[screaming_eagle\|Screaming Eagle]] | California · Napa Valley (Oakville) | adjacent | WK×1 | — |
+| [[petit_clergeot\|Petit Clergeot]] | Champagne | core | dte, WK×1 | — |
+| [[domaine_montbourgeau\|Domaine Montbourgeau]] | Jura · L'Étoile | core | chambers, WK×1 | — |
+| [[jacques_puffeney\|Jacques Puffeney]] | Jura · Arbois (retired 2014) | core | Dressner, chambers, WK×1 | — |
+| [[stephane_tissot\|Stéphane Tissot]] | Jura · Arbois | core | Skurnik, chambers, WK×1 | — |
+| [[domaine_baudry\|Domaine Baudry]] | Loire · Chinon | core | Polaner, chambers, WK×1 | — |
+| [[richter\|Richter]] | Mosel | core | dte, WK×1 | — |
+| [[donnhoff\|Dönnhoff]] | Nahe | core | Skurnik, chambers, WK×1 | — |
+| [[rings\|Rings]] | Pfalz · Freinsheim | adjacent | dte, WK×1 | — |
+| [[roagna\|Roagna]] | Piedmont · Barbaresco / Barolo | core | Polaner, chambers, WK×1 | 🍷 |
+| [[domaine_rousset\|Domaine Rousset]] | Rhône · Crozes-Hermitage / Saint-Joseph | adjacent | chambers, WK×1 | 🍷 |
+| [[domaine_des_ardoisieres\|Domaine des Ardoisières]] | Rhône · Savoie (Cevins) | adjacent | Dressner, chambers, WK×1 | — |
 
 ## Curation backfill — where the graph is thin
 
@@ -171,4 +181,4 @@ The join is only as good as the fields it reads. Coverage across 473 producers (
 
 ## Link integrity (graph edges)
 
-**827 distinct broken `[[wikilink]]` targets** (1846 occurrences) across wiki + _views + cellar — edges that point at nothing, so multi-hop traversal dead-ends. Top offenders and the fix plan are in [[data_quality_integration_review_2026_07]] (rec #2). Making `lint.py` validate every target turns this into a build-time gate.
+**774 distinct broken `[[wikilink]]` targets** (1715 occurrences) across wiki + _views + cellar — edges that point at nothing, so multi-hop traversal dead-ends. Top offenders and the fix plan are in [[data_quality_integration_review_2026_07]] (rec #2). Making `lint.py` validate every target turns this into a build-time gate.
