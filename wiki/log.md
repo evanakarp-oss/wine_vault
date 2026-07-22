@@ -1253,3 +1253,19 @@ and flags un-paged on-taste producers (e.g. Mugneret-Gibourg) for onboarding
 without auto-creating. Durable weekly Routine (Mon 09:07 ET) drafted — pending
 Evan's approval of the scheduler permission. Follow-up (data quality): probable
 duplicate Bouley page — `jean_marc_et_thomas_bouley` vs `thomas_et_jean_marc_bouley`.
+
+## [2026-07-22] view | Critic Ratings Board — roll up 657 landed ratings
+
+Turned already-collected-but-unsurfaced data into a view. The critic-ratings
+pipeline lands ~657 rating rows across 72 producer pages (auction catalogs +
+Raeders 2026-04-25) into per-page `## Critic Ratings` tables — readable only one
+producer at a time, no rollup. New `scripts/build_ratings_board.py` (idempotent,
+`--check` gate) scans every page, parses the rows (handles `96+` / `92-94`
+ranges), joins region + retailer `in_portfolio` availability, and emits
+[[critic_ratings_board_2026_07]]: a "buyable now, 96+" shortlist (213 wines),
+the top-50 overall, and deepest-benchmark producers by count of 95+ wines. This
+is the cross-producer summary `/ask-cellar` used to re-derive by hand. Data
+provenance + Raeders staleness (2026-04-25) stamped in the view frontmatter.
+Broader integration backlog (unified signal layer, freshness model, CRLF/broken-
+wikilink `--fix`, empty Vinous/WA/LPV/Vinolist pipes) is already ranked in
+[[data_quality_integration_review_2026_07]].
