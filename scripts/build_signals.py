@@ -56,6 +56,11 @@ IMPORTER_TIER = {
 # are Tier 1 per Evan; Fass + Raeders are trusted Tier 2.
 RETAILER_TRUST = {"dte": 1, "chambers_championed": 1, "fass": 2, "raeders": 2}
 
+# "WK comments" is a graded volume signal, not binary (Evan, 2026-07-22): a ton of
+# William Kelley Berserkers posts = Tier 1, one or two ≠ trust. Cutoffs are tunable.
+WK_TIER1_MIN = 10   # "a ton" → Tier 1  (12 producers: Ramonet 99 … Clos Rougeard 14)
+WK_TIER2_MIN = 4    # repeated signal → Tier 2; 1–3 posts confer no trust on their own
+
 # taste_fit — regions that are the on-taste heartland (grower / terroir).
 REGION_CORE = {
     "Burgundy", "Loire", "Champagne", "Mosel", "Nahe", "Piedmont", "Beaujolais",
@@ -155,8 +160,11 @@ def compute_trust(fm, importers):
     t = importer_tier(importers)
     if t:
         tiers.append(t)
-    if wk_posts(fm) > 0:          # WK comments → Tier 1 (Evan, 2026-07-22)
+    wk = wk_posts(fm)             # WK comments: graded, not binary (Evan, 2026-07-22)
+    if wk >= WK_TIER1_MIN:
         tiers.append(1)
+    elif wk >= WK_TIER2_MIN:
+        tiers.append(2)
     for r, tier in RETAILER_TRUST.items():
         if r == "chambers_championed":
             if chambers_championed(fm):
@@ -300,10 +308,11 @@ def main() -> int:
          "`adjacent` (plausible, needs a flag: generic Napa, Bordeaux, S-Rhône, Argentina non-bio) · "
          "`skip` (opulent CA Syrah/Rhône — SQN/Saxum/Law/Next of Kyn).",
          "- **trust_tier** — set by Evan (2026-07-22). **Tier 1:** Down to Earth (Panzer), "
-         "Chambers/CSW (championed), Polaner, David Bowler, Grand Cru, **WK comments** (a William "
-         "Kelley Berserkers-post signal, `retailers.berserkers_kelley.post_count > 0`), Neal "
-         "Rosenthal, Skurnik. **Tier 2:** Fass, Raeders + broader trusted books (Kermit Lynch, "
-         "Louis/Dressner, Theise, Zev Rovine, Wilson Daniels, Vineyard Brands, …).",
+         "Chambers/CSW (championed), Polaner, David Bowler, Grand Cru, **WK comments — ≥10 posts** "
+         "(a graded William Kelley Berserkers signal, `retailers.berserkers_kelley.post_count`), "
+         "Neal Rosenthal, Skurnik. **Tier 2:** Fass, Raeders, **WK comments 4–9 posts** + broader "
+         "trusted books (Kermit Lynch, Louis/Dressner, Theise, Zev Rovine, Wilson Daniels, Vineyard "
+         "Brands, …). A lone WK mention (1–3) confers no trust on its own.",
          "- **conviction** — `taste_fit + trust_tier + critic + WB-momentum`, the shortlist rank.",
          "",
          f"## High-conviction buy list — on-taste, from a trusted source, not owned ({len(core_buy)})",

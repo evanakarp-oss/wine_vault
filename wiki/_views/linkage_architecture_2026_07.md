@@ -70,20 +70,22 @@ Trust in a producer = trust in the book that curated it. Decision table in the
 script (`IMPORTER_TIER` / `RETAILER_TRUST`), tunable:
 
 - **Tier 1 (set by Evan, 2026-07-22)** — Down to Earth (Panzer), Chambers/CSW
-  (championed), Polaner, David Bowler, Grand Cru, **WK comments**, Neal Rosenthal,
-  Skurnik. "WK comments" is a first-class trust signal, not an importer: it's
+  (championed), Polaner, David Bowler, Grand Cru, **WK comments ≥10**, Neal
+  Rosenthal, Skurnik. "WK comments" is a first-class trust signal, not an importer:
   William Kelley's Berserkers posts about the producer
-  (`retailers.berserkers_kelley.post_count > 0` — 93 producers, e.g. Ramonet ×99,
-  Leflaive ×44, Duroché ×15, Clos Rougeard ×14).
-- **Tier 2** — Fass, Raeders + broader trusted books: Kermit Lynch, Louis/Dressner,
-  Terry Theise, Zev Rovine, Wilson Daniels, Vineyard Brands, Wasserman, Wildman,
-  Henderson, BNP, Banville.
+  (`retailers.berserkers_kelley.post_count`). It's **graded, not binary** — a ton of
+  posts (≥10: 12 producers, Ramonet ×99, Leflaive ×44, Duroché ×15, Clos Rougeard
+  ×14) is Tier 1; 4–9 is Tier 2; **1–3 confers no trust on its own** (a lone mention
+  isn't an endorsement).
+- **Tier 2** — Fass, Raeders, WK comments 4–9 + broader trusted books: Kermit Lynch,
+  Louis/Dressner, Terry Theise, Zev Rovine, Wilson Daniels, Vineyard Brands,
+  Wasserman, Wildman, Henderson, BNP, Banville.
 - **unresolved** (30%) — no importer + not in a trusted book/signal → invisible
   trust, the #1 backfill target.
 
-Result: **293 Tier-1, 39 Tier-2, 70% resolved.** Tier 1 is broad because CSW and
-DTE are large curated books — which is exactly the intended bias. Reorder the
-`IMPORTER_TIER` / `RETAILER_TRUST` tables + the WK hook in `build_signals.py` to tune.
+Result: **275 Tier-1, 57 Tier-2, 70% resolved.** Tier 1 is broad because CSW and
+DTE are large curated books — the intended bias. Tune the `IMPORTER_TIER` /
+`RETAILER_TRUST` tables + `WK_TIER1_MIN`/`WK_TIER2_MIN` in `build_signals.py`.
 
 ### taste_fit (the "styles I'm drawn to")
 

@@ -1315,3 +1315,14 @@ frontmatter-parser bug (`\s*` after a key crossed newlines → list values kept 
 `- ` prefix) and made block-list parsing indentation-tolerant + the link-integrity
 scan skip its own board (single-pass fixed point). Result: 293 Tier-1 / 39 Tier-2
 / 70% resolved. Updated [[producer_signals_board_2026_07]] + [[linkage_architecture_2026_07]].
+
+## [2026-07-22] signals | WK-comments trust made a graded gradient
+
+Per Evan: a lone William Kelley mention shouldn't confer Tier-1 trust — only a
+volume of comments should. Replaced the binary `post_count > 0 → Tier 1` with a
+gradient (tunable constants `WK_TIER1_MIN`/`WK_TIER2_MIN` in `build_signals.py`):
+**≥10 posts → Tier 1** (12 producers: Ramonet 99, Leflaive 44, Dom P 23, Bollinger,
+Palmer, Taittinger, Duroché, Clos Rougeard, …), **4–9 → Tier 2**, **1–3 → no trust
+on its own**. Grounded in the distribution (of 93 WK-mentioned producers, 47 are
+just 1–2 posts). Net: 293→275 Tier-1, 39→57 Tier-2. Updated
+[[producer_signals_board_2026_07]] + [[linkage_architecture_2026_07]].
