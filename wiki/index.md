@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 1016
+total_pages: 1025
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**1016 pages indexed.**
+**1025 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -40,7 +40,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Jujuy_Producers|Jujuy Producers]] — **2 producers** tracked.
 - [[Jura_Producers|Jura Producers]] — **14 producers** tracked.
 - [[Liguria_Producers|Liguria Producers]] — **1 producers** tracked.
-- [[Loire_Producers|Loire Producers]] — **12 producers** tracked.
+- [[Loire_Producers|Loire Producers]] — **21 producers** tracked.
 - [[Marche_Producers|Marche Producers]] — **1 producers** tracked.
 - [[Mendoza_Producers|Mendoza Producers]] — **62 producers** tracked.
 - [[Mosel_Producers|Mosel Producers]] — **22 producers** tracked.
@@ -272,7 +272,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_470 producers across 40 regions._
+_479 producers across 40 regions._
 
 ### Abruzzo
 
@@ -608,16 +608,25 @@ _470 producers across 40 regions._
 
 - [[bernard_baudry|Bernard Baudry]] — Loire · CSW ★4/20 · DTE 2
 - [[boulay|Boulay]] — Loire · CSW 2 · DTE 1
+- [[catherine_pierre_breton|Catherine & Pierre Breton]] — Loire / Bourgueil / Chinon (Restigné) · organic, biodynamic · CSW ★1/2
+- [[charles_joguet|Charles Joguet]] — Loire / Chinon (Sazilly) · organic
 - [[clos_rougeard|Clos Rougeard]] — Loire / Saumur-Champigny · natural · CSW ★2/11
+- [[couly_dutheil|Couly-Dutheil]] — Loire / Chinon
 - [[domaine_baudry|Domaine Baudry]] — Loire / Chinon · organic · CSW ★20/45
+- [[domaine_de_la_butte|Domaine de la Butte]] — Loire / Bourgueil
 - [[domaine_de_la_chevalerie|Domaine de la Chevalerie]] — Loire / Bourgueil · organic · CSW ★5/15
 - [[domaine_des_roches_neuves|Domaine des Roches Neuves]] — Loire / Saumur-Champigny · biodynamic · FASS
 - [[domaine_fl|Domaine FL]] — Loire / Savennières · DTE 1
 - [[francois_chidaine|François Chidaine]] — Loire / Montlouis-sur-Loire · biodynamic · DTE 1
 - [[huet|Domaine Huet]] — Loire / Vouvray · biodynamic
+- [[lame_delisle_boucard|Lamé Delisle Boucard]] — Loire / Touraine (Ingrandes-de-Touraine)
+- [[mabileau|Jean-Paul & Mathieu Mabileau]] — Loire / St-Nicolas-de-Bourgueil
+- [[olga_raffault|Domaine Olga Raffault]] — Loire / Chinon (Savigny-en-Véron) · organic · CSW ★2/5
+- [[philippe_alliet|Philippe Alliet]] — Loire / Chinon (Cravant)
 - [[philippe_foreau|Philippe Foreau]] — Loire / Vouvray · DTE 3
 - [[philippe_gilbert|Philippe Gilbert]] — Loire / Menetou-Salon · biodynamic · DTE 6
 - [[stephane_guion|Stéphane Guion]] — Loire / Bourgueil · organic since 1965 · CSW ★9/17
+- [[yannick_amirault|Yannick Amirault]] — Loire / Bourgueil / St-Nicolas-de-Bourgueil · organic
 
 ### Marche
 
