@@ -1280,3 +1280,23 @@ since DTE is a fully-curated import book. Swept Panzer's last year of email
 [[mugneret_gibourg]]. Codified the rule in CLAUDE.md (conventions) and the
 `/email-sweep` skill (DTE = auto-create, Fass = curated queue). Cleared the offers-
 view onboard queue. Rebuilt rollups + index; lint clean.
+
+## [2026-07-22] pipeline | signals join layer — link producers × land × style × trusted source
+
+Built the vault's join layer to make multi-hop questions (producer × land ×
+vintage × style × source) pull from one place instead of re-deriving across
+dozens of pages. Measured field coverage first (473 producers): sub_region 76%,
+appellations 17% (the cru-level 'land' gap), farming 39%, importer_us 27% (the
+trust signal). New `scripts/build_signals.py` joins land + style + retailer
+availability + best critic score + WB rank + cellar ownership per producer and
+derives two curated judgments encoding Evan's taste + trusted-source bias:
+`taste_fit` (core/adjacent/off/skip from the CLAUDE.md rules — SQN→skip, Bond→core,
+grower Champagne/Rhône→core) and `trust_tier` (1 = Kermit/Dressner/Rosenthal/
+Polaner/Theise/Rovine + DTE/Fass/Chambers books; 2 = Skurnik/Bowler/…; resolves
+70% via importer+retailer), plus a `conviction` rank. Emits build/producer_signals.json
+(machine copy for /ask-cellar) + [[producer_signals_board_2026_07]] (read surface:
+197-row on-taste × trusted × available × not-owned buy list, tier-1 roster, curation
+backfill stats, ~770 broken-link report). Design + roadmap in
+[[linkage_architecture_2026_07]]. Wired `/ask-cellar` to read signals first; added
+build_signals/build_ratings_board/build_views_index `--check` to CI. The trust
+ranking is a tunable default — flagged for Evan to reorder. lint clean.

@@ -34,6 +34,12 @@ jobs:
       - name: wiki/log.md entries follow canonical format
         run: python scripts/build_wiki_log.py --check
 
+      - name: generated views are up to date (index, signals, ratings board)
+        run: |
+          python scripts/build_views_index.py --check
+          python scripts/build_signals.py --check
+          python scripts/build_ratings_board.py --check
+
       - name: producer schema + taxonomy lint passes clean
         # Strict gate: any new region taxonomy violation, mojibake
         # filename, surname collision (without aliases), or producer

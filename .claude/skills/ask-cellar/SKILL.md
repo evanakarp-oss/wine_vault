@@ -35,7 +35,17 @@ history").
 
 ## Read order
 
-1. `wiki/index.md` — catalog of all 423 pages. Find candidates by
+0. **For any question that spans producers / land / style / source / ownership
+   (i.e. anything needing a join, not a single-page lookup): read the signals
+   layer FIRST.** `build/producer_signals.json` (Claude Code sessions — the machine
+   copy) or [[producer_signals_board_2026_07]] (via the GitHub connector). It's the
+   pre-computed join of land + style + `trust_tier` + availability + critic +
+   ownership + `taste_fit` + `conviction` for all producers. Shortlist from it,
+   then drill in. Regenerate with `python scripts/build_signals.py` if stale.
+   Rank with `taste_fit` (core > adjacent; never surface `skip`) and `trust_tier`
+   (1 > 2) — this is Evan's taste + trusted-source bias, encoded. Architecture:
+   [[linkage_architecture_2026_07]].
+1. `wiki/index.md` — catalog of all pages. Find candidates by
    region / importer / retailer / producer / cellar entry.
 2. `wiki/_TAXONOMY.md` — confirm region names and farming enum values.
 3. The candidate pages themselves (`wiki/producers/<slug>.md`,

@@ -9,7 +9,7 @@ generator: scripts/build_views_index.py
 
 Catalog of every keeper-answer page in `wiki/_views/` — the single read surface for saved analyses (gap analysis, drink-window shortlists, cross-retailer comparisons, critic overlays). The main `wiki/index.md` skips this directory, so this is where views are cataloged.
 
-**100 views.**
+**102 views.**
 
 | Page | Question / title | Updated |
 |---|---|---|
@@ -62,6 +62,7 @@ Catalog of every keeper-answer page in `wiki/_views/` — the single read surfac
 | [[kelley_instagram_producers|kelley_instagram_producers]] | Which wine producers does William Kelley follow on Instagram? | 2026-06-06 |
 | [[kermit_lynch_at_raeders|kermit_lynch_at_raeders]] | Kermit Lynch × Raeder's — Inventory Cross-Check | 2026-05-21 |
 | [[lighter_medium_reds_non_pinot_2026_06|lighter_medium_reds_non_pinot_2026_06]] | I want more lighter-to-medium reds but don't want to be over-exposed to Pinot. What should I collect? |  |
+| [[linkage_architecture_2026_07|linkage_architecture_2026_07]] | How should the vault link producers × land × vintage × style × trusted source so multi-hop questions pull from multiple places? | 2026-07-22 |
 | [[lowest_alcohol_tuscan_umbrian_veneto_reds_2026_05|lowest_alcohol_tuscan_umbrian_veneto_reds_2026_05]] | Lowest-Alcohol Tuscan / Umbrian / Veneto Reds at Raeders | 2026-05-31 |
 | [[lpv_signal_map_french_regions_2026_06|lpv_signal_map_french_regions_2026_06]] | On La Passion du Vin (LPV), where is the community signal exceptionally strong — across the French regions Evan cares about? | 2026-06-18 |
 | [[maison_pierre_brisset_non_english_sources_2026_06|maison_pierre_brisset_non_english_sources_2026_06]] | What do non-English sources (French + Japanese) say about Maison Pierre Brisset? | 2026-06-11 |
@@ -70,6 +71,7 @@ Catalog of every keeper-answer page in `wiki/_views/` — the single read surfac
 | [[offers_2026-05-25|offers_2026-05-25]] | Weekly Offers Roundup — 2026-05-25 |  |
 | [[offers_2026-05-25_csw_flash_top_picks|offers_2026-05-25_csw_flash_top_picks]] | CSW Memorial Day 2026 Flash Sale — Most Essential Picks |  |
 | [[polaner_at_raeders|polaner_at_raeders]] | Polaner × Raeder's — Inventory Cross-Check | 2026-05-21 |
+| [[producer_signals_board_2026_07|producer_signals_board_2026_07]] | Joined per-producer signal graph — land + style + trust + availability + critic + ownership — ranked by conviction. | 2026-07-22 |
 | [[r_squared_picks_2026_05_27|r_squared_picks_2026_05_27]] | What looks most compelling from R-Squared Wine's 2026-05-27 offer list? | 2026-05-27 |
 | [[r_squared_picks_2026_06_17|r_squared_picks_2026_06_17]] | What's most interesting on R Squared Selections' 2026-06-17 inventory — especially the obscure regions (Jura, Savoie, Friuli)? | 2026-06-17 |
 | [[racking_2k_cellar|racking_2k_cellar]] | Racking the 2,000-Bottle Cellar — Ladder-Style Single-Bottle | 2026-05-19 |
