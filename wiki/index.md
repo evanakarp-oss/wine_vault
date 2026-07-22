@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 987
+total_pages: 1003
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**987 pages indexed.**
+**1003 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -29,10 +29,10 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Beaujolais_Producers|Beaujolais Producers]] — **4 producers** tracked.
 - [[Bierzo_Producers|Bierzo Producers]] — **1 producers** tracked.
 - [[Bordeaux_Producers|Bordeaux Producers]] — **25 producers** tracked.
-- [[Burgundy_Producers|Burgundy Producers]] — **93 producers** tracked.
+- [[Burgundy_Producers|Burgundy Producers]] — **100 producers** tracked.
 - [[California_Producers|California Producers]] — **23 producers** tracked.
 - [[Catalonia_Producers|Catalonia Producers]] — **1 producers** tracked.
-- [[Champagne_Producers|Champagne Producers]] — **17 producers** tracked.
+- [[Champagne_Producers|Champagne Producers]] — **22 producers** tracked.
 - [[Colli_Tortonesi_Producers|Colli Tortonesi Producers]] — **1 producers** tracked.
 - [[Corsica_Producers|Corsica Producers]] — **1 producers** tracked.
 - [[Franken_Producers|Franken Producers]] — **2 producers** tracked.
@@ -40,7 +40,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Jujuy_Producers|Jujuy Producers]] — **2 producers** tracked.
 - [[Jura_Producers|Jura Producers]] — **14 producers** tracked.
 - [[Liguria_Producers|Liguria Producers]] — **1 producers** tracked.
-- [[Loire_Producers|Loire Producers]] — **7 producers** tracked.
+- [[Loire_Producers|Loire Producers]] — **11 producers** tracked.
 - [[Marche_Producers|Marche Producers]] — **1 producers** tracked.
 - [[Mendoza_Producers|Mendoza Producers]] — **62 producers** tracked.
 - [[Mosel_Producers|Mosel Producers]] — **19 producers** tracked.
@@ -272,7 +272,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_441 producers across 40 regions._
+_457 producers across 40 regions._
 
 ### Abruzzo
 
@@ -346,6 +346,8 @@ _441 producers across 40 regions._
 
 ### Burgundy
 
+- [[albert_morot|Albert Morot]] — Burgundy / Côte de Beaune · DTE 2
+- [[alvina_pernot|Alvina Pernot]] — Burgundy / Côte de Beaune · DTE 2
 - [[amelie_berthaut|Amélie Berthaut]] — Burgundy · CSW 1 · DTE 1
 - [[arnoux_lachaux|Arnoux Lachaux]] — Burgundy · DTE 16
 - [[barraud|Barraud]] — Burgundy · DTE 5
@@ -355,6 +357,7 @@ _441 producers across 40 regions._
 - [[cecile_tremblay|Cecile Tremblay]] — Burgundy / Vosne-Romanée / Chambolle · biodynamic · CSW ★1/3
 - [[chandon_de_briailles|Chandon de Briailles]] — Burgundy / Savigny / Pernand / Corton · biodynamic · CSW ★5/7 · Raeder 1
 - [[charles_audoin|Charles Audoin]] — Burgundy · DTE 19
+- [[chateau_de_la_maltroye|Château de la Maltroye]] — Burgundy / Chassagne-Montrachet · DTE 2
 - [[chicotot|Chicotot]] — Burgundy · DTE 20
 - [[cyril_audoin|Cyril Audoin]] — Burgundy · DTE 3
 - [[dauvissat|Domaine Vincent Dauvissat]] — Burgundy / Chablis · organic, biodynamic
@@ -400,6 +403,7 @@ _441 producers across 40 regions._
 - [[jane_et_sylvain|Jane et Sylvain]] — Burgundy / Gevrey-Chambertin · organic · CSW ★5/5
 - [[jean-claude_rateau|Jean-Claude Rateau]] — Burgundy / Beaune · biodynamic · CSW ★6/13
 - [[jean_collet|Jean Collet]] — Burgundy · DTE 3
+- [[jean_jacques_girard|Jean-Jacques Girard]] — Burgundy / Savigny-lès-Beaune · DTE 22
 - [[jean_javillier|Jean Javillier]] — Burgundy · DTE 14
 - [[jean_marc_et_thomas_bouley|Jean-Marc et Thomas Bouley]] — Burgundy · DTE 4
 - [[jean_pierre_guyon|Jean Pierre Guyon]] — Burgundy · DTE 21
@@ -420,6 +424,7 @@ _441 producers across 40 regions._
 - [[michel_noellat|Michel Noellat]] — Burgundy · CSW 1 · DTE 1
 - [[michel_rebourgeon|Michel Rebourgeon]] — Burgundy · DTE 13 · FASS 17
 - [[modot_guyon|Modot Guyon]] — Burgundy · DTE 6
+- [[nicolas_rossignol|Nicolas Rossignol]] — Burgundy / Volnay · DTE 3
 - [[patrice_rion|Patrice Rion]] — Burgundy · DTE 3
 - [[pierre-yves_colin-morey|Pierre-Yves Colin-Morey]] — Burgundy / St-Aubin / Chassagne · organic · CSW ★2/4
 - [[ramonet|Ramonet]] — Burgundy / Chassagne-Montrachet · CSW 1 · Raeder 9
@@ -427,6 +432,7 @@ _441 producers across 40 regions._
 - [[raveneau|Domaine Raveneau]] — Burgundy / Chablis · sustainable
 - [[robert_ampeau|Robert Ampeau]] — Burgundy / Meursault / Auxey · CSW ★1/1
 - [[robert_chevillon|Robert Chevillon]] — Burgundy / Nuits-Saint-Georges · sustainable
+- [[roger_belland|Roger Belland]] — Burgundy / Santenay · DTE 2
 - [[roty|Roty]] — Burgundy · DTE 1
 - [[roulot|Domaine Roulot]] — Burgundy / Meursault · organic
 - [[sauzet|Domaine Étienne Sauzet]] — Burgundy / Puligny-Montrachet · organic, biodynamic
@@ -437,6 +443,7 @@ _441 producers across 40 regions._
 - [[stephane_magnien|Stéphane Magnien]] — Burgundy / Morey-Saint-Denis · organic · CSW ★4/6
 - [[sylvain_pataille|Sylvain Pataille]] — Burgundy / Marsannay · biodynamic · CSW ★1/3
 - [[sylvie_esmonin|Sylvie Esmonin]] — Burgundy / Gevrey-Chambertin · organic · CSW ★6/8
+- [[taupenot_merme|Taupenot-Merme]] — Burgundy / Morey-Saint-Denis · DTE 1
 - [[thomas_et_jean_marc_bouley|Thomas et Jean Marc Bouley]] — Burgundy · DTE 10
 
 ### California
@@ -477,17 +484,22 @@ _441 producers across 40 regions._
 - [[cedric_bouchard|Cédric Bouchard]] — Champagne / Aube (Côte des Bar) · organic
 - [[champagne_les_freres_mignon|Champagne Les Freres Mignon]] — Champagne · CSW ★1/1
 - [[champagne_ponson|Champagne Ponson]] — Champagne · CSW ★2/2
+- [[dehu|Déhu]] — Champagne / Vallée de la Marne · DTE 5
 - [[dom_perignon|Dom Pérignon]] — Champagne · CSW 1 · Raeder 7
 - [[jacques_lassaigne|Jacques Lassaigne]] — Champagne · CSW 1 · DTE 3
 - [[laherte|Laherte]] — Champagne · CSW ★3/12 · DTE 6
 - [[larmandier_bernier|Larmandier Bernier]] — Champagne · CSW ★1/1 · DTE 3 · Raeder 1
+- [[legrand_latour|Legrand-Latour]] — Champagne · DTE 2
 - [[louis_roederer|Louis Roederer]] — Champagne · biodynamic · Raeder 12
 - [[marguet|Marguet]] — Champagne · CSW ★3/10 · DTE 4
+- [[marie_courtin|Marie Courtin]] — Champagne / Côte des Bar · biodynamic · DTE 7
 - [[nathalie_falmet|Nathalie Falmet]] — Champagne · DTE 1
 - [[petit_clergeot|Petit Clergeot]] — Champagne · DTE 1
+- [[philippe_lancelot|Philippe Lancelot]] — Champagne / Côte des Blancs · DTE 2
 - [[pierre_peters|Pierre Peters]] — Champagne / Le Mesnil-sur-Oger · sustainable · CSW 2 · Raeder 2
 - [[ployez_jacquemart|Ployez Jacquemart]] — Champagne · DTE 6
 - [[taittinger|Taittinger]] — Champagne · Raeder 3
+- [[vauversin|Vauversin]] — Champagne / Côte des Blancs · DTE 3
 
 ### Colli Tortonesi
 
@@ -593,7 +605,11 @@ _441 producers across 40 regions._
 - [[clos_rougeard|Clos Rougeard]] — Loire / Saumur-Champigny · natural · CSW ★2/11
 - [[domaine_baudry|Domaine Baudry]] — Loire / Chinon · organic · CSW ★20/45
 - [[domaine_de_la_chevalerie|Domaine de la Chevalerie]] — Loire / Bourgueil · organic · CSW ★5/15
+- [[domaine_fl|Domaine FL]] — Loire / Savennières · DTE 1
+- [[francois_chidaine|François Chidaine]] — Loire / Montlouis-sur-Loire · biodynamic · DTE 1
 - [[huet|Domaine Huet]] — Loire / Vouvray · biodynamic
+- [[philippe_foreau|Philippe Foreau]] — Loire / Vouvray · DTE 3
+- [[philippe_gilbert|Philippe Gilbert]] — Loire / Menetou-Salon · biodynamic · DTE 6
 - [[stephane_guion|Stéphane Guion]] — Loire / Bourgueil · organic since 1965 · CSW ★9/17
 
 ### Marche

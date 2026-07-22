@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Rhône"
-updated: 2026-07-21
+updated: 2026-07-22
 producer_count: 35
 ---
 

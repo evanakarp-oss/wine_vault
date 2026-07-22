@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Franken"
-updated: 2026-07-21
+updated: 2026-07-22
 producer_count: 2
 ---
 

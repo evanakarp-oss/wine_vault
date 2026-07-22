@@ -5,10 +5,10 @@ slug: louis
 producer_count: 16
 focus: ['Burgundy', 'Jura', 'Rhône', 'Sicily']
 notable_producers: ['Eric Texier', 'Jacques Puffeney', 'Jean-François Ganevat', 'Benoit Courault', 'Domaine Simon Bize']
-updated: 2026-07-21
+updated: 2026-07-22
+url: "https://louisdressner.com"
 tags: ['natural', 'organic']
 _source: wiki/_resources.md
-url: "https://louisdressner.com"
 ---
 # Louis
 

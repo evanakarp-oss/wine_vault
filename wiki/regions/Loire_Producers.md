@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Loire"
-updated: 2026-07-21
-producer_count: 7
+updated: 2026-07-22
+producer_count: 11
 ---
 
 # Loire — Producer Index
 
-**7 producers** tracked.
+**11 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -17,6 +17,10 @@ producer_count: 7
 | [[domaine_de_la_chevalerie|Domaine de la Chevalerie]] | France | Bourgueil | 15 | — | — | — | — |
 | [[clos_rougeard|Clos Rougeard]] | France | Saumur-Champigny | 11 | — | — | — | — |
 | [[boulay|Boulay]] | France | '' | 2 | 1 | — | — | — |
+| [[domaine_fl|Domaine FL]] | France | Savennières | — | 1 | — | — | — |
 | [[huet|Domaine Huet]] | France | Vouvray | — | — | — | — | — |
+| [[francois_chidaine|François Chidaine]] | France | Montlouis-sur-Loire | — | 1 | — | — | — |
+| [[philippe_foreau|Philippe Foreau]] | France | Vouvray | — | 3 | — | — | — |
+| [[philippe_gilbert|Philippe Gilbert]] | France | Menetou-Salon | — | 6 | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

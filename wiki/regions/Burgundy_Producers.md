@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Burgundy"
-updated: 2026-07-21
-producer_count: 93
+updated: 2026-07-22
+producer_count: 100
 ---
 
 # Burgundy — Producer Index
 
-**93 producers** tracked.
+**100 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -42,6 +42,7 @@ producer_count: 93
 | [[guillot_broux|Guillot-Broux]] | France | '' | 3 | 2 | — | — | — |
 | [[lignier-michelot|Lignier-Michelot]] | France | Morey-Saint-Denis | 3 | — | — | — | — |
 | [[sylvain_pataille|Sylvain Pataille]] | France | Marsannay | 3 | — | — | — | — |
+| [[chateau_de_la_maltroye|Château de la Maltroye]] | France | Chassagne-Montrachet | — | 2 | — | — | 2 btl |
 | [[domaine_armand_heitz|Domaine Armand Heitz]] | France | Pommard / Meursault | 2 | — | — | — | — |
 | [[domaine_duroche|Domaine Duroché]] | France | Gevrey-Chambertin | 2 | — | — | — | — |
 | [[domaine_jean_chauvenet|Domaine Jean Chauvenet]] | France | Nuits-Saint-Georges | 2 | — | 1 | — | — |
@@ -66,6 +67,8 @@ producer_count: 93
 | [[robert_ampeau|Robert Ampeau]] | France | Meursault / Auxey | 1 | — | — | — | — |
 | [[simon_colin|Simon Colin]] | France | Chassagne-Montrachet | 1 | — | — | — | — |
 | [[sirugue|Sirugue]] | France | — | 1 | 4 | — | — | — |
+| [[albert_morot|Albert Morot]] | France | Côte de Beaune | — | 2 | — | — | — |
+| [[alvina_pernot|Alvina Pernot]] | France | Côte de Beaune | — | 2 | — | — | — |
 | [[arnoux_lachaux|Arnoux Lachaux]] | France | '' | — | 16 | — | — | — |
 | [[barraud|Barraud]] | France | '' | — | 5 | — | — | — |
 | [[charles_audoin|Charles Audoin]] | France | '' | — | 19 | — | — | — |
@@ -88,6 +91,7 @@ producer_count: 93
 | [[jean_collet|Jean Collet]] | France | '' | — | 3 | — | — | — |
 | [[jean_javillier|Jean Javillier]] | France | '' | — | 14 | — | — | — |
 | [[jean_pierre_guyon|Jean Pierre Guyon]] | France | '' | — | 21 | — | — | — |
+| [[jean_jacques_girard|Jean-Jacques Girard]] | France | Savigny-lès-Beaune | — | 22 | — | — | — |
 | [[jean_marc_et_thomas_bouley|Jean-Marc et Thomas Bouley]] | France | — | — | 4 | — | — | — |
 | [[julien_guillot__vignes_du_maynes|Julien Guillot / Vignes du Maynes]] | France | Mâcon / Cruzille | — | — | — | — | — |
 | [[latour_giraud|Latour Giraud]] | France | — | — | 10 | — | — | — |
@@ -99,10 +103,13 @@ producer_count: 93
 | [[michel_niellon|Michel Niellon]] | France | Chassagne-Montrachet | — | — | 3 | — | — |
 | [[michel_rebourgeon|Michel Rebourgeon]] | France | — | — | 13 | — | 17 | — |
 | [[modot_guyon|Modot Guyon]] | France | — | — | 6 | — | — | — |
+| [[nicolas_rossignol|Nicolas Rossignol]] | France | Volnay | — | 3 | — | — | — |
 | [[patrice_rion|Patrice Rion]] | France | — | — | 3 | — | — | — |
 | [[robert_chevillon|Robert Chevillon]] | France | Nuits-Saint-Georges | — | — | — | — | — |
+| [[roger_belland|Roger Belland]] | France | Santenay | — | 2 | — | — | — |
 | [[roty|Roty]] | France | — | — | 1 | — | — | — |
 | [[sigaut|Sigaut]] | France | — | — | 9 | — | — | — |
+| [[taupenot_merme|Taupenot-Merme]] | France | Morey-Saint-Denis | — | 1 | — | — | — |
 | [[thomas_et_jean_marc_bouley|Thomas et Jean Marc Bouley]] | France | — | — | 10 | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

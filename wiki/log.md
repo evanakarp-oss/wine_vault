@@ -1210,3 +1210,23 @@ cluster (`## Vinous Reviews` → `## Critic Ratings` → retailer/cross-ref tail
 Repositioned the 72 existing `## Critic Ratings` sections accordingly. Updated
 `_SCHEMA.md` (multi-source, Wine Enthusiast mapping) + CLAUDE.md. lint clean; all
 `--check` hooks pass; compilers idempotent.
+
+## [2026-07-22] onboard | DTE portfolio coverage — recover source from Gmail + 16 new producers
+
+Ensured the full [[Down_to_Earth_Wines_Panzer|Down to Earth (Panzer)]] import
+book is ingested. The portfolio `SD` object (which backs Panzer's JSX widget)
+previously lived only on Evan's local machine (`C:/Users/Evan Karp/Downloads/`);
+**recovered it from Gmail** (Panzer's 2026-03-25 "DTE portfolio" email, de-wrapped
+and parsed clean — 125 producers, 870 cuvée entries, plus a `WK` per-cuvée
+score dict) and landed it at `raw/dte/dte_portfolio_2026-03-25.sd.json` so DTE is
+now reproducible in-repo. Audited 125 portfolio producers vs `wiki/producers/`:
+109 already covered (incl. Schäfer-Fröhlich), **16 gaps**, all on-taste for a
+curated grower importer. Created 16 seed pages (frontmatter + real DTE cuvée/price
+tables + factual summaries; no fabricated critic coverage): grower Champagne
+(Marie Courtin, Vauversin, Philippe Lancelot, Déhu, Legrand-Latour), terroir Loire
+(Philippe Foreau/Clos Naudin, François Chidaine, Philippe Gilbert, Domaine FL), and
+Côte d'Or growers (Taupenot-Merme, Albert Morot, Jean-Jacques Girard, Nicolas
+Rossignol, Roger Belland, Château de la Maltroye, Alvina Pernot). Coverage view at
+[[dte_portfolio_coverage_2026_07]]. Rebuilt rollups (460 producer pages) + wiki
+index; lint clean. Follow-up: extend `DTE_ALIASES` then re-run `ingest_dte_jsx.py`
+to refresh prices for the 109 already-covered (blind run would dupe ~17 pages).

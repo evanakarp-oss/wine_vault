@@ -9,7 +9,7 @@ generator: scripts/build_views_index.py
 
 Catalog of every keeper-answer page in `wiki/_views/` — the single read surface for saved analyses (gap analysis, drink-window shortlists, cross-retailer comparisons, critic overlays). The main `wiki/index.md` skips this directory, so this is where views are cataloged.
 
-**97 views.**
+**98 views.**
 
 | Page | Question / title | Updated |
 |---|---|---|
@@ -45,6 +45,7 @@ Catalog of every keeper-answer page in `wiki/_views/` — the single read surfac
 | [[david_bowler_wine_raeders_xref_2026-06|david_bowler_wine_raeders_xref_2026-06]] | David Bowler Wine × Raeder's — Cross-Reference | 2026-06-13 |
 | [[dns_selections_raeders_xref_2026-06|dns_selections_raeders_xref_2026-06]] | DNS Selections × Raeder's — Cross-Reference | 2026-06-13 |
 | [[drink_window_due|drink_window_due]] | Drink Window — Urgency View | 2026-05-14 |
+| [[dte_portfolio_coverage_2026_07|dte_portfolio_coverage_2026_07]] | Are all producers in the Down to Earth (Panzer) portfolio ingested into the vault? What's missing? | 2026-07-22 |
 | [[fass_compelling_picks_2026_05|fass_compelling_picks_2026_05]] | Stripping out FASS marketing tone, who in the portfolio is genuinely compelling — and where do WB top-100 + William Kelley signal align? | 2026-05-26 |
 | [[fass_unmatched_triage_2026_05|fass_unmatched_triage_2026_05]] | Which of the 227 FASS unmatched producers should be onboarded — and which spelling variants should consolidate? | 2026-05-26 |
 | [[focus_distributors|focus_distributors]] | Focus distributors — importers Evan tracks closely and buys from deliberately | 2026-07-07 |
