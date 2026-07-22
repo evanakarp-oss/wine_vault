@@ -7,10 +7,10 @@ focus: ['Burgundy', 'Champagne', 'Rhône']
 notable_producers: ['Bruno Lorenzon', 'Pierre Benetiere', 'Ployez Jacquemart']
 updated: 2026-07-22
 location: "South Pasadena, CA (distributes CA + NY)"
-philosophy: "Curated French growers — small-scale, terroir-driven, natural-leaning"
-tags: ['natural', 'terroir-driven', 'grower-champagne']
 url: "https://www.lagrenouillewine.com"
 _source: lagrenouillewine.com/growers (pasted 2026-07-09)
+philosophy: "Curated French growers — small-scale, terroir-driven, natural-leaning"
+tags: ['natural', 'terroir-driven', 'grower-champagne']
 ---
 
 # La Grenouille

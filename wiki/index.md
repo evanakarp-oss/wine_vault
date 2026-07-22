@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 1039
+total_pages: 1050
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**1039 pages indexed.**
+**1050 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -39,7 +39,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Friuli-Venezia_Giulia_Producers|Friuli-Venezia Giulia Producers]] — **56 producers** tracked.
 - [[Jujuy_Producers|Jujuy Producers]] — **2 producers** tracked.
 - [[Jura_Producers|Jura Producers]] — **14 producers** tracked.
-- [[Liguria_Producers|Liguria Producers]] — **1 producers** tracked.
+- [[Liguria_Producers|Liguria Producers]] — **12 producers** tracked.
 - [[Loire_Producers|Loire Producers]] — **21 producers** tracked.
 - [[Marche_Producers|Marche Producers]] — **1 producers** tracked.
 - [[Mendoza_Producers|Mendoza Producers]] — **62 producers** tracked.
@@ -272,7 +272,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_493 producers across 40 regions._
+_504 producers across 40 regions._
 
 ### Abruzzo
 
@@ -602,7 +602,18 @@ _493 producers across 40 regions._
 
 ### Liguria
 
+- [[blu_vo|Blu Vo]] — Liguria / Ponente
 - [[bruna|Bruna]] — Liguria / Riviera Ligure di Ponente · organic · CSW ★2/2
+- [[canovelle|Canovelle]] — Liguria / Ponente
+- [[cascalenda|Cascalenda]] — Liguria / Ponente
+- [[claudio_vo|Claudio Vo]] — Liguria / Ponente
+- [[colli_olunti|Colli Olunti]] — Liguria / Ponente
+- [[il_torchio|Il Torchio]] — Liguria / Ponente
+- [[ka_manic|Ka Manic]] — Liguria / Ponente
+- [[luno_alberto|Luno Alberto]] — Liguria / Ponente
+- [[prima_vita|Prima Vita]] — Liguria / Ponente
+- [[riviera_ligure_di_ponente|Riviera Ligure di Ponente]] — Liguria / Ponente
+- [[terranova|Terranova]] — Liguria / Ponente
 
 ### Loire
 
