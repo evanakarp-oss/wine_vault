@@ -1,6 +1,6 @@
 ---
 name: ask-cellar
-description: Answer questions about Evan's wine collection. Reads wiki/index.md first, then drills into producer/region/retailer/cellar pages, applies Evan's curation filters from CLAUDE.md, and cites with Obsidian wikilinks. Files keeper answers back as new pages in wiki/_views/.
+description: Answer questions about Evan's wine collection. Reads wiki/index.md first, then drills into producer/region/retailer/cellar pages, applies Evan's curation filters from CLAUDE.md, and answers in plain readable prose (Obsidian wikilinks only when writing to actual vault files). Files keeper answers back as new pages in wiki/_views/.
 ---
 
 # /ask-cellar
@@ -58,14 +58,24 @@ history").
 
 ## Citation format
 
-Every wine, producer, region you reference must be a wikilink:
+Two different surfaces, two different formats — don't mix them up:
 
-```markdown
-[[laurent_barth|Laurent Barth]] — biodynamic Alsace, [[Mosel_Producers|Mosel rollup]] for context.
-```
+- **In the chat reply itself:** plain readable names, no bracket
+  syntax. The Claude Code chat UI does not render Obsidian wikilinks —
+  `[[slug|Name]]` shows up to the user as literal brackets, which is
+  noise, not a link. Just write **Laurent Barth** (bold is fine), and
+  mention the page path in prose only if it's genuinely useful ("see
+  `wiki/producers/laurent_barth.md`").
+- **In any content written to a file** (a new/updated page under
+  `wiki/_views/`, or an edit to a producer/region page): use Obsidian
+  wikilinks, since that's what Obsidian actually renders:
 
-Filenames are `lowercase_underscored.md`; the wikilink stem must match
-exactly. When in doubt, grep `wiki/producers/` for the slug.
+  ```markdown
+  [[laurent_barth|Laurent Barth]] — biodynamic Alsace, [[Mosel_Producers|Mosel rollup]] for context.
+  ```
+
+  Filenames are `lowercase_underscored.md`; the wikilink stem must
+  match exactly. When in doubt, grep `wiki/producers/` for the slug.
 
 ## Filing keeper answers
 
