@@ -3,7 +3,7 @@ type: producer
 name: "Cascina Giacoma"
 slug: cascina_giacoma
 country: "Italy"
-region: "Piemonte"
+region: "Piedmont"
 sub_region: "Alba"
 appellations: ["Piemonte"]
 

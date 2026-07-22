@@ -2,12 +2,12 @@
 type: region_index
 region: "Piedmont"
 updated: 2026-07-22
-producer_count: 20
+producer_count: 32
 ---
 
 # Piedmont — Producer Index
 
-**20 producers** tracked.
+**32 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -26,10 +26,22 @@ producer_count: 20
 | [[fratelli_alessandria|Fratelli Alessandria]] | Italy | Verduno (Barolo) | 2 | — | — | — | — |
 | [[lorenzo_accomasso|Lorenzo Accomasso]] | Italy | Barolo (La Morra) | 2 | — | — | — | — |
 | [[domenico_clerico|Domenico Clerico]] | Italy | — | 1 | 2 | — | — | — |
-| [[le_piane|Le Piane]] | Italy | Alto Piemonte | 1 | 6 | — | — | — |
+| [[alberto_oggero|Alberto Oggero]] | Italy | Alba | — | — | — | — | — |
+| [[andrea_scovero|Andrea Scovero]] | Italy | Alba | — | — | — | — | — |
+| [[antoniolo|Antoniolo]] | Italy | Alto Piemonte | — | — | — | — | — |
+| [[bruno_giacosa|Bruno Giacosa]] | Italy | Alba | — | — | — | — | — |
+| [[bruno_rocca|Bruno Rocca]] | Italy | Alba | — | — | — | — | — |
+| [[cascina_gasparda|Cascina Gasparda]] | Italy | Alba | — | — | — | — | — |
+| [[cascina_giacoma|Cascina Giacoma]] | Italy | Alba | — | — | — | — | — |
+| [[claudio_mariotto|Claudio Mariotto]] | Italy | Colli Tortonesi | — | — | — | — | — |
 | [[elio_altare|Elio Altare]] | Italy | — | — | 1 | — | — | — |
+| [[fernando_vietti|Fernando Vietti]] | Italy | Alto Piemonte | — | — | — | — | — |
 | [[gaja|Gaja]] | Italy | Barbaresco / Barolo | — | — | 30 | — | — |
+| [[giordano_lombardo|Giordano Lombardo]] | Italy | Alba | — | — | — | — | — |
+| [[il_passo|Il Passo]] | Italy | Alba | — | — | — | — | — |
+| [[le_piane|Le Piane]] | Italy | Alba | — | — | — | — | — |
 | [[pianelle|Pianelle]] | Italy | Alto Piemonte | — | 6 | — | — | — |
 | [[sottimano|Sottimano]] | Italy | — | — | 12 | — | — | — |
+| [[walter_massa|Walter Massa]] | Italy | Colli Tortonesi | — | — | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

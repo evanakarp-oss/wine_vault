@@ -3,7 +3,7 @@ type: producer
 name: "Claudio Mariotto"
 slug: claudio_mariotto
 country: "Italy"
-region: "Piemonte"
+region: "Piedmont"
 sub_region: "Colli Tortonesi"
 appellations: ["Colli Tortonesi"]
 

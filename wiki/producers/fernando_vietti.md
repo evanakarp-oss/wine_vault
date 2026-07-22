@@ -3,7 +3,7 @@ type: producer
 name: "Fernando Vietti"
 slug: fernando_vietti
 country: "Italy"
-region: "Piemonte"
+region: "Piedmont"
 sub_region: "Alto Piemonte"
 appellations: ["Piemonte"]
 

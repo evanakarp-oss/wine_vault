@@ -3,7 +3,7 @@ type: producer
 name: "Le Piane"
 slug: le_piane
 country: "Italy"
-region: "Piemonte"
+region: "Piedmont"
 sub_region: "Alba"
 appellations: ["Piemonte"]
 

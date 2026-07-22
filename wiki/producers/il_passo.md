@@ -3,7 +3,7 @@ type: producer
 name: "Il Passo"
 slug: il_passo
 country: "Italy"
-region: "Piemonte"
+region: "Piedmont"
 sub_region: "Alba"
 appellations: ["Piemonte"]
 

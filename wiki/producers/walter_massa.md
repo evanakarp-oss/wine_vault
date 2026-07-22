@@ -5,7 +5,7 @@ slug: walter_massa
 aliases:
   - "Massa"
 country: "Italy"
-region: "Piemonte"
+region: "Piedmont"
 sub_region: "Colli Tortonesi"
 appellations: ["Colli Tortonesi", "Piemonte"]
 

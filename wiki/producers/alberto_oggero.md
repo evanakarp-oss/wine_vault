@@ -3,7 +3,7 @@ type: producer
 name: "Alberto Oggero"
 slug: alberto_oggero
 country: "Italy"
-region: "Piemonte"
+region: "Piedmont"
 sub_region: "Alba"
 appellations: ["Piemonte"]
 

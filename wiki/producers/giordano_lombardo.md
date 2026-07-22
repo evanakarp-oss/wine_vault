@@ -3,7 +3,7 @@ type: producer
 name: "Giordano Lombardo"
 slug: giordano_lombardo
 country: "Italy"
-region: "Piemonte"
+region: "Piedmont"
 sub_region: "Alba"
 appellations: ["Piemonte"]
 

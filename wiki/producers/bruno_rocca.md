@@ -3,7 +3,7 @@ type: producer
 name: "Bruno Rocca"
 slug: bruno_rocca
 country: "Italy"
-region: "Piemonte"
+region: "Piedmont"
 sub_region: "Alba"
 appellations: ["Barbaresco", "Piemonte"]
 

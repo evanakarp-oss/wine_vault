@@ -3,7 +3,7 @@ type: producer
 name: "Cascina Gasparda"
 slug: cascina_gasparda
 country: "Italy"
-region: "Piemonte"
+region: "Piedmont"
 sub_region: "Alba"
 appellations: ["Piemonte"]
 

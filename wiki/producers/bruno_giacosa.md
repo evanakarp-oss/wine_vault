@@ -5,7 +5,7 @@ slug: bruno_giacosa
 aliases:
   - "Giacosa"
 country: "Italy"
-region: "Piemonte"
+region: "Piedmont"
 sub_region: "Alba"
 appellations: ["Barolo", "Barbaresco", "Piemonte"]
 

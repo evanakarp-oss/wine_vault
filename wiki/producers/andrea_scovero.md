@@ -3,7 +3,7 @@ type: producer
 name: "Andrea Scovero"
 slug: andrea_scovero
 country: "Italy"
-region: "Piemonte"
+region: "Piedmont"
 sub_region: "Alba"
 appellations: ["Piemonte"]
 

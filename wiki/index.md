@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 1062
+total_pages: 1061
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**1062 pages indexed.**
+**1061 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -48,8 +48,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Oregon_Producers|Oregon Producers]] — **2 producers** tracked.
 - [[Patagonia_Producers|Patagonia Producers]] — **9 producers** tracked.
 - [[Pfalz_Producers|Pfalz Producers]] — **2 producers** tracked.
-- [[Piedmont_Producers|Piedmont Producers]] — **19 producers** tracked.
-- [[Piemonte_Producers|Piemonte Producers]] — **13 producers** tracked.
+- [[Piedmont_Producers|Piedmont Producers]] — **32 producers** tracked.
 - [[Provence_Producers|Provence Producers]] — **3 producers** tracked.
 - [[Rheinhessen_Producers|Rheinhessen Producers]] — **1 producers** tracked.
 - [[Rhone_Producers|Rhone Producers]] — **37 producers** tracked.
@@ -273,7 +272,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_515 producers across 40 regions._
+_515 producers across 39 regions._
 
 ### Abruzzo
 
@@ -761,41 +760,38 @@ _515 producers across 40 regions._
 
 ### Piedmont
 
+- [[alberto_oggero|Alberto Oggero]] — Piedmont / Alba
+- [[andrea_scovero|Andrea Scovero]] — Piedmont / Alba
+- [[antoniolo|Antoniolo]] — Piedmont / Alto Piemonte
 - [[brovia|Brovia]] — Piedmont / Barolo / Barbaresco (Castiglione Falletto) · CSW ★6/13
+- [[bruno_giacosa|Bruno Giacosa]] — Piedmont / Alba
+- [[bruno_rocca|Bruno Rocca]] — Piedmont / Alba
 - [[burlotto|Burlotto]] — Piedmont / Verduno (Barolo) · CSW ★1/6
 - [[cascina_delle_rose|Cascina delle Rose]] — Piedmont / Barbaresco (Neive) · organic · CSW ★1/3
+- [[cascina_gasparda|Cascina Gasparda]] — Piedmont / Alba
+- [[cascina_giacoma|Cascina Giacoma]] — Piedmont / Alba
 - [[cavallotto|Cavallotto]] — Piedmont / Barolo (Castiglione Falletto) · CSW ★1/6
 - [[ceretto|Ceretto]] — Piedmont / Barolo / Barbaresco · organic · CSW ★2/9 · Raeder 7
+- [[claudio_mariotto|Claudio Mariotto]] — Piedmont / Colli Tortonesi
 - [[domenico_clerico|Domenico Clerico]] — Piedmont · CSW 1 · DTE 2
 - [[elio_altare|Elio Altare]] — Piedmont · DTE 1
 - [[elio_sandri|Elio Sandri]] — Piedmont / Barolo (Castiglione Falletto) · CSW ★3/6
 - [[elvio_cogno|Elvio Cogno]] — Piedmont / Barolo (Novello) · organic · Raeder 20
 - [[ferdinando_principiano|Ferdinando Principiano]] — Piedmont / Barolo (Serralunga) · biodynamic · CSW ★1/4
+- [[fernando_vietti|Fernando Vietti]] — Piedmont / Alto Piemonte
 - [[fratelli_alessandria|Fratelli Alessandria]] — Piedmont / Verduno (Barolo) · CSW ★2/2
 - [[gaja|Gaja]] — Piedmont / Barbaresco / Barolo · sustainable · Raeder 30
 - [[giacomo_conterno|Giacomo Conterno]] — Piedmont / Barolo (Monforte) · CSW ★2/5 · Raeder 1
+- [[giordano_lombardo|Giordano Lombardo]] — Piedmont / Alba
+- [[il_passo|Il Passo]] — Piedmont / Alba
+- [[le_piane|Le Piane]] — Piedmont / Alba
 - [[lorenzo_accomasso|Lorenzo Accomasso]] — Piedmont / Barolo (La Morra) · CSW ★1/2
 - [[pianelle|Pianelle]] — Piedmont / Alto Piemonte · DTE 6
 - [[produttori_del_barbaresco|Produttori del Barbaresco]] — Piedmont / Barbaresco · CSW ★5/10 · Raeder 1
 - [[roagna|Roagna]] — Piedmont / Barbaresco / Barolo · biodynamic · CSW ★4/13 · Raeder 6
 - [[sottimano|Sottimano]] — Piedmont · DTE 12
 - [[trediberri|Trediberri]] — Piedmont / Barolo (La Morra) · organic · CSW ★2/3
-
-### Piemonte
-
-- [[alberto_oggero|Alberto Oggero]] — Piemonte / Alba
-- [[andrea_scovero|Andrea Scovero]] — Piemonte / Alba
-- [[antoniolo|Antoniolo]] — Piemonte / Alto Piemonte
-- [[bruno_giacosa|Bruno Giacosa]] — Piemonte / Alba
-- [[bruno_rocca|Bruno Rocca]] — Piemonte / Alba
-- [[cascina_gasparda|Cascina Gasparda]] — Piemonte / Alba
-- [[cascina_giacoma|Cascina Giacoma]] — Piemonte / Alba
-- [[claudio_mariotto|Claudio Mariotto]] — Piemonte / Colli Tortonesi
-- [[fernando_vietti|Fernando Vietti]] — Piemonte / Alto Piemonte
-- [[giordano_lombardo|Giordano Lombardo]] — Piemonte / Alba
-- [[il_passo|Il Passo]] — Piemonte / Alba
-- [[le_piane|Le Piane]] — Piemonte / Alba
-- [[walter_massa|Walter Massa]] — Piemonte / Colli Tortonesi
+- [[walter_massa|Walter Massa]] — Piedmont / Colli Tortonesi
 
 ### Provence
 

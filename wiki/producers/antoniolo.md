@@ -3,7 +3,7 @@ type: producer
 name: "Antoniolo"
 slug: antoniolo
 country: "Italy"
-region: "Piemonte"
+region: "Piedmont"
 sub_region: "Alto Piemonte"
 appellations: ["Gattinara", "Piemonte"]
 
