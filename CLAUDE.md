@@ -2,8 +2,8 @@
 
 Karpathy-style LLM knowledge base for wine collecting. Markdown is the source
 of truth; code is only for landing data and rendering views. Full architecture
-in `README.md`. Edit-and-sync workflow in `WORKFLOW.md` (**git is canonical;
-Drive auto-mirrors on every push**).
+in `README.md`. Edit-and-sync workflow in `WORKFLOW.md` (**git is the single
+source of truth; read it in Obsidian, ask Claude via its GitHub connector**).
 
 ## Three use cases this serves
 
@@ -199,11 +199,11 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
 
 See `WORKFLOW.md` for the full setup. Quick version:
 
-- **Editing on mobile** — Claude Code (this session) commits to git → `drive_mirror` workflow auto-pushes to Drive within ~1 minute.
-- **Reading on mobile** — GitHub web UI or a local git clone. Drive auto-mirrors on every push but is not the primary read surface.
-- **Q&A on mobile** — claude.ai Project with the Drive connector pointed at the mirror.
+- **Editing on mobile** — Claude Code (this session) commits directly to git. No mirror step.
+- **Reading on mobile** — Obsidian pointed at a synced git clone (renders the wiki + `[[wikilinks]]`), or the GitHub web UI for a quick look.
+- **Q&A on mobile** — claude.ai in a phone browser with the GitHub connector pointed at `evanakarp-oss/wine_vault`. The native mobile app has no GitHub connector yet, so use the browser (Add to Home Screen makes it feel like an app). Claude Code on the web works from the phone browser too, for heavier full-vault questions.
 
-**Anti-pattern**: editing files directly in Drive (web UI, chat upload). The mirror is push-only — your Drive edits will be overwritten on the next push to main. Edit in git, always.
+**Anti-pattern**: keeping a second copy of the vault anywhere (Google Drive, uploaded project files). There is one source of truth — the git repo — read directly by Obsidian and by Claude's GitHub connector. The old Google Drive mirror was retired 2026-07-22. Edit in git, always.
 
 ## Architecture-fix history
 

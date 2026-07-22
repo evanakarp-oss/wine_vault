@@ -28,7 +28,6 @@ wine_vault/
 ├── cellar/                     # my actual bottles — one .md per cuvée-vintage
 │
 ├── scripts/                    # Python tools (migration, compile, lint, build)
-│   ├── sync_from_drive.py      # one-shot: pull existing Drive .md into wiki/
 │   ├── migrate_prose_to_yaml.py # one-shot: convert old prose format to YAML frontmatter
 │   ├── ingest_dte_jsx.py       # parse dte_wines_1.jsx, add DTE sections to producer .md
 │   ├── ingest_raeders.py       # parse raeders*.xlsx → add Raeder's sections
@@ -53,4 +52,4 @@ The widget is ONE output. Other valid outputs: a Marp slide deck of "2026 Q2 cel
 
 ## Where to edit (git is canonical)
 
-See `WORKFLOW.md` for the full edit-and-sync rules. The short version: edit in git (Claude Code, local clone, or Working Copy iOS), never directly in Drive. The `drive_mirror` GitHub Action pushes the repo to the canonical Drive folder on every push to `main`; the `drive_audit` workflow runs weekly and opens an issue if anything on Drive isn't in git.
+See `WORKFLOW.md` for the full edit-and-sync rules. The short version: git is the single source of truth. Edit in git (Claude Code, local clone, or Working Copy iOS). Read it in Obsidian (config checked in under `.obsidian/`) or on the GitHub web UI. Ask questions by pointing Claude at the repo — Claude Code on the web reads it live, or connect the claude.ai GitHub connector. There is no second copy anywhere; the old Google Drive mirror was retired 2026-07-22.

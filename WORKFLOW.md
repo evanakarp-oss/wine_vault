@@ -1,180 +1,109 @@
 ---
 type: workflow_doc
-updated: 2026-07-18
+updated: 2026-07-22
 ---
 
 # Wine Vault — Workflow
 
-How edits flow through the vault, where to make them, and what auto-syncs
-where. **Git is the single source of truth.** Drive is a read-only
-mirror auto-updated on every push.
+How edits flow through the vault, where to make them, and how to read and
+query it. **Git is the single source of truth.** There is no second copy
+of the vault anywhere — everything is read directly from the git repo.
+
+> **History:** until 2026-07-22 a `drive_mirror` GitHub Action copied the
+> repo to a Google Drive folder on every push, so that the Claude chat app
+> and phone browsing could reach the vault. Claude can now read the GitHub
+> repo directly (Claude Code on the web + the claude.ai GitHub connector),
+> so the mirror became an obsolete, fragile layer — it also failed on every
+> push once Google removed service-account storage quota, emailing a failure
+> notice each time. Both the mirror and its weekly `drive_audit` were
+> retired. Read and query the git repo directly instead (see below).
 
 ## TL;DR
 
 | Action | Where to do it |
 |---|---|
-| Read on phone (Obsidian) | iCloud-synced git clone (via Working Copy iOS) |
-| Read on phone (just browsing) | Google Drive mirror — open `wine_vault/` in the Drive app |
-| Q&A on phone | claude.ai Project with the Drive connector |
-| Edit / commit on phone | Claude Code on web/mobile (this session) |
-| Edit on desktop (Obsidian) | iCloud-synced git clone |
-| Edit on desktop (anything else) | Local git clone, push when done |
-| Drop a scrape / external data | Commit to `raw/<source>/` in git, never upload to Drive |
+| Read / study the vault | **Obsidian** pointed at a git clone (renders the wiki + `[[wikilinks]]`) |
+| Read a quick page anywhere | GitHub web UI (github.com/evanakarp-oss/wine_vault) |
+| Q&A — deep, full-vault | **Claude Code on the web** (this session) — reads the live repo, has `/ask-cellar` |
+| Q&A — quick, on phone | **claude.ai in a browser** with the GitHub connector on `wine_vault` |
+| Edit / commit | Claude Code (this session), a local git clone, or Working Copy on iOS |
+| Drop a scrape / external data | Commit it to `raw/<source>/` in git |
 
-**Anti-pattern**: editing files directly in Drive web UI, in Obsidian
-pointed at a Drive-synced folder, or by drag-uploading to Drive from
-claude.ai chat. Any of these creates the drift we just spent two days
-cleaning up.
+**Anti-pattern**: keeping a second copy of the vault anywhere — Google
+Drive, uploaded claude.ai "project files", an Obsidian vault pointed at a
+Drive-synced folder. Any of these drifts out of sync with git and recreates
+the mess the 2026-05-26 audit had to clean up. One source of truth: the git
+repo. Everything reads from it directly.
 
-## Why git is canonical
+## Why git is the single source of truth
 
-The 2026-05-26 architecture-failure audit found three parallel vault
-copies on Drive (`wiki/wiki/`, `wine_vault_fromdocuments/`,
-`_drive_sync/wine_wiki_v2/`) with content that never made it back to
-canonical. The Roscioli scrape (2026-05-19) added 7 more orphan files.
-None of this was visible to git, the index, the lint, or any other CI
-check.
+The 2026-05-26 architecture-failure audit found three parallel vault copies
+on Google Drive with content that never made it back to canonical. Git
+solves this:
 
-Git solves this:
-- Single linear history of every change
-- CI runs lint + log validation + index check on every push — drift
-  caught at write time, not weeks later
-- The `drive_mirror` workflow pushes git → Drive every minute or so,
-  so Drive is always fresh
-- The `drive_audit` workflow runs weekly and opens an issue if anything
-  on Drive isn't in git
+- Single linear history of every change.
+- CI runs lint + log validation + index check on every push, so drift is
+  caught at write time, not weeks later.
+- Reading and querying now point straight at the repo, so there is no copy
+  to fall out of date.
 
-## The two workflows
+## Reading the vault (Obsidian)
 
-### `drive_mirror.yml`
+The vault is already an Obsidian vault — the config is checked into
+`.obsidian/`, and the internal links use Obsidian's `[[slug|Display]]`
+convention. To read it beautifully (rendered pages, clickable producer
+links, search, graph view):
 
-Triggered on every push to `main` (or manual dispatch). Uses `rclone
-sync` with a personal OAuth token (`GDRIVE_RCLONE_TOKEN` secret) to
-overwrite the Drive `wine_vault/` folder with the current repo.
-Excludes `.git/`, `.github/`, `build/`, legacy folders.
+1. Install **Obsidian** (free) — desktop and/or iPhone.
+2. Get a copy of the repo onto the device (a git clone; on iOS use Working
+   Copy — see Mobile setup below).
+3. In Obsidian: **Open folder as vault** → pick the cloned `wine_vault`
+   folder.
+4. Start at `wiki/index.md` (the catalog of every page) or
+   `wiki/_views/_index.md` (saved analyses). Click through the wikilinks.
 
-Latency: usually 30–90 seconds after push.
+Edits made in Obsidian are ordinary file edits — commit them with your git
+client (Working Copy on iOS, or `git` on desktop) to make them canonical.
 
-To dry-run: Actions tab → drive_mirror → Run workflow → check
-"Dry-run". The workflow runs but doesn't write to Drive.
+## Asking questions (Claude, connected to git)
 
-### `drive_audit.yml`
+No Google Drive, no uploaded copies. Claude reads the repo directly:
 
-Runs weekly (Sundays 18:00 UTC) and on manual dispatch. Lists Drive
-files via `rclone lsjson`, diffs against `git ls-files`, opens an
-issue if anything is unique to Drive.
-
-The report lives at `build/drive_audit.md` and is uploaded as a
-workflow artifact (30-day retention).
-
-## One-time setup: personal OAuth token
-
-Both workflows authenticate to Drive as **you** (evanakarp@gmail.com)
-via a personal rclone OAuth token stored as a repo secret.
-
-> **Why not a service account?** The original setup used a Google
-> service account (`GDRIVE_SERVICE_ACCOUNT_JSON`). Google removed
-> storage quota from service accounts (mid-2026): every upload to a
-> consumer My Drive folder now fails with
-> `403 storageQuotaExceeded`, so the mirror silently broke — runs
-> hung on retries until the 15-min timeout showed them as
-> "cancelled". Shared Drives / OAuth delegation (Google's suggested
-> fixes) both require a paid Workspace account. Personal OAuth is
-> the supported path for a gmail.com account, and has a bonus: the
-> mirrored files are owned by you, not by a robot.
-
-Five-minute setup, on any machine with a browser:
-
-1. Install rclone locally (`brew install rclone` on macOS, or
-   https://rclone.org/install/).
-
-2. Run:
-
-   ```sh
-   rclone authorize "drive"
-   ```
-
-   A browser window opens → sign in as evanakarp@gmail.com → allow.
-   The terminal then prints a token — a single-line JSON blob like
-   `{"access_token":"ya29...","token_type":"Bearer","refresh_token":"1//...","expiry":"..."}`.
-   Copy the whole `{...}` blob (only the JSON, not the surrounding
-   `--->`/`<---` markers).
-
-3. Add it as a GitHub repo secret:
-   - GitHub → repo Settings → Secrets and variables → Actions → New
-     repository secret
-   - Name: `GDRIVE_RCLONE_TOKEN`
-   - Value: the JSON blob from step 2
-   - Click Add
-
-4. One-time cleanup (recommended): the old service account owned the
-   files it uploaded, and the mirror was broken for a while, so the
-   Drive folder is stale and mixed-ownership. Open
-   https://drive.google.com/drive/folders/1lqMRm9PiLel19kGC7FAZgd-2cHu2CZBB
-   and delete its **contents** (not the folder itself). The next
-   mirror run repopulates it fresh, owned by you.
-
-5. Test:
-   - Actions tab → drive_mirror → Run workflow → check "Dry-run" → Run
-   - Should complete green. Then run once without dry-run (or just
-     push to `main`).
-
-After this, every push to `main` mirrors automatically. The token
-includes a refresh token, so it doesn't expire on a timer; if it's
-ever revoked (Google account security page, password change), repeat
-steps 2–3. The old `GDRIVE_SERVICE_ACCOUNT_JSON` secret can be
-deleted.
+- **Deep / full-vault questions** — use **Claude Code on the web**
+  (claude.ai/code, this session). It reads the live repo, follows the
+  `index.md` → producer/region/view drill-down, and has the `/ask-cellar`
+  skill built for exactly this.
+- **Quick questions, incl. on a phone** — use **claude.ai in a browser**
+  with the **GitHub connector**. One-time: claude.ai → Settings →
+  Connectors → GitHub → connect. Then in a chat: **＋ → Add from GitHub →
+  `wine_vault`**, and ask. The native Claude mobile *app* has no GitHub
+  connector yet, so on a phone use the browser — **Add to Home Screen**
+  makes it feel like an app while keeping the connector.
 
 ## Mobile setup (one-time)
 
-To edit on iPhone, you need a git client. The easiest stack:
+To read in Obsidian and commit from an iPhone:
 
-1. **Working Copy** on iOS (paid app, $20-ish). Best git client on iOS
-   by a wide margin.
+1. **Working Copy** on iOS (best git client on iOS by a wide margin).
 2. Clone the repo into Working Copy from GitHub.
-3. Move the local clone into iCloud Drive (Working Copy → repo
-   settings → Move to Files → iCloud Drive).
-4. Obsidian Mobile → Open folder as vault → pick the iCloud-synced
-   clone.
-5. Now Obsidian on iPhone reads/edits the git working tree directly.
-   Commits happen via Working Copy (a few taps).
+3. Move the local clone into iCloud Drive (Working Copy → repo settings →
+   Move to Files → iCloud Drive).
+4. Obsidian Mobile → Open folder as vault → pick the iCloud-synced clone.
+5. Obsidian now reads/edits the git working tree directly; commits happen
+   in Working Copy (a few taps).
 
-Alternative (no app purchases): just use Claude Code on the web/mobile.
-You're already there. Commit + push from this session and the mirror
-takes care of Drive within ~1 minute.
+No-app-purchase alternative: just use Claude Code on the web / claude.ai in
+the phone browser. Commit + push from this session; reading happens in the
+browser.
 
-## The audit script (local)
+## What CI enforces
 
-If you're at a desktop and want to check drift right now without
-waiting for the weekly cron:
+Every push to `main` triggers the `check` workflow
+(`.github/workflows/check.yml`):
 
-```sh
-# Configure rclone once (uses your personal Google login, not the
-# service account):
-rclone config
-# → New remote → name: gdrive → type: drive → leave most defaults
-# → scope: drive.readonly → root_folder_id: 1lqMRm9PiLel19kGC7FAZgd-2cHu2CZBB
-# → auto-config in browser → done
+1. `lint.py` — schema/taxonomy/dedup must be at 0 issues.
+2. `build_wiki_index.py --check` — index must match current vault.
+3. `build_wiki_log.py --check` — log entries must match `## [date] op | title`.
 
-# Then any time:
-python scripts/drive_audit.py
-# → exit 0 if clean, 1 if drift; report at build/drive_audit.md
-```
-
-## What CI now enforces
-
-Every push to `main` triggers four checks (in `.github/workflows/check.yml`)
-plus the mirror:
-
-1. `lint.py` — schema/taxonomy/dedup must be at 0 issues
-2. `build_wiki_index.py --check` — index must match current vault
-3. `build_wiki_log.py --check` — log entries must match `## [date] op | title`
-4. `drive_mirror` — push to Drive (separate workflow, not part of check)
-
-Weekly:
-
-5. `drive_audit` — flag anything on Drive that isn't in git
-
-If any of 1-3 fail, the push is rejected (the merge to main blocks).
-If 4 fails, Drive lags but git is still canonical and consistent. If
-5 finds drift, an issue is opened automatically.
+If any fail, the push is rejected. There are no longer any Drive-related
+workflows.
