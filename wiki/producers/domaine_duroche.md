@@ -201,18 +201,18 @@ _sources:
 
 > That goes without saying. I tried the 2015 last month But at the end of the day, I think Pierre’s Clos de Bèze is better.
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Echezeaux | 2017 | Burghound | 92 | Noticeable if not dominant wood frames the naturally spicy aromas of both red and dark currant that flash hints of sandalwood and Asian-style tea. The seductive… | 261W·W30 lot 28277 |
 | Griottes Chambertin | 2012 | — | 97 | It has a highly perfumed bouquet very floral with rose and and violet petals infusing the red and black fruit. One sniff and you'll be hooked. The palate is med… | 261W·W30 lot 29312 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 
 ## Raeder's
 

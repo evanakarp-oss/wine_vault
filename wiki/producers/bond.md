@@ -39,13 +39,9 @@ _Bill Harlan's 'grand cru' project — a family of single-hill Napa Cabernets (M
 
 _Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Street coverage._
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
@@ -77,6 +73,10 @@ _Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py
 | Bond Vecina | 2009 | — | 98+ | ...the Vecina is all about linear power and structure. Endowed with tremendous length and persistence, the Vecina presents endless layers of dark fruit and expr… | 261W·W30 lot 29241 |
 | Bond Vecina | 2010 | — | 99 | A Graves-like effort, it displays notes of burning embers, scorched earth, creme de cassis, and charcoal. Primordial, dense, rich, full-bodied, masculine and ba… | 261W·W30 lot 29242 |
 | Bond Vecina | 2014 | — | 98+ | The 2014 Vecina displays a deep garnet-purple color and has a broody, baked blueberries, cassis and anise-laced nose with suggestions of garrigue, dusty earth a… | 261W·W30 lot 29243 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

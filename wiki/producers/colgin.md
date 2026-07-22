@@ -66,13 +66,9 @@ _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles.
 
 **Momentum 2023+:** 2.0× (rising).
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
@@ -81,6 +77,11 @@ _Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py
 | Colgin Red IX Estate | 2006 | — | 100 | ...reveals the noble sweetness of tannin, the extraordinary rich, intense mouthfeel, and sumptuous aromas of flowers, burning embers, blackberries, blueberries,… | 261W·W30 lot 29476 |
 | Colgin Red IX Estate | 2007 | — | 100 | The staggeringly rich, complex, harmonious, impeccably well-balanced 2007 IX Proprietary Red Estate (1,400 case produced) exhibits aromas of spring flowers, ced… | 261W·W30 lot 29477 |
 | Colgin Red IX Estate | 2012 | — | 99 | Absolutely spectacular aromatics of spring flowers, blueberry, blackberry and blackcurrant fruit intermixed with creosote, graphite and floral notes are followe… | 261W·W30 lot 29245 |
+| IX Estate Red | 2021 | Wine Advocate | 99 |  | Raeders 2026-04-25 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

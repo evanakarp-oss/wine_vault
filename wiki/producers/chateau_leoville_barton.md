@@ -135,13 +135,9 @@ _Saint-Julien 2nd-growth; Anthony Barton legacy, traditional vinification. WK lo
 
 > The 1985 Bonneau du Martray Corton Charlemagne is excellent. The first 1985 red Burgundy I ever tasted was a 1985 Clos de la Roche Jeremy opened on my first visit to Domaine Dujac—and to Burgundy! The 1985 Bordeaux are really lovely. Arguably the…
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
@@ -149,6 +145,17 @@ _Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py
 | Chateau Leoville Barton | 2004 | — | 92+ | Concentrated, with loads of smoke, creme de cassis, forest floor, and earthy notes emerge from this impressive, but oh, so backward wine. | 261W·W30 lot 29517 |
 | Chateau Leoville Barton | 2005 | Wine Spectator | 96 | Delivers breathtaking aromas of blackberry, currant, licorice and flowers. Full-bodied, with a solid core of fruit and supersilky tannins. Dark chocolate, curra… | 261W·W30 lot 29454 |
 | Chateau Leoville Barton | 2015 | Vinous | 96+ | ... is going to need quite a bit of time to come together, as it is massively tannic and structured at this stage. | 261W·W30 lot 29519 |
+| St Julien | 2000 | James Suckling | 96 |  | Raeders 2026-04-25 |
+| St Julien | 2000 | Wine Spectator | 97 |  | Raeders 2026-04-25 |
+| St Julien | 2000 | Wine Enthusiast | 96 |  | Raeders 2026-04-25 |
+| St.-Julien | 2015 | Wine Spectator | 91 |  | Raeders 2026-04-25 |
+| St.-Julien | 2018 | James Suckling | 97 |  | Raeders 2026-04-25 |
+| St.-Julien | 2018 | Wine Spectator | 97 |  | Raeders 2026-04-25 |
+| St.-Julien | 2018 | Wine Enthusiast | 97 |  | Raeders 2026-04-25 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

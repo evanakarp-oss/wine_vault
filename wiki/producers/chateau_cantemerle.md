@@ -110,17 +110,20 @@ _Haut-Médoc 5th-growth; classic WK 'undercovered Bordeaux' shoutout. Value clar
 
 > Nothing against Meyney, it’s just a very different wine from Cantemerle!
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Chateau Cantemerle | 2016 | Vinous | 92 | ...delivers serious flavor intensity without being at all heavy. Smoke, iron and cedar add character to a Haut-Médoc that has a lot to offer. | 261W·W30 lot 25270 |
+| Haut Medoc | 2014 | James Suckling | 94 | JS 94 Barrel Sample. While the wine does have a strongly dry element, it also has a creamy, black currant background that shows promise for the future. With gre… | Raeders 2026-04-25 |
+| Haut Medoc | 2014 | Wine Spectator | 90 |  | Raeders 2026-04-25 |
+| Haut Medoc | 2014 | Wine Enthusiast | 93 |  | Raeders 2026-04-25 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

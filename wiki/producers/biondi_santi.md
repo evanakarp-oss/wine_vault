@@ -115,6 +115,37 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 
 > Great list. Hard to argue with any of those. My list might include Gerard Boulay’s Sancerre Rosé as a wine worthy to at least keep company with the Cotats’, if not quite on the same level. And in addition to the Italian suggestions others have made,…
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Amarone della Valpolicella | 2019 | James Suckling | 90 | Displaying a medium brick red hue, the 2019 Amarone Della Valpolicella Santico is rich in aromas of mocha and baked cherries. The palate is characterized by a g… | Raeders 2026-04-25 |
+| Amarone della Valpolicella Proemio | 2015 | Wine Advocate | 93 | JS 91 This blend of 50% Corvina, 30% Corvinone and 20% Rondinella shows depth and a nicely concentrated appearance. The Santi 2015 Amarone della Valpolicella Cl… | Raeders 2026-04-25 |
+| Amarone della Valpolicella Proemio | 2015 | James Suckling | 91 |  | Raeders 2026-04-25 |
+| Amarone della Valpolicella Proemio | 2015 | Wine Enthusiast | 92 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino | 2015 | Wine Advocate | 97 | The Biondi-Santi 2015 Brunello di Montalcino exudes dark, velvety fruit and concentration while maintaining the signature elegance, suppleness and lithe persona… | Raeders 2026-04-25 |
+| Brunello di Montalcino | 2015 | Wine Enthusiast | 94 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino | 2017 | Wine Advocate | 96 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino | 2017 | James Suckling | 96 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino | 2017 | Wine Spectator | 94 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino | 2019 | Wine Advocate | 97 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino | 2019 | James Suckling | 97 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino | 2019 | Wine Spectator | 94 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino Riserva | 2015 | Wine Advocate | 98 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino Riserva | 2015 | Wine Enthusiast | 97 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino Riserva | 2016 | Wine Advocate | 99 | JD 98 JS 98 W&S 95 The 2016 Brunello di Montalcino Riserva is a truly majestic wine. The bouquet is packed with intense fruity notes of black berries, pomegrana… | Raeders 2026-04-25 |
+| Brunello di Montalcino Riserva | 2016 | James Suckling | 98 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino Riserva | 2016 | Wine Spectator | 98 |  | Raeders 2026-04-25 |
+| Rosso di Montalcino DOC | 2016 | Wine Advocate | 95 |  | Raeders 2026-04-25 |
+| Rosso di Montalcino DOC | 2016 | James Suckling | 92 |  | Raeders 2026-04-25 |
+| Rosso di Montalcino DOC | 2016 | Wine Spectator | 91 |  | Raeders 2026-04-25 |
+| Rosso di Montalcino DOC | 2016 | Wine Enthusiast | 95 |  | Raeders 2026-04-25 |
+| Rosso di Montalcino DOC | 2020 | Wine Advocate | 94 |  | Raeders 2026-04-25 |
+| Rosso di Montalcino DOC | 2020 | Wine Enthusiast | 96 |  | Raeders 2026-04-25 |
+| Rosso di Montalcino DOC | 2021 | Wine Advocate | 95 |  | Raeders 2026-04-25 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated._

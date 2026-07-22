@@ -42,6 +42,75 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 
 _Not yet covered in CSW archive sweep._
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Anas-Cetta Nascetta Di Novello | 2018 | Wine Advocate | 91 |  | Raeders 2026-04-25 |
+| Barbaresco Bordini | 2015 | Wine Spectator | 92 |  | Raeders 2026-04-25 |
+| Barbaresco Bordini | 2015 | Wine Enthusiast | 94 |  | Raeders 2026-04-25 |
+| Barbaresco Bordini | 2016 | Wine Enthusiast | 95 | Camphor, dark spice, wild herbs and woodland berry aromas shape the nose. On the focused palate, bright acidity and taut, refined tannins accompany crushed rasp… | Raeders 2026-04-25 |
+| Barbaresco Bordini | 2018 | Wine Advocate | 92 |  | Raeders 2026-04-25 |
+| Barbaresco Bordini | 2018 | Wine Spectator | 95 |  | Raeders 2026-04-25 |
+| Barolo Bricco Pernice | 2015 | Wine Advocate | 96 |  | Raeders 2026-04-25 |
+| Barolo Bricco Pernice | 2015 | James Suckling | 95 |  | Raeders 2026-04-25 |
+| Barolo Bricco Pernice | 2015 | Wine Spectator | 95 |  | Raeders 2026-04-25 |
+| Barolo Bricco Pernice | 2015 | Wine Enthusiast | 97 | WA 96 JS 95 V 95 Tasting Notes “The 2015 Barolo Bricco Pernice, from the very core of Ravera cru, is a ripe, polished wine that reflects the style of the site.… | Raeders 2026-04-25 |
+| Barolo Bricco Pernice | 2018 | Wine Advocate | 95 |  | Raeders 2026-04-25 |
+| Barolo Bricco Pernice | 2018 | James Suckling | 93 |  | Raeders 2026-04-25 |
+| Barolo Bricco Pernice | 2018 | Wine Spectator | 95 |  | Raeders 2026-04-25 |
+| Barolo Bricco Pernice | 2018 | Wine Enthusiast | 96 |  | Raeders 2026-04-25 |
+| Barolo Cascina Nuova | 2015 | Wine Advocate | 93 |  | Raeders 2026-04-25 |
+| Barolo Cascina Nuova | 2015 | James Suckling | 95 | WA 93 JS 95 V 91 The 2015 Barolo Cascina Nuova is a dark and concentrated expression that offers succulence and richness with a full load of ripe summer plum an… | Raeders 2026-04-25 |
+| Barolo Cascina Nuova | 2015 | Wine Spectator | 93 |  | Raeders 2026-04-25 |
+| Barolo Cascina Nuova | 2015 | Wine Enthusiast | 93 |  | Raeders 2026-04-25 |
+| Barolo Cascina Nuova | 2016 | Wine Advocate | 94 |  | Raeders 2026-04-25 |
+| Barolo Cascina Nuova | 2016 | James Suckling | 95 |  | Raeders 2026-04-25 |
+| Barolo Cascina Nuova | 2016 | Wine Spectator | 93 |  | Raeders 2026-04-25 |
+| Barolo Cascina Nuova | 2016 | Wine Enthusiast | 96 |  | Raeders 2026-04-25 |
+| Barolo Cascina Nuova | 2018 | Wine Advocate | 93 |  | Raeders 2026-04-25 |
+| Barolo Cascina Nuova | 2018 | Wine Enthusiast | 94 | The 2018 Barolo Cascina Nuova is fine-tuned with plenty of wild berry, cassis, grilled herb and crushed stone. The aromas are quite classic for Nebbiolo, but wh… | Raeders 2026-04-25 |
+| Barolo Ravera | 2015 | Wine Advocate | 94 |  | Raeders 2026-04-25 |
+| Barolo Ravera | 2015 | James Suckling | 95 |  | Raeders 2026-04-25 |
+| Barolo Ravera | 2015 | Wine Spectator | 94 |  | Raeders 2026-04-25 |
+| Barolo Ravera | 2015 | Wine Enthusiast | 96 |  | Raeders 2026-04-25 |
+| Barolo Ravera | 2017 | Wine Advocate | 94 |  | Raeders 2026-04-25 |
+| Barolo Ravera | 2017 | Wine Spectator | 93 |  | Raeders 2026-04-25 |
+| Barolo Ravera | 2017 | Wine Enthusiast | 98 |  | Raeders 2026-04-25 |
+| Barolo Ravera | 2018 | Wine Advocate | 94 |  | Raeders 2026-04-25 |
+| Barolo Ravera | 2018 | Wine Spectator | 94 |  | Raeders 2026-04-25 |
+| Barolo Ravera | 2018 | Wine Enthusiast | 97 |  | Raeders 2026-04-25 |
+| Barolo Riserva Vigna Elena | 2015 | Wine Advocate | 95 |  | Raeders 2026-04-25 |
+| Barolo Riserva Vigna Elena | 2015 | James Suckling | 96 |  | Raeders 2026-04-25 |
+| Barolo Riserva Vigna Elena | 2015 | Wine Spectator | 97 |  | Raeders 2026-04-25 |
+| Barolo Riserva Vigna Elena | 2015 | Wine Enthusiast | 98 |  | Raeders 2026-04-25 |
+| Barolo Riserva Vigna Elena | 2016 | Wine Advocate | 97 |  | Raeders 2026-04-25 |
+| Barolo Riserva Vigna Elena | 2016 | James Suckling | 97 |  | Raeders 2026-04-25 |
+| Barolo Riserva Vigna Elena | 2016 | Wine Spectator | 97 |  | Raeders 2026-04-25 |
+| Barolo Riserva Vigna Elena | 2016 | Wine Enthusiast | 100 | WA 97 JS 97 #96 Wine Spectator Top 100 of 2022 | Raeders 2026-04-25 |
+| Bricco Dei Merli Barbera d'Alba | 2015 | Wine Advocate | 91 |  | Raeders 2026-04-25 |
+| Bricco Dei Merli Barbera d'Alba | 2015 | James Suckling | 94 | JS 94 This was a terrific vintage for Barbera. The 2015 Barbera d'Alba Bricco dei Merli shows inky density and succulent softness. The grapes have happily absor… | Raeders 2026-04-25 |
+| Bricco Dei Merli Barbera d'Alba | 2015 | Wine Spectator | 91 |  | Raeders 2026-04-25 |
+| Bricco Dei Merli Barbera d'Alba | 2019 | Wine Spectator | 89 |  | Raeders 2026-04-25 |
+| Cogno Pre-Phylloxera Barbera d'Alba | 2020 | Wine Enthusiast | 95 |  | Raeders 2026-04-25 |
+| Dolcetto d'Alba Vigna del Mandorlo | 2017 | Wine Advocate | 90 | JS 90 Tasting Notes The bright purple color is typical for this grape. The nose shows an intense and pure aroma of cherry with hints of strawberries, very fragr… | Raeders 2026-04-25 |
+| Dolcetto d'Alba Vigna del Mandorlo | 2017 | James Suckling | 90 |  | Raeders 2026-04-25 |
+| Dolcetto d'Alba Vigna del Mandorlo | 2017 | Wine Spectator | 90 |  | Raeders 2026-04-25 |
+| Dolcetto d'Alba Vigna del Mandorlo | 2018 | James Suckling | 90 |  | Raeders 2026-04-25 |
+| Dolcetto d'Alba Vigna del Mandorlo | 2018 | Wine Enthusiast | 91 | Tasting Notes Bright ruby red in color with deep violet highlights. The perfume is immediate and intense, uncompromisingly vinous and persistent. It is redolent… | Raeders 2026-04-25 |
+| Dolcetto d'Alba Vigna del Mandorlo | 2019 | Wine Advocate | 90 |  | Raeders 2026-04-25 |
+| Dolcetto d'Alba Vigna del Mandorlo | 2019 | James Suckling | 91 | Tasting Notes The 2019 Dolcetto d’Alba Mandorlo is a delicious red that exudes drinkability. It offers so much in so little time. Fresh fruit, blackberry and sp… | Raeders 2026-04-25 |
+| Dolcetto d'Alba Vigna del Mandorlo | 2020 | Wine Advocate | 90 | Tasting Notes Purity and drinkability are the main properties of the 2020 Dolcetto d’Alba Mandorlo. The aromatic profile is really satisfying and is focused on… | Raeders 2026-04-25 |
+| Dolcetto d'Alba Vigna del Mandorlo | 2021 | Wine Advocate | 91 |  | Raeders 2026-04-25 |
+| Dolcetto d'Alba Vigna del Mandorlo | 2021 | Wine Spectator | 90 |  | Raeders 2026-04-25 |
+| Langhe Montegrilli Nebbiolo | 2018 | Wine Advocate | 90 |  | Raeders 2026-04-25 |
+| Langhe Montegrilli Nebbiolo | 2018 | James Suckling | 91 |  | Raeders 2026-04-25 |
+| Langhe Montegrilli Nebbiolo | 2021 | Wine Advocate | 92 |  | Raeders 2026-04-25 |
+| Langhe Montegrilli Nebbiolo | 2021 | Wine Enthusiast | 90 |  | Raeders 2026-04-25 |
+| Langhe Montegrilli Nebbiolo | 2023 | Wine Advocate | 90 | D 92 JD 90 The Elvio Cogno 2023 Langhe Nebbiolo Montegrilli has a fun bouquet, showing cooked pears with cloves embedded in the skin, Christmas spice, cinnamon… | Raeders 2026-04-25 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated._

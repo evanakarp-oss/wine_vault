@@ -107,17 +107,17 @@ _The original Napa cult Cab. Allocation only. The Flight (second wine) and Sauv 
 
 > I thought it was a nicely done piece all things considered. Not as good as her recent Santa Cruz Mountains piece, but still solid. One might object, as has been mentioned, that Screaming Eagle is not really a hillside property. Neither, for that…
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Screaming Eagle Cabernet Sauvignon | 2020 | Vinous | 96 | All the elements are so well balanced. Dark blue/purplish fruit, lavender, menthol, spice, leather and a soft touch of all fill out the layers effortlessly. | 261W·W30 lot 24891 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

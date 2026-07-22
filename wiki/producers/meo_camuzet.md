@@ -95,17 +95,21 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 
 **Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
+| Clos De Vougeot Grand Cru | 2022 | Wine Spectator | 95 |  | Raeders 2026-04-25 |
 | Clos Vougeot | 2019 | Vinous | 95-97 | The palate is medium-bodied with succulent ripe tannins. This is a juicy Clos de Vougeot, a little savory and quite peppery on the finish... | 261W·W30 lot 28388 |
+| Corton Perrieres Grand Cru | 2022 | Wine Spectator | 96 |  | Raeders 2026-04-25 |
+| Echezeaux Grand Cru 'Les Rouges du Bas' | 2020 | Wine Advocate | 95 |  | Raeders 2026-04-25 |
+| Nuits-St.-Georges Aux Murgers | 2018 | Wine Spectator | 93 | Dark, rich tones of blackberry, black cherry and blueberry mark this plush red. There is enough lift from the acidity on the finish and a light rasp of tannins.… | Raeders 2026-04-25 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

@@ -107,17 +107,21 @@ _Saint-Julien 2nd-growth. 1980s-90s vintages drink beautifully today; modern era
 
 > I think we’re talking at crossed purposes. Rustic is a description of the style of the wine, not its tannins or evolution. In the same way that a Nuits St George Les Pruliers is more rustic than a Vosne Romanee Aux Reignots, or a Gruaud Larose is…
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Chateau Gruaud Larose | 1982 | — | 98 | A massive wine that is clearly of first-growth quality in this vintage, the 1982 Gruaud Larose remains a youngster. A broodingly dense, thick, unctuously textur… | 261W·W30 lot 29333 |
+| Saint Julien | 2019 | Wine Advocate | 95 | The 2019 Gruaud Larose is performing extremely well in bottle, wafting from the glass with aromas of wild berries and plums mingled with notions of licorice, po… | Raeders 2026-04-25 |
+| Saint Julien | 2020 | Wine Advocate | 96 | D 98 JD 96 JS 96 #25 WINE SPECTATOR TOP 100 2023 | Raeders 2026-04-25 |
+| Saint Julien | 2020 | James Suckling | 96 |  | Raeders 2026-04-25 |
+| Saint Julien | 2020 | Wine Spectator | 95 |  | Raeders 2026-04-25 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

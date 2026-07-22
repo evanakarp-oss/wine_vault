@@ -101,18 +101,18 @@ _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles.
 
 > two more data points, just to put all this in the public domain: 1990 Ducru Beaucaillou: 12.16%, TA 0.52, pH 3.56 1955 La Mission Haut Brion (one of my all-time favorite Bordeaux): 12.1%, TA 0.58, pH 3.81
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Chateau Ducru Beaucaillou | 2018 | James Suckling | 99 | Aromas of blackberries, blackcurrants, new leather and bark follow through to a full body with a dense, deep palate that goes on and on, but is still shy and re… | 261W·W30 lot 29363 |
 | Chateau Ducru Beaucaillou | 2019 | Vinous | 98 | ... has a glorious bouquet of cigar humidor, cedar, black fruit and a touch of black truffle, very complex and quite compelling. The palate is still very Pauill… | 261W·W30 lot 29365 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

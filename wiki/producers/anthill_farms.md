@@ -39,17 +39,17 @@ _A cool-climate Pinot Noir (and Syrah) house founded by three Williams Selyem al
 
 _Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Street coverage._
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Anthill Farms Pinot Noir Tina Marie Vineyard | 2015 | Vinous | 92 |  | 261W·W30 lot 29796 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

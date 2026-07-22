@@ -39,13 +39,9 @@ _The most coveted name in Chablis. Jean-Marie and Isabelle Raveneau farm grand c
 
 _Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Street coverage._
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
@@ -55,6 +51,10 @@ _Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py
 | Chablis Butteaux | 2019 | Burghound | 94 | An interesting and beautifully layered nose reflects notes of soft wood, white orchard fruit, citrus confit, iodine, tidal pool and shellfish. The rich, concent… | 261W·W30 lot 28444 |
 | Chablis Montee de Tonnerre | 1999 | Burghound | 90 | This is a robust, exuberant wine and even though it is somewhat austere, this makes a firm statement on both the nose and the palate and it offers buckets of cl… | 261W·W30 lot 27988 |
 | Petit Chablis | 2022 | Burghound | 88-91 | A fresh, cool and citrusy nose features ripe aromas of white orchard fruit and solid Chablis typicity. | 261W·W30 lot 29023 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

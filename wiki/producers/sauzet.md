@@ -39,19 +39,19 @@ _A blue-chip Puligny-Montrachet domaine — premiers crus Les Combettes, Champ C
 
 _Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Street coverage._
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Montrachet | 2021 | Burghound | 94-97 | A wonderfully spicy nose combines notes of exotic tea and wood with a plethora of floral elements and white peach scents. | 261W·W30 lot 29032 |
 | Puligny Montrachet Champ Canet | 2020 | Burghound | 91-94 | There is a whiff of phenolic character to the ripe nose of white and yellow peach, petrol, floral and subtle exotic tea wisps. | 261W·W30 lot 29033 |
 | Puligny Montrachet Les Combettes | 2018 | Vinous | 91-94 | This also flirts with the exotic but remains pure and fresh and I like the fine layering of the airy aromas of acacia blossom, lavender, tangerine peel and esse… | 261W·W30 lot 29038 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

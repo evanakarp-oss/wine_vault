@@ -98,6 +98,41 @@ _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles.
 
 > While this is legally true at present, it is contested. After all, the Schrader-Beckstoffer-Mondavi lawsuit was settled out of court. And the outcome was that Beckstoffer and his clients were allowed to use the To Kalon name - hardly a victory for…
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Beckstoffer To Kalon Cabernet Sauvignon | 2018 | Wine Advocate | 99 | JD 98 JS 98 This “Schrader” label comes from Beckstoffer’s To Kalon vineyard in Oakville, produced from clone 4 grown on the C2 block. It is 100% Cabernet Sauvi… | Raeders 2026-04-25 |
+| Beckstoffer To Kalon Cabernet Sauvignon | 2018 | James Suckling | 98 |  | Raeders 2026-04-25 |
+| Beckstoffer To Kalon Cabernet Sauvignon | 2018 | Wine Spectator | 97 |  | Raeders 2026-04-25 |
+| Beckstoffer To Kalon Cabernet Sauvignon | 2019 | Wine Advocate | 97 |  | Raeders 2026-04-25 |
+| Beckstoffer To Kalon Cabernet Sauvignon | 2019 | James Suckling | 99 |  | Raeders 2026-04-25 |
+| Beckstoffer To Kalon Cabernet Sauvignon | 2019 | Wine Spectator | 97 |  | Raeders 2026-04-25 |
+| Cabernet Sauvignon Heritage Clone | 2021 | Wine Advocate | 97 |  | Raeders 2026-04-25 |
+| Cabernet Sauvignon Heritage Clone | 2021 | James Suckling | 99 | D 96 JD 97 JS 99 The 2021 Cabernet Sauvignon Mondavi Heritage Clone To Kalon Vineyard comes from a single block of vines planted to what has become known as clo… | Raeders 2026-04-25 |
+| Cabernet Sauvignon Heritage Clone | 2021 | Wine Spectator | 98 |  | Raeders 2026-04-25 |
+| Cabernet Sauvignon Napa Valley RBS Beckstoffer To Kalon Vineyard | 2019 | Wine Advocate | 97 |  | Raeders 2026-04-25 |
+| Cabernet Sauvignon Napa Valley RBS Beckstoffer To Kalon Vineyard | 2019 | James Suckling | 97 |  | Raeders 2026-04-25 |
+| Cabernet Sauvignon Napa Valley RBS Beckstoffer To Kalon Vineyard | 2019 | Wine Spectator | 96 |  | Raeders 2026-04-25 |
+| Cabernet Sauvignon Napa Valley RBS Beckstoffer To Kalon Vineyard | 2021 | Wine Advocate | 94 |  | Raeders 2026-04-25 |
+| Cabernet Sauvignon Napa Valley RBS Beckstoffer To Kalon Vineyard | 2021 | James Suckling | 97 |  | Raeders 2026-04-25 |
+| Cabernet Sauvignon Napa Valley RBS Beckstoffer To Kalon Vineyard | 2021 | Wine Spectator | 98 |  | Raeders 2026-04-25 |
+| Cabernet Sauvignon Wappo Hill | 2021 | Wine Advocate | 95 |  | Raeders 2026-04-25 |
+| Cabernet Sauvignon Wappo Hill | 2021 | James Suckling | 95 |  | Raeders 2026-04-25 |
+| Cabernet Sauvignon Wappo Hill | 2021 | Wine Spectator | 97 |  | Raeders 2026-04-25 |
+| CCS Beckstoffer To-Kalon Cabernet Sauvignon | 2021 | Wine Advocate | 97 |  | Raeders 2026-04-25 |
+| CCS Beckstoffer To-Kalon Cabernet Sauvignon | 2021 | James Suckling | 98 |  | Raeders 2026-04-25 |
+| CCS Beckstoffer To-Kalon Cabernet Sauvignon | 2021 | Wine Spectator | 97 |  | Raeders 2026-04-25 |
+| Double Diamond Sauvignon Blanc | 2022 | James Suckling | 93 |  | Raeders 2026-04-25 |
+| MB Cabernet Sauvignon To Kalon | 2018 | Wine Advocate | 100 |  | Raeders 2026-04-25 |
+| MB Cabernet Sauvignon To Kalon | 2018 | James Suckling | 98 |  | Raeders 2026-04-25 |
+| MB Cabernet Sauvignon To Kalon | 2018 | Wine Spectator | 96 |  | Raeders 2026-04-25 |
+| T6 Cabernet Sauvignon Beckstoffer Tokalon Vineyard | 2019 | Wine Advocate | 97 |  | Raeders 2026-04-25 |
+| T6 Cabernet Sauvignon Beckstoffer Tokalon Vineyard | 2019 | James Suckling | 97 |  | Raeders 2026-04-25 |
+| T6 Cabernet Sauvignon Beckstoffer Tokalon Vineyard | 2019 | Wine Spectator | 97 |  | Raeders 2026-04-25 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated._

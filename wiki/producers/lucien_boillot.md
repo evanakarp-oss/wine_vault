@@ -42,19 +42,19 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 
 _Not yet covered in CSW archive sweep._
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Chevalier Montrachet | 2018 | Burghound | 95 | A discreet whisper of the exotic adds breadth to the aromas of petrol, white flower, green apple, mineral reduction and lovely spice nuances. There is excellent… | 261W·W30 lot 29327 |
 | Montrachet | 2004 | Burghound | 96 | ...the massive flavors offer phenomenal punch, purity and simply phenomenal size and richness plus the fabulous level of dry extract gives this a chewy, rather… | 261W·W30 lot 24003 |
 | Puligny Montrachet Clos de la Mouchere | 2015 | — | 94 | The 2015 Puligny-Montrachet 1er Cru Clos de la Mouchère, Boillot's emblematic cuvée, is one of the highlights of the range in 2015, opening in the glass with no… | 261W·W30 lot 29468 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

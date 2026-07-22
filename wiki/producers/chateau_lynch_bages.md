@@ -145,18 +145,25 @@ _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles.
 
 > You have a lot of options. It’s a lovely Bordeaux vintage: I can only second the suggestions of Lynch Bages and LLC, which I’ve had in the last few months with immense pleasure. Mouton-Rothschild is fantastic and you might just be able to find a…
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Chateau Lynch Bages | 2016 | — | 97+ | Deep garnet-purple colored, the 2016 Lynch Bages comes charging out of the gate with pronounced cassis, chocolate-covered cherries, mulberries and menthol notio… | 261W·W30 lot 29376 |
 | Chateau Lynch Bages | 2018 | Vinous | 94 | ...has a wonderful bouquet of supremely well-defined blackberry, briar, crushed rock and pencil lead aromas that develop more floral scents with continued aerat… | 261W·W30 lot 29377 |
+| Echo de Lynch Bages | 2019 | Wine Spectator | 90 |  | Raeders 2026-04-25 |
+| Pauillac | 2003 | Wine Advocate | 94 | JS 94 A healthy, youthful dark plum/ruby/purple color is followed by a bouquet of smoke, barbecued meats, black currants and new saddle leather. With full body… | Raeders 2026-04-25 |
+| Pauillac | 2003 | James Suckling | 94 |  | Raeders 2026-04-25 |
+| Pauillac | 2003 | Wine Enthusiast | 94 |  | Raeders 2026-04-25 |
+| Pauillac | 2020 | James Suckling | 99 |  | Raeders 2026-04-25 |
+| Pauillac | 2020 | Wine Spectator | 96 |  | Raeders 2026-04-25 |
+| Pauillac | 2020 | Wine Enthusiast | 98 |  | Raeders 2026-04-25 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

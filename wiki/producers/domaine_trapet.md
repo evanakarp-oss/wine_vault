@@ -142,17 +142,17 @@ _sources:
 
 > Thanks for the kind words! It is true that I hesitated to post for the reasons you give. But equally, what with the vineyards being in plain sight, I think it’s only a matter of time before these sorts of exchanges begin to happen. Of course, while…
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Latricieres Chambertin | 2005 | Burghound | 94 | An exceptionally fresh nose of beautiful red berry fruit and mineral hints trimmed in a subtle touch of wood spice introduces absolutely lovely, classy and pure… | 261W·W30 lot 29320 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 
 ## Raeder's
 

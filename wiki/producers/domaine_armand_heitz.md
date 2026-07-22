@@ -79,6 +79,15 @@ berserkers_kelley_body:
 
 > Certainly, higher yields ripen more slowly, so hanging more fruit can buffer sugar accumulation in warm, sunny vintages. But if it’s possible to modify viticulture to give small yields with great acids, high levels of dry extract, and complete…
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Martha's Vineyard Cabernet Sauvignon | 2016 | Wine Advocate | 96 | The 2016 Cabernet Sauvignon Martha's Vineyard barely hints at eucalyptus on the nose, with much more emphasis given to black cherries and cassis. This is full-b… | Raeders 2026-04-25 |
+| Martha's Vineyard Cabernet Sauvignon | 2016 | Wine Spectator | 95 |  | Raeders 2026-04-25 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._

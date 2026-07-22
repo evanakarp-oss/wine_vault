@@ -84,19 +84,19 @@ berserkers_kelley_body:
 
 > In the 2015 vintage, my supposition is that this wine will hit its stride at around age 5-8 and enjoy fully 20 years of longevity, though of course your mileage may vary depending on the conditions in which you store it. I’ve had CdN villages from…
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Charmes Chambertin Cuvee de Tres Vieilles Vignes | 1991 | Burghound | 93 | High-toned, wonderfully elegant fruit with flavors that are tight yet show outstanding complexity and depth. The tannins are ripe and still quite prominent on t… | 261W·W30 lot 22633 |
 | Charmes Chambertin Cuvee de Tres Vieilles Vignes | 2014 | Burghound | 95 | Once again the nose has mostly absorbed its wood treatment on the ultra-spicy, ripe and attractively fresh nose of black cherry, earth, underbrush and soft flor… | 261W·W30 lot 28955 |
 | Charmes Chambertin Cuvee de Tres Vieilles Vignes | 2015 | Burghound | 94 | This is almost as elegant as the Griotte but with a different aromatic profile that runs more toward a slightly darker range of fruit, earth, game and discreet… | 261W·W30 lot 28956 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 
 ## Raeder's
 

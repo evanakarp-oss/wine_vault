@@ -53,6 +53,24 @@ _sources: ["short:short__Feudo_Montoni.md"]
 
 > *9/19/11 -* ** Nero d’Avola is the most widely planted grape on Sicily, and its increasing popularity means that it’s now grown all over the island, even in the western provinces of Marsala and Trapani, which were once exclusively places for white wine. With…
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Grillo della Timpa | 2022 | Wine Spectator | 90 |  | Raeders 2026-04-25 |
+| Grillo della Timpa | 2022 | Wine Enthusiast | 92 |  | Raeders 2026-04-25 |
+| Lagnusa Nero d'Avola Sicilia | 2020 | Wine Advocate | 90 |  | Raeders 2026-04-25 |
+| Lagnusa Nero d'Avola Sicilia | 2020 | Wine Spectator | 91 |  | Raeders 2026-04-25 |
+| Lagnusa Nero d'Avola Sicilia | 2020 | Wine Enthusiast | 91 |  | Raeders 2026-04-25 |
+| Nero d’Avola Vrucara Sicily | 2015 | Wine Advocate | 94 |  | Raeders 2026-04-25 |
+| Nero d’Avola Vrucara Sicily | 2015 | Wine Enthusiast | 92 |  | Raeders 2026-04-25 |
+| Nero d’Avola Vrucara Sicily | 2016 | Wine Enthusiast | 93 |  | Raeders 2026-04-25 |
+| Nero d’Avola Vrucara Sicily | 2018 | Wine Advocate | 93 | WA 93 V 93 Tasting Notes A bright ruby red color, Vrucara is intense and persistent on the nose with earthy aromas, notes of red plum and dark berries, which ar… | Raeders 2026-04-25 |
+| Nero d’Avola Vrucara Sicily | 2018 | Wine Spectator | 90 |  | Raeders 2026-04-25 |
+| Nero d’Avola Vrucara Sicily | 2018 | Wine Enthusiast | 92 |  | Raeders 2026-04-25 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._

@@ -177,8 +177,11 @@ def render_section(source: str, clippings: list[Clipping]) -> str:
 SECTION_END_RE_TEMPLATE = (
     r"({header}\n.*?)(?=^## |\Z)"
 )
-INSERT_BEFORE = ("## Cross-references", "## Notes", "## Cellar",
-                 "## Down to Earth Wines (Panzer)", "## Raeder's", "## FASS")
+# Place critic clippings in the critic cluster (after CSW/Berserkers), before the
+# retailer/cross-ref/notes tail — per wiki/_SCHEMA.md. Anchor priority is
+# most-preferred first.
+INSERT_BEFORE = ("## Critic Ratings", "## Down to Earth Wines (Panzer)",
+                 "## Raeder's", "## FASS", "## Cross-references", "## Notes", "## Cellar")
 
 
 def write_section(producer_path: Path, source: str, section_body: str) -> bool:
@@ -198,7 +201,7 @@ def write_section(producer_path: Path, source: str, section_body: str) -> bool:
         # Insert before the first known anchor section
         insert_pat = None
         for anchor in INSERT_BEFORE:
-            pat = re.compile(rf"^{re.escape(anchor)}\b", re.MULTILINE)
+            pat = re.compile(rf"^{re.escape(anchor)}\s*$", re.MULTILINE)
             m = pat.search(text)
             if m:
                 insert_pat = m

@@ -71,17 +71,17 @@ _sources:
 
 > Really good one there! It’s Musar!
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Chateau Musar | 1998 | — | 90 | The 1998 Chateau Musar is a rather prototypical Musar lots of acidity, some brett, fine structure. It reveals a more gentle style on opening, but aeration prove… | 261W·W30 lot 29482 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 
 ## Raeder's
 

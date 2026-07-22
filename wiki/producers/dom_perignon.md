@@ -244,13 +244,9 @@ _LVMH prestige; only ever vintage. P2 (15+ years on lees) and P3 (40+) are the a
 
 > My understanding was that Dom Pérignon made still wines. The notion that he invented sparkling wine is sometimes bandied around (I once heard it from one of DP’s UK brand reps), but it doesn’t even deserve to be called a legend - it’s just a mistake.
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
@@ -261,6 +257,10 @@ _Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py
 | Dom Perignon Vintage Champagne P2 | 1998 | Vinous | 95 | ...quite open at this stage. Hints of apricot, almond, white flowers and chamomile add texture on the fleshy, resonant finish. The added time on the lees has gi… | 261W·W30 lot 29096 |
 | Dom Perignon Vintage Champagne P2 | 2003 | Vinous | 96 | Power, generosity and volume are all exalted. The P2 balances richness with a greater sense of creaminess that comes through extended time on the cork. Readers… | 261W·W30 lot 29097 |
 | Dom Perignon Vintage Champagne Rose | 2008 | Wine Spectator | 97 | An impeccably balanced and graceful sparkling rosé, with a plushly creamy mousse. It's hard to tell where the firm spine of well-honed acidity and the expressiv… | 261W·W30 lot 29099 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

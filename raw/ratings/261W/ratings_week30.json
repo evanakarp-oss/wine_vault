@@ -2,11 +2,12 @@
   "sale": "261W",
   "week": "30",
   "source_file": "raw/auctions/Catalog_261W_30.xlsx",
-  "captured": "2026-07-21",
+  "captured": "2026-07-22",
   "count": 784,
   "ratings": [
     {
       "lot": 4417,
+      "source": "261W·W30 lot 4417",
       "producer_raw": "",
       "wine": "Chateau Doisy Daene",
       "designation": "",
@@ -27,6 +28,7 @@
     },
     {
       "lot": 4421,
+      "source": "261W·W30 lot 4421",
       "producer_raw": "",
       "wine": "Chateau Rieussec",
       "designation": "",
@@ -47,6 +49,7 @@
     },
     {
       "lot": 4422,
+      "source": "261W·W30 lot 4422",
       "producer_raw": "",
       "wine": "Chateau Rieussec",
       "designation": "",
@@ -67,6 +70,7 @@
     },
     {
       "lot": 4704,
+      "source": "261W·W30 lot 4704",
       "producer_raw": "Chateau de Pommard",
       "wine": "Pommard",
       "designation": "",
@@ -87,6 +91,7 @@
     },
     {
       "lot": 4705,
+      "source": "261W·W30 lot 4705",
       "producer_raw": "Chateau de Pommard",
       "wine": "Pommard",
       "designation": "",
@@ -107,6 +112,7 @@
     },
     {
       "lot": 7295,
+      "source": "261W·W30 lot 7295",
       "producer_raw": "Chateau de Pommard",
       "wine": "Pommard",
       "designation": "",
@@ -127,6 +133,7 @@
     },
     {
       "lot": 7296,
+      "source": "261W·W30 lot 7296",
       "producer_raw": "Chateau de Pommard",
       "wine": "Pommard",
       "designation": "",
@@ -147,6 +154,7 @@
     },
     {
       "lot": 9606,
+      "source": "261W·W30 lot 9606",
       "producer_raw": "B. Leroux",
       "wine": "Corton",
       "designation": "",
@@ -167,6 +175,7 @@
     },
     {
       "lot": 9607,
+      "source": "261W·W30 lot 9607",
       "producer_raw": "B. Leroux",
       "wine": "Corton",
       "designation": "",
@@ -187,6 +196,7 @@
     },
     {
       "lot": 9610,
+      "source": "261W·W30 lot 9610",
       "producer_raw": "Chateau de Pommard",
       "wine": "Pommard",
       "designation": "",
@@ -207,6 +217,7 @@
     },
     {
       "lot": 9611,
+      "source": "261W·W30 lot 9611",
       "producer_raw": "Chateau de Pommard",
       "wine": "Pommard",
       "designation": "",
@@ -227,6 +238,7 @@
     },
     {
       "lot": 11858,
+      "source": "261W·W30 lot 11858",
       "producer_raw": "",
       "wine": "Chateau Rieussec",
       "designation": "",
@@ -247,6 +259,7 @@
     },
     {
       "lot": 11859,
+      "source": "261W·W30 lot 11859",
       "producer_raw": "",
       "wine": "Chateau Rieussec",
       "designation": "",
@@ -267,6 +280,7 @@
     },
     {
       "lot": 11860,
+      "source": "261W·W30 lot 11860",
       "producer_raw": "",
       "wine": "Chateau Rieussec",
       "designation": "",
@@ -287,6 +301,7 @@
     },
     {
       "lot": 11861,
+      "source": "261W·W30 lot 11861",
       "producer_raw": "",
       "wine": "Chateau Rieussec",
       "designation": "",
@@ -307,6 +322,7 @@
     },
     {
       "lot": 13471,
+      "source": "261W·W30 lot 13471",
       "producer_raw": "",
       "wine": "Chateau Rieussec",
       "designation": "",
@@ -327,6 +343,7 @@
     },
     {
       "lot": 13472,
+      "source": "261W·W30 lot 13472",
       "producer_raw": "",
       "wine": "Chateau Rieussec",
       "designation": "",
@@ -347,6 +364,7 @@
     },
     {
       "lot": 13477,
+      "source": "261W·W30 lot 13477",
       "producer_raw": "M. Chapoutier",
       "wine": "St. Joseph Blanc",
       "designation": "Les Granits",
@@ -367,6 +385,7 @@
     },
     {
       "lot": 13487,
+      "source": "261W·W30 lot 13487",
       "producer_raw": "G. Noellat",
       "wine": "Gevrey Chambertin",
       "designation": "Les Fontenys",
@@ -387,6 +406,7 @@
     },
     {
       "lot": 13534,
+      "source": "261W·W30 lot 13534",
       "producer_raw": "",
       "wine": "Chateau Rieussec",
       "designation": "",
@@ -407,6 +427,7 @@
     },
     {
       "lot": 15242,
+      "source": "261W·W30 lot 15242",
       "producer_raw": "Domaine Leflaive",
       "wine": "Puligny Montrachet",
       "designation": "Les Combettes",
@@ -427,6 +448,7 @@
     },
     {
       "lot": 15249,
+      "source": "261W·W30 lot 15249",
       "producer_raw": "B. Leroux",
       "wine": "Corton",
       "designation": "",
@@ -447,6 +469,7 @@
     },
     {
       "lot": 15250,
+      "source": "261W·W30 lot 15250",
       "producer_raw": "B. Leroux",
       "wine": "Corton",
       "designation": "",
@@ -467,6 +490,7 @@
     },
     {
       "lot": 15251,
+      "source": "261W·W30 lot 15251",
       "producer_raw": "Chateau de Pommard",
       "wine": "Pommard",
       "designation": "",
@@ -487,6 +511,7 @@
     },
     {
       "lot": 15252,
+      "source": "261W·W30 lot 15252",
       "producer_raw": "Chateau de Pommard",
       "wine": "Pommard",
       "designation": "",
@@ -507,6 +532,7 @@
     },
     {
       "lot": 15253,
+      "source": "261W·W30 lot 15253",
       "producer_raw": "D. Laurent",
       "wine": "Bonnes Mares",
       "designation": "Vieilles Vignes",
@@ -527,6 +553,7 @@
     },
     {
       "lot": 15254,
+      "source": "261W·W30 lot 15254",
       "producer_raw": "D. Laurent",
       "wine": "Clos de la Roche",
       "designation": "Vieilles Vignes",
@@ -547,6 +574,7 @@
     },
     {
       "lot": 15349,
+      "source": "261W·W30 lot 15349",
       "producer_raw": "",
       "wine": "Chateau Haut Bailly",
       "designation": "",
@@ -567,6 +595,7 @@
     },
     {
       "lot": 15350,
+      "source": "261W·W30 lot 15350",
       "producer_raw": "",
       "wine": "Chateau La Mondotte",
       "designation": "",
@@ -587,6 +616,7 @@
     },
     {
       "lot": 15355,
+      "source": "261W·W30 lot 15355",
       "producer_raw": "",
       "wine": "La Chapelle de la Mission Haut Brion",
       "designation": "",
@@ -607,6 +637,7 @@
     },
     {
       "lot": 15361,
+      "source": "261W·W30 lot 15361",
       "producer_raw": "",
       "wine": "Chateau Rieussec",
       "designation": "",
@@ -627,6 +658,7 @@
     },
     {
       "lot": 15363,
+      "source": "261W·W30 lot 15363",
       "producer_raw": "",
       "wine": "Chateau Suduiraut",
       "designation": "",
@@ -647,6 +679,7 @@
     },
     {
       "lot": 15365,
+      "source": "261W·W30 lot 15365",
       "producer_raw": "M. Chapoutier",
       "wine": "St. Joseph Blanc",
       "designation": "Les Granits",
@@ -667,6 +700,7 @@
     },
     {
       "lot": 15366,
+      "source": "261W·W30 lot 15366",
       "producer_raw": "M. Chapoutier",
       "wine": "St. Joseph Blanc",
       "designation": "Les Granits",
@@ -687,6 +721,7 @@
     },
     {
       "lot": 16793,
+      "source": "261W·W30 lot 16793",
       "producer_raw": "R. Rostaing",
       "wine": "Cote Rotie",
       "designation": "Cote Blonde",
@@ -707,6 +742,7 @@
     },
     {
       "lot": 17743,
+      "source": "261W·W30 lot 17743",
       "producer_raw": "B. Dugat-Py",
       "wine": "Chambertin",
       "designation": "Vieilles Vignes",
@@ -727,6 +763,7 @@
     },
     {
       "lot": 17786,
+      "source": "261W·W30 lot 17786",
       "producer_raw": "B. Leroux",
       "wine": "Corton",
       "designation": "",
@@ -747,6 +784,7 @@
     },
     {
       "lot": 17787,
+      "source": "261W·W30 lot 17787",
       "producer_raw": "B. Leroux",
       "wine": "Corton",
       "designation": "",
@@ -767,6 +805,7 @@
     },
     {
       "lot": 17789,
+      "source": "261W·W30 lot 17789",
       "producer_raw": "Chateau de Pommard",
       "wine": "Pommard",
       "designation": "",
@@ -787,6 +826,7 @@
     },
     {
       "lot": 17790,
+      "source": "261W·W30 lot 17790",
       "producer_raw": "Chateau de Pommard",
       "wine": "Pommard",
       "designation": "",
@@ -807,6 +847,7 @@
     },
     {
       "lot": 17793,
+      "source": "261W·W30 lot 17793",
       "producer_raw": "Domaine D'Eugenie",
       "wine": "Clos Vougeot",
       "designation": "",
@@ -827,6 +868,7 @@
     },
     {
       "lot": 17918,
+      "source": "261W·W30 lot 17918",
       "producer_raw": "",
       "wine": "Chateau Rieussec",
       "designation": "",
@@ -847,6 +889,7 @@
     },
     {
       "lot": 17919,
+      "source": "261W·W30 lot 17919",
       "producer_raw": "",
       "wine": "Chateau Rieussec",
       "designation": "",
@@ -867,6 +910,7 @@
     },
     {
       "lot": 17920,
+      "source": "261W·W30 lot 17920",
       "producer_raw": "",
       "wine": "Chateau Suduiraut",
       "designation": "",
@@ -887,6 +931,7 @@
     },
     {
       "lot": 17941,
+      "source": "261W·W30 lot 17941",
       "producer_raw": "",
       "wine": "Chateau Camensac",
       "designation": "",
@@ -907,6 +952,7 @@
     },
     {
       "lot": 17943,
+      "source": "261W·W30 lot 17943",
       "producer_raw": "",
       "wine": "Chateau de Fieuzal",
       "designation": "",
@@ -927,6 +973,7 @@
     },
     {
       "lot": 17948,
+      "source": "261W·W30 lot 17948",
       "producer_raw": "",
       "wine": "Chateau La Lagune",
       "designation": "",
@@ -947,6 +994,7 @@
     },
     {
       "lot": 17949,
+      "source": "261W·W30 lot 17949",
       "producer_raw": "",
       "wine": "Chateau La Lagune",
       "designation": "",
@@ -967,6 +1015,7 @@
     },
     {
       "lot": 17954,
+      "source": "261W·W30 lot 17954",
       "producer_raw": "",
       "wine": "Chateau Lagrange",
       "designation": "",
@@ -987,6 +1036,7 @@
     },
     {
       "lot": 17955,
+      "source": "261W·W30 lot 17955",
       "producer_raw": "",
       "wine": "Chateau Lalande Borie",
       "designation": "",
@@ -1007,6 +1057,7 @@
     },
     {
       "lot": 17956,
+      "source": "261W·W30 lot 17956",
       "producer_raw": "",
       "wine": "Chateau Latour Martillac",
       "designation": "",
@@ -1027,6 +1078,7 @@
     },
     {
       "lot": 17960,
+      "source": "261W·W30 lot 17960",
       "producer_raw": "",
       "wine": "Chateau Poujeaux",
       "designation": "",
@@ -1047,6 +1099,7 @@
     },
     {
       "lot": 17963,
+      "source": "261W·W30 lot 17963",
       "producer_raw": "",
       "wine": "Domaine de Chevalier",
       "designation": "",
@@ -1067,6 +1120,7 @@
     },
     {
       "lot": 17968,
+      "source": "261W·W30 lot 17968",
       "producer_raw": "",
       "wine": "Chateau Doisy Daene",
       "designation": "",
@@ -1087,6 +1141,7 @@
     },
     {
       "lot": 18588,
+      "source": "261W·W30 lot 18588",
       "producer_raw": "B. Leroux",
       "wine": "Corton",
       "designation": "",
@@ -1107,6 +1162,7 @@
     },
     {
       "lot": 18589,
+      "source": "261W·W30 lot 18589",
       "producer_raw": "B. Leroux",
       "wine": "Corton",
       "designation": "",
@@ -1127,6 +1183,7 @@
     },
     {
       "lot": 18590,
+      "source": "261W·W30 lot 18590",
       "producer_raw": "Chateau de Pommard",
       "wine": "Pommard",
       "designation": "",
@@ -1147,6 +1204,7 @@
     },
     {
       "lot": 18656,
+      "source": "261W·W30 lot 18656",
       "producer_raw": "B. Giacosa",
       "wine": "Barolo",
       "designation": "Collina Rionda",
@@ -1167,6 +1225,7 @@
     },
     {
       "lot": 19274,
+      "source": "261W·W30 lot 19274",
       "producer_raw": "",
       "wine": "Rhys Syrah",
       "designation": "Horseshoe Vineyard",
@@ -1187,6 +1246,7 @@
     },
     {
       "lot": 21377,
+      "source": "261W·W30 lot 21377",
       "producer_raw": "",
       "wine": "Chateau L'Evangile",
       "designation": "",
@@ -1207,6 +1267,7 @@
     },
     {
       "lot": 21394,
+      "source": "261W·W30 lot 21394",
       "producer_raw": "",
       "wine": "Chateau Rieussec",
       "designation": "",
@@ -1227,6 +1288,7 @@
     },
     {
       "lot": 21396,
+      "source": "261W·W30 lot 21396",
       "producer_raw": "",
       "wine": "Chateau Rieussec",
       "designation": "",
@@ -1247,6 +1309,7 @@
     },
     {
       "lot": 21399,
+      "source": "261W·W30 lot 21399",
       "producer_raw": "",
       "wine": "Chateau Rieussec",
       "designation": "",
@@ -1267,6 +1330,7 @@
     },
     {
       "lot": 21400,
+      "source": "261W·W30 lot 21400",
       "producer_raw": "",
       "wine": "Chateau Rieussec",
       "designation": "",
@@ -1287,6 +1351,7 @@
     },
     {
       "lot": 21401,
+      "source": "261W·W30 lot 21401",
       "producer_raw": "",
       "wine": "Chateau Rieussec",
       "designation": "",
@@ -1307,6 +1372,7 @@
     },
     {
       "lot": 21402,
+      "source": "261W·W30 lot 21402",
       "producer_raw": "",
       "wine": "Chateau Rieussec",
       "designation": "",
@@ -1327,6 +1393,7 @@
     },
     {
       "lot": 21403,
+      "source": "261W·W30 lot 21403",
       "producer_raw": "",
       "wine": "Chateau Rieussec",
       "designation": "",
@@ -1347,6 +1414,7 @@
     },
     {
       "lot": 21404,
+      "source": "261W·W30 lot 21404",
       "producer_raw": "",
       "wine": "Chateau Suduiraut",
       "designation": "",
@@ -1367,6 +1435,7 @@
     },
     {
       "lot": 21405,
+      "source": "261W·W30 lot 21405",
       "producer_raw": "",
       "wine": "Chateau Suduiraut",
       "designation": "",
@@ -1387,6 +1456,7 @@
     },
     {
       "lot": 21406,
+      "source": "261W·W30 lot 21406",
       "producer_raw": "",
       "wine": "Chateau Suduiraut",
       "designation": "",
@@ -1407,6 +1477,7 @@
     },
     {
       "lot": 21956,
+      "source": "261W·W30 lot 21956",
       "producer_raw": "Dujac",
       "wine": "Bonnes Mares",
       "designation": "",
@@ -1427,6 +1498,7 @@
     },
     {
       "lot": 21959,
+      "source": "261W·W30 lot 21959",
       "producer_raw": "Maison Leroy",
       "wine": "Chambertin",
       "designation": "",
@@ -1447,6 +1519,7 @@
     },
     {
       "lot": 22098,
+      "source": "261W·W30 lot 22098",
       "producer_raw": "J.L. Chave",
       "wine": "St. Joseph",
       "designation": "Clos Florentin",
@@ -1467,6 +1540,7 @@
     },
     {
       "lot": 22633,
+      "source": "261W·W30 lot 22633",
       "producer_raw": "J. Roty",
       "wine": "Charmes Chambertin",
       "designation": "Cuvee de Tres Vieilles Vignes",
@@ -1487,6 +1561,7 @@
     },
     {
       "lot": 22717,
+      "source": "261W·W30 lot 22717",
       "producer_raw": "Marquis d'Angerville",
       "wine": "Volnay",
       "designation": "Champans",
@@ -1507,6 +1582,7 @@
     },
     {
       "lot": 22721,
+      "source": "261W·W30 lot 22721",
       "producer_raw": "Marquis d'Angerville",
       "wine": "Volnay",
       "designation": "Champans",
@@ -1527,6 +1603,7 @@
     },
     {
       "lot": 22730,
+      "source": "261W·W30 lot 22730",
       "producer_raw": "Marquis d'Angerville",
       "wine": "Volnay",
       "designation": "Champans",
@@ -1547,6 +1624,7 @@
     },
     {
       "lot": 22731,
+      "source": "261W·W30 lot 22731",
       "producer_raw": "Marquis d'Angerville",
       "wine": "Volnay",
       "designation": "Champans",
@@ -1567,6 +1645,7 @@
     },
     {
       "lot": 22733,
+      "source": "261W·W30 lot 22733",
       "producer_raw": "Marquis d'Angerville",
       "wine": "Volnay",
       "designation": "Champans",
@@ -1587,6 +1666,7 @@
     },
     {
       "lot": 22734,
+      "source": "261W·W30 lot 22734",
       "producer_raw": "Marquis d'Angerville",
       "wine": "Volnay",
       "designation": "Champans",
@@ -1607,6 +1687,7 @@
     },
     {
       "lot": 22784,
+      "source": "261W·W30 lot 22784",
       "producer_raw": "Marquis d'Angerville",
       "wine": "Volnay",
       "designation": "Clos des Ducs",
@@ -1627,6 +1708,7 @@
     },
     {
       "lot": 22945,
+      "source": "261W·W30 lot 22945",
       "producer_raw": "Bouchard, Pere et Fils",
       "wine": "Chevalier Montrachet",
       "designation": "",
@@ -1647,6 +1729,7 @@
     },
     {
       "lot": 22972,
+      "source": "261W·W30 lot 22972",
       "producer_raw": "Trimbach",
       "wine": "Riesling",
       "designation": "Clos Ste. Hune",
@@ -1667,6 +1750,7 @@
     },
     {
       "lot": 23604,
+      "source": "261W·W30 lot 23604",
       "producer_raw": "",
       "wine": "Lail Vineyards Cabernet Sauvignon",
       "designation": "J. Daniel Cuvee",
@@ -1687,6 +1771,7 @@
     },
     {
       "lot": 23844,
+      "source": "261W·W30 lot 23844",
       "producer_raw": "G. Roumier",
       "wine": "Chambolle Musigny",
       "designation": "Les Amoureuses",
@@ -1707,6 +1792,7 @@
     },
     {
       "lot": 23856,
+      "source": "261W·W30 lot 23856",
       "producer_raw": "M. Lafarge",
       "wine": "Volnay",
       "designation": "Clos des Chenes",
@@ -1727,6 +1813,7 @@
     },
     {
       "lot": 24003,
+      "source": "261W·W30 lot 24003",
       "producer_raw": "H. Boillot",
       "wine": "Montrachet",
       "designation": "",
@@ -1747,6 +1834,7 @@
     },
     {
       "lot": 24051,
+      "source": "261W·W30 lot 24051",
       "producer_raw": "",
       "wine": "Chateau Peby Faugeres",
       "designation": "",
@@ -1767,6 +1855,7 @@
     },
     {
       "lot": 24052,
+      "source": "261W·W30 lot 24052",
       "producer_raw": "",
       "wine": "Chateau Peby Faugeres",
       "designation": "",
@@ -1787,6 +1876,7 @@
     },
     {
       "lot": 24053,
+      "source": "261W·W30 lot 24053",
       "producer_raw": "",
       "wine": "Chateau Peby Faugeres",
       "designation": "",
@@ -1807,6 +1897,7 @@
     },
     {
       "lot": 24054,
+      "source": "261W·W30 lot 24054",
       "producer_raw": "",
       "wine": "Chateau Peby Faugeres",
       "designation": "",
@@ -1827,6 +1918,7 @@
     },
     {
       "lot": 24055,
+      "source": "261W·W30 lot 24055",
       "producer_raw": "",
       "wine": "Chateau Peby Faugeres",
       "designation": "",
@@ -1847,6 +1939,7 @@
     },
     {
       "lot": 24057,
+      "source": "261W·W30 lot 24057",
       "producer_raw": "",
       "wine": "Philipponnat Vintage Champagne",
       "designation": "Clos des Goisses",
@@ -1867,6 +1960,7 @@
     },
     {
       "lot": 24058,
+      "source": "261W·W30 lot 24058",
       "producer_raw": "",
       "wine": "Philipponnat Vintage Champagne",
       "designation": "Clos des Goisses",
@@ -1887,6 +1981,7 @@
     },
     {
       "lot": 24059,
+      "source": "261W·W30 lot 24059",
       "producer_raw": "",
       "wine": "Philipponnat Vintage Champagne",
       "designation": "Clos des Goisses",
@@ -1907,6 +2002,7 @@
     },
     {
       "lot": 24060,
+      "source": "261W·W30 lot 24060",
       "producer_raw": "",
       "wine": "Philipponnat Vintage Champagne",
       "designation": "Clos des Goisses",
@@ -1927,6 +2023,7 @@
     },
     {
       "lot": 24061,
+      "source": "261W·W30 lot 24061",
       "producer_raw": "",
       "wine": "Philipponnat Vintage Champagne",
       "designation": "Clos des Goisses",
@@ -1947,6 +2044,7 @@
     },
     {
       "lot": 24062,
+      "source": "261W·W30 lot 24062",
       "producer_raw": "",
       "wine": "Philipponnat Vintage Champagne",
       "designation": "Clos des Goisses",
@@ -1967,6 +2065,7 @@
     },
     {
       "lot": 24370,
+      "source": "261W·W30 lot 24370",
       "producer_raw": "",
       "wine": "Morlet Family Vineyards Cabernet Sauvignon",
       "designation": "Mon Chevalier",
@@ -1987,6 +2086,7 @@
     },
     {
       "lot": 24371,
+      "source": "261W·W30 lot 24371",
       "producer_raw": "",
       "wine": "Morlet Family Vineyards Cabernet Sauvignon",
       "designation": "Mon Chevalier",
@@ -2007,6 +2107,7 @@
     },
     {
       "lot": 24631,
+      "source": "261W·W30 lot 24631",
       "producer_raw": "",
       "wine": "Chateau Haut Brion",
       "designation": "",
@@ -2027,6 +2128,7 @@
     },
     {
       "lot": 24632,
+      "source": "261W·W30 lot 24632",
       "producer_raw": "",
       "wine": "Chateau Haut Brion",
       "designation": "",
@@ -2047,6 +2149,7 @@
     },
     {
       "lot": 24685,
+      "source": "261W·W30 lot 24685",
       "producer_raw": "",
       "wine": "Chateau Valandraud",
       "designation": "",
@@ -2067,6 +2170,7 @@
     },
     {
       "lot": 24692,
+      "source": "261W·W30 lot 24692",
       "producer_raw": "",
       "wine": "Chateau Climens",
       "designation": "",
@@ -2087,6 +2191,7 @@
     },
     {
       "lot": 24700,
+      "source": "261W·W30 lot 24700",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Grands Echezeaux",
       "designation": "",
@@ -2107,6 +2212,7 @@
     },
     {
       "lot": 24748,
+      "source": "261W·W30 lot 24748",
       "producer_raw": "L. Latour",
       "wine": "Corton Charlemagne",
       "designation": "",
@@ -2127,6 +2233,7 @@
     },
     {
       "lot": 24756,
+      "source": "261W·W30 lot 24756",
       "producer_raw": "E. Guigal",
       "wine": "Cote Rotie",
       "designation": "Brune et Blonde",
@@ -2147,6 +2254,7 @@
     },
     {
       "lot": 24842,
+      "source": "261W·W30 lot 24842",
       "producer_raw": "",
       "wine": "Opus One",
       "designation": "",
@@ -2167,6 +2275,7 @@
     },
     {
       "lot": 24891,
+      "source": "261W·W30 lot 24891",
       "producer_raw": "",
       "wine": "Screaming Eagle Cabernet Sauvignon",
       "designation": "",
@@ -2187,6 +2296,7 @@
     },
     {
       "lot": 24899,
+      "source": "261W·W30 lot 24899",
       "producer_raw": "J. Drouhin",
       "wine": "Charmes Chambertin",
       "designation": "",
@@ -2207,6 +2317,7 @@
     },
     {
       "lot": 24900,
+      "source": "261W·W30 lot 24900",
       "producer_raw": "Lamarche",
       "wine": "La Grande Rue",
       "designation": "",
@@ -2227,6 +2338,7 @@
     },
     {
       "lot": 24910,
+      "source": "261W·W30 lot 24910",
       "producer_raw": "J. Grivot",
       "wine": "Nuits St. Georges",
       "designation": "Les Boudots",
@@ -2247,6 +2359,7 @@
     },
     {
       "lot": 24911,
+      "source": "261W·W30 lot 24911",
       "producer_raw": "",
       "wine": "Sine Qua Non Syrah",
       "designation": "Against the Wall",
@@ -2267,6 +2380,7 @@
     },
     {
       "lot": 25169,
+      "source": "261W·W30 lot 25169",
       "producer_raw": "Charlopin-Parizot",
       "wine": "Clos Vougeot",
       "designation": "",
@@ -2287,6 +2401,7 @@
     },
     {
       "lot": 25174,
+      "source": "261W·W30 lot 25174",
       "producer_raw": "F. Feuillet",
       "wine": "Morey St. Denis",
       "designation": "Clos Sorbe",
@@ -2307,6 +2422,7 @@
     },
     {
       "lot": 25270,
+      "source": "261W·W30 lot 25270",
       "producer_raw": "",
       "wine": "Chateau Cantemerle",
       "designation": "",
@@ -2327,6 +2443,7 @@
     },
     {
       "lot": 25271,
+      "source": "261W·W30 lot 25271",
       "producer_raw": "",
       "wine": "Chateau de Fieuzal",
       "designation": "",
@@ -2347,6 +2464,7 @@
     },
     {
       "lot": 25272,
+      "source": "261W·W30 lot 25272",
       "producer_raw": "",
       "wine": "Chateau de Fieuzal",
       "designation": "",
@@ -2367,6 +2485,7 @@
     },
     {
       "lot": 25275,
+      "source": "261W·W30 lot 25275",
       "producer_raw": "",
       "wine": "Chateau Grand Puy Lacoste",
       "designation": "",
@@ -2387,6 +2506,7 @@
     },
     {
       "lot": 25277,
+      "source": "261W·W30 lot 25277",
       "producer_raw": "",
       "wine": "Chateau La Lagune",
       "designation": "",
@@ -2407,6 +2527,7 @@
     },
     {
       "lot": 25278,
+      "source": "261W·W30 lot 25278",
       "producer_raw": "",
       "wine": "Chateau La Tour Carnet",
       "designation": "",
@@ -2427,6 +2548,7 @@
     },
     {
       "lot": 25279,
+      "source": "261W·W30 lot 25279",
       "producer_raw": "",
       "wine": "Chateau La Tour Carnet",
       "designation": "",
@@ -2447,6 +2569,7 @@
     },
     {
       "lot": 25283,
+      "source": "261W·W30 lot 25283",
       "producer_raw": "",
       "wine": "Chateau Poujeaux",
       "designation": "",
@@ -2467,6 +2590,7 @@
     },
     {
       "lot": 25284,
+      "source": "261W·W30 lot 25284",
       "producer_raw": "",
       "wine": "Chateau Poujeaux",
       "designation": "",
@@ -2487,6 +2611,7 @@
     },
     {
       "lot": 25285,
+      "source": "261W·W30 lot 25285",
       "producer_raw": "",
       "wine": "Domaine de Chevalier",
       "designation": "",
@@ -2507,6 +2632,7 @@
     },
     {
       "lot": 25286,
+      "source": "261W·W30 lot 25286",
       "producer_raw": "",
       "wine": "Domaine de Chevalier",
       "designation": "",
@@ -2527,6 +2653,7 @@
     },
     {
       "lot": 25288,
+      "source": "261W·W30 lot 25288",
       "producer_raw": "",
       "wine": "La Croix de Beaucaillou",
       "designation": "",
@@ -2547,6 +2674,7 @@
     },
     {
       "lot": 25290,
+      "source": "261W·W30 lot 25290",
       "producer_raw": "",
       "wine": "La Dame de Montrose",
       "designation": "",
@@ -2567,6 +2695,7 @@
     },
     {
       "lot": 25292,
+      "source": "261W·W30 lot 25292",
       "producer_raw": "",
       "wine": "Chateau Doisy Daene",
       "designation": "",
@@ -2587,6 +2716,7 @@
     },
     {
       "lot": 25387,
+      "source": "261W·W30 lot 25387",
       "producer_raw": "",
       "wine": "Chateau Latour a Pomerol",
       "designation": "",
@@ -2607,6 +2737,7 @@
     },
     {
       "lot": 25459,
+      "source": "261W·W30 lot 25459",
       "producer_raw": "H. Lignier",
       "wine": "Clos Vougeot",
       "designation": "",
@@ -2627,6 +2758,7 @@
     },
     {
       "lot": 25539,
+      "source": "261W·W30 lot 25539",
       "producer_raw": "P. Jaboulet",
       "wine": "Hermitage",
       "designation": "La Chapelle",
@@ -2647,6 +2779,7 @@
     },
     {
       "lot": 25853,
+      "source": "261W·W30 lot 25853",
       "producer_raw": "",
       "wine": "Chateau de Fieuzal",
       "designation": "",
@@ -2667,6 +2800,7 @@
     },
     {
       "lot": 25854,
+      "source": "261W·W30 lot 25854",
       "producer_raw": "",
       "wine": "Chateau de Fieuzal",
       "designation": "",
@@ -2687,6 +2821,7 @@
     },
     {
       "lot": 25855,
+      "source": "261W·W30 lot 25855",
       "producer_raw": "",
       "wine": "Chateau Grand Puy Lacoste",
       "designation": "",
@@ -2707,6 +2842,7 @@
     },
     {
       "lot": 25856,
+      "source": "261W·W30 lot 25856",
       "producer_raw": "",
       "wine": "Chateau Haut Bailly",
       "designation": "",
@@ -2727,6 +2863,7 @@
     },
     {
       "lot": 25857,
+      "source": "261W·W30 lot 25857",
       "producer_raw": "",
       "wine": "Chateau La Lagune",
       "designation": "",
@@ -2747,6 +2884,7 @@
     },
     {
       "lot": 25858,
+      "source": "261W·W30 lot 25858",
       "producer_raw": "",
       "wine": "Chateau La Tour Carnet",
       "designation": "",
@@ -2767,6 +2905,7 @@
     },
     {
       "lot": 25860,
+      "source": "261W·W30 lot 25860",
       "producer_raw": "",
       "wine": "Chateau Poujeaux",
       "designation": "",
@@ -2787,6 +2926,7 @@
     },
     {
       "lot": 25861,
+      "source": "261W·W30 lot 25861",
       "producer_raw": "",
       "wine": "Chateau Poujeaux",
       "designation": "",
@@ -2807,6 +2947,7 @@
     },
     {
       "lot": 25862,
+      "source": "261W·W30 lot 25862",
       "producer_raw": "",
       "wine": "Chateau Poujeaux",
       "designation": "",
@@ -2827,6 +2968,7 @@
     },
     {
       "lot": 25863,
+      "source": "261W·W30 lot 25863",
       "producer_raw": "",
       "wine": "Domaine de Chevalier",
       "designation": "",
@@ -2847,6 +2989,7 @@
     },
     {
       "lot": 25864,
+      "source": "261W·W30 lot 25864",
       "producer_raw": "",
       "wine": "Domaine de Chevalier",
       "designation": "",
@@ -2867,6 +3010,7 @@
     },
     {
       "lot": 25865,
+      "source": "261W·W30 lot 25865",
       "producer_raw": "",
       "wine": "La Chapelle de la Mission Haut Brion",
       "designation": "",
@@ -2887,6 +3031,7 @@
     },
     {
       "lot": 25866,
+      "source": "261W·W30 lot 25866",
       "producer_raw": "",
       "wine": "La Dame de Montrose",
       "designation": "",
@@ -2907,6 +3052,7 @@
     },
     {
       "lot": 25867,
+      "source": "261W·W30 lot 25867",
       "producer_raw": "",
       "wine": "La Dame de Montrose",
       "designation": "",
@@ -2927,6 +3073,7 @@
     },
     {
       "lot": 25870,
+      "source": "261W·W30 lot 25870",
       "producer_raw": "",
       "wine": "Chateau Doisy Daene",
       "designation": "",
@@ -2947,6 +3094,7 @@
     },
     {
       "lot": 25871,
+      "source": "261W·W30 lot 25871",
       "producer_raw": "",
       "wine": "Chateau Doisy Daene",
       "designation": "",
@@ -2967,6 +3115,7 @@
     },
     {
       "lot": 26077,
+      "source": "261W·W30 lot 26077",
       "producer_raw": "E. Vatan",
       "wine": "Sancerre",
       "designation": "Clos la Neore",
@@ -2987,6 +3136,7 @@
     },
     {
       "lot": 26079,
+      "source": "261W·W30 lot 26079",
       "producer_raw": "E. Vatan",
       "wine": "Sancerre",
       "designation": "Clos la Neore",
@@ -3007,6 +3157,7 @@
     },
     {
       "lot": 26416,
+      "source": "261W·W30 lot 26416",
       "producer_raw": "Fourrier",
       "wine": "Chambolle Musigny",
       "designation": "Les Sentiers, Vieilles Vignes",
@@ -3027,6 +3178,7 @@
     },
     {
       "lot": 26427,
+      "source": "261W·W30 lot 26427",
       "producer_raw": "Fourrier",
       "wine": "Gevrey Chambertin",
       "designation": "Les Cherbaudes, Vieilles Vignes",
@@ -3047,6 +3199,7 @@
     },
     {
       "lot": 26516,
+      "source": "261W·W30 lot 26516",
       "producer_raw": "Lamarche",
       "wine": "Clos Vougeot",
       "designation": "",
@@ -3067,6 +3220,7 @@
     },
     {
       "lot": 26517,
+      "source": "261W·W30 lot 26517",
       "producer_raw": "Lamarche",
       "wine": "Clos Vougeot",
       "designation": "",
@@ -3087,6 +3241,7 @@
     },
     {
       "lot": 26522,
+      "source": "261W·W30 lot 26522",
       "producer_raw": "Lamarche",
       "wine": "Echezeaux",
       "designation": "",
@@ -3107,6 +3262,7 @@
     },
     {
       "lot": 26598,
+      "source": "261W·W30 lot 26598",
       "producer_raw": "Antinori",
       "wine": "Tignanello",
       "designation": "",
@@ -3127,6 +3283,7 @@
     },
     {
       "lot": 26626,
+      "source": "261W·W30 lot 26626",
       "producer_raw": "",
       "wine": "Bryant Family Red",
       "designation": "Bettina",
@@ -3147,6 +3304,7 @@
     },
     {
       "lot": 26629,
+      "source": "261W·W30 lot 26629",
       "producer_raw": "",
       "wine": "Bryant Family Red",
       "designation": "Bettina",
@@ -3167,6 +3325,7 @@
     },
     {
       "lot": 26643,
+      "source": "261W·W30 lot 26643",
       "producer_raw": "",
       "wine": "Colgin Red",
       "designation": "Cariad Vineyard",
@@ -3187,6 +3346,7 @@
     },
     {
       "lot": 26658,
+      "source": "261W·W30 lot 26658",
       "producer_raw": "",
       "wine": "Dunn Vineyards Cabernet Sauvignon",
       "designation": "Napa Valley",
@@ -3207,6 +3367,7 @@
     },
     {
       "lot": 26666,
+      "source": "261W·W30 lot 26666",
       "producer_raw": "",
       "wine": "Gallica Cabernet Sauvignon",
       "designation": "",
@@ -3227,6 +3388,7 @@
     },
     {
       "lot": 26671,
+      "source": "261W·W30 lot 26671",
       "producer_raw": "",
       "wine": "Harlan Estate Red",
       "designation": "",
@@ -3247,6 +3409,7 @@
     },
     {
       "lot": 26673,
+      "source": "261W·W30 lot 26673",
       "producer_raw": "",
       "wine": "Harlan Estate Red",
       "designation": "The Maiden",
@@ -3267,6 +3430,7 @@
     },
     {
       "lot": 26675,
+      "source": "261W·W30 lot 26675",
       "producer_raw": "",
       "wine": "Harlan Estate Red",
       "designation": "The Maiden",
@@ -3287,6 +3451,7 @@
     },
     {
       "lot": 26689,
+      "source": "261W·W30 lot 26689",
       "producer_raw": "",
       "wine": "Hundred Acre Cabernet Sauvignon",
       "designation": "Deep Time",
@@ -3307,6 +3472,7 @@
     },
     {
       "lot": 26696,
+      "source": "261W·W30 lot 26696",
       "producer_raw": "",
       "wine": "Hundred Acre Cabernet Sauvignon",
       "designation": "Fortunate Son",
@@ -3327,6 +3493,7 @@
     },
     {
       "lot": 26702,
+      "source": "261W·W30 lot 26702",
       "producer_raw": "",
       "wine": "Hundred Acre Cabernet Sauvignon",
       "designation": "Kayli Morgan Vineyard",
@@ -3347,6 +3514,7 @@
     },
     {
       "lot": 26707,
+      "source": "261W·W30 lot 26707",
       "producer_raw": "",
       "wine": "Hundred Acre Cabernet Sauvignon",
       "designation": "Precious",
@@ -3367,6 +3535,7 @@
     },
     {
       "lot": 26708,
+      "source": "261W·W30 lot 26708",
       "producer_raw": "",
       "wine": "Hundred Acre Cabernet Sauvignon",
       "designation": "Precious",
@@ -3387,6 +3556,7 @@
     },
     {
       "lot": 26710,
+      "source": "261W·W30 lot 26710",
       "producer_raw": "",
       "wine": "Hundred Acre Cabernet Sauvignon",
       "designation": "Precious",
@@ -3407,6 +3577,7 @@
     },
     {
       "lot": 26721,
+      "source": "261W·W30 lot 26721",
       "producer_raw": "",
       "wine": "Joseph Phelps Winery",
       "designation": "Insignia",
@@ -3427,6 +3598,7 @@
     },
     {
       "lot": 26722,
+      "source": "261W·W30 lot 26722",
       "producer_raw": "",
       "wine": "Joseph Phelps Winery",
       "designation": "Insignia",
@@ -3447,6 +3619,7 @@
     },
     {
       "lot": 26727,
+      "source": "261W·W30 lot 26727",
       "producer_raw": "",
       "wine": "Matriarch Red",
       "designation": "",
@@ -3467,6 +3640,7 @@
     },
     {
       "lot": 26749,
+      "source": "261W·W30 lot 26749",
       "producer_raw": "",
       "wine": "Paul Hobbs Cabernet Sauvignon",
       "designation": "Beckstoffer Dr. Crane Vineyard",
@@ -3487,6 +3661,7 @@
     },
     {
       "lot": 26752,
+      "source": "261W·W30 lot 26752",
       "producer_raw": "",
       "wine": "Paul Hobbs Cabernet Sauvignon",
       "designation": "Beckstoffer To-Kalon Vineyard",
@@ -3507,6 +3682,7 @@
     },
     {
       "lot": 26755,
+      "source": "261W·W30 lot 26755",
       "producer_raw": "",
       "wine": "Paul Hobbs Cabernet Sauvignon",
       "designation": "Beckstoffer To-Kalon Vineyard",
@@ -3527,6 +3703,7 @@
     },
     {
       "lot": 26756,
+      "source": "261W·W30 lot 26756",
       "producer_raw": "",
       "wine": "Paul Hobbs Cabernet Sauvignon",
       "designation": "Beckstoffer To-Kalon Vineyard",
@@ -3547,6 +3724,7 @@
     },
     {
       "lot": 26757,
+      "source": "261W·W30 lot 26757",
       "producer_raw": "",
       "wine": "Paul Hobbs Cabernet Sauvignon",
       "designation": "Beckstoffer To-Kalon Vineyard",
@@ -3567,6 +3745,7 @@
     },
     {
       "lot": 26761,
+      "source": "261W·W30 lot 26761",
       "producer_raw": "",
       "wine": "Paul Hobbs Cabernet Sauvignon",
       "designation": "Hyde Vineyard",
@@ -3587,6 +3766,7 @@
     },
     {
       "lot": 26769,
+      "source": "261W·W30 lot 26769",
       "producer_raw": "",
       "wine": "Peter Michael Cabernet Sauvignon",
       "designation": "Au Paradis",
@@ -3607,6 +3787,7 @@
     },
     {
       "lot": 26806,
+      "source": "261W·W30 lot 26806",
       "producer_raw": "",
       "wine": "Shafer Cabernet Sauvignon",
       "designation": "Hillside Select",
@@ -3627,6 +3808,7 @@
     },
     {
       "lot": 26856,
+      "source": "261W·W30 lot 26856",
       "producer_raw": "",
       "wine": "Anderson's Conn Valley Red",
       "designation": "Right Bank",
@@ -3647,6 +3829,7 @@
     },
     {
       "lot": 26866,
+      "source": "261W·W30 lot 26866",
       "producer_raw": "",
       "wine": "Paul Hobbs Pinot Noir",
       "designation": "Hyde Vineyard",
@@ -3667,6 +3850,7 @@
     },
     {
       "lot": 26867,
+      "source": "261W·W30 lot 26867",
       "producer_raw": "",
       "wine": "Paul Hobbs Pinot Noir",
       "designation": "Ulises Valdez Vineyard",
@@ -3687,6 +3871,7 @@
     },
     {
       "lot": 26885,
+      "source": "261W·W30 lot 26885",
       "producer_raw": "",
       "wine": "Chateau Palmer",
       "designation": "",
@@ -3707,6 +3892,7 @@
     },
     {
       "lot": 26886,
+      "source": "261W·W30 lot 26886",
       "producer_raw": "",
       "wine": "Chateau Palmer",
       "designation": "",
@@ -3727,6 +3913,7 @@
     },
     {
       "lot": 26889,
+      "source": "261W·W30 lot 26889",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "La Tache",
       "designation": "",
@@ -3747,6 +3934,7 @@
     },
     {
       "lot": 26907,
+      "source": "261W·W30 lot 26907",
       "producer_raw": "",
       "wine": "Opus One",
       "designation": "",
@@ -3767,6 +3955,7 @@
     },
     {
       "lot": 27010,
+      "source": "261W·W30 lot 27010",
       "producer_raw": "Poggio di Sotto",
       "wine": "Brunello di Montalcino",
       "designation": "",
@@ -3787,6 +3976,7 @@
     },
     {
       "lot": 27011,
+      "source": "261W·W30 lot 27011",
       "producer_raw": "Poggio di Sotto",
       "wine": "Brunello di Montalcino",
       "designation": "",
@@ -3807,6 +3997,7 @@
     },
     {
       "lot": 27012,
+      "source": "261W·W30 lot 27012",
       "producer_raw": "Tenuta San Guido",
       "wine": "Sassicaia",
       "designation": "",
@@ -3827,6 +4018,7 @@
     },
     {
       "lot": 27041,
+      "source": "261W·W30 lot 27041",
       "producer_raw": "",
       "wine": "Chateau Le Tertre Roteboeuf",
       "designation": "",
@@ -3847,6 +4039,7 @@
     },
     {
       "lot": 27129,
+      "source": "261W·W30 lot 27129",
       "producer_raw": "Dal Forno",
       "wine": "Valpolicella",
       "designation": "",
@@ -3867,6 +4060,7 @@
     },
     {
       "lot": 27158,
+      "source": "261W·W30 lot 27158",
       "producer_raw": "La Spinetta",
       "wine": "Barbaresco",
       "designation": "Vigneto Valeirano",
@@ -3887,6 +4081,7 @@
     },
     {
       "lot": 27198,
+      "source": "261W·W30 lot 27198",
       "producer_raw": "",
       "wine": "Kistler Chardonnay",
       "designation": "Dutton Ranch",
@@ -3907,6 +4102,7 @@
     },
     {
       "lot": 27201,
+      "source": "261W·W30 lot 27201",
       "producer_raw": "",
       "wine": "Kistler Chardonnay",
       "designation": "Hudson Vineyard",
@@ -3927,6 +4123,7 @@
     },
     {
       "lot": 27275,
+      "source": "261W·W30 lot 27275",
       "producer_raw": "",
       "wine": "Chateau Ferrand Lartigue",
       "designation": "",
@@ -3947,6 +4144,7 @@
     },
     {
       "lot": 27288,
+      "source": "261W·W30 lot 27288",
       "producer_raw": "",
       "wine": "Chateau Haut Bergey",
       "designation": "",
@@ -3967,6 +4165,7 @@
     },
     {
       "lot": 27291,
+      "source": "261W·W30 lot 27291",
       "producer_raw": "",
       "wine": "Chateau La Croix du Casse",
       "designation": "",
@@ -3987,6 +4186,7 @@
     },
     {
       "lot": 27444,
+      "source": "261W·W30 lot 27444",
       "producer_raw": "Geantet-Pansiot",
       "wine": "Charmes Chambertin",
       "designation": "",
@@ -4007,6 +4207,7 @@
     },
     {
       "lot": 27595,
+      "source": "261W·W30 lot 27595",
       "producer_raw": "Clos St. Jean",
       "wine": "Chateauneuf du Pape",
       "designation": "Vieilles Vignes",
@@ -4027,6 +4228,7 @@
     },
     {
       "lot": 27596,
+      "source": "261W·W30 lot 27596",
       "producer_raw": "Clos St. Jean",
       "wine": "Chateauneuf du Pape",
       "designation": "Vieilles Vignes",
@@ -4047,6 +4249,7 @@
     },
     {
       "lot": 27637,
+      "source": "261W·W30 lot 27637",
       "producer_raw": "P. Usseglio",
       "wine": "Chateauneuf du Pape",
       "designation": "",
@@ -4067,6 +4270,7 @@
     },
     {
       "lot": 27643,
+      "source": "261W·W30 lot 27643",
       "producer_raw": "P. Usseglio",
       "wine": "Chateauneuf du Pape",
       "designation": "Cuvee de Mon Aieul",
@@ -4087,6 +4291,7 @@
     },
     {
       "lot": 27646,
+      "source": "261W·W30 lot 27646",
       "producer_raw": "R. Rostaing",
       "wine": "Cote Rotie",
       "designation": "Cote Blonde",
@@ -4107,6 +4312,7 @@
     },
     {
       "lot": 27743,
+      "source": "261W·W30 lot 27743",
       "producer_raw": "J.J. Prum",
       "wine": "Riesling Auslese",
       "designation": "Wehlener Sonnenuhr",
@@ -4127,6 +4333,7 @@
     },
     {
       "lot": 27744,
+      "source": "261W·W30 lot 27744",
       "producer_raw": "J.J. Prum",
       "wine": "Riesling Auslese",
       "designation": "Wehlener Sonnenuhr",
@@ -4147,6 +4354,7 @@
     },
     {
       "lot": 27779,
+      "source": "261W·W30 lot 27779",
       "producer_raw": "Altesino",
       "wine": "Brunello di Montalcino",
       "designation": "Riserva",
@@ -4167,6 +4375,7 @@
     },
     {
       "lot": 27895,
+      "source": "261W·W30 lot 27895",
       "producer_raw": "",
       "wine": "Seavey Cabernet Sauvignon",
       "designation": "",
@@ -4187,6 +4396,7 @@
     },
     {
       "lot": 27915,
+      "source": "261W·W30 lot 27915",
       "producer_raw": "",
       "wine": "Pax Red",
       "designation": "Cuvee Moriah",
@@ -4207,6 +4417,7 @@
     },
     {
       "lot": 27923,
+      "source": "261W·W30 lot 27923",
       "producer_raw": "",
       "wine": "Pax Syrah",
       "designation": "Castelli-Knight Ranch",
@@ -4227,6 +4438,7 @@
     },
     {
       "lot": 27944,
+      "source": "261W·W30 lot 27944",
       "producer_raw": "",
       "wine": "Pax Syrah",
       "designation": "Walker Vine Hill",
@@ -4247,6 +4459,7 @@
     },
     {
       "lot": 27988,
+      "source": "261W·W30 lot 27988",
       "producer_raw": "Raveneau",
       "wine": "Chablis",
       "designation": "Montee de Tonnerre",
@@ -4267,6 +4480,7 @@
     },
     {
       "lot": 28051,
+      "source": "261W·W30 lot 28051",
       "producer_raw": "",
       "wine": "Next of Kyn Red",
       "designation": "",
@@ -4287,6 +4501,7 @@
     },
     {
       "lot": 28140,
+      "source": "261W·W30 lot 28140",
       "producer_raw": "J.J. Prum",
       "wine": "Riesling Spatlese",
       "designation": "Wehlener Sonnenuhr",
@@ -4307,6 +4522,7 @@
     },
     {
       "lot": 28203,
+      "source": "261W·W30 lot 28203",
       "producer_raw": "B. Dugat-Py",
       "wine": "Charmes Chambertin",
       "designation": "",
@@ -4327,6 +4543,7 @@
     },
     {
       "lot": 28217,
+      "source": "261W·W30 lot 28217",
       "producer_raw": "Bart",
       "wine": "Bonnes Mares",
       "designation": "",
@@ -4347,6 +4564,7 @@
     },
     {
       "lot": 28218,
+      "source": "261W·W30 lot 28218",
       "producer_raw": "Bart",
       "wine": "Bonnes Mares",
       "designation": "",
@@ -4367,6 +4585,7 @@
     },
     {
       "lot": 28234,
+      "source": "261W·W30 lot 28234",
       "producer_raw": "Chateau de la Tour",
       "wine": "Clos Vougeot",
       "designation": "Hommage a Jean Morin, Vieilles Vignes",
@@ -4387,6 +4606,7 @@
     },
     {
       "lot": 28242,
+      "source": "261W·W30 lot 28242",
       "producer_raw": "Comte Lafon",
       "wine": "Volnay",
       "designation": "Champans",
@@ -4407,6 +4627,7 @@
     },
     {
       "lot": 28258,
+      "source": "261W·W30 lot 28258",
       "producer_raw": "Coquard-Loison-Fleurot",
       "wine": "Echezeaux",
       "designation": "",
@@ -4427,6 +4648,7 @@
     },
     {
       "lot": 28268,
+      "source": "261W·W30 lot 28268",
       "producer_raw": "Dujac",
       "wine": "Gevrey Chambertin",
       "designation": "Aux Combottes",
@@ -4447,6 +4669,7 @@
     },
     {
       "lot": 28277,
+      "source": "261W·W30 lot 28277",
       "producer_raw": "Duroche",
       "wine": "Echezeaux",
       "designation": "",
@@ -4467,6 +4690,7 @@
     },
     {
       "lot": 28301,
+      "source": "261W·W30 lot 28301",
       "producer_raw": "H. Lignier",
       "wine": "Morey St. Denis",
       "designation": "La Riotte",
@@ -4487,6 +4711,7 @@
     },
     {
       "lot": 28332,
+      "source": "261W·W30 lot 28332",
       "producer_raw": "J. Grivot",
       "wine": "Clos Vougeot",
       "designation": "",
@@ -4507,6 +4732,7 @@
     },
     {
       "lot": 28336,
+      "source": "261W·W30 lot 28336",
       "producer_raw": "J. Grivot",
       "wine": "Clos Vougeot",
       "designation": "",
@@ -4527,6 +4753,7 @@
     },
     {
       "lot": 28345,
+      "source": "261W·W30 lot 28345",
       "producer_raw": "J. Grivot",
       "wine": "Vosne Romanee",
       "designation": "Les Beaux Monts",
@@ -4547,6 +4774,7 @@
     },
     {
       "lot": 28350,
+      "source": "261W·W30 lot 28350",
       "producer_raw": "J.M. Fourrier",
       "wine": "Charmes Chambertin",
       "designation": "",
@@ -4567,6 +4795,7 @@
     },
     {
       "lot": 28362,
+      "source": "261W·W30 lot 28362",
       "producer_raw": "Lamarche",
       "wine": "Clos Vougeot",
       "designation": "",
@@ -4587,6 +4816,7 @@
     },
     {
       "lot": 28369,
+      "source": "261W·W30 lot 28369",
       "producer_raw": "Lamarche",
       "wine": "La Grande Rue",
       "designation": "",
@@ -4607,6 +4837,7 @@
     },
     {
       "lot": 28372,
+      "source": "261W·W30 lot 28372",
       "producer_raw": "Lamarche",
       "wine": "Vosne Romanee",
       "designation": "Aux Malconsorts",
@@ -4627,6 +4858,7 @@
     },
     {
       "lot": 28388,
+      "source": "261W·W30 lot 28388",
       "producer_raw": "Meo Camuzet",
       "wine": "Clos Vougeot",
       "designation": "",
@@ -4647,6 +4879,7 @@
     },
     {
       "lot": 28427,
+      "source": "261W·W30 lot 28427",
       "producer_raw": "Domaine Leflaive",
       "wine": "Batard Montrachet",
       "designation": "",
@@ -4667,6 +4900,7 @@
     },
     {
       "lot": 28440,
+      "source": "261W·W30 lot 28440",
       "producer_raw": "M. Niellon",
       "wine": "Chassagne Montrachet",
       "designation": "Les Vergers",
@@ -4687,6 +4921,7 @@
     },
     {
       "lot": 28444,
+      "source": "261W·W30 lot 28444",
       "producer_raw": "Raveneau",
       "wine": "Chablis",
       "designation": "Butteaux",
@@ -4707,6 +4942,7 @@
     },
     {
       "lot": 28458,
+      "source": "261W·W30 lot 28458",
       "producer_raw": "Chateau de Beaucastel",
       "wine": "Chateauneuf du Pape",
       "designation": "Hommage a Jacques Perrin",
@@ -4727,6 +4963,7 @@
     },
     {
       "lot": 28477,
+      "source": "261W·W30 lot 28477",
       "producer_raw": "P. Usseglio",
       "wine": "Chateauneuf du Pape",
       "designation": "Cuvee de Mon Aieul",
@@ -4747,6 +4984,7 @@
     },
     {
       "lot": 28527,
+      "source": "261W·W30 lot 28527",
       "producer_raw": "Maison Leroy",
       "wine": "Chambertin",
       "designation": "",
@@ -4767,6 +5005,7 @@
     },
     {
       "lot": 28685,
+      "source": "261W·W30 lot 28685",
       "producer_raw": "",
       "wine": "Cayuse Red",
       "designation": "Camaspelo",
@@ -4787,6 +5026,7 @@
     },
     {
       "lot": 28688,
+      "source": "261W·W30 lot 28688",
       "producer_raw": "",
       "wine": "Cayuse Red",
       "designation": "Flying Pig",
@@ -4807,6 +5047,7 @@
     },
     {
       "lot": 28695,
+      "source": "261W·W30 lot 28695",
       "producer_raw": "",
       "wine": "Cayuse Syrah",
       "designation": "Cailloux Vineyard",
@@ -4827,6 +5068,7 @@
     },
     {
       "lot": 28696,
+      "source": "261W·W30 lot 28696",
       "producer_raw": "",
       "wine": "Cayuse Syrah",
       "designation": "Cailloux Vineyard",
@@ -4847,6 +5089,7 @@
     },
     {
       "lot": 28747,
+      "source": "261W·W30 lot 28747",
       "producer_raw": "",
       "wine": "Warre's Vintage Port",
       "designation": "",
@@ -4867,6 +5110,7 @@
     },
     {
       "lot": 28805,
+      "source": "261W·W30 lot 28805",
       "producer_raw": "",
       "wine": "Chateau Pichon Lalande",
       "designation": "",
@@ -4887,6 +5131,7 @@
     },
     {
       "lot": 28807,
+      "source": "261W·W30 lot 28807",
       "producer_raw": "",
       "wine": "Chateau Prieure Lichine",
       "designation": "",
@@ -4907,6 +5152,7 @@
     },
     {
       "lot": 28813,
+      "source": "261W·W30 lot 28813",
       "producer_raw": "",
       "wine": "Chateau Doisy Daene",
       "designation": "",
@@ -4927,6 +5173,7 @@
     },
     {
       "lot": 28814,
+      "source": "261W·W30 lot 28814",
       "producer_raw": "",
       "wine": "Chateau Guiraud",
       "designation": "",
@@ -4947,6 +5194,7 @@
     },
     {
       "lot": 28816,
+      "source": "261W·W30 lot 28816",
       "producer_raw": "",
       "wine": "Chateau La Tour Blanche",
       "designation": "",
@@ -4967,6 +5215,7 @@
     },
     {
       "lot": 28852,
+      "source": "261W·W30 lot 28852",
       "producer_raw": "Dal Forno",
       "wine": "Valpolicella",
       "designation": "",
@@ -4987,6 +5236,7 @@
     },
     {
       "lot": 28860,
+      "source": "261W·W30 lot 28860",
       "producer_raw": "",
       "wine": "Chateau Montelena Cabernet Sauvignon",
       "designation": "",
@@ -5007,6 +5257,7 @@
     },
     {
       "lot": 28867,
+      "source": "261W·W30 lot 28867",
       "producer_raw": "",
       "wine": "Louis Roederer Champagne",
       "designation": "Collection 242",
@@ -5027,6 +5278,7 @@
     },
     {
       "lot": 28868,
+      "source": "261W·W30 lot 28868",
       "producer_raw": "",
       "wine": "Veuve Clicquot Champagne",
       "designation": "",
@@ -5047,6 +5299,7 @@
     },
     {
       "lot": 28869,
+      "source": "261W·W30 lot 28869",
       "producer_raw": "",
       "wine": "Veuve Clicquot Champagne",
       "designation": "",
@@ -5067,6 +5320,7 @@
     },
     {
       "lot": 28870,
+      "source": "261W·W30 lot 28870",
       "producer_raw": "",
       "wine": "Veuve Clicquot Champagne",
       "designation": "",
@@ -5087,6 +5341,7 @@
     },
     {
       "lot": 28871,
+      "source": "261W·W30 lot 28871",
       "producer_raw": "",
       "wine": "Veuve Clicquot Champagne",
       "designation": "",
@@ -5107,6 +5362,7 @@
     },
     {
       "lot": 28877,
+      "source": "261W·W30 lot 28877",
       "producer_raw": "Gaja",
       "wine": "Barbaresco",
       "designation": "",
@@ -5127,6 +5383,7 @@
     },
     {
       "lot": 28902,
+      "source": "261W·W30 lot 28902",
       "producer_raw": "",
       "wine": "Chateau Angelus",
       "designation": "",
@@ -5147,6 +5404,7 @@
     },
     {
       "lot": 28903,
+      "source": "261W·W30 lot 28903",
       "producer_raw": "",
       "wine": "Chateau Beychevelle",
       "designation": "",
@@ -5167,6 +5425,7 @@
     },
     {
       "lot": 28904,
+      "source": "261W·W30 lot 28904",
       "producer_raw": "",
       "wine": "Chateau La Mission Haut Brion",
       "designation": "",
@@ -5187,6 +5446,7 @@
     },
     {
       "lot": 28905,
+      "source": "261W·W30 lot 28905",
       "producer_raw": "",
       "wine": "Chateau Lafite Rothschild",
       "designation": "",
@@ -5207,6 +5467,7 @@
     },
     {
       "lot": 28906,
+      "source": "261W·W30 lot 28906",
       "producer_raw": "",
       "wine": "Chateau Leoville Las Cases",
       "designation": "",
@@ -5227,6 +5488,7 @@
     },
     {
       "lot": 28907,
+      "source": "261W·W30 lot 28907",
       "producer_raw": "",
       "wine": "Chateau Margaux",
       "designation": "",
@@ -5247,6 +5509,7 @@
     },
     {
       "lot": 28908,
+      "source": "261W·W30 lot 28908",
       "producer_raw": "",
       "wine": "Chateau Mouton Rothschild",
       "designation": "",
@@ -5267,6 +5530,7 @@
     },
     {
       "lot": 28909,
+      "source": "261W·W30 lot 28909",
       "producer_raw": "",
       "wine": "Chateau Mouton Rothschild",
       "designation": "",
@@ -5287,6 +5551,7 @@
     },
     {
       "lot": 28910,
+      "source": "261W·W30 lot 28910",
       "producer_raw": "",
       "wine": "Chateau Troplong Mondot",
       "designation": "",
@@ -5307,6 +5572,7 @@
     },
     {
       "lot": 28911,
+      "source": "261W·W30 lot 28911",
       "producer_raw": "",
       "wine": "Chateau d'Yquem",
       "designation": "",
@@ -5327,6 +5593,7 @@
     },
     {
       "lot": 28912,
+      "source": "261W·W30 lot 28912",
       "producer_raw": "",
       "wine": "Chateau d'Yquem",
       "designation": "",
@@ -5347,6 +5614,7 @@
     },
     {
       "lot": 28913,
+      "source": "261W·W30 lot 28913",
       "producer_raw": "",
       "wine": "Chateau d'Yquem",
       "designation": "",
@@ -5367,6 +5635,7 @@
     },
     {
       "lot": 28914,
+      "source": "261W·W30 lot 28914",
       "producer_raw": "",
       "wine": "Chateau d'Yquem",
       "designation": "",
@@ -5387,6 +5656,7 @@
     },
     {
       "lot": 28923,
+      "source": "261W·W30 lot 28923",
       "producer_raw": "Comte de Vogue",
       "wine": "Bonnes Mares",
       "designation": "",
@@ -5407,6 +5677,7 @@
     },
     {
       "lot": 28924,
+      "source": "261W·W30 lot 28924",
       "producer_raw": "Comte de Vogue",
       "wine": "Bonnes Mares",
       "designation": "",
@@ -5427,6 +5698,7 @@
     },
     {
       "lot": 28925,
+      "source": "261W·W30 lot 28925",
       "producer_raw": "Comte Liger-Belair",
       "wine": "La Romanee",
       "designation": "",
@@ -5447,6 +5719,7 @@
     },
     {
       "lot": 28926,
+      "source": "261W·W30 lot 28926",
       "producer_raw": "Comte Liger-Belair",
       "wine": "La Romanee",
       "designation": "",
@@ -5467,6 +5740,7 @@
     },
     {
       "lot": 28927,
+      "source": "261W·W30 lot 28927",
       "producer_raw": "Domaine de l'Arlot",
       "wine": "Nuits St. Georges",
       "designation": "Clos des Forets St. Georges",
@@ -5487,6 +5761,7 @@
     },
     {
       "lot": 28928,
+      "source": "261W·W30 lot 28928",
       "producer_raw": "Domaine de l'Arlot",
       "wine": "Romanee St. Vivant",
       "designation": "",
@@ -5507,6 +5782,7 @@
     },
     {
       "lot": 28930,
+      "source": "261W·W30 lot 28930",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Romanee Conti",
       "designation": "",
@@ -5527,6 +5803,7 @@
     },
     {
       "lot": 28931,
+      "source": "261W·W30 lot 28931",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Romanee Conti",
       "designation": "",
@@ -5547,6 +5824,7 @@
     },
     {
       "lot": 28932,
+      "source": "261W·W30 lot 28932",
       "producer_raw": "Domaine de Montille",
       "wine": "Vosne Romanee",
       "designation": "Aux Malconsorts",
@@ -5567,6 +5845,7 @@
     },
     {
       "lot": 28933,
+      "source": "261W·W30 lot 28933",
       "producer_raw": "Domaine de Montille",
       "wine": "Vosne Romanee",
       "designation": "Aux Malconsorts, Christiane",
@@ -5587,6 +5866,7 @@
     },
     {
       "lot": 28938,
+      "source": "261W·W30 lot 28938",
       "producer_raw": "H. Lignier",
       "wine": "Chambolle Musigny",
       "designation": "Les Chabiots",
@@ -5607,6 +5887,7 @@
     },
     {
       "lot": 28940,
+      "source": "261W·W30 lot 28940",
       "producer_raw": "H. Lignier",
       "wine": "Clos de la Roche",
       "designation": "Cuvee MCMLV",
@@ -5627,6 +5908,7 @@
     },
     {
       "lot": 28941,
+      "source": "261W·W30 lot 28941",
       "producer_raw": "H. Lignier",
       "wine": "Clos de la Roche",
       "designation": "Cuvee MCMLV",
@@ -5647,6 +5929,7 @@
     },
     {
       "lot": 28942,
+      "source": "261W·W30 lot 28942",
       "producer_raw": "H. Lignier",
       "wine": "Clos de la Roche",
       "designation": "Cuvee MCMLV",
@@ -5667,6 +5950,7 @@
     },
     {
       "lot": 28948,
+      "source": "261W·W30 lot 28948",
       "producer_raw": "J. Grivot",
       "wine": "Chambolle Musigny",
       "designation": "La Combe d'Orveau",
@@ -5687,6 +5971,7 @@
     },
     {
       "lot": 28950,
+      "source": "261W·W30 lot 28950",
       "producer_raw": "J. Grivot",
       "wine": "Richebourg",
       "designation": "",
@@ -5707,6 +5992,7 @@
     },
     {
       "lot": 28952,
+      "source": "261W·W30 lot 28952",
       "producer_raw": "J. Grivot",
       "wine": "Vosne Romanee",
       "designation": "Les Beaux Monts",
@@ -5727,6 +6013,7 @@
     },
     {
       "lot": 28955,
+      "source": "261W·W30 lot 28955",
       "producer_raw": "J. Roty",
       "wine": "Charmes Chambertin",
       "designation": "Cuvee de Tres Vieilles Vignes",
@@ -5747,6 +6034,7 @@
     },
     {
       "lot": 28956,
+      "source": "261W·W30 lot 28956",
       "producer_raw": "J. Roty",
       "wine": "Charmes Chambertin",
       "designation": "Cuvee de Tres Vieilles Vignes",
@@ -5767,6 +6055,7 @@
     },
     {
       "lot": 28957,
+      "source": "261W·W30 lot 28957",
       "producer_raw": "J.M. Fourrier",
       "wine": "Chambertin",
       "designation": "",
@@ -5787,6 +6076,7 @@
     },
     {
       "lot": 28958,
+      "source": "261W·W30 lot 28958",
       "producer_raw": "J.M. Fourrier",
       "wine": "Chambertin",
       "designation": "Clos de Beze, Vieilles Vignes",
@@ -5807,6 +6097,7 @@
     },
     {
       "lot": 28959,
+      "source": "261W·W30 lot 28959",
       "producer_raw": "J.M. Fourrier",
       "wine": "Chambertin",
       "designation": "Clos de Beze, Vieilles Vignes",
@@ -5827,6 +6118,7 @@
     },
     {
       "lot": 28969,
+      "source": "261W·W30 lot 28969",
       "producer_raw": "R. Chevillon",
       "wine": "Nuits St. Georges",
       "designation": "Les Chaignots",
@@ -5847,6 +6139,7 @@
     },
     {
       "lot": 28970,
+      "source": "261W·W30 lot 28970",
       "producer_raw": "R. Chevillon",
       "wine": "Nuits St. Georges",
       "designation": "Les St. Georges",
@@ -5867,6 +6160,7 @@
     },
     {
       "lot": 28971,
+      "source": "261W·W30 lot 28971",
       "producer_raw": "R. Chevillon",
       "wine": "Nuits St. Georges",
       "designation": "Les St. Georges",
@@ -5887,6 +6181,7 @@
     },
     {
       "lot": 28972,
+      "source": "261W·W30 lot 28972",
       "producer_raw": "R. Chevillon",
       "wine": "Nuits St. Georges",
       "designation": "Les St. Georges",
@@ -5907,6 +6202,7 @@
     },
     {
       "lot": 28973,
+      "source": "261W·W30 lot 28973",
       "producer_raw": "R. Chevillon",
       "wine": "Nuits St. Georges",
       "designation": "Les Vaucrains",
@@ -5927,6 +6223,7 @@
     },
     {
       "lot": 28974,
+      "source": "261W·W30 lot 28974",
       "producer_raw": "R. Chevillon",
       "wine": "Nuits St. Georges",
       "designation": "Les Vaucrains",
@@ -5947,6 +6244,7 @@
     },
     {
       "lot": 28977,
+      "source": "261W·W30 lot 28977",
       "producer_raw": "R. Groffier",
       "wine": "Chambolle Musigny",
       "designation": "Les Amoureuses",
@@ -5967,6 +6265,7 @@
     },
     {
       "lot": 28978,
+      "source": "261W·W30 lot 28978",
       "producer_raw": "R. Groffier",
       "wine": "Chambolle Musigny",
       "designation": "Les Sentiers",
@@ -5987,6 +6286,7 @@
     },
     {
       "lot": 28980,
+      "source": "261W·W30 lot 28980",
       "producer_raw": "S. Bize",
       "wine": "Latricieres Chambertin",
       "designation": "",
@@ -6007,6 +6307,7 @@
     },
     {
       "lot": 28985,
+      "source": "261W·W30 lot 28985",
       "producer_raw": "S. Cathiard",
       "wine": "Vosne Romanee",
       "designation": "",
@@ -6027,6 +6328,7 @@
     },
     {
       "lot": 28986,
+      "source": "261W·W30 lot 28986",
       "producer_raw": "S. Cathiard",
       "wine": "Vosne Romanee",
       "designation": "",
@@ -6047,6 +6349,7 @@
     },
     {
       "lot": 28993,
+      "source": "261W·W30 lot 28993",
       "producer_raw": "Bonneau du Martray",
       "wine": "Corton Charlemagne",
       "designation": "",
@@ -6067,6 +6370,7 @@
     },
     {
       "lot": 28994,
+      "source": "261W·W30 lot 28994",
       "producer_raw": "Bonneau du Martray",
       "wine": "Corton Charlemagne",
       "designation": "",
@@ -6087,6 +6391,7 @@
     },
     {
       "lot": 28995,
+      "source": "261W·W30 lot 28995",
       "producer_raw": "Bonneau du Martray",
       "wine": "Corton Charlemagne",
       "designation": "",
@@ -6107,6 +6412,7 @@
     },
     {
       "lot": 28998,
+      "source": "261W·W30 lot 28998",
       "producer_raw": "Comte Lafon",
       "wine": "Meursault",
       "designation": "Porusots",
@@ -6127,6 +6433,7 @@
     },
     {
       "lot": 29002,
+      "source": "261W·W30 lot 29002",
       "producer_raw": "H. Lamy",
       "wine": "Puligny Montrachet",
       "designation": "Les Tremblots, Vieilles Vignes",
@@ -6147,6 +6454,7 @@
     },
     {
       "lot": 29003,
+      "source": "261W·W30 lot 29003",
       "producer_raw": "H. Lamy",
       "wine": "Puligny Montrachet",
       "designation": "Les Tremblots, Vieilles Vignes",
@@ -6167,6 +6475,7 @@
     },
     {
       "lot": 29006,
+      "source": "261W·W30 lot 29006",
       "producer_raw": "H. Lamy",
       "wine": "St. Aubin",
       "designation": "En Remilly",
@@ -6187,6 +6496,7 @@
     },
     {
       "lot": 29007,
+      "source": "261W·W30 lot 29007",
       "producer_raw": "H. Lamy",
       "wine": "St. Aubin",
       "designation": "En Remilly",
@@ -6207,6 +6517,7 @@
     },
     {
       "lot": 29008,
+      "source": "261W·W30 lot 29008",
       "producer_raw": "H. Lamy",
       "wine": "St. Aubin",
       "designation": "En Remilly",
@@ -6227,6 +6538,7 @@
     },
     {
       "lot": 29010,
+      "source": "261W·W30 lot 29010",
       "producer_raw": "H. Lamy",
       "wine": "St. Aubin",
       "designation": "En Remilly",
@@ -6247,6 +6559,7 @@
     },
     {
       "lot": 29012,
+      "source": "261W·W30 lot 29012",
       "producer_raw": "H. Lamy",
       "wine": "St. Aubin",
       "designation": "En Remilly",
@@ -6267,6 +6580,7 @@
     },
     {
       "lot": 29014,
+      "source": "261W·W30 lot 29014",
       "producer_raw": "J.M. Roulot",
       "wine": "Corton Charlemagne",
       "designation": "",
@@ -6287,6 +6601,7 @@
     },
     {
       "lot": 29015,
+      "source": "261W·W30 lot 29015",
       "producer_raw": "J.M. Roulot",
       "wine": "Corton Charlemagne",
       "designation": "",
@@ -6307,6 +6622,7 @@
     },
     {
       "lot": 29016,
+      "source": "261W·W30 lot 29016",
       "producer_raw": "J.M. Roulot",
       "wine": "Corton Charlemagne",
       "designation": "",
@@ -6327,6 +6643,7 @@
     },
     {
       "lot": 29021,
+      "source": "261W·W30 lot 29021",
       "producer_raw": "Raveneau",
       "wine": "Chablis",
       "designation": "",
@@ -6347,6 +6664,7 @@
     },
     {
       "lot": 29022,
+      "source": "261W·W30 lot 29022",
       "producer_raw": "Raveneau",
       "wine": "Chablis",
       "designation": "",
@@ -6367,6 +6685,7 @@
     },
     {
       "lot": 29023,
+      "source": "261W·W30 lot 29023",
       "producer_raw": "Raveneau",
       "wine": "Petit Chablis",
       "designation": "",
@@ -6387,6 +6706,7 @@
     },
     {
       "lot": 29027,
+      "source": "261W·W30 lot 29027",
       "producer_raw": "Roulot",
       "wine": "Meursault",
       "designation": "A Mon Plaisir, Clos du Haut Tesson",
@@ -6407,6 +6727,7 @@
     },
     {
       "lot": 29028,
+      "source": "261W·W30 lot 29028",
       "producer_raw": "Roulot",
       "wine": "Meursault",
       "designation": "A Mon Plaisir, Clos du Haut Tesson",
@@ -6427,6 +6748,7 @@
     },
     {
       "lot": 29032,
+      "source": "261W·W30 lot 29032",
       "producer_raw": "Sauzet",
       "wine": "Montrachet",
       "designation": "",
@@ -6447,6 +6769,7 @@
     },
     {
       "lot": 29033,
+      "source": "261W·W30 lot 29033",
       "producer_raw": "Sauzet",
       "wine": "Puligny Montrachet",
       "designation": "Champ Canet",
@@ -6467,6 +6790,7 @@
     },
     {
       "lot": 29034,
+      "source": "261W·W30 lot 29034",
       "producer_raw": "Sauzet",
       "wine": "Puligny Montrachet",
       "designation": "Champ Canet",
@@ -6487,6 +6811,7 @@
     },
     {
       "lot": 29038,
+      "source": "261W·W30 lot 29038",
       "producer_raw": "Sauzet",
       "wine": "Puligny Montrachet",
       "designation": "Les Combettes",
@@ -6507,6 +6832,7 @@
     },
     {
       "lot": 29039,
+      "source": "261W·W30 lot 29039",
       "producer_raw": "Sauzet",
       "wine": "Puligny Montrachet",
       "designation": "Les Combettes",
@@ -6527,6 +6853,7 @@
     },
     {
       "lot": 29044,
+      "source": "261W·W30 lot 29044",
       "producer_raw": "V. Dancer",
       "wine": "Chassagne Montrachet",
       "designation": "La Romanee",
@@ -6547,6 +6874,7 @@
     },
     {
       "lot": 29046,
+      "source": "261W·W30 lot 29046",
       "producer_raw": "V. Dauvissat",
       "wine": "Chablis",
       "designation": "La Forest",
@@ -6567,6 +6895,7 @@
     },
     {
       "lot": 29047,
+      "source": "261W·W30 lot 29047",
       "producer_raw": "V. Dauvissat",
       "wine": "Chablis",
       "designation": "Les Preuses",
@@ -6587,6 +6916,7 @@
     },
     {
       "lot": 29048,
+      "source": "261W·W30 lot 29048",
       "producer_raw": "Chateau de Beaucastel",
       "wine": "Chateauneuf du Pape",
       "designation": "Hommage a Jacques Perrin",
@@ -6607,6 +6937,7 @@
     },
     {
       "lot": 29049,
+      "source": "261W·W30 lot 29049",
       "producer_raw": "Chateau de Beaucastel",
       "wine": "Chateauneuf du Pape",
       "designation": "Hommage a Jacques Perrin",
@@ -6627,6 +6958,7 @@
     },
     {
       "lot": 29050,
+      "source": "261W·W30 lot 29050",
       "producer_raw": "Chateau de Beaucastel",
       "wine": "Chateauneuf du Pape",
       "designation": "Hommage a Jacques Perrin",
@@ -6647,6 +6979,7 @@
     },
     {
       "lot": 29052,
+      "source": "261W·W30 lot 29052",
       "producer_raw": "E. Guigal",
       "wine": "Cote Rotie",
       "designation": "La Landonne",
@@ -6667,6 +7000,7 @@
     },
     {
       "lot": 29053,
+      "source": "261W·W30 lot 29053",
       "producer_raw": "E. Guigal",
       "wine": "Cote Rotie",
       "designation": "La Landonne",
@@ -6687,6 +7021,7 @@
     },
     {
       "lot": 29054,
+      "source": "261W·W30 lot 29054",
       "producer_raw": "E. Guigal",
       "wine": "Cote Rotie",
       "designation": "La Landonne",
@@ -6707,6 +7042,7 @@
     },
     {
       "lot": 29055,
+      "source": "261W·W30 lot 29055",
       "producer_raw": "E. Guigal",
       "wine": "Cote Rotie",
       "designation": "La Landonne",
@@ -6727,6 +7063,7 @@
     },
     {
       "lot": 29061,
+      "source": "261W·W30 lot 29061",
       "producer_raw": "T. Allemand",
       "wine": "Cornas",
       "designation": "Reynard",
@@ -6747,6 +7084,7 @@
     },
     {
       "lot": 29070,
+      "source": "261W·W30 lot 29070",
       "producer_raw": "",
       "wine": "Charles Heidsieck Vintage Champagne",
       "designation": "Blanc des Millenaires",
@@ -6767,6 +7105,7 @@
     },
     {
       "lot": 29085,
+      "source": "261W·W30 lot 29085",
       "producer_raw": "",
       "wine": "Deutz Vintage Champagne",
       "designation": "Blanc de Blancs",
@@ -6787,6 +7126,7 @@
     },
     {
       "lot": 29088,
+      "source": "261W·W30 lot 29088",
       "producer_raw": "",
       "wine": "Deutz Vintage Champagne",
       "designation": "Cuvee William Deutz",
@@ -6807,6 +7147,7 @@
     },
     {
       "lot": 29089,
+      "source": "261W·W30 lot 29089",
       "producer_raw": "",
       "wine": "Dom Perignon Vintage Champagne",
       "designation": "",
@@ -6827,6 +7168,7 @@
     },
     {
       "lot": 29090,
+      "source": "261W·W30 lot 29090",
       "producer_raw": "",
       "wine": "Dom Perignon Vintage Champagne",
       "designation": "",
@@ -6847,6 +7189,7 @@
     },
     {
       "lot": 29091,
+      "source": "261W·W30 lot 29091",
       "producer_raw": "",
       "wine": "Dom Perignon Vintage Champagne",
       "designation": "",
@@ -6867,6 +7210,7 @@
     },
     {
       "lot": 29092,
+      "source": "261W·W30 lot 29092",
       "producer_raw": "",
       "wine": "Dom Perignon Vintage Champagne",
       "designation": "",
@@ -6887,6 +7231,7 @@
     },
     {
       "lot": 29093,
+      "source": "261W·W30 lot 29093",
       "producer_raw": "",
       "wine": "Dom Perignon Vintage Champagne",
       "designation": "",
@@ -6907,6 +7252,7 @@
     },
     {
       "lot": 29096,
+      "source": "261W·W30 lot 29096",
       "producer_raw": "",
       "wine": "Dom Perignon Vintage Champagne",
       "designation": "P2",
@@ -6927,6 +7273,7 @@
     },
     {
       "lot": 29097,
+      "source": "261W·W30 lot 29097",
       "producer_raw": "",
       "wine": "Dom Perignon Vintage Champagne",
       "designation": "P2",
@@ -6947,6 +7294,7 @@
     },
     {
       "lot": 29098,
+      "source": "261W·W30 lot 29098",
       "producer_raw": "",
       "wine": "Dom Perignon Vintage Champagne",
       "designation": "P2",
@@ -6967,6 +7315,7 @@
     },
     {
       "lot": 29099,
+      "source": "261W·W30 lot 29099",
       "producer_raw": "",
       "wine": "Dom Perignon Vintage Champagne",
       "designation": "Rose",
@@ -6987,6 +7336,7 @@
     },
     {
       "lot": 29114,
+      "source": "261W·W30 lot 29114",
       "producer_raw": "",
       "wine": "Guillaume Selosse Champagne",
       "designation": "Largillier",
@@ -7007,6 +7357,7 @@
     },
     {
       "lot": 29115,
+      "source": "261W·W30 lot 29115",
       "producer_raw": "",
       "wine": "Guillaume Selosse Champagne",
       "designation": "Largillier",
@@ -7027,6 +7378,7 @@
     },
     {
       "lot": 29119,
+      "source": "261W·W30 lot 29119",
       "producer_raw": "",
       "wine": "Henri Giraud Vintage Champagne",
       "designation": "Argonne",
@@ -7047,6 +7399,7 @@
     },
     {
       "lot": 29120,
+      "source": "261W·W30 lot 29120",
       "producer_raw": "",
       "wine": "Henri Giraud Vintage Champagne",
       "designation": "Argonne",
@@ -7067,6 +7420,7 @@
     },
     {
       "lot": 29128,
+      "source": "261W·W30 lot 29128",
       "producer_raw": "",
       "wine": "Jacques Selosse Champagne",
       "designation": "Substance",
@@ -7087,6 +7441,7 @@
     },
     {
       "lot": 29129,
+      "source": "261W·W30 lot 29129",
       "producer_raw": "",
       "wine": "Jacques Selosse Champagne",
       "designation": "VO",
@@ -7107,6 +7462,7 @@
     },
     {
       "lot": 29130,
+      "source": "261W·W30 lot 29130",
       "producer_raw": "",
       "wine": "Jacques Selosse Champagne",
       "designation": "VO",
@@ -7127,6 +7483,7 @@
     },
     {
       "lot": 29138,
+      "source": "261W·W30 lot 29138",
       "producer_raw": "",
       "wine": "Krug Vintage Champagne",
       "designation": "",
@@ -7147,6 +7504,7 @@
     },
     {
       "lot": 29139,
+      "source": "261W·W30 lot 29139",
       "producer_raw": "",
       "wine": "Krug Vintage Champagne",
       "designation": "",
@@ -7167,6 +7525,7 @@
     },
     {
       "lot": 29140,
+      "source": "261W·W30 lot 29140",
       "producer_raw": "",
       "wine": "Krug Vintage Champagne",
       "designation": "",
@@ -7187,6 +7546,7 @@
     },
     {
       "lot": 29141,
+      "source": "261W·W30 lot 29141",
       "producer_raw": "",
       "wine": "Louis Roederer Vintage Champagne",
       "designation": "Cristal",
@@ -7207,6 +7567,7 @@
     },
     {
       "lot": 29148,
+      "source": "261W·W30 lot 29148",
       "producer_raw": "",
       "wine": "Pierre Peters Vintage Champagne",
       "designation": "Les Chetillons",
@@ -7227,6 +7588,7 @@
     },
     {
       "lot": 29149,
+      "source": "261W·W30 lot 29149",
       "producer_raw": "",
       "wine": "Taittinger Vintage Champagne",
       "designation": "Comtes de Champagne",
@@ -7247,6 +7609,7 @@
     },
     {
       "lot": 29151,
+      "source": "261W·W30 lot 29151",
       "producer_raw": "",
       "wine": "Ulysse Collin Champagne",
       "designation": "Les Enfers",
@@ -7267,6 +7630,7 @@
     },
     {
       "lot": 29163,
+      "source": "261W·W30 lot 29163",
       "producer_raw": "E. Muller",
       "wine": "Riesling Kabinett",
       "designation": "Scharzhofberger",
@@ -7287,6 +7651,7 @@
     },
     {
       "lot": 29164,
+      "source": "261W·W30 lot 29164",
       "producer_raw": "E. Muller",
       "wine": "Riesling Kabinett",
       "designation": "Scharzhofberger",
@@ -7307,6 +7672,7 @@
     },
     {
       "lot": 29165,
+      "source": "261W·W30 lot 29165",
       "producer_raw": "E. Muller",
       "wine": "Riesling Spatlese",
       "designation": "Scharzhofberger",
@@ -7327,6 +7693,7 @@
     },
     {
       "lot": 29166,
+      "source": "261W·W30 lot 29166",
       "producer_raw": "B. Giacosa",
       "wine": "Barolo",
       "designation": "Falletto Vigna Le Rocche Riserva",
@@ -7347,6 +7714,7 @@
     },
     {
       "lot": 29167,
+      "source": "261W·W30 lot 29167",
       "producer_raw": "Burlotto",
       "wine": "Barolo",
       "designation": "Acclivi",
@@ -7367,6 +7735,7 @@
     },
     {
       "lot": 29168,
+      "source": "261W·W30 lot 29168",
       "producer_raw": "Burlotto",
       "wine": "Barolo",
       "designation": "Monvigliero",
@@ -7387,6 +7756,7 @@
     },
     {
       "lot": 29174,
+      "source": "261W·W30 lot 29174",
       "producer_raw": "Cavallotto",
       "wine": "Barolo",
       "designation": "Bricco Boschis, San Giuseppe Riserva",
@@ -7407,6 +7777,7 @@
     },
     {
       "lot": 29175,
+      "source": "261W·W30 lot 29175",
       "producer_raw": "G. Conterno",
       "wine": "Barolo",
       "designation": "Cascina Francia",
@@ -7427,6 +7798,7 @@
     },
     {
       "lot": 29176,
+      "source": "261W·W30 lot 29176",
       "producer_raw": "G. Conterno",
       "wine": "Barolo",
       "designation": "Cascina Francia",
@@ -7447,6 +7819,7 @@
     },
     {
       "lot": 29177,
+      "source": "261W·W30 lot 29177",
       "producer_raw": "G. Conterno",
       "wine": "Barolo",
       "designation": "Cascina Francia",
@@ -7467,6 +7840,7 @@
     },
     {
       "lot": 29180,
+      "source": "261W·W30 lot 29180",
       "producer_raw": "G. Mascarello",
       "wine": "Barolo",
       "designation": "Monprivato",
@@ -7487,6 +7861,7 @@
     },
     {
       "lot": 29182,
+      "source": "261W·W30 lot 29182",
       "producer_raw": "G. Mascarello",
       "wine": "Barolo",
       "designation": "Monprivato",
@@ -7507,6 +7882,7 @@
     },
     {
       "lot": 29183,
+      "source": "261W·W30 lot 29183",
       "producer_raw": "G. Mascarello",
       "wine": "Barolo",
       "designation": "Monprivato",
@@ -7527,6 +7903,7 @@
     },
     {
       "lot": 29184,
+      "source": "261W·W30 lot 29184",
       "producer_raw": "G. Mascarello",
       "wine": "Barolo",
       "designation": "Monprivato",
@@ -7547,6 +7924,7 @@
     },
     {
       "lot": 29185,
+      "source": "261W·W30 lot 29185",
       "producer_raw": "Gaja",
       "wine": "Barbaresco",
       "designation": "",
@@ -7567,6 +7945,7 @@
     },
     {
       "lot": 29186,
+      "source": "261W·W30 lot 29186",
       "producer_raw": "Gaja",
       "wine": "Barbaresco",
       "designation": "Sori San Lorenzo",
@@ -7587,6 +7966,7 @@
     },
     {
       "lot": 29187,
+      "source": "261W·W30 lot 29187",
       "producer_raw": "Gaja",
       "wine": "Barbaresco",
       "designation": "Sori San Lorenzo",
@@ -7607,6 +7987,7 @@
     },
     {
       "lot": 29188,
+      "source": "261W·W30 lot 29188",
       "producer_raw": "Gaja",
       "wine": "Barbaresco",
       "designation": "Sori Tildin",
@@ -7627,6 +8008,7 @@
     },
     {
       "lot": 29189,
+      "source": "261W·W30 lot 29189",
       "producer_raw": "Gaja",
       "wine": "Barbaresco",
       "designation": "Sori Tildin",
@@ -7647,6 +8029,7 @@
     },
     {
       "lot": 29190,
+      "source": "261W·W30 lot 29190",
       "producer_raw": "Gaja",
       "wine": "Barolo",
       "designation": "Sperss",
@@ -7667,6 +8050,7 @@
     },
     {
       "lot": 29193,
+      "source": "261W·W30 lot 29193",
       "producer_raw": "R. Voerzio",
       "wine": "Barolo",
       "designation": "Cerequio",
@@ -7687,6 +8071,7 @@
     },
     {
       "lot": 29203,
+      "source": "261W·W30 lot 29203",
       "producer_raw": "Roagna",
       "wine": "Barbaresco",
       "designation": "Asili, Vecchie Viti",
@@ -7707,6 +8092,7 @@
     },
     {
       "lot": 29204,
+      "source": "261W·W30 lot 29204",
       "producer_raw": "Roagna",
       "wine": "Barbaresco",
       "designation": "Montefico, Vecchie Viti",
@@ -7727,6 +8113,7 @@
     },
     {
       "lot": 29205,
+      "source": "261W·W30 lot 29205",
       "producer_raw": "Roagna",
       "wine": "Barbaresco",
       "designation": "Paje, Vecchie Viti",
@@ -7747,6 +8134,7 @@
     },
     {
       "lot": 29211,
+      "source": "261W·W30 lot 29211",
       "producer_raw": "",
       "wine": "Abreu Cabernet Sauvignon",
       "designation": "Madrona Ranch",
@@ -7767,6 +8155,7 @@
     },
     {
       "lot": 29212,
+      "source": "261W·W30 lot 29212",
       "producer_raw": "",
       "wine": "Abreu Cabernet Sauvignon",
       "designation": "Thorevilos",
@@ -7787,6 +8176,7 @@
     },
     {
       "lot": 29212,
+      "source": "261W·W30 lot 29212",
       "producer_raw": "",
       "wine": "Abreu Cabernet Sauvignon",
       "designation": "Madrona Ranch",
@@ -7807,6 +8197,7 @@
     },
     {
       "lot": 29216,
+      "source": "261W·W30 lot 29216",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Melbury",
@@ -7827,6 +8218,7 @@
     },
     {
       "lot": 29217,
+      "source": "261W·W30 lot 29217",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Melbury",
@@ -7847,6 +8239,7 @@
     },
     {
       "lot": 29218,
+      "source": "261W·W30 lot 29218",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Melbury",
@@ -7867,6 +8260,7 @@
     },
     {
       "lot": 29219,
+      "source": "261W·W30 lot 29219",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Melbury",
@@ -7887,6 +8281,7 @@
     },
     {
       "lot": 29220,
+      "source": "261W·W30 lot 29220",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Melbury",
@@ -7907,6 +8302,7 @@
     },
     {
       "lot": 29221,
+      "source": "261W·W30 lot 29221",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Melbury",
@@ -7927,6 +8323,7 @@
     },
     {
       "lot": 29222,
+      "source": "261W·W30 lot 29222",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Pluribus",
@@ -7947,6 +8344,7 @@
     },
     {
       "lot": 29223,
+      "source": "261W·W30 lot 29223",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Pluribus",
@@ -7967,6 +8365,7 @@
     },
     {
       "lot": 29224,
+      "source": "261W·W30 lot 29224",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Pluribus",
@@ -7987,6 +8386,7 @@
     },
     {
       "lot": 29225,
+      "source": "261W·W30 lot 29225",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Pluribus",
@@ -8007,6 +8407,7 @@
     },
     {
       "lot": 29226,
+      "source": "261W·W30 lot 29226",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Pluribus",
@@ -8027,6 +8428,7 @@
     },
     {
       "lot": 29227,
+      "source": "261W·W30 lot 29227",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Quella",
@@ -8047,6 +8449,7 @@
     },
     {
       "lot": 29228,
+      "source": "261W·W30 lot 29228",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Quella",
@@ -8067,6 +8470,7 @@
     },
     {
       "lot": 29229,
+      "source": "261W·W30 lot 29229",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Quella",
@@ -8087,6 +8491,7 @@
     },
     {
       "lot": 29230,
+      "source": "261W·W30 lot 29230",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Quella",
@@ -8107,6 +8512,7 @@
     },
     {
       "lot": 29231,
+      "source": "261W·W30 lot 29231",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Quella",
@@ -8127,6 +8533,7 @@
     },
     {
       "lot": 29232,
+      "source": "261W·W30 lot 29232",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Quella",
@@ -8147,6 +8554,7 @@
     },
     {
       "lot": 29233,
+      "source": "261W·W30 lot 29233",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Quella",
@@ -8167,6 +8575,7 @@
     },
     {
       "lot": 29234,
+      "source": "261W·W30 lot 29234",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "St. Eden",
@@ -8187,6 +8596,7 @@
     },
     {
       "lot": 29235,
+      "source": "261W·W30 lot 29235",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "St. Eden",
@@ -8207,6 +8617,7 @@
     },
     {
       "lot": 29236,
+      "source": "261W·W30 lot 29236",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "St. Eden",
@@ -8227,6 +8638,7 @@
     },
     {
       "lot": 29237,
+      "source": "261W·W30 lot 29237",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "St. Eden",
@@ -8247,6 +8659,7 @@
     },
     {
       "lot": 29238,
+      "source": "261W·W30 lot 29238",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "St. Eden",
@@ -8267,6 +8680,7 @@
     },
     {
       "lot": 29239,
+      "source": "261W·W30 lot 29239",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Vecina",
@@ -8287,6 +8701,7 @@
     },
     {
       "lot": 29240,
+      "source": "261W·W30 lot 29240",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Vecina",
@@ -8307,6 +8722,7 @@
     },
     {
       "lot": 29241,
+      "source": "261W·W30 lot 29241",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Vecina",
@@ -8327,6 +8743,7 @@
     },
     {
       "lot": 29242,
+      "source": "261W·W30 lot 29242",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Vecina",
@@ -8347,6 +8764,7 @@
     },
     {
       "lot": 29243,
+      "source": "261W·W30 lot 29243",
       "producer_raw": "",
       "wine": "Bond",
       "designation": "Vecina",
@@ -8367,6 +8785,7 @@
     },
     {
       "lot": 29244,
+      "source": "261W·W30 lot 29244",
       "producer_raw": "",
       "wine": "Colgin Red",
       "designation": "IX Estate",
@@ -8387,6 +8806,7 @@
     },
     {
       "lot": 29245,
+      "source": "261W·W30 lot 29245",
       "producer_raw": "",
       "wine": "Colgin Red",
       "designation": "IX Estate",
@@ -8407,6 +8827,7 @@
     },
     {
       "lot": 29246,
+      "source": "261W·W30 lot 29246",
       "producer_raw": "",
       "wine": "Harlan Estate Red",
       "designation": "",
@@ -8427,6 +8848,7 @@
     },
     {
       "lot": 29247,
+      "source": "261W·W30 lot 29247",
       "producer_raw": "",
       "wine": "Harlan Estate Red",
       "designation": "",
@@ -8447,6 +8869,7 @@
     },
     {
       "lot": 29248,
+      "source": "261W·W30 lot 29248",
       "producer_raw": "",
       "wine": "Harlan Estate Red",
       "designation": "The Maiden",
@@ -8467,6 +8890,7 @@
     },
     {
       "lot": 29249,
+      "source": "261W·W30 lot 29249",
       "producer_raw": "",
       "wine": "Matriarch Red",
       "designation": "",
@@ -8487,6 +8911,7 @@
     },
     {
       "lot": 29250,
+      "source": "261W·W30 lot 29250",
       "producer_raw": "",
       "wine": "Philip Togni Cabernet Sauvignon",
       "designation": "",
@@ -8507,6 +8932,7 @@
     },
     {
       "lot": 29251,
+      "source": "261W·W30 lot 29251",
       "producer_raw": "",
       "wine": "Philip Togni Cabernet Sauvignon",
       "designation": "",
@@ -8527,6 +8953,7 @@
     },
     {
       "lot": 29252,
+      "source": "261W·W30 lot 29252",
       "producer_raw": "",
       "wine": "Schrader Cabernet Sauvignon",
       "designation": "CCS",
@@ -8547,6 +8974,7 @@
     },
     {
       "lot": 29253,
+      "source": "261W·W30 lot 29253",
       "producer_raw": "",
       "wine": "Schrader Cabernet Sauvignon",
       "designation": "GIII",
@@ -8567,6 +8995,7 @@
     },
     {
       "lot": 29254,
+      "source": "261W·W30 lot 29254",
       "producer_raw": "",
       "wine": "Schrader Cabernet Sauvignon",
       "designation": "LPV",
@@ -8587,6 +9016,7 @@
     },
     {
       "lot": 29255,
+      "source": "261W·W30 lot 29255",
       "producer_raw": "",
       "wine": "Shafer Cabernet Sauvignon",
       "designation": "Hillside Select",
@@ -8607,6 +9037,7 @@
     },
     {
       "lot": 29256,
+      "source": "261W·W30 lot 29256",
       "producer_raw": "",
       "wine": "Sine Qua Non Grenache",
       "designation": "Dirt Vernacular",
@@ -8627,6 +9058,7 @@
     },
     {
       "lot": 29257,
+      "source": "261W·W30 lot 29257",
       "producer_raw": "",
       "wine": "Sine Qua Non Grenache",
       "designation": "Jusqu'a l'os",
@@ -8647,6 +9079,7 @@
     },
     {
       "lot": 29258,
+      "source": "261W·W30 lot 29258",
       "producer_raw": "",
       "wine": "Sine Qua Non Grenache",
       "designation": "Le Chemin Vers L'Heresie",
@@ -8667,6 +9100,7 @@
     },
     {
       "lot": 29259,
+      "source": "261W·W30 lot 29259",
       "producer_raw": "",
       "wine": "Sine Qua Non Grenache",
       "designation": "Rattrapante",
@@ -8687,6 +9121,7 @@
     },
     {
       "lot": 29260,
+      "source": "261W·W30 lot 29260",
       "producer_raw": "",
       "wine": "Sine Qua Non Grenache",
       "designation": "Raven Series, No. 9",
@@ -8707,6 +9142,7 @@
     },
     {
       "lot": 29261,
+      "source": "261W·W30 lot 29261",
       "producer_raw": "",
       "wine": "Sine Qua Non Syrah",
       "designation": "Labels",
@@ -8727,6 +9163,7 @@
     },
     {
       "lot": 29262,
+      "source": "261W·W30 lot 29262",
       "producer_raw": "",
       "wine": "Sine Qua Non Syrah",
       "designation": "Male",
@@ -8747,6 +9184,7 @@
     },
     {
       "lot": 29263,
+      "source": "261W·W30 lot 29263",
       "producer_raw": "",
       "wine": "Sine Qua Non Syrah",
       "designation": "Ratsel",
@@ -8767,6 +9205,7 @@
     },
     {
       "lot": 29264,
+      "source": "261W·W30 lot 29264",
       "producer_raw": "",
       "wine": "Sine Qua Non Syrah",
       "designation": "Ratsel",
@@ -8787,6 +9226,7 @@
     },
     {
       "lot": 29265,
+      "source": "261W·W30 lot 29265",
       "producer_raw": "",
       "wine": "Sine Qua Non Syrah",
       "designation": "Touche",
@@ -8807,6 +9247,7 @@
     },
     {
       "lot": 29266,
+      "source": "261W·W30 lot 29266",
       "producer_raw": "",
       "wine": "Sine Qua Non Syrah",
       "designation": "Trouver L'Arene",
@@ -8827,6 +9268,7 @@
     },
     {
       "lot": 29267,
+      "source": "261W·W30 lot 29267",
       "producer_raw": "",
       "wine": "Henschke Shiraz",
       "designation": "Hill of Grace",
@@ -8847,6 +9289,7 @@
     },
     {
       "lot": 29268,
+      "source": "261W·W30 lot 29268",
       "producer_raw": "A. Rousseau",
       "wine": "Mazis Chambertin",
       "designation": "",
@@ -8867,6 +9310,7 @@
     },
     {
       "lot": 29269,
+      "source": "261W·W30 lot 29269",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Corton",
       "designation": "",
@@ -8887,6 +9331,7 @@
     },
     {
       "lot": 29270,
+      "source": "261W·W30 lot 29270",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Corton",
       "designation": "",
@@ -8907,6 +9352,7 @@
     },
     {
       "lot": 29271,
+      "source": "261W·W30 lot 29271",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Corton",
       "designation": "",
@@ -8927,6 +9373,7 @@
     },
     {
       "lot": 29272,
+      "source": "261W·W30 lot 29272",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Echezeaux",
       "designation": "",
@@ -8947,6 +9394,7 @@
     },
     {
       "lot": 29273,
+      "source": "261W·W30 lot 29273",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Echezeaux",
       "designation": "",
@@ -8967,6 +9415,7 @@
     },
     {
       "lot": 29274,
+      "source": "261W·W30 lot 29274",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Echezeaux",
       "designation": "",
@@ -8987,6 +9436,7 @@
     },
     {
       "lot": 29275,
+      "source": "261W·W30 lot 29275",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Grands Echezeaux",
       "designation": "",
@@ -9007,6 +9457,7 @@
     },
     {
       "lot": 29276,
+      "source": "261W·W30 lot 29276",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Grands Echezeaux",
       "designation": "",
@@ -9027,6 +9478,7 @@
     },
     {
       "lot": 29277,
+      "source": "261W·W30 lot 29277",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Grands Echezeaux",
       "designation": "",
@@ -9047,6 +9499,7 @@
     },
     {
       "lot": 29278,
+      "source": "261W·W30 lot 29278",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "La Tache",
       "designation": "",
@@ -9067,6 +9520,7 @@
     },
     {
       "lot": 29279,
+      "source": "261W·W30 lot 29279",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Richebourg",
       "designation": "",
@@ -9087,6 +9541,7 @@
     },
     {
       "lot": 29280,
+      "source": "261W·W30 lot 29280",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Richebourg",
       "designation": "",
@@ -9107,6 +9562,7 @@
     },
     {
       "lot": 29281,
+      "source": "261W·W30 lot 29281",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Richebourg",
       "designation": "",
@@ -9127,6 +9583,7 @@
     },
     {
       "lot": 29282,
+      "source": "261W·W30 lot 29282",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Richebourg",
       "designation": "",
@@ -9147,6 +9604,7 @@
     },
     {
       "lot": 29283,
+      "source": "261W·W30 lot 29283",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Richebourg",
       "designation": "",
@@ -9167,6 +9625,7 @@
     },
     {
       "lot": 29284,
+      "source": "261W·W30 lot 29284",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Richebourg",
       "designation": "",
@@ -9187,6 +9646,7 @@
     },
     {
       "lot": 29285,
+      "source": "261W·W30 lot 29285",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Romanee Conti",
       "designation": "",
@@ -9207,6 +9667,7 @@
     },
     {
       "lot": 29286,
+      "source": "261W·W30 lot 29286",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Romanee Conti",
       "designation": "",
@@ -9227,6 +9688,7 @@
     },
     {
       "lot": 29287,
+      "source": "261W·W30 lot 29287",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Romanee Conti",
       "designation": "",
@@ -9247,6 +9709,7 @@
     },
     {
       "lot": 29288,
+      "source": "261W·W30 lot 29288",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Romanee St. Vivant",
       "designation": "",
@@ -9267,6 +9730,7 @@
     },
     {
       "lot": 29289,
+      "source": "261W·W30 lot 29289",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Romanee St. Vivant",
       "designation": "",
@@ -9287,6 +9751,7 @@
     },
     {
       "lot": 29290,
+      "source": "261W·W30 lot 29290",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Romanee St. Vivant",
       "designation": "",
@@ -9307,6 +9772,7 @@
     },
     {
       "lot": 29291,
+      "source": "261W·W30 lot 29291",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Montrachet",
       "designation": "",
@@ -9327,6 +9793,7 @@
     },
     {
       "lot": 29292,
+      "source": "261W·W30 lot 29292",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Corton",
       "designation": "",
@@ -9347,6 +9814,7 @@
     },
     {
       "lot": 29293,
+      "source": "261W·W30 lot 29293",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Echezeaux",
       "designation": "",
@@ -9367,6 +9835,7 @@
     },
     {
       "lot": 29294,
+      "source": "261W·W30 lot 29294",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "La Tache",
       "designation": "",
@@ -9387,6 +9856,7 @@
     },
     {
       "lot": 29295,
+      "source": "261W·W30 lot 29295",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "La Tache",
       "designation": "",
@@ -9407,6 +9877,7 @@
     },
     {
       "lot": 29296,
+      "source": "261W·W30 lot 29296",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "La Tache",
       "designation": "",
@@ -9427,6 +9898,7 @@
     },
     {
       "lot": 29297,
+      "source": "261W·W30 lot 29297",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Romanee Conti",
       "designation": "",
@@ -9447,6 +9919,7 @@
     },
     {
       "lot": 29298,
+      "source": "261W·W30 lot 29298",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Romanee Conti",
       "designation": "",
@@ -9467,6 +9940,7 @@
     },
     {
       "lot": 29299,
+      "source": "261W·W30 lot 29299",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Romanee Conti",
       "designation": "",
@@ -9487,6 +9961,7 @@
     },
     {
       "lot": 29300,
+      "source": "261W·W30 lot 29300",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Vosne Romanee",
       "designation": "Cuvee Duvault Blochet",
@@ -9507,6 +9982,7 @@
     },
     {
       "lot": 29301,
+      "source": "261W·W30 lot 29301",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "Montrachet",
       "designation": "",
@@ -9527,6 +10003,7 @@
     },
     {
       "lot": 29302,
+      "source": "261W·W30 lot 29302",
       "producer_raw": "",
       "wine": "Chateau Haut Brion",
       "designation": "",
@@ -9547,6 +10024,7 @@
     },
     {
       "lot": 29303,
+      "source": "261W·W30 lot 29303",
       "producer_raw": "",
       "wine": "Chateau Haut Brion",
       "designation": "",
@@ -9567,6 +10045,7 @@
     },
     {
       "lot": 29304,
+      "source": "261W·W30 lot 29304",
       "producer_raw": "",
       "wine": "Chateau Haut Brion",
       "designation": "",
@@ -9587,6 +10066,7 @@
     },
     {
       "lot": 29305,
+      "source": "261W·W30 lot 29305",
       "producer_raw": "",
       "wine": "Chateau Lafite Rothschild",
       "designation": "",
@@ -9607,6 +10087,7 @@
     },
     {
       "lot": 29306,
+      "source": "261W·W30 lot 29306",
       "producer_raw": "",
       "wine": "Chateau Lafite Rothschild",
       "designation": "",
@@ -9627,6 +10108,7 @@
     },
     {
       "lot": 29307,
+      "source": "261W·W30 lot 29307",
       "producer_raw": "",
       "wine": "Chateau Lafite Rothschild",
       "designation": "",
@@ -9647,6 +10129,7 @@
     },
     {
       "lot": 29308,
+      "source": "261W·W30 lot 29308",
       "producer_raw": "",
       "wine": "Chateau Mouton Rothschild",
       "designation": "",
@@ -9667,6 +10150,7 @@
     },
     {
       "lot": 29309,
+      "source": "261W·W30 lot 29309",
       "producer_raw": "",
       "wine": "Chateau Mouton Rothschild",
       "designation": "",
@@ -9687,6 +10171,7 @@
     },
     {
       "lot": 29310,
+      "source": "261W·W30 lot 29310",
       "producer_raw": "",
       "wine": "Chateau Mouton Rothschild",
       "designation": "",
@@ -9707,6 +10192,7 @@
     },
     {
       "lot": 29311,
+      "source": "261W·W30 lot 29311",
       "producer_raw": "Domaine de la Romanee Conti",
       "wine": "La Tache",
       "designation": "",
@@ -9727,6 +10213,7 @@
     },
     {
       "lot": 29312,
+      "source": "261W·W30 lot 29312",
       "producer_raw": "Duroche",
       "wine": "Griottes Chambertin",
       "designation": "",
@@ -9747,6 +10234,7 @@
     },
     {
       "lot": 29313,
+      "source": "261W·W30 lot 29313",
       "producer_raw": "G. Rinaldi",
       "wine": "Barolo",
       "designation": "Brunate Le Coste",
@@ -9767,6 +10255,7 @@
     },
     {
       "lot": 29314,
+      "source": "261W·W30 lot 29314",
       "producer_raw": "G. Rinaldi",
       "wine": "Barolo",
       "designation": "Brunate Le Coste",
@@ -9787,6 +10276,7 @@
     },
     {
       "lot": 29315,
+      "source": "261W·W30 lot 29315",
       "producer_raw": "G. Rinaldi",
       "wine": "Barolo",
       "designation": "Brunate Le Coste",
@@ -9807,6 +10297,7 @@
     },
     {
       "lot": 29316,
+      "source": "261W·W30 lot 29316",
       "producer_raw": "",
       "wine": "Chateau Cheval Blanc",
       "designation": "",
@@ -9827,6 +10318,7 @@
     },
     {
       "lot": 29317,
+      "source": "261W·W30 lot 29317",
       "producer_raw": "",
       "wine": "Chateau Cheval Blanc",
       "designation": "",
@@ -9847,6 +10339,7 @@
     },
     {
       "lot": 29318,
+      "source": "261W·W30 lot 29318",
       "producer_raw": "Coquard-Loison-Fleurot",
       "wine": "Clos de la Roche",
       "designation": "",
@@ -9867,6 +10360,7 @@
     },
     {
       "lot": 29319,
+      "source": "261W·W30 lot 29319",
       "producer_raw": "Domaine des Lambrays",
       "wine": "Clos des Lambrays",
       "designation": "",
@@ -9887,6 +10381,7 @@
     },
     {
       "lot": 29320,
+      "source": "261W·W30 lot 29320",
       "producer_raw": "Domaine Trapet",
       "wine": "Latricieres Chambertin",
       "designation": "",
@@ -9907,6 +10402,7 @@
     },
     {
       "lot": 29321,
+      "source": "261W·W30 lot 29321",
       "producer_raw": "Fourrier",
       "wine": "Griottes Chambertin",
       "designation": "Vieilles Vignes",
@@ -9927,6 +10423,7 @@
     },
     {
       "lot": 29322,
+      "source": "261W·W30 lot 29322",
       "producer_raw": "J.F. Mugnier",
       "wine": "Chambolle Musigny",
       "designation": "Les Amoureuses",
@@ -9947,6 +10444,7 @@
     },
     {
       "lot": 29323,
+      "source": "261W·W30 lot 29323",
       "producer_raw": "Marquis d'Angerville",
       "wine": "Volnay",
       "designation": "Clos des Ducs",
@@ -9967,6 +10465,7 @@
     },
     {
       "lot": 29324,
+      "source": "261W·W30 lot 29324",
       "producer_raw": "Mugneret-Gibourg",
       "wine": "Chambolle Musigny",
       "designation": "Les Feusselottes",
@@ -9987,6 +10486,7 @@
     },
     {
       "lot": 29325,
+      "source": "261W·W30 lot 29325",
       "producer_raw": "Mugneret-Gibourg",
       "wine": "Ruchottes Chambertin",
       "designation": "",
@@ -10007,6 +10507,7 @@
     },
     {
       "lot": 29326,
+      "source": "261W·W30 lot 29326",
       "producer_raw": "A. Pernot",
       "wine": "Puligny Montrachet",
       "designation": "Les Pucelles",
@@ -10027,6 +10528,7 @@
     },
     {
       "lot": 29327,
+      "source": "261W·W30 lot 29327",
       "producer_raw": "H. Boillot",
       "wine": "Chevalier Montrachet",
       "designation": "",
@@ -10047,6 +10549,7 @@
     },
     {
       "lot": 29328,
+      "source": "261W·W30 lot 29328",
       "producer_raw": "Tenuta San Guido",
       "wine": "Sassicaia",
       "designation": "",
@@ -10067,6 +10570,7 @@
     },
     {
       "lot": 29330,
+      "source": "261W·W30 lot 29330",
       "producer_raw": "",
       "wine": "Chateau Haut Brion Blanc",
       "designation": "",
@@ -10087,6 +10591,7 @@
     },
     {
       "lot": 29331,
+      "source": "261W·W30 lot 29331",
       "producer_raw": "",
       "wine": "Chateau Haut Brion Blanc",
       "designation": "",
@@ -10107,6 +10612,7 @@
     },
     {
       "lot": 29332,
+      "source": "261W·W30 lot 29332",
       "producer_raw": "Trimbach",
       "wine": "Riesling",
       "designation": "Clos Ste. Hune",
@@ -10127,6 +10633,7 @@
     },
     {
       "lot": 29333,
+      "source": "261W·W30 lot 29333",
       "producer_raw": "",
       "wine": "Chateau Gruaud Larose",
       "designation": "",
@@ -10147,6 +10654,7 @@
     },
     {
       "lot": 29334,
+      "source": "261W·W30 lot 29334",
       "producer_raw": "L. Jadot",
       "wine": "Bonnes Mares",
       "designation": "",
@@ -10167,6 +10675,7 @@
     },
     {
       "lot": 29335,
+      "source": "261W·W30 lot 29335",
       "producer_raw": "L. Jadot",
       "wine": "Bonnes Mares",
       "designation": "",
@@ -10187,6 +10696,7 @@
     },
     {
       "lot": 29336,
+      "source": "261W·W30 lot 29336",
       "producer_raw": "D'Auvenay (Leroy)",
       "wine": "Puligny Montrachet",
       "designation": "Les Folatieres",
@@ -10207,6 +10717,7 @@
     },
     {
       "lot": 29337,
+      "source": "261W·W30 lot 29337",
       "producer_raw": "Raveneau",
       "wine": "Chablis",
       "designation": "Blanchot",
@@ -10227,6 +10738,7 @@
     },
     {
       "lot": 29338,
+      "source": "261W·W30 lot 29338",
       "producer_raw": "",
       "wine": "Marcassin Pinot Noir",
       "designation": "Blue Slide Ridge Vineyard",
@@ -10247,6 +10759,7 @@
     },
     {
       "lot": 29339,
+      "source": "261W·W30 lot 29339",
       "producer_raw": "",
       "wine": "Marcassin Pinot Noir",
       "designation": "Marcassin Vineyard",
@@ -10267,6 +10780,7 @@
     },
     {
       "lot": 29340,
+      "source": "261W·W30 lot 29340",
       "producer_raw": "",
       "wine": "Marcassin Pinot Noir",
       "designation": "Marcassin Vineyard",
@@ -10287,6 +10801,7 @@
     },
     {
       "lot": 29341,
+      "source": "261W·W30 lot 29341",
       "producer_raw": "",
       "wine": "Marcassin Pinot Noir",
       "designation": "Marcassin Vineyard",
@@ -10307,6 +10822,7 @@
     },
     {
       "lot": 29342,
+      "source": "261W·W30 lot 29342",
       "producer_raw": "",
       "wine": "Marcassin Pinot Noir",
       "designation": "Marcassin Vineyard",
@@ -10327,6 +10843,7 @@
     },
     {
       "lot": 29345,
+      "source": "261W·W30 lot 29345",
       "producer_raw": "B. Leroux",
       "wine": "Corton",
       "designation": "",
@@ -10347,6 +10864,7 @@
     },
     {
       "lot": 29346,
+      "source": "261W·W30 lot 29346",
       "producer_raw": "Chateau de Pommard",
       "wine": "Pommard",
       "designation": "",
@@ -10367,6 +10885,7 @@
     },
     {
       "lot": 29347,
+      "source": "261W·W30 lot 29347",
       "producer_raw": "Chateau de Pommard",
       "wine": "Pommard",
       "designation": "",
@@ -10387,6 +10906,7 @@
     },
     {
       "lot": 29348,
+      "source": "261W·W30 lot 29348",
       "producer_raw": "B. Dugat-Py",
       "wine": "Mazoyeres Chambertin",
       "designation": "",
@@ -10407,6 +10927,7 @@
     },
     {
       "lot": 29349,
+      "source": "261W·W30 lot 29349",
       "producer_raw": "",
       "wine": "Chateau Leoville Las Cases",
       "designation": "",
@@ -10427,6 +10948,7 @@
     },
     {
       "lot": 29350,
+      "source": "261W·W30 lot 29350",
       "producer_raw": "",
       "wine": "Chateau Pavie",
       "designation": "",
@@ -10447,6 +10969,7 @@
     },
     {
       "lot": 29351,
+      "source": "261W·W30 lot 29351",
       "producer_raw": "",
       "wine": "Clos Erasmus",
       "designation": "",
@@ -10467,6 +10990,7 @@
     },
     {
       "lot": 29355,
+      "source": "261W·W30 lot 29355",
       "producer_raw": "",
       "wine": "Chateau Beausejour Duffau Lagarrosse",
       "designation": "",
@@ -10487,6 +11011,7 @@
     },
     {
       "lot": 29357,
+      "source": "261W·W30 lot 29357",
       "producer_raw": "",
       "wine": "Chateau Calon Segur",
       "designation": "",
@@ -10507,6 +11032,7 @@
     },
     {
       "lot": 29358,
+      "source": "261W·W30 lot 29358",
       "producer_raw": "",
       "wine": "Chateau Canon",
       "designation": "",
@@ -10527,6 +11053,7 @@
     },
     {
       "lot": 29359,
+      "source": "261W·W30 lot 29359",
       "producer_raw": "",
       "wine": "Chateau Canon",
       "designation": "",
@@ -10547,6 +11074,7 @@
     },
     {
       "lot": 29360,
+      "source": "261W·W30 lot 29360",
       "producer_raw": "",
       "wine": "Chateau Cos d'Estournel",
       "designation": "",
@@ -10567,6 +11095,7 @@
     },
     {
       "lot": 29361,
+      "source": "261W·W30 lot 29361",
       "producer_raw": "",
       "wine": "Chateau Cos d'Estournel",
       "designation": "",
@@ -10587,6 +11116,7 @@
     },
     {
       "lot": 29362,
+      "source": "261W·W30 lot 29362",
       "producer_raw": "",
       "wine": "Chateau Cos d'Estournel",
       "designation": "",
@@ -10607,6 +11137,7 @@
     },
     {
       "lot": 29363,
+      "source": "261W·W30 lot 29363",
       "producer_raw": "",
       "wine": "Chateau Ducru Beaucaillou",
       "designation": "",
@@ -10627,6 +11158,7 @@
     },
     {
       "lot": 29364,
+      "source": "261W·W30 lot 29364",
       "producer_raw": "",
       "wine": "Chateau Ducru Beaucaillou",
       "designation": "",
@@ -10647,6 +11179,7 @@
     },
     {
       "lot": 29365,
+      "source": "261W·W30 lot 29365",
       "producer_raw": "",
       "wine": "Chateau Ducru Beaucaillou",
       "designation": "",
@@ -10667,6 +11200,7 @@
     },
     {
       "lot": 29366,
+      "source": "261W·W30 lot 29366",
       "producer_raw": "",
       "wine": "Chateau Figeac",
       "designation": "",
@@ -10687,6 +11221,7 @@
     },
     {
       "lot": 29367,
+      "source": "261W·W30 lot 29367",
       "producer_raw": "",
       "wine": "Chateau Figeac",
       "designation": "",
@@ -10707,6 +11242,7 @@
     },
     {
       "lot": 29368,
+      "source": "261W·W30 lot 29368",
       "producer_raw": "",
       "wine": "Chateau Figeac",
       "designation": "",
@@ -10727,6 +11263,7 @@
     },
     {
       "lot": 29369,
+      "source": "261W·W30 lot 29369",
       "producer_raw": "",
       "wine": "Chateau Figeac",
       "designation": "",
@@ -10747,6 +11284,7 @@
     },
     {
       "lot": 29370,
+      "source": "261W·W30 lot 29370",
       "producer_raw": "",
       "wine": "Chateau L'Evangile",
       "designation": "",
@@ -10767,6 +11305,7 @@
     },
     {
       "lot": 29371,
+      "source": "261W·W30 lot 29371",
       "producer_raw": "",
       "wine": "Chateau La Conseillante",
       "designation": "",
@@ -10787,6 +11326,7 @@
     },
     {
       "lot": 29372,
+      "source": "261W·W30 lot 29372",
       "producer_raw": "",
       "wine": "Chateau La Mission Haut Brion",
       "designation": "",
@@ -10807,6 +11347,7 @@
     },
     {
       "lot": 29373,
+      "source": "261W·W30 lot 29373",
       "producer_raw": "",
       "wine": "Chateau La Mission Haut Brion",
       "designation": "",
@@ -10827,6 +11368,7 @@
     },
     {
       "lot": 29374,
+      "source": "261W·W30 lot 29374",
       "producer_raw": "",
       "wine": "Chateau Le Dome",
       "designation": "",
@@ -10847,6 +11389,7 @@
     },
     {
       "lot": 29375,
+      "source": "261W·W30 lot 29375",
       "producer_raw": "",
       "wine": "Chateau Leoville Las Cases",
       "designation": "",
@@ -10867,6 +11410,7 @@
     },
     {
       "lot": 29376,
+      "source": "261W·W30 lot 29376",
       "producer_raw": "",
       "wine": "Chateau Lynch Bages",
       "designation": "",
@@ -10887,6 +11431,7 @@
     },
     {
       "lot": 29377,
+      "source": "261W·W30 lot 29377",
       "producer_raw": "",
       "wine": "Chateau Lynch Bages",
       "designation": "",
@@ -10907,6 +11452,7 @@
     },
     {
       "lot": 29378,
+      "source": "261W·W30 lot 29378",
       "producer_raw": "",
       "wine": "Chateau Margaux",
       "designation": "",
@@ -10927,6 +11473,7 @@
     },
     {
       "lot": 29379,
+      "source": "261W·W30 lot 29379",
       "producer_raw": "",
       "wine": "Chateau Margaux",
       "designation": "",
@@ -10947,6 +11494,7 @@
     },
     {
       "lot": 29380,
+      "source": "261W·W30 lot 29380",
       "producer_raw": "",
       "wine": "Chateau Margaux",
       "designation": "",
@@ -10967,6 +11515,7 @@
     },
     {
       "lot": 29381,
+      "source": "261W·W30 lot 29381",
       "producer_raw": "",
       "wine": "Chateau Montrose",
       "designation": "",
@@ -10987,6 +11536,7 @@
     },
     {
       "lot": 29382,
+      "source": "261W·W30 lot 29382",
       "producer_raw": "",
       "wine": "Chateau Montrose",
       "designation": "",
@@ -11007,6 +11557,7 @@
     },
     {
       "lot": 29383,
+      "source": "261W·W30 lot 29383",
       "producer_raw": "",
       "wine": "Chateau Montrose",
       "designation": "",
@@ -11027,6 +11578,7 @@
     },
     {
       "lot": 29384,
+      "source": "261W·W30 lot 29384",
       "producer_raw": "",
       "wine": "Chateau Mouton Rothschild",
       "designation": "",
@@ -11047,6 +11599,7 @@
     },
     {
       "lot": 29385,
+      "source": "261W·W30 lot 29385",
       "producer_raw": "",
       "wine": "Chateau Mouton Rothschild",
       "designation": "",
@@ -11067,6 +11620,7 @@
     },
     {
       "lot": 29386,
+      "source": "261W·W30 lot 29386",
       "producer_raw": "",
       "wine": "Chateau Mouton Rothschild",
       "designation": "",
@@ -11087,6 +11641,7 @@
     },
     {
       "lot": 29387,
+      "source": "261W·W30 lot 29387",
       "producer_raw": "",
       "wine": "Chateau Mouton Rothschild",
       "designation": "",
@@ -11107,6 +11662,7 @@
     },
     {
       "lot": 29388,
+      "source": "261W·W30 lot 29388",
       "producer_raw": "",
       "wine": "Chateau Palmer",
       "designation": "",
@@ -11127,6 +11683,7 @@
     },
     {
       "lot": 29390,
+      "source": "261W·W30 lot 29390",
       "producer_raw": "",
       "wine": "Chateau Pichon Lalande",
       "designation": "",
@@ -11147,6 +11704,7 @@
     },
     {
       "lot": 29391,
+      "source": "261W·W30 lot 29391",
       "producer_raw": "",
       "wine": "Chateau Pichon Lalande",
       "designation": "",
@@ -11167,6 +11725,7 @@
     },
     {
       "lot": 29392,
+      "source": "261W·W30 lot 29392",
       "producer_raw": "",
       "wine": "Chateau Smith Haut Lafitte",
       "designation": "",
@@ -11187,6 +11746,7 @@
     },
     {
       "lot": 29393,
+      "source": "261W·W30 lot 29393",
       "producer_raw": "",
       "wine": "Chateau Trotanoy",
       "designation": "",
@@ -11207,6 +11767,7 @@
     },
     {
       "lot": 29394,
+      "source": "261W·W30 lot 29394",
       "producer_raw": "",
       "wine": "Chateau Trotanoy",
       "designation": "",
@@ -11227,6 +11788,7 @@
     },
     {
       "lot": 29395,
+      "source": "261W·W30 lot 29395",
       "producer_raw": "",
       "wine": "Chateau Trotanoy",
       "designation": "",
@@ -11247,6 +11809,7 @@
     },
     {
       "lot": 29400,
+      "source": "261W·W30 lot 29400",
       "producer_raw": "",
       "wine": "Dom Perignon Vintage Champagne",
       "designation": "",
@@ -11267,6 +11830,7 @@
     },
     {
       "lot": 29401,
+      "source": "261W·W30 lot 29401",
       "producer_raw": "",
       "wine": "Dom Perignon Vintage Champagne",
       "designation": "",
@@ -11287,6 +11851,7 @@
     },
     {
       "lot": 29402,
+      "source": "261W·W30 lot 29402",
       "producer_raw": "",
       "wine": "Dom Perignon Vintage Champagne",
       "designation": "",
@@ -11307,6 +11872,7 @@
     },
     {
       "lot": 29406,
+      "source": "261W·W30 lot 29406",
       "producer_raw": "",
       "wine": "Louis Roederer Vintage Champagne",
       "designation": "Cristal",
@@ -11327,6 +11893,7 @@
     },
     {
       "lot": 29407,
+      "source": "261W·W30 lot 29407",
       "producer_raw": "",
       "wine": "Louis Roederer Vintage Champagne",
       "designation": "Cristal",
@@ -11347,6 +11914,7 @@
     },
     {
       "lot": 29408,
+      "source": "261W·W30 lot 29408",
       "producer_raw": "G. Mascarello",
       "wine": "Barolo",
       "designation": "Monprivato",
@@ -11367,6 +11935,7 @@
     },
     {
       "lot": 29409,
+      "source": "261W·W30 lot 29409",
       "producer_raw": "G. Mascarello",
       "wine": "Barolo",
       "designation": "Monprivato",
@@ -11387,6 +11956,7 @@
     },
     {
       "lot": 29410,
+      "source": "261W·W30 lot 29410",
       "producer_raw": "",
       "wine": "Blankiet Cabernet Sauvignon",
       "designation": "Paradise Hills Vineyard",
@@ -11407,6 +11977,7 @@
     },
     {
       "lot": 29411,
+      "source": "261W·W30 lot 29411",
       "producer_raw": "",
       "wine": "Blankiet Cabernet Sauvignon",
       "designation": "Paradise Hills Vineyard",
@@ -11427,6 +11998,7 @@
     },
     {
       "lot": 29413,
+      "source": "261W·W30 lot 29413",
       "producer_raw": "",
       "wine": "Hundred Acre Cabernet Sauvignon",
       "designation": "Dark Ark",
@@ -11447,6 +12019,7 @@
     },
     {
       "lot": 29414,
+      "source": "261W·W30 lot 29414",
       "producer_raw": "",
       "wine": "Hundred Acre Cabernet Sauvignon",
       "designation": "Kayli Morgan Vineyard",
@@ -11467,6 +12040,7 @@
     },
     {
       "lot": 29415,
+      "source": "261W·W30 lot 29415",
       "producer_raw": "",
       "wine": "Hundred Acre Cabernet Sauvignon",
       "designation": "Wraith",
@@ -11487,6 +12061,7 @@
     },
     {
       "lot": 29421,
+      "source": "261W·W30 lot 29421",
       "producer_raw": "D. Laurent",
       "wine": "Clos de la Roche",
       "designation": "Vieilles Vignes, Intra-Muros",
@@ -11507,6 +12082,7 @@
     },
     {
       "lot": 29422,
+      "source": "261W·W30 lot 29422",
       "producer_raw": "Dujac",
       "wine": "Echezeaux",
       "designation": "",
@@ -11527,6 +12103,7 @@
     },
     {
       "lot": 29424,
+      "source": "261W·W30 lot 29424",
       "producer_raw": "Faiveley",
       "wine": "Echezeaux",
       "designation": "",
@@ -11547,6 +12124,7 @@
     },
     {
       "lot": 29426,
+      "source": "261W·W30 lot 29426",
       "producer_raw": "Maume",
       "wine": "Gevrey Chambertin",
       "designation": "Lavaux St. Jacques",
@@ -11567,6 +12145,7 @@
     },
     {
       "lot": 29427,
+      "source": "261W·W30 lot 29427",
       "producer_raw": "Maume",
       "wine": "Mazis Chambertin",
       "designation": "",
@@ -11587,6 +12166,7 @@
     },
     {
       "lot": 29428,
+      "source": "261W·W30 lot 29428",
       "producer_raw": "V. Girardin",
       "wine": "Charmes Chambertin",
       "designation": "",
@@ -11607,6 +12187,7 @@
     },
     {
       "lot": 29429,
+      "source": "261W·W30 lot 29429",
       "producer_raw": "E. Guigal",
       "wine": "Cote Rotie",
       "designation": "La Landonne",
@@ -11627,6 +12208,7 @@
     },
     {
       "lot": 29430,
+      "source": "261W·W30 lot 29430",
       "producer_raw": "E. Guigal",
       "wine": "Cote Rotie",
       "designation": "La Turque",
@@ -11647,6 +12229,7 @@
     },
     {
       "lot": 29431,
+      "source": "261W·W30 lot 29431",
       "producer_raw": "Comte Lafon",
       "wine": "Meursault",
       "designation": "Clos de la Barre",
@@ -11667,6 +12250,7 @@
     },
     {
       "lot": 29431,
+      "source": "261W·W30 lot 29431",
       "producer_raw": "",
       "wine": "Merus Cabernet Sauvignon",
       "designation": "",
@@ -11687,6 +12271,7 @@
     },
     {
       "lot": 29436,
+      "source": "261W·W30 lot 29436",
       "producer_raw": "",
       "wine": "Cardinale Red",
       "designation": "",
@@ -11707,6 +12292,7 @@
     },
     {
       "lot": 29437,
+      "source": "261W·W30 lot 29437",
       "producer_raw": "",
       "wine": "Dalla Valle Red",
       "designation": "Maya",
@@ -11727,6 +12313,7 @@
     },
     {
       "lot": 29438,
+      "source": "261W·W30 lot 29438",
       "producer_raw": "",
       "wine": "David Arthur Cabernet Sauvignon",
       "designation": "Elevation 1147",
@@ -11747,6 +12334,7 @@
     },
     {
       "lot": 29439,
+      "source": "261W·W30 lot 29439",
       "producer_raw": "",
       "wine": "Hundred Acre Cabernet Sauvignon",
       "designation": "Precious",
@@ -11767,6 +12355,7 @@
     },
     {
       "lot": 29440,
+      "source": "261W·W30 lot 29440",
       "producer_raw": "",
       "wine": "Kapcsandy Family Cabernet Sauvignon",
       "designation": "State Lane Vineyard",
@@ -11787,6 +12376,7 @@
     },
     {
       "lot": 29442,
+      "source": "261W·W30 lot 29442",
       "producer_raw": "",
       "wine": "Lokoya Cabernet Sauvignon",
       "designation": "Diamond Mountain",
@@ -11807,6 +12397,7 @@
     },
     {
       "lot": 29443,
+      "source": "261W·W30 lot 29443",
       "producer_raw": "",
       "wine": "Pride Mountain Cabernet Sauvignon",
       "designation": "",
@@ -11827,6 +12418,7 @@
     },
     {
       "lot": 29444,
+      "source": "261W·W30 lot 29444",
       "producer_raw": "",
       "wine": "Pride Mountain Reserve Claret",
       "designation": "",
@@ -11847,6 +12439,7 @@
     },
     {
       "lot": 29450,
+      "source": "261W·W30 lot 29450",
       "producer_raw": "",
       "wine": "Verite Red",
       "designation": "La Joie",
@@ -11867,6 +12460,7 @@
     },
     {
       "lot": 29452,
+      "source": "261W·W30 lot 29452",
       "producer_raw": "",
       "wine": "Chateau Branon",
       "designation": "",
@@ -11887,6 +12481,7 @@
     },
     {
       "lot": 29453,
+      "source": "261W·W30 lot 29453",
       "producer_raw": "",
       "wine": "Chateau Kirwan",
       "designation": "",
@@ -11907,6 +12502,7 @@
     },
     {
       "lot": 29454,
+      "source": "261W·W30 lot 29454",
       "producer_raw": "",
       "wine": "Chateau Leoville Barton",
       "designation": "",
@@ -11927,6 +12523,7 @@
     },
     {
       "lot": 29455,
+      "source": "261W·W30 lot 29455",
       "producer_raw": "",
       "wine": "Chateau Malescot St. Exupery",
       "designation": "",
@@ -11947,6 +12544,7 @@
     },
     {
       "lot": 29456,
+      "source": "261W·W30 lot 29456",
       "producer_raw": "",
       "wine": "Chateau Pavie Macquin",
       "designation": "",
@@ -11967,6 +12565,7 @@
     },
     {
       "lot": 29457,
+      "source": "261W·W30 lot 29457",
       "producer_raw": "",
       "wine": "Chateau Troplong Mondot",
       "designation": "",
@@ -11987,6 +12586,7 @@
     },
     {
       "lot": 29458,
+      "source": "261W·W30 lot 29458",
       "producer_raw": "",
       "wine": "Chateau Rieussec",
       "designation": "",
@@ -12007,6 +12607,7 @@
     },
     {
       "lot": 29465,
+      "source": "261W·W30 lot 29465",
       "producer_raw": "Ponsot",
       "wine": "Clos de la Roche",
       "designation": "Vieilles Vignes",
@@ -12027,6 +12628,7 @@
     },
     {
       "lot": 29468,
+      "source": "261W·W30 lot 29468",
       "producer_raw": "H. Boillot",
       "wine": "Puligny Montrachet",
       "designation": "Clos de la Mouchere",
@@ -12047,6 +12649,7 @@
     },
     {
       "lot": 29469,
+      "source": "261W·W30 lot 29469",
       "producer_raw": "Domaine de la Janasse",
       "wine": "Chateauneuf du Pape",
       "designation": "Vieilles Vignes",
@@ -12067,6 +12670,7 @@
     },
     {
       "lot": 29470,
+      "source": "261W·W30 lot 29470",
       "producer_raw": "P. Avril",
       "wine": "Chateauneuf du Pape",
       "designation": "Clos des Papes",
@@ -12087,6 +12691,7 @@
     },
     {
       "lot": 29471,
+      "source": "261W·W30 lot 29471",
       "producer_raw": "Donnhoff",
       "wine": "Riesling Spatlese",
       "designation": "Niederhauser Hermannshohle",
@@ -12107,6 +12712,7 @@
     },
     {
       "lot": 29473,
+      "source": "261W·W30 lot 29473",
       "producer_raw": "J.J. Prum",
       "wine": "Riesling Auslese",
       "designation": "Wehlener Sonnenuhr",
@@ -12127,6 +12733,7 @@
     },
     {
       "lot": 29474,
+      "source": "261W·W30 lot 29474",
       "producer_raw": "Galardi",
       "wine": "Terra di Lavoro",
       "designation": "",
@@ -12147,6 +12754,7 @@
     },
     {
       "lot": 29476,
+      "source": "261W·W30 lot 29476",
       "producer_raw": "",
       "wine": "Colgin Red",
       "designation": "IX Estate",
@@ -12167,6 +12775,7 @@
     },
     {
       "lot": 29477,
+      "source": "261W·W30 lot 29477",
       "producer_raw": "",
       "wine": "Colgin Red",
       "designation": "IX Estate",
@@ -12187,6 +12796,7 @@
     },
     {
       "lot": 29478,
+      "source": "261W·W30 lot 29478",
       "producer_raw": "",
       "wine": "Dunn Vineyards Cabernet Sauvignon",
       "designation": "Howell Mountain",
@@ -12207,6 +12817,7 @@
     },
     {
       "lot": 29482,
+      "source": "261W·W30 lot 29482",
       "producer_raw": "",
       "wine": "Chateau Musar",
       "designation": "",
@@ -12227,6 +12838,7 @@
     },
     {
       "lot": 29487,
+      "source": "261W·W30 lot 29487",
       "producer_raw": "",
       "wine": "Chateau Branaire Ducru",
       "designation": "",
@@ -12247,6 +12859,7 @@
     },
     {
       "lot": 29488,
+      "source": "261W·W30 lot 29488",
       "producer_raw": "",
       "wine": "Chateau Branaire Ducru",
       "designation": "",
@@ -12267,6 +12880,7 @@
     },
     {
       "lot": 29491,
+      "source": "261W·W30 lot 29491",
       "producer_raw": "",
       "wine": "Chateau Brane Cantenac",
       "designation": "",
@@ -12287,6 +12901,7 @@
     },
     {
       "lot": 29492,
+      "source": "261W·W30 lot 29492",
       "producer_raw": "",
       "wine": "Chateau Brane Cantenac",
       "designation": "",
@@ -12307,6 +12922,7 @@
     },
     {
       "lot": 29494,
+      "source": "261W·W30 lot 29494",
       "producer_raw": "",
       "wine": "Chateau D'Issan",
       "designation": "",
@@ -12327,6 +12943,7 @@
     },
     {
       "lot": 29494,
+      "source": "261W·W30 lot 29494",
       "producer_raw": "",
       "wine": "Chateau D'Issan",
       "designation": "",
@@ -12347,6 +12964,7 @@
     },
     {
       "lot": 29495,
+      "source": "261W·W30 lot 29495",
       "producer_raw": "",
       "wine": "Chateau D'Issan",
       "designation": "",
@@ -12367,6 +12985,7 @@
     },
     {
       "lot": 29501,
+      "source": "261W·W30 lot 29501",
       "producer_raw": "",
       "wine": "Chateau Duhart Milon",
       "designation": "",
@@ -12387,6 +13006,7 @@
     },
     {
       "lot": 29502,
+      "source": "261W·W30 lot 29502",
       "producer_raw": "",
       "wine": "Chateau Duhart Milon",
       "designation": "",
@@ -12407,6 +13027,7 @@
     },
     {
       "lot": 29503,
+      "source": "261W·W30 lot 29503",
       "producer_raw": "",
       "wine": "Chateau Fleur Cardinale",
       "designation": "",
@@ -12427,6 +13048,7 @@
     },
     {
       "lot": 29504,
+      "source": "261W·W30 lot 29504",
       "producer_raw": "",
       "wine": "Chateau Giscours",
       "designation": "",
@@ -12447,6 +13069,7 @@
     },
     {
       "lot": 29505,
+      "source": "261W·W30 lot 29505",
       "producer_raw": "",
       "wine": "Chateau Grand Puy Lacoste",
       "designation": "",
@@ -12467,6 +13090,7 @@
     },
     {
       "lot": 29506,
+      "source": "261W·W30 lot 29506",
       "producer_raw": "",
       "wine": "Chateau Grand Puy Lacoste",
       "designation": "",
@@ -12487,6 +13111,7 @@
     },
     {
       "lot": 29507,
+      "source": "261W·W30 lot 29507",
       "producer_raw": "",
       "wine": "Chateau Haut Brion",
       "designation": "",
@@ -12507,6 +13132,7 @@
     },
     {
       "lot": 29508,
+      "source": "261W·W30 lot 29508",
       "producer_raw": "",
       "wine": "Chateau La Mission Haut Brion",
       "designation": "",
@@ -12527,6 +13153,7 @@
     },
     {
       "lot": 29509,
+      "source": "261W·W30 lot 29509",
       "producer_raw": "",
       "wine": "Chateau La Mission Haut Brion",
       "designation": "",
@@ -12547,6 +13174,7 @@
     },
     {
       "lot": 29510,
+      "source": "261W·W30 lot 29510",
       "producer_raw": "",
       "wine": "Chateau Lafite Rothschild",
       "designation": "",
@@ -12567,6 +13195,7 @@
     },
     {
       "lot": 29511,
+      "source": "261W·W30 lot 29511",
       "producer_raw": "",
       "wine": "Chateau Lafite Rothschild",
       "designation": "",
@@ -12587,6 +13216,7 @@
     },
     {
       "lot": 29512,
+      "source": "261W·W30 lot 29512",
       "producer_raw": "",
       "wine": "Chateau Lagrange",
       "designation": "",
@@ -12607,6 +13237,7 @@
     },
     {
       "lot": 29512,
+      "source": "261W·W30 lot 29512",
       "producer_raw": "",
       "wine": "Chateau Lagrange",
       "designation": "",
@@ -12627,6 +13258,7 @@
     },
     {
       "lot": 29513,
+      "source": "261W·W30 lot 29513",
       "producer_raw": "",
       "wine": "Chateau Lanessan",
       "designation": "",
@@ -12647,6 +13279,7 @@
     },
     {
       "lot": 29515,
+      "source": "261W·W30 lot 29515",
       "producer_raw": "",
       "wine": "Chateau Le Gay",
       "designation": "",
@@ -12667,6 +13300,7 @@
     },
     {
       "lot": 29516,
+      "source": "261W·W30 lot 29516",
       "producer_raw": "",
       "wine": "Chateau Leoville Barton",
       "designation": "",
@@ -12687,6 +13321,7 @@
     },
     {
       "lot": 29517,
+      "source": "261W·W30 lot 29517",
       "producer_raw": "",
       "wine": "Chateau Leoville Barton",
       "designation": "",
@@ -12707,6 +13342,7 @@
     },
     {
       "lot": 29518,
+      "source": "261W·W30 lot 29518",
       "producer_raw": "",
       "wine": "Chateau Leoville Barton",
       "designation": "",
@@ -12727,6 +13363,7 @@
     },
     {
       "lot": 29519,
+      "source": "261W·W30 lot 29519",
       "producer_raw": "",
       "wine": "Chateau Leoville Barton",
       "designation": "",
@@ -12747,6 +13384,7 @@
     },
     {
       "lot": 29520,
+      "source": "261W·W30 lot 29520",
       "producer_raw": "",
       "wine": "Chateau Leoville Poyferre",
       "designation": "",
@@ -12767,6 +13405,7 @@
     },
     {
       "lot": 29521,
+      "source": "261W·W30 lot 29521",
       "producer_raw": "",
       "wine": "Chateau Leoville Poyferre",
       "designation": "",
@@ -12787,6 +13426,7 @@
     },
     {
       "lot": 29522,
+      "source": "261W·W30 lot 29522",
       "producer_raw": "",
       "wine": "Chateau Leoville Poyferre",
       "designation": "",
@@ -12807,6 +13447,7 @@
     },
     {
       "lot": 29522,
+      "source": "261W·W30 lot 29522",
       "producer_raw": "",
       "wine": "Chateau Leoville Poyferre",
       "designation": "",
@@ -12827,6 +13468,7 @@
     },
     {
       "lot": 29523,
+      "source": "261W·W30 lot 29523",
       "producer_raw": "",
       "wine": "Chateau Leoville Poyferre",
       "designation": "",
@@ -12847,6 +13489,7 @@
     },
     {
       "lot": 29524,
+      "source": "261W·W30 lot 29524",
       "producer_raw": "",
       "wine": "Chateau Leoville Poyferre",
       "designation": "",
@@ -12867,6 +13510,7 @@
     },
     {
       "lot": 29525,
+      "source": "261W·W30 lot 29525",
       "producer_raw": "",
       "wine": "Chateau Leoville Poyferre",
       "designation": "",
@@ -12887,6 +13531,7 @@
     },
     {
       "lot": 29530,
+      "source": "261W·W30 lot 29530",
       "producer_raw": "",
       "wine": "Chateau Malescot St. Exupery",
       "designation": "",
@@ -12907,6 +13552,7 @@
     },
     {
       "lot": 29531,
+      "source": "261W·W30 lot 29531",
       "producer_raw": "",
       "wine": "Chateau Margaux",
       "designation": "",
@@ -12927,6 +13573,7 @@
     },
     {
       "lot": 29532,
+      "source": "261W·W30 lot 29532",
       "producer_raw": "",
       "wine": "Chateau Malartic La Graviere",
       "designation": "",
@@ -12947,6 +13594,7 @@
     },
     {
       "lot": 29532,
+      "source": "261W·W30 lot 29532",
       "producer_raw": "",
       "wine": "Chateau Monbousquet",
       "designation": "",
@@ -12967,6 +13615,7 @@
     },
     {
       "lot": 29533,
+      "source": "261W·W30 lot 29533",
       "producer_raw": "",
       "wine": "Chateau Pavie",
       "designation": "",
@@ -12987,6 +13636,7 @@
     },
     {
       "lot": 29534,
+      "source": "261W·W30 lot 29534",
       "producer_raw": "",
       "wine": "Chateau Pavie",
       "designation": "",
@@ -13007,6 +13657,7 @@
     },
     {
       "lot": 29535,
+      "source": "261W·W30 lot 29535",
       "producer_raw": "",
       "wine": "Chateau Phelan Segur",
       "designation": "",
@@ -13027,6 +13678,7 @@
     },
     {
       "lot": 29536,
+      "source": "261W·W30 lot 29536",
       "producer_raw": "",
       "wine": "Chateau Phelan Segur",
       "designation": "",
@@ -13047,6 +13699,7 @@
     },
     {
       "lot": 29537,
+      "source": "261W·W30 lot 29537",
       "producer_raw": "",
       "wine": "Chateau Pontet Canet",
       "designation": "",
@@ -13067,6 +13720,7 @@
     },
     {
       "lot": 29538,
+      "source": "261W·W30 lot 29538",
       "producer_raw": "",
       "wine": "Chateau Pontet Canet",
       "designation": "",
@@ -13087,6 +13741,7 @@
     },
     {
       "lot": 29539,
+      "source": "261W·W30 lot 29539",
       "producer_raw": "",
       "wine": "Chateau Pontet Canet",
       "designation": "",
@@ -13107,6 +13762,7 @@
     },
     {
       "lot": 29541,
+      "source": "261W·W30 lot 29541",
       "producer_raw": "",
       "wine": "Chateau Rauzan Segla",
       "designation": "",
@@ -13127,6 +13783,7 @@
     },
     {
       "lot": 29542,
+      "source": "261W·W30 lot 29542",
       "producer_raw": "",
       "wine": "Chateau Smith Haut Lafitte",
       "designation": "",
@@ -13147,6 +13804,7 @@
     },
     {
       "lot": 29543,
+      "source": "261W·W30 lot 29543",
       "producer_raw": "",
       "wine": "Chateau Smith Haut Lafitte",
       "designation": "",
@@ -13167,6 +13825,7 @@
     },
     {
       "lot": 29543,
+      "source": "261W·W30 lot 29543",
       "producer_raw": "",
       "wine": "Chateau Smith Haut Lafitte",
       "designation": "",
@@ -13187,6 +13846,7 @@
     },
     {
       "lot": 29544,
+      "source": "261W·W30 lot 29544",
       "producer_raw": "",
       "wine": "Chateau Sociando Mallet",
       "designation": "",
@@ -13207,6 +13867,7 @@
     },
     {
       "lot": 29545,
+      "source": "261W·W30 lot 29545",
       "producer_raw": "",
       "wine": "Chateau Sociando Mallet",
       "designation": "",
@@ -13227,6 +13888,7 @@
     },
     {
       "lot": 29546,
+      "source": "261W·W30 lot 29546",
       "producer_raw": "",
       "wine": "Chateau Sociando Mallet",
       "designation": "",
@@ -13247,6 +13909,7 @@
     },
     {
       "lot": 29549,
+      "source": "261W·W30 lot 29549",
       "producer_raw": "",
       "wine": "Chateau Climens",
       "designation": "",
@@ -13267,6 +13930,7 @@
     },
     {
       "lot": 29550,
+      "source": "261W·W30 lot 29550",
       "producer_raw": "",
       "wine": "Chateau d'Yquem",
       "designation": "",
@@ -13287,6 +13951,7 @@
     },
     {
       "lot": 29551,
+      "source": "261W·W30 lot 29551",
       "producer_raw": "",
       "wine": "Chateau d'Yquem",
       "designation": "",
@@ -13307,6 +13972,7 @@
     },
     {
       "lot": 29552,
+      "source": "261W·W30 lot 29552",
       "producer_raw": "",
       "wine": "Chateau Suduiraut",
       "designation": "",
@@ -13327,6 +13993,7 @@
     },
     {
       "lot": 29553,
+      "source": "261W·W30 lot 29553",
       "producer_raw": "",
       "wine": "Chateau La Tour Blanche",
       "designation": "",
@@ -13347,6 +14014,7 @@
     },
     {
       "lot": 29554,
+      "source": "261W·W30 lot 29554",
       "producer_raw": "",
       "wine": "Chateau Lafaurie Peyraguey",
       "designation": "",
@@ -13367,6 +14035,7 @@
     },
     {
       "lot": 29555,
+      "source": "261W·W30 lot 29555",
       "producer_raw": "",
       "wine": "Chateau Lafaurie Peyraguey",
       "designation": "",
@@ -13387,6 +14056,7 @@
     },
     {
       "lot": 29561,
+      "source": "261W·W30 lot 29561",
       "producer_raw": "Domaine du Clos de Tart",
       "wine": "Clos de Tart",
       "designation": "",
@@ -13407,6 +14077,7 @@
     },
     {
       "lot": 29562,
+      "source": "261W·W30 lot 29562",
       "producer_raw": "Domaine Leroy",
       "wine": "Gevrey Chambertin",
       "designation": "",
@@ -13427,6 +14098,7 @@
     },
     {
       "lot": 29563,
+      "source": "261W·W30 lot 29563",
       "producer_raw": "Dujac",
       "wine": "Vosne Romanee",
       "designation": "Aux Malconsorts",
@@ -13447,6 +14119,7 @@
     },
     {
       "lot": 29564,
+      "source": "261W·W30 lot 29564",
       "producer_raw": "Fourrier",
       "wine": "Gevrey Chambertin",
       "designation": "Combe Aux Moines, Vieilles Vignes",
@@ -13467,6 +14140,7 @@
     },
     {
       "lot": 29566,
+      "source": "261W·W30 lot 29566",
       "producer_raw": "J. Grivot",
       "wine": "Clos Vougeot",
       "designation": "",
@@ -13487,6 +14161,7 @@
     },
     {
       "lot": 29571,
+      "source": "261W·W30 lot 29571",
       "producer_raw": "N. Potel",
       "wine": "Clos de la Roche",
       "designation": "",
@@ -13507,6 +14182,7 @@
     },
     {
       "lot": 29575,
+      "source": "261W·W30 lot 29575",
       "producer_raw": "Pousse d'Or",
       "wine": "Volnay",
       "designation": "Clos des 60 Ouvrees",
@@ -13527,6 +14203,7 @@
     },
     {
       "lot": 29576,
+      "source": "261W·W30 lot 29576",
       "producer_raw": "R. Chevillon",
       "wine": "Nuits St. Georges",
       "designation": "Les Roncieres",
@@ -13547,6 +14224,7 @@
     },
     {
       "lot": 29577,
+      "source": "261W·W30 lot 29577",
       "producer_raw": "R. Chevillon",
       "wine": "Nuits St. Georges",
       "designation": "Les Roncieres",
@@ -13567,6 +14245,7 @@
     },
     {
       "lot": 29581,
+      "source": "261W·W30 lot 29581",
       "producer_raw": "S. Esmonin",
       "wine": "Gevrey Chambertin",
       "designation": "Clos St. Jacques",
@@ -13587,6 +14266,7 @@
     },
     {
       "lot": 29594,
+      "source": "261W·W30 lot 29594",
       "producer_raw": "Chateau de Beaucastel",
       "wine": "Chateauneuf du Pape",
       "designation": "",
@@ -13607,6 +14287,7 @@
     },
     {
       "lot": 29595,
+      "source": "261W·W30 lot 29595",
       "producer_raw": "Chateau de Beaucastel",
       "wine": "Chateauneuf du Pape",
       "designation": "Hommage a Jacques Perrin",
@@ -13627,6 +14308,7 @@
     },
     {
       "lot": 29596,
+      "source": "261W·W30 lot 29596",
       "producer_raw": "Bois de Boursan",
       "wine": "Chateauneuf du Pape",
       "designation": "Cuvee des Felix",
@@ -13647,6 +14329,7 @@
     },
     {
       "lot": 29597,
+      "source": "261W·W30 lot 29597",
       "producer_raw": "Chateau La Nerthe",
       "wine": "Chateauneuf du Pape",
       "designation": "",
@@ -13667,6 +14350,7 @@
     },
     {
       "lot": 29597,
+      "source": "261W·W30 lot 29597",
       "producer_raw": "Chateau La Nerthe",
       "wine": "Chateauneuf du Pape",
       "designation": "Cuvee des Cadettes",
@@ -13687,6 +14371,7 @@
     },
     {
       "lot": 29598,
+      "source": "261W·W30 lot 29598",
       "producer_raw": "Clos St. Jean",
       "wine": "Chateauneuf du Pape",
       "designation": "Deus Ex Machina",
@@ -13707,6 +14392,7 @@
     },
     {
       "lot": 29599,
+      "source": "261W·W30 lot 29599",
       "producer_raw": "Clos St. Jean",
       "wine": "Chateauneuf du Pape",
       "designation": "La Combe des Fous",
@@ -13727,6 +14413,7 @@
     },
     {
       "lot": 29600,
+      "source": "261W·W30 lot 29600",
       "producer_raw": "Clos St. Jean",
       "wine": "Chateauneuf du Pape",
       "designation": "La Combe des Fous",
@@ -13747,6 +14434,7 @@
     },
     {
       "lot": 29601,
+      "source": "261W·W30 lot 29601",
       "producer_raw": "Clos St. Jean",
       "wine": "Chateauneuf du Pape",
       "designation": "La Combe des Fous",
@@ -13767,6 +14455,7 @@
     },
     {
       "lot": 29602,
+      "source": "261W·W30 lot 29602",
       "producer_raw": "Domaine du Pegau",
       "wine": "Chateauneuf du Pape",
       "designation": "Cuvee Reservee",
@@ -13787,6 +14476,7 @@
     },
     {
       "lot": 29602,
+      "source": "261W·W30 lot 29602",
       "producer_raw": "Domaine du Pegau",
       "wine": "Chateauneuf du Pape",
       "designation": "Cuvee Reservee",
@@ -13807,6 +14497,7 @@
     },
     {
       "lot": 29602,
+      "source": "261W·W30 lot 29602",
       "producer_raw": "Domaine du Pegau",
       "wine": "Chateauneuf du Pape",
       "designation": "Cuvee Reservee",
@@ -13827,6 +14518,7 @@
     },
     {
       "lot": 29603,
+      "source": "261W·W30 lot 29603",
       "producer_raw": "Domaine du Pegau",
       "wine": "Chateauneuf du Pape",
       "designation": "Cuvee Reservee",
@@ -13847,6 +14539,7 @@
     },
     {
       "lot": 29604,
+      "source": "261W·W30 lot 29604",
       "producer_raw": "Domaine du Pegau",
       "wine": "Chateauneuf du Pape",
       "designation": "Cuvee Reservee",
@@ -13867,6 +14560,7 @@
     },
     {
       "lot": 29606,
+      "source": "261W·W30 lot 29606",
       "producer_raw": "P. Avril",
       "wine": "Chateauneuf du Pape",
       "designation": "Clos des Papes",
@@ -13887,6 +14581,7 @@
     },
     {
       "lot": 29606,
+      "source": "261W·W30 lot 29606",
       "producer_raw": "P. Avril",
       "wine": "Chateauneuf du Pape",
       "designation": "Clos des Papes",
@@ -13907,6 +14602,7 @@
     },
     {
       "lot": 29609,
+      "source": "261W·W30 lot 29609",
       "producer_raw": "P. Jaboulet",
       "wine": "Hermitage",
       "designation": "La Chapelle",
@@ -13927,6 +14623,7 @@
     },
     {
       "lot": 29614,
+      "source": "261W·W30 lot 29614",
       "producer_raw": "Tardieu-Laurent",
       "wine": "Hermitage",
       "designation": "",
@@ -13947,6 +14644,7 @@
     },
     {
       "lot": 29615,
+      "source": "261W·W30 lot 29615",
       "producer_raw": "Vieux Telegraphe",
       "wine": "Chateauneuf du Pape",
       "designation": "La Crau",
@@ -13967,6 +14665,7 @@
     },
     {
       "lot": 29626,
+      "source": "261W·W30 lot 29626",
       "producer_raw": "Baumard",
       "wine": "Quarts de Chaume",
       "designation": "",
@@ -13987,6 +14686,7 @@
     },
     {
       "lot": 29630,
+      "source": "261W·W30 lot 29630",
       "producer_raw": "Huet",
       "wine": "Vouvray",
       "designation": "Le Mont Demi Sec",
@@ -14007,6 +14707,7 @@
     },
     {
       "lot": 29631,
+      "source": "261W·W30 lot 29631",
       "producer_raw": "Moulin Touchais",
       "wine": "Coteaux du Layon",
       "designation": "",
@@ -14027,6 +14728,7 @@
     },
     {
       "lot": 29643,
+      "source": "261W·W30 lot 29643",
       "producer_raw": "Selbach-Oster",
       "wine": "Riesling Auslese",
       "designation": "Zeltinger Sonnenuhr *",
@@ -14047,6 +14749,7 @@
     },
     {
       "lot": 29644,
+      "source": "261W·W30 lot 29644",
       "producer_raw": "Trimbach",
       "wine": "Riesling",
       "designation": "Cuvee Frederic Emile",
@@ -14067,6 +14770,7 @@
     },
     {
       "lot": 29646,
+      "source": "261W·W30 lot 29646",
       "producer_raw": "Altesino",
       "wine": "Brunello di Montalcino",
       "designation": "Montosoli",
@@ -14087,6 +14791,7 @@
     },
     {
       "lot": 29647,
+      "source": "261W·W30 lot 29647",
       "producer_raw": "Antinori",
       "wine": "Solaia",
       "designation": "",
@@ -14107,6 +14812,7 @@
     },
     {
       "lot": 29649,
+      "source": "261W·W30 lot 29649",
       "producer_raw": "B. Giacosa",
       "wine": "Barbaresco",
       "designation": "Asili",
@@ -14127,6 +14833,7 @@
     },
     {
       "lot": 29653,
+      "source": "261W·W30 lot 29653",
       "producer_raw": "Cavallotto",
       "wine": "Barolo",
       "designation": "Bricco Boschis",
@@ -14147,6 +14854,7 @@
     },
     {
       "lot": 29659,
+      "source": "261W·W30 lot 29659",
       "producer_raw": "E. Pira",
       "wine": "Barolo",
       "designation": "Cannubi Chiara Boschis",
@@ -14167,6 +14875,7 @@
     },
     {
       "lot": 29660,
+      "source": "261W·W30 lot 29660",
       "producer_raw": "E. Pira",
       "wine": "Barolo",
       "designation": "Cannubi Chiara Boschis",
@@ -14187,6 +14896,7 @@
     },
     {
       "lot": 29662,
+      "source": "261W·W30 lot 29662",
       "producer_raw": "Felsina",
       "wine": "Chianti Classico",
       "designation": "Rancia Riserva",
@@ -14207,6 +14917,7 @@
     },
     {
       "lot": 29665,
+      "source": "261W·W30 lot 29665",
       "producer_raw": "Felsina",
       "wine": "Fontalloro",
       "designation": "",
@@ -14227,6 +14938,7 @@
     },
     {
       "lot": 29665,
+      "source": "261W·W30 lot 29665",
       "producer_raw": "Felsina",
       "wine": "Fontalloro",
       "designation": "",
@@ -14247,6 +14959,7 @@
     },
     {
       "lot": 29666,
+      "source": "261W·W30 lot 29666",
       "producer_raw": "Fontodi",
       "wine": "Flaccianello Della Pieve",
       "designation": "",
@@ -14267,6 +14980,7 @@
     },
     {
       "lot": 29667,
+      "source": "261W·W30 lot 29667",
       "producer_raw": "Fontodi",
       "wine": "Flaccianello Della Pieve",
       "designation": "",
@@ -14287,6 +15001,7 @@
     },
     {
       "lot": 29668,
+      "source": "261W·W30 lot 29668",
       "producer_raw": "Fontodi",
       "wine": "Flaccianello Della Pieve",
       "designation": "",
@@ -14307,6 +15022,7 @@
     },
     {
       "lot": 29669,
+      "source": "261W·W30 lot 29669",
       "producer_raw": "G. Conterno",
       "wine": "Barolo",
       "designation": "Cascina Francia",
@@ -14327,6 +15043,7 @@
     },
     {
       "lot": 29670,
+      "source": "261W·W30 lot 29670",
       "producer_raw": "G. Conterno",
       "wine": "Barolo",
       "designation": "Cascina Francia",
@@ -14347,6 +15064,7 @@
     },
     {
       "lot": 29671,
+      "source": "261W·W30 lot 29671",
       "producer_raw": "G. Conterno",
       "wine": "Barbera d'Alba",
       "designation": "Cascina Francia",
@@ -14367,6 +15085,7 @@
     },
     {
       "lot": 29675,
+      "source": "261W·W30 lot 29675",
       "producer_raw": "Il Poggione",
       "wine": "Brunello di Montalcino",
       "designation": "",
@@ -14387,6 +15106,7 @@
     },
     {
       "lot": 29676,
+      "source": "261W·W30 lot 29676",
       "producer_raw": "Il Poggione",
       "wine": "Brunello di Montalcino",
       "designation": "",
@@ -14407,6 +15127,7 @@
     },
     {
       "lot": 29678,
+      "source": "261W·W30 lot 29678",
       "producer_raw": "La Serena",
       "wine": "Brunello di Montalcino",
       "designation": "",
@@ -14427,6 +15148,7 @@
     },
     {
       "lot": 29681,
+      "source": "261W·W30 lot 29681",
       "producer_raw": "Marcarini",
       "wine": "Barolo",
       "designation": "Brunate",
@@ -14447,6 +15169,7 @@
     },
     {
       "lot": 29682,
+      "source": "261W·W30 lot 29682",
       "producer_raw": "Ornellaia",
       "wine": "Ornellaia",
       "designation": "",
@@ -14467,6 +15190,7 @@
     },
     {
       "lot": 29690,
+      "source": "261W·W30 lot 29690",
       "producer_raw": "Schiavenza",
       "wine": "Barolo",
       "designation": "",
@@ -14487,6 +15211,7 @@
     },
     {
       "lot": 29691,
+      "source": "261W·W30 lot 29691",
       "producer_raw": "Soldera",
       "wine": "Brunello di Montalcino",
       "designation": "Case Basse",
@@ -14507,6 +15232,7 @@
     },
     {
       "lot": 29692,
+      "source": "261W·W30 lot 29692",
       "producer_raw": "Soldera",
       "wine": "Brunello di Montalcino",
       "designation": "Case Basse",
@@ -14527,6 +15253,7 @@
     },
     {
       "lot": 29700,
+      "source": "261W·W30 lot 29700",
       "producer_raw": "",
       "wine": "Dunn Vineyards Cabernet Sauvignon",
       "designation": "Howell Mountain",
@@ -14547,6 +15274,7 @@
     },
     {
       "lot": 29701,
+      "source": "261W·W30 lot 29701",
       "producer_raw": "",
       "wine": "Dunn Vineyards Cabernet Sauvignon",
       "designation": "Napa Valley",
@@ -14567,6 +15295,7 @@
     },
     {
       "lot": 29702,
+      "source": "261W·W30 lot 29702",
       "producer_raw": "",
       "wine": "Dunn Vineyards Cabernet Sauvignon",
       "designation": "Napa Valley",
@@ -14587,6 +15316,7 @@
     },
     {
       "lot": 29703,
+      "source": "261W·W30 lot 29703",
       "producer_raw": "",
       "wine": "Dunn Vineyards Cabernet Sauvignon",
       "designation": "Napa Valley",
@@ -14607,6 +15337,7 @@
     },
     {
       "lot": 29704,
+      "source": "261W·W30 lot 29704",
       "producer_raw": "",
       "wine": "Forman Cabernet Sauvignon",
       "designation": "",
@@ -14627,6 +15358,7 @@
     },
     {
       "lot": 29705,
+      "source": "261W·W30 lot 29705",
       "producer_raw": "",
       "wine": "Harlan Estate Red",
       "designation": "",
@@ -14647,6 +15379,7 @@
     },
     {
       "lot": 29707,
+      "source": "261W·W30 lot 29707",
       "producer_raw": "",
       "wine": "Joseph Phelps Winery",
       "designation": "Insignia",
@@ -14667,6 +15400,7 @@
     },
     {
       "lot": 29712,
+      "source": "261W·W30 lot 29712",
       "producer_raw": "",
       "wine": "Kistler Pinot Noir",
       "designation": "Cuvee Catherine",
@@ -14687,6 +15421,7 @@
     },
     {
       "lot": 29713,
+      "source": "261W·W30 lot 29713",
       "producer_raw": "",
       "wine": "Quilceda Creek Cabernet Sauvignon",
       "designation": "",
@@ -14707,6 +15442,7 @@
     },
     {
       "lot": 29715,
+      "source": "261W·W30 lot 29715",
       "producer_raw": "",
       "wine": "Turley Petite Sirah",
       "designation": "Hayne Vineyard",
@@ -14727,6 +15463,7 @@
     },
     {
       "lot": 29715,
+      "source": "261W·W30 lot 29715",
       "producer_raw": "",
       "wine": "Turley Petite Sirah",
       "designation": "Hayne Vineyard",
@@ -14747,6 +15484,7 @@
     },
     {
       "lot": 29716,
+      "source": "261W·W30 lot 29716",
       "producer_raw": "",
       "wine": "Turley Zinfandel",
       "designation": "Cedarman Vineyard",
@@ -14767,6 +15505,7 @@
     },
     {
       "lot": 29716,
+      "source": "261W·W30 lot 29716",
       "producer_raw": "",
       "wine": "Turley Zinfandel",
       "designation": "Duarte Vineyard",
@@ -14787,6 +15526,7 @@
     },
     {
       "lot": 29716,
+      "source": "261W·W30 lot 29716",
       "producer_raw": "",
       "wine": "Turley Zinfandel",
       "designation": "Dusi Vineyard",
@@ -14807,6 +15547,7 @@
     },
     {
       "lot": 29716,
+      "source": "261W·W30 lot 29716",
       "producer_raw": "",
       "wine": "Turley Zinfandel",
       "designation": "Fredericks Vineyard",
@@ -14827,6 +15568,7 @@
     },
     {
       "lot": 29717,
+      "source": "261W·W30 lot 29717",
       "producer_raw": "",
       "wine": "Turley Zinfandel",
       "designation": "Judge Bell",
@@ -14847,6 +15589,7 @@
     },
     {
       "lot": 29717,
+      "source": "261W·W30 lot 29717",
       "producer_raw": "",
       "wine": "Turley Zinfandel",
       "designation": "Juvenile",
@@ -14867,6 +15610,7 @@
     },
     {
       "lot": 29717,
+      "source": "261W·W30 lot 29717",
       "producer_raw": "",
       "wine": "Turley Zinfandel",
       "designation": "Mead Ranch",
@@ -14887,6 +15631,7 @@
     },
     {
       "lot": 29717,
+      "source": "261W·W30 lot 29717",
       "producer_raw": "",
       "wine": "Turley Zinfandel",
       "designation": "Old Vines",
@@ -14907,6 +15652,7 @@
     },
     {
       "lot": 29717,
+      "source": "261W·W30 lot 29717",
       "producer_raw": "",
       "wine": "Turley Zinfandel",
       "designation": "Pesenti Vineyard",
@@ -14927,6 +15673,7 @@
     },
     {
       "lot": 29717,
+      "source": "261W·W30 lot 29717",
       "producer_raw": "",
       "wine": "Turley Zinfandel",
       "designation": "Rattlesnake Ridge",
@@ -14947,6 +15694,7 @@
     },
     {
       "lot": 29717,
+      "source": "261W·W30 lot 29717",
       "producer_raw": "",
       "wine": "Turley Zinfandel",
       "designation": "Ueberroth Vineyard",
@@ -14967,6 +15715,7 @@
     },
     {
       "lot": 29719,
+      "source": "261W·W30 lot 29719",
       "producer_raw": "",
       "wine": "Kistler Chardonnay",
       "designation": "McCrea Vineyard",
@@ -14987,6 +15736,7 @@
     },
     {
       "lot": 29726,
+      "source": "261W·W30 lot 29726",
       "producer_raw": "",
       "wine": "Quilceda Creek Cabernet Sauvignon",
       "designation": "",
@@ -15007,6 +15757,7 @@
     },
     {
       "lot": 29727,
+      "source": "261W·W30 lot 29727",
       "producer_raw": "",
       "wine": "Quilceda Creek Cabernet Sauvignon",
       "designation": "",
@@ -15027,6 +15778,7 @@
     },
     {
       "lot": 29727,
+      "source": "261W·W30 lot 29727",
       "producer_raw": "",
       "wine": "Quilceda Creek Cabernet Sauvignon",
       "designation": "",
@@ -15047,6 +15799,7 @@
     },
     {
       "lot": 29732,
+      "source": "261W·W30 lot 29732",
       "producer_raw": "",
       "wine": "Le Petit Mouton de Mouton Rothschild",
       "designation": "",
@@ -15067,6 +15820,7 @@
     },
     {
       "lot": 29733,
+      "source": "261W·W30 lot 29733",
       "producer_raw": "",
       "wine": "Le Petit Mouton de Mouton Rothschild",
       "designation": "",
@@ -15087,6 +15841,7 @@
     },
     {
       "lot": 29744,
+      "source": "261W·W30 lot 29744",
       "producer_raw": "",
       "wine": "Larkmead Cabernet Sauvignon",
       "designation": "",
@@ -15107,6 +15862,7 @@
     },
     {
       "lot": 29747,
+      "source": "261W·W30 lot 29747",
       "producer_raw": "",
       "wine": "Larkmead Cabernet Sauvignon",
       "designation": "Dr. Olmo",
@@ -15127,6 +15883,7 @@
     },
     {
       "lot": 29796,
+      "source": "261W·W30 lot 29796",
       "producer_raw": "",
       "wine": "Anthill Farms Pinot Noir",
       "designation": "Tina Marie Vineyard",
@@ -15147,6 +15904,7 @@
     },
     {
       "lot": 29798,
+      "source": "261W·W30 lot 29798",
       "producer_raw": "",
       "wine": "Carlisle Zinfandel",
       "designation": "Montafi Ranch",
@@ -15167,6 +15925,7 @@
     },
     {
       "lot": 29813,
+      "source": "261W·W30 lot 29813",
       "producer_raw": "",
       "wine": "Rhys Pinot Noir",
       "designation": "Horseshoe Vineyard",
@@ -15187,6 +15946,7 @@
     },
     {
       "lot": 29830,
+      "source": "261W·W30 lot 29830",
       "producer_raw": "",
       "wine": "Saxum Red",
       "designation": "Bone Rock",
@@ -15207,6 +15967,7 @@
     },
     {
       "lot": 29838,
+      "source": "261W·W30 lot 29838",
       "producer_raw": "",
       "wine": "Saxum Red",
       "designation": "Broken Stones",
@@ -15227,6 +15988,7 @@
     },
     {
       "lot": 29839,
+      "source": "261W·W30 lot 29839",
       "producer_raw": "",
       "wine": "Saxum Red",
       "designation": "Broken Stones",
@@ -15247,6 +16009,7 @@
     },
     {
       "lot": 29840,
+      "source": "261W·W30 lot 29840",
       "producer_raw": "",
       "wine": "Saxum Red",
       "designation": "Broken Stones",
@@ -15267,6 +16030,7 @@
     },
     {
       "lot": 29854,
+      "source": "261W·W30 lot 29854",
       "producer_raw": "",
       "wine": "Saxum Red",
       "designation": "G2 Vineyard",
@@ -15287,6 +16051,7 @@
     },
     {
       "lot": 29855,
+      "source": "261W·W30 lot 29855",
       "producer_raw": "",
       "wine": "Saxum Red",
       "designation": "G2 Vineyard",
@@ -15307,6 +16072,7 @@
     },
     {
       "lot": 29866,
+      "source": "261W·W30 lot 29866",
       "producer_raw": "",
       "wine": "Saxum Red",
       "designation": "Heart Stone Vineyard",
@@ -15327,6 +16093,7 @@
     },
     {
       "lot": 29867,
+      "source": "261W·W30 lot 29867",
       "producer_raw": "",
       "wine": "Saxum Red",
       "designation": "Heart Stone Vineyard",
@@ -15347,6 +16114,7 @@
     },
     {
       "lot": 29868,
+      "source": "261W·W30 lot 29868",
       "producer_raw": "",
       "wine": "Saxum Red",
       "designation": "Heart Stone Vineyard",
@@ -15367,6 +16135,7 @@
     },
     {
       "lot": 29875,
+      "source": "261W·W30 lot 29875",
       "producer_raw": "",
       "wine": "Saxum Red",
       "designation": "Paderewski Vineyard",
@@ -15387,6 +16156,7 @@
     },
     {
       "lot": 29915,
+      "source": "261W·W30 lot 29915",
       "producer_raw": "",
       "wine": "Quilceda Creek Cabernet Sauvignon",
       "designation": "",
@@ -15407,6 +16177,7 @@
     },
     {
       "lot": 29916,
+      "source": "261W·W30 lot 29916",
       "producer_raw": "",
       "wine": "Quilceda Creek Cabernet Sauvignon",
       "designation": "",
@@ -15427,6 +16198,7 @@
     },
     {
       "lot": 29917,
+      "source": "261W·W30 lot 29917",
       "producer_raw": "",
       "wine": "Quilceda Creek Cabernet Sauvignon",
       "designation": "",
@@ -15447,6 +16219,7 @@
     },
     {
       "lot": 29920,
+      "source": "261W·W30 lot 29920",
       "producer_raw": "",
       "wine": "Quilceda Creek Cabernet Sauvignon",
       "designation": "Galitzine Vineyard",
@@ -15467,6 +16240,7 @@
     },
     {
       "lot": 29921,
+      "source": "261W·W30 lot 29921",
       "producer_raw": "",
       "wine": "Quilceda Creek Cabernet Sauvignon",
       "designation": "Galitzine Vineyard",
@@ -15487,6 +16261,7 @@
     },
     {
       "lot": 29922,
+      "source": "261W·W30 lot 29922",
       "producer_raw": "",
       "wine": "Quilceda Creek Cabernet Sauvignon",
       "designation": "Galitzine Vineyard",
@@ -15507,6 +16282,7 @@
     },
     {
       "lot": 29928,
+      "source": "261W·W30 lot 29928",
       "producer_raw": "",
       "wine": "Chateau Cos d'Estournel",
       "designation": "",
@@ -15527,6 +16303,7 @@
     },
     {
       "lot": 29938,
+      "source": "261W·W30 lot 29938",
       "producer_raw": "",
       "wine": "Crosby Roamann Cabernet Sauvignon",
       "designation": "",
@@ -15547,6 +16324,7 @@
     },
     {
       "lot": 29939,
+      "source": "261W·W30 lot 29939",
       "producer_raw": "",
       "wine": "Diamond Mountain Cabernet Sauvignon",
       "designation": "",
@@ -15567,6 +16345,7 @@
     },
     {
       "lot": 29940,
+      "source": "261W·W30 lot 29940",
       "producer_raw": "",
       "wine": "Diamond Mountain Cabernet Sauvignon",
       "designation": "Block F3",
@@ -15587,6 +16366,7 @@
     },
     {
       "lot": 29942,
+      "source": "261W·W30 lot 29942",
       "producer_raw": "",
       "wine": "Flora Springs Cabernet Sauvignon",
       "designation": "Holy Smoke Vineyards",
@@ -15607,6 +16387,7 @@
     },
     {
       "lot": 29943,
+      "source": "261W·W30 lot 29943",
       "producer_raw": "",
       "wine": "Flora Springs Cabernet Sauvignon",
       "designation": "Out of Sight Vineyard",
@@ -15627,6 +16408,7 @@
     },
     {
       "lot": 29957,
+      "source": "261W·W30 lot 29957",
       "producer_raw": "",
       "wine": "Trois Noix Cabernet Sauvignon",
       "designation": "Rancho Pequeno",
@@ -15647,6 +16429,7 @@
     },
     {
       "lot": 29960,
+      "source": "261W·W30 lot 29960",
       "producer_raw": "",
       "wine": "Volker Eisele Cabernet Sauvignon",
       "designation": "V",
@@ -15667,6 +16450,7 @@
     },
     {
       "lot": 29961,
+      "source": "261W·W30 lot 29961",
       "producer_raw": "",
       "wine": "Volker Eisele Cabernet Sauvignon",
       "designation": "V",

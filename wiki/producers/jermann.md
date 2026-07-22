@@ -55,6 +55,14 @@ with real Raeders shelf presence.
 
 _None found in the CSW corpus (scraped 2026-04)._
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Vintage Tunina | 2023 | James Suckling | 94 |  | Raeders 2026-04-25 |
+
 ## Raeder's
 
 Currently tracked: **4 cuvée/vintage entries**; prices $34.99–$79.99 (some unpriced).

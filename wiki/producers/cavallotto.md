@@ -98,18 +98,18 @@ _sources:
 
 **Momentum 2023+:** 2.0× (rising).
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Barolo Bricco Boschis | 2010 | — | 96 | The 2010 Barolo Bricco Boschis is the flagship wine from this historic estate in Castiglione Falletto. The personality here is dark and brooding with savory aro… | 261W·W30 lot 29653 |
 | Barolo Bricco Boschis, San Giuseppe Riserva | 2016 | — | 98 | Dark fruit, dried cherry, wild plum, rose and iron ore meet a perfect intersection that gives this Barolo a beautiful sense of balance and inner energy. | 261W·W30 lot 29174 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 
 ## Raeder's
 

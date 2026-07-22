@@ -135,18 +135,22 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 
 > Probably either the Ulysse Collin Pierrieres Blanc de Blancs or the 2006 Clos Roillette Tardive… Also worked through five magnums of the 1970 Pape Clement very contentedly, as the wine is at peak. If a wine is complex, expressive and fulfilling an…
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Domaine de Chevalier | 2012 | — | 92-95 | One of the stars of the vintage, it boasts a dense purple color as well as a big, sweet bouquet of red and black currants, graphite, subtle flowers and well-int… | 261W·W30 lot 17963 |
 | Domaine de Chevalier | 2013 | Vinous | 91-94 | ...opens up beautifully, showing off its multi-faceted personality. What a gorgeous wine this is. Violets, sage and new leather add the final layers of complexi… | 261W·W30 lot 25286 |
+| Pessac-Leognan | 2022 | Wine Advocate | 96 |  | Raeders 2026-04-25 |
+| Pessac-Leognan | 2022 | James Suckling | 98 | WA 96 D 96 JD 98 JS 98 V 96 Commemorating his 40th harvest at the helm of the estate, Olivier Bernard has crafted a wine of abundant promise. Evoking aromas of… | Raeders 2026-04-25 |
+| Pessac-Leognan | 2022 | Wine Spectator | 96 |  | Raeders 2026-04-25 |
+| Pessac-Leognan | 2022 | Wine Enthusiast | 96 |  | Raeders 2026-04-25 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

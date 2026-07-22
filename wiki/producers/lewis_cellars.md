@@ -41,6 +41,17 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 
 _Not yet covered in CSW archive sweep._
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Cabernet Sauvignon Napa Valley | 2021 | Wine Advocate | 91 |  | Raeders 2026-04-25 |
+| Cabernet Sauvignon Napa Valley | 2021 | James Suckling | 90 |  | Raeders 2026-04-25 |
+| Cabernet Sauvignon Reserve | 2019 | Wine Advocate | 92 |  | Raeders 2026-04-25 |
+| Cabernet Sauvignon Reserve | 2019 | Wine Spectator | 94 |  | Raeders 2026-04-25 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated._

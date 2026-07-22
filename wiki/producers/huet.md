@@ -39,17 +39,17 @@ _The benchmark estate of Vouvray, and one of the great Chenin Blanc addresses on
 
 _Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Street coverage._
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Vouvray Le Mont Demi Sec | 2008 | — | 91 | White truffle, white pepper, and chalk dust in the nose of the Huet 2008 Vouvray Demi-Sec Le Mont set the stage for another pungent, practically sizzling palate… | 261W·W30 lot 29630 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

@@ -118,18 +118,20 @@ _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles.
 
 > I have quite a bit of experience with these wines in both their older and more recent incarnations, and would say that you can buy Haut Bailly with confidence. Their vintages 2010 and 2009 were certainly a bit denser and riper than is the norm, but…
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Chateau Haut Bailly | 2011 | — | 94+ | The saturated ruby/purple-hued 2011 Haut-Bailly exhibits a glorious, subtle, noble set of aromatics consisting of red and black currants, sweet cherries, graphi… | 261W·W30 lot 25856 |
 | Chateau Haut Bailly | 2013 | Vinous | 90-93 | ...possesses lovely balance and plenty of personality. A final burst of new leather, violets red plums and smoke lingers on the close. | 261W·W30 lot 15349 |
+| Pessac-Leognan | 2018 | Wine Advocate | 96 |  | Raeders 2026-04-25 |
+| Pessac-Leognan | 2018 | Wine Enthusiast | 96 |  | Raeders 2026-04-25 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

@@ -106,17 +106,28 @@ _Saint-Estèphe 3rd-growth, Suravenir-owned since 2012, sustainable farming. Str
 
 > I think people are overthinking this. 1995 was inherently a structured, tannic vintage. From a historical perspective, coming off the back of 1991, 1992, 1993 and 1994, there was also evidently a strong incentive to “push” as great what was the…
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Chateau Calon Segur | 2016 | Vinous | 97 | Sweet floral, spice and minty notes add aromatic intensity to a core of sweet red cherry and plum fruit. There is plenty of underlying structure, but the tannin… | 261W·W30 lot 29357 |
+| Saint Estephe | 1995 | Wine Advocate | 94 |  | Raeders 2026-04-25 |
+| Saint Estephe | 1995 | James Suckling | 97 | JS 97 V 91 Tasted from an ex-château bottle at BI Wine & Spirits Calon-Segur dinner in London. The 1995 Calon-Segur was the vintage that raised the profile of t… | Raeders 2026-04-25 |
+| Saint Estephe | 1995 | Wine Spectator | 95 |  | Raeders 2026-04-25 |
+| Saint Estephe | 2015 | Wine Advocate | 93 |  | Raeders 2026-04-25 |
+| Saint Estephe | 2015 | James Suckling | 95 |  | Raeders 2026-04-25 |
+| Saint Estephe | 2015 | Wine Spectator | 93 |  | Raeders 2026-04-25 |
+| Saint Estephe | 2015 | Wine Enthusiast | 96 | WA 93 D 95 JD 93 JS 95 V 94 Composed of 82% Cabernet Sauvignon, 16% Merlot and 2% Petit Verdot, the 2015 Calon-Segur was aged in 100% new French oak barrels for… | Raeders 2026-04-25 |
+| Saint Estephe | 2018 | Wine Advocate | 96 |  | Raeders 2026-04-25 |
+| Saint Estephe | 2018 | James Suckling | 97 | WA 96-98 D 99 JD 99 JS 97 The 2018 Calon-Ségur is blended of 65% Cabernet Sauvignon, 17% Merlot, 15% Cabernet Franc and 3% Petit Verdot (14.9% alcohol). It is a… | Raeders 2026-04-25 |
+| Saint Estephe | 2018 | Wine Spectator | 95 |  | Raeders 2026-04-25 |
+| Saint Estephe | 2018 | Wine Enthusiast | 97 |  | Raeders 2026-04-25 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

@@ -96,6 +96,14 @@ _sources:
 
 **Momentum 2023+:** new entrant (no earlier-era baseline).
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| (unnamed) | 2021 | Wine Advocate | 92 |  | Raeders 2026-04-25 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._

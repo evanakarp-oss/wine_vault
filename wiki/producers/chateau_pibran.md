@@ -41,6 +41,16 @@ _AXA-owned Pauillac in Pichon Baron's stable. WK value pick for entry-level Paui
 
 _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles._
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Pauillac | 2020 | Wine Advocate | 90 |  | Raeders 2026-04-25 |
+| Pauillac | 2020 | James Suckling | 95 | JS 95 Aromas of cassis, raw cocoa, licorice and loamy soil introduce the 2020 Pibran, a medium to full-bodied, layered and velvety wine framed by powdery tannin… | Raeders 2026-04-25 |
+| Pauillac | 2020 | Wine Spectator | 92 |  | Raeders 2026-04-25 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated._

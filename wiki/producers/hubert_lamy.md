@@ -39,13 +39,9 @@ _Olivier Lamy has turned Saint-Aubin into a grand-cru-quality address through ob
 
 _Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Street coverage._
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
@@ -55,6 +51,10 @@ _Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py
 | St. Aubin En Remilly | 2018 | — | 94 | Unwinding in the glass with notes of orange oil, nutmeg, pear and toasted bread, it's medium to full-bodied, bright and incisive, with a coiled and concentrated… | 261W·W30 lot 29008 |
 | St. Aubin En Remilly | 2020 | Burghound | 92 | There is notably better density to the equally beautifully textured medium-bodied flavors that flash excellent minerality on the solidly powerful, lengthy and i… | 261W·W30 lot 29010 |
 | St. Aubin En Remilly | 2022 | Vinous | 95 | It has a strict flint- and crushed stone-scented nose that's very minerally and uncompromising. The palate is fresh, vibrant and beautifully balanced on the ent… | 261W·W30 lot 29012 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

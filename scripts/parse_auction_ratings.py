@@ -119,8 +119,11 @@ def extract(rows: list[dict], sale: str, week: str, source_file: str) -> list[di
                 "score": score_str(m.group(1), m.group(2), m.group(3)),
             })
         primary = all_scores[0]
+        lot = d.get("LotNo")
+        source = f"{sale}·W{week} lot {lot}" if week else f"{sale} lot {lot}"
         out.append({
-            "lot": d.get("LotNo"),
+            "lot": lot,
+            "source": source,
             "producer_raw": (d.get("Producer") or "").strip(),
             "wine": (d.get("WineName") or "").strip(),
             "designation": (d.get("Designation") or "").strip(),

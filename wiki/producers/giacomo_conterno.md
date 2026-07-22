@@ -125,13 +125,9 @@ berserkers_kelley_body:
 
 > So is that 1968 is the same wine as the Giacomo Conterno Barolo? My understanding is that Aldo set out on his own in 1969 so anything predating 1969 under his label came from his portion of the family’s stocks, released later under his label.
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
@@ -140,6 +136,10 @@ _Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py
 | Barolo Cascina Francia | 2015 | Vinous | 95-98 | Soaring aromatics and seemingly endless layers of fruit open up in the glass, but there is something about the wine's completeness that is deeply thrilling. | 261W·W30 lot 29175 |
 | Barolo Cascina Francia | 2016 | Vinous | 97 | Conterno's 2016 Barolo Francia is effusive, with a real sense of expansiveness that gives the wine breadth. Sage, mint, cedar, tobacco and strong mineral accent… | 261W·W30 lot 29176 |
 | Barolo Cascina Francia | 2017 | Vinous | 97 | The 2017 Barolo Francia is dense, rich and explosive right out of the gate. There is virtually no feeling of tannin, as the creaminess of the fruit is so expans… | 261W·W30 lot 29177 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 
 ## Raeder's
 

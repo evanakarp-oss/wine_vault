@@ -104,20 +104,45 @@ _Pauillac 1st-growth. Tracked here for aged drink-now bottles only — current v
 
 > I have some new data to resurrect this thread, from labs run yesterday: 2003 Château Haut Brion: 12.22%, 0.51 TA, pH 3.62 2005 Château Lafite-Rothschild: 12.10%, 0.51 TA, pH 3.72 2000 Château Margaux: 12.20%, 0.57 TA, pH 3.63 1976 Pétrus: 12.05%,…
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
+| Carruades De Lafite Pauillac | 2020 | Wine Advocate | 91 |  | Raeders 2026-04-25 |
+| Carruades De Lafite Pauillac | 2020 | James Suckling | 96 | D 95 JD 93 JS 96 V 92 A blend of 52% Cabernet Sauvignon, 42% Merlot and the balance Cabernet Franc and Petit Verdot, the 2020 Carruades de Lafite offers up arom… | Raeders 2026-04-25 |
+| Carruades De Lafite Pauillac | 2020 | Wine Enthusiast | 95 |  | Raeders 2026-04-25 |
+| Carruades De Lafite Pauillac | 2022 | Wine Advocate | 93 |  | Raeders 2026-04-25 |
+| Carruades De Lafite Pauillac | 2022 | James Suckling | 96 |  | Raeders 2026-04-25 |
 | Chateau Lafite Rothschild | 1975 | — | 93 | ...with scents of sweet red berries, camphor, cigar box and loamy soil. Medium to full-bodied, ample and enveloping, with a generous core of fruit, melting tann… | 261W·W30 lot 29510 |
 | Chateau Lafite Rothschild | 1982 | — | 100 | The 1982 Lafite possesses a dark, dense ruby/purple color with only a subtle lightening at the rim. Spectacular aromatics offer jammy cherry and black fruits in… | 261W·W30 lot 29305 |
 | Chateau Lafite Rothschild | 1983 | — | 93 | Finally, the 1983 Lafite is beginning to shed its tannin. The wine exhibits a deep ruby/garnet color with only a slight lightening at the edge. The intoxicating… | 261W·W30 lot 28905 |
 | Chateau Lafite Rothschild | 1999 | — | 95 | ...both elegant and intensely flavored, and almost diaphanous in its layers that unfold with no heaviness. An opaque ruby/purple color is accompanied by a compl… | 261W·W30 lot 29511 |
+| Pauillac | 2017 | Wine Advocate | 97 |  | Raeders 2026-04-25 |
+| Pauillac | 2017 | James Suckling | 98 |  | Raeders 2026-04-25 |
+| Pauillac | 2017 | Wine Spectator | 96 |  | Raeders 2026-04-25 |
+| Pauillac | 2017 | Wine Enthusiast | 97 |  | Raeders 2026-04-25 |
+| Pauillac | 2018 | James Suckling | 99 |  | Raeders 2026-04-25 |
+| Pauillac | 2018 | Wine Spectator | 97 |  | Raeders 2026-04-25 |
+| Pauillac | 2018 | Wine Enthusiast | 100 |  | Raeders 2026-04-25 |
+| Pauillac | 2019 | Wine Advocate | 92 |  | Raeders 2026-04-25 |
+| Pauillac | 2019 | James Suckling | 97 |  | Raeders 2026-04-25 |
+| Pauillac | 2019 | Wine Spectator | 91 |  | Raeders 2026-04-25 |
+| Pauillac | 2019 | Wine Enthusiast | 94 |  | Raeders 2026-04-25 |
+| Pauillac | 2020 | Wine Advocate | 97 |  | Raeders 2026-04-25 |
+| Pauillac | 2020 | James Suckling | 100 |  | Raeders 2026-04-25 |
+| Pauillac | 2020 | Wine Enthusiast | 100 |  | Raeders 2026-04-25 |
+| Pauillac | 2020 | Wine Advocate | 93 |  | Raeders 2026-04-25 |
+| Pauillac | 2020 | James Suckling | 98 |  | Raeders 2026-04-25 |
+| Pauillac | 2020 | Wine Enthusiast | 93 |  | Raeders 2026-04-25 |
+| Pauillac | 2021 | Wine Advocate | 96 |  | Raeders 2026-04-25 |
+| Pauillac | 2021 | James Suckling | 97 |  | Raeders 2026-04-25 |
+| Pauillac | 2021 | Wine Enthusiast | 98 |  | Raeders 2026-04-25 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

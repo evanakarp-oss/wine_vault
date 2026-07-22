@@ -41,13 +41,9 @@ _Jayson Woodbridge's Napa Cab cult. Tightly allocated; Fortunate Son and the dre
 
 _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles._
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
@@ -60,6 +56,10 @@ _Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py
 | Hundred Acre Cabernet Sauvignon Precious | 2009 | — | 94 | The 2009 Cabernet Sauvignon Precious is rich, textured and quite pretty. Dark plums, cherries, menthol and spices are layered into this attractive medium-bodied… | 261W·W30 lot 26707 |
 | Hundred Acre Cabernet Sauvignon Precious | 2012 | — | 96+ | ...is firmer, with the oak showing more than in any of the other cuvées. The wine is very intense and had just been blended, so I suspect it is not completely a… | 261W·W30 lot 26710 |
 | Hundred Acre Cabernet Sauvignon Wraith | 2016 | — | 100 | ... soars out of the glass with Black Forest cake, Indian spices, tobacco leaf, dried Provence herbs and smoked meats notes, with touches of damp soil, black tr… | 261W·W30 lot 29415 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

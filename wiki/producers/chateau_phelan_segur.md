@@ -94,17 +94,22 @@ _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles.
 
 > You did pretty well with this selection, but you definitely should have added Brane Cantenac. Phélan Ségur, Dufort Vivens, Chasse Spleen and plenty of others would also be worthy additions.
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Chateau Phelan Segur | 2015 | — | 90+ | Medium to deep garnet-purple in color, the 2015 Phélan Ségur has a nose of red and black currants with earthy notes of fungi, dried herbs, damp soil and tapenad… | 261W·W30 lot 29535 |
+| St.-Estèphe | 2015 | Wine Advocate | 90 |  | Raeders 2026-04-25 |
+| St.-Estèphe | 2015 | Wine Enthusiast | 93 |  | Raeders 2026-04-25 |
+| St.-Estèphe | 2022 | Wine Advocate | 91 |  | Raeders 2026-04-25 |
+| St.-Estèphe | 2022 | James Suckling | 95 | 93 JD 95 JS 95 Unwinding in the glass with aromas of cherries, crème de cassis, sweet berries and spices, framed by creamy new oak, the 2022 Phélan Ségur is med… | Raeders 2026-04-25 |
+| St.-Estèphe | 2022 | Wine Spectator | 95 |  | Raeders 2026-04-25 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

@@ -66,18 +66,41 @@ _Not yet covered in CSW archive sweep._
 
 **Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
+| Brunello di Montalcino | 2014 | Wine Advocate | 92 | This wine opens to a thin and streamlined appearance. The 2014 Brunello di Montalcino mirrors the main characteristics of the vintage with a clean mouthfeel and… | Raeders 2026-04-25 |
+| Brunello di Montalcino | 2014 | Wine Spectator | 90 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino | 2017 | James Suckling | 95 | JS 95 RP 94 Brilliant ruby-red color, this classic Rosso offers sumptuous aromas of ripened blackberries and dark cherries. On the palate, the wine is generousl… | Raeders 2026-04-25 |
+| Brunello di Montalcino | 2017 | Wine Spectator | 92 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino | 2017 | Wine Enthusiast | 90 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino | 2020 | Wine Advocate | 95 | D 92 JD 95 JS 95 V 92 Opening to earthy tones of brimstone and petrichor, the Altesino 2020 Brunello di Montalcino shows the character of a house style that is… | Raeders 2026-04-25 |
+| Brunello di Montalcino | 2020 | James Suckling | 95 |  | Raeders 2026-04-25 |
 | Brunello di Montalcino Montosoli | 1995 | — | 93 | Extremely evolved and precocious is the 1995 Brunello di Montalcino Montosoli. A dark ruby/plum color is followed by a sweet, complex, jammy nose of spice box,… | 261W·W30 lot 29646 |
+| Brunello di Montalcino Montosoli | 2012 | Wine Advocate | 95 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino Montosoli | 2012 | James Suckling | 97 | WA 95 JS 97 Always a crowd pleaser, the 2012 Brunello di Montalcino Montosoli is a beautifully crafted wine. It shows depth, intensity and loads of authenticity… | Raeders 2026-04-25 |
+| Brunello di Montalcino Montosoli | 2012 | Wine Spectator | 95 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino Montosoli | 2012 | Wine Enthusiast | 97 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino Montosoli | 2013 | Wine Advocate | 95 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino Montosoli | 2013 | Wine Enthusiast | 99 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino Montosoli | 2015 | Wine Advocate | 96 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino Montosoli | 2015 | James Suckling | 97 | WA 96+ JS 97 V 96 Altesino's 2015 Brunello di Montalcino Montosoli shows those celebrated characteristics of this special vineyard cru that are always portrayed… | Raeders 2026-04-25 |
+| Brunello di Montalcino Montosoli | 2015 | Wine Spectator | 95 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino Montosoli | 2015 | Wine Enthusiast | 96 |  | Raeders 2026-04-25 |
 | Brunello di Montalcino Riserva | 1995 | — | 91 | Altesino's flagship offering, the 1995 Brunello di Montalcino Riserva, exhibits a dark plum/garnet color in addition to superb, complex aromas of dried flowers,… | 261W·W30 lot 27779 |
+| Brunello di Montalcino Riserva | 2013 | James Suckling | 93 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino Riserva | 2013 | Wine Spectator | 97 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino Riserva | 2013 | Wine Enthusiast | 93 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino Riserva | 2017 | Wine Advocate | 93 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino Riserva | 2017 | James Suckling | 95 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino Riserva | 2017 | Wine Spectator | 93 |  | Raeders 2026-04-25 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

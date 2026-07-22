@@ -99,17 +99,19 @@ _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles.
 
 > I think they will compare quite favorably, though obviously one has to be quite careful to pick those that are truly balanced for the long haul. A wine such as Canon 2020, for example, for me appears to be the best Canon produced since the early…
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Chateau Rauzan Segla | 2016 | Vinous | 97+ | The 2016 Rauzan-Ségla is simply stunning. Ample and generous in the glass, the 2016 is a positively stellar wine that will leave readers weak at the knees. The… | 261W·W30 lot 29541 |
+| Margaux | 2014 | Wine Advocate | 93 |  | Raeders 2026-04-25 |
+| Margaux | 2014 | Wine Enthusiast | 95 |  | Raeders 2026-04-25 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

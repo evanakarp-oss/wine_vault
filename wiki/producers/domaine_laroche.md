@@ -94,6 +94,20 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 
 > St Martin is quite a big cuvée from Laroche, you would likely have better luck with the Vieille Voye bottling, especially in 2015.
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Chablis Les Clos Grand Cru | 2016 | Wine Advocate | 91 |  | Raeders 2026-04-25 |
+| Chablis Les Clos Grand Cru | 2016 | Wine Spectator | 90 |  | Raeders 2026-04-25 |
+| Chablis Les Vaillons Vieilles Vignes | 2018 | Wine Advocate | 91 |  | Raeders 2026-04-25 |
+| Chablis Les Vaillons Vieilles Vignes | 2019 | Wine Advocate | 92 |  | Raeders 2026-04-25 |
+| Chablis Les Vaillons Vieilles Vignes | 2019 | Wine Spectator | 91 |  | Raeders 2026-04-25 |
+| Chablis Les Vaillons Vieilles Vignes | 2019 | Wine Enthusiast | 94 |  | Raeders 2026-04-25 |
+| Chablis Les Vaudevey | 2021 | Wine Spectator | 91 |  | Raeders 2026-04-25 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated._

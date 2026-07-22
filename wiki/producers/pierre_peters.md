@@ -139,17 +139,17 @@ _Le Mesnil-sur-Oger grower, all Chardonnay. WK-celebrated grower champagne; Les 
 
 > Though it’s probably my favorite wine in Champagne these days, I would query classifying Clos des Goisses as a tête de cuvée on the grounds that it’s a single-vineyard wine. Post-1990 I’d have give serious consideration to Taittinger Comtes, Charles…
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Pierre Peters Vintage Champagne Les Chetillons | 2015 | — | 94 | ...has turned out well, unwinding in the glass with aromas of freshly baked bread, crisp orchard fruit, clear honey, warm biscuits and dried white flowers. | 261W·W30 lot 29148 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

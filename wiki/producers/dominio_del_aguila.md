@@ -39,6 +39,14 @@ _The most exciting traditional address in Ribera del Duero. Jorge Monzón (train
 
 _Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Street coverage._
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Ribera del Duero Canta La Perdiz | 2018 | Wine Advocate | 97 |  | Raeders 2026-04-25 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated._

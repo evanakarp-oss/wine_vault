@@ -111,6 +111,16 @@ berserkers_kelley_body:
 
 > Italy), one of the best-kept secrets for superb, ageworthy Piemonte wines. While the history of the Produttori dates back officially only to 1958, the reality i
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Barbaresco | 2021 | Wine Advocate | 95 | JD 94 JS 94 V 93 #7 Wine Spectator Top 100 of 2025 | Raeders 2026-04-25 |
+| Barbaresco | 2021 | James Suckling | 94 |  | Raeders 2026-04-25 |
+| Barbaresco | 2021 | Wine Spectator | 94 |  | Raeders 2026-04-25 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._

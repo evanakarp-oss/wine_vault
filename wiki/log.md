@@ -1185,3 +1185,28 @@ producers). New `## Critic Ratings` section documented in `_SCHEMA.md`; scripts
 in CLAUDE.md. Idempotent; re-run `compile_` after adding producer pages. **Next:**
 extend to Raeders score columns + the wired-but-empty Vinous/WA article clippings
 (`raw/clippings/`); optionally roll a per-producer score index into `_views`.
+
+## [2026-07-21] pipeline | ratings ingest — Raeders source + clippings validated
+
+Followed up the auction ratings with the two next extensions Evan asked for.
+**(1) Raeders scores:** new `scripts/parse_raeders_ratings.py` lands the four
+Raeders score columns (`score_wa`/`score_js`/`score_w_s`/`score_we`) + notes to
+`raw/ratings/raeders/ratings_2026-04-25.json` (1,038 scored wines → 2,174 score
+records; each carries an explicit `producer_slug`). Generalized
+`compile_auction_ratings.py` into the shared ratings compiler — it now globs
+**all** `raw/ratings/**/ratings*.json`, prefers a page-backed `producer_slug` then
+falls back to name matching, and merges auction + Raeders into one `## Critic
+Ratings` table per producer (Source column distinguishes `261W·W30 lot N` vs
+`Raeders 2026-04-25`). Now **72 producers / ~657 rating rows** (e.g. [[colgin]]
+carries both its 261W IX-Estate notes and the Raeders WA-99). Added per-record
+`source` to `parse_auction_ratings.py`.
+**(2) Vinous/WA article clippings:** validated `compile_clippings.py` end-to-end
+in isolation (render + idempotent insert) — it works; the only gap is Evan's
+paywalled clippings (manual-paste by design), nothing to fabricate. Fixed a latent
+anchor bug shared by both compilers (`^header\b` never matched `## Down to Earth
+Wines (Panzer)` because `\b` fails after `)` → sections mis-placed) by matching the
+full header line, and aligned placement so critic sections sit in the schema
+cluster (`## Vinous Reviews` → `## Critic Ratings` → retailer/cross-ref tail).
+Repositioned the 72 existing `## Critic Ratings` sections accordingly. Updated
+`_SCHEMA.md` (multi-source, Wine Enthusiast mapping) + CLAUDE.md. lint clean; all
+`--check` hooks pass; compilers idempotent.

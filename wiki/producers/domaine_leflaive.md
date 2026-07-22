@@ -411,18 +411,32 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 
 > When I was in Burgundy earlier this year I heard tell the Leflaive 2012s had already begun to premox (like the 2008s are)… anyone had any encounters with those wines?
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Batard Montrachet | 2021 | Burghound | 95-98 | Once again a subtle but not invisible application of wood frames cool and ripe aromas of green apple, acacia blossom, petrol and airy zest-tinged nuances. | 261W·W30 lot 28427 |
+| Bienvenues-Bâtard-Montrachet | 2022 | Wine Advocate | 95 |  | Raeders 2026-04-25 |
+| Bienvenues-Bâtard-Montrachet | 2022 | Wine Spectator | 96 |  | Raeders 2026-04-25 |
+| Bourgogne White | 2023 | Wine Spectator | 91 |  | Raeders 2026-04-25 |
+| Macon Verze Les Chenes | 2020 | Wine Spectator | 90 | Silky and almost racy, with lemon, apple and floral flavors backed by crisp acidity. Light bodied, focused and long, with elegance and precision. | Raeders 2026-04-25 |
+| Macon Verze Les Chenes | 2023 | Wine Spectator | 91 |  | Raeders 2026-04-25 |
+| Pouilly Fuisse | 2017 | Wine Advocate | 91 | The 2017 Pouilly-Fuissé derives from multiple parcels in Soultré and which now sees the same élevage as the domaine's wines from Puligny. It's showing well, exh… | Raeders 2026-04-25 |
+| Puligny Montrachet | 2023 | Wine Spectator | 93 |  | Raeders 2026-04-25 |
 | Puligny Montrachet Les Combettes | 2002 | Burghound | 90-3 | Softly perfumed, very ripe aromas, in fact this has the ripest fruit of any wine to this point with generous, harmonious and pure flavors that deliver excellent… | 261W·W30 lot 15242 |
+| Puligny-Montrachet Clavoillon | 2022 | Wine Spectator | 96 |  | Raeders 2026-04-25 |
+| Puligny-Montrachet Les Folatières | 2021 | Wine Spectator | 94 |  | Raeders 2026-04-25 |
+| Puligny-Montrachet Les Pucelles | 2021 | Wine Advocate | 93 |  | Raeders 2026-04-25 |
+| Puligny-Montrachet Les Pucelles | 2021 | Wine Spectator | 95 |  | Raeders 2026-04-25 |
+| Puligny-Montrachet Les Pucelles | 2022 | Wine Advocate | 95 |  | Raeders 2026-04-25 |
+| Puligny-Montrachet Les Pucelles | 2022 | James Suckling | 95 |  | Raeders 2026-04-25 |
+| Puligny-Montrachet Les Pucelles | 2022 | Wine Spectator | 93 |  | Raeders 2026-04-25 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

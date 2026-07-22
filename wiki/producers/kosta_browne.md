@@ -93,6 +93,40 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 
 **Momentum 2023+:** new entrant (no earlier-era baseline).
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Anderson Valley Pinot Noir | 2021 | Wine Advocate | 93 |  | Raeders 2026-04-25 |
+| Anderson Valley Pinot Noir | 2021 | James Suckling | 94 | WA 93 JS 94 The 2021 Pinot Noir Anderson Valley, matured for 13 months in 38% new French oak, takes some time to shake off its cedary new oak and reveal red che… | Raeders 2026-04-25 |
+| Anderson Valley Pinot Noir | 2021 | Wine Spectator | 91 |  | Raeders 2026-04-25 |
+| Anderson Valley Pinot Noir | 2021 | Wine Enthusiast | 94 |  | Raeders 2026-04-25 |
+| Cerise Vineyard Pinot Noir | 2021 | Wine Advocate | 92 |  | Raeders 2026-04-25 |
+| Cerise Vineyard Pinot Noir | 2021 | James Suckling | 97 |  | Raeders 2026-04-25 |
+| Cerise Vineyard Pinot Noir | 2021 | Wine Spectator | 92 |  | Raeders 2026-04-25 |
+| One Sixteen Chardonnay | 2021 | Wine Advocate | 91 |  | Raeders 2026-04-25 |
+| One Sixteen Chardonnay | 2021 | James Suckling | 96 | JD 90 JS 96 The 2021 Chardonnay One Sixteen, matured for 14 months in 34% new French oak, takes some time to shake off its youthful crème brûlée and allspice to… | Raeders 2026-04-25 |
+| One Sixteen Chardonnay | 2021 | Wine Spectator | 92 |  | Raeders 2026-04-25 |
+| Pinot Noir Gary's Vineyard | 2012 | Wine Advocate | 94 |  | Raeders 2026-04-25 |
+| Pinot Noir Keefer Ranch | 2012 | Wine Spectator | 91 | Generous, focused flavors of spicy plum and wild berry notes are at the core, with firm tannins. Well-proportioned, ending with supple wilted rose and raspberry… | Raeders 2026-04-25 |
+| Pinot Noir Koplen Vineyard | 2010 | Wine Spectator | 92 |  | Raeders 2026-04-25 |
+| Pinot Noir Koplen Vineyard | 2012 | Wine Advocate | 93 |  | Raeders 2026-04-25 |
+| Pinot Noir Rosella's Vineyard | 2012 | Wine Spectator | 91 |  | Raeders 2026-04-25 |
+| Pinot Noir Russian River Valley | 2021 | Wine Advocate | 94 | JS 94 The 2021 Pinot Noir Russian River Valley was matured for 15 months in 34% new oak. It has a medium ruby color and generous aromatic layers of lavender, li… | Raeders 2026-04-25 |
+| Pinot Noir Russian River Valley | 2021 | James Suckling | 94 |  | Raeders 2026-04-25 |
+| Pinot Noir Santa Lucia Highlands | 2011 | Wine Advocate | 91 |  | Raeders 2026-04-25 |
+| Pinot Noir Santa Lucia Highlands | 2011 | Wine Spectator | 90 |  | Raeders 2026-04-25 |
+| Pinot Noir Sonoma Coast | 2011 | Wine Spectator | 90 |  | Raeders 2026-04-25 |
+| Pinot Noir Sonoma Coast | 2013 | Wine Spectator | 93 |  | Raeders 2026-04-25 |
+| Sonoma Coast Pinot Noir | 2012 | Wine Advocate | 93 |  | Raeders 2026-04-25 |
+| Sonoma Coast Pinot Noir | 2020 | Wine Advocate | 92 |  | Raeders 2026-04-25 |
+| Sonoma Coast Pinot Noir | 2020 | James Suckling | 94 | JD 93 JS 94 The 2020 Pinot Noir Sonoma Coast is medium ruby in color and delicately scented of cranberries, blackberries, crushed stone, tea leaves and bitters.… | Raeders 2026-04-25 |
+| Sonoma Coast Pinot Noir | 2020 | Wine Spectator | 93 |  | Raeders 2026-04-25 |
+| Sonoma Coast Pinot Noir | 2021 | Wine Advocate | 93 |  | Raeders 2026-04-25 |
+| Sonoma Coast Pinot Noir | 2021 | James Suckling | 94 | JS 94 The 2021 Pinot Noir Sonoma Coast was matured in 39% new oak for 15 months. The nose opens slowly from allspice and brown sugar to a core of red cherry and… | Raeders 2026-04-25 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated._

@@ -39,13 +39,9 @@ _The benchmark for saline, chiselled Meursault. Jean-Marc Roulot bottles a celeb
 
 _Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Street coverage._
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
@@ -54,6 +50,10 @@ _Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py
 | Corton Charlemagne | 2020 | Burghound | 93 | ...with its array of white pepper, menthol, essence of pear and mineral reduction. There is outstanding volume to the stony and powerful larger-scaled flavors..… | 261W·W30 lot 29016 |
 | Meursault A Mon Plaisir, Clos du Haut Tesson | 2019 | — | 92-94 | Aromas of crisp orchard fruit, white flowers, toasted almonds, iodine and struck match preface the 2019 Meursault À Mon Plaisir Clos du Haut Tesson, a medium to… | 261W·W30 lot 29027 |
 | Meursault A Mon Plaisir, Clos du Haut Tesson | 2022 | Burghound | 92-94 | Cool, elegant and layered aromas are comprised by notes of Granny Smith apple, citrus rind and plenty of floral elements are trimmed in a smoky component. | 261W·W30 lot 29028 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

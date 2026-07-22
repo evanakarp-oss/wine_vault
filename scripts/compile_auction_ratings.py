@@ -1,12 +1,17 @@
 #!/usr/bin/env python3
 """
-compile_auction_ratings.py — attach auction-sourced critic RATINGS to
-producer pages.
+compile_auction_ratings.py — attach landed critic RATINGS to producer pages.
 
-Reads the landing JSON emitted by `parse_auction_ratings.py`
-(`raw/ratings/<sale>/*.json`), matches each rating's producer to a
-`wiki/producers/` page, and writes an auto-generated `## Critic Ratings`
-section (a table of wine / vintage / critic / score / note / source).
+Reads every ratings landing JSON under `raw/ratings/**/ratings*.json` — from
+`parse_auction_ratings.py` (auction catalogs) and `parse_raeders_ratings.py`
+(Raeders inventory), and any future source in the same record shape — matches
+each rating to a `wiki/producers/` page, and writes a single auto-generated
+`## Critic Ratings` section (a table of wine / vintage / critic / score / note /
+source) merging all sources per producer.
+
+Each record may carry an explicit `producer_slug` (preferred, page-backed) and a
+preformatted `source` string; auction records without a slug fall back to
+conservative name matching.
 
 Matching is conservative — exact normalized name, alias, slug-words, or an
 `<Initial>. Surname` expansion — and anything not confidently matched is
@@ -159,8 +164,8 @@ def render_section(ratings: list[dict]) -> str:
     lines = [
         SECTION_HEADER,
         "",
-        "_Auto-generated from auction-catalog critic notes by "
-        "`compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._",
+        "_Auto-generated from landed critic ratings (auction catalogs + Raeders) "
+        "by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._",
         "",
         "| Wine | Vintage | Critic | Score | Note | Source |",
         "|---|---|---|---|---|---|",
@@ -189,7 +194,7 @@ def write_section(path: Path, body: str) -> bool:
     else:
         anchor_m = None
         for anchor in INSERT_BEFORE:
-            m = re.search(rf"^{re.escape(anchor)}\b", text, re.MULTILINE)
+            m = re.search(rf"^{re.escape(anchor)}\s*$", text, re.MULTILINE)
             if m:
                 anchor_m = m
                 break
@@ -219,10 +224,15 @@ def main() -> int:
     for f in files:
         payload = json.loads(f.read_text(encoding="utf-8"))
         sale, week = payload.get("sale", "?"), payload.get("week", "")
-        tag = f"{sale}·W{week} lot {{lot}}" if week else f"{sale} lot {{lot}}"
+        fallback = f"{sale}·W{week} lot {{lot}}" if week else f"{sale} lot {{lot}}"
         for r in payload["ratings"]:
-            r["_source_tag"] = tag.format(lot=r.get("lot"))
-            slug = match(r.get("producer_raw", ""), r.get("wine", ""), exact, surname, token_owners)
+            r["_source_tag"] = r.get("source") or fallback.format(lot=r.get("lot"))
+            # Prefer an explicit, page-backed producer_slug (Raeders carries one);
+            # otherwise fall back to conservative name matching (auction catalogs).
+            slug = r.get("producer_slug")
+            if not (slug and (PRODUCERS / f"{slug}.md").exists()):
+                slug = match(r.get("producer_raw", ""), r.get("wine", ""),
+                             exact, surname, token_owners)
             if slug:
                 by_slug[slug].append(r)
             else:

@@ -49,17 +49,17 @@ _sources: ["short:short__Domaine_Bart.md"]
 
 > *11/29/2007 -* What a year for Burgundy! With the great 2005 vintage upon us there have been a feast of fantastic vinous delights that have passed through CSW this year. With so many wines to choose that we have in stock and others that are long sold out this…
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Bonnes Mares | 2015 | Burghound | 90-93 | A fresh and more complex nose mingles wonderfully fresh aromas of both red and dark currant, violet, lavender and subtle spice wisps. There is excellent volume… | 261W·W30 lot 28217 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 
 ## Raeder's
 

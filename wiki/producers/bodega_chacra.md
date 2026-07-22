@@ -55,6 +55,17 @@ Pinot Noir, Chardonnay
 
 bodegachacra.com / K&L Wines
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Mainque Chardonnay | 2024 | James Suckling | 97 |  | Raeders 2026-04-25 |
+| Pinot Noir Cincuenta y Cinco | 2022 | James Suckling | 96 |  | Raeders 2026-04-25 |
+| Sin Azufre Pinot Noir | 2022 | James Suckling | 96 |  | Raeders 2026-04-25 |
+| Sin Azufre Pinot Noir | 2024 | James Suckling | 95 |  | Raeders 2026-04-25 |
+
 ## Cross-references
 
 - [[Patagonia_Producers|Patagonia]]

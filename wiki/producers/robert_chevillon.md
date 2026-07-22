@@ -39,13 +39,9 @@ _The reference address for traditional Nuits-Saint-Georges. Brothers Bertrand an
 
 _Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Street coverage._
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
@@ -55,6 +51,10 @@ _Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py
 | Nuits St. Georges Les St. Georges | 2020 | — | 93-95 | ...opens in the glass with aromas of dark berries and plums mingled with warm spices, baking chocolate and loamy soil. Medium to full-bodied, rich and layered,… | 261W·W30 lot 28971 |
 | Nuits St. Georges Les St. Georges | 2022 | Burghound | 93-95 | Here the wood influence is also nicely subtle on the floral and spice-inflected red pinot, cherry and soft earth-suffused aromas. There is good detail to the bi… | 261W·W30 lot 28972 |
 | Nuits St. Georges Les Vaucrains | 2011 | Burghound | 92 | This is very reserved, indeed to the point where the nose is borderline taciturn and requires considerable swirling to reveal the ripe and intensely earthy nose… | 261W·W30 lot 28973 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

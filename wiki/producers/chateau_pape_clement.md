@@ -166,6 +166,19 @@ _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles.
 
 > Probably either the Ulysse Collin Pierrieres Blanc de Blancs or the 2006 Clos Roillette Tardive… Also worked through five magnums of the 1970 Pape Clement very contentedly, as the wine is at peak. If a wine is complex, expressive and fulfilling an…
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Pessac-Léognan | 2006 | Wine Advocate | 94 |  | Raeders 2026-04-25 |
+| Pessac-Léognan | 2006 | Wine Enthusiast | 90 |  | Raeders 2026-04-25 |
+| Pessac-Léognan | 2016 | Wine Advocate | 96 |  | Raeders 2026-04-25 |
+| Pessac-Léognan | 2016 | James Suckling | 98 |  | Raeders 2026-04-25 |
+| Pessac-Léognan | 2016 | Wine Spectator | 96 |  | Raeders 2026-04-25 |
+| Pessac-Léognan | 2016 | Wine Enthusiast | 95 |  | Raeders 2026-04-25 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated._

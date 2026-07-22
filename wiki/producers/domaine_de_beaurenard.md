@@ -42,6 +42,28 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 
 _Not yet covered in CSW archive sweep._
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Chateauneuf-du-Pape Boisrenard Blanc | 2019 | Wine Advocate | 93 |  | Raeders 2026-04-25 |
+| Chateauneuf-du-Pape Boisrenard Blanc | 2019 | Wine Spectator | 95 | D 96 JD 94+ Tasting Notes Made from old vines of different varieties growing together, with moderate yields, the Boisrenard Blanc is characterized by its beauti… | Raeders 2026-04-25 |
+| Châteauneuf-du-Pape | 2019 | Wine Spectator | 93 |  | Raeders 2026-04-25 |
+| Châteauneuf-du-Pape | 2020 | Wine Spectator | 92 |  | Raeders 2026-04-25 |
+| Châteauneuf-du-Pape | 2020 | Wine Enthusiast | 95 | JD 94 Notes of mulled purple plum, blueberry, rhubarb and rose mingle with wild thyme on the nose. The palate boasts a deep core of blackberries, black cherries… | Raeders 2026-04-25 |
+| Châteauneuf-du-Pape Boisrenard | 2017 | Wine Advocate | 96 |  | Raeders 2026-04-25 |
+| Châteauneuf-du-Pape Boisrenard | 2017 | James Suckling | 93 |  | Raeders 2026-04-25 |
+| Châteauneuf-du-Pape Boisrenard | 2017 | Wine Spectator | 94 |  | Raeders 2026-04-25 |
+| Châteauneuf-du-Pape Boisrenard | 2020 | James Suckling | 95 |  | Raeders 2026-04-25 |
+| Châteauneuf-du-Pape Boisrenard | 2020 | Wine Spectator | 94 |  | Raeders 2026-04-25 |
+| Châteauneuf-du-Pape Boisrenard | 2020 | Wine Enthusiast | 96 |  | Raeders 2026-04-25 |
+| Châteauneuf-du-Pape Boisrenard | 2021 | Wine Advocate | 94 |  | Raeders 2026-04-25 |
+| Châteauneuf-du-Pape Boisrenard | 2021 | James Suckling | 94 |  | Raeders 2026-04-25 |
+| Châteauneuf-du-Pape Boisrenard | 2021 | Wine Spectator | 92 |  | Raeders 2026-04-25 |
+| Châteauneuf-du-Pape White | 2020 | Wine Advocate | 92 |  | Raeders 2026-04-25 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated._

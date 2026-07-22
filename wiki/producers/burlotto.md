@@ -116,18 +116,18 @@ _sources:
 
 > For what it’s worth, I’ve enjoyed the G Rinaldi Brunate quite a bit. We had a bottle with an 8-hour decant or so back in June, which took on quite a dark and balsamic fruit profile after all that air. I could imagine it bearing some similarity to…
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Barolo Acclivi | 2019 | — | 97 | The bouquet opens to elegant floral intensity with wild rose, violet, orange peel and delicate berry. This wine feels very alive thanks to the lifted and delica… | 261W·W30 lot 29167 |
 | Barolo Monvigliero | 2019 | — | 100 | ...definitely spoke to me thanks to its immediate complexity that transcends wild strawberry, aromatic herb, white pepper, orange peel, hazelnut, truffle essenc… | 261W·W30 lot 29168 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 
 ## Raeder's
 

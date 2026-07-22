@@ -39,18 +39,22 @@ _A high-elevation Spring Mountain estate making a single, ageless Bordeaux-blend
 
 _Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Street coverage._
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
+| Cabernet Sauvignon Napa Valley | 2018 | Wine Advocate | 96 | D 98 JD 97 V 96 Medium to deep garnet-purple colored, the 2018 Cabernet Sauvignon Estate offers up intense notes of crushed black currants, fresh blackberries a… | Raeders 2026-04-25 |
+| Cabernet Sauvignon Napa Valley | 2018 | Wine Spectator | 94 |  | Raeders 2026-04-25 |
+| Cabernet Sauvignon Napa Valley | 2019 | Wine Advocate | 95 |  | Raeders 2026-04-25 |
+| Cabernet Sauvignon Napa Valley | 2019 | Wine Spectator | 96 | V 96 The 2019 Cabernet Sauvignon Estate is a classic Togni wine, meant to be laid down for at least a decade and capable of aging well for 20 years beyond that… | Raeders 2026-04-25 |
 | Philip Togni Cabernet Sauvignon | 2009 | — | 95+ | The 2009 Cabernet Sauvignon is stunningly beautiful and seductive in its red fruit, mint and tobacco. This is a surprisingly accessible vintage for the Cabernet… | 261W·W30 lot 29250 |
 | Philip Togni Cabernet Sauvignon | 2019 | Vinous | 96-99 | Black cherry, plum, graphite, spice and incense build into the palate-staining finish. | 261W·W30 lot 29251 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

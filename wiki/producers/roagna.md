@@ -158,19 +158,26 @@ _sources:
 
 > After years of being extremely cheap, Jouan is actually rather expensive now ex-Domaine.
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Barbaresco Asili, Vecchie Viti | 2016 | Vinous | 95 | The Asili is beautifully perfumed and ethereal, yet also quite deep, in the way only Nebbiolo can be. Crushed red berry fruit, kirsch, orange peel, cedar and ci… | 261W·W30 lot 29203 |
 | Barbaresco Montefico, Vecchie Viti | 2016 | Vinous | 96 | The vertical structure of Montefico is evident, as are the intense tannins. Deeply savory and mineral, the Montefico is a wine for readers who can afford to wai… | 261W·W30 lot 29204 |
+| Barbaresco Paje Vecchie Viti | 2017 | Wine Advocate | 95 |  | Raeders 2026-04-25 |
+| Barbaresco Paje Vecchie Viti | 2017 | Wine Spectator | 95 |  | Raeders 2026-04-25 |
+| Barbaresco Paje Vecchie Viti | 2018 | Wine Spectator | 97 | V 96 This pure red features cherry, raspberry, rose and licorice flavors, underlined by mineral and tobacco elements. Taut and linear, with the essence of fruit… | Raeders 2026-04-25 |
 | Barbaresco Paje, Vecchie Viti | 2016 | Vinous | 96 | ...is an exotic, totally beguiling wine laced with super-classic Nebbiolo notes of rose petal, orange peel, cinnamon and macerated cherry. Aromatic, sensual and… | 261W·W30 lot 29205 |
+| Barbaresco Pajé | 2017 | Wine Advocate | 94 | V 92 Showing a transparent or almost naked quality of fruit, the Roagna 2017 Barbaresco Pajè is a lovely and graceful wine that maintains an exceptional feeling… | Raeders 2026-04-25 |
+| Barbaresco Pajé | 2017 | Wine Spectator | 94 |  | Raeders 2026-04-25 |
+| Barolo Pira Vecchie Viti | 2017 | Wine Advocate | 97 |  | Raeders 2026-04-25 |
+| Barolo Pira Vecchie Viti | 2017 | Wine Spectator | 94 |  | Raeders 2026-04-25 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
 
 ## Raeder's
 

@@ -192,17 +192,17 @@ _Pending — re-run `ingest_csw.py` after creation to pick up Chambers articles.
 
 > Though it’s probably my favorite wine in Champagne these days, I would query classifying Clos des Goisses as a tête de cuvée on the grounds that it’s a single-vineyard wine. Post-1990 I’d have give serious consideration to Taittinger Comtes, Charles…
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Taittinger Vintage Champagne Comtes de Champagne | 2013 | Vinous | 98 | Rich, sumptuous and explosive, the 2013 soars out of the glass with a captivating mix of tropical fruit, apricot, passion fruit, baked apple tart, mint and yell… | 261W·W30 lot 29149 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

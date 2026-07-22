@@ -77,17 +77,24 @@ _Not yet covered in CSW archive sweep._
 
 > Are you sure about this? Everything I have seen to date is under cork, and Louis-Fabrice made no mention of DIAM when we last tasted together. Should add F&L Pillot to the list above, while I think of it.
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Corton Charlemagne | 1997 | — | 91-93 | Latour's Corton-Charlemagne is this negociant's flagship wine. The 1997's nose was rather unyielding on my visit to the firm's Chateau Grancey (in Aloxe-Corton)… | 261W·W30 lot 24748 |
+| Corton Château Corton Grancey | 2022 | James Suckling | 98 |  | Raeders 2026-04-25 |
+| Corton Château Corton Grancey | 2022 | Wine Spectator | 97 |  | Raeders 2026-04-25 |
+| Corton-Charlemagne | 2023 | Wine Advocate | 94 |  | Raeders 2026-04-25 |
+| Corton-Charlemagne | 2023 | James Suckling | 98 |  | Raeders 2026-04-25 |
+| Corton-Charlemagne | 2023 | Wine Spectator | 93 |  | Raeders 2026-04-25 |
+| Puligny-Montrachet Sous le Puits Premier Cru | 2022 | James Suckling | 95 |  | Raeders 2026-04-25 |
+| Puligny-Montrachet Sous le Puits Premier Cru | 2022 | Wine Spectator | 92 |  | Raeders 2026-04-25 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

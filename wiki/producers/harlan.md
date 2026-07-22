@@ -39,13 +39,9 @@ _Bill Harlan's western-Oakville-hills estate — the archetypal Napa 'first grow
 
 _Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Street coverage._
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
@@ -56,6 +52,10 @@ _Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py
 | Harlan Estate Red The Maiden | 2006 | — | 91 |  | 261W·W30 lot 26673 |
 | Harlan Estate Red The Maiden | 2009 | — | 93 | ...wraps around the palate with dark cherries, plums, cinnamon, cloves and new leather. This is a surprisingly muscular style for the year, with quite a bit les… | 261W·W30 lot 26675 |
 | Harlan Estate Red The Maiden | 2013 | — | 95 | More serious and concentrated, bigger and denser, the 2013 The Maiden is one of the strongest efforts, and possibly the best Maiden tasted to date. Deep, with m… | 261W·W30 lot 29248 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

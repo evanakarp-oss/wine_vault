@@ -115,18 +115,37 @@ _Cathiard-owned Pessac estate; certified biodynamic, especially celebrated for t
 
 > No, I’m looking at where the rain fell! 100mm in Saint-Julien vs 40mm in Margaux… If I had meant that 2014 is better than 2015 in Margaux, Saint-Émilion, Graves and Sauternes, I would have written that. The distance between e.g. Château Montrose and…
 
-## Down to Earth Wines (Panzer)
-
-_Not yet populated._
-
 ## Critic Ratings
 
-_Auto-generated from auction-catalog critic notes by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
+| Blanc Pessac-Leognan | 2023 | Wine Advocate | 95 |  | Raeders 2026-04-25 |
+| Blanc Pessac-Leognan | 2023 | James Suckling | 98 |  | Raeders 2026-04-25 |
+| Blanc Pessac-Leognan | 2023 | Wine Spectator | 95 |  | Raeders 2026-04-25 |
+| Blanc Pessac-Leognan | 2023 | Wine Enthusiast | 98 |  | Raeders 2026-04-25 |
 | Chateau Smith Haut Lafitte | 2000 | — | 95 | One can't say enough about this winery, which may still fly under the radar of most consumers. The fully mature 2000 displays gorgeous aromas of camphor, lead p… | 261W·W30 lot 29542 |
 | Chateau Smith Haut Lafitte | 2019 | Vinous | 96 | ... has a Burgundian like purity on the nose: raspberry and wild strawberry fruit, touches of pressed rose petal emerging with time. The oak is a little promine… | 261W·W30 lot 29392 |
+| Pessac-Léognan | 2015 | Wine Advocate | 97 |  | Raeders 2026-04-25 |
+| Pessac-Léognan | 2015 | James Suckling | 99 | WA 97 D 98 JD 96 JS 99 This vintage is a blend of 63% Cabernet Sauvignon, 33% Merlot, 2% Cabernet Franc and 2% Petit Verdot, matured in 65% new oak barrels. Med… | Raeders 2026-04-25 |
+| Pessac-Léognan | 2015 | Wine Spectator | 96 |  | Raeders 2026-04-25 |
+| Pessac-Léognan | 2015 | Wine Enthusiast | 96 |  | Raeders 2026-04-25 |
+| Pessac-Léognan | 2017 | Wine Advocate | 97 |  | Raeders 2026-04-25 |
+| Pessac-Léognan | 2017 | James Suckling | 97 |  | Raeders 2026-04-25 |
+| Pessac-Léognan | 2017 | Wine Spectator | 95 |  | Raeders 2026-04-25 |
+| Pessac-Léognan | 2017 | Wine Enthusiast | 97 |  | Raeders 2026-04-25 |
+| Pessac-Léognan | 2018 | Wine Advocate | 97 |  | Raeders 2026-04-25 |
+| Pessac-Léognan | 2018 | James Suckling | 98 | WA 97+ D 99 JD 99 JS 98 A blend of 60% Cabernet Sauvignon, 34% Merlot, 4% Cabernet Franc and 2% Petit Verdot, aged in 60% new barriques, the very deep garnet-pu… | Raeders 2026-04-25 |
+| Pessac-Léognan | 2018 | Wine Spectator | 97 |  | Raeders 2026-04-25 |
+| Pessac-Léognan | 2018 | Wine Enthusiast | 96 |  | Raeders 2026-04-25 |
+| Pessac-Léognan | 2019 | Wine Advocate | 96 |  | Raeders 2026-04-25 |
+| Pessac-Léognan | 2019 | James Suckling | 99 | D 97 JD 98 JS 99 V 96 The 2019 Smith Haut Lafitte has turned out very well indeed, unwinding in the glass with a complex bouquet of dark berries, cassis, forest… | Raeders 2026-04-25 |
+| Pessac-Léognan | 2019 | Wine Enthusiast | 96 |  | Raeders 2026-04-25 |
+
+## Down to Earth Wines (Panzer)
+
+_Not yet populated._
 
 ## Raeder's
 

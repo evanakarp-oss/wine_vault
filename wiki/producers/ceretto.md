@@ -92,6 +92,20 @@ _sources:
 
 > ﻿ *﻿12/15/12 -* One of our favorite things about wine is that there are no absolutely correct answers – taste is a subjective, variable, and personal matter. So it goes with the recent history of wine in Barolo and Barbaresco, about which you may have heard,…
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Barolo Bricco Rocche | 1996 | Wine Advocate | 92 |  | Raeders 2026-04-25 |
+| Barolo Bricco Rocche | 1997 | Wine Advocate | 96 | The ostentatious, staggering 1997 Barolo Bricco Rocche possesses a dark garnet color with amber at the edge. The explosive bouquet of coffee liqueur, licorice,… | Raeders 2026-04-25 |
+| Barolo Bricco Rocche | 1997 | Wine Enthusiast | 92 |  | Raeders 2026-04-25 |
+| Barolo Bricco Rocche | 2000 | Wine Advocate | 90 |  | Raeders 2026-04-25 |
+| Barolo Prapò | 1997 | Wine Advocate | 95 | Reminiscent of a right bank Pomerol from the late forties, the dark garnet/amber-edged 1997 Barolo Prapo possesses aromas and flavors of singed leather, espress… | Raeders 2026-04-25 |
+| Barolo Prapò | 2000 | Wine Advocate | 91 | The 2000 Barolo Prapo, from a vineyard in Serralunga d’Alba, is muscular. Classic aromas of rose petals, tar, and licorice are followed by a palate which featur… | Raeders 2026-04-25 |
+| Barolo Prapò | 2011 | Wine Enthusiast | 90 | Aromas of mature berry, menthol, coffee bean, toast and dark cooking spice emerge on this bracing wine. The firmly structured palate delivers dried black cherry… | Raeders 2026-04-25 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
