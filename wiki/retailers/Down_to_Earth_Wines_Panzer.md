@@ -4,14 +4,14 @@ name: "Down to Earth Wines (Panzer)"
 slug: dte
 url: ""
 location: "NYC (import portfolio)"
-producer_count: 118
+producer_count: 119
 updated: 2026-07-22
 ---
 
 # Down to Earth Wines (Panzer)
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**118 producers** from this retailer are tracked in the wiki.
+**119 producers** from this retailer are tracked in the wiki.
 
 ## Producers in portfolio
 
@@ -135,6 +135,7 @@ updated: 2026-07-22
 | [[taupenot_merme|Taupenot-Merme]] | France | Burgundy | 1 | — |
 | [[urkizahar|Urkizahar]] | Spain | Basque Country | 1 | — |
 | [[vincent_paris|Vincent Paris]] | France | Rhône | 1 | 2 |
+| [[mugneret_gibourg|Mugneret-Gibourg]] | France | Burgundy | 0 | — |
 
 *Compiled by `scripts/build_rollups.py`.*
 <!-- END AUTO-GENERATED -->

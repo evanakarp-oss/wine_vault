@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 1015
+total_pages: 1016
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**1015 pages indexed.**
+**1016 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -29,7 +29,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Beaujolais_Producers|Beaujolais Producers]] — **5 producers** tracked.
 - [[Bierzo_Producers|Bierzo Producers]] — **1 producers** tracked.
 - [[Bordeaux_Producers|Bordeaux Producers]] — **25 producers** tracked.
-- [[Burgundy_Producers|Burgundy Producers]] — **101 producers** tracked.
+- [[Burgundy_Producers|Burgundy Producers]] — **102 producers** tracked.
 - [[California_Producers|California Producers]] — **23 producers** tracked.
 - [[Catalonia_Producers|Catalonia Producers]] — **1 producers** tracked.
 - [[Champagne_Producers|Champagne Producers]] — **24 producers** tracked.
@@ -272,7 +272,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_469 producers across 40 regions._
+_470 producers across 40 regions._
 
 ### Abruzzo
 
@@ -425,6 +425,7 @@ _469 producers across 40 regions._
 - [[michel_noellat|Michel Noellat]] — Burgundy · CSW 1 · DTE 1
 - [[michel_rebourgeon|Michel Rebourgeon]] — Burgundy · DTE 13 · FASS 17
 - [[modot_guyon|Modot Guyon]] — Burgundy · DTE 6
+- [[mugneret_gibourg|Mugneret-Gibourg]] — Burgundy / Vosne-Romanée · DTE 0
 - [[nicolas_rossignol|Nicolas Rossignol]] — Burgundy / Volnay · DTE 3
 - [[patrice_rion|Patrice Rion]] — Burgundy · DTE 3
 - [[philippe_naddef|Philippe Naddef]] — Burgundy / Gevrey-Chambertin · FASS

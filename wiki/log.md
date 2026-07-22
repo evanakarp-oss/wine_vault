@@ -1269,3 +1269,14 @@ provenance + Raeders staleness (2026-04-25) stamped in the view frontmatter.
 Broader integration backlog (unified signal layer, freshness model, CRLF/broken-
 wikilink `--fix`, empty Vinous/WA/LPV/Vinolist pipes) is already ranked in
 [[data_quality_integration_review_2026_07]].
+
+## [2026-07-22] onboard | Mugneret-Gibourg + DTE auto-create rule
+
+New standing instruction from Evan: any producer Panzer (robertpanzer@hotmail.com)
+emails about that isn't in the vault gets a page — no per-producer curation gate,
+since DTE is a fully-curated import book. Swept Panzer's last year of email
+(8 threads): every producer offered was already a page except **Mugneret-Gibourg**
+(Vosne-Romanée, the "Sœurs" domaine; 2026-07-20 allocation offer) — created
+[[mugneret_gibourg]]. Codified the rule in CLAUDE.md (conventions) and the
+`/email-sweep` skill (DTE = auto-create, Fass = curated queue). Cleared the offers-
+view onboard queue. Rebuilt rollups + index; lint clean.

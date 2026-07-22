@@ -46,12 +46,20 @@ onboarding signal. Runs weekly (Routine) or on demand.
    its `## FASS` (Fass) or `## Down to Earth Wines (Panzer)` (DTE) section.
    Keep only the most recent 2–3 offers per page — this is context, not a log.
 
-5. **Flag onboarding candidates.** If the producer has NO page and fits Evan's
-   curation taste (CLAUDE.md — grower Champagne, terroir Loire/Burgundy/German
-   Riesling/N. Rhône, biodynamic-leaning), add it to the **Onboard queue** at the
-   top of the offers view with a one-line rationale. **Do NOT auto-create pages** —
-   onboarding is a curated LLM pass (see the DTE/Fass onboarding pattern in
-   `wiki/log.md`, 2026-07-22). Skip generic mid-tier silently.
+5. **Handle producers with no page — split by sender:**
+   - **Panzer / DTE (`robertpanzer@hotmail.com`): auto-create the page.** Standing
+     instruction (Evan, 2026-07-22): *anytime Panzer emails about a producer that
+     isn't in the vault, create a page.* DTE is a fully-curated import book, so
+     every producer Panzer offers is trusted on-taste. Create a seed page from the
+     offer + confident facts (frontmatter per `_SCHEMA.md`, `retailers.dte.in_portfolio:
+     true`, a `## Down to Earth Wines (Panzer)` section noting the offer). Don't
+     fabricate critic coverage. Model page: `wiki/producers/mugneret_gibourg.md`.
+   - **Fass (`lyle@fassselections.com`): queue, don't auto-create.** If the producer
+     fits Evan's taste (CLAUDE.md — grower Champagne, terroir Loire/Burgundy/German
+     Riesling/N. Rhône, biodynamic-leaning), add it to the **Onboard queue** at the
+     top of the offers view with a one-line rationale (Fass has heavy spelling
+     variation + a long tail, so onboarding stays a curated pass). Skip generic
+     mid-tier silently.
 
 6. **Regenerate + commit.** `python scripts/build_views_index.py`,
    `python scripts/build_wiki_index.py`, append a one-line `wiki/log.md` entry

@@ -2,12 +2,12 @@
 type: region_index
 region: "Burgundy"
 updated: 2026-07-22
-producer_count: 101
+producer_count: 102
 ---
 
 # Burgundy — Producer Index
 
-**101 producers** tracked.
+**102 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -103,6 +103,7 @@ producer_count: 101
 | [[michel_niellon|Michel Niellon]] | France | Chassagne-Montrachet | — | — | 3 | — | — |
 | [[michel_rebourgeon|Michel Rebourgeon]] | France | — | — | 13 | — | 17 | — |
 | [[modot_guyon|Modot Guyon]] | France | — | — | 6 | — | — | — |
+| [[mugneret_gibourg|Mugneret-Gibourg]] | France | Vosne-Romanée | — | 0 | — | — | — |
 | [[nicolas_rossignol|Nicolas Rossignol]] | France | Volnay | — | 3 | — | — | — |
 | [[patrice_rion|Patrice Rion]] | France | — | — | 3 | — | — | — |
 | [[philippe_naddef|Philippe Naddef]] | France | Gevrey-Chambertin | — | — | — | 0 | — |

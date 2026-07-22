@@ -22,10 +22,14 @@ Prices are the offer price at send date and go stale fast (many are last-call).
 _Producers surfaced by the sweep that fit Evan's taste but have no page. Onboard
 per CLAUDE.md curation (don't auto-create)._
 
-- **Mugneret-Gibourg** (Vosne-Romanée) — iconic, squarely on-taste; Panzer offered a
-  2023/2024 allocation (07-20). Not in his standing portfolio JSX, so it wasn't caught
-  by the DTE audit. Onboard. _(distinct domaine from the existing [[gerard_mugneret]].)_
+- ✅ **Mugneret-Gibourg** (Vosne-Romanée) — page created 2026-07-22 ([[mugneret_gibourg]])
+  from Panzer's 07-20 allocation offer, per the new DTE auto-create rule (distinct
+  domaine from the existing [[gerard_mugneret]]).
 - _Achim Dürr parked: Ruhr/Witten red-Riesling Pinot sits outside the region taxonomy._
+
+> **Rule (2026-07-22):** any producer **Panzer** emails about that isn't in the vault
+> gets a page auto-created (DTE is a curated book — every offer is on-taste). Fass
+> producers still go through the curated queue. See the `/email-sweep` skill + CLAUDE.md.
 
 ## 2026-07 (week of 07-16 → 07-22)
 

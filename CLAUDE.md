@@ -119,7 +119,11 @@ help. Surface next-source suggestions in `## Open follow-ups` below.
 
 - Producer slug = lowercase_underscored ASCII (no accents); slug = filename stem
 - `region:` must be a top-level region in `_TAXONOMY.md`; finer detail in `sub_region:`
-- New producers from a single retailer source require LLM curation; don't auto-create
+- New producers from a single retailer source require LLM curation; don't auto-create.
+  **Exception — Down to Earth (Panzer):** anytime Panzer (`robertpanzer@hotmail.com`)
+  emails about a producer not in the vault, create a page (Evan's standing instruction,
+  2026-07-22). DTE is a fully-curated import book, so every producer he offers is
+  trusted on-taste — no per-producer curation gate. Handled by the `/email-sweep` skill.
 - Stripping common prefixes (`Domaine `, `Château `, `Weingut `) when matching names
 
 ## Branch & session policy
