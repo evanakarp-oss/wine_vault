@@ -67,6 +67,7 @@ Add new values here FIRST, then use them in producer files.
 - Valle d'Aosta
 - Marche
 - Abruzzo
+- Basilicata
 - Campania
 - Liguria
 - Colli Tortonesi

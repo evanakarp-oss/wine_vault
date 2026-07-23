@@ -6,9 +6,9 @@ producer_count: 2
 focus: ['Alto Adige / Südtirol', 'Veneto']
 notable_producers: ['Cantina Furlani', 'Costadilà']
 updated: 2026-07-23
-tags: ['natural']
-_source: wiki/_resources.md
 url: "https://www.jennyandfrancois.com"
+_source: wiki/_resources.md
+tags: ['natural']
 ---
 
 # Jenny & François Selections

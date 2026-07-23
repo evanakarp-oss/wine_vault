@@ -2,12 +2,12 @@
 type: region_index
 region: "Veneto"
 updated: 2026-07-23
-producer_count: 8
+producer_count: 9
 ---
 
 # Veneto — Producer Index
 
-**8 producers** tracked.
+**9 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -17,6 +17,7 @@ producer_count: 8
 | [[dal_forno_romano|Dal Forno Romano]] | Italy | Valpolicella | — | — | 22 | — | — |
 | [[giovanni_menti|Giovanni Menti]] | Italy | Gambellara | — | — | — | — | — |
 | [[la_biancara|La Biancara]] | Italy | Gambellara | — | — | — | — | — |
+| [[monte_dei_ragni|Monte dei Ragni]] | Italy | Valpolicella | — | — | — | — | — |
 | [[vignaioli_contra_soarda|Vignaioli Contra Soarda]] | Italy | Breganze | — | — | — | — | — |
 | [[villa_calicantus|Villa Calicantus]] | Italy | Bardolino | — | — | — | — | — |
 
