@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Ribera del Duero"
-updated: 2026-07-22
+updated: 2026-07-23
 producer_count: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 1061
+total_pages: 1077
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**1061 pages indexed.**
+**1077 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -41,6 +41,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Jura_Producers|Jura Producers]] — **14 producers** tracked.
 - [[Liguria_Producers|Liguria Producers]] — **12 producers** tracked.
 - [[Loire_Producers|Loire Producers]] — **21 producers** tracked.
+- [[Lombardy_Producers|Lombardy Producers]] — **15 producers** tracked.
 - [[Marche_Producers|Marche Producers]] — **1 producers** tracked.
 - [[Mendoza_Producers|Mendoza Producers]] — **62 producers** tracked.
 - [[Mosel_Producers|Mosel Producers]] — **22 producers** tracked.
@@ -272,7 +273,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_515 producers across 39 regions._
+_530 producers across 40 regions._
 
 ### Abruzzo
 
@@ -634,6 +635,24 @@ _515 producers across 39 regions._
 - [[philippe_gilbert|Philippe Gilbert]] — Loire / Menetou-Salon · biodynamic · DTE 6
 - [[stephane_guion|Stéphane Guion]] — Loire / Bourgueil · organic since 1965 · CSW ★9/17
 - [[yannick_amirault|Yannick Amirault]] — Loire / Bourgueil / St-Nicolas-de-Bourgueil · organic
+
+### Lombardy
+
+- [[areni_e_drizini|Areni e Drizini]] — Lombardy / Oltrepo Pavese
+- [[bagera|Bagera]] — Lombardy / Valtellina
+- [[bianchi_e_rizini|Bianchi e Rizini]] — Lombardy / Oltrepo Pavese
+- [[bruno_verdi|Bruno Verdi]] — Lombardy / Oltrepo Pavese
+- [[castello_di_stefano|Castello di Stefano]] — Lombardy / Oltrepo Pavese
+- [[chiaretto|Chiaretto]] — Lombardy / Brescia
+- [[dirupi|Dirupi]] — Lombardy / Valtellina
+- [[farruscello_rubio|Farruscello & Rubio]] — Lombardy / Oltrepo Pavese
+- [[fondo_bozzolo|Fondo Bozzolo]] — Lombardy / Oltrepo Pavese
+- [[il_pudio|Il Pudio]] — Lombardy / Oltrepo Pavese
+- [[le_sincere|Le Sincere]] — Lombardy / Oltrepo Pavese
+- [[marcel_zanolari|Marcel Zanolari]] — Lombardy / Valtellina
+- [[prandello|Prandello]] — Lombardy / Oltrepo Pavese
+- [[sandro_fey|Sandro Fey]] — Lombardy / Valtellina
+- [[selva_picto|Selva Picto]] — Lombardy / Valtellina
 
 ### Marche
 

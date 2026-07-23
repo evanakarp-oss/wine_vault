@@ -5,7 +5,7 @@ slug: banville
 producer_count: 1
 focus: ['Rhône']
 notable_producers: ['Marc Sorrel']
-updated: 2026-07-22
+updated: 2026-07-23
 ---
 
 # Banville

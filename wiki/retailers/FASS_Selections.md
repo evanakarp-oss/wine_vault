@@ -5,7 +5,7 @@ slug: fass
 url: ""
 location: ""
 producer_count: 17
-updated: 2026-07-22
+updated: 2026-07-23
 ---
 
 # FASS Selections

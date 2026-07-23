@@ -1,0 +1,35 @@
+LOMBARDY PRODUCERS
+Extracted from Campanale wine book images
+
+KEY APPELLATIONS/REGIONS:
+- Franciacorta (sparkling wine)
+- Oltrepo Pavese (red wine region)
+- Valtellina (Alpine red wine region)
+- Lugana (white wine region)
+- Lambrusco Mantovano (sparkling red)
+
+PRODUCER NAMES IDENTIFIED:
+1. Chiaretto
+2. Le Sincere
+3. Areni e Drizini
+4. Bianchi e Rizini
+5. Farruscello & Rubio
+6. Il Pudio
+7. Fondo Bozzolo
+8. Prandello
+9. Bruno Verdi
+10. Castello di Stefano
+11. Bagera
+12. Dirupi
+13. Marcel Zanolari
+14. Sandro Fey
+15. Selva Picto
+
+DESCRIPTIVE TEXT MENTIONS (from images 3-4):
+- Lugana: white wine producer
+- Oltrepo Pavese: Barbera region
+- Valtellina: Alpine red, Nebbiolo-based
+- Isabella Pelizzatti: mentioned in Lugana context
+- Silvio Stefanini: mentioned in Valtellina context
+
+STATUS: Initial extraction from vertical text index. Some producer names may need verification via web research.
