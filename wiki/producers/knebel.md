@@ -140,6 +140,22 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Notes
+
+**Weingut Knebel** represents the pinnacle of Mosel's steep-terrace Riesling tradition: producing elegant, mineral-driven, age-worthy white wines from some of Europe's most difficult-to-farm vineyard sites. Operated by Matthias Knebel, the 7-hectare estate has become a reference point for collectors seeking authentic Mosel character: wines that balance bright acidity with fruit purity, terroir expression with accessibility, and contemporary quality standards with historical tradition.
+
+**Terroir & Steep-Terrace Farming.** Knebel's vineyards occupy the legendary steep-terrace district of Winningen, in the Middle Mosel region. These vineyards represent some of Europe's most challenging agricultural terrain: near-vertical slopes of slate-based soil, requiring hand-harvesting, careful canopy management, and labor-intensive cultivation. The physical difficulty of farming these sites is offset by terroir advantage: the slate preserves heat, ensuring full ripeness even in cool Mosel years, while the steep exposure provides ideal sun exposure. The result is wines with distinctive mineral character, bright acidity, and naturally lower alcohol (11–12%) compared to other German regions.
+
+**Winemaking Philosophy & Traditional Approach.** Knebel employs traditional Mosel techniques with contemporary precision: natural fermentation, minimal intervention, and careful timing to preserve Riesling's delicate aromatics. CSW's description of the wines as "beautiful grace and poise" reflects this approach — wines that don't try to be powerful, but rather express their terroir and vintage with clarity. The winemaker's practice of releasing wines at various levels of ripeness (from Kabinett through Auslese, when vintage allows) follows the German classification system, allowing collectors to choose the expression that matches their taste and food pairing needs.
+
+**Key Vineyard Sites & Expressions.** The estate's most celebrated vineyard is the **Uhlen** (a historic terrace site), which produces Knebel's most concentrated and age-worthy expressions. CSW's article "Heroes of the Terrassen" specifically featured Knebel's role in demonstrating that these terraced-vineyard wines represent some of the world's greatest value for serious collectors. The wines are built for aging: even Kabinett expressions show complexity after 10–15 years, while Auslese examples can improve over 20+ years.
+
+**CSW Relationship & Recognition.** CSW has championed Knebel consistently since 2008, with multiple features highlighting the producer's role in Mosel's modern quality renaissance. The 2014 feature on the 2012 vintage specifically celebrated CSW's long relationship with the domaine, noting that Knebel represents the "magical grace and poise" that distinguishes the best Mosel Rieslings from more commercial German expressions. Cellar Pick designation validates the quality tier.
+
+**Market Positioning & Value Proposition.** Imported through Skurnik and Theise (both quality-focused, artisanal-oriented importers), Knebel maintains a dedicated collector base despite modest US visibility. The producer appeals to sommeliers and collectors seeking authentic German Riesling at reasonable pricing — wines that teach about terroir and winemaking rather than commanding trophy status. CSW's repeated emphasis on value ("great values," "best values") positions Knebel as a counterpoint to Mosel's celebrity producers (often allocated through fine-wine channels).
+
+**Significance in Mosel's Modern Renaissance.** Knebel exemplifies the Mosel narrative: traditional techniques (steep-terrace farming, minimal intervention, Riesling monoculture) combined with contemporary quality obsession have positioned the region as one of Germany's most undervalued sources of age-worthy, terroir-expressive white wine. The steep-terrace sites, once economically challenged, have been validated as world-class terroir by producers like Knebel who refuse to compromise.
+
 ## Cross-references
 
 - [[Germany_Producers|Germany]]

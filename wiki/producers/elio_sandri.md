@@ -89,8 +89,29 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Notes
+
+**Elio Sandri** is a legendary Monforte d'Alba grower who produces uncompromising, traditionally structured Barolo alongside elegant Dolcetto, Barbera, and Nebbiolo — wines that exemplify the classical Monforte style: deep color, firm tannins, earthy complexity, and excellent aging potential. Operating nearly invisibly from a modest production (by Barolo standards), Sandri has built a devoted following among serious collectors and importers (notably Neal Rosenthal) who recognize his commitment to minimalist winemaking and terroir expression.
+
+**Winemaking Philosophy & Testing Culture.** Sandri is known for his intellectual approach to winemaking: he continuously tests parameters and variations of his core wines, producing multiple bottlings of Barolo and Riserva to explore how small adjustments in fermentation, oak aging, and bottling timing affect the final expression. Rather than settling into a fixed house style, Sandri treats each vintage and parcel as an ongoing experiment — a practice that requires both technical skill and a willingness to accept that not every test will succeed. This approach appeals to collectors who appreciate wine as a dialogue with terroir rather than a standardized product.
+
+**Monforte Terroir & Vineyard Character.** Monforte d'Alba, situated in Barolo's southeastern corner, is known for producing the appellation's most structured, powerful wines. The terroir is a mix of limestone, clay, and sandy soils at moderate elevation, with good drainage and southern exposure that produces ripe, concentrated Nebbiolo. Unlike the softer wines of La Morra or the more perfumed expressions of Barolo proper, Monforte's wines demand aging and are built for 25–40 year cellaring. Sandri's vineyard holdings benefit from this terroir's natural advantages.
+
+**Key Wines & Production.** The core portfolio consists of:
+- **Dolcetto** — fresh, structured entry point
+- **Barbera** — medium-weight, food-friendly red
+- **Nebbiolo** — pre-Barolo expression from younger vineyards
+- **Barolo** — the flagship, reflecting Monforte's classic style
+- **Barolo Riserva** — concentrated, extra-aged expression
+
+Unlike larger Barolo houses, Sandri produces modest quantities, with allocation tightly controlled and primarily directed through select importers (Neal Rosenthal in the US).
+
+**US Market Position & Recognition.** CSW has championed Sandri since his introduction by Gregory Dal Paiz, featuring him multiple times (6 articles as of 2025) and designating his wines as Cellar Pick. The combination of Neal Rosenthal representation + CSW enthusiasm positions Sandri as a reference point for serious Barolo collectors seeking the appellation's classical, age-worthy style rather than modern, fruit-forward interpretations.
+
+**Hidden Gem Status.** Sandri exemplifies a broader Monforte phenomenon: uncompromising growers who produce world-class wines from modest production, operating through word-of-mouth and careful importer relationships rather than through marketing or allocation chasing. The lack of Berserkers mentions (despite CSW's enthusiasm) suggests that Sandri remains underrated in broader collector circles — a positioning that appeals to contrarian collectors and serious sommeliers who value discovery over prestige consensus.
+
 ## Cross-references
 
 - [[Italy_Producers|Italy]]
-- [[Barolo (Castiglione Falletto)]]
+- [[Barolo (Monforte d'Alba)]]
 - [[CSW Article Archive]]

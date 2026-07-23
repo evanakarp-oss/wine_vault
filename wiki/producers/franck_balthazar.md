@@ -111,6 +111,25 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Notes
+
+**Franck Balthazar** represents an emerging Cornas model: organically farmed, naturally made Syrah that balances the appellation's signature power and tannin structure with mineral clarity and terroir expression. Operating within a small group of producers in Cornas practicing organic farming and minimal-intervention winemaking, Balthazar has positioned himself as the "elegant" counterpoint to Cornas' more heavily extracted modern examples — a stylistic positioning that attracts serious collectors seeking the appellation's classical character.
+
+**Terroir & Cornas Character.** Cornas occupies the northernmost position in the Northern Rhône, known for producing the appellation's densest, most powerful and long-lived Syrah. The steep, granite-based terraced vineyards produce naturally concentrated fruit and firm tannins. Unlike Côte-Rôtie (which is often more perfumed) or Hermitage (which varies by site), Cornas is traditionally a monolithic, age-requiring wine built for 20–40 year cellaring. Balthazar's approach accepts this character while attempting to bring precision and terroir-expressiveness to the forefront.
+
+**Winemaking Philosophy & Key Wines.** Balthazar practices organic viticulture and natural winemaking (minimal SO2, wild fermentation). The core cuvées include:
+- **Cornas "Chaillot"** — the entry-level expression, still structured but more approachable
+- **Cornas "Cuvée Casimir Balthazar"** — the concentrated, mid-term bottling
+- **Cornas "Sans Soufre"** (no added sulfur) — the most challenging, natural expression
+
+These cuvées allow collectors to experience Balthazar's style at different price points and cellaring requirements while maintaining the organic/natural ethos across the range.
+
+**CSW Positioning & Recognition.** CSW championed Balthazar beginning in 2017, with particularly strong features in recent years (2023–2025). The title "Old-school prices on old-school Cornas" reflects Balthazar's positioning: quality Cornas at reasonable pricing, built in the classical style rather than modern, manipulation-forward approaches. CSW's Cellar Pick designation and 3/5 aging score validate Balthazar's approach.
+
+**Market Availability & Momentum.** Represented through Kermit Lynch and Polaner, Balthazar maintains modest but consistent US availability. The Berserkers momentum signal (1.0× steady) suggests growing collector interest, though the producer remains less visible than larger Cornas houses. This under-the-radar positioning appeals to sommeliers and collectors seeking quality at less-pursued price points.
+
+**Regional Significance.** Within Cornas' evolving narrative, Balthazar exemplifies the "new traditionalism": producers who reject the modern Cornas paradigm (high alcohol, new oak, consultant-driven extraction) and instead recover the appellation's classical identity (natural fermentation, organic farming, age-requiring structure). This approach validates Cornas' potential for terroir expression despite its reputation for brute power.
+
 ## Cross-references
 
 - [[Rhône_Producers|Rhône]]

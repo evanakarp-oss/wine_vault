@@ -162,6 +162,26 @@ Vintages on offer: 2017, NV.
 | Montjolys Blanc De Blancs | 2017 | 750ml | $329.99 | — |
 | Cuvee Reserve Blanc De Blanc | NV | 750ml | $79.99 | — |
 
+## Notes
+
+**Pierre Peters** stands as one of Champagne's most celebrated grower Champagne producers, known for single-vineyard, 100% Chardonnay Blanc de Blancs expressions that William Kelley and serious collectors have identified as among the world's greatest Champagnes. Based in Le Mesnil-sur-Oger, the producer exemplifies the Côte des Blancs' potential for terroir-driven, age-worthy Champagne built on meticulous vineyard work and classical winemaking.
+
+**Terroir & Le Mesnil Positioning.** Le Mesnil-sur-Oger sits at the southern end of the Côte des Blancs, known for producing the most mineral, austere, and age-worthy Blanc de Blancs. The terroir consists of deep chalk deposits with limestone subsoil, ideal drainage, and southern exposure. Le Mesnil's reputation within Champagne parallels Puligny-Montrachet's within Burgundy white wines: the benchmark for mineral, terroir-expressive Chardonnay. Pierre Peters' consistent quality from this site has made the producer synonymous with Le Mesnil's best expressions.
+
+**Single-Vineyard Focus & Les Chétillons.** The producer's signature wine is **Les Chétillons** — a single-vineyard Blanc de Blancs from old vines in the namesake parcel. This expression has become a reference point for Champagne collectors: William Kelley hosted a vertical tasting (back to 1969) at the winery and described the 2013 vintage as "one of the most tightly-wound, incisive releases of Les Chétillons in recent years." Kelley's willingness to feature the wine in "Dream 5 Wine Allocations" discussions (alongside Keller, Coche Dury, and Roagna) speaks to the producer's elite standing.
+
+**Winemaking Approach & Aging Philosophy.** Peters practices sustainable viticulture and classical Champagne winemaking: hand harvesting, natural fermentation, extended lees aging (typically 5+ years for vintage cuvées), and selective dosage. The approach emphasizes the wine's ability to improve dramatically with bottle age — a philosophy validated by Kelley's tastings showing 1969 Les Chétillons still in excellent condition. The wines are explicitly designed for collectors, not for early consumption.
+
+**Champagne Classifications & Pricing.** In Raeders' current tracking, Pierre Peters shows:
+- **Montjolys Blanc de Blancs 2017** ($329.99) — a notable vintage expression
+- **Cuvée Réserve Blanc de Blanc NV** ($79.99) — the value entry point, still complex
+
+The pricing (even at $79.99 for NV) reflects the producer's prestige status, though it remains more accessible than premiere grande-marque Champagnes.
+
+**Critical Recognition & Allocation Rarity.** The producer's recognition in Berserkers discussions, CSW's decades-long presence (first article 2007), and Raeders tracking all speak to elite status. However, allocation is tightly controlled — Kelley notes that direct ex-Domaine purchases have become "rather expensive," and US allocations through Grand Cru Selections are modest. This scarcity increases the wine's collectibility and appeal to serious Champagne enthusiasts.
+
+**Grower-Champagne Model Exemplar.** Pierre Peters represents the grower-Champagne model at its finest: a small estate producing world-class wines through meticulous terroir expression, competing directly with grande-marque prestige cuvées on quality, and demonstrating that Champagne's greatest potential lies not with industrial houses but with dedicated growers who treat viticulture and winemaking as fine-art practices.
+
 ## FASS
 
 _Not yet populated._

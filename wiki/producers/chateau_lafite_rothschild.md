@@ -171,6 +171,16 @@ Vintages on offer: 1964, 1967, 1979, 1983, 2017, 2018, 2020, 2021, 2022.
 
 _[Raeders link](https://www.raederswine.com/wines/Chateau-Lafite-Rothschild-Carruades-De-Lafite-Pauillac-2020-w8448297zf)_
 
+## Notes
+
+**Château Lafite Rothschild** is Bordeaux's most historically significant first-growth estate, with nearly 300 years of ownership, consistent quality, and profound influence on the region's reputation. Located in Pauillac, the château manages approximately 100 hectares, producing the eponymous grand vin (typically 80% Cabernet Sauvignon, 15% Merlot, 5% Cabernet Franc/Petit Verdot blend) and the second wine Carruades de Lafite. Historically, Lafite's reputation centered on elegance and aging potential rather than raw power — a philosophical stance that distinguished it from some rival Pauillac houses. Modern vintages (particularly since the early 2000s) have shown increasing ripeness and structure, reflecting broader Bordeaux trends toward riper fruit selection and longer élevage.
+
+**Vault Scope & Aging Positioning.** This vault tracks Lafite only for aged, drink-ready bottles (mature vintages from 1960s–1980s) rather than current releases, as the producer operates well outside Evan's stated taste filter. First-growth classification, château-scale production, and international prestige positioning (vs. the grower-scale, terroir-obsessed, low-intervention producers that comprise the vault's focus) render current Lafite releases tangential to the vault's mission. Aged bottles are tracked because they represent historical interest and because mature Bordeaux holds genuine complexity and food-pairing value distinct from the marketing premium of young bottles.
+
+**Critic Ratings & Auction Presence.** Lafite's prominence in Raeders inventory and auction catalogs reflects its status as the most-traded first-growth. The critic ratings visible in the vault (ranging from 91–100 depending on vintage) demonstrate consistency at the highest level, though the scoring variation also reflects vintage-dependent expression and the reality that even first-growths show human sensibility in critic assessment. Historical ratings (1975 Lafite at 93 points, 1982 at 100, 1999 at 95) provide useful benchmarks for collectors familiar with Parker-era scoring.
+
+**Regional Significance & Historical Position.** Lafite's influence on Bordeaux's international reputation and collector preference remains disproportionate. The château's historical commitment to elegant, restrained winemaking (in contrast to some neighbors' power-seeking approaches) validated a competing Pauillac philosophy — one that influenced producers worldwide to prioritize finesse over extraction. Even collectors who reject the first-growth model and prestige-pricing often acknowledge Lafite's role in wine history.
+
 ## FASS
 
 _Not yet populated._

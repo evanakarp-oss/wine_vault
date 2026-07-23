@@ -101,6 +101,20 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Notes
+
+**Domaine Boisson** represents one of Burgundy's most sophisticated white-wine specialists, producing Meursault and Hautes-Côtes de Beaune Chardonnays that exemplify the mineral, food-driven elegance of the Côte de Beaune. The producer operates through multiple family labels (Pierre Boisson, Anne Boisson, formerly Boisson-Vadot), each reflecting distinct vineyard holdings and winemaking philosophies while maintaining the family's commitment to classical Burgundy white-wine standards.
+
+**Family Structure & Vineyard Holdings.** The Boisson family controls vineyard parcels across several prestigious Meursault lieux-dits, including the notable **Les Genevrières** (a premier cru equivalent for quality), plus holdings in the lesser-known but high-potential Hautes-Côtes de Beaune at elevation. This combination — prestigious village parcels (Meursault) + terroir-expressive hillside parcels (Hautes-Côtes) — allows the family to produce wines at multiple price points and complexity levels, from entry-level value expressions to age-worthy premier-cru-level selections.
+
+**Winemaking Style & Philosophy.** The house style emphasizes mineral precision, restrained oak influence (if any), and the intrinsic character of Meursault's limestone soils. Unlike many modern Meursaults, Boisson's wines avoid over-ripeness and heavy new-oak manipulation — instead expressing the lean, saline character that made Meursault Burgundy's greatest dry white appellation in the pre-cult era. The comparison drawn in Berserkers discussions to **Coche-Dury** (Meursault's most celebrated producer) speaks to the quality level and stylistic alignment: classical, soil-expressive, food-friendly Chardonnay.
+
+**Key Wines & Current Production.** The flagship offerings include **Meursault** (the communal appellation wine), **Les Genevrières** (the concentrated, age-worthy expression), and the newly introduced **Hautes-Côtes de Beaune Blanc "La Chemin de Pierre"** (a recent success with CSW and collectors). The Hautes-Côtes offering demonstrates Boisson's commitment to exploring high-elevation, overlooked terroirs — a move that aligns with Evan's taste for terroir-obsessed production at modest scale.
+
+**US Market Position.** Polaner representation and CSW's enthusiastic multiple features (4 dedicated articles as of 2026) position Boisson as a quality reference for serious Burgundy collectors. The label structure reflects the family's accessibility approach: Peter Boisson / Anne Boisson offerings reach more collectors than the more exclusive communal Meursaults. Allocation is limited but consistent through Polaner and quality importers.
+
+**Regional Significance.** Boisson exemplifies the classical Meursault producer — a category that has been overshadowed by Coche-Dury's cult status and modern oak-driven Meursaults. The family's commitment to mineral character and restrained winemaking positions them as custodians of an earlier Meursault tradition, validating the idea that Chardonnay's greatest expressions prioritize terroir and aging potential over immediate richness.
+
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]

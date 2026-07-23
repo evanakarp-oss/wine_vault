@@ -167,6 +167,22 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Notes
+
+**Domaine Simon Bize** stands as arguably the finest grower in Savigny-lès-Beaune, a Burgundy commune known for elegant, mineral-driven Pinot Noirs that age gracefully despite their apparent early approachability. CSW has championed the producer for nearly two decades, calling them benchmarks of the appellation and celebrating their consistent quality across multiple generations of winemaking.
+
+**Producer History & Succession.** Domaine Simon Bize was built through multiple generations of Bize family commitment to Savigny terroir. The late Patrick Bize brought considerable talent to the domaine, crafting wines that CSW described as "absolutely stunning examples" even in challenging vintages (notably the 2005s, considered "the wines of his life"). The domaine continues under subsequent generations, maintaining the family's commitment to quality and biodynamic farming.
+
+**Farming Approach & Biodynamic Practice.** The domaine practices biodynamic viticulture, an approach that goes beyond organic farming to incorporate rhythmic, soil-focused agricultural principles. CSW has documented this commitment across multiple features, noting the domaine's emphasis on biodiversity and balanced terroir expression. The biodynamic philosophy extends to winemaking: the domaine employs whole-cluster fermentation when possible (and parcel-dependent), a technique that adds complexity and tannin structure while maintaining the wines' elegant profile.
+
+**Vineyard Holdings & Terroir.** Domaine Simon Bize controls parcels across Savigny-lès-Beaune's premier cru lieux-dits, including **Aux Guettes** (an entry-level premier cru known for elegance), **Les Vergelesses** (a more structured expression), and communal village parcels. Savigny's terroir benefits from slightly higher elevation and cooler microclimates compared to neighboring Beaune and Pommard, producing Pinot Noirs with bright acidity, peppery spice, and fine-grained tannins.
+
+**House Style & Key Wines.** The Bize signature is **elegant village wine from a prestigious producer** — a pairing that creates wines with unexpected complexity and aging potential despite their apparent approachability when young. The wines are structured enough for 15–20 year cellaring yet balanced enough for food pairing at 5–8 years. This balance reflects the domaine's commitment to expressing site rather than extracting power.
+
+**US Market Position.** Imported through Dressner and Louis, the domaine has access to quality retail channels and maintains a loyal collector base. CSW's consistent features (10 articles, 2025 inclusion in a Côte de Beaune discussion) position Simon Bize as a reliable reference point for serious Burgundy collectors. Allocation has become more restricted as the producer's reputation has grown, making older vintages increasingly valuable.
+
+**Benchmark Status.** Within Savigny-lès-Beaune's hierarchy of producers (alongside Chandon de Brialles, Écard, and Pavelot), Simon Bize consistently ranks at the top, validating the idea that a great grower in a secondary appellation can rival first-growth wines from more prestigious communes. The domaine exemplifies Burgundy's broader lesson: terroir expression + biodynamic farming + multi-generational commitment = age-worthy, intellectually satisfying red wines.
+
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]

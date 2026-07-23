@@ -91,6 +91,26 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Notes
+
+**Domaine de la Tournelle**, operated by Evelyne and Pascal Clairet, stands as one of Jura's most distinctive natural-wine producers and a canonical reference for organic-farmed, minimal-intervention Chardonnay, Savagnin, and Pinot Noir from Arbois. The domaine uniquely combines winemaking with a small riverside restaurant in Arbois, positioning wine production as an integral part of regional gastronomic culture rather than an isolated commercial enterprise.
+
+**Producer Philosophy & Restaurant Integration.** Pascal and Evelyne Clairet operate from a philosophy that treats winemaking, hospitality, and community stewardship as interconnected practices. The restaurant (a cherished local bistrot serving *plats du jour*) shares the domaine's space, creating a direct link between Jura terroir and cuisine — diners taste the wines within the context of their intended gastronomic partner. This model reflects a broader Jura sensibility: wine as an expression of place and culture, not an abstract commodity.
+
+**Farming & Winemaking Approach.** The Clairets have farmed organically for decades, predating the modern organic-farming revival. They employ natural-winemaking techniques: wild fermentation, minimal SO2 additions, and no fining or filtration. This approach results in wines that are mineral-driven, texture-forward, and expressive of vintage variation — a philosophy aligned with the natural-wine movement but rooted in Jura's historical minimalist practices.
+
+**Key Wines & Terroir Expression.** The portfolio spans Jura's signature varietals:
+- **Chardonnay** — spicy, mineral-driven, sometimes showing the region's characteristic oxidative character
+- **Savagnin** — complex, age-worthy expressions with nutty, honey-like development; often including traditional *vin jaune* (if made)
+- **Pinot Noir** — lighter, food-friendly reds from Arbois' cooler sites
+- **Trousseau & Poulsard** — the Jura's lesser-known red varietals, offering earthy, peppery expressions
+
+**Regional Positioning.** Domaine de la Tournelle sits within Jura's pantheon of quality-obsessed producers (alongside Jean-François Ganevat, Alice Bouvot, and the Villets). CSW's consistent features (6 articles, 2025 feature in "New releases from Les Donneurs de Temps") position the domaine as a reliable reference for collectors exploring Jura's complex, food-friendly potential.
+
+**US Market Position.** Imported through Dressner and Louis/Lita, Tournelle has access to quality retail channels, though allocation is limited due to small production. The domaine's emphasis on restaurant sales and direct relationships in Jura itself means that US availability is carefully managed, making the wines more collectible when encountered.
+
+**Influence & Cultural Significance.** Domaine de la Tournelle exemplifies Jura's broader cultural positioning: a region where natural/organic winemaking is normative rather than novel, where community and gastronomy are central to wine's meaning, and where minimal intervention is philosophical practice rather than marketing position.
+
 ## Cross-references
 
 - [[Jura_Producers|Jura]]

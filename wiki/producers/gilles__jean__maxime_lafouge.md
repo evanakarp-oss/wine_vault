@@ -128,6 +128,22 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Notes
+
+**Domaine Lafouge** (Gilles/Jean/Maxime Lafouge) stands as one of Burgundy's most reliable value producers, offering precisely made, age-worthy Pinot Noir and Chardonnay from Auxey-Duresses at prices that remain accessible even as Burgundy's broader market has become prohibitive. The family's six-generation commitment to the 10-hectare estate, combined with organic farming and transparent, honest winemaking, has made Lafouge a multi-decade CSW staple (30+ years of relationship) and a canonical reference for quality Burgundy value.
+
+**Family Structure & Vineyard Holdings.** The domaine is currently represented by three generational layers: Gilles (current proprietor), Jean (his father, still involved), and Maxime (the next generation, beginning his tenure). The 10-hectare holding includes excellent premier cru vineyards in Auxey-Duresses with notably old vines, plus small parcels in neighboring Meursault and a dedicated old-vine plot in the Bourgogne appellation. This multi-appellational structure allows the family to produce wines at different price points while maintaining quality and personality across the range.
+
+**Organic Farming & Winemaking Philosophy.** The Lafouges practice organic viticulture — a commitment visible in CSW's repeated championing of their approach. The winemaking emphasizes clarity and precision: no attempts at extraction or manipulation, just honest fruit expression and classical Burgundy technique (natural fermentation, careful élevage). CSW's description of the wines as "precise, honest and satisfying" captures this philosophy perfectly.
+
+**House Style & Key Wines.** The core portfolio is built on **Auxey-Duresses village Pinot Noir** and premier cru expressions (particularly noted for quality), **Meursault Chardonnay** (the white expression), and basic Bourgogne offerings. The wines are built for moderate aging (5–10 years brings out secondary complexity) but offer immediate pleasure if drunk young — a balance that distinguishes them from more austere or powerful Burgundy styles.
+
+**Value Proposition & Market Position.** CSW's repeated use of "value" language reflects an unusual positioning for Burgundy: quality that doesn't require Côte de Nuits pricing or cult-status allocations. As Burgundy prices have become increasingly prohibitive (especially for first-growth and celebrity producers), Lafouge has become more valuable as a gateway to serious Burgundy — wines that teach about terroir and winemaking without requiring significant financial commitment.
+
+**CSW Relationship & Longevity.** The 30-year relationship between CSW and the Lafouges speaks to consistency: the family delivers quality vintage after vintage, making them a reliable allocation for serious retailers. Multiple CSW features across decades (from 2007 to 2025, with particular strength in recent years) validate this consistency. The fact that CSW features them alongside first-growth producers (in "Burgundy Awards" and "Sub $35 Burgundies" contexts) positions Lafouge as a producer that outperforms its price tier.
+
+**Regional Significance.** Auxey-Duresses is a secondary Côte de Beaune appellation, often overlooked in favor of Beaune, Pommard, or Volnay. Lafouge's consistent quality from this site demonstrates that appellational hierarchy matters less than individual producer quality — a lesson that has become increasingly valuable as Burgundy's prestige wines have become unaffordable for most collectors.
+
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]

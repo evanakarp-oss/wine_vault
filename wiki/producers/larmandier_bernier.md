@@ -142,6 +142,27 @@ Currently tracked: **1 cuvée/vintage entries**; prices —–—.
 |---|---|---|---|---|
 | Vieille Vigne Du Levant Grand Cru Extra Brut | 2014 | 750ml | — | — |
 
+## Notes
+
+**Larmandier-Bernier** stands as one of the Côte des Blancs' most respected grower Champagne producers, known for organic-farmed, minimally dosed Blanc de Blancs expressions that prioritize terroir expression and aging potential over commercial sweetness. The producer exemplifies the grower-Champagne movement's core philosophy: estate-controlled vineyard farming, selective harvesting, and low-manipulation winemaking that allows Chardonnay and terroir to speak for themselves.
+
+**Terroir & Côte des Blancs Character.** Located in the Côte des Blancs' central zone, Larmandier-Bernier's vineyard holdings benefit from limestone-rich, chalk-based soils that produce naturally mineral, crisp Chardonnay. The region's cooler microclimate and superior drainage (compared to the Montagne de Reims, the other Champagne subregion) result in wines with lower sugar accumulation, higher natural acidity, and distinctive mineral backbone. This terroir profile makes Côte des Blancs Champagnes naturally more age-worthy than Pinot Noir-driven examples.
+
+**Farming Philosophy & Organic Commitment.** The domaine practices organic viticulture, a rarity in Champagne as of CSW's 2024 documentation. The organic approach emphasizes biodiversity, natural pest management, and soil health — practices that Larmandier-Bernier has maintained while demonstrating that organic farming is economically sustainable in Champagne's premium production model. CSW's description of the producer as representing "organic and biodynamic viticulture and low intervention winemaking" positions them within Evan's taste filter for natural, responsibly farmed producers.
+
+**Winemaking Approach & Dosage Philosophy.** Larmandier-Bernier is known for low-dosage, "Extra Brut" expressions that allow Champagne's natural minerality and complexity to dominate. The winemaking is minimalist: native fermentation, extended aging on the lees (typically 3+ years for vintage cuvées), and deliberate understatement in dosage (vs. the 8–12 g/L typical of many houses). This philosophy appeals to collectors who appreciate Champagne as a wine of terroir rather than a commercial product designed for broad palatability.
+
+**Key Wines & Expressions.** The core portfolio includes:
+- **Latitude Blanc de Blancs Extra Brut** (NV, $59) — the entry expression, still complex and age-worthy
+- **Longitude Blanc de Blancs Extra Brut 1er Cru** (NV, $69–$149) — the mid-tier, more concentrated
+- **Vieille Vigne du Levant Grand Cru Extra Brut** (vintage, varies) — the flagship, oldest vines and longest aging
+
+Berserkers discussions consistently rank Larmandier-Bernier's cuvées alongside the world's greatest Champagnes, with particular praise for the "Longitude" as "one of the best values in non-vintage grower Champagne."
+
+**US Market Position & Recognition.** Distributed through Polaner and available through DTE ($59–$149), Larmandier-Bernier has solid US access for a grower Champagne. CSW's 2024 feature emphasizes the producer's legacy status ("legacy wines at Chambers Street, from producers who are aligned with our commitment to organic and biodynamic viticulture"). William Kelley (Berserkers) has discussed the producer in tasting notes and allocations threads, validating its place among serious collectors' favorite Champagnes.
+
+**Grower-Champagne Movement Significance.** Larmandier-Bernier exemplifies the grower-Champagne model's core promise: wines that rival grande-marque Champagnes in complexity and aging potential, produced on a smaller scale, with direct farmer-to-consumer transparency, and at more accessible pricing than prestige-house bottles. The producer validates the idea that Champagne terroir matters — that limestone-based Côte des Blancs produces distinctively mineral, age-worthy wines that deserve Champagne's top tier of respect.
+
 ## FASS
 
 _Not yet populated._

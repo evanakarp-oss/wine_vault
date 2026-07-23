@@ -85,6 +85,22 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Notes
+
+**Jane et Sylvain Raphanau** (operating as "Jane et Sylvain") exemplify the modern Burgundy value proposition: tiny-production organic growers producing terroir-expressive, age-worthy Pinot Noir from Gevrey-Chambertin and surrounding appellations, at prices that remain accessible to serious collectors. Their early adoption of organic certification (2003, ahead of the broader Burgundy organic wave) and consistent quality have made them a staple of CSW's value-oriented Burgundy offerings.
+
+**Producer Profile & Philosophy.** The estate consists of just 4 hectares in and around Gevrey-Chambertin, farmed organically since 2003 — a time when organic viticulture in Burgundy was less common and more demanding than it is today. Jane and Sylvain take "great pride in the quality" of their tiny production, producing wines that CSW consistently describes as "terroir-expressive" rather than commercially accommodating. Their small scale means that availability is inherently limited, making allocation through quality importers (Polaner) essential for any consistent access.
+
+**Vineyard Sites & Terroir Expression.** The holdings span multiple appellations within the Gevrey complex: **Gevrey-Chambertin 1er Cru "Fontenys"** (the showcase, more structured expression), **village-level Gevrey**, and supplementary parcels in neighboring zones. Gevrey's terroir is known for producing Pinot Noirs with structure, minerality, and aging potential — wines that benefit from organic farming's emphasis on natural balance and soil health. CSW's designation of the wines as "old-fashioned Burgundies" speaks to a classical, unoaked or minimally oaked approach.
+
+**Organic Farming & Winemaking Approach.** The 2003 organic certification predates CSW's first feature (2014) by over a decade, indicating deep philosophical commitment rather than trendy positioning. The winemaking is comparably low-intervention: organic grapes, natural fermentation, careful élevage with minimal manipulation. CSW notes the broader context: at the time of the 2016 feature, much of Burgundy's soils had been "stripped of living organisms by decades of herbicides, pesticides and systemic fungicides," making the Raphanaus' organic commitment particularly meaningful.
+
+**Aging Potential & Drinking Window.** CSW's 2/5 aging score and multiple references to cellaring suggest wines built for 10–20 year development, with secondary complexity emerging over time. The wines are neither immediately approachable (the way lighter Pinots can be) nor so structured that youth is painful — a balance that makes them excellent for collectors who want both early pleasure and longevity.
+
+**US Market Position & Allocation Challenges.** Polaner representation provides access, but production constraints (4 hectares, tiny yields) mean that US allocation is modest and frequently exhausted. This scarcity, combined with organic certification and CSW's consistent championing, has made Jane et Sylvain increasingly sought-after among informed Burgundy collectors as the Côte de Nuits' celebrity producers have become inaccessible at scale.
+
+**Significance in Burgundy's Organic Movement.** Jane et Sylvain exemplifies an important narrative in contemporary Burgundy: the producers who adopted organic farming early, demonstrated its feasibility and quality benefits, and have now been validated by a broader market that has come to accept organic as standard (rather than risky novelty). Their decade-plus of organic practice before it became fashionable positions them as pioneers in this conversation.
+
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
