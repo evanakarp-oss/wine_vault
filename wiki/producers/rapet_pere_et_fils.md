@@ -51,6 +51,10 @@ berserkers_kelley_body:
 
 # Rapet Père et Fils
 
+## Notes
+
+**Rapet Père et Fils** is an organic Pernand-Vergelesses (Côte de Beaune) producer known for age-worthy, traditionally-styled Pinot Noirs and whites from Burgundy's limestone-clay terroirs. The domaine cultivates vineyards on the mineral-rich soils of Pernand-Vergelesses and surrounding Côte de Beaune sites, emphasizing organic viticulture and restrained yields to concentrate phenolic ripeness and aromatic complexity. Traditional Burgundy winemaking emphasizes native yeast fermentation, extended maceration for structured tannins, and aging in French oak (balanced new/neutral barrels) for 18–24 months, preserving mineral and red-fruit character. CSW awards an aging score of 6 and cellar-pick designation, indicating excellent age-worthiness and current drinkability. William Kelley has referenced the estate with 8 Berserkers posts, confirming collector interest and recognition. Polaner's representation underscores import priority among serious Burgundy specialists. The estate's organic-farming commitment, Pernand-Vergelesses focus, and age-worthy, structured Pinot Noir align with Evan's documented Burgundy taste filter (organic/biodynamic-leaning, terroir-driven, age-worthy).
+
 ## CSW Write-ups
 
 ### ★ [Returning Favorites: Fantastic 2023s from Rapet!](https://chambersstwines.com/blogs/articles/returning-favorites-fantastic-2023s-from-rapet)

@@ -48,6 +48,10 @@ _sources: ["raeders_compile_curated:2026-04-25"]
 
 # Méo-Camuzet
 
+## Notes
+
+**Méo-Camuzet** is a prestigious Vosne-Romanée producer managing significant vineyard holdings across Burgundy's finest sites, known for producing traditional, age-worthy Grand Cru and 1er Cru Pinot Noirs that exemplify the region's mineral complexity and structure. The domaine controls parcels across multiple appellations including Vosne-Romanée's elite vineyard sites and surrounding Côte de Nuits locations, with particular focus on Grand Cru expressions that serve as benchmarks for Burgundy quality. Sustainable viticulture emphasizes selective harvesting, modest yields, and natural pest management to concentrate phenolic ripeness and aromatic complexity. Winemaking follows traditional Burgundy methods: native yeast fermentation, extended maceration for structured tannins, and aging in French oak (balanced between new and neutral barrels) for 18–30 months, allowing complex mineral and red-fruit character to emerge. Raeders tracks 12 cuvée/vintage entries ranging $109.99–$2,499.99, reflecting the dramatic price hierarchy from village-level to Grand Cru bottlings and indicating significant depth of expression across the quality pyramid. Kermit Lynch and Wildman's representation confirms import priority status among serious Burgundy specialists. The estate's control of Vosne-Romanée's best sites, age-worthy structured Pinot Noir, and traditional winemaking approach align with Evan's documented Burgundy taste filter (terroir-driven, Grand Cru focus, age-worthy).
+
 _Created from Raeders compile pass — LLM-curated as a notable terroir-driven producer worth tracking. Editorial summary still to be written._
 
 ## CSW Write-ups

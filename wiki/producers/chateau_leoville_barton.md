@@ -61,7 +61,9 @@ berserkers_kelley_body:
 
 # Château Léoville Barton
 
-_Saint-Julien 2nd-growth; Anthony Barton legacy, traditional vinification. WK long-running 'best-value classed-growth' pick._
+## Notes
+
+**Château Léoville Barton** is the Saint-Julien 2nd-growth estate whose legacy of elegant, age-worthy Bordeaux was shaped by the late **Anthony Barton**, an Irish nobleman who championed traditional winemaking and modest pricing despite the château's premier classification status. The estate's consistent philosophy—restraint over opulence, natural ripeness over new oak—has made Léoville Barton William Kelley's long-running "best-value classed-growth" reference and a perennial buy for collectors seeking the intersection of quality, drinkability, and price. Sustainable farming focuses on the château's exceptional Left Bank parcels (gravelly soils supporting old-vine Cabernet Sauvignon) with selective harvesting and minimal intervention in the vineyard. Vinification historically avoided new oak entirely (the 1982 was noted as the last vintage without new wood); modern vintages use restrained oak (roughly 40% new barrels) to preserve the wine's mineral, cassis-driven profile rather than adding vanilla or toasted notes. The flagship **Saint-Julien** expression ($60–90 contemporary release; older vintages 1985, 1988, 1995, 1998, 2000 widely available at auction in excellent condition) has an exceptional track record: the 1998 remains elegant and youthful after 25+ years; the 2018 scored 97 from James Suckling and Wine Spectator, with 91 from Wine Spectator for the 2015. Drinking windows are generous: Léoville Barton develops complexity over 10–15 years but remains approachable at 5 years post-vintage and continues improving through 30+ years of cellaring in good storage. The estate's commitment to value, traditional methods, and food-friendly, structured wines aligned directly with Evan's documented Bordeaux taste filters (WK-style undercovered/value with great farming and aged classed-growth for drink-now bottles).
 
 ## CSW Write-ups
 

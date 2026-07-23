@@ -56,7 +56,9 @@ berserkers_kelley_body:
 
 # Domaine Guillemot-Michel
 
-## CSW Write-ups
+## Notes
+
+**Domaine Guillemot-Michel**, helmed by winemakers Gautier Roussille and Sophie Michel, is a small biodynamic estate in Mâcon-Viré (southern Burgundy Mâconnais) producing distinctive, terroir-driven Chardonnays described by CSW as "unique and magical" expressions of one of Burgundy's undervalued regions. The estate's vineyards rest on limestone soils characteristic of Viré-Clessé, a sub-appellation known for producing Chardonnay with mineral tension, citrus intensity, and genuine aging potential that can rival more expensive Côte de Beaune sites. Biodynamic farming since the estate's founding emphasizes minimal intervention, natural pest management, and vineyard microflora development—yields are restrained to concentrate aromatic complexity and phenolic ripeness. Winemaking embraces experimental techniques including aging in terracotta amphora (for specific cuvées like the "Retour à la Terre") alongside traditional barrel aging, avoiding new oak to preserve the wines' bright, mineral character and natural salinity. CSW describes the house style as having "tension, depth and great cellaring potential," with William Kelley noting that premium Guillemot-Michel cuvées (alongside comparable producers like Thevenet and Bongran) age beautifully for 15+ years, though the wines are also approachable at 5–10 years post-vintage. Current release pricing is estimated $35–60 for core expressions, positioning these wines as excellent value relative to comparable white Burgundy quality and aging potential. The estate's use of biodynamic practices, experimental techniques (amphora aging), and commitment to mineral, food-focused white Burgundy align perfectly with Evan's documented taste filters for Burgundy (terroir-driven, biodynamic-leaning, grower-scale producers).
 
 ### [Burgundy Weekend: New Arrivals and Best Values!](https://chambersstwines.com/blogs/articles/burgundy-weekend-new-arrivals-and-best-values)
 *2026-01*

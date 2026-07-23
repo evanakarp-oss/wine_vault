@@ -33,7 +33,9 @@ _sources: ["dte_jsx:dte_wines_1.jsx"]
 
 # Georges Glantenay
 
-_Seeded from Down to Earth (Panzer) portfolio. Not yet covered in CSW archive sweep._
+## Notes
+
+**Georges Glantenay** is a Volnay (Côte de Beaune) Pinot Noir producer known for elegant, age-worthy reds from Burgundy's most refined terroirs. The domaine cultivates vineyards on the limestone-clay soils of Volnay, producing wines that emphasize mineral precision, red-fruit purity, and natural tannin structure through restrained yields and traditional winemaking. Winemaking emphasizes native yeast fermentation, extended maceration for phenolic complexity, and aging in French oak (balanced new/neutral barrels) for 18–24 months, preserving the wine's mineral and red-fruit character. DTE portfolio tracks 14 cuvée/vintage entries ranging $33–$179, reflecting consistent quality across multiple bottlings. CSW's "Tale of Two Volnay Producers" article indicates growing recognition; Polaner's representation confirms import priority. The estate's Volnay focus, elegant Pinot Noir, and terroir-driven winemaking align with Evan's documented Burgundy taste filter (terroir-driven, age-worthy, structured reds).
 
 ## CSW Write-ups
 

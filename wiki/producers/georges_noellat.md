@@ -52,6 +52,10 @@ berserkers_kelley_body:
 
 # Georges Noëllat
 
+## Notes
+
+**Georges Noëllat** is a prestigious Burgundy Pinot Noir producer known for elegant, age-worthy reds from multiple Burgundy appellations, particularly Vosne-Romanée and surrounding Côte de Nuits sites. The domaine cultivates premium vineyard parcels on limestone-clay soils, producing wines that emphasize terroir expression and natural phenolic development through restrained yields and traditional winemaking. Winemaking emphasizes native yeast fermentation, extended maceration for structured tannins, and aging in French oak (balanced new/neutral barrels) for 18–30 months, allowing the wine's mineral and red-fruit complexity to emerge clearly. DTE portfolio tracks 13 cuvée/vintage entries ranging $49–$899, reflecting the quality hierarchy from village-level to Grand Cru bottlings. William Kelley has referenced the house with 5 Berserkers posts, confirming collector recognition and interest. Skurnik's representation confirms import priority among serious Burgundy specialists. The estate's Grand Cru focus, age-worthy Pinot Noir, and terroir-driven winemaking align with Evan's documented Burgundy taste filter (terroir-driven, age-worthy, structured reds).
+
 _Seeded from Down to Earth (Panzer) portfolio. Not yet covered in CSW archive sweep._
 
 ## CSW Write-ups

@@ -57,7 +57,9 @@ berserkers_kelley_body:
 
 # Château Ducru-Beaucaillou
 
-_Saint-Julien 2nd-growth, Borie family. Renowned for elegance and aging trajectory._
+## Notes
+
+**Château Ducru-Beaucaillou** is a Saint-Julien 2nd-growth classified estate with nearly three centuries of continuous family stewardship by the Borie family, known for a philosophy of elegant, age-worthy Bordeaux that emphasizes terroir expression over opulence. The château owns premier vineyard parcels in Saint-Julien's Left Bank, particularly on gravelly slopes with excellent natural drainage that consistently produce wines of refinement and complexity. The estate practices sustainable viticulture with careful canopy management and selective harvesting, maintaining yields that favor concentration over quantity. Ducru-Beaucaillou's winemaking prioritizes natural phenolic ripeness, traditional maceration, and restrained use of new oak—roughly 50-60% new barrels—to let the wine's mineral, black-currant core shine rather than overwhelming it with oak spice. The flagship **Saint-Julien** (typically $75–120 in secondary market; recent vintages 2018–2023 consistently scoring 93–99 from major critics) represents one of the Left Bank's finest values for age-worthy, food-friendly classed-growth. The wine is structured for 20–40 year cellaring; younger vintages (1990s and older) are showing beautifully with decades of potential remaining. William Kelley frequently references Ducru-Beaucaillou as a benchmark for traditional Left Bank elegance; the 2018 scored 99 points from James Suckling and 98 from Vinous, confirming the estate's continued quality and its status as a core Bordeaux reference for collectors seeking restraint and aging potential over immediate gratification.
 
 ## CSW Write-ups
 

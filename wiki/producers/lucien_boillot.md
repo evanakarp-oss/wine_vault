@@ -36,7 +36,9 @@ _sources: ["raeders_compile_curated:2026-04-25"]
 
 # Lucien Boillot
 
-_Created from Raeders compile pass — LLM-curated as a notable terroir-driven producer worth tracking. Editorial summary still to be written._
+## Notes
+
+**Lucien Boillot** is a Gevrey-Chambertin (Côte de Nuits) Pinot Noir producer known for age-worthy, traditionally-styled reds that exemplify the region's mineral character and structured tannins. The domaine controls vineyards on Gevrey-Chambertin's limestone-clay soils, producing wines that emphasize terroir expression and natural phenolic development over new oak extraction. Traditional Burgundy winemaking approach emphasizes native yeast fermentation, extended maceration for tannin structure, and aging in moderately oaked barrels (balanced new/neutral) to preserve the wine's mineral and red-fruit complexity. Raeders tracks 9 cuvée/vintage entries ranging $89.99–$149.99, reflecting consistent quality across village-level and 1er Cru bottlings. Kermit Lynch's representation confirms import priority among serious Burgundy collectors. The estate's Gevrey-Chambertin focus, terroir-driven Pinot Noir, and traditional winemaking align with Evan's documented Burgundy taste filter (age-worthy, terroir-focused, structured reds).
 
 ## CSW Write-ups
 

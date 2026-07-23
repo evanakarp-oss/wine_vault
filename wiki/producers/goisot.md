@@ -33,7 +33,9 @@ _sources: ["dte_jsx:dte_wines_1.jsx"]
 
 # Goisot
 
-_Seeded from Down to Earth (Panzer) portfolio. Not yet covered in CSW archive sweep._
+## Notes
+
+**Goisot** is a Burgundy producer known for distinctive white wines from cool-climate sites, particularly Aligoté and other mineral-driven Burgundy whites that offer excellent value and terroir expression. The domaine cultivates vineyard parcels on limestone-clay soils characteristic of Burgundy's white-wine regions, producing wines that emphasize natural acidity and mineral precision through restrained yields and minimal intervention. Winemaking emphasizes native yeast fermentation, careful oak aging (primarily neutral or older vessels), and minimal sulfite additions to preserve aromatic purity and natural minerality. DTE portfolio tracks 7 cuvée/vintage entries ranging $25–$39, indicating excellent accessibility and value for quality Burgundy whites. CSW's Aligoté article signals growing recognition of the estate's distinctive white-wine focus. Polaner's representation confirms import priority among specialists in quality, affordable Burgundy. The estate's focus on mineral-driven Burgundy whites and terroir expression aligns with Evan's documented Burgundy taste filter (terroir-driven, value-focused, white-wine specialty).
 
 ## CSW Write-ups
 

@@ -60,7 +60,9 @@ berserkers_kelley_body:
 
 # Clos du Mont Olivet
 
-_Seeded from Down to Earth (Panzer) portfolio. Not yet covered in CSW archive sweep._
+## Notes
+
+**Clos du Mont Olivet** is a Châteauneuf-du-Pape producer in the Southern Rhône whose reputation rests on its historical significance as a classic estate producing traditional, age-worthy expressions of the appellation—though William Kelley's Berserkers commentary suggests the domaine's quality trajectory may have peaked in earlier decades, with the critic noting "Pre-2009, so would have been Clos du Mont Olivet" as a favorite, implying diminished current standing. The estate controls vineyard parcels on classic Châteauneuf-du-Pape terroirs (including the renowned "Mont Olivet" hillside location with red soils and galets roulés), producing Grenache-based blends that historically emphasized structure and aging potential. Winemaking follows traditional Châteauneuf-du-Pape methods: natural pest management, hand harvesting, native yeast fermentation, and aging in older barrels (avoiding excessive new oak) to preserve the wine's red-fruit and mineral character. The flagship **Châteauneuf-du-Pape Cuvée du Papet** (2015 vintage tracked at $69 per DTE; likely $55–80 for current releases) represents the estate's core expression, though current collector interest appears modest relative to competing Châteauneuf-du-Pape producers. Berserkers references are limited (two posts by William Kelley, 2016–2019, with no recent collector mentions), suggesting reduced cultural momentum compared to peer estates. Historical context indicates Clos du Mont Olivet produced fine wines worthy of cellaring through the 2000s, with some older bottles carrying Skurnik's "Sélections Reflets" late-release designation (possibly released under winery hold for extended aging). The estate merits consideration for mature, historical bottles; current releases may offer value as secondary-market alternatives to higher-priced Châteauneuf-du-Pape peers.
 
 ## CSW Write-ups
 
