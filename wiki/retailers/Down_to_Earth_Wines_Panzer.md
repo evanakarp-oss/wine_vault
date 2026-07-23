@@ -89,9 +89,9 @@ updated: 2026-07-23
 | [[agrapart|Agrapart]] | France | Champagne | 2 | 9 |
 | [[albert_morot|Albert Morot]] | France | Burgundy | 2 | — |
 | [[alvina_pernot|Alvina Pernot]] | France | Burgundy | 2 | — |
-| [[bernard_baudry|Bernard Baudry]] | France | Loire | 2 | 20 |
 | [[chateau_de_la_maltroye|Château de la Maltroye]] | France | Burgundy | 2 | — |
 | [[desvignes|Desvignes]] | France | Beaujolais | 2 | 13 |
+| [[domaine_baudry|Domaine Baudry]] | France | Loire | 2 | 45 |
 | [[domenico_clerico|Domenico Clerico]] | Italy | Piedmont | 2 | 1 |
 | [[guillot_broux|Guillot-Broux]] | France | Burgundy | 2 | 3 |
 | [[ilarria|Ilarria]] | France | Basque (Irouléguy) | 2 | 5 |

@@ -35,7 +35,7 @@ Columns: ★ dedicated · total CSW articles · year span · also at retailers �
 | [[magnien|Magnien]] | '' (France) | 5 | 8 | 2012–2025 | — | ✓ | — |
 | [[chandon_de_briailles|Chandon de Briailles]] | Savigny / Pernand / Corton (France) | 5 | 7 | 2007–2025 | ✓ | — | — |
 | [[jane_et_sylvain|Jane et Sylvain]] | Gevrey-Chambertin (France) | 5 | 5 | 2014–2019 | — | — | — |
-| [[bernard_baudry|Bernard Baudry]] | Loire (France) | 4 | 20 | 2007–2026 | — | ✓ | — |
+| [[domaine_baudry|Bernard Baudry]] | Loire (France) | 4 | 20 | 2007–2026 | — | ✓ | — |
 | [[tissot|Tissot]] | '' (France) | 4 | 18 | 2012–2025 | — | ✓ | — |
 | [[immich-batterieberg|Immich-Batterieberg]] | '' (Germany) | 4 | 14 | 2011–2025 | — | — | — |
 | [[desvignes|Desvignes]] | '' (France) | 4 | 13 | 2007–2025 | — | ✓ | — |

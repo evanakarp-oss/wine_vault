@@ -1373,3 +1373,28 @@ potential."
   22 → 131. Report at `build/aging_backfill_report.md`. lint 0, index no-drift.
 - **Follow-up flagged:** `bernard_baudry` and `domaine_baudry` are the same
   producer (both now score 13) — duplicate page, candidate for merge.
+
+## [2026-07-23] merge | bernard_baudry → domaine_baudry (duplicate producer)
+
+`bernard_baudry` (DTE-seeded stub, 20 CSW articles, sustainable/traditional) and
+`domaine_baudry` (canonical: 45 CSW articles, 20 dedicated, Polaner, organic,
+Berserkers + Kelley data, aging_score 13) were the same Chinon estate — Domaine
+Bernard & Matthieu Baudry. Surfaced by the 2026-07-23 aging-score backfill (both
+scored 13).
+
+- Canonical kept: `domaine_baudry` (richer, correct founding year 1975, organic).
+  Folded in the stub's only unique data: DTE portfolio (2× Chinon les Granges @
+  $20 → `retailers.dte` + body section), `appellations: [Chinon]`, merged aliases
+  (Bernard Baudry / Bernard & Matthieu Baudry / Baudry), `dte_jsx` source.
+- Deleted `wiki/producers/bernard_baudry.md`.
+- **Durability fix:** both `ingest_dte_jsx.py` and `ingest_fass.py` aliased
+  "baudry"/"bernard baudry" → `bernard_baudry`; repointed to `domaine_baudry` so a
+  future ingest folds into the canonical page instead of recreating the stub.
+- Repointed 6 inbound wikilinks (5 `_views/` pages + `domaine_guiberteau` shelf-mate
+  ref); deduped two views that listed both as distinct. Rollups + index + views
+  index regenerated (1096 pages, −1). lint 0.
+- `fix_vault_architecture.py` (completed one-shot) still references the old slug in
+  historical context — left as-is.
+- Incidental: the rollup regen also cleared pre-existing drift unrelated to Baudry
+  (Friuli-Venezia Giulia producer_count 68→67 from an earlier uncommitted deletion,
+  + importer-page YAML key ordering) so index and rollups agree on true disk state.

@@ -163,7 +163,7 @@ DECISION = {
     # --- Basque ---
     "ilarria": 5,
     # --- Loire ---
-    "bernard_baudry": 13,  # NB: same producer as domaine_baudry (score 13) — duplicate page, flag for merge
+    # bernard_baudry merged into domaine_baudry (2026-07-23) — domaine_baudry keeps its primer score 13
     "boulay": 5,
 }
 

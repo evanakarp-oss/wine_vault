@@ -101,7 +101,7 @@ Sorted by CSW ★ to surface the highest-conviction "WK silent" picks first.
 | [[domaine_pierre_andre|Domaine Pierre André]] | Gigondas / Châteauneuf (France) | 5 | 12 | 2012–2025 | — | biodynamic |
 | [[produttori_del_barbaresco|Produttori del Barbaresco]] | Barbaresco (Italy) | 5 | 10 | 2012–2025 | R |  |
 | [[jane_et_sylvain|Jane et Sylvain]] | Gevrey-Chambertin (France) | 5 | 5 | 2014–2019 | — | organic |
-| [[bernard_baudry|Bernard Baudry]] | Loire | 4 | 20 | 2007–2026 | D |  |
+| [[domaine_baudry|Bernard Baudry]] | Loire | 4 | 20 | 2007–2026 | D |  |
 | [[immich-batterieberg|Immich-Batterieberg]] | Enkirch (Germany) | 4 | 14 | 2011–2025 | — | biodynamic |
 | [[clos_du_joncuas|Clos du Joncuas]] | Gigondas (France) | 4 | 10 | 2014–2025 | — | biodynamic |
 | [[enderle__moll|Enderle & Moll]] | Baden | 4 | 7 | 2012–2025 | — | biodynamic |

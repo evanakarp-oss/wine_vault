@@ -2,11 +2,11 @@
 type: producer
 name: Domaine Baudry
 slug: domaine_baudry
-aliases: ["Domaine Baudry", "Matthieu Baudry"]
+aliases: ["Domaine Baudry", "Domaine Bernard Baudry", "Bernard Baudry", "Bernard & Matthieu Baudry", "Matthieu Baudry", "Baudry"]
 country: France
 region: Loire
 sub_region: Chinon
-appellations: []
+appellations: ["Chinon"]
 farming:
 - organic
 certifications: []
@@ -22,10 +22,10 @@ retailers:
     aging_score: 13
     cellar_pick: true
   dte:
-    in_portfolio: false
-    cuvee_count: 0
-    price_min: 0
-    price_max: 0
+    in_portfolio: true
+    cuvee_count: 2
+    price_min: 20
+    price_max: 20
   raeders:
     in_portfolio: false
   fass:
@@ -49,6 +49,7 @@ community:
 tags: []
 _sources:
 - short:short__Domaine_Baudry.md
+- dte_jsx:dte_wines_1.jsx
 ---
 
 # Domaine Baudry
@@ -321,7 +322,12 @@ _sources:
 
 ## Down to Earth Wines (Panzer)
 
-_Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
+Currently tracked: **2 cuvée/vintage entries**; prices $20–$20.
+
+| Cuvée | Vintage | Price |
+|---|---|---|
+| Chinon les Granges | 2019 | $20 |
+| Chinon les Granges | 2021 | $20 |
 
 ## Raeder's
 

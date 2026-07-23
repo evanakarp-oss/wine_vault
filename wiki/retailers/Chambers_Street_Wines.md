@@ -4,15 +4,15 @@ name: "Chambers Street Wines"
 slug: chambers
 url: "https://chambersstwines.com"
 location: "NYC"
-producer_count: 199
+producer_count: 198
 updated: 2026-07-23
-tags: []
 _source: wiki/_resources.md
+tags: []
 ---
 # Chambers Street Wines
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**199 producers** from this retailer are tracked in the wiki.
+**198 producers** from this retailer are tracked in the wiki.
 
 ## Most-championed producers
 
@@ -38,7 +38,6 @@ _source: wiki/_resources.md
 | [[willi_schaefer|Willi Schaefer]] | 5 | 9 | 2013 | 2025 |
 | [[chandon_de_briailles|Chandon de Briailles]] | 5 | 7 | 2007 | 2025 |
 | [[jane_et_sylvain|Jane et Sylvain]] | 5 | 5 | 2014 | 2019 |
-| [[bernard_baudry|Bernard Baudry]] | 4 | 20 | 2007 | 2026 |
 | [[immich-batterieberg|Immich-Batterieberg]] | 4 | 14 | 2011 | 2025 |
 | [[desvignes|Desvignes]] | 4 | 13 | 2007 | 2025 |
 | [[domaine_de_montille|Domaine de Montille]] | 4 | 11 | 2012 | 2025 |
@@ -68,6 +67,7 @@ _source: wiki/_resources.md
 | [[ferme_saint-martin|Ferme Saint-Martin]] | 3 | 4 | 2015 | 2025 |
 | [[chateau_musar|Chateau Musar]] | 3 | 3 | 2013 | 2022 |
 | [[dard__ribo|Dard & Ribo]] | 3 | 3 | 2024 | 2025 |
+| [[jean_francois_ganevat|Jean-François Ganevat]] | 2 | 12 | 2010 | 2025 |
 
 *Compiled by `scripts/build_rollups.py`.*
 <!-- END AUTO-GENERATED -->

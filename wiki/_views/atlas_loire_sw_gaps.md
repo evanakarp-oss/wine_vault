@@ -22,7 +22,7 @@ Companion editorial pages:
 | Producer | Sub-region | Atlas confirms |
 |---|---|---|
 | [[domaine_baudry\|Domaine Baudry]] | Chinon | ✓ (Cravant-les-Coteaux) |
-| [[bernard_baudry\|Bernard Baudry]] | Chinon | ✓ (Cravant-les-Coteaux) |
+| [[domaine_baudry\|Bernard Baudry]] | Chinon | ✓ (Cravant-les-Coteaux) |
 | [[domaine_de_la_chevalerie\|Domaine de la Chevalerie]] | Bourgueil | ✓ (Restigné) |
 | [[stephane_guion\|Stéphane Guion]] | Bourgueil | ✓ (Benais) |
 | [[clos_rougeard\|Clos Rougeard]] | Saumur-Champigny | ✓ (Chacé) |

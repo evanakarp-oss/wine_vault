@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 1391
+total_pages: 1390
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**1391 pages indexed.**
+**1390 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -41,12 +41,12 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Corsica_Producers|Corsica Producers]] — **1 producers** tracked.
 - [[Emilia-Romagna_Producers|Emilia-Romagna Producers]] — **17 producers** tracked.
 - [[Franken_Producers|Franken Producers]] — **3 producers** tracked.
-- [[Friuli-Venezia_Giulia_Producers|Friuli-Venezia Giulia Producers]] — **68 producers** tracked.
+- [[Friuli-Venezia_Giulia_Producers|Friuli-Venezia Giulia Producers]] — **67 producers** tracked.
 - [[Jujuy_Producers|Jujuy Producers]] — **2 producers** tracked.
 - [[Jura_Producers|Jura Producers]] — **14 producers** tracked.
 - [[Lazio_Producers|Lazio Producers]] — **19 producers** tracked.
 - [[Liguria_Producers|Liguria Producers]] — **17 producers** tracked.
-- [[Loire_Producers|Loire Producers]] — **40 producers** tracked.
+- [[Loire_Producers|Loire Producers]] — **39 producers** tracked.
 - [[Lombardy_Producers|Lombardy Producers]] — **32 producers** tracked.
 - [[Marche_Producers|Marche Producers]] — **21 producers** tracked.
 - [[Mendoza_Producers|Mendoza Producers]] — **62 producers** tracked.
@@ -291,7 +291,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_826 producers across 50 regions._
+_825 producers across 50 regions._
 
 ### Abruzzo
 
@@ -775,14 +775,13 @@ _826 producers across 50 regions._
 ### Loire
 
 - [[benoit_courault|Benoit Courault]] — Loire / Anjou · organic, natural · CSW ★3/11
-- [[bernard_baudry|Bernard Baudry]] — Loire / Chinon · sustainable, traditional · CSW ★4/20 · DTE 2
 - [[boulay|Boulay]] — Loire · CSW 2 · DTE 1
 - [[catherine_pierre_breton|Catherine & Pierre Breton]] — Loire / Bourgueil / Chinon (Restigné) · organic, biodynamic · CSW ★1/2
 - [[charles_joguet|Charles Joguet]] — Loire / Chinon (Sazilly) · organic
 - [[chateau_de_coulaine|Chateau de Coulaine]] — Loire / Cravant-les-Côteaux · organic, biodynamic
 - [[clos_rougeard|Clos Rougeard]] — Loire / Saumur-Champigny · natural · CSW ★2/11
 - [[couly_dutheil|Couly-Dutheil]] — Loire / Chinon
-- [[domaine_baudry|Domaine Baudry]] — Loire / Chinon · organic · CSW ★20/45
+- [[domaine_baudry|Domaine Baudry]] — Loire / Chinon · organic · CSW ★20/45 · DTE 2
 - [[domaine_charles_joguet|Domaine Charles Joguet]] — Loire / Chinon · organic
 - [[domaine_de_la_butte|Domaine de la Butte]] — Loire / Bourgueil
 - [[domaine_de_la_chevalerie|Domaine de la Chevalerie]] — Loire / Bourgueil · organic · CSW ★5/15

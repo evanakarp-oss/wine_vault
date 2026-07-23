@@ -26,8 +26,8 @@ REPORT = VAULT / "build" / "fass_ingest_report.md"
 # Explicit aliases for FASS producer names → wiki slug. Extend as mismatches
 # surface in the report.
 FASS_ALIASES: dict[str, str] = {
-    "baudry": "bernard_baudry",
-    "bernard baudry": "bernard_baudry",
+    "baudry": "domaine_baudry",
+    "bernard baudry": "domaine_baudry",
     "matthieu baudry": "matthieu_baudry",
     # --- 2026-07-22 batch: 12 onboarded from the triage + Gmail offers ---
     "jean michel stephan": "jean_michel_stephan",

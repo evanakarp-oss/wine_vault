@@ -69,8 +69,8 @@ Chinon / Bourgueil / Saumur-Champigny: cool-climate Cab Franc, terroir-transpare
 built to age. You own only a bulk De Negoce bottle — a genuine hole given how
 heavily CSW champions these:
 
-- [[bernard_baudry|Bernard Baudry]] & [[domaine_baudry|Domaine Baudry]] — Chinon
-  across limestone/gravel cuvées (Les Grézeaux, La Croix Boissée); 45 + 20 CSW articles.
+- [[domaine_baudry|Domaine Bernard Baudry]] — Chinon
+  across limestone/gravel cuvées (Les Grézeaux, La Croix Boissée); 45 CSW articles.
 - [[domaine_de_la_chevalerie|Domaine de la Chevalerie]] & [[stephane_guion|Stéphane Guion]] — old-vine Bourgueil, organic.
 - [[clos_rougeard|Clos Rougeard]] — Saumur-Champigny's grail (Le Bourg, Les Poyeux); buy on sight if priced sanely.
 

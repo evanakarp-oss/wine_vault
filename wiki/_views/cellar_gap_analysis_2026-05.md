@@ -65,8 +65,7 @@ producer in the entire vault (45 articles, 20 dedicated ★) and you own zero
 bottles. This is the single biggest cellar-vs-CSW mismatch.
 
 **Acquisition targets** (Cab Franc, Chinon/Bourgueil):
-- ✓ [[domaine_baudry|Domaine Baudry]] — Le Clos Guillot, Les Grézeaux (top priority)
-- ✓ [[bernard_baudry|Bernard Baudry]] (separate from Domaine Baudry — verify)
+- ✓ [[domaine_baudry|Domaine Bernard Baudry]] — Le Clos Guillot, Les Grézeaux (top priority; the former `bernard_baudry` stub was merged here 2026-07-23 — same producer)
 - ✗ Stéphane Guion (Bourgueil) — also CSW-championed (`stephane_guion` page exists per gap view, 9 ★ articles)
 
 **Acquisition targets** (Chenin):

@@ -70,7 +70,7 @@ them. Use if you're placing a CSW order anyway.
 
 | Producer | ★ | Also at |
 |---|---:|---|
-| [[bernard_baudry\|Bernard Baudry]] | 4 | DTE |
+| [[domaine_baudry\|Bernard Baudry]] | 4 | DTE |
 | [[chandon_de_briailles\|Chandon de Briailles]] | 5 | Raeders |
 | [[produttori_del_barbaresco\|Produttori del Barbaresco]] | 5 | Raeders |
 | [[giacomo_conterno\|Giacomo Conterno]] | 2 | Raeders |

@@ -35,8 +35,8 @@ REPORT = VAULT / "build" / "dte_ingest_report.md"
 # Explicit aliases for DTE producer names → wiki slug (when normalization alone wouldn't match).
 # Extend as we discover mismatches. Lowercase keys.
 DTE_ALIASES: dict[str, str] = {
-    "baudry": "bernard_baudry",
-    "bernard baudry": "bernard_baudry",
+    "baudry": "domaine_baudry",
+    "bernard baudry": "domaine_baudry",
     # Add more as needed after report.
 }
 

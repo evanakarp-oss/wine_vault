@@ -2,17 +2,16 @@
 type: region_index
 region: "Loire"
 updated: 2026-07-23
-producer_count: 40
+producer_count: 39
 ---
 
 # Loire — Producer Index
 
-**40 producers** tracked.
+**39 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
-| [[domaine_baudry|Domaine Baudry]] | France | Chinon | 45 | — | — | — | — |
-| [[bernard_baudry|Bernard Baudry]] | France | Chinon | 20 | 2 | — | — | — |
+| [[domaine_baudry|Domaine Baudry]] | France | Chinon | 45 | 2 | — | — | — |
 | [[stephane_guion|Stéphane Guion]] | France | Bourgueil | 17 | — | — | — | — |
 | [[domaine_de_la_chevalerie|Domaine de la Chevalerie]] | France | Bourgueil | 15 | — | — | — | — |
 | [[benoit_courault|Benoit Courault]] | France | Anjou | 11 | — | — | — | — |
