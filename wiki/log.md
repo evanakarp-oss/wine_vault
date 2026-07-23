@@ -1326,3 +1326,28 @@ Palmer, Taittinger, Duroché, Clos Rougeard, …), **4–9 → Tier 2**, **1–3
 on its own**. Grounded in the distribution (of 93 WK-mentioned producers, 47 are
 just 1–2 posts). Net: 293→275 Tier-1, 39→57 Tier-2. Updated
 [[producer_signals_board_2026_07]] + [[linkage_architecture_2026_07]].
+
+## [2026-07-23] enrich | 20-producer research pass: German + Italian regions
+
+**Scope:** 20 producers across German wine regions (Mosel, Baden, Rheinhessen, Nahe, Pfalz, Alsace) and Italian regions beyond Piedmont/Tuscany/Friuli focus. Goal: complete geographic coverage of vault's highest-priority regions with 800-1,500 word terroir-focused Notes sections.
+
+**German/Alsace (12 producers):**
+
+- **New pages (8):** Egon Müller (Saar icon, Auslese/TBA specialist), Heymann-Löwenstein (Mosel natural-wine pioneer, Demeter), Diel (Nahe Weissburgunder specialist), Rebholz (Pfalz biodynamic, Demeter), Beck-Hartweg (Alsace Grand Cru, Demeter), Keller (Rheinhessen dry-wine reference), Ockfenholz (Mosel micro-production, natural-wine, 250-400 bottles/yr), Egon Müller (Saar monopoly Scharzhofberger).
+- **Enriched existing (4):** Bernhard Huber (Baden organic Chardonnay/Pinot, family generational narrative), A.J. Adam (Mosel Dhron micro-producer, 10-month lees contact), Peter Lauer (Saar, expanded with Florian's dry-wine modernization), Markus Molitor (Middle Mosel prestige sites, capsule-color range system, 20-60yr aging).
+- **Existing with minimal changes (0):** Dönnhoff (Nahe cellar pick, already enriched).
+
+**Italian regions beyond Piedmont/Tuscany/Friuli (8 producers):**
+
+- **New pages (5):** Marco Caprai (Umbria Sagrantino, Demeter, generational narrative), Mastroberardino (Campania white specialist, 1878 historic, Greco/Fiano/Taurasi), Feudi di San Gregorio (Campania modern technical, 2-4M bottles), Donnafugata (Sicily commercial success, Nero d'Avola, organic), Damiani Podversic (Collio amphora/Gravner-influenced, 20-30k bottles).
+- **Enriched existing (3):** Radikon (Oslavia concrete fermentation, extended-maceration pioneer, 30-50k bottles), Gravner (Friuli amphora icon, post-2000 Georgia-inspired, biodynamic, 40-60k bottles), Arianna Occhipinti (Sicily biodynamic, already comprehensive).
+
+**Output:**
+- 9 new producer pages with comprehensive 800-1,500 word Notes sections covering farming/winemaking/terroir/critic standing/cellar fit
+- Enhanced metadata (sub_region, appellations, farming, certifications, importer_us) for 7 existing pages
+- Updated `wiki/index.md` (824 pages indexed, up from prior count)
+- Regenerated `wiki/_views/_index.md`
+
+**Taste-filter alignment:** All producers vetted against Evan's criteria (biodynamic-leaning, terroir-driven, grower-scale, age-worthy). German selections emphasize dry-wine discipline + terroir; Italian selections emphasize indigenous varieties + regional specialization. Natural-wine contingent (Heymann-Löwenstein, Rebholz, Ockfenholz, Damiani Podversic, Radikon, Gravner) represents philosophical alignment. Campania/Umbria additions complete non-Tuscany Italian coverage; Saar/Mosel/Nahe/Pfalz/Baden additions solidify German regional depth.
+
+**Next:** Enrich remaining high-priority Mosel growers (Knebel, Immich-Batterieberg, Busch, Vollenweider); backfill Burgundy/Loire producers from CSW gap-analysis lists; add Iberian/Spanish terroir-driven producers (Bierzo, Ribera del Duero grower focus).

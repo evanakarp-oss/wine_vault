@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 1106
+total_pages: 1118
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**1106 pages indexed.**
+**1118 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -274,7 +274,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_558 producers across 40 regions._
+_570 producers across 42 regions._
 
 ### Abruzzo
 
@@ -284,6 +284,7 @@ _558 producers across 40 regions._
 
 - [[agathe_bursin|Agathe Bursin]] — Alsace · DTE 1
 - [[beck-hartweg|Beck-Hartweg]] — Alsace / Dambach-la-Ville (Bas-Rhin) · organic, biodynamic-aligned · CSW ★4/4
+- [[beck_hartweg|Beck-Hartweg]] — Alsace / Pfaffenheim · biodynamic
 - [[dirler_cade|Dirler Cadé]] — Alsace · DTE 5
 - [[kientzler|Kientzler]] — Alsace · DTE 1
 - [[laurent_barth|Laurent Barth]] — Alsace / Bennwihr · biodynamic, natural · CSW ★3/5
@@ -478,6 +479,11 @@ _558 producers across 40 regions._
 - [[sine_qua_non|Sine Qua Non]] — California / Ventura / Central Coast · organic · Raeder 7
 - [[vine_hill_ranch|VHR, Vine Hill Ranch]] — California / Napa Valley (Oakville) · sustainable
 
+### Campania
+
+- [[feudi_di_san_gregorio|Feudi di San Gregorio]] — Campania / Sorbo Serpico (Avellino) · sustainable
+- [[mastroberardino|Mastroberardino]] — Campania / Atripalda (Avellino) · sustainable · CSW 1
+
 ### Catalonia
 
 - [[mata_i_coloma|Mata I Coloma]] — Catalonia · DTE 3
@@ -527,6 +533,7 @@ _558 producers across 40 regions._
 - [[castelvecchio|Castelvecchio]] — Friuli-Venezia Giulia / Carso (Sagrado)
 - [[colle_duga|Colle Duga]] — Friuli-Venezia Giulia / Collio (Zegla, Cormons)
 - [[cosco_gravar|Cosco Gravar]] — Friuli-Venezia Giulia / Collio Goriziano
+- [[damiani_podversic|Damiani Podversic]] — Friuli-Venezia Giulia / Collio (Gorizia) · biodynamic, natural
 - [[damijan_podversic|Damijan Podversic]] — Friuli-Venezia Giulia / Collio (Gorizia / Monte Calvario) · organic, natural
 - [[dario_coos|Dario Coos]] — Friuli-Venezia Giulia / Colli Orientali (Nimis / Ramandolo)
 - [[dario_princic|Dario Princic]] — Friuli-Venezia Giulia / Collio (Oslavia) · organic, natural
@@ -744,14 +751,17 @@ _558 producers across 40 regions._
 - [[aj_adam|A.J. Adam]] — Mosel / Dhron (Lower Mosel) · organic, biodynamic-aligned · CSW ★1/4
 - [[alex_loersch|Alex Loersch]] — Mosel · DTE 3
 - [[clemens_busch|Clemens Busch]] — Mosel / Pünderich · biodynamic · CSW ★5/20
+- [[egon_muller|Egon Müller]] — Mosel / Saar (Wiltingen) · sustainable
+- [[heymann_lowenstein|Heymann-Löwenstein]] — Mosel / Winningen (Lower Mosel) · organic, biodynamic · CSW ★1/3
 - [[hofgut_falkenstein|Hofgut Falkenstein]] — Mosel / Saar (Konz) · CSW ★6/12
 - [[immich-batterieberg|Immich-Batterieberg]] — Mosel / Enkirch · biodynamic · CSW ★4/14
 - [[joh_jos_prum|Joh. Jos. Prüm]] — Mosel / Wehlen · FASS
 - [[knebel|Knebel]] — Mosel / Winningen · CSW ★3/16
-- [[markus_molitor|Markus Molitor]] — Mosel · FASS
+- [[markus_molitor|Markus Molitor]] — Mosel / Zeltingen (Middle Mosel) · sustainable · FASS
 - [[martin_muellen|Martin Müllen]] — Mosel / Traben-Trarbach · FASS
 - [[max_ferdinand_richter|Max Ferdinand Richter]] — Mosel · DTE 17
 - [[melsheimer|Melsheimer]] — Mosel · CSW 1 · DTE 3
+- [[ockfenholz|Ockfenholz]] — Mosel / Ockfen · organic, biodynamic-aligned
 - [[peter_lauer__weingut_lauer|Peter Lauer / Weingut Lauer]] — Mosel / Saar
 - [[richter|Richter]] — Mosel · DTE 11
 - [[steinmetz|Steinmetz]] — Mosel · CSW 9 · DTE 37
@@ -766,6 +776,7 @@ _558 producers across 40 regions._
 
 ### Nahe
 
+- [[diel|Diel]] — Nahe / Bad Kreuznach · sustainable · CSW 2
 - [[donnhoff|Dönnhoff]] — Nahe · CSW ★2/10
 - [[emrich_schonleber|Emrich-Schönleber]] — Nahe · organic · CSW ★2/3
 - [[gut_hermannsberg|Gut Hermannsberg]] — Nahe · FASS
@@ -791,6 +802,7 @@ _558 producers across 40 regions._
 ### Pfalz
 
 - [[mosbacher|Mosbacher]] — Pfalz · DTE 1
+- [[rebholz|Rebholz]] — Pfalz / Siebeldingen · biodynamic, organic
 - [[rings|Rings]] — Pfalz / Freinsheim · CSW 1 · DTE 2
 
 ### Piedmont
@@ -836,6 +848,7 @@ _558 producers across 40 regions._
 
 ### Rheinhessen
 
+- [[keller|Keller]] — Rheinhessen / Flörsheim-Dalsheim · sustainable, organic
 - [[wagner_stempel|Wagner Stempel]] — Rheinhessen · DTE 3
 
 ### Rhône
@@ -904,6 +917,7 @@ _558 producers across 40 regions._
 
 - [[arianna_occhipinti|Arianna Occhipinti]] — Sicily / Vittoria · organic, biodynamic · CSW ★2/4 · Raeder 1
 - [[bonavita|Bonavita]] — Sicily / Faro (Messina) · organic, natural · CSW ★2/3
+- [[donnafugata|Donnafugata]] — Sicily / Marsala (Trapani) · sustainable, organic
 - [[feudo_montoni|Feudo Montoni]] — Sicily · organic · CSW ★2/3 · Raeder 7
 - [[frank_cornelissen|Frank Cornelissen]] — Sicily / Etna · natural · CSW ★2/6
 - [[gulfi|Gulfi]] — Sicily / Vittoria · CSW 4 · DTE 7
@@ -931,6 +945,10 @@ _558 producers across 40 regions._
 - [[stella_di_campalto|Stella di Campalto]] — Tuscany / Montalcino · organic, biodynamic
 - [[tenuta_di_carleone|Tenuta di Carleone]] — Tuscany / Chianti Classico · DTE 8
 - [[val_delle_corti|Val Delle Corti]] — Tuscany / Chianti Classico
+
+### Umbria
+
+- [[marco_caprai|Marco Caprai]] — Umbria / Montefalco · organic, biodynamic
 
 ### Valle d'Aosta
 

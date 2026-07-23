@@ -180,8 +180,88 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Notes
+
+**Peter Lauer / Weingut Lauer** represents the exemplary modern Saar Riesling estate: a multi-generational grower (Peter Lauer family) transitioning under **Florian Lauer**'s leadership toward increasingly sophisticated, dry-wine production while maintaining traditional quality standards and deep respect for Saar terroir. Florian's wines embody a new generation's approach to German Riesling: purist in method, precise in execution, uncompromising in quality.
+
+## Saar Terroir & Complexity
+
+The Saar (a tributary of the Mosel) occupies the southernmost, coldest reaches of the Mosel wine region, creating conditions for high-acidity, mineral-driven Rieslings of remarkable finesse. Peter Lauer's vineyard holdings include some of Saar's most respected sites:
+
+- **Falkenstein vineyard** — a steep south-facing slope with ancient slate soils; produces the estate's most elegant, mineral-driven expressions
+- **Kupp vineyard** — another prestigious Saar site; warmer microclimate yielding riper fruit expressions
+- **Lower Saar positions** — holdings in the middle and lower Saar valleys, all limestone/slate dominant geology
+
+The Saar's cool climate means that fully ripe fruit is a challenge; traditional Saar winemakers often retained some residual sugar to ensure ripeness and balance. Florian's generation has shifted toward full dry fermentation, relying on low yields and careful vineyard management to achieve ripeness without requiring sugar retention.
+
+## Florian Lauer's Leadership & Modernization
+
+**Florian Lauer** assumed control of the family winery in the 1990s-2000s and has gradually shifted the estate toward:
+
+- **Dry-wine production** — Florian fermenting to complete dryness, unlike some traditional Saar producers
+- **Minimal intervention cellar** — reduction of sulfites, minimal handling, respect for natural processes
+- **Selective production** — narrowing the portfolio to focus on the finest terroirs and vintages
+- **Innovation in packaging** — experimentation with alternative closures, vessels, and presentation
+
+This modernization has not been radical departure; instead, it represents evolution of family traditions toward contemporary standards.
+
+## Winemaking: Dry Saar Riesling Excellence
+
+Florian's winemaking emphasizes **dry Riesling of remarkable purity and mineral expression**:
+
+**Fermentation & Cellar:**
+- **Cool, slow fermentation** with controlled temperatures
+- **Wild yeast fermentation** preferred when possible
+- **Extended lees contact** — wines spend months on fine lees, developing autolytic complexity
+- **Minimal oak aging** — stainless steel or old-cask maturation preserves mineral character
+- **Dry fermentation to completion** — fermentation continues to near-total dryness (< 5 g/L residual sugar)
+
+**Style:** Peter Lauer/Florian's Rieslings emphasize slate minerality, white flowers, green fruit, and brilliant acidity. The dry-wine discipline creates wines that are both elegant (in youth) and complex (with age). Acidity is prominent but balanced, never harsh or bitter.
+
+## Special Bottlings & Innovation
+
+Florian has experimented with distinctive bottling formats:
+
+- **"Fass" series** — bottlings identified by cask number, reflecting minimal intervention approach and natural variation
+- **"Extra Trocken" (Extra Dry)** — selections of the driest, most mineral expressions
+- **Sekt (sparkling)** — recent production of high-quality Riesling Sekt using traditional methods
+
+These experimental bottlings reflect Florian's willingness to innovate while respecting tradition.
+
+## Production Scale & Economics
+
+Peter Lauer produces approximately 100,000-150,000 bottles annually — modest enough for personal oversight, yet large enough for international distribution.
+
+## Critical Reception & Reputation
+
+Peter Lauer has achieved strong critical recognition, particularly under Florian's leadership:
+- CSW articles dating to 2013 indicate long-standing relationship and appreciation
+- Strong presence in natural-wine and fine-wine markets
+- Reputation as one of Saar's most exciting younger producers
+- Recognition from importers (Skurnik, Theise networks) as a serious quality source
+
+The winery's combination of family tradition, Saar terroir prestige, and Florian's modernization make it an important reference point for contemporary German Riesling.
+
+## Regional Position: New-Generation Saar Leadership
+
+Florian Lauer exemplifies **Saar's new generation** — winemakers who inherit prestigious family vineyards but shift toward dry-wine discipline, minimal intervention, and contemporary quality standards. His position represents a philosophical evolution within the Saar: maintaining respect for terroir and tradition while embracing modern natural-wine methods.
+
+## Cellar Fit & Taste Alignment
+
+**Excellent fit.** Peter Lauer/Florian exemplifies:
+- **Terroir-driven:** Saar slate soils are expressed through careful, minimal-intervention winemaking
+- **Dry-wine discipline:** Complete fermentation to dryness emphasizes mineral purity
+- **Grower-scale:** Family vineyard ownership; modest production
+- **Ageability:** Dry Saar Rieslings demonstrate 25-40+ year aging potential
+- **Natural-wine philosophy:** Minimal sulfites, wild fermentation, unfined/unfiltered trends
+
+Florian's approach represents the philosophical center of Evan's taste parameters: terroir expression through dry-wine production, biodynamic-aligned practices (though not formally certified), and commitment to minimal intervention.
+
 ## Cross-references
 
 - [[Germany_Producers|Germany]]
-- [[Saar]]
+- [[Mosel_Producers|Mosel]]
+- [[Saar|Saar (region)]]
+- [[Skurnik|Skurnik (importer)]]
+- [[Theise|Terry Theise (importer)]]
 - [[CSW Article Archive]]
