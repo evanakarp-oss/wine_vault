@@ -2,46 +2,26 @@
 type: producer
 name: "Le Sincere"
 slug: le_sincere
+aliases: []
 country: "Italy"
 region: "Lombardy"
-sub_region: "Oltrepo Pavese"
-appellations: ["Lombardy", "Oltrepo Pavese DOC"]
-
+sub_region: "Chiaretto"
+appellations: []
 farming: []
 certifications: []
-
 importer_us: []
-
 retailers:
-  chambers:
-    championed: false
-    article_count: 0
-    dedicated_count: 0
-    first_year: 0
-    last_year: 0
-  dte:
-    in_portfolio: false
-    cuvee_count: 0
-    price_min: 0
-    price_max: 0
-  raeders:
-    in_portfolio: false
-  fass:
-    in_portfolio: false
-
-tags: ["lombardy", "oltrepo-pavese", "barbera", "italian-northern"]
-_sources:
-  - campanale_wine_book
+  chambers: {in_portfolio: false}
+  dte: {in_portfolio: false}
+  raeders: {in_portfolio: false}
+  fass: {in_portfolio: false}
+tags: []
+_sources: ["campanale_wine_book"]
 ---
 
 # Le Sincere
 
-Oltrepo Pavese-based producer in Lombardy. Known for Barbera and other northern Italian reds.
+Italian producer from Campanale wine book.
 
 ## Notes
 
-**Vault Status:** Stub profile from Joe Campanale's comprehensive Italian wine book.
-
-## Cross-references
-
-- [[Lombardy_Producers|Lombardy]]

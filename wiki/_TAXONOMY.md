@@ -72,6 +72,9 @@ Add new values here FIRST, then use them in producer files.
 - Colli Tortonesi
 - Emilia-Romagna
 - Umbria
+- Lazio
+- Molise
+- Apulia
 
 ### Spain
 - Catalonia

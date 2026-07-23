@@ -7,8 +7,8 @@ focus: ['Champagne']
 notable_producers: ['Pierre Peters']
 updated: 2026-07-23
 tags: []
-url: "https://www.grandcruselections.com"
 _source: wiki/_resources.md
+url: "https://www.grandcruselections.com"
 ---
 
 # Grand Cru Selections

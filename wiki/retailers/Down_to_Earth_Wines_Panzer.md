@@ -4,14 +4,14 @@ name: "Down to Earth Wines (Panzer)"
 slug: dte
 url: ""
 location: "NYC (import portfolio)"
-producer_count: 120
+producer_count: 118
 updated: 2026-07-23
 ---
 
 # Down to Earth Wines (Panzer)
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**120 producers** from this retailer are tracked in the wiki.
+**118 producers** from this retailer are tracked in the wiki.
 
 ## Producers in portfolio
 
@@ -45,7 +45,6 @@ updated: 2026-07-23
 | [[wwe_dr_h_thanisch|Wwe Dr H Thanisch]] | Germany | Mosel | 8 | — |
 | [[collestefano|Collestefano]] | Italy | Marche | 7 | — |
 | [[goisot|Goisot]] | France | Burgundy | 7 | 1 |
-| [[gulfi|Gulfi]] | Italy | Sicily | 7 | 4 |
 | [[marie_courtin|Marie Courtin]] | France | Champagne | 7 | — |
 | [[montenidoli|Montenidoli]] | Italy | Tuscany | 7 | 2 |
 | [[thanisch|Thanisch]] | Germany | Mosel | 7 | — |
@@ -130,7 +129,6 @@ updated: 2026-07-23
 | [[mosbacher|Mosbacher]] | Germany | Pfalz | 1 | — |
 | [[nathalie_falmet|Nathalie Falmet]] | France | Champagne | 1 | — |
 | [[petit_clergeot|Petit Clergeot]] | France | Champagne | 1 | — |
-| [[pian_dell_orino|Pian dell'Orino]] | Italy | Tuscany | 1 | — |
 | [[roty|Roty]] | France | Burgundy | 1 | — |
 | [[taupenot_merme|Taupenot-Merme]] | France | Burgundy | 1 | — |
 | [[urkizahar|Urkizahar]] | Spain | Basque Country | 1 | — |

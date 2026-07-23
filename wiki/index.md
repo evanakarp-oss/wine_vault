@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 1146
+total_pages: 1306
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**1146 pages indexed.**
+**1306 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -20,9 +20,10 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Region rollups
 
-- [[Abruzzo_Producers|Abruzzo Producers]] — **1 producers** tracked.
+- [[Abruzzo_Producers|Abruzzo Producers]] — **6 producers** tracked.
 - [[Alsace_Producers|Alsace Producers]] — **7 producers** tracked.
 - [[Alto_Adige_Sudtirol_Producers|Alto Adige Sudtirol Producers]] — **2 producers** tracked.
+- [[Apulia_Producers|Apulia Producers]] — **6 producers** tracked.
 - [[Baden_Producers|Baden Producers]] — **4 producers** tracked.
 - [[Basque_Country_Producers|Basque Country Producers]] — **1 producers** tracked.
 - [[Basque_Irouleguy_Producers|Basque Irouleguy Producers]] — **1 producers** tracked.
@@ -31,20 +32,23 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Bordeaux_Producers|Bordeaux Producers]] — **25 producers** tracked.
 - [[Burgundy_Producers|Burgundy Producers]] — **104 producers** tracked.
 - [[California_Producers|California Producers]] — **23 producers** tracked.
-- [[Campania_Producers|Campania Producers]] — **2 producers** tracked.
+- [[Campania_Producers|Campania Producers]] — **24 producers** tracked.
 - [[Catalonia_Producers|Catalonia Producers]] — **1 producers** tracked.
 - [[Champagne_Producers|Champagne Producers]] — **28 producers** tracked.
 - [[Colli_Tortonesi_Producers|Colli Tortonesi Producers]] — **1 producers** tracked.
 - [[Corsica_Producers|Corsica Producers]] — **1 producers** tracked.
+- [[Emilia-Romagna_Producers|Emilia-Romagna Producers]] — **17 producers** tracked.
 - [[Franken_Producers|Franken Producers]] — **3 producers** tracked.
 - [[Friuli-Venezia_Giulia_Producers|Friuli-Venezia Giulia Producers]] — **65 producers** tracked.
 - [[Jujuy_Producers|Jujuy Producers]] — **2 producers** tracked.
 - [[Jura_Producers|Jura Producers]] — **14 producers** tracked.
+- [[Lazio_Producers|Lazio Producers]] — **13 producers** tracked.
 - [[Liguria_Producers|Liguria Producers]] — **12 producers** tracked.
 - [[Loire_Producers|Loire Producers]] — **40 producers** tracked.
-- [[Lombardy_Producers|Lombardy Producers]] — **15 producers** tracked.
-- [[Marche_Producers|Marche Producers]] — **1 producers** tracked.
+- [[Lombardy_Producers|Lombardy Producers]] — **25 producers** tracked.
+- [[Marche_Producers|Marche Producers]] — **21 producers** tracked.
 - [[Mendoza_Producers|Mendoza Producers]] — **62 producers** tracked.
+- [[Molise_Producers|Molise Producers]] — **3 producers** tracked.
 - [[Mosel_Producers|Mosel Producers]] — **25 producers** tracked.
 - [[Nahe_Producers|Nahe Producers]] — **5 producers** tracked.
 - [[Oregon_Producers|Oregon Producers]] — **2 producers** tracked.
@@ -57,9 +61,10 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Ribera_del_Duero_Producers|Ribera Del Duero Producers]] — **1 producers** tracked.
 - [[Salta_Producers|Salta Producers]] — **5 producers** tracked.
 - [[San_Juan_Producers|San Juan Producers]] — **1 producers** tracked.
+- [[Sardinia_Producers|Sardinia Producers]] — **10 producers** tracked.
 - [[Savoie_Producers|Savoie Producers]] — **1 producers** tracked.
-- [[Sicily_Producers|Sicily Producers]] — **7 producers** tracked.
-- [[Tuscany_Producers|Tuscany Producers]] — **20 producers** tracked.
+- [[Sicily_Producers|Sicily Producers]] — **33 producers** tracked.
+- [[Tuscany_Producers|Tuscany Producers]] — **43 producers** tracked.
 - [[Umbria_Producers|Umbria Producers]] — **1 producers** tracked.
 - [[Valais_Producers|Valais Producers]] — **1 producers** tracked.
 - [[Valle_dAosta_Producers|Valle Daosta Producers]] — **15 producers** tracked.
@@ -278,11 +283,16 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_594 producers across 43 regions._
+_749 producers across 48 regions._
 
 ### Abruzzo
 
 - [[agricola_tiberio|Agricola Tiberio]] — Abruzzo · DTE 1
+- [[amorotti|Amorotti]] — Abruzzo / Abruzzo
+- [[cirelli|Cirelli]] — Abruzzo / Abruzzo
+- [[iole_rabasco|Iole Rabasco]] — Abruzzo / Abruzzo
+- [[tiberio|Tiberio]] — Abruzzo / Abruzzo
+- [[torre_dei_beati|Torre dei Beati]] — Abruzzo / Abruzzo
 
 ### Alsace
 
@@ -298,6 +308,15 @@ _594 producers across 43 regions._
 
 - [[josephus_mayr|Josephus Mayr]] — Alto Adige / Südtirol · DTE 1
 - [[pacherhof|Pacherhof]] — Alto Adige / Südtirol / Eisacktal · DTE 2
+
+### Apulia
+
+- [[cantina_pantun|Cantina Pantun]] — Apulia / Apulia
+- [[francesco_marra|Francesco Marra]] — Apulia / Apulia
+- [[l_archetipo|L'Archetipo]] — Apulia / Apulia
+- [[li_veli|Li Veli]] — Apulia / Apulia
+- [[perrini|Perrini]] — Apulia / Apulia
+- [[polvanera|Polvanera]] — Apulia / Apulia
 
 ### Baden
 
@@ -488,8 +507,30 @@ _594 producers across 43 regions._
 
 ### Campania
 
+- [[benito_ferrara|Benito Ferrara]] — Campania / Greco di Tufo
+- [[bruno_de_conciliis|Bruno de Conciliis]] — Campania / Paestum
+- [[cantina_del_barone|Cantina del Barone]] — Campania / Avellino
+- [[cantine_astroni|Cantine Astroni]] — Campania / Campi Flegrei
+- [[cantine_dell_angelo|Cantine dell'Angelo]] — Campania / Greco di Tufo
+- [[cantine_olivella|Cantine Olivella]] — Campania / Lacryma Christi del Vesuvio
+- [[casa_d_ambra|Casa d'Ambra]] — Campania / Ischia
+- [[casebianche|Casebianche]] — Campania / Paestum
+- [[colli_di_lapio|Colli di Lapio]] — Campania / Avellino
+- [[contrada_salandra|Contrada Salandra]] — Campania / Campi Flegrei
 - [[feudi_di_san_gregorio|Feudi di San Gregorio]] — Campania / Sorbo Serpico (Avellino) · sustainable
+- [[guastaferro|Guastaferro]] — Campania / Taurasi
+- [[guido_marsella|Guido Marsella]] — Campania / Avellino
+- [[il_cancelliere|Il Cancelliere]] — Campania / Taurasi
+- [[la_rivolta|La Rivolta]] — Campania / Benevento
+- [[la_sibilla|La Sibilla]] — Campania / Campi Flegrei
+- [[marisa_cuomo|Marisa Cuomo]] — Campania / Amalfi Coast
+- [[masseria_felicia|Masseria Felicia]] — Campania / Falerno del Massico
 - [[mastroberardino|Mastroberardino]] — Campania / Atripalda (Avellino) · sustainable · CSW 1
+- [[monte_di_grazia|Monte di Grazia]] — Campania / Other
+- [[perillo|Perillo]] — Campania / Taurasi
+- [[podere_veneri_vecchio|Podere Veneri Vecchio]] — Campania / Benevento
+- [[quintodecimo|Quintodecimo]] — Campania / Avellino
+- [[san_salvatore|San Salvatore]] — Campania / Paestum
 
 ### Catalonia
 
@@ -529,6 +570,26 @@ _594 producers across 43 regions._
 ### Corsica
 
 - [[vaccelli|Vaccelli]] — Corsica · DTE 3
+
+### Emilia-Romagna
+
+- [[al_di_la_del_fiume|Al di là del Fiume]] — Emilia-Romagna / Emilia
+- [[andrea_bragagni|Andrea Bragagni]] — Emilia-Romagna / Romagna
+- [[camillo_donati|Camillo Donati]] — Emilia-Romagna / Lambrusco
+- [[chiara_condello|Chiara Condello]] — Emilia-Romagna / Romagna
+- [[cinque_campi|Cinque Campi]] — Emilia-Romagna / Lambrusco
+- [[claudio_plessi|Claudio Plessi]] — Emilia-Romagna / Lambrusco
+- [[clero_chiarli|Clero Chiarli]] — Emilia-Romagna / Lambrusco
+- [[crocizia|Crocizia]] — Emilia-Romagna / Lambrusco PetNat
+- [[fattoria_moretto|Fattoria Moretto]] — Emilia-Romagna / Lambrusco
+- [[la_collina|La Collina]] — Emilia-Romagna / Lambrusco
+- [[lini_910|Lini 910]] — Emilia-Romagna / Lambrusco
+- [[mirco_mariotti|Mirco Mariotti]] — Emilia-Romagna / Lambrusco PetNat
+- [[montesissa_emilio|Montesissa Emilio]] — Emilia-Romagna / Lambrusco PetNat
+- [[podere_giardino|Podere Giardino]] — Emilia-Romagna / Lambrusco
+- [[podere_pradarolo|Podere Pradarolo]] — Emilia-Romagna / Lambrusco PetNat
+- [[terrevive|Terrevive]] — Emilia-Romagna / Lambrusco
+- [[villa_venti|Villa Venti]] — Emilia-Romagna / Romagna
 
 ### Franken
 
@@ -625,6 +686,22 @@ _594 producers across 43 regions._
 - [[michel_gahier|Michel Gahier]] — Jura / Arbois (Montigny-lès-Arsures) · natural · CSW ★3/8
 - [[overnoy-crinquand|Overnoy-Crinquand]] — Jura / Pupillin · natural · CSW ★1/3
 
+### Lazio
+
+- [[alberto_giacobbe|Alberto Giacobbe]] — Lazio / Lazio
+- [[andrea_occhipinti|Andrea Occhipinti]] — Lazio / Lazio
+- [[cantina_ribela|Cantina Ribelà]] — Lazio / Lazio
+- [[casale_della_ioria|Casale della Ioria]] — Lazio / Lazio
+- [[casale_marchese|Casale Marchese]] — Lazio / Lazio
+- [[damiano_ciolli|Damiano Ciolli]] — Lazio / Lazio
+- [[la_visciola|La Visciola]] — Lazio / Lazio
+- [[marco_carpineti|Marco Carpineti]] — Lazio / Lazio
+- [[monastero_suore_cistercensi|Monastero Suore Cistercensi]] — Lazio / Lazio
+- [[palazzo_tronconi|Palazzo Tronconi]] — Lazio / Lazio
+- [[podere_orto|Podere Orto]] — Lazio / Lazio
+- [[progetto_sete|Progetto Sete]] — Lazio / Lazio
+- [[vino_gazzetta|Vino Gazzetta]] — Lazio / Lazio
+
 ### Liguria
 
 - [[blu_vo|Blu Vo]] — Liguria / Ponente
@@ -685,25 +762,55 @@ _594 producers across 43 regions._
 
 ### Lombardy
 
+- [[arcari_e_danesi|Arcari e Danesi]] — Lombardy / Franciacorta
 - [[areni_e_drizini|Areni e Drizini]] — Lombardy / Oltrepo Pavese
 - [[bagera|Bagera]] — Lombardy / Valtellina
+- [[balgera|Balgera]] — Lombardy / Valtellina
+- [[barone_pizzini|Barone Pizzini]] — Lombardy / Franciacorta
 - [[bianchi_e_rizini|Bianchi e Rizini]] — Lombardy / Oltrepo Pavese
-- [[bruno_verdi|Bruno Verdi]] — Lombardy / Oltrepo Pavese
+- [[bruno_verdi|Bruno Verdi]] — Lombardy / Oltrepò Pavese
+- [[castello_di_stefanago|Castello di Stefanago]] — Lombardy / Oltrepò Pavese
 - [[castello_di_stefano|Castello di Stefano]] — Lombardy / Oltrepo Pavese
 - [[chiaretto|Chiaretto]] — Lombardy / Brescia
 - [[dirupi|Dirupi]] — Lombardy / Valtellina
 - [[farruscello_rubio|Farruscello & Rubio]] — Lombardy / Oltrepo Pavese
+- [[fattoria_mondo_antico|Fattoria Mondo Antico]] — Lombardy / Franciacorta
+- [[fondo_bozzole|Fondo Bozzole]] — Lombardy / Lambrusco Mantovano
 - [[fondo_bozzolo|Fondo Bozzolo]] — Lombardy / Oltrepo Pavese
+- [[il_pendio|Il Pendio]] — Lombardy / Franciacorta
 - [[il_pudio|Il Pudio]] — Lombardy / Oltrepo Pavese
-- [[le_sincere|Le Sincere]] — Lombardy / Oltrepo Pavese
+- [[le_sincere|Le Sincere]] — Lombardy / Chiaretto
 - [[marcel_zanolari|Marcel Zanolari]] — Lombardy / Valtellina
 - [[prandello|Prandello]] — Lombardy / Oltrepo Pavese
+- [[pratello|Pratello]] — Lombardy / Lugana
+- [[sandro_fay|Sandro Fay]] — Lombardy / Valtellina
 - [[sandro_fey|Sandro Fey]] — Lombardy / Valtellina
 - [[selva_picto|Selva Picto]] — Lombardy / Valtellina
+- [[selva_pietro|Selva Pietro]] — Lombardy / Valtellina
 
 ### Marche
 
+- [[alberto_quacquarini|Alberto Quacquarini]] — Marche / Marche
+- [[aldo_di_giacomi|Aldo di Giacomi]] — Marche / Marche
+- [[andrea_felici|Andrea Felici]] — Marche / Marche
+- [[belisario|Belisario]] — Marche / Marche
+- [[bisci|Bisci]] — Marche / Marche
+- [[bucci|Bucci]] — Marche / Marche
+- [[ca_liptra|Ca' Liptra]] — Marche / Marche
 - [[collestefano|Collestefano]] — Marche / Matelica · DTE 7
+- [[colli_di_serrapetrona|Colli di Serrapetrona]] — Marche / Marche
+- [[conti_di_buscareto|Conti di Buscareto]] — Marche / Marche
+- [[garofoli|Garofoli]] — Marche / Marche
+- [[la_marca_di_san_michele|La Marca di San Michele]] — Marche / Marche
+- [[le_terrazze|Le Terrazze]] — Marche / Marche
+- [[lucchetti|Lucchetti]] — Marche / Marche
+- [[pantaleone|Pantaleone]] — Marche / Marche
+- [[paris_rocchi|Paris Rocchi]] — Marche / Marche
+- [[pievalta|Pievalta]] — Marche / Marche
+- [[sarrarelli|Sarrarelli]] — Marche / Marche
+- [[stefano_mancinelli|Stefano Mancinelli]] — Marche / Marche
+- [[tenuta_cocci_grifoni|Tenuta Cocci Grifoni]] — Marche / Marche
+- [[villa_malacari|Villa Malacari]] — Marche / Marche
 
 ### Mendoza
 
@@ -769,6 +876,12 @@ _594 producers across 43 regions._
 - [[vina_urbana|Viña Urbana]] — Mendoza / Mendoza · natural
 - [[zorzal_wines|Zorzal Wines]] — Mendoza / Tupungato · biodynamic
 - [[zuccardi_valle_de_uco|Zuccardi Valle de Uco]] — Mendoza / Valle de Uco — Paraje Altamira / Gualtallary / San Pablo
+
+### Molise
+
+- [[borgo_di_colloredo|Borgo di Colloredo]] — Molise / Molise
+- [[campi_valerio|Campi Valerio]] — Molise / Molise
+- [[claudio_cipressi|Claudio Cipressi]] — Molise / Molise
 
 ### Mosel
 
@@ -936,42 +1049,104 @@ _594 producers across 43 regions._
 
 - [[cara_sur|Cara Sur]] — San Juan / Valle de Calingasta
 
+### Sardinia
+
+- [[alberto_loi|Alberto Loi]] — Sardinia / Sardinia
+- [[angelo_rivano|Angelo Rivano]] — Sardinia / Sardinia
+- [[capichera|Capichera]] — Sardinia / Sardinia
+- [[cardedu|Cardedu]] — Sardinia / Sardinia
+- [[contini|Contini]] — Sardinia / Sardinia
+- [[pala|Pala]] — Sardinia / Sardinia
+- [[piero_mancini|Piero Mancini]] — Sardinia / Sardinia
+- [[silvio_carta|Silvio Carta]] — Sardinia / Sardinia
+- [[vigne_rada|Vigne Rada]] — Sardinia / Sardinia
+- [[vigne_surrau|Vigne Surrau]] — Sardinia / Sardinia
+
 ### Savoie
 
 - [[jean_masson|Jean Masson]] — Savoie · DTE 1
 
 ### Sicily
 
+- [[abbazia_san_giorgio|Abbazia San Giorgio]] — Sicily / Pantelleria
+- [[aldo_viola|Aldo Viola]] — Sicily / Marsala
 - [[arianna_occhipinti|Arianna Occhipinti]] — Sicily / Vittoria · organic, biodynamic · CSW ★2/4 · Raeder 1
+- [[azienda_agricola_caravaglio|Azienda Agricola Caravaglio]] — Sicily / Aeolian Islands
+- [[azienda_agricola_elios|Azienda Agricola Elios]] — Sicily / Alcamo
+- [[biondi|Biondi]] — Sicily / Etna
 - [[bonavita|Bonavita]] — Sicily / Faro (Messina) · organic, natural · CSW ★2/3
+- [[calabretta|Calabretta]] — Sicily / Etna
+- [[carlo_hauner|Carlo Hauner]] — Sicily / Aeolian Islands
 - [[donnafugata|Donnafugata]] — Sicily / Marsala (Trapani) · sustainable, organic
+- [[ernella|Ernella]] — Sicily / Etna
 - [[feudo_montoni|Feudo Montoni]] — Sicily · organic · CSW ★2/3 · Raeder 7
+- [[francesco_guccione|Francesco Guccione]] — Sicily / Marsala
 - [[frank_cornelissen|Frank Cornelissen]] — Sicily / Etna · natural · CSW ★2/6
-- [[gulfi|Gulfi]] — Sicily / Vittoria · CSW 4 · DTE 7
+- [[graci|Graci]] — Sicily / Etna
+- [[gulfi|Gulfi]] — Sicily / Vittoria
+- [[i_custodi_delle_vigne_dell_etna|I Custodi delle Vigne dell'Etna]] — Sicily / Etna
+- [[i_vigneri|I Vigneri]] — Sicily / Etna
+- [[il_censo|Il Censo]] — Sicily / Alcamo
+- [[lamoreseca|Lamoreseca]] — Sicily / Vittoria
+- [[manenti|Manenti]] — Sicily / Vittoria
+- [[marabino|Marabino]] — Sicily / Vittoria
+- [[marco_de_bartoli|Marco De Bartoli]] — Sicily / Pantelleria
 - [[masseria_del_pino|Masseria del Pino]] — Sicily · organic · CSW ★2/3
+- [[monterosso|Monterosso]] — Sicily / Etna
+- [[palari|Palari]] — Sicily / Faro
+- [[palmento_costanzo|Palmento Costanzo]] — Sicily / Etna
+- [[portelli|Portelli]] — Sicily / Vittoria
+- [[scirto|Scirto]] — Sicily / Etna
+- [[serragghia|Serragghia (Gabrio Bini)]] — Sicily / Pantelleria
+- [[tenuta_delle_terre_nere|Tenuta delle Terre Nere]] — Sicily / Etna
+- [[tenuta_di_castellaro|Tenuta di Castellaro]] — Sicily / Aeolian Islands
+- [[vireadvest|Vireàdovest]] — Sicily / Marsala
 
 ### Tuscany
 
 - [[altesino|Altesino]] — Tuscany / Brunello di Montalcino · Raeder 9
+- [[ampeleia|Ampeleia]] — Tuscany / Maremma
 - [[biondi_santi|Biondi-Santi]] — Tuscany / Montalcino · sustainable, traditional · CSW 1 · Raeder 8
+- [[canalicchio_di_sopra|Canalicchio di Sopra]] — Tuscany / Montalcino
 - [[castell_in_villa|Castell'in Villa]] — Tuscany / Chianti Classico · DTE 3
 - [[castelli_in_villa|Castelli In Villa]] — Tuscany / Chianti Classico
-- [[castello_dei_rampolla|Castello Dei Rampolla]] — Tuscany / Chianti Classico
+- [[castello_dei_rampolla|Castello dei Rampolla]] — Tuscany / Chianti Classico
+- [[castello_di_cacchiano|Castello di Cacchiano]] — Tuscany / Chianti Classico
 - [[castello_di_castiglionecchio|Castello Di Castiglionecchio]] — Tuscany / Chianti Classico
+- [[cerbaiona|Cerbaiona]] — Tuscany / Montalcino
+- [[fabbrica_di_san_martino|Fabbrica di San Martino]] — Tuscany / Lucca
 - [[fiorentino|Fiorentino]] — Tuscany / Chianti
 - [[fontodi|Fontodi]] — Tuscany / Chianti Classico
+- [[fuligni|Fuligni]] — Tuscany / Montalcino
 - [[i_fabbri|I Fabbri]] — Tuscany / Chianti Classico · CSW ★1/2 · DTE 3
+- [[il_colle|Il Colle]] — Tuscany / Montalcino
+- [[il_colombaio_di_santa_chiara|Il Colombaio di Santa Chiara]] — Tuscany / San Gimignano
+- [[il_conventino|Il Conventino]] — Tuscany / Montepulciano
 - [[il_paradiso|Il Paradiso]] — Tuscany / Chianti
-- [[isole_e_olena|Isole E Olena]] — Tuscany / Chianti Classico
+- [[il_paradiso_di_manfredi|Il Paradiso di Manfredi]] — Tuscany / Montalcino
+- [[isole_e_olena|Isole e Olena]] — Tuscany / Chianti Classico
 - [[istine|Istine]] — Tuscany / Chianti Classico · DTE 1
+- [[la_torre|La Torre]] — Tuscany / Montalcino
+- [[le_ragnaie|Le Ragnaie]] — Tuscany / Montalcino
 - [[monte_bernardi|Monte Bernardi]] — Tuscany / Chianti Classico · biodynamic · CSW ★3/6
 - [[montenidoli|Montenidoli]] — Tuscany / San Gimignano · CSW ★2/2 · DTE 7
-- [[monteraponi|Monteraponi]] — Tuscany / Chianti Classico · organic
-- [[pian_dell_orino|Pian dell'Orino]] — Tuscany · DTE 1
+- [[monteraponi|Monteraponi]] — Tuscany / Chianti Classico
+- [[montevertine|Montevertine]] — Tuscany / Chianti Classico
+- [[pian_dell_orino|Pian dell'Orino]] — Tuscany / Montalcino
+- [[podere_canneta|Podere Canneta]] — Tuscany / San Gimignano
 - [[poggio_del_moro|Poggio del Moro]] — Tuscany / Val d'Orcia · natural
+- [[poggio_di_sotto|Poggio di Sotto]] — Tuscany / Montalcino
+- [[rodano|Rodano]] — Tuscany / Chianti Classico
+- [[salcheto|Salcheto]] — Tuscany / Montepulciano
+- [[salicurti|Salicurti]] — Tuscany / Montalcino
+- [[san_giusto_a_rentennano|San Giusto a Rentennano]] — Tuscany / Chianti Classico
+- [[sesti|Sesti]] — Tuscany / Montalcino
 - [[stella_di_campalto|Stella di Campalto]] — Tuscany / Montalcino · organic, biodynamic
 - [[tenuta_di_carleone|Tenuta di Carleone]] — Tuscany / Chianti Classico · DTE 8
-- [[val_delle_corti|Val Delle Corti]] — Tuscany / Chianti Classico
+- [[tenuta_di_valgiano|Tenuta di Valgiano]] — Tuscany / Lucca
+- [[tiberini|Tiberini]] — Tuscany / Montepulciano
+- [[val_delle_corti|Val delle Corti]] — Tuscany / Chianti Classico
+- [[villa_sant_anna|Villa Sant'Anna]] — Tuscany / Montepulciano
 
 ### Umbria
 

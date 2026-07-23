@@ -2,46 +2,26 @@
 type: producer
 name: "Marcel Zanolari"
 slug: marcel_zanolari
+aliases: []
 country: "Italy"
 region: "Lombardy"
 sub_region: "Valtellina"
-appellations: ["Lombardy", "Valtellina DOC"]
-
+appellations: []
 farming: []
 certifications: []
-
 importer_us: []
-
 retailers:
-  chambers:
-    championed: false
-    article_count: 0
-    dedicated_count: 0
-    first_year: 0
-    last_year: 0
-  dte:
-    in_portfolio: false
-    cuvee_count: 0
-    price_min: 0
-    price_max: 0
-  raeders:
-    in_portfolio: false
-  fass:
-    in_portfolio: false
-
-tags: ["lombardy", "valtellina", "nebbiolo", "italian-alpine"]
-_sources:
-  - campanale_wine_book
+  chambers: {in_portfolio: false}
+  dte: {in_portfolio: false}
+  raeders: {in_portfolio: false}
+  fass: {in_portfolio: false}
+tags: []
+_sources: ["campanale_wine_book"]
 ---
 
 # Marcel Zanolari
 
-Valtellina-based producer in Lombardy. Alpine wine producer known for Nebbiolo-based reds.
+Italian producer from Campanale wine book.
 
 ## Notes
 
-**Vault Status:** Stub profile from Joe Campanale's comprehensive Italian wine book.
-
-## Cross-references
-
-- [[Lombardy_Producers|Lombardy]]
