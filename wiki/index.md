@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 1353
+total_pages: 1392
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**1353 pages indexed.**
+**1392 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -20,19 +20,21 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Region rollups
 
-- [[Abruzzo_Producers|Abruzzo Producers]] — **6 producers** tracked.
+- [[Abruzzo_Producers|Abruzzo Producers]] — **10 producers** tracked.
 - [[Alsace_Producers|Alsace Producers]] — **7 producers** tracked.
 - [[Alto_Adige_Sudtirol_Producers|Alto Adige Sudtirol Producers]] — **7 producers** tracked.
-- [[Apulia_Producers|Apulia Producers]] — **6 producers** tracked.
+- [[Apulia_Producers|Apulia Producers]] — **9 producers** tracked.
 - [[Baden_Producers|Baden Producers]] — **4 producers** tracked.
+- [[Basilicata_Producers|Basilicata Producers]] — **4 producers** tracked.
 - [[Basque_Country_Producers|Basque Country Producers]] — **1 producers** tracked.
 - [[Basque_Irouleguy_Producers|Basque Irouleguy Producers]] — **1 producers** tracked.
 - [[Beaujolais_Producers|Beaujolais Producers]] — **6 producers** tracked.
 - [[Bierzo_Producers|Bierzo Producers]] — **1 producers** tracked.
 - [[Bordeaux_Producers|Bordeaux Producers]] — **25 producers** tracked.
 - [[Burgundy_Producers|Burgundy Producers]] — **104 producers** tracked.
+- [[Calabria_Producers|Calabria Producers]] — **4 producers** tracked.
 - [[California_Producers|California Producers]] — **23 producers** tracked.
-- [[Campania_Producers|Campania Producers]] — **24 producers** tracked.
+- [[Campania_Producers|Campania Producers]] — **32 producers** tracked.
 - [[Catalonia_Producers|Catalonia Producers]] — **1 producers** tracked.
 - [[Champagne_Producers|Champagne Producers]] — **28 producers** tracked.
 - [[Colli_Tortonesi_Producers|Colli Tortonesi Producers]] — **1 producers** tracked.
@@ -42,13 +44,13 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Friuli-Venezia_Giulia_Producers|Friuli-Venezia Giulia Producers]] — **68 producers** tracked.
 - [[Jujuy_Producers|Jujuy Producers]] — **2 producers** tracked.
 - [[Jura_Producers|Jura Producers]] — **14 producers** tracked.
-- [[Lazio_Producers|Lazio Producers]] — **13 producers** tracked.
+- [[Lazio_Producers|Lazio Producers]] — **19 producers** tracked.
 - [[Liguria_Producers|Liguria Producers]] — **17 producers** tracked.
 - [[Loire_Producers|Loire Producers]] — **40 producers** tracked.
 - [[Lombardy_Producers|Lombardy Producers]] — **32 producers** tracked.
 - [[Marche_Producers|Marche Producers]] — **21 producers** tracked.
 - [[Mendoza_Producers|Mendoza Producers]] — **62 producers** tracked.
-- [[Molise_Producers|Molise Producers]] — **3 producers** tracked.
+- [[Molise_Producers|Molise Producers]] — **4 producers** tracked.
 - [[Mosel_Producers|Mosel Producers]] — **25 producers** tracked.
 - [[Nahe_Producers|Nahe Producers]] — **5 producers** tracked.
 - [[Oregon_Producers|Oregon Producers]] — **2 producers** tracked.
@@ -61,14 +63,14 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Ribera_del_Duero_Producers|Ribera Del Duero Producers]] — **1 producers** tracked.
 - [[Salta_Producers|Salta Producers]] — **5 producers** tracked.
 - [[San_Juan_Producers|San Juan Producers]] — **1 producers** tracked.
-- [[Sardinia_Producers|Sardinia Producers]] — **10 producers** tracked.
+- [[Sardinia_Producers|Sardinia Producers]] — **14 producers** tracked.
 - [[Savoie_Producers|Savoie Producers]] — **1 producers** tracked.
 - [[Sicily_Producers|Sicily Producers]] — **33 producers** tracked.
 - [[Tuscany_Producers|Tuscany Producers]] — **43 producers** tracked.
 - [[Umbria_Producers|Umbria Producers]] — **1 producers** tracked.
 - [[Valais_Producers|Valais Producers]] — **1 producers** tracked.
 - [[Valle_dAosta_Producers|Valle Daosta Producers]] — **15 producers** tracked.
-- [[Veneto_Producers|Veneto Producers]] — **8 producers** tracked.
+- [[Veneto_Producers|Veneto Producers]] — **9 producers** tracked.
 
 ## Importers
 
@@ -100,7 +102,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Fleet_Street_Wine_Merchants|Fleet Street Wine Merchants]] — UK-adjacent portfolio.
 - [[Fruit_of_the_Vine|Fruit of the Vine]] — Logistics/import services. Not a traditional importer.
 - [[German_Wine_Collection_GWC|German Wine Collection (GWC)]] — German specialist.
-- [[Grand_Cru_Selections|Grand Cru Selections]] — Champagne
+- [[Grand_Cru_Selections|Grand Cru Selections]] — Campania, Champagne
 - [[Graziano|Graziano]] — Italian specialist.
 - [[Henderson_Selections|Henderson Selections]] — Bordeaux, Burgundy, California
 - [[Hootananny|Hootananny]] — Natural wines.
@@ -115,13 +117,16 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[MFW_Wine_Co|MFW Wine Co.]] — France, Georgia, Italy
 - [[Martines_Wines|Martine's Wines]] — France, Italy
 - [[Neal_Rosenthal|Neal Rosenthal]] — Baden, Bordeaux, Burgundy, Jura, Piedmont, Rhône
+- [[North_Berkeley_Imports|North Berkeley Imports]] — Basilicata
 - [[Ole_&_Obrigado|Ole & Obrigado]] — Spanish and Portuguese wines. NY-based.
 - [[Omniwines_Distribution|Omniwines Distribution]] — Italian wines.
 - [[Other_Blues|Other Blues]] — Spanish, French, CA natural. Small operation.
 - [[Polaner|Polaner]] — Beaujolais, Burgundy, California, Champagne, Loire, Marche, Piedmont, Rhône, Tuscany
-- [[Polaner_Selections|Polaner Selections]] — Alto Adige / Südtirol
+- [[Polaner_Selections|Polaner Selections]] — Alto Adige / Südtirol, Campania, Veneto
+- [[Regal_Wine_Imports|Regal Wine Imports]] — Campania
 - [[Roscioli_Wine_Club|Roscioli Wine Club]] — Italy, Piedmont, Tuscany, Sicily, Sardinia, Friuli
 - [[Ruff_Mix_Wines|Ruff Mix Wines]] — French natural wines. Camille Rivière adjacent.
+- [[Sager_and_Wine|Sager and Wine]] — Campania
 - [[Savio_Soares_Selections|Savio Soares Selections]] — France, Germany, Italy, Portugal
 - [[Scuola_di_Vino|Scuola di Vino]] — Italian wines educator/importer.
 - [[SelectioNaturel|SelectioNaturel]] — Natural wines.
@@ -286,16 +291,20 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_793 producers across 48 regions._
+_827 producers across 50 regions._
 
 ### Abruzzo
 
 - [[agricola_tiberio|Agricola Tiberio]] — Abruzzo · DTE 1
 - [[amorotti|Amorotti]] — Abruzzo / Abruzzo
 - [[cirelli|Cirelli]] — Abruzzo / Abruzzo
+- [[de_fermo|De Fermo]] — Abruzzo / Loreto Aprutino · biodynamic
+- [[emidio_pepe|Emidio Pepe]] — Abruzzo / Teramo · organic, biodynamic
 - [[iole_rabasco|Iole Rabasco]] — Abruzzo / Abruzzo
+- [[praesidium|Praesidium]] — Abruzzo / Prezza · organic
 - [[tiberio|Tiberio]] — Abruzzo / Abruzzo
 - [[torre_dei_beati|Torre dei Beati]] — Abruzzo / Abruzzo
+- [[valentini_abruzzo|Azienda Agricola Valentini]] — Abruzzo / Loreto Aprutino · organic, biodynamic
 
 ### Alsace
 
@@ -320,9 +329,12 @@ _793 producers across 48 regions._
 ### Apulia
 
 - [[cantina_pantun|Cantina Pantun]] — Apulia / Apulia
+- [[fattoria_fatalone|Fattoria Fatalone]] — Apulia / Taranto · organic
 - [[francesco_marra|Francesco Marra]] — Apulia / Apulia
+- [[guttarolo|Guttarolo]] — Apulia / Salento · conventional
 - [[l_archetipo|L'Archetipo]] — Apulia / Apulia
 - [[li_veli|Li Veli]] — Apulia / Apulia
+- [[natalino_del_prette|Natalino del Prette]] — Apulia / Lecce · sustainable
 - [[perrini|Perrini]] — Apulia / Apulia
 - [[polvanera|Polvanera]] — Apulia / Apulia
 
@@ -332,6 +344,13 @@ _793 producers across 48 regions._
 - [[enderle__moll|Enderle & Moll]] — Baden · biodynamic · CSW ★4/7
 - [[sven_enderle|Sven Enderle]] — Baden · CSW 7 · DTE 5 · FASS 13
 - [[wasenhaus|Wasenhaus]] — Baden · organic · CSW ★2/4
+
+### Basilicata
+
+- [[camerlengo|Azienda Agricola Camerlengo]] — Basilicata / Aglianico del Vulture · organic, natural
+- [[grifalco|Grifalco]] — Basilicata / Aglianico del Vulture · organic
+- [[igni|Igni]] — Basilicata / Aglianico del Vulture · organic
+- [[musto_carmelitano|Azienda Agricola Musto Carmelitano]] — Basilicata / Aglianico del Vulture · organic, natural
 
 ### Basque (Irouléguy)
 
@@ -487,6 +506,13 @@ _793 producers across 48 regions._
 - [[taupenot_merme|Taupenot-Merme]] — Burgundy / Morey-Saint-Denis · DTE 1
 - [[thomas_et_jean_marc_bouley|Thomas et Jean Marc Bouley]] — Burgundy · DTE 10
 
+### Calabria
+
+- [[a_vita|A Vita]] — Calabria / Cosenza · organic
+- [[du_cropio|Du Cropio]] — Calabria / Vibo Valentia · conventional, organic
+- [[g_calabrese|G. Calabrese]] — Calabria / Reggio di Calabria · conventional, sustainable
+- [[l_acino|L'Acino]] — Calabria / Catanzaro · organic
+
 ### California
 
 - [[anthill_farms|Anthill Farms]] — California / Sonoma Coast · sustainable
@@ -515,14 +541,18 @@ _793 producers across 48 regions._
 
 ### Campania
 
+- [[aganum|Aganum]] — Campania / Campi Flegrei · conventional
 - [[benito_ferrara|Benito Ferrara]] — Campania / Greco di Tufo
 - [[bruno_de_conciliis|Bruno de Conciliis]] — Campania / Paestum
 - [[cantina_del_barone|Cantina del Barone]] — Campania / Avellino
 - [[cantine_astroni|Cantine Astroni]] — Campania / Campi Flegrei
 - [[cantine_dell_angelo|Cantine dell'Angelo]] — Campania / Greco di Tufo
+- [[cantine_lonardo|Cantine Lonardo]] — Campania / Taurasi · organic
 - [[cantine_olivella|Cantine Olivella]] — Campania / Lacryma Christi del Vesuvio
 - [[casa_d_ambra|Casa d'Ambra]] — Campania / Ischia
 - [[casebianche|Casebianche]] — Campania / Paestum
+- [[cenatiempo|Cenatiempo]] — Campania / Ischia · organic, biodynamic
+- [[ciro_picariello|Ciro Picariello]] — Campania / Avellino · natural
 - [[colli_di_lapio|Colli di Lapio]] — Campania / Avellino
 - [[contrada_salandra|Contrada Salandra]] — Campania / Campi Flegrei
 - [[feudi_di_san_gregorio|Feudi di San Gregorio]] — Campania / Sorbo Serpico (Avellino) · sustainable
@@ -531,11 +561,15 @@ _793 producers across 48 regions._
 - [[il_cancelliere|Il Cancelliere]] — Campania / Taurasi
 - [[la_rivolta|La Rivolta]] — Campania / Benevento
 - [[la_sibilla|La Sibilla]] — Campania / Campi Flegrei
+- [[luigi_tecce|Luigi Tecce]] — Campania / Taurasi · natural
+- [[marco_tinessa|Marco Tinessa]] — Campania / Taurasi · natural
 - [[marisa_cuomo|Marisa Cuomo]] — Campania / Amalfi Coast
 - [[masseria_felicia|Masseria Felicia]] — Campania / Falerno del Massico
 - [[mastroberardino|Mastroberardino]] — Campania / Atripalda (Avellino) · sustainable · CSW 1
 - [[monte_di_grazia|Monte di Grazia]] — Campania / Other
+- [[nanni_cope|Nanni Copè]] — Campania / Caserta · natural
 - [[perillo|Perillo]] — Campania / Taurasi
+- [[pietracupa|Pietracupa]] — Campania / Avellino · conventional
 - [[podere_veneri_vecchio|Podere Veneri Vecchio]] — Campania / Benevento
 - [[quintodecimo|Quintodecimo]] — Campania / Avellino
 - [[san_salvatore|San Salvatore]] — Campania / Paestum
@@ -702,15 +736,21 @@ _793 producers across 48 regions._
 - [[alberto_giacobbe|Alberto Giacobbe]] — Lazio / Lazio
 - [[andrea_occhipinti|Andrea Occhipinti]] — Lazio / Lazio
 - [[cantina_ribela|Cantina Ribelà]] — Lazio / Lazio
+- [[cantine_riccardi_reale|Cantine Riccardi Reale]] — Lazio / Colli Albani · organic, biodynamic
 - [[casale_della_ioria|Casale della Ioria]] — Lazio / Lazio
 - [[casale_marchese|Casale Marchese]] — Lazio / Lazio
 - [[damiano_ciolli|Damiano Ciolli]] — Lazio / Lazio
+- [[il_vinco|Il Vinco]] — Lazio / Lake Bolsena · biodynamic
+- [[la_villana|La Villana]] — Lazio / Lake Bolsena · natural
 - [[la_visciola|La Visciola]] — Lazio / Lazio
+- [[le_coste|Le Coste]] — Lazio / Lake Bolsena · biodynamic
 - [[marco_carpineti|Marco Carpineti]] — Lazio / Lazio
+- [[maria_ernesta_berucci|Maria Ernesta Berucci]] — Lazio / Cesanese del Piglio · biodynamic
 - [[monastero_suore_cistercensi|Monastero Suore Cistercensi]] — Lazio / Lazio
 - [[palazzo_tronconi|Palazzo Tronconi]] — Lazio / Lazio
 - [[podere_orto|Podere Orto]] — Lazio / Lazio
 - [[progetto_sete|Progetto Sete]] — Lazio / Lazio
+- [[sergio_mottura|Sergio Mottura]] — Lazio / Civitella d'Agliano · organic
 - [[vino_gazzetta|Vino Gazzetta]] — Lazio / Lazio
 
 ### Liguria
@@ -902,6 +942,7 @@ _793 producers across 48 regions._
 
 ### Molise
 
+- [[agricolavinica|Azienda Agricolavinica]] — Molise / Ripalimosani · organic
 - [[borgo_di_colloredo|Borgo di Colloredo]] — Molise / Molise
 - [[campi_valerio|Campi Valerio]] — Molise / Molise
 - [[claudio_cipressi|Claudio Cipressi]] — Molise / Molise
@@ -1095,9 +1136,13 @@ _793 producers across 48 regions._
 - [[capichera|Capichera]] — Sardinia / Sardinia
 - [[cardedu|Cardedu]] — Sardinia / Sardinia
 - [[contini|Contini]] — Sardinia / Sardinia
+- [[fattoria_atzori|Fattoria Atzori]] — Sardinia / Cagliari · organic
+- [[g_montisci|G. Montisci]] — Sardinia / Nuoro · conventional, organic
 - [[pala|Pala]] — Sardinia / Sardinia
 - [[piero_mancini|Piero Mancini]] — Sardinia / Sardinia
 - [[silvio_carta|Silvio Carta]] — Sardinia / Sardinia
+- [[tenute_deperu|Tenute Deperu]] — Sardinia / Sassari · conventional, sustainable
+- [[tenute_dettori|Tenute Dettori]] — Sardinia / Oristano · biodynamic
 - [[vigne_rada|Vigne Rada]] — Sardinia / Sardinia
 - [[vigne_surrau|Vigne Surrau]] — Sardinia / Sardinia
 

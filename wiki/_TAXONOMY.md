@@ -68,6 +68,7 @@ Add new values here FIRST, then use them in producer files.
 - Marche
 - Abruzzo
 - Basilicata
+- Calabria
 - Campania
 - Liguria
 - Colli Tortonesi
