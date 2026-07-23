@@ -101,3 +101,17 @@ _Not yet populated._
 ## FASS
 
 _Not yet populated._
+
+## Notes
+
+**Domaine Daniel Barraud** (now co-run with son Julien) is a cornerstone artisanal producer in the Mâconnais, specifically the Vergisson and Pouilly-Fuissé appellations, specializing in terroir-driven Chardonnay expressions that exemplify classicism and site transparency. William Kelley explicitly cites Barraud as a top estate in Vergisson that "pretty much defines classicism in the Mâconnais" and emphasizes the domaine's commitment to "artisanal winemaking" in a region where serious winemaking culture is concentrated among a small number of dedicated producers. The domaine remains relatively quiet in broader media (no CSW coverage to date) but has sustained critical appreciation through Berserkers discourse (5 William Kelley posts 2019-2020) and consistent Down to Earth (Panzer) representation.
+
+**Terroir & Vineyard Focus.** Barraud operates in the Mâconnais, a wine region historically overshadowed by more famous Burgundy zones (Côte d'Or) but increasingly recognized for quality Chardonnay at value pricing. The key sites are **Vergisson** (limestone soils, mid-slope parcels) and **Pouilly-Fuissé** (premier appellation within Mâconnais; volcanic/limestone mix yielding more structured, ageworthy Chardonnay). The Mâconnais' cooler climate and limestone-rich soils produce Chardonnay with pronounced minerality, good acidity, and aging potential (10-20 years) typically associated with more northern Burgundy.
+
+**Winemaking Philosophy.** Barraud practices artisanal, classical Burgundy-style winemaking: hand-harvested fruit, malolactic fermentation (for complexity), and restrained oak aging to preserve terroir expression rather than impose winemaker signature. William Kelley's endorsement emphasizes the estate's commitment to "classicism" — implying traditional technique, vintage transparency, and site-driven character. The result is wines that are food-friendly, elegant, and built for moderate aging rather than immediate opulence.
+
+**Key Cuvées & Pricing.** The Down to Earth portfolio captures entry to mid-tier expressions: Mâcon Chaintre and Mâcon Vergisson (simpler, village-level; $26) represent value-oriented, food-friendly Chardonnay; Pouilly-Fuissé 1er crus (Les Crays, En Buland; $49-55) are the flagship bottlings, representing the appellation's complexity and aging potential. Recent vintages (2022-2023) emphasize freshness and mineral drive rather than extraction or oak.
+
+**Collector Standing.** Barraud is not an auction-house icon but rather a "insider's producer" — discovered and championed by serious Burgundy students (William Kelley, Skurnik importers) who appreciate the Mâconnais' undervalued positioning. The combination of artisanal commitment, site-specific focus, and value pricing makes Barraud an excellent recommendation for collectors seeking serious Chardonnay outside the Côte d'Or's allocation-driven, premium-pricing ecosystem. The domaine's wines age gracefully but are also drinkable within 3-5 years of release, making them versatile for both current consumption and cellaring.
+
+**Why Evan's Taste.** Barraud aligns with Evan's Burgundy/Loire filters: terroir-driven, artisanal-scale, classical winemaking, and mineral-focused Chardonnay. The Mâconnais positioning (overlooked by mainstream collectors) and value pricing relative to Côte d'Or comparables make Barraud a prudent cellar choice for those seeking serious Burgundy without premium allocation markups.
