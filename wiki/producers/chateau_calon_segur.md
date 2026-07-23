@@ -164,3 +164,27 @@ _[Raeders link](https://www.raederswine.com/wines/Chateau-Calon-Segur-Saint-Este
 ## FASS
 
 _Not yet populated._
+
+## Cross-references
+
+- [[Bordeaux_Producers|Bordeaux]]
+- [[Saint-Estèphe|Saint-Estèphe (appellation)]]
+- [[BNP|BNP (importer)]]
+
+## Notes
+
+**Château Calon-Ségur** is one of Saint-Estèphe's most important and consistently high-quality 3rd-growth producers, known for powerful, structured Bordeaux with remarkable aging potential and recent performance excellence. Under ownership by Suravenir (since 2012), the estate has demonstrated a significant performance uplift, with recent vintages achieving exceptional critical scores and attracting serious international attention from collectors and critics.
+
+**Producer History & Provenance.** The estate dates to the 18th century and achieved prominence under the late Mme Gasqueton, whose era (beginning 1995) marked a transformative improvement in quality — the 1995 vintage itself raised the profile of the estate and became a turning point in its modern history. This pivotal vintage remains a reference point for aged Saint-Estèphe value, with both Wine Advocate (94) and James Suckling (97) recognizing its aging success. Post-2012 ownership has amplified quality momentum, with the 2015 and 2018 vintages establishing the estate as a top performer within the appellation.
+
+**Terroir & Vineyard Position.** Calon-Ségur's vineyard holdings occupy prime positions on the Saint-Estèphe plateau, with soils characterized by deep gravel and clay compositions that naturally produce wines with structure, aging potential, and mineral precision. The cool microclimate of Saint-Estèphe (one of Bordeaux's northernmost appellations) extends ripening and preserves acidity — essential for the wines' natural aging framework. These terroir factors — combined with sustainable vineyard management — produce wines naturally inclined toward 20-30 year aging windows.
+
+**Winemaking Philosophy & Vintage Expression.** Calon-Ségur's approach emphasizes classic Left Bank Cabernet-forward blending (typical compositions: 65-82% Cabernet Sauvignon, 15-17% Merlot, 2-3% Cabernet Franc / Petit Verdot). The 2018 vintage demonstrates the estate's modern profile: deep garnet-purple color, sweet floral and minty aromatics, core of red cherry and plum, with underlying structure and refined tannins — the wine is aged 20 months in 100% new French oak, building complexity while maintaining freshness. The 2015 is similarly structured, with warm blackberry, cassis, and black cherry character evolving beautifully with age.
+
+**Critical Recognition & Recent Performance.** Recent vintages have attracted significant critical attention: the 2016 Vinous score of 97 ("Sweet floral, spice and minty notes... plenty of underlying structure") confirms the estate's modern ascent; the 2018 vintage achieved WA 96-98, JS 97, WE 97 — among the highest scores for Saint-Estèphe in that vintage. These ratings establish Calon-Ségur as a top-tier performer, not merely a "solid 3rd-growth" but a genuinely exciting source for serious Bordeaux collectors. The 2015 (WA 93, JS 95, WE 96) and 2018 represent peak-form Calon-Ségur — wines built to age and evolve beautifully over 25-30 years.
+
+**US Market Presence & Pricing.** Imported by BNP (Banville) in the US market, Calon-Ségur is tracked at Raeders at prices ranging $189.99–$229.99 (2015-2018 vintages). These prices represent significant value compared to First and Second growths at similar quality levels, positioning Calon-Ségur as an exceptional buy for serious collectors seeking aged Bordeaux or younger bottles with confirmed aging potential. Current vintages (2015, 2018) are available at retail; mature bottles (1995) command premium prices at auction, reflecting their proven aging success.
+
+**Aging Potential & Cellar Recommendation.** Calon-Ségur's 1995 vintage (WA 94, JS 97) remains a reference for aged Saint-Estèphe value — tasting from ex-château bottles confirms the wine's structural integrity and continued evolution after 25-30 years. Community discussion (Berserkers posts from 2016-2023) confirms that Calon-Ségur's earlier vintages (1993, 1996, 2000s) have aged exceptionally well, maintaining freshness and complexity. The 2015 and 2018 are positioned for similar long-term aging: minimum 12-15 years cellaring before opening; peak drinking 20-30+ years from vintage. This combination of recent quality, proven aging track record, and reasonable pricing makes Calon-Ségur an essential acquisition for Evan's cellar strategy — both for current aging projects and as a reference point for classic, structured, age-worthy Saint-Estèphe.
+
+**Why Evan's Taste.** Calon-Ségur aligns with Evan's stated Bordeaux filters: WK-style undercovered/value (positioned outside the typical First-Second growth hype cycle) with farming focused on sustainable practices and terroir expression. The estate's track record of aging beautifully (1995, 1996 examples) confirms genuine quality-for-price positioning. The combination of recent critical elevation, proven aging history, and reasonable pricing makes Calon-Ségur a smart collector target — especially for younger vintages (2015, 2018) positioned for 20-30 year cellaring projects.

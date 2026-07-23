@@ -145,6 +145,27 @@ _Not yet populated._
 
 ## Cross-references
 
-- [[Rhône_Producers|Rhône]]
-- [[Châteauneuf-du-Pape]]
+- [[Rhône_Producers|Rhône Valley]]
+- [[Châteauneuf-du-Pape|Châteauneuf-du-Pape (appellation)]]
+- [[Southern_Rhône|Southern Rhône]]
+- [[Kermit_Lynch|Kermit Lynch (importer)]]
+- [[Chambers_Street|Chambers Street (retailer)]]
 - [[CSW Article Archive]]
+
+## Notes
+
+**Domaine Charvin** is a respected Châteauneuf-du-Pape producer known for producing elegant, age-worthy expressions of Grenache-based red wine with particular focus on Grenache-dominant blends (~80%+) that reflect classical CDP philosophy. The estate operates within the Châteauneuf appellation with a philosophy emphasizing pure Grenache character, natural acidity, and structured tannins built for extended aging — aligning directly with Evan's taste filters for terroir-driven, grower-scale, food-focused expressions rather than over-extracted or oak-manipulated profiles.
+
+**Producer Philosophy & Grenache Focus.** Charvin's approach centers on pure Grenache expression: the estate's core bottling is composed of approximately 80% or higher Grenache with supporting roles for Syrah, Mourvèdre, and traditional white Rhône varieties. This Grenache-forward strategy distinguishes the estate from CDP producers pursuing international-style power through extraction and new oak. Instead, Charvin's philosophy emphasizes the grape variety's natural character — bright acidity, spice-forward aromatics, elegant tannin structure — combined with Châteauneuf's terroir complexity. This approach results in wines that are immediately accessible yet structured enough for 15-20+ year aging.
+
+**Terroir & Vineyard Character.** Charvin's vineyard holdings occupy classic Châteauneuf-du-Pape parcels characterized by the appellation's distinctive soils: multi-stone and galets roulés (large rolled stones that radiate heat and stress vines for concentration). These terroir factors, combined with traditional Mediterranean climate patterns, produce naturally lower-alcohol Grenache (typically 13.5-14.5% rather than modern 15-16%) with bright acidity preserved. The estate's multi-parcel structure contributes aromatic complexity reflecting specific soil/climate expression.
+
+**Winemaking & Signature Style.** Charvin's approach emphasizes whole-cluster fermentation (a classical method that preserves fresh aromatics), native yeast fermentation, and minimal new-oak influence. Extended bottle-aging before release allows wines to integrate and settle into their final structure. The resulting wines show: bright red berry fruit (raspberry, strawberry), white pepper and Provençal herb aromatics, fresh acidity, elegant tannins. Younger vintages (e.g., recent releases) can be enjoyed immediately for their brightness; older bottlings (1990s, 2000s documented in Berserkers posts) show evolved complexity — secondary flavors, petrol/mineral notes, sustained freshness confirming successful aging.
+
+**Critical Recognition & Community Position.** Charvin ranks #212 in Berserkers top-10 producers thread with 5 mentions (momentum: fading since early 2010s), indicating solid community respect among serious collectors. William Kelley has specifically mentioned Charvin as a worthy 100% Grenache expression within the context of Châteauneuf discussion threads, positioning it as a reference for pure varietal character. CSW championed status (7 articles, 1 dedicated, aging score of 3) confirms vendor enthusiasm and repeated availability. These signals establish Charvin as a "principled, quality-focused grower" rather than a cult/trendy producer — the opposite of hype-driven positioning.
+
+**US Market & Pricing.** Imported by Kermit Lynch (a prestigious importer known for European terroir-focused producers), Charvin has consistent specialty retailer presence. No current Raeders tracking, but CSW references suggest reasonable pricing aligned with quality (likely $45-70 range for current releases). Mature vintages (1990s, 1996 documented in Berserkers) are available at auction and represent excellent value for proven aging — collectors can reference community tasting notes confirming successful 20-30 year evolution.
+
+**Aging Potential & Drinking Strategy.** Charvin's reds show remarkable aging architecture: minimum 8-10 years cellaring before peak drinking; optimal window 15-25 years from vintage; extended aging to 30+ years in favorable conditions. Documented Berserkers tastings (1993, 1996 vintages) confirm that even older bottles maintain freshness, complexity, and continued evolution — a critical quality marker. Current releases are positioned for extended cellaring projects; mature bottles provide reference confirmation of successful aging potential.
+
+**Why Evan's Taste.** Charvin exemplifies core taste filters: (1) **Grenache-focused, pure varietal expression** — ~80%+ Grenache respecting the grape variety's natural character rather than forcing international-style extraction; (2) **terroir-focused winemaking** — Mediterranean climate and galets roulés terroir reflect in fresh, food-focused character; (3) **age-worthy structure** — built for 20-30 year cellaring despite accessible early drinking; (4) **grower-scale positioning** — principled producer rejected by hype cycles, appreciated by serious collectors; (5) **Kermit Lynch representation** — importer known for serious European terroir-driven selections. Charvin should be a regular acquisition for Evan's Châteauneuf cellaring strategy — both for current exploration and for serious aging projects seeking authentic Grenache-led CDP expression.

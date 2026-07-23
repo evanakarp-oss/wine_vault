@@ -172,8 +172,27 @@ _Not yet populated._
 
 _Not yet populated._
 
-## Cross-references
+## Notes
+
+**Stéphane Tissot** is one of the Jura's most important modern winemakers, known for his tireless energy, biodynamic farming commitment, and masterful command of the region's diverse and expressive wine styles — from dry Chardonnay and Poulsard reds to the iconic oxidative Vin Jaune and specialty Macvin. Chambers Street's enthusiasm for Tissot (13 CSW articles, 3 dedicated, highest aging score of 5) reflects his status as not merely a talented producer but as a mentor figure within the Jura wine world and a direct embodiment of the region's philosophical evolution toward quality, terroir expression, and sustainable farming.
+
+**Producer History & Philosophy.** Tissot took over family operation Domaine André et Mireille Tissot (established 1962) in 1990 and has spent three decades establishing himself as a cornerstone Jura figure. The family domain, located in Montigny-les-Arsures (near Arbois), began under conventional practices but has been progressively converted to biodynamic farming under Stéphane's leadership — a multi-decade project reflecting deep philosophical commitment to soil health, biodiversity, and natural viticulture. Today, Tissot manages 45-50 hectares biodynamically, working vineyards across diverse parcels that showcase the Jura's complex terroir. CSW's 2018 visit notes Stéphane's infectious energy and restless vitality — traits that drive his innovation in winemaking and his role as a mentor to younger Jura producers.
+
+**Farming & Biodynamic Practice.** Tissot practices certified biodynamic farming across 45-50 hectares, implementing the full spectrum of biodynamic principles: natural pest and disease management, cover cropping, composting, and timing of vineyard work according to lunar/biodynamic calendars. This approach directly aligns with Evan's stated taste filters (biodynamic-leaning, terroir-driven, grower-scale). The farming philosophy produces wines with natural acidity, mineral precision, and a distinctive aromatic character that reflects the Jura's unique identity. Yields are managed conservatively to concentrate aromatic complexity and phenolic development.
+
+**Terroir & Vineyard Portfolio.** Tissot's vineyard holdings span multiple Jura appellations and soil types: Arbois, Côtes du Jura, and Vin Jaune designations. Key parcels include "Clos de la Tour de Couron" and multiple sites across Montigny-les-Arsures. Soils vary from limestone-marl blends (classical Jura character) to clay-limestone composites, producing wines of remarkable mineral precision and age-ability. The complex parcel structure allows Tissot to produce diverse expressions within each wine category, reflecting specific terroir character.
+
+**Winemaking Philosophy & Key Expressions.** Tissot is a master technician across the full Jura palette: **Dry whites** (Chardonnay, Savagnin) emphasizing mineral precision and fresh acidity; **lithe reds** (Poulsard, Trousseau) with elegant tannins and food-friendliness; **oxidative wines** (Vin Jaune — 6-10 year aging under flor before release) showing honeyed complexity and distinctive nutty character; **Macvin** (fortified, fruit-enhanced specialty). CSW's cellar note positions Tissot as an "elder" mentor to new protégés — a recognition of his role in establishing modern Jura quality standards and mentoring the next generation of producers.
+
+**Critical Recognition & Chambers Street Relationship.** Tissot commands extraordinary presence at Chambers Street (13 articles spanning 2012-2025, 3 dedicated features), reflecting deep vendor relationship and CSW's enthusiasm for his work. CSW coverage highlights personal connections (2018 visit with Stéphane, 2014 in-store tasting featuring Stéphane as guest, exclusive "Crémant Indigene" bottling created for Chambers Street), multiple seasonal offerings, and positioning as a key source for serious Jura exploration. This level of CSW engagement positions Tissot as a vendor priority and a key figure in CSW's Jura strategy.
+
+**US Market Presence & Exclusive Bottlings.** Imported by both Skurnik and Thomas Kalder Selections, Tissot has strong US distribution among specialty retailers. Notably, Chambers Street holds an exclusive arrangement: "Crémant Indigene" — a distinctive sparkling cuvée produced specifically for CSW. This exclusivity reflects Tissot's willingness to customize expressions for key retailers and his commitment to partnership-building. CSW positioning emphasizes Tissot's full range: dry whites for spring/summer, oxidative wines for autumn/winter, making him a year-round acquisition focus.
+
+**Why Evan's Taste.** Stéphane Tissot exemplifies multiple core taste filters: (1) **biodynamic farming** — certified, multi-decade commitment across 45-50 hectares; (2) **grower-scale production** — family-owned, terroir-focused, artisan orientation; (3) **organic/natural winemaking philosophy** — minimal intervention, expressed through both farming and cellar practices; (4) **regional excellence** — recognized as a mentor figure within Jura wine world; (5) **Chambers Street alignment** — extraordinarily championed by CSW (highest aging score of 5), indicating strong quality/value position; (6) **France-focused terroir expression** — wines that teach Jura's distinctive character and aging potential. Tissot represents one of the highest-quality Jura producers and should be a permanent acquisition target for Evan's cellar — both for current enjoyment (dry Poulsards, fresh Chardonnays) and extended aging (Vin Jaune, premium oxidative expressions).
 
 - [[Jura_Producers|Jura]]
-- [[Arbois]]
+- [[Arbois|Arbois (appellation)]]
+- [[Skurnik|Skurnik (importer)]]
+- [[Thomas_Kalder_Selections|Thomas Kalder Selections (importer)]]
+- [[Chambers_Street|Chambers Street (retailer)]]
 - [[CSW Article Archive]]
