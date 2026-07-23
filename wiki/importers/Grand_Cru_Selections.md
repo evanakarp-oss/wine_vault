@@ -2,13 +2,13 @@
 type: importer
 name: "Grand Cru Selections"
 slug: grand_cru_selections
-producer_count: 1
-focus: ['Champagne']
-notable_producers: ['Pierre Peters']
+producer_count: 2
+focus: ['Campania', 'Champagne']
+notable_producers: ['Pierre Peters', 'Marco Tinessa']
 updated: 2026-07-23
-url: "https://www.grandcruselections.com"
-_source: wiki/_resources.md
 tags: []
+_source: wiki/_resources.md
+url: "https://www.grandcruselections.com"
 ---
 
 # Grand Cru Selections
@@ -16,11 +16,12 @@ tags: []
 Burgundy, France.
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**1 producer(s)** in the vault imported by Grand Cru Selections (US).
+**2 producer(s)** in the vault imported by Grand Cru Selections (US).
 
 | Producer | Country | Region | CSW | Cellar |
 |---|---|---|---:|---:|
 | [[pierre_peters|Pierre Peters]] | France | Champagne | 2 | — |
+| [[marco_tinessa|Marco Tinessa]] | Italy | Campania | — | — |
 
 *Compiled by `scripts/build_rollups.py`.*
 <!-- END AUTO-GENERATED -->
