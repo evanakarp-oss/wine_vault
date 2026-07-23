@@ -15,30 +15,48 @@ question — read this before re-deriving it from scratch.
 
 ## Headline: Loire Cabernet Franc owns the top of CSW's aging ladder
 
-`aging_score` is deliberately sparse — across ~826 producers, only **13 carry a
-score ≥4**. Sorted, the very top is Chinon/Bourgueil Cabernet Franc, scoring
-*above* Barolo, Mosel Riesling, and Burgundy:
+`aging_score` is deliberately sparse. Of 829 producers, **121 carry the field**,
+**87 carry a positive score**, and only **22 score ≥4**. Sorted, the entire top
+tier is Chinon/Bourgueil Cabernet Franc — the five highest scores in the vault,
+all Loire Cab Franc, sitting *above* Barolo, Mosel Riesling, and Burgundy (the
+next producer, Éric Texier, is a distant 8):
 
-| Producer | Sub-region | aging_score | CSW articles / dedicated |
-|---|---|---|---|
-| [[olga_raffault\|Olga Raffault]] | Chinon | **14** | 5 / 2 |
-| [[catherine_pierre_breton\|Catherine & Pierre Breton]] | Bourgueil | **14** | 2 / 1 |
-| [[domaine_baudry\|Domaine Baudry (Bernard Baudry)]] | Chinon | **13** | 45 / 20 |
-| [[stephane_guion\|Stéphane Guion]] | Bourgueil | **12** | 17 / 9 |
-| [[domaine_de_la_chevalerie\|Domaine de la Chevalerie]] | Bourgueil | **10** | 15 / 5 |
-| [[willi_schaefer\|Willi Schaefer]] | Mosel | 6 | — |
-| [[jacques_puffeney\|Jacques Puffeney]] | Jura | 5 | — |
-| [[stephane_tissot\|Stéphane Tissot]] | Jura | 5 | — |
-| [[domaine_lionnet\|Domaine Lionnet]] | Cornas | 5 | — |
-| [[clemens_busch\|Clemens Busch]] | Mosel | 5 | — |
-| [[tardieu_laurent\|Tardieu-Laurent]] | Rhône | 5 | — |
-| [[arianna_occhipinti\|Arianna Occhipinti]] | Sicily | 4 | — |
-| [[courbis\|Courbis]] | Cornas/St-Joseph | 4 | — |
-| [[domaine_de_montille\|Domaine de Montille]] | Burgundy | 4 | — |
-| [[domaine_guiberteau\|Domaine Guiberteau]] | Saumur | 4 | — |
+| # | Producer | Sub-region | aging_score | CSW art / ded |
+|---|---|---|---|---|
+| 1 | [[catherine_pierre_breton\|Catherine & Pierre Breton]] | Bourgueil / Chinon | **14** | 2 / 1 |
+| 1 | [[olga_raffault\|Olga Raffault]] | Chinon | **14** | 5 / 2 |
+| 3 | [[domaine_baudry\|Domaine Baudry (Bernard Baudry)]] | Chinon | **13** | 45 / 20 |
+| 4 | [[stephane_guion\|Stéphane Guion]] | Bourgueil | **12** | 17 / 9 |
+| 5 | [[domaine_de_la_chevalerie\|Domaine de la Chevalerie]] | Bourgueil | **10** | 15 / 5 |
+| 6 | [[eric_texier\|Éric Texier]] | Côte-Rôtie / Brézème | 8 | 26 / 5 |
+| 7 | [[domaine_pierre_gonon\|Domaine Pierre Gonon]] | Saint-Joseph | 7 | 17 / 9 |
+| 8 | [[clos_du_joncuas\|Clos du Joncuas]] | Gigondas | 6 | 10 / 4 |
+| 8 | [[rapet_pere_et_fils\|Rapet Père et Fils]] | Pernand-Vergelesses | 6 | 2 / 0 |
+| 8 | [[willi_schaefer\|Willi Schaefer]] | Graach (Mosel) | 6 | 9 / 5 |
+| 11 | [[allemand\|Thierry Allemand]] | Cornas | 5 | 9 / 1 |
+| 11 | [[clemens_busch\|Clemens Busch]] | Pünderich (Mosel) | 5 | 20 / 5 |
+| 11 | [[domaine_lionnet\|Domaine Lionnet]] | Cornas | 5 | 7 / 2 |
+| 11 | [[jacques_puffeney\|Jacques Puffeney]] | Arbois (Jura) | 5 | 12 / 1 |
+| 11 | [[stephane_tissot\|Stéphane Tissot]] | Arbois (Jura) | 5 | 13 / 3 |
+| 11 | [[tardieu_laurent\|Tardieu-Laurent]] | Northern Rhône | 5 | 8 / 2 |
+| 17 | [[arianna_occhipinti\|Arianna Occhipinti]] | Vittoria (Sicily) | 4 | 4 / 2 |
+| 17 | [[courbis\|Courbis]] | Northern Rhône | 4 | 3 / 1 |
+| 17 | [[domaine_de_montille\|Domaine de Montille]] | Volnay / Pommard | 4 | 11 / 4 |
+| 17 | [[domaine_guiberteau\|Domaine Guiberteau]] | Saumur-Champigny | 4 | 3 / 1 |
+| 17 | [[domaine_levet\|Domaine Levet]] | Côte-Rôtie | 4 | 6 / 3 |
+| 17 | [[domaine_pierre_andre\|Domaine Pierre André]] | Gigondas / Châteauneuf | 4 | 12 / 5 |
 
 The "affordable + ageworthy" thesis isn't a vibe — Chambers quantified it, and
 Loire Cab Franc scores highest in the vault.
+
+**Coverage caveat.** The score is populated for only 121 of 829 producers, and
+its provenance is a one-time CSW context primer (`csw_context.txt`, landed via
+`scripts/compile_csw_cellar_signal.py`) that no longer exists in the repo. So a
+`0`/absent score means *"not covered by that primer,"* not *"CSW sees no aging
+potential"* — **81 CSW-covered producers carry no score at all** (Clos Rougeard,
+Freslier, Thévenet, etc. all read as ageworthy in their bodies). Treat the field
+as a high-precision / low-recall signal: a high score is meaningful; a missing
+one is silence, not a negative.
 
 ## The passages, grouped by the rhetorical move CSW makes
 
