@@ -36,6 +36,8 @@ tags:
 - pignolo
 - native-varieties
 - long-aging
+_sources:
+- campanale_wine_book
 ---
 
 # Ronchi di Cialla

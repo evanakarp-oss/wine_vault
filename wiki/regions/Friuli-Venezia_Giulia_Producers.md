@@ -2,12 +2,12 @@
 type: region_index
 region: "Friuli-Venezia Giulia"
 updated: 2026-07-23
-producer_count: 65
+producer_count: 68
 ---
 
 # Friuli-Venezia Giulia — Producer Index
 
-**65 producers** tracked.
+**68 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -20,6 +20,7 @@ producer_count: 65
 | [[gravner|Gravner]] | Italy | Collio (Oslavia) | 1 | — | — | — | — |
 | [[radikon|Radikon]] | Italy | Collio Goriziano | — | — | — | — | 1 btl |
 | [[zidarich|Zidarich]] | Italy | Carso (Prepotto, Duino Aurisina) | 1 | — | — | — | — |
+| [[benjamin_zidarich|Benjamin Zidarich]] | Italy | Carso | — | — | — | — | — |
 | [[canus|Canus]] | Italy | Colli Orientali (Corno di Rosazzo) | — | — | — | — | — |
 | [[castelvecchio|Castelvecchio]] | Italy | Carso (Sagrado) | — | — | — | — | — |
 | [[colle_duga|Colle Duga]] | Italy | Collio (Zegla, Cormons) | — | — | — | — | — |
@@ -50,6 +51,7 @@ producer_count: 65
 | [[livon|Livon]] | Italy | Collio (Dolegnano, San Giovanni al Natisone) | — | — | — | — | — |
 | [[malina|Malina]] | Italy | Colli Orientali | — | — | — | — | — |
 | [[meroi|Meroi]] | Italy | Colli Orientali | — | — | — | — | — |
+| [[miani|Miani]] | Italy | Colli Orientali | — | — | — | — | — |
 | [[monviert|Monviert]] | Italy | Colli Orientali (Savorgnano del Torre, Povoletto) | — | — | — | — | — |
 | [[necotium|Necotium]] | Italy | Colli Orientali | — | — | — | — | — |
 | [[paolo_caccese|Paolo Caccese]] | Italy | Collio (Pradis, Cormons) | — | — | — | — | — |
@@ -75,6 +77,7 @@ producer_count: 65
 | [[vignai_da_duline|Vignai da Duline]] | Italy | Colli Orientali | — | — | — | — | — |
 | [[villa_job|Villa Job]] | Italy | Carso | — | — | — | — | — |
 | [[villa_russiz|Villa Russiz]] | Italy | Collio (Capriva del Friuli) | — | — | — | — | — |
+| [[vodopivec|Vodopivec]] | Italy | Carso | — | — | — | — | — |
 | [[zuani|Zuani]] | Italy | Collio (San Floriano del Collio) | — | — | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

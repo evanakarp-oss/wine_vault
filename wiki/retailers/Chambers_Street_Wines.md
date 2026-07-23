@@ -6,8 +6,8 @@ url: "https://chambersstwines.com"
 location: "NYC"
 producer_count: 199
 updated: 2026-07-23
-_source: wiki/_resources.md
 tags: []
+_source: wiki/_resources.md
 ---
 # Chambers Street Wines
 

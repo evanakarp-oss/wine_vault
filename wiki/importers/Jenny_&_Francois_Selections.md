@@ -2,11 +2,13 @@
 type: importer
 name: "Jenny & François Selections"
 slug: jenny_&_francois_selections
-url: "https://www.jennyandfrancois.com"
-focus: ['Beaujolais', 'France', 'Loire']
+producer_count: 2
+focus: ['Alto Adige / Südtirol', 'Veneto']
+notable_producers: ['Cantina Furlani', 'Costadilà']
+updated: 2026-07-23
 tags: ['natural']
-updated: 2026-05-26
 _source: wiki/_resources.md
+url: "https://www.jennyandfrancois.com"
 ---
 
 # Jenny & François Selections
@@ -14,7 +16,12 @@ _source: wiki/_resources.md
 NYC. Natural wines. Loire, Beaujolais, France broadly.
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
+**2 producer(s)** in the vault imported by Jenny & François Selections (US).
 
-_No producers from this importer/retailer are tracked in the vault yet._
+| Producer | Country | Region | CSW | Cellar |
+|---|---|---|---:|---:|
+| [[cantina_furlani|Cantina Furlani]] | Italy | Alto Adige / Südtirol | — | — |
+| [[costadila|Costadilà]] | Italy | Veneto | — | — |
 
+*Compiled by `scripts/build_rollups.py`.*
 <!-- END AUTO-GENERATED -->

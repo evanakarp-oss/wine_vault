@@ -36,6 +36,8 @@ tags:
 - sauvignon
 - burgundian
 - micro-production
+_sources:
+- campanale_wine_book
 ---
 
 # Ronco del Gnemiz

@@ -35,6 +35,8 @@ tags:
 - collio-bianco
 - friulano
 - single-wine-estate
+_sources:
+- campanale_wine_book
 ---
 
 # Edi Keber

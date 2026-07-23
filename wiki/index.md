@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 1327
+total_pages: 1353
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**1327 pages indexed.**
+**1353 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -22,7 +22,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 - [[Abruzzo_Producers|Abruzzo Producers]] — **6 producers** tracked.
 - [[Alsace_Producers|Alsace Producers]] — **7 producers** tracked.
-- [[Alto_Adige_Sudtirol_Producers|Alto Adige Sudtirol Producers]] — **2 producers** tracked.
+- [[Alto_Adige_Sudtirol_Producers|Alto Adige Sudtirol Producers]] — **7 producers** tracked.
 - [[Apulia_Producers|Apulia Producers]] — **6 producers** tracked.
 - [[Baden_Producers|Baden Producers]] — **4 producers** tracked.
 - [[Basque_Country_Producers|Basque Country Producers]] — **1 producers** tracked.
@@ -39,13 +39,13 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Corsica_Producers|Corsica Producers]] — **1 producers** tracked.
 - [[Emilia-Romagna_Producers|Emilia-Romagna Producers]] — **17 producers** tracked.
 - [[Franken_Producers|Franken Producers]] — **3 producers** tracked.
-- [[Friuli-Venezia_Giulia_Producers|Friuli-Venezia Giulia Producers]] — **65 producers** tracked.
+- [[Friuli-Venezia_Giulia_Producers|Friuli-Venezia Giulia Producers]] — **68 producers** tracked.
 - [[Jujuy_Producers|Jujuy Producers]] — **2 producers** tracked.
 - [[Jura_Producers|Jura Producers]] — **14 producers** tracked.
 - [[Lazio_Producers|Lazio Producers]] — **13 producers** tracked.
 - [[Liguria_Producers|Liguria Producers]] — **17 producers** tracked.
 - [[Loire_Producers|Loire Producers]] — **40 producers** tracked.
-- [[Lombardy_Producers|Lombardy Producers]] — **25 producers** tracked.
+- [[Lombardy_Producers|Lombardy Producers]] — **32 producers** tracked.
 - [[Marche_Producers|Marche Producers]] — **21 producers** tracked.
 - [[Mendoza_Producers|Mendoza Producers]] — **62 producers** tracked.
 - [[Molise_Producers|Molise Producers]] — **3 producers** tracked.
@@ -68,7 +68,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Umbria_Producers|Umbria Producers]] — **1 producers** tracked.
 - [[Valais_Producers|Valais Producers]] — **1 producers** tracked.
 - [[Valle_dAosta_Producers|Valle Daosta Producers]] — **15 producers** tracked.
-- [[Veneto_Producers|Veneto Producers]] — **1 producers** tracked.
+- [[Veneto_Producers|Veneto Producers]] — **8 producers** tracked.
 
 ## Importers
 
@@ -105,7 +105,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Henderson_Selections|Henderson Selections]] — Bordeaux, Burgundy, California
 - [[Hootananny|Hootananny]] — Natural wines.
 - [[Jeffrey_Alpert_Selections|Jeffrey Alpert Selections]] — NYC. Natural/artisan.
-- [[Jenny_&_Francois_Selections|Jenny & François Selections]] — Beaujolais, France, Loire
+- [[Jenny_&_Francois_Selections|Jenny & François Selections]] — Alto Adige / Südtirol, Veneto
 - [[Jose_Pastor_Selections|José Pastor Selections]] — Argentina
 - [[Kermit_Lynch|Kermit Lynch]] — Burgundy, Friuli-Venezia Giulia, Loire, Rhône
 - [[Kysela|Kysela]] — Burgundy
@@ -119,6 +119,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Omniwines_Distribution|Omniwines Distribution]] — Italian wines.
 - [[Other_Blues|Other Blues]] — Spanish, French, CA natural. Small operation.
 - [[Polaner|Polaner]] — Beaujolais, Burgundy, California, Champagne, Loire, Marche, Piedmont, Rhône, Tuscany
+- [[Polaner_Selections|Polaner Selections]] — Alto Adige / Südtirol
 - [[Roscioli_Wine_Club|Roscioli Wine Club]] — Italy, Piedmont, Tuscany, Sicily, Sardinia, Friuli
 - [[Ruff_Mix_Wines|Ruff Mix Wines]] — French natural wines. Camille Rivière adjacent.
 - [[Savio_Soares_Selections|Savio Soares Selections]] — France, Germany, Italy, Portugal
@@ -127,6 +128,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Selection_Massale|Selection Massale]] — France, Germany
 - [[Selections_de_la_Vina|Selections de la Viña]] — Spanish wines. Alvaro de la Viña.
 - [[Skurnik|Skurnik]] — Burgundy, Jura, Mendoza, Mosel, Nahe, Patagonia, Piedmont, Provence, Rhône
+- [[Skurnik_Wines|Skurnik Wines]] — Lombardy
 - [[Soil_Expedition|Soil Expedition]] — Natural/terroir wines.
 - [[Stelle|Stelle]] — Italian wines.
 - [[Steven_Graf_Wine|Steven Graf Wine]] — France, Italy, Spain
@@ -135,6 +137,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Terres_Blanches|Terres Blanches]] — French wines.
 - [[Terrestrial_Wine_Co|Terrestrial Wine Co.]] — Natural wines. Distributed by PM Wine.
 - [[The_Artisan_Collection|The Artisan Collection]] — Specialty artisan portfolio.
+- [[The_Source_Imports|The Source Imports]] — Lombardy
 - [[Theise|Theise]] — Mosel, Nahe
 - [[Thomas_Kalder_Selections|Thomas Kalder Selections]] — Alsace, Beaujolais, Burgundy, Catalonia, Champagne, Jura, Loire, Rhône, Valais
 - [[Ungrafted|Ungrafted]] — CT-based distributor. Natural/artisan.
@@ -283,7 +286,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_770 producers across 48 regions._
+_793 producers across 48 regions._
 
 ### Abruzzo
 
@@ -306,8 +309,13 @@ _770 producers across 48 regions._
 
 ### Alto Adige / Südtirol
 
+- [[cantina_furlani|Cantina Furlani]] — Alto Adige / Südtirol / Trentino · biodynamic, organic
+- [[foradori|Foradori]] — Alto Adige / Südtirol / Trentino · biodynamic
 - [[josephus_mayr|Josephus Mayr]] — Alto Adige / Südtirol · DTE 1
+- [[kuenhof|Kuenhof]] — Alto Adige / Südtirol / Isarco Valley · organic, biodynamic
 - [[pacherhof|Pacherhof]] — Alto Adige / Südtirol / Eisacktal · DTE 2
+- [[perciso|Perciso]] — Alto Adige / Südtirol · conventional
+- [[weingut_nusserhof|Weingut Nusserhof]] — Alto Adige / Südtirol / Bolzano · organic
 
 ### Apulia
 
@@ -600,6 +608,7 @@ _770 producers across 48 regions._
 ### Friuli-Venezia Giulia
 
 - [[adriano_gigante|Gigante (Adriano)]] — Friuli-Venezia Giulia / Colli Orientali (Corno di Rosazzo)
+- [[benjamin_zidarich|Benjamin Zidarich]] — Friuli-Venezia Giulia / Carso · biodynamic, natural
 - [[borgo_del_tiglio|Borgo del Tiglio]] — Friuli-Venezia Giulia / Collio (Brazzano di Cormons) · CSW 1
 - [[canus|Canus]] — Friuli-Venezia Giulia / Colli Orientali (Corno di Rosazzo)
 - [[castelvecchio|Castelvecchio]] — Friuli-Venezia Giulia / Carso (Sagrado)
@@ -635,6 +644,7 @@ _770 producers across 48 regions._
 - [[malina|Malina]] — Friuli-Venezia Giulia / Colli Orientali
 - [[marco_sara|Marco Sara]] — Friuli-Venezia Giulia / Colli Orientali (Savorgnano del Torre, Povoletto) · organic
 - [[meroi|Meroi]] — Friuli-Venezia Giulia / Colli Orientali · organic
+- [[miani|Miani]] — Friuli-Venezia Giulia / Colli Orientali · conventional
 - [[monviert|Monviert]] — Friuli-Venezia Giulia / Colli Orientali (Savorgnano del Torre, Povoletto)
 - [[necotium|Necotium]] — Friuli-Venezia Giulia / Colli Orientali
 - [[paolo_caccese|Paolo Caccese]] — Friuli-Venezia Giulia / Collio (Pradis, Cormons)
@@ -662,6 +672,7 @@ _770 producers across 48 regions._
 - [[vignai_da_duline|Vignai da Duline]] — Friuli-Venezia Giulia / Colli Orientali · organic, natural
 - [[villa_job|Villa Job]] — Friuli-Venezia Giulia / Carso
 - [[villa_russiz|Villa Russiz]] — Friuli-Venezia Giulia / Collio (Capriva del Friuli)
+- [[vodopivec|Vodopivec]] — Friuli-Venezia Giulia / Carso · biodynamic
 - [[zidarich|Zidarich]] — Friuli-Venezia Giulia / Carso (Prepotto, Duino Aurisina) · organic, natural · CSW 1
 - [[zuani|Zuani]] — Friuli-Venezia Giulia / Collio (San Floriano del Collio)
 
@@ -767,17 +778,23 @@ _770 producers across 48 regions._
 
 ### Lombardy
 
+- [[1701_franciacorta|1701 Franciacorta]] — Lombardy / Franciacorta · biodynamic, organic
 - [[arcari_e_danesi|Arcari e Danesi]] — Lombardy / Franciacorta
 - [[areni_e_drizini|Areni e Drizini]] — Lombardy / Oltrepo Pavese
+- [[arpepe|Arpepe]] — Lombardy / Valtellina · conventional
 - [[bagera|Bagera]] — Lombardy / Valtellina
 - [[balgera|Balgera]] — Lombardy / Valtellina
+- [[barbacarlo|Barbacarlo]] — Lombardy / Oltrepò Pavese · organic, natural
 - [[barone_pizzini|Barone Pizzini]] — Lombardy / Franciacorta
 - [[bianchi_e_rizini|Bianchi e Rizini]] — Lombardy / Oltrepo Pavese
 - [[bruno_verdi|Bruno Verdi]] — Lombardy / Oltrepò Pavese
+- [[casa_caterina|Casa Caterina]] — Lombardy / Franciacorta · organic, natural
 - [[castello_di_stefanago|Castello di Stefanago]] — Lombardy / Oltrepò Pavese
 - [[castello_di_stefano|Castello di Stefano]] — Lombardy / Oltrepo Pavese
 - [[chiaretto|Chiaretto]] — Lombardy / Brescia
+- [[corte_pagliare_verdieri|Corte Pagliare Verdieri]] — Lombardy / Mantovano · conventional
 - [[dirupi|Dirupi]] — Lombardy / Valtellina
+- [[enrico_togni_rebaioli|Enrico Togni Rebaioli]] — Lombardy / Val Camonica · organic, natural
 - [[farruscello_rubio|Farruscello & Rubio]] — Lombardy / Oltrepo Pavese
 - [[fattoria_mondo_antico|Fattoria Mondo Antico]] — Lombardy / Franciacorta
 - [[fondo_bozzole|Fondo Bozzole]] — Lombardy / Lambrusco Mantovano
@@ -786,6 +803,7 @@ _770 producers across 48 regions._
 - [[il_pudio|Il Pudio]] — Lombardy / Oltrepo Pavese
 - [[le_sincere|Le Sincere]] — Lombardy / Chiaretto
 - [[marcel_zanolari|Marcel Zanolari]] — Lombardy / Valtellina
+- [[pasini_san_giovanni|Pasini San Giovanni]] — Lombardy / Lake Garda · organic, biodynamic
 - [[prandello|Prandello]] — Lombardy / Oltrepo Pavese
 - [[pratello|Pratello]] — Lombardy / Lugana
 - [[sandro_fay|Sandro Fay]] — Lombardy / Valtellina
@@ -1197,7 +1215,15 @@ _770 producers across 48 regions._
 
 ### Veneto
 
+- [[cantina_filippi|Cantina Filippi]] — Veneto / Soave · organic
+- [[corte_santalda|Corte Sant'Alda]] — Veneto / Valpolicella · organic
+- [[costadila|Costadilà]] — Veneto / Prosecco Region · organic
 - [[dal_forno_romano|Dal Forno Romano]] — Veneto / Valpolicella · Raeder 22
+- [[giovanni_menti|Giovanni Menti]] — Veneto / Gambellara · organic, biodynamic
+- [[la_biancara|La Biancara]] — Veneto / Gambellara · biodynamic, organic
+- [[monte_dei_ragni|Monte dei Ragni]] — Veneto / Valpolicella · sustainable
+- [[vignaioli_contra_soarda|Vignaioli Contra Soarda]] — Veneto / Breganze · sustainable
+- [[villa_calicantus|Villa Calicantus]] — Veneto / Bardolino · biodynamic
 
 ## Events
 

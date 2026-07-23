@@ -2,16 +2,21 @@
 type: region_index
 region: "Alto Adige / Südtirol"
 updated: 2026-07-23
-producer_count: 2
+producer_count: 7
 ---
 
 # Alto Adige / Südtirol — Producer Index
 
-**2 producers** tracked.
+**7 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
+| [[cantina_furlani|Cantina Furlani]] | Italy | Trentino | — | — | — | — | — |
+| [[foradori|Foradori]] | Italy | Trentino | — | — | — | — | — |
 | [[josephus_mayr|Josephus Mayr]] | Italy | — | — | 1 | — | — | — |
+| [[kuenhof|Kuenhof]] | Italy | Isarco Valley | — | — | — | — | — |
 | [[pacherhof|Pacherhof]] | Italy | Eisacktal | — | 2 | — | — | — |
+| [[perciso|Perciso]] | Italy | — | — | — | — | — | — |
+| [[weingut_nusserhof|Weingut Nusserhof]] | Italy | Bolzano | — | — | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*
