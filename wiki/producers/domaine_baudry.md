@@ -331,6 +331,10 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Notes
+
+Domaine Bernard Baudry (now led by son Matthieu since 2000) represents the modern Chinon reference for organic, terroir-driven Cabernet Franc. Established 1975, the estate has grown to ~32 hectares across diverse soils (gravel, clay-limestone, sandy terroirs) producing five distinct Cabernet Franc cuvées, each vinified separately to express its unique terroir. All farming is certified organic, hand-harvested, bottled without fining or filtration—honoring natural vinification philosophy. Key US wines include La Croix Boissée (the estate's premier cuvée, structured for aging), Les Grézeaux (pleasing and versatile), and newer Les Mollières expression. Polaner Selections distributes to the US. Chambers Street championed aggressively since 2006 with 45 articles and 20 cellar picks—positioning Baudry as perhaps the reference Chinon producer. Berserkers community tracks 44 mentions with rising momentum (2023+: 1.2× acceleration), reflecting consistent quality and reputation growth. Wines demonstrate generous fruit with firm structure and food-friendly positioning, drinking beautifully at release while aging 15-25+ years.
+
 ## Cross-references
 
 - [[Loire_Producers|Loire]]

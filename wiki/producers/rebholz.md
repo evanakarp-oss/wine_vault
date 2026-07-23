@@ -104,14 +104,7 @@ Distributed through Skurnik and Terry Theise networks, reflecting alignment with
 
 ## Cellar Fit & Taste Alignment
 
-**Excellent fit.** Rebholz exemplifies all key taste criteria:
-- **Biodynamic-certified:** Demeter certification reflects genuine commitment to regenerative farming
-- **Terroir-driven:** Pfalz vineyard sites are worked with minimal intervention to express geological character
-- **Grower-scale:** Small production, personal oversight, sustainability focus
-- **Dry-wine discipline:** Wines emphasize mineral purity and food compatibility
-- **Ageability:** Well-structured Rieslings demonstrate 20-30+ year aging potential
-
-Rebholz's biodynamic commitment and natural-wine methods position it as one of Germany's most philosophically-aligned producers with Evan's taste criteria.
+**Excellent fit.** Rebholz exemplifies all key taste criteria. Hansjörg Rebholz earned Winemaker of the Year (2002) and Gault-Millau five-grape highest rating. The estate has grown to 25 hectares with vineyard holdings in sweet spots: Kastanienbusch and Mandelberg (Birkweiler), Im Sonnenschein and Ganz Horn (Siebeldingen), Schäwer (Burrweiler). Estate specializes in powerfully dry Riesling—wines are neither enriched nor de-acidified, reflecting belief that both practices spoil natural character. Current US distribution through Skurnik and Theise (alongside other serious German biodynamic producers). Production ~50,000-80,000 bottles annually; modest scale enables personal oversight and sustainability. Key US wines include Pfalz Dry Riesling and site-specific bottlings from old-vine parcels (30-50 year plantings) emphasizing mineral purity, restraint, food compatibility. Biodynamic certification (via Demeter) and natural-wine methods position Rebholz as one of Germany's most philosophically-aligned producers with collectors seeking regenerative farming, terroir expression, and age-worthy dry-wine discipline.
 
 ## Cross-references
 

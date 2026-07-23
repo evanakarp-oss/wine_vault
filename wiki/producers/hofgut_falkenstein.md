@@ -145,6 +145,10 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Notes
+
+Hofgut Falkenstein represents one of Germany's most characterful and traditional expressions of Riesling from the Saar valley. Founded 1985 by Erich Weber, now run with son Johannes; family-owned winery stands surrounded by verdant vineyards above the Konz valley. Vines grow on steep, high-altitude slopes across classic Saar sites (Krettnacher Altenberg, Niedermenniger Herrenberg, Euchariusberg)—soils rich in grey slate and quartz yielding light, crisp, bracingly mineral wines. All vineyard work done by hand; traditional 1,000-liter oak Fuder barrel fermentation (no herbicides, artificial fertilizers—cow dung applied instead). Certified biodynamic and organic. Winemaking emphasizes low alcohol, lovely aromas per Jules Chauvet philosophy; extended lees aging in Fuder barrels develops complexity. Production is modest (~50,000-80,000 bottles annually). Skurnik and Theise distribute to the US. Chambers Street championed aggressively since 2012 (12 articles, 6 cellar picks); Berserkers community shows accelerating momentum (rank #25 of 2067 producers, 32 mentions, 3.57× momentum 2023+). CSW describes as "one of Germany's great maverick estates"; wines show remarkable balance of mineral intensity, floral aromatics, and food compatibility across multiple price points.
+
 ## Cross-references
 
 - [[Germany_Producers|Germany]]

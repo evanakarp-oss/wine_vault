@@ -110,6 +110,10 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Notes
+
+Clos du Joncuas exemplifies old-school Southern Rhône organic viticulture and traditional winemaking. Founded in 1920 by Pierre Auguste Chastan and now run by sisters Dany and Carole Chastan, the estate has farmed organically since 1920 and certified since 1980, with biodynamic practices now integrated. Key wines include Gigondas, Vacqueyras, and Seguret cuvées, each produced via whole-cluster fermentation with wild yeasts in cement tanks, then aged in old barrels—a characterful, entirely old-fashioned approach. Gigondas vines grow on slopes below the Dentelles de Montmirail on clay-limestone soils with dolomite substrate, averaging 40-90 year-old plantings. Grenache dominates the blend, producing wines with apparent contradictions: thickness and opalescence, richness on a lithe frame. CSW describes them as beginning to drink beautifully after 3-4 years, showing complexity and depth at 8-15 years. Kermit Lynch imports to the US; Chambers Street has championed the estate since 2014 with strong consistent support.
+
 ## Cross-references
 
 - [[Rhône_Producers|Rhône]]

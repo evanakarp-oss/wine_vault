@@ -108,6 +108,10 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Notes
+
+Domaine Sylvie Esmonin (formerly Domaine Michel Esmonin et Fille) operates a 7.8-hectare estate in Gevrey-Chambertin rooted in deep family tradition. Sylvie's grandfather worked for Comte de Moucheron (who held Clos Saint Jacques monopoly); when Comte sold in 1950s, grandfather purchased both Clos Saint Jacques parcel and adjoining house/buildings that became the domaine base. Contemporary vineyards include prestigious Clos Saint Jacques holding plus village parcels in stony Les Crais lieu-dit. Winemaking emphasizes old vines, organic practices, and terroir-driven elegance from plots near Gevrey's most celebrated terroir. 2020 Gevrey-Chambertin (old vines, 50% whole bunch fermentation, from stony Les Crais) received 92 points from Christy Canterbury, MW. 2023 Gevrey-Chambertin Vieilles Vignes carries 8-10 years estimated aging potential—wines positioned for keeping but "super wine not made for fashionably early drinking." Kermit Lynch distributes to the US. Chambers Street championed aggressively since 2007 with 8 articles and 6 cellar picks (through 2025), positioning Esmonin as a reference Gevrey-Chambertin grower alongside family friends like Fourrier. Wines show brilliant complexity, powerful structure, and natural character reflecting old-vine maturity and minimal-intervention philosophy.
+
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]

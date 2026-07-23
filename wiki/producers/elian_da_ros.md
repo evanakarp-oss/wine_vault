@@ -71,6 +71,10 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Notes
+
+Elian Da Ros is a biodynamic producer in the obscure Côtes-du-Marmandais appellation (Lot-et-Garonne, SW France, 45 minutes upstream from Sauternes). Arrived in Cocumont ~two decades ago; currently manages 22 hectares with annual production of ~85,000 bottles. Holds organic (AB) and biodynamic certifications. Works diverse grape varieties including Merlot, Cabernet Franc, Cabernet Sauvignon, Abouriou, Malbec, Syrah, Sauvignon Blanc, Sauvignon Gris, and Sémillon. Winemaking emphasizes natural fermentation using indigenous yeasts; Malbec and Syrah undergo whole-cluster maceration in open foudres; Merlot/Cabernet are de-stemmed with 2-3 week macerations. Key wines include Clos Baquey (50% Merlot, 20% Cabernet Sauvignon, 20% Malbec, 10% Syrah) and signature Outre Rouge rosé. Henderson Selections distributes to the US. Chambers Street championed since 2022 with consistent positioning of the wines as "unique and soulful" expressions of an underrated terroir. The Marmandais region's relative obscurity contrasts with wine quality—CSW writes "Even in France, the Marmandais region is quite obscure unless you are a rugby fan or a tomato aficionado."
+
 ## Cross-references
 
 - [[Bordeaux_Producers|Bordeaux]]

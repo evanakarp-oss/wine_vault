@@ -69,9 +69,4 @@ _None owned yet._
 
 ## Notes
 
-**On the 2026-07 Friuli list:** Friulano 2024 €48, Malvasia 2024 €48, Pinot Bianco
-2024 €48, Merlot Blu 2020 €55.
-
-**Cellar fit.** Strong — grower-scale, site-driven, the reference for what unoaked
-Collio varietal whites taste like. The Kermit connection makes US sourcing easy.
-Pinot Bianco is the calling card.
+**Benchmark Collio reference:** Founded 1950 by Isidoro "Doro" Princic, bottling since 1952; now three generations (Alessandro/Sandro + wife Grazia, son Carlo) maintaining heritage. Manages ~12 hectares in Pradis di Cormons, with 75% planted to white varietals—Friulano, Pinot Bianco, Malvasia prominent, plus Sauvignon Blanc, Ribolla Gialla, Cabernet Franc, and Merlot. Stainless-steel vinification with full malolactic fermentation, bottled unfined—representing classic (non-macerated) Collio whites with aroma-enriching via temperature-controlled fermentation. Wines positioned as the reference for what unoaked Collio varietal whites express: mineral purity, cool-climate freshness, terroir transparency. Kermit Lynch distributes to the US. Pinot Bianco is the calling card; international reputation established over 70+ years of consistent quality. Current pricing on 2026-07 Friuli list: Friulano 2024 €48, Malvasia 2024 €48, Pinot Bianco 2024 €48, Merlot Blu 2020 €55.

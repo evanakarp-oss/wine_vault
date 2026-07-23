@@ -133,3 +133,9 @@ Currently tracked at Raeders: **11 cuvée/vintage entries**; prices $13.99–$77
 ## FASS
 
 _Not yet populated._
+
+## Notes
+
+Domaine Laroche is a family business winery in Chablis AOC, Burgundy's premier white region, currently undergoing conversion to organic viticulture. Grégory Viennois, a University of Burgundy graduate, serves as winemaker, bringing modern oenological training to traditional Chablis practices. The estate holds significant vineyard acreage across Chablis, producing clean, mineral-driven expressions emphasizing site character over winemaker intervention. Raeders tracking shows 11 cuvée/vintage entries spanning $13.99-$77.99, with wines including Chablis St.-Martin (the broad-based village cuvée), Chablis Les Fourchaumes Vieilles Vignes, Les Clos Grand Cru, and Les Vaillons Vieilles Vignes bottlings. Critic ratings span Wine Advocate (90-94 points), Wine Spectator (90-94 points), and Wine Enthusiast (94 points) for recent vintages. Wilson Daniels distributes to the US. Chambers Street championed the producer since 2020 with consistent support, positioning Laroche as a reliable reference for food-friendly, age-worthy Chablis that balances modern freshness with traditional mineral-stone character.
+
+

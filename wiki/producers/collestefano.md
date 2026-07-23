@@ -60,3 +60,9 @@ _Not yet populated._
 ## FASS
 
 _Not yet populated._
+
+## Notes
+
+Collestefano is a small family-run estate in Castelraimondo (Matelica, Marche region) established in April 1998 by Fabio Marchionni, certified organic since 1995. Specializes in Verdicchio di Matelica DOC, producing hand-harvested, predominantly stainless-steel vinified wines emphasizing freshness and mineral expression. Oliver McCrum Wines (California-based importer since 1994, focusing on small-production Italian wines) represents the producer in the US market. Down to Earth (Panzer) portfolio tracking shows 7 cuvée/vintage entries priced $16-23: Verdicchio di Matelica (multiple vintages 2020-2022), Rosa di Elena rosato, and Spumante Dosaggio Zero Vigna le Prata. The organic farming and minimal-intervention winemaking approach aligns with natural wine movement, while the Verdicchio varietal positioning reflects Marche's emerging reputation for terroir-driven white wines beyond Trebbiano conventions.
+
+

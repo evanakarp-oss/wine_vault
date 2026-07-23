@@ -481,3 +481,9 @@ _[Raeders link](https://www.raederswine.com/wines/Domaine-Leflaive-Macon-Verze-L
 ## FASS
 
 _Not yet populated._
+
+## Notes
+
+Domaine Leflaive is the definitive reference for biodynamic Puligny-Montrachet Chardonnay, one of Burgundy's most iconic domaines with roots tracing to 1717 Claude Leflaive. Modern identity shaped under Anne-Claude Leflaive (1990s onward), who became region's vocal advocate for biodynamic viticulture—the domaine now practices certified biodynamic agriculture across 24 hectares concentrated in Puligny-Montrachet. Flagship wines include Les Pucelles (famous from 1976 Judgment of Paris ranking #8), Clavoillon, and Les Folatières premier crus; production emphasizes precision, mineral clarity, and longevity. Raeders tracking shows 19 cuvée/vintage entries spanning $89.99-$599.99, with recent critic scores (Wine Advocate, Wine Spectator, James Suckling) consistently 93-96 points. Winemaking innovations (finishing élevage in steel tank sur lie, DIAM closures) reflect efforts to address historical premox issues while maintaining identity. Wilson Daniels distributes to the US. Berserkers community shows 44 posts from William Kelley spanning 2015-2022, positioning Leflaive within the elite tier of white Burgundy producers—though contemporary reviews increasingly highlight stylistic questions around recent vintage consistency and winemaking evolution.
+
+

@@ -240,3 +240,9 @@ _Not yet populated._
 ## FASS
 
 _Not yet populated._
+
+## Notes
+
+Domaine Louis-Claude Desvignes is a reference Morgon producer known for traditionally-made, age-worthy Gamay with structured tannic potential. Based in Villié-Morgon in Beaujolais, the estate focuses on multiple Morgon crus (Javernières, Côte du Py, La Voûte Saint-Vincent, Les Impénitents, Corcelette) via parcel-by-parcel vinification, traditional fermentation with indigenous yeasts, and aging in old wooden barrels or concrete vessels. Down to Earth portfolio tracking shows 2 current cuvées: Morgon Impenitents (2022, $79) and Morgon la Voûte Saint Vincent (2022, $23), reflecting the production diversity from entry-level to premium expressions. Bowler Wine distributes to the US. Chambers Street has championed the producer since 2007 with 13 articles and consistent cellar picking; Berserkers community consensus positions Desvignes wines as genuinely age-worthy (20+ years when traditionally made)—a countercultural stance in modern Beaujolais. Critic William Kelley has positioned the estate among the finest traditional Morgon makers alongside Bouland and Dutraive.
+
+

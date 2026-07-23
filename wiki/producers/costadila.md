@@ -51,7 +51,9 @@ Natural-wine pioneer founded 2006 by Ernesto Cattel in Tarzo, Treviso province, 
 
 ## Notes
 
-**Ancestral-method pioneer:** Col Fondo + skin-contact combination rare even in natural-wine circles. Ernesto's legacy continues through communal stewardship model. Altitude-based wine naming reflects terroir obsession. Orange-wine (skin-contact) production demonstrates experimental minimalism. Polyculture approach reflects sustainable-agriculture commitment beyond viticulture.
+**Ancestral-method pioneer:** Col Fondo (ancestral/pét-nat) + skin-contact (orange wine) combination is rare even in natural-wine circles. Ernesto Cattel's legacy (1949-2019) continues through communal stewardship model now led by son Arno Cattel and family-friend circle. Altitude-based wine naming (280 s.l.m., 450 s.l.m.) reflects terroir obsession over branding. Organic farming with zero SO₂ in vinification, native-yeast fermentation, unfined/unfiltered production demonstrates experimental minimalism aligned with contemporary natural-wine movement. Polyculture farm (vines coexist with fruits, vegetables, cereals, livestock) reflects sustainable-agriculture commitment extending beyond viticulture. Located in Tarzo, Treviso province above Conegliano in Prosecco hills; Jenny & François Selections distributes to the US. Wines serve as reference points for low-intervention Prosecco alternatives to conventional méthode classique.
+
+
 
 ## Cross-references
 

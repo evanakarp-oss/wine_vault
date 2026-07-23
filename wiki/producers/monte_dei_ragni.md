@@ -51,7 +51,7 @@ Small artisan winery in Fumane (Verona province) run by Zeno Zignoli, representi
 
 ## Notes
 
-**Heritage scale:** Five-generation family operation; 2-hectare vineyard constraint creates scarcity premium. Cult status reflects quality-over-volume commitment. Polyculture approach (olives, cereals, fruit) reflects integrated farmland philosophy. Animal-powered cultivation honors traditional methods. Zeno's stewardship balances heritage preservation with contemporary natural viticulture.
+**Cult Valpolicella reference:** Monte dei Ragni is a tiny, remarkable estate (8 hectares total, 2 planted vines; rest cultivated with olive trees, cereals, fruit trees, vegetables creating biodiversity) perched on vertiginous slopes above Fumane in Valpolicella Classico zone at 250-350 meters elevation. Run by Zeno Zignoli representing five generations of Ragno family winemaking tradition. Name derives from 19th-century land register reference to "spider hill" (ragni = spiders). Produces only 300-500 cases annually (~700 bottles reach US market), creating genuine scarcity. Produces Valpolicella, Amarone (only in exceptional vintage years via 2-4 month dried-grape attic aging), occasional Ripasso, and Garganega white. Traditional Amarone-drying employs vertical canvas nets in air-ventilated attic, then crushing and open-wood fermentation over ambient yeasts for 3-4 weeks. Chemical-free viticulture using traditional techniques; often employs horses and animals in vineyard work. Cult status reflects quality-over-volume commitment and heritage preservation. Polaner Selections distributes to the US. Zeno's stewardship balances family tradition with contemporary natural viticulture ethics.
 
 ## Cross-references
 

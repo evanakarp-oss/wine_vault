@@ -153,6 +153,10 @@ Currently tracked: **1 cuvée/vintage entries**; prices $379.99–$379.99.
 
 _Not yet populated._
 
+## Notes
+
+Giacomo Conterno is arguably the top producer of traditional Barolo in Piedmont, representing 117 years of heritage (founded 1908 as wine bar by father Giovanni, estate formalized when Giacomo returned from WWI). Located at foot of Monforte d'Alba in Langhe. Crown jewel is Barolo Riserva Monfortino—the first Barolo made in what became known as the classic Barolo style. Monfortino produced only in exceptional vintages at ~600 cases annually (Romanée-Conti/Screaming Eagle scale production), aged 6-8 years in barrel—one of Italy's most traditionally-made Barolos. Key holdings include Cascina Francia vineyard, producing a Barbera d'Alba (frequently compared to top aged Burgundies for complexity and ageability—CSW calls it "easily one of the most velvety and ageworthy Barbera's out there"). Recent critic ratings show Barolo Cascina Francia receiving 95-97 points from Vinous (2016-2017 vintages). Polaner Selections distributes to the US; Raeders tracking shows Barolo Cerretta 2021 at $379.99. Berserkers community ranks Conterno #50 of 2067 producers with 23 mentions, though momentum has faded (2023+: 0.31× decline from earlier era). CSW championed since 2007; the estate represents the old-guard Barolo philosophy of structure, aging potential, and terroir expression.
+
 ## Cross-references
 
 - [[Italy_Producers|Italy]]

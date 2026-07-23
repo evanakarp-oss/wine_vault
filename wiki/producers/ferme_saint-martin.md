@@ -80,6 +80,10 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Notes
+
+Domaine de la Ferme Saint-Martin represents pioneering natural winemaking in the Southern Rhône. Located in Suzette (Beaumes-de-Venise appellation, picturesque Dentelles de Montmirail region), the estate manages 25 hectares across 10 parcels at 450-600 meters elevation—literally on sides of Mont Ventoux in a former 11th-century convent. Family-run since 1955 (when Aimé and Yvonne Jullien rebuilt after freeze devastation); now third-generation (Thomas Jullien and wife Sophie) steward. Certified organic since 1998. Vineyard composition: 60% Grenache, 20% Syrah, 10% Cinsault, 10% Mourvèdre. Produces wines across 3 appellations (Beaumes-de-Venise, Vacqueyras, Côtes du Rhône) via wild-yeast fermentation with minimal sulfur and no additives. Vines worked on horseback; grapes harvested by hand—honoring traditional methods. Kermit Lynch distributes to the US; Chambers Street championed since 2015 with consistent cellar picks and strong aging scores. Wines show power with mineral restraint, drinking well immediately while aging beautifully 20+ years, reflecting the high-altitude terroir and traditional winemaking philosophy.
+
 ## Cross-references
 
 - [[Rhône_Producers|Rhône]]

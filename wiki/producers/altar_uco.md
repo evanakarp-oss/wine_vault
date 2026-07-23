@@ -54,6 +54,10 @@ Malbec, Cab Franc, Pinot Noir
 
 Wine Enthusiast
 
+## Notes
+
+Altar Uco represents the emerging generation of Mendoza artisan producers driven by authentic terroir expression rather than commercial scale. Founded in 2014 by co-winemakers Daniel Kokogian and Juan Pablo Michelini (head winemaker of Zorzal), the project emphasizes "quiet wines" requiring minimal human intervention—fermented over 1-2 months, then aged for years at rest. Distributed by Skurnik in the US, the estate sources grapes from Gualtallary at 1,200 meters elevation on limestone-rich soils. The high-altitude ecology produces wines of remarkable purity and delicate expression, with "pure and delicate terroir interpretations" defining the house aesthetic. Michelini's approach seeks to minimize winemaker intervention, capturing what he terms "man's interpretation of nature" rather than imposing stylistic dominance.
+
 ## Cross-references
 
 - [[Mendoza_Producers|Mendoza]]
