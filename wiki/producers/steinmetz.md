@@ -18,6 +18,7 @@ retailers:
     dedicated_count: 0
     first_year: 2007
     last_year: 2025
+    aging_score: 4
   dte:
     in_portfolio: true
     cuvee_count: 37

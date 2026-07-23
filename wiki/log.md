@@ -1351,3 +1351,25 @@ just 1–2 posts). Net: 293→275 Tier-1, 39→57 Tier-2. Updated
 **Taste-filter alignment:** All producers vetted against Evan's criteria (biodynamic-leaning, terroir-driven, grower-scale, age-worthy). German selections emphasize dry-wine discipline + terroir; Italian selections emphasize indigenous varieties + regional specialization. Natural-wine contingent (Heymann-Löwenstein, Rebholz, Ockfenholz, Damiani Podversic, Radikon, Gravner) represents philosophical alignment. Campania/Umbria additions complete non-Tuscany Italian coverage; Saar/Mosel/Nahe/Pfalz/Baden additions solidify German regional depth.
 
 **Next:** Enrich remaining high-priority Mosel growers (Knebel, Immich-Batterieberg, Busch, Vollenweider); backfill Burgundy/Loire producers from CSW gap-analysis lists; add Iberian/Spanish terroir-driven producers (Bierzo, Ribera del Duero grower focus).
+
+## [2026-07-23] compile | aging_score backfill — recall from 87 → 202 producers
+
+`aging_score` (retailers.chambers) was populated for only 121 of 829 producers
+(87 positive), all from a one-time CSW context primer (`csw_context.txt`) that no
+longer exists in the repo. That left 115 CSW-covered producers unscored — a
+low-recall gap where `0`/absent meant "not in the primer," not "no aging
+potential."
+
+- New `scripts/compile_aging_backfill.py` — curated decision table (115 slugs),
+  gap-fill only (never overwrites a positive score; replaces explicit 0s;
+  inserts where absent). Touches `aging_score` only; leaves `cellar_pick` alone.
+- Scores are aging-**capacity** estimates by region/grape archetype + producer
+  tier + CSW championing, calibrated to the 22 primer anchors (Olga Raffault /
+  Breton 14 → Baudry 13 → Guion 12 → Chevalerie 10 → Texier 8 → Gonon 7 →
+  15-20yr agers 5-6 → moderate 4). Heuristic, **not** Chambers' literal verdict —
+  the field is mixed-provenance from today onward (documented in the script + the
+  `csw_aging_language_2026_07` view).
+- Result: 81 inserted + 34 zero-updates = 115 applied; producers scoring ≥4 rose
+  22 → 131. Report at `build/aging_backfill_report.md`. lint 0, index no-drift.
+- **Follow-up flagged:** `bernard_baudry` and `domaine_baudry` are the same
+  producer (both now score 13) — duplicate page, candidate for merge.

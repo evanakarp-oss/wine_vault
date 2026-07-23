@@ -18,6 +18,7 @@ retailers:
     dedicated_count: 0
     first_year: 2006
     last_year: 2006
+    aging_score: 5
   dte:
     in_portfolio: true
     cuvee_count: 1

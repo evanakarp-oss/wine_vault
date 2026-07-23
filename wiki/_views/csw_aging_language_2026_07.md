@@ -49,14 +49,24 @@ next producer, Éric Texier, is a distant 8):
 The "affordable + ageworthy" thesis isn't a vibe — Chambers quantified it, and
 Loire Cab Franc scores highest in the vault.
 
-**Coverage caveat.** The score is populated for only 121 of 829 producers, and
-its provenance is a one-time CSW context primer (`csw_context.txt`, landed via
-`scripts/compile_csw_cellar_signal.py`) that no longer exists in the repo. So a
-`0`/absent score means *"not covered by that primer,"* not *"CSW sees no aging
-potential"* — **81 CSW-covered producers carry no score at all** (Clos Rougeard,
-Freslier, Thévenet, etc. all read as ageworthy in their bodies). Treat the field
-as a high-precision / low-recall signal: a high score is meaningful; a missing
-one is silence, not a negative.
+**Coverage & provenance (updated 2026-07-23).** The score originally came from a
+one-time CSW context primer (`csw_context.txt`, landed via
+`scripts/compile_csw_cellar_signal.py`) that no longer exists in the repo and
+covered only 121 of 829 producers (87 positive). That left 115 CSW-covered
+producers unscored — a low-recall gap. A backfill pass
+(`scripts/compile_aging_backfill.py`, gap-fill only) extended coverage to **202
+producers**, so **the field is now mixed-provenance**:
+
+- **Primer-sourced (87, incl. the top-22 above):** an LLM's read of actual
+  Chambers article text — closest to *Chambers' literal verdict*.
+- **Backfilled (115):** curated aging-*capacity* estimates by region/grape
+  archetype + producer tier + CSW championing, calibrated to the primer anchors.
+  A defensible signal for cellar planning, **not** a Chambers quote.
+
+The top of the ladder is unchanged — the backfill fills the middle/long tail
+(e.g. Cavallotto 12, Biondi Santi 14, Léon Barton 13, Jamet 9) without
+overwriting any existing score. Still treat a *missing* score (627 producers,
+mostly no CSW coverage) as silence, not a negative.
 
 ## The passages, grouped by the rhetorical move CSW makes
 

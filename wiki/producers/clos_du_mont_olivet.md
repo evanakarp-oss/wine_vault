@@ -18,6 +18,7 @@ retailers:
     dedicated_count: 0
     first_year: 2017
     last_year: 2017
+    aging_score: 7
   dte:
     in_portfolio: true
     cuvee_count: 1

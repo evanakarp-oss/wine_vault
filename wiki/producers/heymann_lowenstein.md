@@ -25,6 +25,7 @@ retailers:
     dedicated_count: 1
     first_year: 2009
     last_year: 2023
+    aging_score: 8
   dte:
     in_portfolio: false
     cuvee_count: 0

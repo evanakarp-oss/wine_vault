@@ -21,6 +21,7 @@ retailers:
     dedicated_count: 0
     first_year: 2026
     last_year: 2026
+    aging_score: 6
   dte:
     in_portfolio: false
     cuvee_count: 0

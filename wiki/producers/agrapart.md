@@ -20,6 +20,7 @@ retailers:
     dedicated_count: 7
     first_year: 2013
     last_year: 2026
+    aging_score: 6
   dte:
     in_portfolio: true
     cuvee_count: 2

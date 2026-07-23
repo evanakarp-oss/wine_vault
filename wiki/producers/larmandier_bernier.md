@@ -19,6 +19,7 @@ retailers:
     dedicated_count: 1
     first_year: 2024
     last_year: 2024
+    aging_score: 6
   dte:
     in_portfolio: true
     cuvee_count: 3

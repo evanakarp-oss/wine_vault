@@ -23,6 +23,7 @@ retailers:
     dedicated_count: 0
     first_year: 2010
     last_year: 2021
+    aging_score: 6
   dte:
     in_portfolio: false
     cuvee_count: 0

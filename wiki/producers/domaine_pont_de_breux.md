@@ -18,7 +18,7 @@ retailers:
     dedicated_count: 3
     first_year: 2014
     last_year: 2024
-    aging_score: 0
+    aging_score: 4
     cellar_pick: false
   dte:
     in_portfolio: false
