@@ -1,11 +1,11 @@
 ---
 type: producer
-name: "Venica Venica"
-slug: venica_venica
+name: "Vigna da Duna"
+slug: vigna_da_duna
 country: "Italy"
 region: "Friuli-Venezia Giulia"
-sub_region: "Collio"
-appellations: ["Friuli-Venezia Giulia", "Collio Goriziano DOC"]
+sub_region: "Colli Orientali"
+appellations: ["Friuli-Venezia Giulia", "Colli Orientali del Friuli DOC"]
 
 farming: []
 certifications: []
@@ -29,14 +29,14 @@ retailers:
   fass:
     in_portfolio: false
 
-tags: ["friuli-venezia-giulia", "collio", "italian-northeastern"]
+tags: ["friuli-venezia-giulia", "colli-orientali", "italian-northeastern"]
 _sources:
   - campanale_wine_book
 ---
 
-# Venica Venica
+# Vigna da Duna
 
-Collio-based producer in Friuli-Venezia Giulia.
+Colli Orientali-based producer in Friuli-Venezia Giulia.
 
 ## Notes
 

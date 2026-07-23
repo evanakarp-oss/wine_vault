@@ -1,11 +1,11 @@
 ---
 type: producer
-name: "Venica Venica"
-slug: venica_venica
+name: "Skerk"
+slug: skerk
 country: "Italy"
 region: "Friuli-Venezia Giulia"
-sub_region: "Collio"
-appellations: ["Friuli-Venezia Giulia", "Collio Goriziano DOC"]
+sub_region: "Carso"
+appellations: ["Friuli-Venezia Giulia", "Carso DOC"]
 
 farming: []
 certifications: []
@@ -29,14 +29,14 @@ retailers:
   fass:
     in_portfolio: false
 
-tags: ["friuli-venezia-giulia", "collio", "italian-northeastern"]
+tags: ["friuli-venezia-giulia", "carso", "italian-northeastern"]
 _sources:
   - campanale_wine_book
 ---
 
-# Venica Venica
+# Skerk
 
-Collio-based producer in Friuli-Venezia Giulia.
+Carso-based producer in Friuli-Venezia Giulia.
 
 ## Notes
 

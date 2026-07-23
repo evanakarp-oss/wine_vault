@@ -1,7 +1,7 @@
 ---
 type: producer
-name: "Venica Venica"
-slug: venica_venica
+name: "Boggia del Tiglio"
+slug: borghettiglio
 country: "Italy"
 region: "Friuli-Venezia Giulia"
 sub_region: "Collio"
@@ -34,7 +34,7 @@ _sources:
   - campanale_wine_book
 ---
 
-# Venica Venica
+# Boggia del Tiglio
 
 Collio-based producer in Friuli-Venezia Giulia.
 

@@ -1,11 +1,11 @@
 ---
 type: producer
-name: "Venica Venica"
-slug: venica_venica
+name: "Monteraponi"
+slug: monteraponi
 country: "Italy"
-region: "Friuli-Venezia Giulia"
-sub_region: "Collio"
-appellations: ["Friuli-Venezia Giulia", "Collio Goriziano DOC"]
+region: "Tuscany"
+sub_region: "Chianti Classico"
+appellations: ["Tuscany", "Chianti Classico DOCG"]
 
 farming: []
 certifications: []
@@ -29,14 +29,14 @@ retailers:
   fass:
     in_portfolio: false
 
-tags: ["friuli-venezia-giulia", "collio", "italian-northeastern"]
+tags: ["tuscany", "chianti-classico", "sangiovese", "italian-central"]
 _sources:
   - campanale_wine_book
 ---
 
-# Venica Venica
+# Monteraponi
 
-Collio-based producer in Friuli-Venezia Giulia.
+Chianti Classico-based producer in Tuscany.
 
 ## Notes
 
@@ -44,4 +44,4 @@ Collio-based producer in Friuli-Venezia Giulia.
 
 ## Cross-references
 
-- [[Friuli-Venezia-Giulia_Producers|Friuli-Venezia Giulia]]
+- [[Tuscany_Producers|Tuscany]]

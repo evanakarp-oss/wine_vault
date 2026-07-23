@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 1078
+total_pages: 1119
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**1078 pages indexed.**
+**1119 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -36,7 +36,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Colli_Tortonesi_Producers|Colli Tortonesi Producers]] — **1 producers** tracked.
 - [[Corsica_Producers|Corsica Producers]] — **1 producers** tracked.
 - [[Franken_Producers|Franken Producers]] — **3 producers** tracked.
-- [[Friuli-Venezia_Giulia_Producers|Friuli-Venezia Giulia Producers]] — **57 producers** tracked.
+- [[Friuli-Venezia_Giulia_Producers|Friuli-Venezia Giulia Producers]] — **75 producers** tracked.
 - [[Jujuy_Producers|Jujuy Producers]] — **2 producers** tracked.
 - [[Jura_Producers|Jura Producers]] — **14 producers** tracked.
 - [[Liguria_Producers|Liguria Producers]] — **12 producers** tracked.
@@ -58,7 +58,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[San_Juan_Producers|San Juan Producers]] — **1 producers** tracked.
 - [[Savoie_Producers|Savoie Producers]] — **1 producers** tracked.
 - [[Sicily_Producers|Sicily Producers]] — **6 producers** tracked.
-- [[Tuscany_Producers|Tuscany Producers]] — **9 producers** tracked.
+- [[Tuscany_Producers|Tuscany Producers]] — **32 producers** tracked.
 - [[Valle_dAosta_Producers|Valle Daosta Producers]] — **15 producers** tracked.
 - [[Veneto_Producers|Veneto Producers]] — **1 producers** tracked.
 
@@ -273,7 +273,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_531 producers across 40 regions._
+_572 producers across 40 regions._
 
 ### Abruzzo
 
@@ -520,11 +520,14 @@ _531 producers across 40 regions._
 ### Friuli-Venezia Giulia
 
 - [[adriano_gigante|Gigante (Adriano)]] — Friuli-Venezia Giulia / Colli Orientali (Corno di Rosazzo)
+- [[bevc_dusan|Bevc Dusan]] — Friuli-Venezia Giulia / Carso
+- [[borghettiglio|Boggia del Tiglio]] — Friuli-Venezia Giulia / Collio
 - [[borgo_del_tiglio|Borgo del Tiglio]] — Friuli-Venezia Giulia / Collio (Brazzano di Cormons) · CSW 1
 - [[canus|Canus]] — Friuli-Venezia Giulia / Colli Orientali (Corno di Rosazzo)
 - [[castelvecchio|Castelvecchio]] — Friuli-Venezia Giulia / Carso (Sagrado)
 - [[colle_duga|Colle Duga]] — Friuli-Venezia Giulia / Collio (Zegla, Cormons)
 - [[cosco_gravar|Cosco Gravar]] — Friuli-Venezia Giulia / Collio Goriziano
+- [[dalmin|Dalmin]] — Friuli-Venezia Giulia / Colli Orientali
 - [[damijan_podversic|Damijan Podversic]] — Friuli-Venezia Giulia / Collio (Gorizia / Monte Calvario) · organic, natural
 - [[dario_coos|Dario Coos]] — Friuli-Venezia Giulia / Colli Orientali (Nimis / Ramandolo)
 - [[dario_princic|Dario Princic]] — Friuli-Venezia Giulia / Collio (Oslavia) · organic, natural
@@ -534,9 +537,11 @@ _531 producers across 40 regions._
 - [[doro_princic|Doro Princic]] — Friuli-Venezia Giulia / Collio (Pradis di Cormons) · CSW 1
 - [[edi_keber|Edi Keber]] — Friuli-Venezia Giulia / Collio (Zegla, Cormons) · sustainable
 - [[eugenio_collavini|Eugenio Collavini]] — Friuli-Venezia Giulia / Colli Orientali (Corno di Rosazzo)
+- [[franco_terpin|Franco Terpin]] — Friuli-Venezia Giulia / Collio
 - [[franco_toros|Franco Toros]] — Friuli-Venezia Giulia / Collio (Novali, Cormons)
 - [[galliussi|Galliussi]] — Friuli-Venezia Giulia / Colli Orientali
 - [[gravner|Gravner]] — Friuli-Venezia Giulia / Collio (Oslavia) · biodynamic, natural · CSW 1
+- [[il_chipi_gorizia|Il Chipi Gorizia]] — Friuli-Venezia Giulia / Collio
 - [[isidoro_polencig|Isidoro Polencig]] — Friuli-Venezia Giulia / Collio (Plessiva, Cormons)
 - [[jermann|Jermann]] — Friuli-Venezia Giulia / Collio / Isonzo (Villanova di Farra) · Raeder 4
 - [[kante|Kante]] — Friuli-Venezia Giulia / Carso (San Pelagio, Duino Aurisina) · organic
@@ -544,6 +549,7 @@ _531 producers across 40 regions._
 - [[la_magnolia|La Magnolia]] — Friuli-Venezia Giulia / Colli Orientali
 - [[la_ponca|La Ponca]] — Friuli-Venezia Giulia / Collio · organic
 - [[la_tunella|La Tunella]] — Friuli-Venezia Giulia / Colli Orientali (Premariacco)
+- [[le_douro|Le Douro]] — Friuli-Venezia Giulia / Colli Orientali
 - [[le_due_terre|Le Due Terre]] — Friuli-Venezia Giulia / Colli Orientali (Prepotto) · organic
 - [[le_monde|Le Monde]] — Friuli-Venezia Giulia / Friuli Grave (Prata di Pordenone)
 - [[le_vigne_di_zamo|Le Vigne di Zamò]] — Friuli-Venezia Giulia / Colli Orientali (Rosazzo / Manzano)
@@ -552,27 +558,39 @@ _531 producers across 40 regions._
 - [[livon|Livon]] — Friuli-Venezia Giulia / Collio (Dolegnano, San Giovanni al Natisone)
 - [[malina|Malina]] — Friuli-Venezia Giulia / Colli Orientali
 - [[marco_sara|Marco Sara]] — Friuli-Venezia Giulia / Colli Orientali (Savorgnano del Torre, Povoletto) · organic
+- [[merre|Merre]] — Friuli-Venezia Giulia / Colli Orientali
+- [[millo_sellago|Millo Sellago]] — Friuli-Venezia Giulia / Collio
 - [[monviert|Monviert]] — Friuli-Venezia Giulia / Colli Orientali (Savorgnano del Torre, Povoletto)
 - [[necotium|Necotium]] — Friuli-Venezia Giulia / Colli Orientali
 - [[paolo_caccese|Paolo Caccese]] — Friuli-Venezia Giulia / Collio (Pradis, Cormons)
 - [[paolo_rodaro|Paolo Rodaro]] — Friuli-Venezia Giulia / Colli Orientali (Spessa di Cividale)
 - [[piticco|Piticco]] — Friuli-Venezia Giulia / Colli Orientali (Prepotto area)
+- [[pruncili_silli|Pruncili Silli]] — Friuli-Venezia Giulia / Collio
 - [[puiatti|Puiatti]] — Friuli-Venezia Giulia / Collio / Isonzo (Romans d'Isonzo)
 - [[radikon|Radikon]] — Friuli-Venezia Giulia / Collio Goriziano · biodynamic
 - [[roberto_picech|Roberto Picèch]] — Friuli-Venezia Giulia / Collio (Pradis, Cormons)
+- [[rocco|Rocco]] — Friuli-Venezia Giulia / Collio
 - [[ronchi_di_cialla|Ronchi di Cialla]] — Friuli-Venezia Giulia / Colli Orientali (Cialla, Prepotto) · CSW 1
 - [[ronchi_di_manzano|Ronchi di Manzano]] — Friuli-Venezia Giulia / Colli Orientali (Manzano)
 - [[ronco_dei_tassi|Ronco dei Tassi]] — Friuli-Venezia Giulia / Collio (Cormons)
 - [[ronco_del_gnemiz|Ronco del Gnemiz]] — Friuli-Venezia Giulia / Colli Orientali (San Giovanni al Natisone) · organic
+- [[ronco_della_bulle|Ronco della Bulle]] — Friuli-Venezia Giulia / Colli Orientali
+- [[ronco_severo|Ronco Severo]] — Friuli-Venezia Giulia / Colli Orientali
 - [[rosa_bosco|Rosa Bosco]] — Friuli-Venezia Giulia / Colli Orientali (Manzano)
 - [[russiz_superiore|Russiz Superiore]] — Friuli-Venezia Giulia / Collio (Capriva del Friuli)
+- [[sauli|Sauli]] — Friuli-Venezia Giulia / Carso
+- [[sciapero|Sciapero]] — Friuli-Venezia Giulia / Collio
+- [[servera|Servera]] — Friuli-Venezia Giulia / Colli Orientali
+- [[skerk|Skerk]] — Friuli-Venezia Giulia / Carso
 - [[specogna|Specogna]] — Friuli-Venezia Giulia / Colli Orientali (Corno di Rosazzo) · sustainable
 - [[tenuta_luisa|Tenuta Luisa]] — Friuli-Venezia Giulia / Isonzo (Corona di Mariano del Friuli)
 - [[tiare|Tiare]] — Friuli-Venezia Giulia / Collio (Dolegna del Collio)
 - [[torre_rosazza|Torre Rosazza]] — Friuli-Venezia Giulia / Colli Orientali (Oleis di Manzano)
-- [[venica_venica|Venica & Venica]] — Friuli-Venezia Giulia / Collio (Dolegna del Collio) · sustainable
+- [[venica_venica|Venica Venica]] — Friuli-Venezia Giulia / Collio
 - [[vie_di_romans|Vie di Romans]] — Friuli-Venezia Giulia / Isonzo (Mariano del Friuli)
+- [[vigna_da_duna|Vigna da Duna]] — Friuli-Venezia Giulia / Colli Orientali
 - [[vignai_da_duline|Vignai da Duline]] — Friuli-Venezia Giulia / Colli Orientali (San Giovanni al Natisone / Villanova del Judrio) · organic · CSW 1
+- [[villa_job|Villa Job]] — Friuli-Venezia Giulia / Carso
 - [[villa_russiz|Villa Russiz]] — Friuli-Venezia Giulia / Collio (Capriva del Friuli)
 - [[zidarich|Zidarich]] — Friuli-Venezia Giulia / Carso (Prepotto, Duino Aurisina) · organic, natural · CSW 1
 - [[zuani|Zuani]] — Friuli-Venezia Giulia / Collio (San Floriano del Collio)
@@ -895,14 +913,37 @@ _531 producers across 40 regions._
 ### Tuscany
 
 - [[altesino|Altesino]] — Tuscany / Brunello di Montalcino · Raeder 9
+- [[benucolo|Benucolo]] — Tuscany / Chianti
 - [[biondi_santi|Biondi-Santi]] — Tuscany / Brunello di Montalcino · sustainable · CSW 1 · Raeder 8
+- [[casadello_di_speri|Casadello Di Speri]] — Tuscany / Chianti
 - [[castell_in_villa|Castell'in Villa]] — Tuscany / Chianti Classico · DTE 3
+- [[castelli_in_villa|Castelli In Villa]] — Tuscany / Chianti Classico
+- [[castello_dei_rampolla|Castello Dei Rampolla]] — Tuscany / Chianti Classico
+- [[castello_di_castiglionecchio|Castello Di Castiglionecchio]] — Tuscany / Chianti Classico
+- [[fiorentino|Fiorentino]] — Tuscany / Chianti
+- [[fontodi|Fontodi]] — Tuscany / Chianti Classico
 - [[i_fabbri|I Fabbri]] — Tuscany / Chianti Classico · CSW ★1/2 · DTE 3
+- [[il_paradiso|Il Paradiso]] — Tuscany / Chianti
+- [[ismeale|Ismeale]] — Tuscany / Chianti Classico
+- [[isole_e_olena|Isole E Olena]] — Tuscany / Chianti Classico
 - [[istine|Istine]] — Tuscany / Chianti Classico · DTE 1
+- [[la_furba|La Furba]] — Tuscany / Chianti
+- [[la_riserva|La Riserva]] — Tuscany / Chianti
 - [[monte_bernardi|Monte Bernardi]] — Tuscany / Chianti Classico · biodynamic · CSW ★3/6
 - [[montenidoli|Montenidoli]] — Tuscany / San Gimignano · CSW ★2/2 · DTE 7
+- [[monteraponi|Monteraponi]] — Tuscany / Chianti Classico
+- [[montercorondi|Montercorondi]] — Tuscany / Chianti Classico
+- [[montetrucco|Montetrucco]] — Tuscany / Chianti Classico
+- [[pagliarino|Pagliarino]] — Tuscany / Chianti
 - [[pian_dell_orino|Pian dell'Orino]] — Tuscany · DTE 1
+- [[poggio_la_soro|Poggio La Soro]] — Tuscany / Chianti
+- [[rodeino|Rodeino]] — Tuscany / Chianti Classico
+- [[san_gimignano_remmano|San Gimignano Remmano]] — Tuscany / Chianti Classico
+- [[solfizza|Solfizza]] — Tuscany / Chianti
+- [[stella_di_campalto|Stella di Campalto]] — Tuscany / Chianti Classico
+- [[sulderi|Sulderi]] — Tuscany / Chianti
 - [[tenuta_di_carleone|Tenuta di Carleone]] — Tuscany / Chianti Classico · DTE 8
+- [[val_delle_corti|Val Delle Corti]] — Tuscany / Chianti Classico
 
 ### Valle d'Aosta
 

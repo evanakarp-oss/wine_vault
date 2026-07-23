@@ -1,7 +1,7 @@
 ---
 type: producer
-name: "Venica Venica"
-slug: venica_venica
+name: "Pruncili Silli"
+slug: pruncili_silli
 country: "Italy"
 region: "Friuli-Venezia Giulia"
 sub_region: "Collio"
@@ -34,7 +34,7 @@ _sources:
   - campanale_wine_book
 ---
 
-# Venica Venica
+# Pruncili Silli
 
 Collio-based producer in Friuli-Venezia Giulia.
 

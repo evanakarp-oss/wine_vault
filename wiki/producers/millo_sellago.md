@@ -1,7 +1,7 @@
 ---
 type: producer
-name: "Venica Venica"
-slug: venica_venica
+name: "Millo Sellago"
+slug: millo_sellago
 country: "Italy"
 region: "Friuli-Venezia Giulia"
 sub_region: "Collio"
@@ -34,7 +34,7 @@ _sources:
   - campanale_wine_book
 ---
 
-# Venica Venica
+# Millo Sellago
 
 Collio-based producer in Friuli-Venezia Giulia.
 
