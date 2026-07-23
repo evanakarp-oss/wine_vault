@@ -190,3 +190,7 @@ _Not yet populated._
 ## FASS
 
 _Not yet populated._
+
+## Notes
+
+**Clos de la Roilette** is one of Beaujolais's most respected grower-producers, founded and long-operated by **Fernand Coudert** (the original proprietor) and now continued by his son **Alain Coudert** (who took over in 1991). The domaine has been a Chambers Street Wines favorite since the late 1980s, representing the classical Fleurie tradition: fruit-forward, age-worthy, and expressions of Gamay's textural elegance. **Key wines** include **Fleurie** (the house's primary cuvée, showing classic red cherry, floral notes, and silky tannins) and **Fleurie Cuvée Tardive** (a late-harvest, more structured expression showing greater density and aging potential). The Cuvée Tardive in particular has gained recognition for its capacity to age 15–25 years, demonstrating that well-made Beaujolais can rival Burgundy's longevity in the hands of committed growers. Alain Coudert exemplifies the modern generation of Beaujolais winemakers: consistent quality, minimal intervention in the cellar, traditional winemaking, and a commitment to showing that Beaujolais terroir merits respect alongside more celebrated French regions. The estate remains relatively small and focused (all fruit from family-owned vineyards), making it a reference for artisanal, high-quality Fleurie. Availability is limited and allocation-based, making Clos de la Roilette an ideal cellar building block for Beaujolais enthusiasts.

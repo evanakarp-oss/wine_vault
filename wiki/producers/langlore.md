@@ -92,3 +92,7 @@ _Not yet populated._
 - [[Rhône_Producers|Rhône]]
 - [[Tavel / Lirac]]
 - [[CSW Article Archive]]
+
+## Notes
+
+**L'Anglore** is a distinctive producer from Tavel in the southern Rhône, operated by a "humble beekeeper" making artisanal rosé and red wines using natural winemaking methods. The estate gained recognition in Paris wine circles in the late 2000s and was brought to New York by Chambers Street Wines' David Lillie and Fifi Essome around 2010, positioning it as an early-adoption natural-wine discovery. **Key expressions** focus on **Tavel Rosé** — the region's famous dry, mineral-driven rosé known for aging potential and food-friendliness — and potentially complementary red expressions. The natural-winemaking approach emphasizes minimal sulfite additions, indigenous fermentations, and whole-cluster or carbonic work to preserve aromatic purity. L'Anglore exemplifies the modern Tavel movement: moving beyond Tavel's historical reputation as casual summer wine to demonstrating its capacity for complexity, structure, and 10–15 year cellaring. The producer's beekeeping background signals commitment to natural farming and biodiversity, likely reflected in minimal chemical inputs and attention to vineyard ecosystem health. US distribution through Dressner and Louis reflects alignment with natural-wine focused importers. Limited production and allocation-based availability make L'Anglore a sought-after access point to authentic, natural Tavel.

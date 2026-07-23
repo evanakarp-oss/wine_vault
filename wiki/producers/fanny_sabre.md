@@ -71,3 +71,7 @@ _Not yet populated._
 - [[Burgundy_Producers|Burgundy]]
 - [[Beaune / Pommard]]
 - [[CSW Article Archive]]
+
+## Notes
+
+**Fanny Sabre** is a contemporary natural winemaker in Burgundy's Côte de Beaune, representing a new generation of organic-certified producers emphasizing precision, elegance, and minimal-intervention winemaking. Her portfolio spans entry-level Bourgogne Blanc to premier-cru expressions from Beaune and Pommard appellations, all produced with natural fermentation and minimal sulfite additions. Key offerings include **Bourgogne Blanc** (a significant value expression), **Beaune Blanc**, and **Pommard Rouge** parcels, which emphasize terroir clarity and textural purity over extraction or new-oak influence. Sabre's wines are described as "precise, elegant, and showcase at the highest level what natural winemaking can achieve," positioning her as an accessible entry point to high-quality, naturally-made Burgundy at fair pricing. The producer exemplifies the modern Burgundy trend of younger winemakers combining organic farming, natural fermentation, and old-world discipline to create wines that balance freshness, complexity, and food-compatibility. US distribution through Wine Source reflects alignment with natural-wine focused importers.
