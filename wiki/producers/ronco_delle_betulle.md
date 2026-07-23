@@ -1,7 +1,9 @@
 ---
 type: producer
-name: "Dalmin"
-slug: dalmin
+name: "Ronco delle Betulle"
+slug: ronco_delle_betulle
+aliases:
+  - "Ronco della Bulle"
 country: "Italy"
 region: "Friuli-Venezia Giulia"
 sub_region: "Colli Orientali"
@@ -34,13 +36,13 @@ _sources:
   - campanale_wine_book
 ---
 
-# Dalmin
+# Ronco delle Betulle
 
-Colli Orientali-based producer in Friuli-Venezia Giulia.
+Colli Orientali-based producer in Friuli-Venezia Giulia. Established 1967 in the Rosazzo area. "Ronco delle Betulle" translates to "Birch Hill."
 
 ## Notes
 
-**Vault Status:** Stub profile from Joe Campanale's comprehensive Italian wine book.
+**Vault Status:** Profile from Joe Campanale's comprehensive Italian wine book.
 
 ## Cross-references
 

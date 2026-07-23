@@ -2,12 +2,12 @@
 type: region_index
 region: "Friuli-Venezia Giulia"
 updated: 2026-07-23
-producer_count: 75
+producer_count: 64
 ---
 
 # Friuli-Venezia Giulia — Producer Index
 
-**75 producers** tracked.
+**64 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -19,15 +19,11 @@ producer_count: 75
 | [[doro_princic|Doro Princic]] | Italy | Collio (Pradis di Cormons) | 1 | — | — | — | — |
 | [[gravner|Gravner]] | Italy | Collio (Oslavia) | 1 | — | — | — | — |
 | [[radikon|Radikon]] | Italy | Collio Goriziano | — | — | — | — | 1 btl |
-| [[vignai_da_duline|Vignai da Duline]] | Italy | Colli Orientali (San Giovanni al Natisone / Villanova del Judrio) | 1 | — | — | — | — |
 | [[zidarich|Zidarich]] | Italy | Carso (Prepotto, Duino Aurisina) | 1 | — | — | — | — |
-| [[bevc_dusan|Bevc Dusan]] | Italy | Carso | — | — | — | — | — |
-| [[borghettiglio|Boggia del Tiglio]] | Italy | Collio | — | — | — | — | — |
 | [[canus|Canus]] | Italy | Colli Orientali (Corno di Rosazzo) | — | — | — | — | — |
 | [[castelvecchio|Castelvecchio]] | Italy | Carso (Sagrado) | — | — | — | — | — |
 | [[colle_duga|Colle Duga]] | Italy | Collio (Zegla, Cormons) | — | — | — | — | — |
 | [[cosco_gravar|Cosco Gravar]] | Italy | Collio Goriziano | — | — | — | — | — |
-| [[dalmin|Dalmin]] | Italy | Colli Orientali | — | — | — | — | — |
 | [[damijan_podversic|Damijan Podversic]] | Italy | Collio (Gorizia / Monte Calvario) | — | — | — | — | — |
 | [[dario_coos|Dario Coos]] | Italy | Colli Orientali (Nimis / Ramandolo) | — | — | — | — | — |
 | [[dario_raccaro|Dario Raccaro]] | Italy | Collio (Cormons) | — | — | — | — | — |
@@ -39,7 +35,6 @@ producer_count: 75
 | [[franco_toros|Franco Toros]] | Italy | Collio (Novali, Cormons) | — | — | — | — | — |
 | [[galliussi|Galliussi]] | Italy | Colli Orientali | — | — | — | — | — |
 | [[adriano_gigante|Gigante (Adriano)]] | Italy | Colli Orientali (Corno di Rosazzo) | — | — | — | — | — |
-| [[il_chipi_gorizia|Il Chipi Gorizia]] | Italy | Collio | — | — | — | — | — |
 | [[isidoro_polencig|Isidoro Polencig]] | Italy | Collio (Plessiva, Cormons) | — | — | — | — | — |
 | [[jermann|Jermann]] | Italy | Collio / Isonzo (Villanova di Farra) | — | — | 4 | — | — |
 | [[kante|Kante]] | Italy | Carso (San Pelagio, Duino Aurisina) | — | — | — | — | — |
@@ -47,34 +42,28 @@ producer_count: 75
 | [[la_magnolia|La Magnolia]] | Italy | Colli Orientali | — | — | — | — | — |
 | [[la_ponca|La Ponca]] | Italy | Collio | — | — | — | — | — |
 | [[la_tunella|La Tunella]] | Italy | Colli Orientali (Premariacco) | — | — | — | — | — |
-| [[le_douro|Le Douro]] | Italy | Colli Orientali | — | — | — | — | — |
 | [[le_monde|Le Monde]] | Italy | Friuli Grave (Prata di Pordenone) | — | — | — | — | — |
 | [[le_vigne_di_zamo|Le Vigne di Zamò]] | Italy | Colli Orientali (Rosazzo / Manzano) | — | — | — | — | — |
 | [[lis_neris|Lis Neris]] | Italy | Isonzo (San Lorenzo Isontino) | — | — | — | — | — |
 | [[livio_felluga|Livio Felluga]] | Italy | Colli Orientali (Brazzano / Rosazzo) | — | — | 1 | — | — |
 | [[livon|Livon]] | Italy | Collio (Dolegnano, San Giovanni al Natisone) | — | — | — | — | — |
 | [[malina|Malina]] | Italy | Colli Orientali | — | — | — | — | — |
-| [[merre|Merre]] | Italy | Colli Orientali | — | — | — | — | — |
-| [[millo_sellago|Millo Sellago]] | Italy | Collio | — | — | — | — | — |
+| [[meroi|Meroi]] | Italy | Colli Orientali | — | — | — | — | — |
 | [[monviert|Monviert]] | Italy | Colli Orientali (Savorgnano del Torre, Povoletto) | — | — | — | — | — |
 | [[necotium|Necotium]] | Italy | Colli Orientali | — | — | — | — | — |
 | [[paolo_caccese|Paolo Caccese]] | Italy | Collio (Pradis, Cormons) | — | — | — | — | — |
 | [[paolo_rodaro|Paolo Rodaro]] | Italy | Colli Orientali (Spessa di Cividale) | — | — | — | — | — |
 | [[piticco|Piticco]] | Italy | Colli Orientali (Prepotto area) | — | — | — | — | — |
-| [[pruncili_silli|Pruncili Silli]] | Italy | Collio | — | — | — | — | — |
 | [[puiatti|Puiatti]] | Italy | Collio / Isonzo (Romans d'Isonzo) | — | — | — | — | — |
 | [[roberto_picech|Roberto Picèch]] | Italy | Collio (Pradis, Cormons) | — | — | — | — | — |
-| [[rocco|Rocco]] | Italy | Collio | — | — | — | — | — |
 | [[ronchi_di_manzano|Ronchi di Manzano]] | Italy | Colli Orientali (Manzano) | — | — | — | — | — |
 | [[ronco_dei_tassi|Ronco dei Tassi]] | Italy | Collio (Cormons) | — | — | — | — | — |
 | [[ronco_del_gnemiz|Ronco del Gnemiz]] | Italy | Colli Orientali (San Giovanni al Natisone) | — | — | — | — | — |
-| [[ronco_della_bulle|Ronco della Bulle]] | Italy | Colli Orientali | — | — | — | — | — |
+| [[ronco_delle_betulle|Ronco delle Betulle]] | Italy | Colli Orientali | — | — | — | — | — |
 | [[ronco_severo|Ronco Severo]] | Italy | Colli Orientali | — | — | — | — | — |
 | [[rosa_bosco|Rosa Bosco]] | Italy | Colli Orientali (Manzano) | — | — | — | — | — |
 | [[russiz_superiore|Russiz Superiore]] | Italy | Collio (Capriva del Friuli) | — | — | — | — | — |
-| [[sauli|Sauli]] | Italy | Carso | — | — | — | — | — |
-| [[sciapero|Sciapero]] | Italy | Collio | — | — | — | — | — |
-| [[servera|Servera]] | Italy | Colli Orientali | — | — | — | — | — |
+| [[schiopetto|Schiopetto]] | Italy | Collio | — | — | — | — | — |
 | [[skerk|Skerk]] | Italy | Carso | — | — | — | — | — |
 | [[specogna|Specogna]] | Italy | Colli Orientali (Corno di Rosazzo) | — | — | — | — | — |
 | [[tenuta_luisa|Tenuta Luisa]] | Italy | Isonzo (Corona di Mariano del Friuli) | — | — | — | — | — |
@@ -82,7 +71,7 @@ producer_count: 75
 | [[torre_rosazza|Torre Rosazza]] | Italy | Colli Orientali (Oleis di Manzano) | — | — | — | — | — |
 | [[venica_venica|Venica Venica]] | Italy | Collio | — | — | — | — | — |
 | [[vie_di_romans|Vie di Romans]] | Italy | Isonzo (Mariano del Friuli) | — | — | — | — | — |
-| [[vigna_da_duna|Vigna da Duna]] | Italy | Colli Orientali | — | — | — | — | — |
+| [[vignai_da_duline|Vignai da Duline]] | Italy | Colli Orientali | — | — | — | — | — |
 | [[villa_job|Villa Job]] | Italy | Carso | — | — | — | — | — |
 | [[villa_russiz|Villa Russiz]] | Italy | Collio (Capriva del Friuli) | — | — | — | — | — |
 | [[zuani|Zuani]] | Italy | Collio (San Floriano del Collio) | — | — | — | — | — |

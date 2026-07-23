@@ -1,7 +1,7 @@
 ---
 type: producer
-name: "Merre"
-slug: merre
+name: "Meroi"
+slug: meroi
 country: "Italy"
 region: "Friuli-Venezia Giulia"
 sub_region: "Colli Orientali"
@@ -34,13 +34,13 @@ _sources:
   - campanale_wine_book
 ---
 
-# Merre
+# Meroi
 
-Colli Orientali-based producer in Friuli-Venezia Giulia.
+Colli Orientali-based producer in Friuli-Venezia Giulia. Azienda Agricola Meroi.
 
 ## Notes
 
-**Vault Status:** Stub profile from Joe Campanale's comprehensive Italian wine book.
+**Vault Status:** Profile from Joe Campanale's comprehensive Italian wine book.
 
 ## Cross-references
 

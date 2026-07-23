@@ -1,13 +1,17 @@
 ---
 type: producer
-name: "Benucolo"
-slug: benucolo
+name: "Poggio del Moro"
+slug: poggio_del_moro
+aliases:
+  - "Poggio La Soro"
 country: "Italy"
 region: "Tuscany"
-sub_region: "Chianti"
-appellations: ["Tuscany", "Chianti DOCG"]
+sub_region: "Val d'Orcia"
+appellations: ["Tuscany"]
 
-farming: []
+farming:
+  - natural
+
 certifications: []
 
 importer_us: []
@@ -29,18 +33,18 @@ retailers:
   fass:
     in_portfolio: false
 
-tags: ["tuscany", "chianti", "sangiovese", "italian-central"]
+tags: ["tuscany", "val-d-orcia", "natural-wine", "italian-central"]
 _sources:
   - campanale_wine_book
 ---
 
-# Benucolo
+# Poggio del Moro
 
-Chianti-based producer in Tuscany.
+Val d'Orcia-based natural wine producer in Tuscany.
 
 ## Notes
 
-**Vault Status:** Stub profile from Joe Campanale's comprehensive Italian wine book.
+**Vault Status:** Profile from Joe Campanale's comprehensive Italian wine book.
 
 ## Cross-references
 

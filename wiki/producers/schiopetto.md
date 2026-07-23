@@ -1,13 +1,17 @@
 ---
 type: producer
-name: "Millo Sellago"
-slug: millo_sellago
+name: "Schiopetto"
+slug: schiopetto
+aliases:
+  - "Sciapero"
 country: "Italy"
 region: "Friuli-Venezia Giulia"
 sub_region: "Collio"
 appellations: ["Friuli-Venezia Giulia", "Collio Goriziano DOC"]
 
-farming: []
+farming:
+  - biodynamic
+
 certifications: []
 
 importer_us: []
@@ -29,18 +33,18 @@ retailers:
   fass:
     in_portfolio: false
 
-tags: ["friuli-venezia-giulia", "collio", "italian-northeastern"]
+tags: ["friuli-venezia-giulia", "collio", "white-wine", "modernist", "italian-northeastern"]
 _sources:
   - campanale_wine_book
 ---
 
-# Millo Sellago
+# Schiopetto
 
-Collio-based producer in Friuli-Venezia Giulia.
+Collio-based producer in Friuli-Venezia Giulia. Historic modernizer founded 1965. Pioneering producer with 30 hectares, known for revolutionary winemaking approach.
 
 ## Notes
 
-**Vault Status:** Stub profile from Joe Campanale's comprehensive Italian wine book.
+**Vault Status:** Profile from Joe Campanale's comprehensive Italian wine book. Major influential producer in the Collio region.
 
 ## Cross-references
 
