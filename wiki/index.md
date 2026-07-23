@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 1392
+total_pages: 1391
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**1392 pages indexed.**
+**1391 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -291,7 +291,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_827 producers across 50 regions._
+_826 producers across 50 regions._
 
 ### Abruzzo
 
@@ -647,7 +647,6 @@ _827 producers across 50 regions._
 - [[canus|Canus]] — Friuli-Venezia Giulia / Colli Orientali (Corno di Rosazzo)
 - [[castelvecchio|Castelvecchio]] — Friuli-Venezia Giulia / Carso (Sagrado)
 - [[colle_duga|Colle Duga]] — Friuli-Venezia Giulia / Collio (Zegla, Cormons)
-- [[cosco_gravar|Cosco Gravar]] — Friuli-Venezia Giulia / Collio Goriziano
 - [[damiani_podversic|Damiani Podversic]] — Friuli-Venezia Giulia / Collio (Gorizia) · biodynamic, natural
 - [[damijan_podversic|Damijan Podversic]] — Friuli-Venezia Giulia / Collio (Gorizia / Monte Calvario) · organic, natural
 - [[dario_coos|Dario Coos]] — Friuli-Venezia Giulia / Colli Orientali (Nimis / Ramandolo)
