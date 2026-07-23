@@ -231,3 +231,25 @@ Own **3 bottle(s)** across 1 cuvée-vintage(s):
 - [[Barbaresco / Barolo]]
 - [[CSW Article Archive]]
 - [[Roscioli_Wine_Club|Roscioli Wine Club (importer)]]
+
+## Notes
+
+Roagna is one of Piedmont's historic estates, with commercial winemaking tracing back to 1978 under founder Giuseppe Roagna. The winery is now run by his son Luca Roagna, who has elevated the property to international standing while preserving the old-school, site-transparent aesthetic that defines the house. The estate farms roughly 25 hectares across Barbaresco and Barolo, with holdings concentrated in two benchmark crus: Barbaresco Pajé (one of Barbaresco's most prestigious sites) and Barolo Pira (in the La Morra hills). Secondary parcels include Montefico and Asili (Barbaresco) and a small Barolo Rocche holding.
+
+**Philosophy & Farming.** Roagna practices biodynamic viticulture (no formal certification, but farming methods align: minimal chemicals, cover crops, hand harvesting, and moon-phase vigilance). The vineyard work emphasizes old vines — Roagna has replanted minimally, preserving Nebbiolo vines that are 40–60+ years old. The result is concentrated, mineral-driven fruit. Pajé in particular is known for the "oasis" effect: when you walk into Roagna's vineyard, you feel the difference in soil health and vine vigor versus neighboring parcels. The terroir is white limestone (calcareous) mixed with clay and sandstone, which translates to bright acidity, mineral notes, and natural elegance.
+
+**Winemaking Style.** Roagna practices what might be called "rustic elegance." Fermentation is traditional (open vats, natural yeasts, 8–10 day maceration for Barbaresco, 12–15 days for Barolo). Oak is secondary: large Slavonian barrels (30–50 year old, used for decades) for élevage, rarely new wood. This approach produces wines of remarkable transparency — the vineyard sings through, with minimal winemaking signature. Alcohol is moderate (13–13.5%), tannins are silky (not extracted), and the profile leans toward cherry, tar, violet, and mineral complexity rather than fruit opulence or wood. The wines show Nebbiolo's classic duality: powerful yet elegant, structured yet ethereal.
+
+**The Vineyard Sites.** 
+- **Barbaresco Pajé (Vecchie Viti):** The flagship. Pajé is a hill-site (600m elevation) with steep slopes and excellent drainage. The wine is pale ruby, perfumed with rose petal, white pepper, and dried orange peel, with a silky palate and linear structure. Peak at 10–20 years.
+- **Barbaresco Montefico:** A rival Barbaresco cru, slightly more powerful than Pajé, with darker fruit and earth notes.
+- **Barbaresco Asili:** Another top cru, structured and mineral.
+- **Barolo Pira (Vecchie Viti):** From old vines (50+ years) in the La Morra zone. Pira produces broader-shouldered, more savory wines than Pajé, with forest-floor and licorice notes. Built for 15–30 year aging.
+- **Langhe Rosso:** A Nebbiolo blended cuvée (Barbera and Dolcetto sometimes added), more immediate and approachable; drink 8–10 years.
+
+**Reputation & Critical Acclaim.** Roagna has been championed by Chambers Street Wines for two decades (13 articles, 4 dedicated profiles), positioning it as a reference for honest, age-worthy Piedmont. William Kelley has cited Roagna as a top-5 dream allocation. The critical scores are consistently high (WA 94–96 for premier releases), and the house is allocated through Polaner to fine-wine retailers across the US. The Berserkers thread shows modest recent mentions (5 total, including the early 2010s), suggesting the house is undervalued in the American cellaring community relative to its true quality tier.
+
+**Aging Potential.** Roagna's wines are marathon runners. The Barbaresco Pajé peaks at 10–20 years, developing silky tannins and forest-floor complexity. The Barolo Pira is a 15–30 year wine, gaining savory depth with age. The 2017–2019 vintages are beautiful now (2026) but will age gracefully through the 2030s–2040s. The 2015s and 2016s are at their peak; the 2014–2012 vintages are gorgeous if you can find them. A mature (20-year-old) Pajé or Pira is a masterclass in how Nebbiolo ages: pale brick color, fragrant nose, seamless mid-palate, persistent finish.
+
+**Why Evan's Taste.** Roagna ticks every box for Evan's Piedmont filter: biodynamic-leaning farming, grower-scale production (not a mega-producer), terroir-transparent winemaking, old-vine fruit, and architectural structure that invites cellaring. The wines are neither cult-hedonist nor generic mid-tier — they're the old-guard classics that reward patience and depth of bottle age. If Roagna is available at allocation, it's a target buy across all cuvées.
+

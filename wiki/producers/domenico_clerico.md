@@ -82,3 +82,29 @@ _Not yet populated._
 ## FASS
 
 _Not yet populated._
+
+## Cross-references
+
+- [[Italy_Producers|Italy]]
+- [[Barolo]]
+
+## Notes
+
+Domenico Clerico is one of Barolo's most influential modernist producers, based in Monforte d'Alba and known for pioneering "maceration à fresco" (cold-soak fermentation) and international oak practices in Piedmont. Founded in 1976, Clerico revolutionized Barolo winemaking by applying Burgundy techniques and temperature control to Nebbiolo, producing wines that balanced power with elegance. Under Domenico's leadership, the house gained cult status in the 1990s–2000s; it remains a reference point for modern Barolo even as it has maintained core traditional elements. The winery controls roughly 20 hectares across Monforte and neighboring zones, with a reputation for precision and consistency.
+
+**Philosophy & Farming.** Clerico practices sustainable viticulture (not certified organic, but minimal chemical inputs) with emphasis on low yields and old-vine parcels. The vineyard work prioritizes fruit quality over quantity — green harvesting is rigorous, hand picking is mandatory, and selection is meticulous. The terroir of Monforte is known for power and concentration; Clerico's practice is to harness that power while applying winemaking technique to refine and clarify it. Alcohol levels are typically 13.5–14%, higher than traditional Barolo but restrained by modern standards.
+
+**Winemaking Style.** Clerico pioneered "maceration à fresco" (cold 8–10 day soak before fermentation) to extract color and aromatic compounds while managing tannin extraction. Fermentation is temperature-controlled (18–22°C), with 15–18 day maceration. Oak élevage is 24–30 months in French oak (30–40% new), a radical departure from traditional Barolo's all-Slavonian approach. The combination produces wines of remarkable fruit clarity, silky mid-palate (via new oak tannin softening), and pronounced aromatic complexity. Modern critics often cite Clerico's influence on contemporary Barolo — he bridged Nebbiolo's traditional structure with Burgundy's oak-and-fruit sensibility.
+
+**Key Cuvées.**
+- **Barolo Pajana:** The house's signature bottling, from a south-facing Monforte slope. Pajana shows dark cherry, tar, licorice, with silky tannins and complex aromatics; ages 12–25 years.
+- **Barolo Percristina:** Another top cru, from a higher-elevation site. Slightly more structured and mineral-driven than Pajana; 15–30 year aging.
+- **Barolo Ginestra:** From a prestigious Monforte vineyard, powerful and complex; 15–30 year aging.
+- **Barbera d'Alba Trevigne:** A secondary red, excellent structure and value.
+
+**Reputation & Influence.** Domenico Clerico is a seminal figure in Barolo modernism and remains deeply respected. The house has been featured in Chambers Street (1 mention in a group article) and DTE portfolio. The critical scores are strong (WA 92–95+ for top cuvées). Allocation is moderate but available through fine-wine retailers, though not as tight as some boutique growers. The Berserkers mention (rank 380, momentum 0.5) suggests the house is respected but not a current community obsession — it's integrated into the mature cellar rather than chased by early adopters.
+
+**Aging Potential.** Clerico's wines are built for the cellar. Even the village-level Barolos age 10–15 years; the premier crus (Pajana, Percristina) are 15–30 year propositions. The Ginestra, from top vintages, can age 25–40 years, developing tertiary complexity and silk-textured mid-palate. The 2004 and 2008 vintages are drinking beautifully now (2026); the 2010–2015 vintages will peak 2028–2035.
+
+**Why Evan's Taste.** Domenico Clerico occupies an interesting space relative to Evan's filters. He's structurally sound and age-worthy (check), but the modernist philosophy (new oak, temperature control, French-influenced winemaking) pushes against the "old-guard / WK-style" aesthetic. The curation note ("tracked but not prioritized") suggests Clerico is valued as a quality benchmark (and a reference for how Barolo modernism can work) rather than as an active allocation target. The house is a canonical reference but perhaps not a "this is my style" producer.
+

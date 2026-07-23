@@ -186,3 +186,30 @@ _[Raeders link](https://www.raederswine.com/wines/Gaja-Ca-Marcanda-Magari-2022-w
 ## FASS
 
 _Not yet populated._
+
+## Cross-references
+
+- [[Italy_Producers|Italy]]
+- [[Barbaresco / Barolo]]
+
+## Notes
+
+Gaja represents the pinnacle of modern Piedmont — a family operation (Giovanni Gaja now leads) that has achieved global icon status while maintaining core site-transparency and terroir focus. Founded in 1859, Gaja expanded beyond Barbaresco in the 1980s under Argan Gaja's leadership, acquiring holdings in Barolo and launching experimental projects (Darmagi Cabernet Sauvignon, Ca'Marcanda in Tuscany, Pieve Santa Restituta in Brunello). The house is sustainable-farmed, internationally distributed, and commands allocation pricing that reflects both quality and prestige. The critical scores are consistently stellar (WA 93–98 range), and the secondary market is active.
+
+**Vineyard Holdings & Philosophy.** Gaja controls roughly 120 hectares across Piedmont, with core sites in Barbaresco (Sorì San Lorenzo, Sorì Tildín, Costa Russi) and expanded Barolo holdings (Conteisa in Serralunga, Sperss in Serralunga, Dagromis). The terroirs span Nebbiolo's range: Sorì San Lorenzo is known for elegance and perfume (limestone-rich soils); Sorì Tildín is more structured (eastern exposure, deeper clay); Costa Russi splits the difference. The Barolo sites push toward power and longevity. Gaja practices sustainable viticulture (not certified organic, but minimal inputs) and long-established low-yielding practices (green harvesting, hand picking, old-vine preference).
+
+**Winemaking Style.** Gaja's signature is "polished Nebbiolo" — wines that express site and vintage with clarity while applying sophisticated cellar technique (temperature-controlled fermentation, 30–40% new French oak, 18–24 month élevage, occasional fining and light filtering). The result is wines that are both powerful and elegant, with refined tannins, bright fruit, and pronounced oak influence that reads as mineral complexity rather than obvious wood. Alcohol typically runs 13.5–14.2%. The house also produces white wines (Gaia & Rey Chardonnay) and non-Nebbiolo reds (Darmagi, the Brunello).
+
+**Key Cuvées.**
+- **Barbaresco Sorì San Lorenzo:** The house flagship, from a south-facing slope with limestone topsoil. Pale ruby, perfumed with rose, violet, white pepper, dried orange; silky palate, 10–20 year aging curve.
+- **Barbaresco Sorì Tildín:** Bolder and more structured, from a cooler easterly site. White pepper, licorice, tar; fuller palate; 15–25 year aging.
+- **Barbaresco Costa Russi:** A blend site, bridging the gap between Sorì cuvées. Elegant yet structured; 10–20 year span.
+- **Barolo Conteisa:** From Serralunga, plush and powerful, with dark cherry, tar, licorice; 15–30 year aging.
+- **Barolo Langhe Sperss:** Another Serralunga site, known for mineral precision and complex aging potential. White pepper, graphite, crushed rocks; 15–30 years.
+
+**Reputation & Allocation.** Gaja is arguably Piedmont's most famous modern producer, known globally and traded actively at auction. The wines command premium pricing (Sorì San Lorenzo: $200–350/bottle; Conteisa/Sperss: $200–400/bottle), justified by critical acclaim and secondary-market demand. The Berserkers thread shows declining mentions in recent years (4 total, with no momentum), suggesting Gaja has graduated beyond the enthusiast community into collector/institutional status.
+
+**Aging Potential.** Gaja's wines are marathon runners. Even the "entry" Barbaresco (village-level) peaks at 10–20 years; the named-cru Barbarescos are 15–30 year propositions. The Barolo Conteisa and Sperss are built for 20–40 year aging, developing tertiary aromas and silky mid-palates with time. The 2015–2017 vintages are at their sweet spot now (2026); the 2018–2021 vintages will peak 2028–2035.
+
+**Why Evan's Taste.** Gaja occupies an interesting position relative to Evan's filters. It's terroir-driven (check), structured for aging (check), and sustainable-farmed (check). But it's also opulent, oak-influenced, and commands cult pricing, which might read as less "old-guard" than the Roagna or Cavallotto ethos. The curation note suggests Gaja is tracked as a quality benchmark but may not be an active buy at allocation pricing — it's the house to reference (e.g., "Sorì San Lorenzo is the bench mark for Barbaresco elegance") rather than to allocate directly.
+

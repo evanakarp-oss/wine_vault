@@ -101,3 +101,32 @@ _Not yet populated._
 ## FASS
 
 _Not yet populated._
+
+## Cross-references
+
+- [[France_Producers|France]]
+- [[Burgundy]]
+- [[Côte de Nuits]]
+- [[Negociant_Model|Négociant Model]]
+
+## Notes
+
+Marchand Tawse is an independent négociant-domaine hybrid, founded in the 1990s by Becky Wasserman (legendary importer and Burgundy expert) and now operated by Benjamin Tawse. The model is selective curation: rather than buying large volumes, Marchand Tawse sources small parcel allocations from top Côte de Nuits growers and domains, then controls the élevage (aging) in-house before bottling. The result is a curated portfolio of 20–30 different cuvées per vintage, each representing either a single vineyard or a carefully assembled blend, all produced in tiny quantities (50–200 cases per wine). The house is known for quality-over-quantity discipline and a focus on elegant, age-worthy Pinot Noirs and Chardonnays.
+
+**Philosophy & Sourcing.** Marchand Tawse's négociant model is fundamentally about curation and relationship. The sourcing criterion is simple: Côte de Nuits gravitas only (Gevrey-Chambertin, Morey-Saint-Denis, Vosne-Romanée, Nuits-Saint-Georges). Each vintage, the team identifies top grower partners and negotiates to purchase finished or near-finished wine (or sometimes must) from specific vineyard parcels. The house takes full control of élevage and bottling, applying a consistent house philosophy. The goal is not volume but consistency and site-specific expression — each wine is a deliberate statement about a single terroir.
+
+**Winemaking & Oak.** Marchand Tawse's signature is balance between respecting raw fruit and applying Old Burgundy wisdom. Oak élevage is typically 18 months in 20–30% new oak (roughly half the new-oak level of some négociants, higher than traditional grower practices). The philosophy is that judicious oak adds structure and complexity without masking the site. Fining and filtration are minimal or none. Alcohol is typically 12.5–13.2%, emphasizing elegance. The house also produces whites from Côte de Beaune (Chardonnay), following similar principles.
+
+**Key Terroirs & Cuvées.**
+- **Gevrey-Chambertin (multiple crus):** Marchand sources from Gevrey's top sites: Champeaux, Etelois, Lavaux-Saint-Jacques. Each is bottled separately, showcasing the cru's character.
+- **Morey-Saint-Denis (1er cru & villages):** Clos des Ormes, Rue de Vergy, and various 1er crus are sourced and bottled.
+- **Vosne-Romanée (1er cru):** Suchots is a signature 1er cru, elegant and mineral.
+- **Nuits-Saint-Georges (1er cru & villages):** Corvées Pagets, Murgers, Perrieres are all sourced.
+- **Grand Cru:** In strong vintages, Marchand sources from grand cru sites (Mazis-Chambertin, Mazoyeres-Chambertin), bottled in minimal quantities.
+
+**Reputation & Critical Standing.** Marchand Tawse has built a strong reputation within Burgundy circles as a quality négociant that doesn't compromise for volume. The house is respected by Burgundy specialists and Pinot Noir connoisseurs but maintains a lower international profile than mega-négociants. DTE tracks 25 cuvées from Marchand, indicating substantial portfolio coverage and suggesting Panzer views Tawse as a quality discovery source (William Kelley mentioned the house in 2021, positioning it as a 2019 Burgundy buy). The secondary market is active but not speculative; pricing reflects quality without cult premium.
+
+**Aging Potential.** Marchand Tawse's wines are built for the cellar. Even village-level Pinots age 8–12 years; the premier crus are 12–20 year propositions. The grand crus (when bottled) are 20–30 year wines. The 2019s and 2020s are at their sweet spot now (2026); the 2021s–2023s will peak 2027–2035. The house's moderate new-oak approach (vs. over-oaked négociants) means the wines don't peak early but reward patience with balanced, complex aging.
+
+**Why Evan's Taste.** Marchand Tawse aligns squarely with Evan's Burgundy filter: terroir-driven (multiple single-vineyard bottlings), négociant-quality fruit at curated scale (not mega-producer volume), moderate oak, and wines built for the cellar. The house represents the rare négociant model that prioritizes site expression over brand building. With DTE carrying 25 cuvées and William Kelley's endorsement, Marchand Tawse is a canonical discovery source for serious Côte de Nuits Pinot Noir. If seeking elegant, age-worthy Burgundy without allocation headaches, Tawse is the reference.
+

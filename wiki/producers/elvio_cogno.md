@@ -177,3 +177,30 @@ _[Raeders link](https://www.raederswine.com/wines/Elvio-Cogno-Elvio-Cogno-Dolcet
 ## FASS
 
 _Not yet populated._
+
+## Cross-references
+
+- [[Italy_Producers|Italy]]
+- [[Barolo]]
+- [[Organic_Farming|Organic Farming]]
+
+## Notes
+
+Elvio Cogno is a leading organic producer in Barolo, based in Novello and farming biodynamic principles since the late 1980s (certified organic since 1997). The house is known for producing refined, mineral-driven Barolos that express terroir with clarity while maintaining silky tannin structure. Under the stewardship of Silvio Cogno (Elvio's descendant), the winery has expanded production methodically while preserving its old-vine heritage and low-intervention philosophy. The house works across multiple prestigious Barolo crus but is particularly known for the benchmark Ravera vineyard.
+
+**Vineyard Holdings & Farming.** Cogno controls roughly 15 hectares across Barolo's top zones, with significant old-vine (40–60 year) parcels in Ravera (the house's signature site), Bricco Pernice (also a top cru), Cascina Nuova, and secondary holdings in the Novello commune. The terroirs are limestone-rich and elevation-prominent (400–550 meters), producing high-toned, mineral-driven Nebbiolo. Biodynamic practices include cover crops, minimal sulfur additions, hand harvesting, and meticulous canopy management. The philosophy is that vineyard work (not winery work) should define the wine.
+
+**Winemaking Style.** Cogno employs whole-cluster fermentation (60–80% depending on ripeness) with natural yeasts and relatively cool fermentation temperatures (14–16°C). Maceration is 14–18 days; oak élevage is 18–24 months in used Slavonian barrels (Cogno avoids new oak). The result is wines of remarkable precision: bright acidity, mineral backbone, silky tannins, and a profile that leans toward red cherry, white pepper, and earth rather than fruit opulence. Alcohol is restrained (12.8–13.2%). The house also produces excellent Barbaresco, Barbera d'Alba, and Dolcetto.
+
+**Key Cuvées.**
+- **Barolo Ravera:** The flagship. From a steep, limestone-rich slope, Ravera produces elegant, structured Barolos with pronounced minerality. Aged in 60-year-old Slavonian barrels, the wine shows white pepper, granite, and red cherry, with excellent aging potential (15–30 years). The 2015 and 2018 (both showing strong critic scores) are beautiful now; the 2016 Riserva Vigna Elena is a masterwork.
+- **Barolo Bricco Pernice:** Another top-tier Barolo, from a south-facing slope. Slightly broader-shouldered than Ravera, with darker fruit and more complex mid-palate; 15–25 year aging.
+- **Barolo Cascina Nuova:** A village-level bottling from younger vines, more approachable (drink 8–15 years) but still structured.
+- **Barbaresco Bordini:** A premier Barbaresco cru, perfumed and elegant; 8–15 year aging.
+
+**Reputation & Allocation.** Cogno is highly respected within Piedmont circles and among organic wine enthusiasts. The Riserva Vigna Elena 2016 scored WE 100, marking it as one of the few perfect Barolos on record. The house appears regularly in Raeders (20+ tracked cuvées), suggesting solid US availability despite small total production. The critical scores are consistently high (WA 93–97 range for top cuvées). Allocation is tight but manageable through fine-wine retailers.
+
+**Aging Potential.** Cogno's wines are built for the cellar. Even the village-level Barolos peak at 10–15 years; the premier crus (Ravera, Bricco Pernice) are 15–30 year propositions. The Riserva bottlings (Vigna Elena) require 10+ years to show their best but drink beautifully to 30+ years. The 2015s, 2016s, and 2018s are at their sweet spot now (2026); the 2017s and 2019s will peak 2028–2035.
+
+**Why Evan's Taste.** Cogno is a canonical fit: organic-certified, biodynamic farming, grower-scale (not mega-producer), transparent winemaking, old-vine fruit, and wines that demand cellar time. The profile is classic Barolo elegance (not opulent or fruit-forward), with mineral precision and silk-textured tannins. If seeking a top-tier Barolo from an ethical producer with serious aging potential, Cogno is the recommendation.
+
