@@ -1,7 +1,7 @@
 ---
 type: producer
-name: "Roagna"
-slug: roagna
+name: "Negri (Giulia)"
+slug: negri_giulia
 aliases: []
 country: "Italy"
 region: "Piedmont"
@@ -19,7 +19,7 @@ tags: []
 _sources: ["campanale_wine_book"]
 ---
 
-# Roagna
+# Negri (Giulia)
 
 Italian producer from Campanale wine book.
 

@@ -1,7 +1,7 @@
 ---
 type: producer
-name: "Roagna"
-slug: roagna
+name: "GB Burlotto"
+slug: gb_burlotto
 aliases: []
 country: "Italy"
 region: "Piedmont"
@@ -19,7 +19,7 @@ tags: []
 _sources: ["campanale_wine_book"]
 ---
 
-# Roagna
+# GB Burlotto
 
 Italian producer from Campanale wine book.
 

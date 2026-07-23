@@ -1,11 +1,11 @@
 ---
 type: producer
-name: "Roagna"
-slug: roagna
+name: "Punta Crena"
+slug: punta_crena
 aliases: []
 country: "Italy"
-region: "Piedmont"
-sub_region: "Piedmont"
+region: "Liguria"
+sub_region: "Liguria"
 appellations: []
 farming: []
 certifications: []
@@ -19,7 +19,7 @@ tags: []
 _sources: ["campanale_wine_book"]
 ---
 
-# Roagna
+# Punta Crena
 
 Italian producer from Campanale wine book.
 

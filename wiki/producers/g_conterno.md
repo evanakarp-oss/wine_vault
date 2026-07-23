@@ -1,7 +1,7 @@
 ---
 type: producer
-name: "Roagna"
-slug: roagna
+name: "G. Conterno"
+slug: g_conterno
 aliases: []
 country: "Italy"
 region: "Piedmont"
@@ -19,7 +19,7 @@ tags: []
 _sources: ["campanale_wine_book"]
 ---
 
-# Roagna
+# G. Conterno
 
 Italian producer from Campanale wine book.
 

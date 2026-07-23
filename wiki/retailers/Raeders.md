@@ -4,15 +4,15 @@ name: "Raeder's"
 slug: raeders
 url: "https://www.raederswine.com"
 location: ""
-producer_count: 59
+producer_count: 58
 updated: 2026-07-23
-tags: []
 _source: wiki/_resources.md
+tags: []
 ---
 # Raeder's
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**59 producers** from this retailer are tracked in the wiki.
+**58 producers** from this retailer are tracked in the wiki.
 
 ## Producers in portfolio
 
@@ -41,7 +41,6 @@ _source: wiki/_resources.md
 | [[dom_perignon|Dom Pérignon]] | France | Champagne | 7 | 1 |
 | [[feudo_montoni|Feudo Montoni]] | Italy | Sicily | 7 | 3 |
 | [[sine_qua_non|Sine Qua Non]] | United States | California | 7 | — |
-| [[roagna|Roagna]] | Italy | Piedmont | 6 | 13 |
 | [[chateau_lynch_bages|Château Lynch-Bages]] | France | Bordeaux | 5 | — |
 | [[chateau_smith_haut_lafitte|Château Smith-Haut-Lafitte]] | France | Bordeaux | 5 | 2 |
 | [[chateau_gruaud_larose|Château Gruaud-Larose]] | France | Bordeaux | 4 | 1 |

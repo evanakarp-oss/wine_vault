@@ -1,7 +1,7 @@
 ---
 type: producer
-name: "Roagna"
-slug: roagna
+name: "Fabio Gea"
+slug: fabio_gea
 aliases: []
 country: "Italy"
 region: "Piedmont"
@@ -19,7 +19,7 @@ tags: []
 _sources: ["campanale_wine_book"]
 ---
 
-# Roagna
+# Fabio Gea
 
 Italian producer from Campanale wine book.
 

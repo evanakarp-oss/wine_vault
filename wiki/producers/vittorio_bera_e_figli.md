@@ -1,7 +1,7 @@
 ---
 type: producer
-name: "Roagna"
-slug: roagna
+name: "Vittorio Bera e Figli"
+slug: vittorio_bera_e_figli
 aliases: []
 country: "Italy"
 region: "Piedmont"
@@ -19,7 +19,7 @@ tags: []
 _sources: ["campanale_wine_book"]
 ---
 
-# Roagna
+# Vittorio Bera e Figli
 
 Italian producer from Campanale wine book.
 

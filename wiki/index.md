@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 1306
+total_pages: 1327
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**1306 pages indexed.**
+**1327 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -43,7 +43,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Jujuy_Producers|Jujuy Producers]] — **2 producers** tracked.
 - [[Jura_Producers|Jura Producers]] — **14 producers** tracked.
 - [[Lazio_Producers|Lazio Producers]] — **13 producers** tracked.
-- [[Liguria_Producers|Liguria Producers]] — **12 producers** tracked.
+- [[Liguria_Producers|Liguria Producers]] — **17 producers** tracked.
 - [[Loire_Producers|Loire Producers]] — **40 producers** tracked.
 - [[Lombardy_Producers|Lombardy Producers]] — **25 producers** tracked.
 - [[Marche_Producers|Marche Producers]] — **21 producers** tracked.
@@ -54,7 +54,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Oregon_Producers|Oregon Producers]] — **2 producers** tracked.
 - [[Patagonia_Producers|Patagonia Producers]] — **9 producers** tracked.
 - [[Pfalz_Producers|Pfalz Producers]] — **3 producers** tracked.
-- [[Piedmont_Producers|Piedmont Producers]] — **32 producers** tracked.
+- [[Piedmont_Producers|Piedmont Producers]] — **48 producers** tracked.
 - [[Provence_Producers|Provence Producers]] — **3 producers** tracked.
 - [[Rheinhessen_Producers|Rheinhessen Producers]] — **2 producers** tracked.
 - [[Rhone_Producers|Rhone Producers]] — **42 producers** tracked.
@@ -283,7 +283,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_749 producers across 48 regions._
+_770 producers across 48 regions._
 
 ### Abruzzo
 
@@ -704,16 +704,21 @@ _749 producers across 48 regions._
 
 ### Liguria
 
+- [[bisson|Bisson]] — Liguria / Liguria
 - [[blu_vo|Blu Vo]] — Liguria / Ponente
 - [[bruna|Bruna]] — Liguria / Riviera Ligure di Ponente · organic · CSW ★2/2
+- [[burns|Burns]] — Liguria / Liguria
 - [[canovelle|Canovelle]] — Liguria / Ponente
 - [[cascalenda|Cascalenda]] — Liguria / Ponente
 - [[claudio_vo|Claudio Vo]] — Liguria / Ponente
 - [[colli_olunti|Colli Olunti]] — Liguria / Ponente
+- [[danila_pisano|Danila Pisano]] — Liguria / Liguria
 - [[il_torchio|Il Torchio]] — Liguria / Ponente
 - [[ka_manic|Ka Manic]] — Liguria / Ponente
 - [[luno_alberto|Luno Alberto]] — Liguria / Ponente
+- [[maccario_dringenberg|Maccario Dringenberg]] — Liguria / Liguria
 - [[prima_vita|Prima Vita]] — Liguria / Ponente
+- [[punta_crena|Punta Crena]] — Liguria / Liguria
 - [[riviera_ligure_di_ponente|Riviera Ligure di Ponente]] — Liguria / Ponente
 - [[terranova|Terranova]] — Liguria / Ponente
 
@@ -951,30 +956,46 @@ _749 producers across 48 regions._
 - [[bruno_giacosa|Bruno Giacosa]] — Piedmont / Alba
 - [[bruno_rocca|Bruno Rocca]] — Piedmont / Alba
 - [[burlotto|Burlotto]] — Piedmont / Verduno (Barolo) · CSW ★1/6
+- [[capellano|Capellano]] — Piedmont / Piedmont
 - [[cascina_delle_rose|Cascina delle Rose]] — Piedmont / Barbaresco (Neive) · organic · CSW ★1/3
 - [[cascina_gasparda|Cascina Gasparda]] — Piedmont / Alba
 - [[cascina_giacoma|Cascina Giacoma]] — Piedmont / Alba
+- [[cascina_tavijn|Cascina Tavijn]] — Piedmont / Piedmont
 - [[cavallotto|Cavallotto]] — Piedmont / Barolo (Castiglione Falletto) · CSW ★1/6
 - [[ceretto|Ceretto]] — Piedmont / Barolo / Barbaresco · organic · CSW ★2/9 · Raeder 7
 - [[claudio_mariotto|Claudio Mariotto]] — Piedmont / Colli Tortonesi
+- [[colombera_garella|Colombera Garella]] — Piedmont / Piedmont
 - [[domenico_clerico|Domenico Clerico]] — Piedmont · CSW 1 · DTE 2
+- [[e_pira|E Pira]] — Piedmont / Piedmont
 - [[elio_altare|Elio Altare]] — Piedmont · DTE 1
 - [[elio_sandri|Elio Sandri]] — Piedmont / Barolo (Castiglione Falletto) · CSW ★3/6
 - [[elvio_cogno|Elvio Cogno]] — Piedmont / Barolo (Novello) · organic · Raeder 20
+- [[fabio_gea|Fabio Gea]] — Piedmont / Piedmont
 - [[ferdinando_principiano|Ferdinando Principiano]] — Piedmont / Barolo (Serralunga) · biodynamic · CSW ★1/4
 - [[fernando_vietti|Fernando Vietti]] — Piedmont / Alto Piemonte
 - [[fratelli_alessandria|Fratelli Alessandria]] — Piedmont / Verduno (Barolo) · CSW ★2/2
+- [[g_conterno|G. Conterno]] — Piedmont / Piedmont
+- [[g_rinaldi|G Rinaldi]] — Piedmont / Piedmont
 - [[gaja|Gaja]] — Piedmont / Barbaresco / Barolo · sustainable · Raeder 30
+- [[gb_burlotto|GB Burlotto]] — Piedmont / Piedmont
 - [[giacomo_conterno|Giacomo Conterno]] — Piedmont / Barolo (Monforte) · CSW ★2/5 · Raeder 1
 - [[giordano_lombardo|Giordano Lombardo]] — Piedmont / Alba
 - [[il_passo|Il Passo]] — Piedmont / Alba
 - [[le_piane|Le Piane]] — Piedmont / Alba
 - [[lorenzo_accomasso|Lorenzo Accomasso]] — Piedmont / Barolo (La Morra) · CSW ★1/2
+- [[mascarello|Mascarello]] — Piedmont / Piedmont
+- [[negri_giulia|Negri (Giulia)]] — Piedmont / Piedmont
 - [[pianelle|Pianelle]] — Piedmont / Alto Piemonte · DTE 6
+- [[principiano|Principiano]] — Piedmont / Piedmont
+- [[produttori|Produttori]] — Piedmont / Piedmont
 - [[produttori_del_barbaresco|Produttori del Barbaresco]] — Piedmont / Barbaresco · CSW ★5/10 · Raeder 1
-- [[roagna|Roagna]] — Piedmont / Barbaresco / Barolo · biodynamic · CSW ★4/13 · Raeder 6
+- [[roagna|Roagna]] — Piedmont / Piedmont
+- [[san_fereolo|San Fereolo]] — Piedmont / Piedmont
 - [[sottimano|Sottimano]] — Piedmont · DTE 12
 - [[trediberri|Trediberri]] — Piedmont / Barolo (La Morra) · organic · CSW ★2/3
+- [[vajra|Vajra]] — Piedmont / Piedmont
+- [[valfaccenda|Valfaccenda]] — Piedmont / Piedmont
+- [[vittorio_bera_e_figli|Vittorio Bera e Figli]] — Piedmont / Piedmont
 - [[walter_massa|Walter Massa]] — Piedmont / Colli Tortonesi
 
 ### Provence

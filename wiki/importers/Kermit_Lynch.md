@@ -6,9 +6,9 @@ producer_count: 22
 focus: ['Burgundy', 'Friuli-Venezia Giulia', 'Loire', 'Rhône']
 notable_producers: ['Domaine Pierre Gonon', 'Domaine Pierre André', 'Clos du Joncuas', 'Allemand', 'Sylvie Esmonin']
 updated: 2026-07-23
-tags: []
-_source: wiki/_resources.md
 url: "https://kermitlynch.com"
+_source: wiki/_resources.md
+tags: []
 ---
 # Kermit Lynch
 

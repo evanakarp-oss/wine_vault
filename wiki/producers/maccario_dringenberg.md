@@ -1,11 +1,11 @@
 ---
 type: producer
-name: "Roagna"
-slug: roagna
+name: "Maccario Dringenberg"
+slug: maccario_dringenberg
 aliases: []
 country: "Italy"
-region: "Piedmont"
-sub_region: "Piedmont"
+region: "Liguria"
+sub_region: "Liguria"
 appellations: []
 farming: []
 certifications: []
@@ -19,7 +19,7 @@ tags: []
 _sources: ["campanale_wine_book"]
 ---
 
-# Roagna
+# Maccario Dringenberg
 
 Italian producer from Campanale wine book.
 

@@ -4,15 +4,15 @@ name: "Chambers Street Wines"
 slug: chambers
 url: "https://chambersstwines.com"
 location: "NYC"
-producer_count: 200
+producer_count: 199
 updated: 2026-07-23
-tags: []
 _source: wiki/_resources.md
+tags: []
 ---
 # Chambers Street Wines
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**200 producers** from this retailer are tracked in the wiki.
+**199 producers** from this retailer are tracked in the wiki.
 
 ## Most-championed producers
 
@@ -41,7 +41,6 @@ _source: wiki/_resources.md
 | [[bernard_baudry|Bernard Baudry]] | 4 | 20 | 2007 | 2026 |
 | [[immich-batterieberg|Immich-Batterieberg]] | 4 | 14 | 2011 | 2025 |
 | [[desvignes|Desvignes]] | 4 | 13 | 2007 | 2025 |
-| [[roagna|Roagna]] | 4 | 13 | 2007 | 2026 |
 | [[domaine_de_montille|Domaine de Montille]] | 4 | 11 | 2012 | 2025 |
 | [[arnot-roberts|Arnot-Roberts]] | 4 | 10 | 2011 | 2025 |
 | [[clos_du_joncuas|Clos du Joncuas]] | 4 | 10 | 2014 | 2025 |
@@ -68,6 +67,7 @@ _source: wiki/_resources.md
 | [[domaine_pont_de_breux|Domaine Pont de Breux]] | 3 | 4 | 2014 | 2024 |
 | [[ferme_saint-martin|Ferme Saint-Martin]] | 3 | 4 | 2015 | 2025 |
 | [[chateau_musar|Chateau Musar]] | 3 | 3 | 2013 | 2022 |
+| [[dard__ribo|Dard & Ribo]] | 3 | 3 | 2024 | 2025 |
 
 *Compiled by `scripts/build_rollups.py`.*
 <!-- END AUTO-GENERATED -->

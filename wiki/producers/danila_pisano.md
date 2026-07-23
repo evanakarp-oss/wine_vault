@@ -1,11 +1,11 @@
 ---
 type: producer
-name: "Roagna"
-slug: roagna
+name: "Danila Pisano"
+slug: danila_pisano
 aliases: []
 country: "Italy"
-region: "Piedmont"
-sub_region: "Piedmont"
+region: "Liguria"
+sub_region: "Liguria"
 appellations: []
 farming: []
 certifications: []
@@ -19,7 +19,7 @@ tags: []
 _sources: ["campanale_wine_book"]
 ---
 
-# Roagna
+# Danila Pisano
 
 Italian producer from Campanale wine book.
 
