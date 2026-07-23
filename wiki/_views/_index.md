@@ -9,7 +9,7 @@ generator: scripts/build_views_index.py
 
 Catalog of every keeper-answer page in `wiki/_views/` — the single read surface for saved analyses (gap analysis, drink-window shortlists, cross-retailer comparisons, critic overlays). The main `wiki/index.md` skips this directory, so this is where views are cataloged.
 
-**102 views.**
+**103 views.**
 
 | Page | Question / title | Updated |
 |---|---|---|
@@ -41,6 +41,7 @@ Catalog of every keeper-answer page in `wiki/_views/` — the single read surfac
 | [[chateau_coutelin_merville_french_sources_2026_06|chateau_coutelin_merville_french_sources_2026_06]] | What do French-language sources say about Château Coutelin-Merville (Saint-Estèphe), and the 2015 in particular? | 2026-06-14 |
 | [[cotes_du_vivarais_terroir_neighbors_2026_06|cotes_du_vivarais_terroir_neighbors_2026_06]] | Côtes du Vivarais & Southern Ardèche — Terroir Neighbors That Haven't Blown Up | 2026-06-19 |
 | [[critic_ratings_board_2026_07|critic_ratings_board_2026_07]] | Across every landed critic rating, what are the highest-scored wines — and which can I actually buy right now? | 2026-07-22 |
+| [[csw_aging_language_2026_07|csw_aging_language_2026_07]] | CSW Aging Language — the "affordable wines that will age" thesis, sourced | 2026-07-23 |
 | [[csw_article_archive|csw_article_archive]] | What Chambers Street articles exist, and where can I read each one? | 2026-06-16 |
 | [[data_quality_integration_review_2026_07|data_quality_integration_review_2026_07]] | Data Integration & Quality Review (2026-07) | 2026-07-17 |
 | [[david_bowler_wine_raeders_xref_2026-06|david_bowler_wine_raeders_xref_2026-06]] | David Bowler Wine × Raeder's — Cross-Reference | 2026-06-13 |
