@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 1136
+total_pages: 1146
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**1136 pages indexed.**
+**1146 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -41,7 +41,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Jujuy_Producers|Jujuy Producers]] — **2 producers** tracked.
 - [[Jura_Producers|Jura Producers]] — **14 producers** tracked.
 - [[Liguria_Producers|Liguria Producers]] — **12 producers** tracked.
-- [[Loire_Producers|Loire Producers]] — **30 producers** tracked.
+- [[Loire_Producers|Loire Producers]] — **40 producers** tracked.
 - [[Lombardy_Producers|Lombardy Producers]] — **15 producers** tracked.
 - [[Marche_Producers|Marche Producers]] — **1 producers** tracked.
 - [[Mendoza_Producers|Mendoza Producers]] — **62 producers** tracked.
@@ -102,7 +102,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Jeffrey_Alpert_Selections|Jeffrey Alpert Selections]] — NYC. Natural/artisan.
 - [[Jenny_&_Francois_Selections|Jenny & François Selections]] — Beaujolais, France, Loire
 - [[Jose_Pastor_Selections|José Pastor Selections]] — Argentina
-- [[Kermit_Lynch|Kermit Lynch]] — Burgundy, Friuli-Venezia Giulia, Rhône
+- [[Kermit_Lynch|Kermit Lynch]] — Burgundy, Friuli-Venezia Giulia, Loire, Rhône
 - [[Kysela|Kysela]] — Burgundy
 - [[La_Grenouille|La Grenouille]] — Burgundy, Champagne, Rhône
 - [[Living_Wine_Imports|Living Wine Imports]] — Natural wines.
@@ -278,7 +278,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_584 producers across 43 regions._
+_594 producers across 43 regions._
 
 ### Abruzzo
 
@@ -647,19 +647,25 @@ _584 producers across 43 regions._
 - [[boulay|Boulay]] — Loire · CSW 2 · DTE 1
 - [[catherine_pierre_breton|Catherine & Pierre Breton]] — Loire / Bourgueil / Chinon (Restigné) · organic, biodynamic · CSW ★1/2
 - [[charles_joguet|Charles Joguet]] — Loire / Chinon (Sazilly) · organic
+- [[chateau_de_coulaine|Chateau de Coulaine]] — Loire / Cravant-les-Côteaux · organic, biodynamic
 - [[clos_rougeard|Clos Rougeard]] — Loire / Saumur-Champigny · natural · CSW ★2/11
 - [[couly_dutheil|Couly-Dutheil]] — Loire / Chinon
 - [[domaine_baudry|Domaine Baudry]] — Loire / Chinon · organic · CSW ★20/45
+- [[domaine_charles_joguet|Domaine Charles Joguet]] — Loire / Chinon · organic
 - [[domaine_de_la_butte|Domaine de la Butte]] — Loire / Bourgueil
 - [[domaine_de_la_chevalerie|Domaine de la Chevalerie]] — Loire / Bourgueil · organic · CSW ★5/15
+- [[domaine_de_la_noblaie|Domaine de la Noblaie]] — Loire / Bourgueil · organic, biodynamic
+- [[domaine_de_pallus|Domaine de Pallus]] — Loire / Bourgueil · organic
 - [[domaine_des_roches_neuves|Domaine des Roches Neuves]] — Loire / Saumur-Champigny · biodynamic · FASS
 - [[domaine_du_collier|Domaine du Collier]] — Loire / Faye d'Anjou · organic
+- [[domaine_du_mortier|Domaine du Mortier]] — Loire / Bourgueil · organic
 - [[domaine_fl|Domaine FL]] — Loire / Savennières · DTE 1
 - [[domaine_guiberteau|Domaine Guiberteau]] — Loire / Saumur-Champigny · organic, biodynamic · CSW ★1/3
 - [[francois_chidaine|François Chidaine]] — Loire / Montlouis-sur-Loire · biodynamic · DTE 1
 - [[freslier|Freslier]] — Loire / Bourgueil · organic · CSW 2
 - [[gerard_boulay|Gérard Boulay]] — Loire / Chavignol · organic
 - [[huet|Domaine Huet]] — Loire / Vouvray · biodynamic
+- [[jean_maurice_raffault|Jean-Maurice Raffault]] — Loire / Savigny-en-Véron · sustainable
 - [[lame_delisle_boucard|Lamé Delisle Boucard]] — Loire / Touraine (Ingrandes-de-Touraine)
 - [[mabileau|Jean-Paul & Mathieu Mabileau]] — Loire / St-Nicolas-de-Bourgueil
 - [[marionnet|Domaine Marionnet]] — Loire / Sologne · biodynamic · CSW ★2/5
@@ -667,10 +673,14 @@ _584 producers across 43 regions._
 - [[philippe_alliet|Philippe Alliet]] — Loire / Chinon (Cravant)
 - [[philippe_foreau|Philippe Foreau]] — Loire / Vouvray · DTE 3
 - [[philippe_gilbert|Philippe Gilbert]] — Loire / Menetou-Salon · biodynamic · DTE 6
+- [[pierre_rodolphe_gauthier|Pierre & Rodolphe Gauthier]] — Loire / Bourgueil · organic
 - [[sablonnettes|Domaine des Sablonnettes]] — Loire / Anjou · organic · CSW ★1/2
+- [[sebastien_david|Sébastien David]] — Loire / Chinon · organic
 - [[stephane_guion|Stéphane Guion]] — Loire / Bourgueil · organic since 1965 · CSW ★9/17
 - [[thevent|Thévenet]] — Loire / Bourgueil · organic, natural · CSW 1
 - [[thibaud_boudignon|Thibaud Boudignon]] — Loire / Vouvray · organic
+- [[xavier_courant|Xavier Courant – Domaine L'Oubliée]] — Loire / Bourgueil · organic, biodynamic
+- [[y_amirault|Y. Amirault]] — Loire / Bourgueil · organic
 - [[yannick_amirault|Yannick Amirault]] — Loire / Bourgueil / St-Nicolas-de-Bourgueil · organic
 
 ### Lombardy

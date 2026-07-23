@@ -2,18 +2,18 @@
 type: importer
 name: "Polaner"
 slug: polaner
-producer_count: 28
+producer_count: 32
 focus: ['Beaujolais', 'Burgundy', 'California', 'Champagne', 'Loire', 'Marche', 'Piedmont', 'Rhône', 'Tuscany']
 notable_producers: ['Domaine Baudry', 'Stéphane Guion', 'Domaine de la Chevalerie', 'Jean-Claude Rateau', 'Roagna']
 updated: 2026-07-23
 tags: []
-_source: wiki/_resources.md
 url: "https://polanerselections.com"
+_source: wiki/_resources.md
 ---
 # Polaner
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**28 producer(s)** in the vault imported by Polaner (US).
+**32 producer(s)** in the vault imported by Polaner (US).
 
 | Producer | Country | Region | CSW | Cellar |
 |---|---|---|---:|---:|
@@ -41,10 +41,14 @@ url: "https://polanerselections.com"
 | [[georges_glantenay|Georges Glantenay]] | France | Burgundy | 1 | — |
 | [[goisot|Goisot]] | France | Burgundy | 1 | — |
 | [[larmandier_bernier|Larmandier Bernier]] | France | Champagne | 1 | — |
+| [[chateau_de_coulaine|Chateau de Coulaine]] | France | Loire | — | — |
 | [[collestefano|Collestefano]] | Italy | Marche | — | — |
+| [[domaine_charles_joguet|Domaine Charles Joguet]] | France | Loire | — | — |
 | [[gilles__jean__maxime_lafouge|Gilles / Jean / Maxime Lafouge]] | France | Burgundy | — | — |
+| [[jean_maurice_raffault|Jean-Maurice Raffault]] | France | Loire | — | — |
 | [[julien_sunier|Julien Sunier]] | France | Beaujolais | — | — |
 | [[sigaut|Sigaut]] | France | Burgundy | — | — |
+| [[y_amirault|Y. Amirault]] | France | Loire | — | — |
 
 *Compiled by `scripts/build_rollups.py`.*
 <!-- END AUTO-GENERATED -->

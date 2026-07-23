@@ -2,18 +2,18 @@
 type: importer
 name: "Kermit Lynch"
 slug: kermit_lynch
-producer_count: 19
-focus: ['Burgundy', 'Friuli-Venezia Giulia', 'Rhône']
+producer_count: 22
+focus: ['Burgundy', 'Friuli-Venezia Giulia', 'Loire', 'Rhône']
 notable_producers: ['Domaine Pierre Gonon', 'Domaine Pierre André', 'Clos du Joncuas', 'Allemand', 'Sylvie Esmonin']
 updated: 2026-07-23
 tags: []
-_source: wiki/_resources.md
 url: "https://kermitlynch.com"
+_source: wiki/_resources.md
 ---
 # Kermit Lynch
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**19 producer(s)** in the vault imported by Kermit Lynch (US).
+**22 producer(s)** in the vault imported by Kermit Lynch (US).
 
 | Producer | Country | Region | CSW | Cellar |
 |---|---|---|---:|---:|
@@ -32,8 +32,11 @@ url: "https://kermitlynch.com"
 | [[meo_camuzet|Méo-Camuzet]] | France | Burgundy | 1 | — |
 | [[auguste_clape|Auguste Clape]] | France | Rhône | — | — |
 | [[david_duband|David Duband]] | France | Burgundy | — | — |
+| [[domaine_charles_joguet|Domaine Charles Joguet]] | France | Loire | — | — |
+| [[domaine_de_la_noblaie|Domaine de la Noblaie]] | France | Loire | — | — |
 | [[domaine_gallety|Domaine Gallety]] | France | Rhône | — | — |
 | [[dauvissat|Domaine Vincent Dauvissat]] | France | Burgundy | — | — |
+| [[jean_maurice_raffault|Jean-Maurice Raffault]] | France | Loire | — | — |
 | [[lucien_boillot|Lucien Boillot]] | France | Burgundy | — | — |
 | [[lucien_le_moine|Lucien Le Moine]] | France | Burgundy | — | — |
 

@@ -7,8 +7,8 @@ focus: ['Burgundy', 'Jura', 'Mendoza', 'Mosel', 'Nahe', 'Patagonia', 'Piedmont',
 notable_producers: ['Clemens Busch', 'Knebel', 'Weiser-Künstler', 'Immich-Batterieberg', 'Stéphane Tissot']
 updated: 2026-07-23
 tags: ['grower', 'grower-champagne']
-_source: wiki/_resources.md
 url: "https://www.skurnik.com"
+_source: wiki/_resources.md
 ---
 # Skurnik
 
