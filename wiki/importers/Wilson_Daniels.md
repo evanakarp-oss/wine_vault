@@ -2,7 +2,7 @@
 type: importer
 name: "Wilson Daniels"
 slug: wilson_daniels
-producer_count: 9
+producer_count: 10
 focus: ['Burgundy', 'California', 'Piedmont', 'Rhône', 'Sicily', 'Tuscany', 'Veneto']
 notable_producers: ['Domaine Leflaive', 'Domaine Laroche', 'Feudo Montoni', 'Biondi-Santi', 'Bergstrom']
 updated: 2026-07-23
@@ -11,7 +11,7 @@ updated: 2026-07-23
 # Wilson Daniels
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**9 producer(s)** in the vault imported by Wilson Daniels (US).
+**10 producer(s)** in the vault imported by Wilson Daniels (US).
 
 | Producer | Country | Region | CSW | Cellar |
 |---|---|---|---:|---:|
@@ -24,6 +24,7 @@ updated: 2026-07-23
 | [[domaine_de_beaurenard|Domaine de Beaurenard]] | France | Rhône | — | — |
 | [[elvio_cogno|Elvio Cogno]] | Italy | Piedmont | — | 3 |
 | [[gaja|Gaja]] | Italy | Piedmont | — | — |
+| [[lucien_le_moine|Lucien Le Moine]] | France | Burgundy | — | — |
 
 *Compiled by `scripts/build_rollups.py`.*
 <!-- END AUTO-GENERATED -->

@@ -12,7 +12,7 @@ producer_count: 23
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
 | [[beta|Beta]] | United States | Napa Valley | — | — | — | — | 16 btl |
-| [[arnot-roberts|Arnot-Roberts]] | United States | Sonoma County (North Coast Trousseau & Jura varieties) | 10 | — | — | — | — |
+| [[arnot-roberts|Arnot-Roberts]] | United States | Sonoma Coast (Healdsburg area) | 10 | — | — | — | — |
 | [[bond|BOND]] | United States | Napa Valley | — | — | — | — | 1 btl |
 | [[kosta_browne|Kosta Browne]] | United States | Sonoma Coast | 1 | — | 15 | — | — |
 | [[screaming_eagle|Screaming Eagle]] | United States | Napa Valley (Oakville) | 1 | — | 1 | — | — |

@@ -3,11 +3,11 @@ type: importer
 name: "Louis"
 slug: louis
 producer_count: 16
-focus: ['Burgundy', 'Jura', 'Rhône', 'Sicily']
+focus: ['Burgundy', 'Jura', 'Loire', 'Rhône', 'Sicily']
 notable_producers: ['Eric Texier', 'Jacques Puffeney', 'Jean-François Ganevat', 'Benoit Courault', 'Domaine Simon Bize']
 updated: 2026-07-23
-tags: ['natural', 'organic']
 _source: wiki/_resources.md
+tags: ['natural', 'organic']
 url: "https://louisdressner.com"
 ---
 # Louis
@@ -20,7 +20,7 @@ url: "https://louisdressner.com"
 | [[eric_texier|Eric Texier]] | France | Rhône | 26 | — |
 | [[jacques_puffeney|Jacques Puffeney]] | France | Jura | 12 | — |
 | [[jean_francois_ganevat|Jean-François Ganevat]] | France | Jura | 12 | — |
-| [[benoit_courault|Benoit Courault]] | France | Burgundy | 11 | — |
+| [[benoit_courault|Benoit Courault]] | France | Loire | 11 | — |
 | [[domaine_simon_bize|Domaine Simon Bize]] | France | Burgundy | 10 | — |
 | [[michel_gahier|Michel Gahier]] | France | Jura | 8 | — |
 | [[domaine_guillemot-michel|Domaine Guillemot-Michel]] | France | Burgundy | 7 | — |

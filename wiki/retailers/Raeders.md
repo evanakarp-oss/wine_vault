@@ -4,15 +4,15 @@ name: "Raeder's"
 slug: raeders
 url: "https://www.raederswine.com"
 location: ""
-producer_count: 58
+producer_count: 59
 updated: 2026-07-23
-tags: []
 _source: wiki/_resources.md
+tags: []
 ---
 # Raeder's
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**58 producers** from this retailer are tracked in the wiki.
+**59 producers** from this retailer are tracked in the wiki.
 
 ## Producers in portfolio
 
@@ -76,6 +76,7 @@ _source: wiki/_resources.md
 | [[livio_felluga|Livio Felluga]] | Italy | Friuli-Venezia Giulia | 1 | — |
 | [[produttori_del_barbaresco|Produttori del Barbaresco]] | Italy | Piedmont | 1 | 10 |
 | [[screaming_eagle|Screaming Eagle]] | United States | California | 1 | 1 |
+| [[lucien_le_moine|Lucien Le Moine]] | France | Burgundy | 0 | — |
 
 *Compiled by `scripts/build_rollups.py`.*
 <!-- END AUTO-GENERATED -->

@@ -15,7 +15,7 @@ producer_count: 20
 | [[i_fabbri|I Fabbri]] | Italy | Chianti Classico | 2 | 3 | — | — | — |
 | [[montenidoli|Montenidoli]] | Italy | San Gimignano | 2 | 7 | — | — | — |
 | [[altesino|Altesino]] | Italy | Brunello di Montalcino | — | — | 9 | — | 1 btl |
-| [[biondi_santi|Biondi-Santi]] | Italy | Brunello di Montalcino | 1 | — | 8 | — | — |
+| [[biondi_santi|Biondi-Santi]] | Italy | Montalcino | 1 | — | 8 | — | — |
 | [[castell_in_villa|Castell'in Villa]] | Italy | Chianti Classico | — | 3 | — | — | — |
 | [[castelli_in_villa|Castelli In Villa]] | Italy | Chianti Classico | — | — | — | — | — |
 | [[castello_dei_rampolla|Castello Dei Rampolla]] | Italy | Chianti Classico | — | — | — | — | — |
@@ -28,7 +28,7 @@ producer_count: 20
 | [[monteraponi|Monteraponi]] | Italy | Chianti Classico | — | — | — | — | — |
 | [[pian_dell_orino|Pian dell'Orino]] | Italy | — | — | 1 | — | — | — |
 | [[poggio_del_moro|Poggio del Moro]] | Italy | Val d'Orcia | — | — | — | — | — |
-| [[stella_di_campalto|Stella di Campalto]] | Italy | Chianti Classico | — | — | — | — | — |
+| [[stella_di_campalto|Stella di Campalto]] | Italy | Montalcino | — | — | — | — | — |
 | [[tenuta_di_carleone|Tenuta di Carleone]] | Italy | Chianti Classico | — | 8 | — | — | — |
 | [[val_delle_corti|Val Delle Corti]] | Italy | Chianti Classico | — | — | — | — | — |
 

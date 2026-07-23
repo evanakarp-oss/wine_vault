@@ -14,7 +14,7 @@ producer_count: 6
 | [[arianna_occhipinti|Arianna Occhipinti]] | Italy | Vittoria | 4 | — | 1 | — | 5 btl |
 | [[frank_cornelissen|Frank Cornelissen]] | Italy | Etna | 6 | — | — | — | 3 btl |
 | [[gulfi|Gulfi]] | Italy | Vittoria | 4 | 7 | — | — | — |
-| [[bonavita|Bonavita]] | Italy | Faro | 3 | — | — | — | — |
+| [[bonavita|Bonavita]] | Italy | Faro (Messina) | 3 | — | — | — | — |
 | [[feudo_montoni|Feudo Montoni]] | Italy | — | 3 | — | 7 | — | — |
 | [[masseria_del_pino|Masseria del Pino]] | Italy | — | 3 | — | — | — | — |
 

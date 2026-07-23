@@ -13,7 +13,7 @@ producer_count: 5
 |---|---|---|---:|---:|---:|---:|---:|
 | [[desvignes|Desvignes]] | France | '' | 13 | 2 | — | — | — |
 | [[clos_de_la_roilette|Clos de la Roilette]] | France | '' | 8 | 1 | — | — | — |
-| [[anthony_thevenet|Anthony Thevenet]] | France | — | 1 | 1 | — | — | — |
+| [[anthony_thevenet|Anthony Thevenet]] | France | Lancié | 1 | 1 | — | — | — |
 | [[julien_sunier|Julien Sunier]] | France | '' | — | 1 | — | — | — |
 | [[yvon_metras|Yvon Métras]] | France | Fleurie | — | — | — | 0 | — |
 

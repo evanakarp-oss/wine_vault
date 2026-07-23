@@ -6,8 +6,8 @@ producer_count: 8
 focus: ['Baden', 'Bordeaux', 'Burgundy', 'Jura', 'Piedmont', 'Rhône']
 notable_producers: ['Brovia', 'Jacques Puffeney', 'Michel Gahier', 'Domaine Lionnet', 'Elio Sandri']
 updated: 2026-07-23
-tags: []
 _source: wiki/_resources.md
+tags: []
 url: "https://rosenthalwine.com"
 ---
 # Neal Rosenthal

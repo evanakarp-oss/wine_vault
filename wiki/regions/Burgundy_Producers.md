@@ -2,18 +2,17 @@
 type: region_index
 region: "Burgundy"
 updated: 2026-07-23
-producer_count: 102
+producer_count: 103
 ---
 
 # Burgundy — Producer Index
 
-**102 producers** tracked.
+**103 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
 | [[maison_pierre_brisset|Maison Pierre Brisset]] | France | Côte de Beaune / Bligny-lès-Beaune | — | — | — | 0 | 16 btl |
 | [[jean-claude_rateau|Jean-Claude Rateau]] | France | Beaune | 13 | — | — | — | — |
-| [[benoit_courault|Benoit Courault]] | France | Anjou (Loire) | 11 | — | — | — | — |
 | [[domaine_de_montille|Domaine de Montille]] | France | Volnay / Pommard | 11 | — | — | — | — |
 | [[domaine_simon_bize|Domaine Simon Bize]] | France | Savigny-lès-Beaune | 10 | — | — | — | — |
 | [[sylvie_esmonin|Sylvie Esmonin]] | France | Gevrey-Chambertin | 8 | — | — | — | — |
@@ -52,7 +51,7 @@ producer_count: 102
 | [[messager-germain|Messager-Germain]] | France | — | 2 | — | — | — | — |
 | [[rapet_pere_et_fils|Rapet Père et Fils]] | France | Pernand-Vergelesses | 2 | — | — | — | — |
 | [[amelie_berthaut|Amélie Berthaut]] | France | — | 1 | 1 | — | — | — |
-| [[berthaut-gerbet|Berthaut-Gerbet]] | France | Fixin / Gevrey | 1 | — | — | — | — |
+| [[berthaut-gerbet|Berthaut-Gerbet]] | France | Fixin, Vosne-Romanée | 1 | — | — | — | — |
 | [[domaine_cheveau|Domaine Cheveau]] | France | Pouilly-Fuissé | 1 | — | — | — | — |
 | [[domaine_joseph_roty|Domaine Joseph Roty]] | France | Gevrey-Chambertin | 1 | — | — | — | — |
 | [[domaine_rossignol-fevrier|Domaine Rossignol-Fevrier]] | France | Volnay | 1 | — | — | — | — |
@@ -74,6 +73,7 @@ producer_count: 102
 | [[charles_audoin|Charles Audoin]] | France | '' | — | 19 | — | — | — |
 | [[chicotot|Chicotot]] | France | '' | — | 20 | — | — | — |
 | [[cyril_audoin|Cyril Audoin]] | France | '' | — | 3 | — | — | — |
+| [[david_duband|David Duband]] | France | Côte de Nuits | — | 0 | — | — | — |
 | [[denis_bachelet|Denis Bachelet]] | France | '' | — | 1 | — | — | — |
 | [[hubert_lamy|Domaine Hubert Lamy]] | France | Saint-Aubin | — | — | — | — | — |
 | [[raveneau|Domaine Raveneau]] | France | Chablis | — | — | — | — | — |
@@ -98,6 +98,7 @@ producer_count: 102
 | [[loersch|Loersch]] | France | — | — | 9 | — | — | — |
 | [[louis_latour|Louis Latour]] | France | Beaune | — | — | 9 | — | — |
 | [[lucien_boillot|Lucien Boillot]] | France | Gevrey-Chambertin | — | — | 9 | — | — |
+| [[lucien_le_moine|Lucien Le Moine]] | France | Côte de Nuits | — | — | 0 | — | — |
 | [[marchand_tawse|Marchand Tawse]] | France | '' | — | 25 | — | — | — |
 | [[maxime_cheurlin|Maxime Cheurlin]] | France | — | — | 18 | — | — | — |
 | [[michel_niellon|Michel Niellon]] | France | Chassagne-Montrachet | — | — | 3 | — | — |

@@ -12,7 +12,7 @@ producer_count: 5
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
 | [[laurent_barth|Laurent Barth]] | France | Bennwihr | 5 | — | — | — | — |
-| [[beck-hartweg|Beck-Hartweg]] | France | Dambach-la-Ville | 4 | — | — | — | — |
+| [[beck-hartweg|Beck-Hartweg]] | France | Dambach-la-Ville (Bas-Rhin) | 4 | — | — | — | — |
 | [[agathe_bursin|Agathe Bursin]] | France | — | — | 1 | — | — | — |
 | [[dirler_cade|Dirler Cadé]] | France | '' | — | 5 | — | — | — |
 | [[kientzler|Kientzler]] | France | — | — | 1 | — | — | — |

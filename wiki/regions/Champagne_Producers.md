@@ -12,9 +12,9 @@ producer_count: 24
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
 | [[laherte|Laherte]] | France | '' | 12 | 6 | — | — | — |
-| [[agrapart|Agrapart]] | France | — | 9 | 2 | — | — | 2 btl |
+| [[agrapart|Agrapart]] | France | Côte des Blancs | 9 | 2 | — | — | 2 btl |
 | [[marguet|Marguet]] | France | — | 10 | 4 | — | — | — |
-| [[bollinger|Bollinger]] | France | '' | 6 | — | 2 | — | — |
+| [[bollinger|Bollinger]] | France | Aÿ (Montagne de Reims) | 6 | — | 2 | — | — |
 | [[champagne_ponson|Champagne Ponson]] | France | — | 2 | — | — | — | — |
 | [[pierre_peters|Pierre Peters]] | France | Le Mesnil-sur-Oger | 2 | — | 2 | — | — |
 | [[champagne_les_freres_mignon|Champagne Les Freres Mignon]] | France | — | 1 | — | — | — | — |
