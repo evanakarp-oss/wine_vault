@@ -2,12 +2,12 @@
 type: region_index
 region: "Friuli-Venezia Giulia"
 updated: 2026-07-23
-producer_count: 64
+producer_count: 65
 ---
 
 # Friuli-Venezia Giulia — Producer Index
 
-**64 producers** tracked.
+**65 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -24,6 +24,7 @@ producer_count: 64
 | [[castelvecchio|Castelvecchio]] | Italy | Carso (Sagrado) | — | — | — | — | — |
 | [[colle_duga|Colle Duga]] | Italy | Collio (Zegla, Cormons) | — | — | — | — | — |
 | [[cosco_gravar|Cosco Gravar]] | Italy | Collio Goriziano | — | — | — | — | — |
+| [[damiani_podversic|Damiani Podversic]] | Italy | Collio (Gorizia) | — | — | — | — | — |
 | [[damijan_podversic|Damijan Podversic]] | Italy | Collio (Gorizia / Monte Calvario) | — | — | — | — | — |
 | [[dario_coos|Dario Coos]] | Italy | Colli Orientali (Nimis / Ramandolo) | — | — | — | — | — |
 | [[dario_raccaro|Dario Raccaro]] | Italy | Collio (Cormons) | — | — | — | — | — |

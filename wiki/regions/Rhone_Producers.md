@@ -2,12 +2,12 @@
 type: region_index
 region: "Rhône"
 updated: 2026-07-23
-producer_count: 39
+producer_count: 42
 ---
 
 # Rhône — Producer Index
 
-**39 producers** tracked.
+**42 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -36,14 +36,17 @@ producer_count: 39
 | [[jamet|Jamet]] | France | Côte-Rôtie | 2 | — | — | — | — |
 | [[vincent_paris|Vincent Paris]] | France | '' | 2 | 1 | — | 1 | — |
 | [[clos_du_mont_olivet|Clos du Mont Olivet]] | France | '' | 1 | 1 | — | — | — |
+| [[cedric_parpette|Cédric Parpette]] | France | Côte-Rôtie | — | — | — | — | 1 btl |
 | [[jasmin|Jasmin]] | France | — | 1 | 1 | — | — | — |
 | [[auguste_clape|Auguste Clape]] | France | Cornas | — | — | — | — | — |
 | [[billon|Billon]] | France | '' | — | 4 | — | — | — |
 | [[clos_saouma|Clos Saouma]] | France | — | — | 1 | — | — | — |
 | [[clusel_roch|Clusel Roch]] | France | '' | — | 3 | 1 | — | — |
 | [[domaine_blachon|Domaine Blachon]] | France | Saint-Joseph | — | — | — | 0 | — |
+| [[domaine_dourea|Domaine d'Ourea]] | France | Gigondas | — | — | — | — | — |
 | [[domaine_de_beaurenard|Domaine de Beaurenard]] | France | Châteauneuf-du-Pape | — | — | 11 | — | — |
 | [[domaine_gallety|Domaine Gallety]] | France | Côtes du Vivarais | — | — | — | — | — |
+| [[domaine_jean_royer|Domaine Jean Royer]] | France | Châteauneuf-du-Pape | — | — | — | — | — |
 | [[eric_et_joel_durand|Eric et Joel Durand]] | France | — | — | 1 | — | — | — |
 | [[georges_vernay|Georges Vernay]] | France | — | — | 1 | 1 | — | — |
 | [[jean_royer|Jean Royer]] | France | — | — | 1 | — | — | — |

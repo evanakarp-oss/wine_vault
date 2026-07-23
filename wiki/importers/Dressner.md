@@ -6,9 +6,9 @@ producer_count: 17
 focus: ['Burgundy', 'Jura', 'Loire', 'Rhône', 'Sicily']
 notable_producers: ['Eric Texier', 'Jacques Puffeney', 'Jean-François Ganevat', 'Benoit Courault', 'Domaine Simon Bize']
 updated: 2026-07-23
+tags: ['natural', 'organic']
 _source: wiki/_resources.md
 url: "https://louisdressner.com"
-tags: ['natural', 'organic']
 ---
 # Dressner
 

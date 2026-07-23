@@ -2,12 +2,12 @@
 type: region_index
 region: "Champagne"
 updated: 2026-07-23
-producer_count: 24
+producer_count: 28
 ---
 
 # Champagne — Producer Index
 
-**24 producers** tracked.
+**28 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -22,9 +22,13 @@ producer_count: 24
 | [[jacques_lassaigne|Jacques Lassaigne]] | France | '' | 1 | 3 | — | — | — |
 | [[larmandier_bernier|Larmandier Bernier]] | France | '' | 1 | 3 | 1 | — | — |
 | [[aurore_casanova|Aurore Casanova]] | France | — | — | 4 | — | — | — |
+| [[benoit_dehu|Champagne Bénoit Déhu]] | France | Avize | — | — | — | — | — |
+| [[champagne_guiborat|Champagne Guiborat]] | France | Damery | — | — | — | — | — |
+| [[roses_de_jeanne|Champagne Roses de Jeanne]] | France | Côte des Blancs | — | — | — | — | — |
 | [[cedric_bouchard|Cédric Bouchard]] | France | Aube (Côte des Bar) | — | — | — | — | — |
 | [[david_leclapart|David Léclapart]] | France | Montagne de Reims | — | — | — | 0 | — |
 | [[dehu|Déhu]] | France | Vallée de la Marne | — | 5 | — | — | — |
+| [[jerome_prevost|La Closerie (Jérôme Prévost)]] | France | Cumières | — | — | — | — | — |
 | [[legrand_latour|Legrand-Latour]] | France | — | — | 2 | — | — | — |
 | [[louis_roederer|Louis Roederer]] | France | '' | — | — | 12 | — | — |
 | [[marie_courtin|Marie Courtin]] | France | Côte des Bar | — | 7 | — | — | — |

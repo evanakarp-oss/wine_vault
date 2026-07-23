@@ -15,6 +15,7 @@ farming:
 certifications: []
 importer_us:
 - Skurnik
+- Thomas Kalder Selections
 retailers:
   chambers:
     championed: true

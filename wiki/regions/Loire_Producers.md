@@ -2,12 +2,12 @@
 type: region_index
 region: "Loire"
 updated: 2026-07-23
-producer_count: 27
+producer_count: 30
 ---
 
 # Loire — Producer Index
 
-**27 producers** tracked.
+**30 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -29,14 +29,17 @@ producer_count: 27
 | [[couly_dutheil|Couly-Dutheil]] | France | Chinon | — | — | — | — | — |
 | [[domaine_de_la_butte|Domaine de la Butte]] | France | Bourgueil | — | — | — | — | — |
 | [[domaine_des_roches_neuves|Domaine des Roches Neuves]] | France | Saumur-Champigny | — | — | — | 0 | — |
+| [[domaine_du_collier|Domaine du Collier]] | France | Faye d'Anjou | — | — | — | — | — |
 | [[domaine_fl|Domaine FL]] | France | Savennières | — | 1 | — | — | — |
 | [[huet|Domaine Huet]] | France | Vouvray | — | — | — | — | — |
 | [[francois_chidaine|François Chidaine]] | France | Montlouis-sur-Loire | — | 1 | — | — | — |
+| [[gerard_boulay|Gérard Boulay]] | France | Chavignol | — | — | — | — | — |
 | [[mabileau|Jean-Paul & Mathieu Mabileau]] | France | St-Nicolas-de-Bourgueil | — | — | — | — | — |
 | [[lame_delisle_boucard|Lamé Delisle Boucard]] | France | Touraine (Ingrandes-de-Touraine) | — | — | — | — | — |
 | [[philippe_alliet|Philippe Alliet]] | France | Chinon (Cravant) | — | — | — | — | — |
 | [[philippe_foreau|Philippe Foreau]] | France | Vouvray | — | 3 | — | — | — |
 | [[philippe_gilbert|Philippe Gilbert]] | France | Menetou-Salon | — | 6 | — | — | — |
+| [[thibaud_boudignon|Thibaud Boudignon]] | France | Vouvray | — | — | — | — | — |
 | [[yannick_amirault|Yannick Amirault]] | France | Bourgueil / St-Nicolas-de-Bourgueil | — | — | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

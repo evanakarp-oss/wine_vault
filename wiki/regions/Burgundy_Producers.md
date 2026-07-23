@@ -2,12 +2,12 @@
 type: region_index
 region: "Burgundy"
 updated: 2026-07-23
-producer_count: 103
+producer_count: 104
 ---
 
 # Burgundy — Producer Index
 
-**103 producers** tracked.
+**104 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -76,6 +76,7 @@ producer_count: 103
 | [[david_duband|David Duband]] | France | Côte de Nuits | — | 0 | — | — | — |
 | [[denis_bachelet|Denis Bachelet]] | France | '' | — | 1 | — | — | — |
 | [[hubert_lamy|Domaine Hubert Lamy]] | France | Saint-Aubin | — | — | — | — | — |
+| [[domaine_pattes_loup|Domaine Pattes Loup]] | France | Chablis | — | — | — | — | — |
 | [[raveneau|Domaine Raveneau]] | France | Chablis | — | — | — | — | — |
 | [[roulot|Domaine Roulot]] | France | Meursault | — | — | — | — | — |
 | [[simon_bize|Domaine Simon Bize]] | France | Savigny-lès-Beaune | — | — | — | — | — |

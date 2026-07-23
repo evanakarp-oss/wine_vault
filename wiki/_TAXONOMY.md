@@ -24,6 +24,7 @@ Add new values here FIRST, then use them in producer files.
 - Chile
 - Uruguay
 - Slovenia
+- Switzerland
 
 ## `region` (indexed by country)
 
@@ -70,6 +71,7 @@ Add new values here FIRST, then use them in producer files.
 - Liguria
 - Colli Tortonesi
 - Emilia-Romagna
+- Umbria
 
 ### Spain
 - Catalonia
@@ -87,6 +89,13 @@ Add new values here FIRST, then use them in producer files.
 - Jujuy
 - San Juan
 - Buenos Aires Province
+
+### Switzerland
+- Valais
+- Vaud
+- Geneva
+- Neuchâtel
+- Ticino
 
 ### Slovenia
 - Goriška Brda

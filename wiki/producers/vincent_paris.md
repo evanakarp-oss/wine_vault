@@ -11,6 +11,7 @@ farming: []
 certifications: []
 importer_us:
 - Polaner
+- Thomas Kalder Selections
 retailers:
   chambers:
     championed: true
