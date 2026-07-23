@@ -2,12 +2,12 @@
 type: region_index
 region: "Rhône"
 updated: 2026-07-23
-producer_count: 37
+producer_count: 39
 ---
 
 # Rhône — Producer Index
 
-**37 producers** tracked.
+**39 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -17,6 +17,7 @@ producer_count: 37
 | [[domaine_pierre_andre|Domaine Pierre André]] | France | Gigondas / Châteauneuf | 12 | — | — | — | — |
 | [[clos_du_joncuas|Clos du Joncuas]] | France | Gigondas | 10 | — | — | — | — |
 | [[allemand|Allemand]] | France | Cornas | 9 | — | — | — | — |
+| [[tardieu_laurent|Tardieu-Laurent]] | France | Northern Rhône | 8 | 6 | — | — | — |
 | [[domaine_charvin|Domaine Charvin]] | France | Châteauneuf-du-Pape | 7 | — | — | — | — |
 | [[domaine_lionnet|Domaine Lionnet]] | France | Cornas | 7 | — | — | — | — |
 | [[domaine_barou|Domaine Barou]] | France | Saint-Joseph | 6 | — | — | — | — |
@@ -28,6 +29,7 @@ producer_count: 37
 | [[franck_balthazar|Franck Balthazar]] | France | Cornas | 5 | — | — | — | — |
 | [[dumien-serrette|Dumien-Serrette]] | France | Cornas | 4 | — | — | — | — |
 | [[ferme_saint-martin|Ferme Saint-Martin]] | France | Beaumes-de-Venise / Ventoux | 4 | — | — | — | — |
+| [[courbis|Courbis]] | France | Northern Rhône | 3 | — | — | — | — |
 | [[dard__ribo|Dard & Ribo]] | France | Crozes-Hermitage / Saint-Joseph | 3 | — | — | — | — |
 | [[chapelle_st_theodoric|Chapelle St. Theodoric]] | France | Châteauneuf-du-Pape | 2 | — | — | — | — |
 | [[domaine_gripa|Domaine Gripa]] | France | Saint-Joseph / Saint-Péray | 2 | — | — | — | — |
@@ -46,7 +48,7 @@ producer_count: 37
 | [[georges_vernay|Georges Vernay]] | France | — | — | 1 | 1 | — | — |
 | [[jean_royer|Jean Royer]] | France | — | — | 1 | — | — | — |
 | [[jean_michel_stephan|Jean-Michel Stéphan]] | France | Côte-Rôtie | — | — | — | 0 | — |
-| [[marc_sorrel|Marc Sorrel]] | France | '' | — | 15 | — | — | — |
+| [[marc_sorrel|Marc Sorrel]] | France | Northern Rhône | — | 15 | — | — | — |
 | [[pierre_benetiere|Pierre Benetiere]] | France | — | — | 5 | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

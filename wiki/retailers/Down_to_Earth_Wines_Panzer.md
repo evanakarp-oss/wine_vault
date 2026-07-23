@@ -4,14 +4,14 @@ name: "Down to Earth Wines (Panzer)"
 slug: dte
 url: ""
 location: "NYC (import portfolio)"
-producer_count: 119
+producer_count: 120
 updated: 2026-07-23
 ---
 
 # Down to Earth Wines (Panzer)
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**119 producers** from this retailer are tracked in the wiki.
+**120 producers** from this retailer are tracked in the wiki.
 
 ## Producers in portfolio
 
@@ -57,6 +57,7 @@ updated: 2026-07-23
 | [[philippe_gilbert|Philippe Gilbert]] | France | Loire | 6 | — |
 | [[pianelle|Pianelle]] | Italy | Piedmont | 6 | — |
 | [[ployez_jacquemart|Ployez Jacquemart]] | France | Champagne | 6 | — |
+| [[tardieu_laurent|Tardieu-Laurent]] | France | Rhône | 6 | 8 |
 | [[barraud|Barraud]] | France | Burgundy | 5 | — |
 | [[dirler_cade|Dirler Cadé]] | France | Alsace | 5 | — |
 | [[dehu|Déhu]] | France | Champagne | 5 | — |

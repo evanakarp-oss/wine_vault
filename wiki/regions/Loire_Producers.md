@@ -2,12 +2,12 @@
 type: region_index
 region: "Loire"
 updated: 2026-07-23
-producer_count: 22
+producer_count: 27
 ---
 
 # Loire — Producer Index
 
-**22 producers** tracked.
+**27 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -17,9 +17,14 @@ producer_count: 22
 | [[domaine_de_la_chevalerie|Domaine de la Chevalerie]] | France | Bourgueil | 15 | — | — | — | — |
 | [[benoit_courault|Benoit Courault]] | France | Anjou | 11 | — | — | — | — |
 | [[clos_rougeard|Clos Rougeard]] | France | Saumur-Champigny | 11 | — | — | — | — |
+| [[marionnet|Domaine Marionnet]] | France | Sologne | 5 | — | — | — | — |
 | [[olga_raffault|Domaine Olga Raffault]] | France | Chinon (Savigny-en-Véron) | 5 | — | — | — | — |
+| [[domaine_guiberteau|Domaine Guiberteau]] | France | Saumur-Champigny | 3 | — | — | — | — |
 | [[boulay|Boulay]] | France | '' | 2 | 1 | — | — | — |
 | [[catherine_pierre_breton|Catherine & Pierre Breton]] | France | Bourgueil / Chinon (Restigné) | 2 | — | — | — | — |
+| [[sablonnettes|Domaine des Sablonnettes]] | France | Anjou | 2 | — | — | — | — |
+| [[freslier|Freslier]] | France | Bourgueil | 2 | — | — | — | — |
+| [[thevent|Thévenet]] | France | Bourgueil | 1 | — | — | — | — |
 | [[charles_joguet|Charles Joguet]] | France | Chinon (Sazilly) | — | — | — | — | — |
 | [[couly_dutheil|Couly-Dutheil]] | France | Chinon | — | — | — | — | — |
 | [[domaine_de_la_butte|Domaine de la Butte]] | France | Bourgueil | — | — | — | — | — |

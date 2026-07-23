@@ -40,7 +40,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Jujuy_Producers|Jujuy Producers]] — **2 producers** tracked.
 - [[Jura_Producers|Jura Producers]] — **14 producers** tracked.
 - [[Liguria_Producers|Liguria Producers]] — **12 producers** tracked.
-- [[Loire_Producers|Loire Producers]] — **22 producers** tracked.
+- [[Loire_Producers|Loire Producers]] — **27 producers** tracked.
 - [[Lombardy_Producers|Lombardy Producers]] — **15 producers** tracked.
 - [[Marche_Producers|Marche Producers]] — **1 producers** tracked.
 - [[Mendoza_Producers|Mendoza Producers]] — **62 producers** tracked.
@@ -52,7 +52,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Piedmont_Producers|Piedmont Producers]] — **32 producers** tracked.
 - [[Provence_Producers|Provence Producers]] — **3 producers** tracked.
 - [[Rheinhessen_Producers|Rheinhessen Producers]] — **1 producers** tracked.
-- [[Rhone_Producers|Rhone Producers]] — **37 producers** tracked.
+- [[Rhone_Producers|Rhone Producers]] — **39 producers** tracked.
 - [[Ribera_del_Duero_Producers|Ribera Del Duero Producers]] — **1 producers** tracked.
 - [[Salta_Producers|Salta Producers]] — **5 producers** tracked.
 - [[San_Juan_Producers|San Juan Producers]] — **1 producers** tracked.
