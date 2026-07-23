@@ -269,6 +269,36 @@ Vintages on offer: 1964, 1981, 2014, 2017, 2019, 2020, 2022.
 
 _[Raeders link](https://www.raederswine.com/wines/Chateau-Palmer-Margaux-2019-w8299634bd)_
 
-## FASS
+## Notes
 
-_Not yet populated._
+**Château Palmer** is a 3rd-growth Margaux estate that has transcended its classification to drink at 1st-growth quality levels, particularly celebrated for pioneering **biodynamic farming in Bordeaux** since 2013. Under winemaker **Thomas Duroux**, Palmer has become a leading voice for sustainable viticulture among classed growths while simultaneously producing wines of remarkable richness and complexity. The estate exemplifies how biodynamic farming can elevate a prestigious terroir to new heights of expression.
+
+**Biodynamic Farming Leadership.** Palmer's 2013 biodynamic certification marked a watershed moment for classed-growth Bordeaux — few 3rd-growths and fewer 1st-growths had embraced biodynamics at that scale and commitment level. CSW's 2025 article ("Bordeaux Biologiques!") documents the broader movement toward organic/biodynamic viticulture in Bordeaux, positioning Palmer as a pioneering voice. The commitment reflects the Duroux family's belief that "biodynamic farming allows the vineyard to achieve optimal expression of terroir" — a philosophy that resonates with contemporary collectors seeking wines from ethically-managed estates.
+
+**Terroir & Vineyard Character.** Margaux sits on the Left Bank's best-drained gravelly plateau, producing wines of elegance and silk-textured tannins. Palmer's biodynamic practices have reportedly enhanced this terroir expression: improved soil microbiology, enhanced water retention during dry vintages, and greater aromatic complexity in resulting wines.
+
+**Current Portfolio & Critical Recognition.** Raeders tracks eight Palmer cuvées spanning multiple formats ($399.99-$1,299.99), indicating strong collector interest:
+- **Recent vintage (2020):** Wine Advocate 97 · James Suckling 98 · Wine Enthusiast 98 (highest scoring tier)
+- **2019 (3L Magnum):** $1,299.99, WA 96 · JS 99 — exceptional pricing for prestigious large format
+- **2017:** WA 97 · JS 98 · WE 95 (all major critics praising)
+- **Secondary label (Alter Ego Margaux, 2020):** WA 93 · JS 96 · WE 94 (strong second-tier expression)
+
+The 2018 vintage received a remarkable **Vinous 100-point score** ("The 2018 Palmer is even more impressive from bottle than it was from barrel...Rich, exotic and beautifully layered"), placing it among the elite Bordeaux expressions of the decade.
+
+**Winemaking & House Style.** Under Duroux, Palmer has shifted toward **richness and fruit-forward character without sacrificing structure**. Berserkers commentary notes that Palmer "shows all the flesh and richness that you'd expect from a Merlot-dominated blend, cropped at low yields, in very warm vintages." This represents a modern interpretation of Margaux elegance — wines that are immediately appealing (mid-2020s drinking window) while possessing the structure for 20-30+ year cellaring.
+
+**Merlot Heritage.** The Miailhe family ownership history (noted in Berserkers discussions) brought Merlot prominence to Palmer — unlike many Médoc estates, Palmer has been comfortable with significant Merlot plantings (particularly old-vine parcels on gravel soils), allowing Duroux to craft wines with voluptuous mid-palate and silky tannin structure. This Merlot-forward blend distinguishes Palmer from its Cabernet-dominant neighbors.
+
+**Recent Momentum & Collector Standing.** Palmer shows **steady collector interest** with strong critical backing:
+- Berserkers ranking: #547 (moderate presence) — reflecting established but not cult status
+- Momentum 2023+: 1.0× (steady) — consistent interest, no decline
+- Critic scores: Consistently 95+ across major publications (WA, JS, WE)
+
+The 2020 vintage's triple-critic 96-98 point range suggests Palmer has achieved a new quality plateau, positioning it as a compelling value-for-quality alternative to famous-name 1st-growths commanding 2-3× Palmer's price.
+
+**Aging Potential & Drinking Window.** Palmer's wines show remarkable aging trajectory:
+- **Recent releases (2019-2020):** Approachable now but will improve through 2040-2045
+- **Mature vintages (1985, 1989):** Described in Berserkers as "beautiful," indicating tertiary complexity and silky tannin evolution
+- **Recommended cellaring:** 5-10 years minimum; optimal window 15-30+ years
+
+**Sustainability & Evan's Taste Alignment.** Palmer exemplifies terroir-driven, biodynamically farmed Bordeaux — rare among classed growths and increasingly sought by collectors prioritizing farming ethics alongside quality. The estate represents a compelling alternative to conventional, chemically-farmed 1st-growths, offering similar quality at more accessible price points while supporting sustainable viticulture.

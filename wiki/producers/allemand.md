@@ -201,6 +201,30 @@ _Not yet populated._
 
 **Regional Significance.** Allemand exemplifies Cornas' transformation from anonymous regional Syrah to collectible, age-worthy wine through biodynamic farming and natural winemaking. His influence on the appellation's quality trajectory is substantial; his wines are studied and compared by serious collectors.
 
+**Current US Portfolio & Importer Position.** Thierry Allemand is imported to the United States exclusively through **Kermit Lynch**, a legendary California importer specializing in grower-scale, natural-wine producers. Kermit Lynch's 20+ year representation of Allemand (articles dating to 2006) reflects sustained enthusiasm and reliable allocation access. The importer's positioning of Allemand alongside other Cornas pioneers (Eric Texier, Franck Balthazar) confirms the house's standing within serious natural-wine networks. While exact current portfolio data is limited in US retailer tracking (Raeders does not stock Allemand), CSW's consistent coverage and Kermit Lynch's inventory ensure steady availability for serious collectors willing to work through specialty retailers.
+
+**Specific Cuvée Expressions.** The existing page documents several bottlings, though exact current US availability varies by vintage:
+- **Cornas "Reynard"** — a specific vineyard parcel bottling, referenced in Berserkers discussions (2019)
+- **Cornas "Chaillot"** — mentioned in CSW's 2020 feature
+- **Cornas "Cuvée Casimir Balthazar"** — a reserve-style expression
+- **Cornas "Sans Soufre"** — the zero-sulfite bottling reflecting Allemand's ultra-minimalist philosophy
+- **Cornas "Casimir"** — noted in CSW's 2025 article as a 2021 vintage expression
+
+The plurality of cuvée names indicates that Allemand likely produces 3-6 distinct expressions annually, reflecting different vineyard parcels and stylistic approaches. This diversity within a small production (estimated 30,000-50,000 bottles total) demonstrates meticulous attention to terroir distinction.
+
+**Production Scale & Quality Control.** Estimated production of 30,000-50,000 bottles annually places Allemand in the micro-estate tier. This scale ensures personal oversight while supporting consistent allocation to serious wine retailers and collectors. The modest production contributes to Allemand's allocation scarcity — collectors report that "some cases available" in New York (as noted in CSW's 2021 article) represent rare opportunity for serious purchases.
+
+**Pricing & Market Positioning.** While specific current pricing is not comprehensively tracked in available data, CSW's positioning of Allemand alongside aged classed-growth Bordeaux (in Berserkers' "Texas BYOB" discussion) and comparisons to other natural-wine Cornas suggest retail pricing in the $35-75 range for current releases. Aged bottlings (2000s, 1990s) command museum-bottle premiums on the secondary market, reflecting collector interest in vintage Allemand across decades.
+
+**Berserkers Collector Consensus.** The Berserkers community's ranking of Allemand #83 (14 mentions, strong 2013-2026 presence) reflects sustained collector interest and recognition. Community discussions emphasize:
+- **Purity of Syrah expression** — consistently described as "one of the purest expressions of Syrah in the Northern Rhône"
+- **Brett character management** — unlike some natural wines, Allemand achieves stability despite zero sulfite; collectors note that Brett is not overtly present (unlike comparisons to Pégaü, which shows more volatile acidity)
+- **Aging consensus** — collectors recommend 10-20+ year cellaring for top vintages (2015, 2018), not immediate drinking
+
+**Critical Standing Among Natural Wine Advocates.** Allemand occupies a unique position: respected equally by natural-wine advocates (for farming/winemaking radicalism) and by serious collectors (for wine quality and aging potential). This dual recognition is rare — many natural wines are celebrated for philosophy but questioned for quality, while Allemand is celebrated for both. The Berserkers posts repeatedly emphasize that Allemand's wines are "ethereal" and "elegant," not simply "natural" or "raw."
+
+**Succession & Long-term Viability.** The page's note that Allemand's son "has renewed interest in the domaine (with work experience at JL Chave under his belt)" addresses a critical concern for collectors. The succession clarity ensures continuity and potentially adds technical depth (Chave is among the Northern Rhône's most technically sophisticated producers). This bodes well for Allemand's quality trajectory into the 2030s and beyond.
+
 ## Cross-references
 
 - [[France_Producers|France]]

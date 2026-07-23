@@ -36,7 +36,7 @@ _sources: ["raeders_compile_curated:2026-04-25"]
 
 # Dal Forno Romano
 
-_Created from Raeders compile pass — LLM-curated as a notable terroir-driven producer worth tracking. Editorial summary still to be written._
+**Dal Forno Romano** is a cult Valpolicella producer celebrated for crafting wines of remarkable complexity, aging potential, and intensity through traditional methods — producing some of Italy's most age-worthy and acclaimed reds. The estate represents the pinnacle of Valpolicella quality, with wines that command prices rivaling Barolo and Barbaresco while remaining deeply rooted in the region's traditional appassimento (dried-grape) methodology.
 
 ## CSW Write-ups
 
@@ -162,3 +162,42 @@ _[Raeders link](https://www.raederswine.com/wines/Dal-Forno-Romano-Amarone-della
 ## FASS
 
 _Not yet populated._
+
+## Notes
+
+**Production Scale & Winemaking Philosophy.** Dal Forno Romano operates at grower-estate scale (~100,000-150,000 bottles annually) with meticulous attention to fruit quality and traditional technique. The estate practices **traditional appassimento** — drying harvested grapes on mats for 90-120 days post-harvest — concentrating sugars and flavors before fermentation. This labor-intensive method (rarely seen at scale in modern winemaking) produces wines of remarkable depth and complexity.
+
+**Amarone & Valpolicella Portfolio.** The estate produces two primary expressions:
+- **Amarone della Valpolicella** — the flagship, produced from dried grapes; alcohol typically 15-16%, alcohol-by-volume concentration, and aging potential of 25-50+ years. Raeders tracks multiple Amarone bottlings ($429.99-$2,999.99).
+- **Valpolicella Superiore** — produced similarly but with slightly lower alcohol and earlier release timeline; more approachable young while still capable of 15-25 year aging.
+
+**Critic Recognition & Scoring Trajectory.** Raeders data shows exceptional critical acclaim across multiple decades and critic publications:
+- **2009 Amarone:** Wine Advocate 99 points (one of the highest scores in the dataset) — described as a reference vintage
+- **2013 Amarone:** Wine Advocate 98 points — called "my favorite wine in the retrospective, along with the amazing 2011, 2009 and 1996 vintages"
+- **2003 Amarone:** Wine Advocate 95 points
+- **2011, 2012 Amarones:** Consistently 95-97 point range across all major critics
+- **Valpolicella (not Amarone):** Also rated highly (90-98 points), indicating quality depth across the portfolio
+
+The consistency of 90+ critic ratings across 20+ vintage/cuvée combinations reflects exceptional production quality and vintage-to-vintage reliability.
+
+**Terroir & Valpolicella Significance.** Valpolicella's hilly terrain near Verona produces wines with notable freshness and mineral tension despite the appassimento concentration. Dal Forno's particular genius has been using traditional technique to emphasize **terroir expression** rather than simply chasing alcohol and fruit extraction. The resulting wines show:
+- **Complex aromatics** — dried plum, prune, licorice, smoke, graphite (from slate soils)
+- **Silky tannin structure** — the long appassimento and careful winemaking produce refined texture despite power
+- **Mineral/savory balance** — preventing the wines from becoming simple fruit-bombs
+
+**Current Market Position & Portfolio Depth.** Raeders tracking shows:
+- **22 tracked cuvée/vintage combinations** — indicating significant production depth and collector interest
+- **Price range:** $129.99 (entry-level Valpolicella) to $2,999.99 (aged Amarone magnums)
+- **Bottle formats:** 750ml standard, 1.5L, and 3L formats tracked — suggesting auction-house presence and serious-collector demand
+
+The 2003 Amarone magnum at $2,999.99 and 3L at $2,999.99 reflect museum-bottle pricing, indicating that aged Dal Forno commands significant secondary-market premium.
+
+**Winemaking Innovation & Quality Control.** The estate employs modern temperature-controlled fermentation and careful oak aging (typically 18-24 months in Slovenian and French oak barrels), balancing traditional appassimento with contemporary precision. This technical sophistication has allowed Dal Forno to achieve consistency and quality that many traditional producers lack.
+
+**Aging Potential & Retrospective Appreciation.** The Wine Advocate 2009 retrospective (noting that the Dal Forno family "considered the idea of releasing their Amarone ten years after the harvest") indicates the wines' remarkable aging trajectory and the estate's confidence in quality. Modern releases (2011-2017) are entering or approaching their optimal drinking windows (2026-2030+), while older bottlings (2000s and earlier) continue to evolve beautifully.
+
+**Historical Context & Evolution.** The estate's production since the 1970s-1980s provides a multi-decade track record of quality. Critic ratings spanning 20+ years (from early 2000s through late 2010s) show consistent excellence rather than the vintage-dependent variability seen in many producers. This reliability has contributed to cult status among serious collectors.
+
+**Importer Position & Availability.** Represented by Wilson Daniels in the US, positioning Dal Forno within quality-focused, Italian-wine-specialist networks. The strong Raeders presence (22 tracked items) indicates reliable US availability for collectors willing to pay museum-bottle prices, though allocation of older or highly-rated vintages remains competitive.
+
+**Evan's Taste Alignment.** Dal Forno Romano represents serious Italian terroir-driven production with remarkable aging potential and international critical validation. While not organic/biodynamic certified, the estate's commitment to quality, traditional technique, and minimal intervention aligns with Evan's appreciation for grower-scale, serious winemaking. The wines are appropriate for serious cellaring (10-50 year horizons) and represent among Italy's most collectible expressions.

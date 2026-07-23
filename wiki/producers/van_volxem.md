@@ -126,6 +126,22 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Notes
+
+**Van Volxem** is an elite Saar Valley Riesling producer renowned for producing some of Germany's most distinctive, mineral-driven dry Rieslings. The estate represents the modern face of Saar viticulture: low-intervention winemaking, biodynamic farming practices, and wines of remarkable precision and aging potential that command respect among serious collectors.
+
+**History & Winemaking Transition.** The Van Volxem estate has undergone significant evolution in recent years. **Gernot Kollmann**, a celebrated winemaker previously associated with Van Volxem and later transitioning through positions at Knebel and Immich-Batterieberg (as noted in CSW's 2012 article), exemplifies the estate's technical excellence and influence on Saar winemaking standards. The 2007 vintage marked a turning point in the house's reputation — CSW's 2008 feature ("A Star is Born") documented Van Volxem's emergence as a standout producer in the competitive Saar landscape.
+
+**Terroir & Vineyard Holdings.** Van Volxem works steep, terraced Saar Valley vineyard sites characterized by slate soils and dramatic elevation changes. The Saar, positioned between the Middle Mosel (famous) and the Ruwer (prestigious but small), occupies a distinctive micro-climate: cool-climate Riesling production in a region known for mineral tension and high acidity. This geology — combined with conservative yields and biodynamic farming — produces Rieslings of remarkable structural complexity.
+
+**Winemaking Philosophy & Style.** Van Volxem emphasizes **dry-wine production** (fully fermented to dryness) with minimal or no residual sugar, positioning their Rieslings as food wines and age-worthy expressions. The house avoids over-extraction or heavy oak; instead, the wines showcase primary fruit (stone fruits, citrus) with pronounced mineral/slate character and fine-grained tannin structure (from extended skin contact and natural fermentation). Wines are typically aged in large neutral vessels (Fuders, 1,000-liter barrels) to preserve freshness and mineral precision.
+
+**Critical Standing & Collector Recognition.** Chambers Street's long-term relationship (first featured 2008, multiple subsequent articles through 2021) reflects consistent quality and innovation. CSW's designation of Van Volxem as a "cellar pick" producer confirms founder-level confidence. The appearance in early Berserkers cellar discussions (2013-2014) indicates established standing among serious collectors, though recent momentum has shifted toward other Saar producers.
+
+**Production Scale & Allocation.** Van Volxem operates at grower-estate scale — likely 100,000-300,000 bottles annually across all wines. This scale allows personal oversight while supporting distribution through quality importers (Skurnik, Theise) and serious retailers.
+
+**Aging Potential.** Van Volxem Rieslings are built for extended cellaring. The mineral structure and restrained alcohol (typically 11-12.5%) support 15-30+ year evolution in bottle. Current mature vintages (2007-2012 era featured in CSW articles) are drinking beautifully now (2026+) and will continue improving through 2035+.
+
 ## Cross-references
 
 - [[Germany_Producers|Germany]]

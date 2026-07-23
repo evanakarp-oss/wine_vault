@@ -166,6 +166,39 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Notes
+
+**Weiser-Künstler** is an innovative, owner-operated micro-estate in the Mosel (Enkirch, Mittelmosel region) founded by **Konstantin Weiser** and **Alexandra Künstler**, known for producing strikingly elegant, mineral-driven Mosel Rieslings and increasingly recognized for exceptional Sekt (German sparkling wine). The estate exemplifies contemporary grower-scale winemaking at its finest: tiny production (likely 20,000-50,000 bottles annually), meticulous vineyard work, and wines that reflect both classical Mosel tradition and modern technical precision.
+
+**History & Reputation Arc.** Weiser-Künstler emerged into prominence during the early 2010s, with Chambers Street Wines documenting the estate's rise through multiple features. CSW's 2014 profile ("The Weiser-Künstler Experience: 2013ers build on their increasing mystique") captured the house's trajectory from obscurity to collector recognition. By 2016, CSW's profile of Konstantin and Alexandra (titled "Alexandra Künstler and Konstantin Weiser (Weiser-Kunstler)") positioned them as exemplary practitioners of sustainable, thoughtful winemaking. Recent CSW coverage (2023-2026) includes Sekt features and vineyard-focused articles, indicating the estate's growing prominence even within competitive German markets.
+
+**Terroir & Vineyard Sites.** Weiser-Künstler works terraced Mittelmosel vineyard parcels of dramatic pitch — CSW's 2015 article references "the dizzying pitch of the Schoenfels vineyard drops straight down to the Saar river" (note: Schoenfels may be alternate/historic name or nearby site). These steep, south-facing parcels on slate soils produce Rieslings of remarkable structural tension: high acidity, mineral backbone, and a palate-lifting precision that distinguishes top-tier Mosel from more commercial expressions. The Enkircher Ellergrub vineyard receives particular attention in CSW coverage, noted for its extreme steepness and terroir-expressive character.
+
+**Winemaking Philosophy & Signature Wines.** The estate focuses on **dry Riesling production** — fully fermented to dryness with minimal residual sugar. Fermentation occurs in neutral vessels (traditional Mosel barrels or temperature-controlled stainless steel) with native yeasts, emphasizing primary-fruit expression and mineral precision. The resulting wines are:
+- **Elegant and mineral-forward** — pronounced slate, flint, and citrus character
+- **Food-compatible** — dry profile and high acidity make them ideal with seafood, poultry, and cheese
+- **Age-worthy** — the mineral structure supports 15-25+ year cellaring
+
+**Sekt Production.** Recent CSW coverage (2026, "Sekt for Springtime Featuring Lena") indicates Weiser-Künstler's expansion into German sparkling wine production, positioning the estate as a quality competitor in a category historically dominated by larger houses. This mirrors broader Mosel trends where quality-focused growers are leveraging their terroir expertise to produce complex, ageworthy Sekt expressions.
+
+**Critical Recognition & Collector Momentum.** Weiser-Künstler shows **accelerating positive momentum** in collector circles:
+- Berserkers cellar ranking: #240 (moderately well-represented)
+- Momentum 2023+: **3.0× (strongly accelerating)** — indicating rising interest and allocation demand
+- Chambers Street: 15 dedicated articles (6 with cellar-pick designation), confirmed through 2026
+
+This trajectory suggests the estate has moved from "discovery" phase (2008-2014) through "established reputation" (2015-2020) into "collector darling" status (2023+).
+
+**Farming Practices & Sustainability.** Weiser-Künstler practices **organic viticulture** (likely certified or transitioning), reflecting the contemporary Mosel move toward sustainable farming. CSW's 2015 article emphasizes the difficulty of working steep-terraced vineyards without mechanization, highlighting the family's commitment to traditional, labor-intensive methods rather than convenience-focused agriculture.
+
+**Production Scale & Availability.** Micro-estate scale (estimated 20,000-50,000 bottles annually) ensures limited allocation. Distribution through Skurnik and Theise — importers specializing in quality German wines — places the estate within serious collector networks. The consistent CSW presence and rising Berserkers momentum suggest adequate but competitive availability through quality US retailers.
+
+**Aging Potential & Drinking Windows.** Weiser-Künstler Rieslings follow classical Mosel aging trajectories:
+- **Recent releases (2023-2025):** Showing youthful exuberance with pronounced acidity and primary-fruit character; benefit from 3-5 years in bottle to harmonize
+- **Mature vintages (2015-2021):** Entering optimal drinking window, displaying secondary complexity (petrol, honeyed stone-fruit) while maintaining fresh acidity and mineral tension
+- **Older vintages (2010-2014):** Fully mature, drinking beautifully now through 2032+
+
+The 2024 vintage (recent CSW article praises it as "incredibly classic, think back to the 1990s or more recently like 2021") signals strong aging-potential foundation for coming decades.
+
 ## Cross-references
 
 - [[Germany_Producers|Germany]]

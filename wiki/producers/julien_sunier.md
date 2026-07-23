@@ -78,3 +78,15 @@ _Not yet populated._
 ## FASS
 
 _Not yet populated._
+
+## Notes
+
+**Julien Sunier** is a respected grower-producer of Beaujolais cru wines based in Oingt, specializing in elegant, mineral-driven expressions of the region's Gamay variety. Imported to the US through Polaner, Sunier has gained recognition among natural-wine and grower-Beaujolais enthusiasts for producing wines that emphasize terroir purity and aging potential.
+
+**Portfolio & Key Cuvées.** Sunier produces wines across multiple Beaujolais crus, with particular strength in **Morgon** — a Beaujolais cru known for deeper structure and mineral character. His 2014 Morgon Magnum (tracked at Down to Earth Wine at $59) exemplifies his house style: structured yet elegant, with the mineral tension that distinguishes top-tier Beaujolais from simple fruit-forward expressions. The 2017 vintage (noted as "firmer and more structural than usual" due to hail conditions) highlights Sunier's ability to maintain quality and complexity even in challenging years.
+
+**Winemaking & Farming Philosophy.** Sunier practices sustainable, minimalist winemaking aligned with Beaujolais' contemporary grower movement. His approach emphasizes natural fermentation, minimal interventions in the cellar, and respect for vintage conditions. The resulting wines are food-friendly yet structured for aging — typical of serious Beaujolais producers who view their wines as terroir expressions rather than immediate-gratification beverages.
+
+**Terroir & Regional Position.** Beaujolais crus represent some of France's most undervalued high-quality wines. The region's granitic soils and continental climate produce wines with mineral backbone and acidity that reward 8-15 year cellaring. Sunier's positioning within this context — via quality importer Polaner and retailer Down to Earth Wine (which focuses on grower-scale, natural producers) — confirms his standing as a serious practitioner rather than a mass-market label.
+
+**Aging Potential & Drinking Window.** Structured Beaujolais from Sunier, particularly the Morgon cuvée, benefits from 5-10 years of cellaring to show complexity and secondary characteristics. Current releases (2017-2023) are approaching or entering their optimal drinking window (2026-2032+), displaying the mineral, savory character that distinguishes mature Beaujolais from its youth.

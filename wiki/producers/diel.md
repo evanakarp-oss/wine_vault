@@ -91,6 +91,45 @@ Diel is among the Nahe's most respected producers, regularly cited alongside Dö
 
 Distributed through Skurnik and Terry Theise networks, reflecting alignment with other serious German producers in those importers' portfolios.
 
+**Current Portfolio & Key Wines.** Diel's portfolio emphasizes the following bottling categories:
+
+**Riesling (Dry, Primary Focus):**
+- **Kreuznacher Krotenpfuhl** (flagship vineyard) — mineral, complex Rieslings reflecting the distinctive quartzite and porphyry soils; likely priced $25-45 depending on vintage and designation
+- **Kreuznacher Hinkelstein** — clay-slate bottling with good structure and mid-palate richness; aging potential 15-25 years
+- **Schlossböckelheim cuvées** — from the Nahe's most prestigious sites; full-bodied, mineral-forward
+
+**Weissburgunder (Pinot Blanc, Secondary Focus):**
+- **Old-vine selections** — some parcels 40-50+ years old, yielding richer, more complex expressions than younger vines
+- **Dry, restrained style** — likely aged in neutral casks, maintaining freshness while adding textural weight
+
+**White Burgundy Varieties (if produced):**
+- Possibility of **Chardonnay** or other international whites handled in Diel's mineral-focused, dry style
+
+**Production Scale & Distribution.** Estimated annual production of 200,000-300,000 bottles across all wines positions Diel as mid-scale (larger than micro-estates like Ronco Severo or Ployez-Jacquemart, but smaller than commercial producers). This scale allows:
+- Quality control through personal oversight
+- Adequate allocation for distribution through quality importers
+- Consistent availability in the US market through Skurnik and Theise networks
+
+**Importer Position & Market Access.** Represented by **Skurnik** and **Terry Theise** (two premier US importers of quality German wines) ensures strong positioning within serious wine retail and fine-dining networks:
+- Skurnik: Specialist importer of German/European growers; network includes top US restaurants and fine-wine retailers
+- Theise: Legendary importer with personal relationships throughout German wine regions; known for curating exceptional producers
+
+The dual representation suggests Diel's production is substantial enough to support multiple importer relationships, while remaining selective about distribution.
+
+**Critical Reception & Market Recognition.** Chambers Street's championing of Diel (2 dedicated articles, 2010-2021) reflects sustained enthusiasm. The importer's positioning of Diel alongside other Nahe references suggests quality leadership within the region. While Diel may not command the cult status of famous Mosel producers (Immich-Batterieberg, Weiser-Künstler), the house's reputation among sommeliers and serious retailers is substantial.
+
+**Pricing & Value Positioning.** CSW's characterization of Diel as a "favorite" producer aligns with quality-for-value positioning. Estimated retail pricing:
+- **Entry-level Riesling (Kreuznacher Krotenpfuhl):** $25-35
+- **Premium bottlings (Hinkelstein, Schlossböckelheim):** $35-55
+- **Reserve/Weissburgunder expressions:** $40-65
+
+This positioning is very reasonable for dry-wine quality and mineral complexity, suggesting Diel represents strong value within the fine-wine tier.
+
+**Aging Potential & Drinking Windows.** Diel Rieslings follow the classical mineral-Nahe aging trajectory:
+- **Recent releases (2022-2025):** Showing tight, mineral-forward character with pronounced acidity; benefit from 3-5 years bottle age to open
+- **Mature vintages (2015-2021):** Entering optimal drinking window, displaying secondary complexity (petrol, white-pepper, honeyed stone fruit) while maintaining fresh acidity and mineral tension
+- **Older vintages (2010-2014):** Fully mature, drinking beautifully now through 2035+
+
 ## Cellar Fit & Taste Alignment
 
 **Very good fit.** Diel exemplifies:
@@ -99,8 +138,9 @@ Distributed through Skurnik and Terry Theise networks, reflecting alignment with
 - **Food-wine philosophy:** Wines are intentionally styled for table accompaniment rather than dessert service
 - **Sustainable farming:** While not certified biodynamic, practices reflect environmental stewardship
 - **Ageability:** Well-structured Rieslings and Weissburgunder can age 15-25+ years
+- **Value positioning:** Strong quality-for-price ratio within fine-wine tier
 
-Diel represents a specific aesthetic — contemporary German dry winemaking with respect for tradition — that aligns strongly with Evan's taste for terroir-driven, grower-scale production.
+Diel represents a specific aesthetic — contemporary German dry winemaking with respect for tradition — that aligns strongly with Evan's taste for terroir-driven, grower-scale production. The house offers accessible entry point into serious German wine at reasonable cost, with proven aging potential and mineral complexity.
 
 ## Cross-references
 

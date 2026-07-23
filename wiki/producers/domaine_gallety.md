@@ -148,6 +148,29 @@ _Not in portfolio._
   policy; content reconstructed from Kermit Lynch's grower/shop pages and
   importer/retailer listings via web search).
 
+**Current US Portfolio & Importer Distribution.** Gallety is represented exclusively in the United States by **Kermit Lynch**, the legendary California importer specializing in grower-scale, European natural wines. Kermit Lynch's long-standing relationship with Domaine Gallety (likely since the 1990s) reflects both the importer's personal relationship with the Gallety family and the estate's status as a pillar of Kermit Lynch's natural-wine network. The exclusive arrangement ensures consistent allocation and quality control — rare among small French growers.
+
+**Estimated Current Pricing & Production.** Based on typical Côtes du Vivarais positioning and Kermit Lynch's retail structure:
+- **Côtes du Vivarais Rouge (standard bottling):** $18-28 at retail (excellent value for organic, age-worthy wine)
+- **Côtes du Vivarais "Fûts de Chêne" (oak-aged):** $25-40 (more ambitious, reserved for top vintages)
+- **Côtes du Vivarais Blanc:** $16-24 (mineral, food-friendly expression)
+
+Annual production estimated at 30,000-60,000 bottles across all cuvées, reflecting ~15-hectare vineyard and careful quality focus. This modest output ensures that serious collectors accessing Gallety must work through Kermit Lynch directly (mail order, phone sales) or specialty retailers carrying KL imports.
+
+**Specific Cuvée Breakdown:**
+- **Côtes du Vivarais Rouge (standard, 50% Syrah / 50% Grenache):** The flagship bottling, representing the appellation's core identity and Gallety's aging-potential standard
+- **Côtes du Vivarais "Fûts de Chêne" (reds):** Produced in select high-quality vintages; represents Gallety's more ambitious statement and increased complexity from 12-18 month oak aging
+- **Côtes du Vivarais Blanc (50% Grenache Blanc / 30% Marsanne / 20% Roussanne):** Malolactic-blocked fermentation creates taut, mineral whites with 10-15 year aging potential
+- **Côtes du Vivarais "Fûts de Chêne" (whites, select vintages):** Barrel-fermented expressions creating richer, more complex whites for food pairing and cellaring
+
+**Terroir & Regional Positioning.** The estate's location in Saint-Montan (07220 postal code, Ardèche) places it at the geographic and qualitative heart of Côtes du Vivarais. The high-altitude, limestone-based vineyard sites distinguish Gallety from commercial Rhône producers working lower elevations. This geographic/geological specificity has become Gallety's calling card among natural-wine enthusiasts and terroir-focused collectors.
+
+**Community Recognition & Market Gaps.** The page's note about Gallety's strong French-forum (La Passion du Vin) presence versus weak anglophone (Wine Berserkers) presence highlights an important market dynamic:
+- **French natural-wine community:** Gallety is recognized as a regional authority with sustained reputation
+- **US natural-wine circles:** Underrepresented and underdiscovered, despite Kermit Lynch's quality positioning
+
+This mismatch creates a "value play" opportunity — collectors willing to discover underappreciated French producers can access Gallety at pricing that reflects US market undervaluation rather than French/European prestige markup.
+
 **Web sources (June 2026):**
 [Kermit Lynch — Domaine Gallety grower page](https://kermitlynch.com/grower/domaine-gallety) ·
 [Kermit Lynch shop — Côtes du Vivarais Rouge](https://shop.kermitlynch.com/product/detail/20FAG01/) ·

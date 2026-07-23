@@ -150,6 +150,24 @@ _[Raeders link](https://www.raederswine.com/wines/Chateau-Gruaud-Larose-Saint-Ju
 
 _[Raeders link](https://www.raederswine.com/wines/Chateau-Gruaud-Larose-Saint-Julien-2019-w51563091v)_
 
-## FASS
+## Notes
 
-_Not yet populated._
+**Château Gruaud-Larose** is a renowned 2nd-growth Bordeaux estate in Saint-Julien, historically celebrated for producing powerful, age-worthy wines that exemplify the region's classic profile. The estate represents the benchmark expression of Saint-Julien's tannic structure and Cabernet-forward blend — wines built for 25-30+ year cellaring from great vintage.
+
+**Historical Position & Drinking Curve.** The estate's reputation rests primarily on its 1980s-1990s production, when Gruaud-Larose was at the apex of the Saint-Julien hierarchy. Wines from this era (particularly 1982 — scored 98 points at auction, described as "a massive wine that is clearly of first-growth quality" with "broodingly dense, thick, unctuously textured" character) drink beautifully today and represent benchmark mature Bordeaux. The modern era (2010s-2020s) shows inconsistency compared to historical glory, though recent vintages (2019-2020) demonstrate quality recovery.
+
+**Current Portfolio & Collector Access.** Raeders tracks four Gruaud-Larose cuvées ranging from $99.99-$499.99 (as of 2026-04-25):
+- **1975 (1.5L):** $499.99 — aged museum bottle, fully mature
+- **1989 (750ml):** $279.99 — entering/in optimal drinking window
+- **2019 (750ml):** $99.99 — Wine Advocate 95 points
+- **2020 (750ml):** $99.99 — Wine Advocate 96 points (also James Suckling 96, Wine Spectator 95, ranked #25 in Wine Spectator Top 100 2023)
+
+The 2020 vintage's triple-critic scoring (WA 96, JS 96, WS 95) and Wine Spectator Top 100 placement signal current quality recovery and strong collector interest in recent releases.
+
+**Winemaking & House Style.** Gruaud-Larose traditionally emphasizes **power and structure** over elegance. The wines carry pronounced tannins, deep color, and plum/black-cherry fruit character balanced by classic Saint-Julien mineral backbone. Historically, the house favored extended aging (18-30+ months in French oak, some new), creating wines that demanded significant cellaring before becoming approachable.
+
+**Regional Significance.** Saint-Julien — Bordeaux's "golden mean" between power-focused Pauillac and elegance-focused Margaux — produces wines of remarkable consistency and aging potential. Gruaud-Larose's 2nd-growth status places it squarely in the elite tier, commanding prices and respect comparable to 1st-growth rivals despite a smaller production footprint.
+
+**Collector Trajectory & Evan's Taste Alignment.** Gruaud-Larose represents the "aged classed-growth for drink-now bottles only" philosophy that aligns with Evan's stated taste filter for Bordeaux. The mature 1989 bottling at $279.99 or the museum 1975 at $499.99 exemplify this approach — older Saint-Julien that has evolved into tertiary complexity and silky tannins, ready to drink immediately without requiring another decade of cellaring. Modern releases (2019-2020) are less ideally suited to Evan's taste (they require 10-15 years of aging); however, they represent strong value buys for future drink-now candidates if purchased on the secondary market.
+
+**Allocation & Availability.** Represented by BNP importer in the US, ensuring quality distribution through serious wine retailers. Raeders tracking (4 cuvées available) indicates steady availability for collectors willing to pay museum-bottle prices for aged stock.
