@@ -6,8 +6,8 @@ producer_count: 28
 focus: ['Beaujolais', 'Burgundy', 'California', 'Champagne', 'Loire', 'Marche', 'Piedmont', 'Rhône', 'Tuscany']
 notable_producers: ['Domaine Baudry', 'Stéphane Guion', 'Domaine de la Chevalerie', 'Jean-Claude Rateau', 'Roagna']
 updated: 2026-07-23
-_source: wiki/_resources.md
 tags: []
+_source: wiki/_resources.md
 url: "https://polanerselections.com"
 ---
 # Polaner

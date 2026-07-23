@@ -6,9 +6,9 @@ producer_count: 3
 focus: ['Bordeaux', 'Burgundy', 'California']
 notable_producers: ['Arnot-Roberts', 'Elian Da Ros', 'Hudelot Noellat']
 updated: 2026-07-23
+tags: ['natural', 'terroir-driven', 'low-intervention']
 _source: raw/henderson/producers_2026-06-19.md
 location: "Austin, TX"
-tags: ['natural', 'terroir-driven', 'low-intervention']
 url: "https://www.hendersonselections.com"
 ---
 

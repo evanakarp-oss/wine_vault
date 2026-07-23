@@ -4,15 +4,15 @@ name: "Chambers Street Wines"
 slug: chambers
 url: "https://chambersstwines.com"
 location: "NYC"
-producer_count: 193
+producer_count: 192
 updated: 2026-07-23
-_source: wiki/_resources.md
 tags: []
+_source: wiki/_resources.md
 ---
 # Chambers Street Wines
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**193 producers** from this retailer are tracked in the wiki.
+**192 producers** from this retailer are tracked in the wiki.
 
 ## Most-championed producers
 

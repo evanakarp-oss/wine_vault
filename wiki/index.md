@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 1077
+total_pages: 1078
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**1077 pages indexed.**
+**1078 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -36,7 +36,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Colli_Tortonesi_Producers|Colli Tortonesi Producers]] — **1 producers** tracked.
 - [[Corsica_Producers|Corsica Producers]] — **1 producers** tracked.
 - [[Franken_Producers|Franken Producers]] — **3 producers** tracked.
-- [[Friuli-Venezia_Giulia_Producers|Friuli-Venezia Giulia Producers]] — **56 producers** tracked.
+- [[Friuli-Venezia_Giulia_Producers|Friuli-Venezia Giulia Producers]] — **57 producers** tracked.
 - [[Jujuy_Producers|Jujuy Producers]] — **2 producers** tracked.
 - [[Jura_Producers|Jura Producers]] — **14 producers** tracked.
 - [[Liguria_Producers|Liguria Producers]] — **12 producers** tracked.
@@ -273,7 +273,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_530 producers across 40 regions._
+_531 producers across 40 regions._
 
 ### Abruzzo
 
@@ -524,6 +524,7 @@ _530 producers across 40 regions._
 - [[canus|Canus]] — Friuli-Venezia Giulia / Colli Orientali (Corno di Rosazzo)
 - [[castelvecchio|Castelvecchio]] — Friuli-Venezia Giulia / Carso (Sagrado)
 - [[colle_duga|Colle Duga]] — Friuli-Venezia Giulia / Collio (Zegla, Cormons)
+- [[cosco_gravar|Cosco Gravar]] — Friuli-Venezia Giulia / Collio Goriziano
 - [[damijan_podversic|Damijan Podversic]] — Friuli-Venezia Giulia / Collio (Gorizia / Monte Calvario) · organic, natural
 - [[dario_coos|Dario Coos]] — Friuli-Venezia Giulia / Colli Orientali (Nimis / Ramandolo)
 - [[dario_princic|Dario Princic]] — Friuli-Venezia Giulia / Collio (Oslavia) · organic, natural
@@ -557,7 +558,7 @@ _530 producers across 40 regions._
 - [[paolo_rodaro|Paolo Rodaro]] — Friuli-Venezia Giulia / Colli Orientali (Spessa di Cividale)
 - [[piticco|Piticco]] — Friuli-Venezia Giulia / Colli Orientali (Prepotto area)
 - [[puiatti|Puiatti]] — Friuli-Venezia Giulia / Collio / Isonzo (Romans d'Isonzo)
-- [[radikon|Radikon]] — Friuli-Venezia Giulia / Collio (Oslavia) · organic, natural · CSW ★1/1
+- [[radikon|Radikon]] — Friuli-Venezia Giulia / Collio Goriziano · biodynamic
 - [[roberto_picech|Roberto Picèch]] — Friuli-Venezia Giulia / Collio (Pradis, Cormons)
 - [[ronchi_di_cialla|Ronchi di Cialla]] — Friuli-Venezia Giulia / Colli Orientali (Cialla, Prepotto) · CSW 1
 - [[ronchi_di_manzano|Ronchi di Manzano]] — Friuli-Venezia Giulia / Colli Orientali (Manzano)

@@ -1,0 +1,24 @@
+FRIULI-VENEZIA GIULIA PRODUCERS
+Extracted from Campanale wine book images
+
+KEY APPELLATIONS/REGIONS:
+- Collio Goriziano (white wine region)
+- Colli Orientali del Friuli (red and white wines)
+- Isonzo del Friuli (producer wines)
+- Carso (white wine region)
+- Friuli Grave (large region)
+
+PRODUCER NAMES IDENTIFIED FROM IMAGES:
+1. Radikon (S.A. Radikon / Sandi Radikon)
+2. Cosco Gravar
+
+WINEMAKERS TO KNOW SECTION MENTIONS:
+- Radikon: Biodynamic producer, known for natural/orange wines and conventional reds, family history in region
+- References to other Friuli producers in descriptive text
+
+STATUS: Partial extraction from available images. Image 3 (brown paper) too faint to read clearly. Need to examine if more producer names are listed in the index sections.
+
+NOTES:
+- Images 1 and 4 appear to be duplicate Lombardy pages (already processed)
+- Images 2, 3, 5 contain Friuli-Venezia Giulia content
+- Radikon is a major biodynamic/natural wine producer in the region

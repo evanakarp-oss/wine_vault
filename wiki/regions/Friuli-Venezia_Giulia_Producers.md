@@ -2,28 +2,29 @@
 type: region_index
 region: "Friuli-Venezia Giulia"
 updated: 2026-07-23
-producer_count: 56
+producer_count: 57
 ---
 
 # Friuli-Venezia Giulia — Producer Index
 
-**56 producers** tracked.
+**57 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
 | [[ronchi_di_cialla|Ronchi di Cialla]] | Italy | Colli Orientali (Cialla, Prepotto) | 1 | — | — | — | 15 btl |
 | [[le_due_terre|Le Due Terre]] | Italy | Colli Orientali (Prepotto) | — | — | — | — | 7 btl |
 | [[marco_sara|Marco Sara]] | Italy | Colli Orientali (Savorgnano del Torre, Povoletto) | — | — | — | — | 2 btl |
-| [[radikon|Radikon]] | Italy | Collio (Oslavia) | 1 | — | — | — | 1 btl |
 | [[borgo_del_tiglio|Borgo del Tiglio]] | Italy | Collio (Brazzano di Cormons) | 1 | — | — | — | — |
 | [[dario_princic|Dario Princic]] | Italy | Collio (Oslavia) | — | — | — | — | 1 btl |
 | [[doro_princic|Doro Princic]] | Italy | Collio (Pradis di Cormons) | 1 | — | — | — | — |
 | [[gravner|Gravner]] | Italy | Collio (Oslavia) | 1 | — | — | — | — |
+| [[radikon|Radikon]] | Italy | Collio Goriziano | — | — | — | — | 1 btl |
 | [[vignai_da_duline|Vignai da Duline]] | Italy | Colli Orientali (San Giovanni al Natisone / Villanova del Judrio) | 1 | — | — | — | — |
 | [[zidarich|Zidarich]] | Italy | Carso (Prepotto, Duino Aurisina) | 1 | — | — | — | — |
 | [[canus|Canus]] | Italy | Colli Orientali (Corno di Rosazzo) | — | — | — | — | — |
 | [[castelvecchio|Castelvecchio]] | Italy | Carso (Sagrado) | — | — | — | — | — |
 | [[colle_duga|Colle Duga]] | Italy | Collio (Zegla, Cormons) | — | — | — | — | — |
+| [[cosco_gravar|Cosco Gravar]] | Italy | Collio Goriziano | — | — | — | — | — |
 | [[damijan_podversic|Damijan Podversic]] | Italy | Collio (Gorizia / Monte Calvario) | — | — | — | — | — |
 | [[dario_coos|Dario Coos]] | Italy | Colli Orientali (Nimis / Ramandolo) | — | — | — | — | — |
 | [[dario_raccaro|Dario Raccaro]] | Italy | Collio (Cormons) | — | — | — | — | — |
