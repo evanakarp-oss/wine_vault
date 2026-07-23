@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 1099
+total_pages: 1106
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**1099 pages indexed.**
+**1106 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -274,7 +274,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_551 producers across 40 regions._
+_558 producers across 40 regions._
 
 ### Abruzzo
 
@@ -636,15 +636,20 @@ _551 producers across 40 regions._
 - [[domaine_de_la_chevalerie|Domaine de la Chevalerie]] — Loire / Bourgueil · organic · CSW ★5/15
 - [[domaine_des_roches_neuves|Domaine des Roches Neuves]] — Loire / Saumur-Champigny · biodynamic · FASS
 - [[domaine_fl|Domaine FL]] — Loire / Savennières · DTE 1
+- [[domaine_guiberteau|Domaine Guiberteau]] — Loire / Saumur-Champigny · organic, biodynamic · CSW ★1/3
 - [[francois_chidaine|François Chidaine]] — Loire / Montlouis-sur-Loire · biodynamic · DTE 1
+- [[freslier|Freslier]] — Loire / Bourgueil · organic · CSW 2
 - [[huet|Domaine Huet]] — Loire / Vouvray · biodynamic
 - [[lame_delisle_boucard|Lamé Delisle Boucard]] — Loire / Touraine (Ingrandes-de-Touraine)
 - [[mabileau|Jean-Paul & Mathieu Mabileau]] — Loire / St-Nicolas-de-Bourgueil
+- [[marionnet|Domaine Marionnet]] — Loire / Sologne · biodynamic · CSW ★2/5
 - [[olga_raffault|Domaine Olga Raffault]] — Loire / Chinon (Savigny-en-Véron) · organic · CSW ★2/5
 - [[philippe_alliet|Philippe Alliet]] — Loire / Chinon (Cravant)
 - [[philippe_foreau|Philippe Foreau]] — Loire / Vouvray · DTE 3
 - [[philippe_gilbert|Philippe Gilbert]] — Loire / Menetou-Salon · biodynamic · DTE 6
+- [[sablonnettes|Domaine des Sablonnettes]] — Loire / Anjou · organic · CSW ★1/2
 - [[stephane_guion|Stéphane Guion]] — Loire / Bourgueil · organic since 1965 · CSW ★9/17
+- [[thevent|Thévenet]] — Loire / Bourgueil · organic, natural · CSW 1
 - [[yannick_amirault|Yannick Amirault]] — Loire / Bourgueil / St-Nicolas-de-Bourgueil · organic
 
 ### Lombardy
@@ -843,6 +848,7 @@ _551 producers across 40 regions._
 - [[clos_du_mont_olivet|Clos du Mont Olivet]] — Rhône · CSW 1 · DTE 1
 - [[clos_saouma|Clos Saouma]] — Rhône · DTE 1
 - [[clusel_roch|Clusel Roch]] — Rhône · DTE 3 · Raeder 1
+- [[courbis|Courbis]] — Rhône / Northern Rhône · organic, traditional · CSW ★1/3
 - [[dard__ribo|Dard & Ribo]] — Rhône / Crozes-Hermitage / Saint-Joseph · natural · CSW ★3/3
 - [[domaine_barou|Domaine Barou]] — Rhône / Saint-Joseph · organic · CSW ★2/6
 - [[domaine_blachon|Domaine Blachon]] — Rhône / Saint-Joseph · FASS
@@ -869,8 +875,9 @@ _551 producers across 40 regions._
 - [[jean_michel_stephan|Jean-Michel Stéphan]] — Rhône / Côte-Rôtie · organic · FASS
 - [[jean_royer|Jean Royer]] — Rhône · DTE 1
 - [[langlore|L'Anglore]] — Rhône / Tavel / Lirac · natural · CSW 6
-- [[marc_sorrel|Marc Sorrel]] — Rhône · DTE 15
+- [[marc_sorrel|Marc Sorrel]] — Rhône / Northern Rhône · traditional · DTE 15
 - [[pierre_benetiere|Pierre Benetiere]] — Rhône · DTE 5
+- [[tardieu_laurent|Tardieu-Laurent]] — Rhône / Northern Rhône · traditional, biodynamic-leaning · CSW ★2/8 · DTE 6
 - [[vincent_paris|Vincent Paris]] — Rhône · CSW ★1/2 · DTE 1 · FASS 1
 
 ### Ribera del Duero

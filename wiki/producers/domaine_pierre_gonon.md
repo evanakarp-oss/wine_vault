@@ -251,3 +251,93 @@ _Not yet populated._
 - [[Rhône_Producers|Rhône]]
 - [[Saint-Joseph]]
 - [[CSW Article Archive]]
+
+## Notes
+
+**Domaine Pierre Gonon** is the **canonical reference for traditional, old-school Saint-Joseph** — the Northern Rhône appellation that has undergone a quiet renaissance from obscurity to serious collector recognition. The domaine, run by brothers Jean and Pierre Gonon (and now their sons), epitomizes grower-scale, terroir-focused winemaking: small vineyard holdings on steep slopes, hand-harvesting, native yeast fermentation, and extended aging in neutral oak. The wines have attracted deep respect from Chambers Street (17+ articles, 20-year relationship) and serious collectors globally.
+
+**Vineyard & Terroir Characteristics.** Domaine Gonon's vineyards comprise approximately 9 hectares across multiple Saint-Joseph micro-terroirs:
+
+- **Steep granite-based slopes** (northern exposures): produce wines with mineral precision, peppery spice, and remarkable aging potential
+- **Alluvial soils mixed with granite** (lower slopes): contribute freshness and red-fruit expression
+- **Coteaux des Oliviers white vineyard** — an old parcel (planted 1958–1974) of Marsanne and Roussanne on limestone soils, producing rare, mineral-driven white Saint-Joseph
+- **High altitude** (100–300 meters on steep slopes): creates cool nights, extended growing season, and stress that produces complex, phenolic-rich fruit
+
+The Gonon parcels span multiple micro-zones, allowing the family to craft distinct expressions reflecting Saint-Joseph's full terroir complexity.
+
+**Farming & Viticulture Philosophy.** Gonon practices **sustainable, traditional viticulture** (moving toward organic certification):
+- Minimal copper and sulfur inputs (used only when absolutely necessary for disease management)
+- Cover cropping and natural vigor management on steep terraces
+- Hand harvesting mandatory (impossible to mechanize on steep slopes)
+- Conservative yields (30–40 hl/ha) to concentrate aromatic complexity and phenolic development
+- Natural pest and disease management through canopy work and timing
+- Vineyard parcels are tasted for ripeness; harvest dates are determined by optimal phenolic maturity, not calendar
+
+The steep slopes themselves enforce a philosophy of **minimal intervention** — large-scale viticulture is simply impossible, which creates natural quality discipline.
+
+**Winemaking & Signature Style.**
+
+**Red Saint-Joseph (Syrah):** Gonon produces a **traditional, mineral-driven Saint-Joseph**:
+- Native yeast fermentation in concrete vats with **extended skin contact** (12–16 days of maceration)
+- **Aging in used barrels** (3–5 year old wood, no new oak) for 12–18 months
+- Bottling unfined and unfiltered to preserve aromatic complexity and natural tannin structure
+- Minimal sulfite additions (selective, typically at bottling only)
+
+The resulting wine is **elegant, mineral-forward, and peppery** — classic Northern Rhône Syrah character. Primary aromas of red cherry, raspberry, and white pepper develop to secondary complexity (tobacco leaf, slate, dried herbs) with 5–10 years of cellaring. Tannins are fine-grained and integrated; the wine is food-focused and versatile.
+
+**White Saint-Joseph (Marsanne-Roussanne):** Gonon produces a rare white from the Coteaux des Oliviers parcel:
+- Native yeast fermentation in oak and concrete
+- Aging in neutral/used barrels for 6–12 months
+- Shows white flowers, hazelnut, and mineral salinity
+- Remarkable aging potential (10–20+ years)
+
+**Les Iles Feray (Vin de Pays):** A declassified Saint-Joseph-style wine (from fruit that didn't meet appellation standards), sold at a lower price point. This is a remarkable value bottling — the wine shows Gonon's quality discipline applied to an accessible price point ($16–18).
+
+**Key Cuvées & Production.**
+- **Saint-Joseph "Tournon"** — the primary bottling from vines near the village of Tournon
+- **Saint-Joseph "Les Oliviers" Blanc** — rare white from the legendary old-vine parcel
+- **Les Iles Feray** — declassified Vin de Pays Rhône; exceptional value
+- **Saint-Joseph Vieilles Vignes** — in some vintages, a special selection from oldest vines
+
+Production is **modest** (~800–1,200 cases per vintage across red and white), reflecting small vineyard holdings and hand-harvesting constraints. The wines are primarily sold through Kermit Lynch (US), with limited availability through direct sales.
+
+**Saint-Joseph in Regional Context.** Saint-Joseph occupies a middle position within Northern Rhône Syrah: warmer than Cornas or Hermitage (allowing for slightly rounder, fruit-forward character), yet cool enough to maintain freshness and aging potential. The best Saint-Josephs (from Gonon, Sorrel, Chave) rival Cornas in quality while offering slightly more approachability in younger vintages. Gonon's expression is the reference for **traditional, mineral, elegant Saint-Joseph** — the appellation's philosophical core.
+
+**Aging Potential & Drinking Windows.**
+
+**Red Saint-Joseph:**
+- **Minimum cellaring**: 3–5 years from vintage (can be drunk earlier in lighter vintages, but benefits from age)
+- **Peak drinking window**: 8–15 years from vintage
+- **Extended aging potential**: 20+ years in favorable vintages from top parcels
+
+**White Saint-Joseph (Les Oliviers):**
+- **Minimum cellaring**: 3–5 years from vintage
+- **Peak drinking window**: 10–20 years from vintage
+- **Extended aging potential**: 30+ years in well-stored bottles
+
+**Les Iles Feray:**
+- Best enjoyed 2–8 years from vintage, with 10–12 year potential in strong vintages
+
+The 2018 releases are showing beautifully now, with 5–10 years remaining. The 2010s are at peak drinking window with decades remaining potential.
+
+**Critical Reception & Community Standing.** Domaine Gonon is **universally recognized as the finest traditional Saint-Joseph producer** and among the Northern Rhône's most respected growers. The domaine appears in Chambers Street recommendations consistently over a 20-year relationship (dating to 2006–2008). Serious collectors prioritize Gonon allocations. Kermit Lynch's exclusive US representation confirms the estate's status as a top import priority. Pricing reflects quality but represents genuine value for wines of this terroir-expression and aging potential: Saint-Joseph Rouge $35–50 (typical), Les Oliviers Blanc $40–55, Les Iles Feray $16–22.
+
+**Succession & Estate Development.** Jean and Pierre Gonon founded or developed the modern domaine (history suggests they were working family vineyards, then formalized production in the 1980s–1990s). Their sons are now increasingly involved in the domaine's operation and decision-making, ensuring continuity. The estate's commitment to traditional winemaking and steep-slope viticulture appears secure for the foreseeable future.
+
+**Why Evan's Taste.** Domaine Gonon embodies multiple core taste filters:
+
+1. **Terroir-driven viticulture** — sustainable farming, minimal chemicals, site expression prioritized
+2. **Grower-scale production** — small domaine (~9 hectares), hand-harvested on steep slopes, carefully allocated
+3. **Aging potential** — wines built for 8–20+ year cellaring, with proven track record
+4. **Food-focused, elegant style** — mineral, structured, versatile; the antithesis of fruit-forward hedonism
+5. **Biodynamic-trajectory philosophy** — while not formally certified biodynamic, the Gonons' sustainable farming and vintage-focused approach align closely with organic/biodynamic principles
+
+**Cellar Strategy:** Domaine Gonon is **essential** for any Northern Rhône or serious international cellar. The wines represent a top-tier reference point for Saint-Joseph and traditional Northern Rhône Syrah. Acquisition priority should focus on:
+- **Saint-Joseph "Tournon" from strong vintages** (2018, 2015, 2010, 2009) — the flagship for long-term cellaring
+- **Les Oliviers Blanc** when available — a rare, excellent white Saint-Joseph with remarkable aging potential
+- **Les Iles Feray** as a regular acquisition — exceptional value for a Gonon-quality wine at $16–22
+- **Mature releases at auction** (2010s and older) for extended cellaring enjoyment
+
+The domaine is a natural shelf-mate to [[allemand|Allemand]] and [[auguste_clape|Clape]] for Northern Rhône red-focused collectors. Consider Gonon as a cornerstone producer for any Rhône-centered cellar.
+
+

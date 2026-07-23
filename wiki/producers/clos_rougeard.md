@@ -243,3 +243,88 @@ _Not yet populated._
 - [[Loire_Producers|Loire]]
 - [[Saumur-Champigny]]
 - [[CSW Article Archive]]
+
+## Notes
+
+**Clos Rougeard** is the **benchmark producer of Saumur-Champigny** — a wine region that has undergone transformation from sleepy Loire backwater to one of the world's great Cabernet Franc expressions. The domaine, run by the iconic Foucault brothers (Nadi and Charlie, now primarily Nadi), epitomizes the classical Loire approach to Cabernet Franc: natural farming (no chemicals), traditional vinification in barrel, extended aging, and a philosophy that elevates site expression above winemaker intervention. The wines rank among Loire's most collectible and have attracted serious international attention from critics and collectors.
+
+**Vineyard & Terroir Characteristics.** Clos Rougeard's namesake vineyard (the "rougeard" or reddish soil) sits on the limestone-clay slopes of Saumur-Champigny, characterized by:
+
+- **Jurassic limestone (tuffeau)** — chalky, porous stone that imparts mineral salinity and creates natural stress concentrating flavors and phenolics
+- **Clay-limestone blends** creating structural depth and complexity
+- **South-facing aspect** with excellent drainage
+- **Cool microclimate** within Saumur-Champigny, creating wines with fresh acidity, herbal lift, and aging potential
+
+The terroir is ideal for Cabernet Franc: limestone stress produces mineral expression; cool nights maintain acidity; well-drained soils prevent disease pressure and over-ripening.
+
+**Farming & Viticulture Philosophy.** Clos Rougeard practices **natural/organic viticulture** (not formally certified, but philosophically committed) with minimal external inputs:
+- No chemical pesticides or herbicides
+- Strict copper and sulfur usage (minimal, only when absolutely necessary)
+- Natural disease management through canopy work and harvest timing
+- Hand harvesting mandatory; fruit is tasted for ripeness, not picked on calendar date
+- Conservative yields (30–40 hl/ha) to concentrate fruit and phenolics
+
+The philosophy emphasizes **vintage character** over house-style homogenization — Clos Rougeard wines reflect weather and conditions rather than being homogenized toward consistency.
+
+**Winemaking & Signature Style.** The Foucault brothers' cellar work is **traditional, barrel-focused, and minimal-intervention**:
+- Fermentation in **wooden barrels** (rather than stainless or concrete) — a distinctive choice that imparts subtle oak influence and enables natural oxidative development
+- **Wild yeast fermentation** spontaneously initiated by vineyard organisms
+- **Extended barrel aging** — wines spend 2–4 years in barrel before bottling (highly unusual for Cabernet Franc)
+- **Bottling unfined and unfiltered** to preserve aromatic integrity and natural tannin structure
+- **Minimal sulfite additions** (selective, conservative)
+
+The result is a wine of remarkable **purity and complexity**: primary aromas of red cherry, raspberry, and herbs age to secondary complexity (tobacco leaf, leather, dried plum, mineral slate) with extended cellaring. The extended barrel aging creates wines that are initially tight and reserved, requiring 5–10 years of bottle age to open and show their full personality. Mature Clos Rougeard shows **silky tannins, pronounced minerality, and remarkable elegance**.
+
+**Key Cuvées & Vineyards.** Clos Rougeard produces several distinct expressions:
+
+- **Le Bourg** — the flagship, from the estate's oldest (40–70 year old) vines in the Clos Rougeard vineyard proper. Shows maximum complexity and mineral intensity; requires 10–20 years of cellaring.
+- **Les Poyeux** — from a specific parcel showing slightly riper, rounder character; requires 8–15 years.
+- **Brézé** — from a limestone-rich parcel in the neighboring Brézé micro-zone; distinctive mineral lift; ages 8–15 years.
+- **Les Oliviers** (white) — rare white Chenin Blanc bottling from the domaine
+
+Production is modest (~1,000–1,500 cases per vintage), reflecting small vineyard holdings and rigorous quality selection. The wines are primarily sold through select importers and direct to serious collectors; allocation is managed carefully.
+
+**Saumur-Champigny in Global Context.** Saumur-Champigny occupies an aristocratic position within Loire Cabernet Franc: cool enough to retain acidity and herbal character, yet warm enough to achieve full phenolic ripeness. The best producers (Clos Rougeard, Guiberteau, Vatan, Ackerman) create wines that rival Bourgueil and Chinon in aging potential while maintaining a distinctive mineral, elegant personality. Clos Rougeard is universally recognized as **the gold standard** — the wine by which all other Saumur-Champignys are measured.
+
+**Aging Potential & Drinking Windows.** Clos Rougeard wines are **built for extended cellaring** — among the longest-aging Cabernet Francs in the world:
+
+- **Le Bourg** (flagship):
+  - **Minimum cellaring**: 10–12 years (harsh tannins if drunk earlier)
+  - **Peak drinking window**: 15–35 years from vintage
+  - **Extended aging potential**: 40–50+ years in well-stored bottles (the 2005 Bourg will improve through 2040+)
+
+- **Les Poyeux & Brézé**:
+  - **Minimum cellaring**: 8–10 years
+  - **Peak drinking window**: 12–25 years from vintage
+  - **Extended aging potential**: 30+ years in favorable vintages
+
+Mature Clos Rougeard (2010, 2005, 2002 vintages) shows beautifully now, with decades of potential remaining. A bottle of 1988 or 1989 Le Bourg is considered a collector's trophy, still improving and showing no signs of decline.
+
+**Critical Reception & Community Prestige.** Clos Rougeard has transcended regional reputation to become a **global collector reference**:
+
+- Chambers Street features the domaine consistently over a nearly 20-year relationship (articles dating back to 2007), with multiple dedicated cellar-pick recommendations
+- **William Kelley** (Berserkers contributor) cites Clos Rougeard alongside Rayas and Clos d'Auvenay as wines that "transcend their appellations" — the highest praise in collector circles
+- **Berserkers community ranking**: #48 of 2,067 producers in the "Top 10 in Cellar" thread, with 24 mentions showing strong momentum (2.17× growth 2023+)
+- The wine appears on serious restaurant wine lists globally and trades actively at auction
+- Pricing reflects prestige: releases are $40–60 (typical), with mature bottles commanding $80–200+ at auction
+
+**Regional Significance & Influence.** Clos Rougeard is not just a producer — it's a **philosophical anchor** for Loire Valley winemaking. The Foucault brothers' commitment to natural viticulture and traditional cellar work influenced an entire generation of Loire growers. The domaine's success proved that Saumur-Champigny could produce world-class, age-worthy wine without modern technology or aggressive winemaking. This influence radiates through the region.
+
+**The Succession Question.** Nadi Foucault is now the primary decision-maker at Clos Rougeard (Charlie has reduced his day-to-day involvement). There was a moment of concern around 2020 regarding succession and the future of the estate — Nadi Foucault passed away in December 2015, which was a shock to the wine world. However, the estate continues to operate and produce wines. Monitor this domaine carefully for any succession or quality changes; Clos Rougeard's reputation is built on the Foucaults' personalities and philosophies, and any major transition warrants close attention.
+
+**Why Evan's Taste.** Clos Rougeard represents everything Evan's stated taste filters value:
+
+1. **Terroir-driven viticulture** — natural farming, minimal chemicals, site expression prioritized
+2. **Grower-scale production** — small domaine (7–9 hectares), hand-harvested, carefully allocated
+3. **Aging potential** — wines built for 15–40 year cellaring, with proven track record
+4. **Food-focused, elegant style** — the antithesis of fruit-forward hedonism; mineral, structured, versatile
+5. **Biodynamic-leaning philosophy** — while not formally certified biodynamic, the Foucaults' natural farming and vintage-focused approach align closely with biodynamic principles
+
+**Cellar Strategy:** Clos Rougeard is **essential** for any Loire-focused or serious international cellar. The wines represent a top-tier reference point for Saumur-Champigny and Loire Cabernet Franc. Acquisition priority should focus on:
+- **Le Bourg from strong vintages** (2015, 2010, 2005, 2002) — the flagship for long-term cellaring
+- **Les Poyeux from good to excellent vintages** (2018, 2015, 2010) — more accessible entry point with strong aging potential
+- **Mature releases at auction** (2010s and older) when available at reasonable valuations
+
+The wines are expensive ($40–60 at release) but represent genuine quality investment — Clos Rougeard is among the few Loire wines that consistently outperform market pricing over 10–20 year cellaring horizons.
+
+
