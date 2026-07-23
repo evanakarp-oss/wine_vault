@@ -2,13 +2,14 @@
 type: producer
 name: Biondi-Santi
 slug: biondi_santi
-aliases: []
+aliases: ["Il Greppo", "Biondi-Santi Brunello", "Biondi Santi"]
 country: Italy
 region: Tuscany
-sub_region: Brunello di Montalcino
-appellations: []
+sub_region: "Montalcino"
+appellations: ["Brunello di Montalcino DOCG", "Rosso di Montalcino DOC"]
 farming:
 - sustainable
+- traditional
 certifications: []
 importer_us:
 - Wilson Daniels
@@ -182,3 +183,37 @@ _[Raeders link](https://www.raederswine.com/wines/Biondi-Santi-Brunello-di-Monta
 ## FASS
 
 _Not yet populated._
+
+## Cross-references
+
+- [[Italy_Producers|Italy]]
+- [[Tuscany_Producers|Tuscany]]
+- [[Montalcino|Brunello di Montalcino (appellation)]]
+- [[Wilson_Daniels|Wilson Daniels (importer)]]
+
+## Notes
+
+**Biondi-Santi** is an historic, iconic Tuscan estate synonymous with Brunello di Montalcino — a flagship Italian producer known for wines exhibiting "signature elegance, suppleness and lithe personality" that distinguish the il Greppo vineyard and represent the classical, terroir-driven Brunello aesthetic.
+
+**Estate & Heritage.** The Il Greppo estate is one of the founding classics of Brunello di Montalcino, with lineage traceable to Montalcino's earliest quality-focused producers. Biondi-Santi represents traditional Sangiovese viticulture and winemaking, pursuing age-worthy, complex expressions rather than early-drinking fruit-forward styles.
+
+**Portfolio & Approach.** Biondi-Santi operates across multiple tiers:
+- **Brunello di Montalcino** — flagship vintage-dated expression; minimum 5 years aging (2+3 in oak/bottle minimum); designed for substantial cellaring (20-30+ year potential)
+- **Brunello di Montalcino Riserva** — top-tier selection from exceptional vintages; extended aging before release; maximum complexity and age-worthiness
+- **Rosso di Montalcino** — younger, more approachable expression using fruit not selected for Brunello; ~2 year aging; designed for earlier drinking (5-10 year window)
+- Also produces Amarone della Valpolicella (Veneto)
+
+**Winemaking Philosophy.** The consistent descriptor across critic reviews is "elegance, suppleness and lithe personality" — a classical Tuscan aesthetic emphasizing terroir and vintage expression over extraction or opulence. Recent vintages (2015-2019 Brunello) score 94-97 (Wine Advocate, Wine Spectator, James Suckling), with Riservas reaching 97-99 — testament to consistent quality execution.
+
+**Critical Reception.** Biondi-Santi maintains exceptional critic standing:
+- 2015 Brunello: 97 (WA), 94 (WE)
+- 2016 Brunello Riserva: 99 (WA), 98 (JS), 98 (WS) — "truly majestic wine"
+- 2017 Brunello: 96 (WA), 96 (JS)
+- 2019 Brunello: 97 (WA), 97 (JS)
+- Rosso di Montalcino also scores highly (94-96), demonstrating quality across tiers
+
+**Pricing & Positioning.** Raeders carries 8 Biondi-Santi bottlings ($249-899), focusing on reserve expressions and recent prestigious vintages. This premium positioning reflects the estate's iconic status and proven track record — Biondi-Santi is acquisition-grade for serious collectors and auction houses.
+
+**Regional Significance.** Biondi-Santi epitomizes classical Brunello production: restraint over power, terroir over technique, age-worthiness over immediate gratification. As a founding quality producer, the estate has shaped expectations for Brunello and influenced an entire region's reputation. The consistent critic acclaim and continued premium pricing reflect enduring respect within serious wine collecting.
+
+**Community Position.** Despite minimal CSW presence (one 2015 feature in a wine dinner context), Biondi-Santi maintains substantial presence at Raeders and in serious wine communities. Berserkers discussions of a "Biondi-Santi Retrospective" event in Zurich (2022) underscore the estate's cultured-collectors status — wines worth retrospective tasting experiences.

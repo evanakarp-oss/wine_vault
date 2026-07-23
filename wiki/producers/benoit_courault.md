@@ -4,10 +4,11 @@ name: Benoit Courault
 slug: benoit_courault
 aliases: []
 country: France
-region: Burgundy
-sub_region: Anjou (Loire)
-appellations: []
+region: Loire
+sub_region: Anjou
+appellations: ["Anjou", "Anjou Noir"]
 farming:
+- organic
 - natural
 certifications: []
 importer_us:
@@ -118,6 +119,25 @@ _Not yet populated._
 
 ## Cross-references
 
-- [[Burgundy_Producers|Burgundy]]
-- [[Anjou (Loire)]]
-- [[CSW Article Archive]]
+- [[Loire_Producers|Loire]]
+- [[Dressner_Selections|Dressner (importer)]]
+- [[Louis_Dressner|Louis Dressner Selections (importer)]]
+
+## Notes
+
+**Benoit Courault** is an exemplary natural winemaker and organic viticulturist in Anjou (Faye d'Anjou), exemplifying the new generation of Loire growers who returned to winemaking through mentorship and ideological conviction rather than family succession.
+
+**Background & Philosophy.** Not from a winemaking family — his father was a horse trader — Courault came to wine through rigorous study, completing oenology training in Beaune before apprenticing with several mentors including Eric Pfifferling (Tavel region), Olivier Cousin, and the Menard family at Domaine des Sablonnettes. He launched his project around 2008 on a small rental parcel, and now operates a small, completely hand-managed estate focused on schist terroirs of the Anjou appellation.
+
+**Farming & Viticulture.** Courault practices certified organic viticulture with zero synthetic inputs (no pesticides, herbicides, or chemical fertilizers). His vineyard philosophy prioritizes soil health and microbial life above all else; he famously spent over 5 years reviving previously herbicided soils from one small parcel before feeling confident the microbial ecosystem had recovered sufficiently to produce quality fruit. All vineyard work is done by hand, assisted by horses for soil management. His belief mirrors the broader natural-wine conviction that "the most important work is in the vineyard, and the winemaker should be hands-off in the cellar."
+
+**Winemaking & Production.** Minimal-intervention approach: grapes ferment naturally, wines age on their lees in old barrels for approximately one year, and every bottle is hand-filled using vintage manual equipment (he owns a fully functional manual bottling apparatus). SO2 use is exceptionally low: approximately 1 mg/l for white wines at racking, 2 mg/l for reds, and zero for his Pet-Nat sparklings. Production is tiny, with a core team of Courault, two collaborators, and horses.
+
+**Key Wines.** Courault's most celebrated offerings are:
+- **Chenin Blanc on Schist** — his signature white, exploiting the Anjou schist terroir with remarkable minerality and precision
+- **100% Grolleau** — a red expression of the traditional Anjou variety, elegant and food-focused
+- **Pet-Nat** — lightly sparkling, low-intervention pét-nat style
+
+**Regional Significance.** Courault exemplifies the modern, grower-scale Loire movement: terroir-driven, biodynamic-leaning (not certified), minimal-SO2 production, and deeply committed to sustainable soil stewardship. He has become a reference point for artisanal Anjou Chenins and natural reds in the Loire. His influence within the CSW network is substantial, cited by sommeliers (notably Pascaline Lepeltier in her 2020 Racines article) as among the finest Chenin producers anywhere.
+
+**Personal.** Courault lived in an Airstream trailer among his vineyard parcels for over a decade before gradually constructing his own home by hand with friends and a small bulldozer. This lifestyle choice reflects his philosophical commitment to vineyard presence and minimal external inputs.

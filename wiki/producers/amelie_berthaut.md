@@ -32,7 +32,7 @@ _sources: ["dte_jsx:dte_wines_1.jsx"]
 
 # Amélie Berthaut
 
-_Seeded from Down to Earth (Panzer) portfolio. Not yet covered in CSW archive sweep._
+**Note:** Amélie Berthaut is the winemaker and current proprietor of [[Berthaut-Gerbet|Berthaut-Gerbet domaine]]. See the Berthaut-Gerbet page for comprehensive information about the estate, which combines her father's Domaine Denis Berthaut and her mother's family holdings (Domaine Francois Gerbet).
 
 ## CSW Write-ups
 

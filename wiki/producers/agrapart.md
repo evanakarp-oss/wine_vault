@@ -2,12 +2,14 @@
 type: producer
 name: "Agrapart"
 slug: agrapart
-aliases: []
+aliases: ["Pascal Agrapart", "Domaine Agrapart"]
 country: "France"
 region: "Champagne"
-sub_region: ""
-appellations: []
-farming: []
+sub_region: "Côte des Blancs"
+appellations: ["Champagne AOC"]
+farming:
+- organic
+- biodynamic
 certifications: []
 importer_us:
 - Polaner
@@ -129,3 +131,28 @@ _Not yet populated._
 Own **2 bottle(s)** across 1 cuvée-vintage(s):
 
 - 2 × Champagne Les 7 Crus Extra-Brut NV (750ml) @ $82.97 — drink 2024–2031
+
+## Cross-references
+
+- [[Champagne_Producers|Champagne]]
+- [[Cote_des_Blancs|Côte des Blancs]]
+- [[Polaner|Polaner (importer)]]
+
+## Notes
+
+**Pascal Agrapart** is among the most accomplished artisanal Champagne growers, exemplifying the modern grower-Champagne movement: organic/biodynamic viticulture, minimal-intervention cellar work, and rigorously terroir-driven expressions that challenge the category's conventional wisdom about "house style" over vintage/parcel distinction.
+
+**Estate & Terroir.** Agrapart operates 9.75 hectares across 62 individual parcels, concentrated in the premier Grand Cru villages of the Côte des Blancs: Avize, Cramant, Oiry, and Oger. The Côte des Blancs is exclusively Chardonnay-focused (unlike the broader Champagne region), and Agrapart's parcels span a range of chalk/clay subsoil profiles, allowing sophisticated parcel-by-parcel bottling strategies. The complexity comes not from blending technique but from inherent terroir variation.
+
+**Farming Philosophy.** Agrapart practices mostly organic and biodynamic viticulture, with explicit avoidance of synthetic herbicides and pesticides. A signature practice is active soil tillage (rather than herbicide suppression) to encourage deeper root systems and stronger vine vigor — this old-school approach demands significant labor but produces more minerally expressive fruit. Per CSW: "Careful work in the vines (mostly organic or biodynamic) and cellar (mostly non-interventionist) produce wines that, in addition to being delicious, seem to offer deeper dimensions of terroir expression than other wines of their appellation."
+
+**Winemaking & Cellar.** Agrapart employs a hybrid fermentation strategy: combination of stainless steel tank and wood, with vintage-dated Champagnes seeing "significant time on the lees" (extended aging before disgorging). This approach builds complexity and allows for lower dosage levels — a modern preference that Agrapart accommodates while maintaining classic Champagne structure. The result is "deeply mineral" Champagnes with "great distinction between individual cuvées" and wines that "balance power with precision."
+
+**Key Wines & Cuvées.** The portfolio reflects parcel-specific expression:
+- **7 Crus (non-vintage)** — blended from Grand Cru Chardonnay across seven Côte des Blancs villages where Agrapart holds vines; "generous" yet terroir-transparent
+- **Les Terroirs** — emphasizes soil distinction across parcels
+- **Venus** — a single small parcel (300 square meters) of old vines in Avize; "profoundly lean, chalky and taut" — an extreme expression of terroir purity
+
+**Reputation & Cult Status.** Agrapart has achieved "cult status" among Champagne connoisseurs and retailers, particularly those seeking "grower Champagne" experiences that prioritize transparency over brand consistency. CSW notes: "For lovers of terroir and Champagne, Agrapart produces Champagnes that are immensely compelling." The consistency of annual CSW features (9 dedicated articles spanning 2013-2026) reflects sustained quality and philosophical alignment with the retailer's preference for organic/biodynamic, minimalist-cellar producers.
+
+**Regional Position.** Agrapart represents the ascendent "grower Champagne" category — small-production, site-specific, minimal-intervention, and philosophically aligned with natural/organic agriculture. Within the category, his reputation for purity and "harmoniousness" is exceptional. The wines command premium pricing ($59-79 retail) justified by production scale, farming labor intensity, and consistent quality.

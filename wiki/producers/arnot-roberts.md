@@ -2,12 +2,14 @@
 type: producer
 name: Arnot-Roberts
 slug: arnot-roberts
-aliases: []
+aliases: ["Duncan Meyers", "Nathan Roberts", "A-R"]
 country: United States
 region: California
-sub_region: Sonoma County (North Coast Trousseau & Jura varieties)
-appellations: []
-farming: []
+sub_region: Sonoma Coast (Healdsburg area)
+appellations: ["Sonoma Coast AVA", "Petaluma Gap"]
+farming:
+- sustainable
+- site-driven
 certifications: []
 importer_us:
 - Polaner
@@ -172,6 +174,26 @@ _Not yet populated._
 ## Cross-references
 
 - [[California_Producers|California]]
+- [[Sonoma_Coast_Producers|Sonoma Coast]]
 - [[Polaner|Polaner (importer)]]
 - [[Henderson_Selections|Henderson Selections (importer)]]
-- [[CSW Article Archive]]
+
+## Notes
+
+**Arnot-Roberts** represents the vanguard of contemporary California winemaking: meticulous site selection, minimal intervention in the vineyard and cellar, and a philosophical commitment to wines that echo classical European restraint rather than modern California opulence.
+
+**Founders & Background.** Duncan Arnot Meyers and Nathan Lee Roberts are childhood friends from Napa Valley (third-grade companions, graduated together from Vintage High School, Napa). Both carry deep California wine heritage: Roberts' father Keith founded one of California's few American-owned cooperages; his mother Annie was a longtime chef at Robert Mondavi Winery; his grandmother Margrit Biever Mondavi (Robert Mondavi's widow) helped design the Arnot-Roberts labels. Meyers' father David was a Napa attorney and close friend of Bernard Portet (Clos du Val co-founder). This network of family connections rooted in California's wine establishment informs their philosophy — they see themselves as restorers of classical California winemaking rather than innovators.
+
+**Founding & Philosophy.** Arnot-Roberts started in 2001 in Healdsburg on a shoestring budget. Their métier combines two complementary approaches: (1) discovering "incredibly distinctive and often extreme vineyard sites" with unique terroir potential, and (2) "strategically partnering with vineyard owners and consultants who take care of the grapes according to their specifications." This allows the winery to focus on low-intervention winemaking rather than managing 500+ acres themselves.
+
+**Key Vineyard Sites & Wines.** The signature holding is **Clary Ranch** in Sonoma Coast (Petaluma Gap), planted to Syrah. Arnot-Roberts' Clary Ranch Syrah has become a calling card precisely for its restraint: typically bottled at 11-13% alcohol (compared to 15%+ in many CA Syrah programs), with purity of fruit and mineral precision. Other key wines:
+- **Trousseau** — a single-varietal bottling blending grapes from Luchsinger, Boham, and Bartolomei vineyards; uncommon in California
+- **Rosé blend** — Touriga Nacional, Tempranillo, and Grenache; demonstrates site-driven versatility
+- **Cabernet Sauvignon** — classical, age-worthy expressions "evocative of how California wines were made several decades ago"
+- **Chardonnay** — similarly classical, terroir-expressive
+
+**Winemaking Approach.** Across the portfolio, wines are "elegantly balanced, texturally beautiful, and truly reflective of their geographical locations and vineyard sites." This language — emphasizing balance, texture, and site-expression — stands in sharp contrast to the opulence/power language that dominated CA wine marketing in the 2000s-2010s. Arnot-Roberts is explicitly a counter-movement to cult Napa/Sonoma excess.
+
+**Cult Status Among Sommeliers & Retailers.** Despite (or because of) their limited production and classical approach, Arnot-Roberts have become "domestic cult favorites among sommeliers and wine retailers." The combination of intellectual rigor, pedigree, site-obsession, and restraint makes them a reference point for wine professionals seeking "real California wine" — geographically honest, food-appropriate, age-worthy.
+
+**Regional Position.** Arnot-Roberts exemplify the "new California school" — grower-focused, site-driven, minimal-intervention, classical in philosophy. They operate across multiple cool sites (Sonoma Coast, Petaluma Gap) rather than bottled at scale. Their influence has been substantial in shifting sommeliers' and educated consumers' preferences toward restraint and terroir-expression over extraction and power.

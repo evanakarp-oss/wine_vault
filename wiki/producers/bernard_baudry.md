@@ -2,12 +2,14 @@
 type: producer
 name: "Bernard Baudry"
 slug: bernard_baudry
-aliases: ["Bernard Baudry"]
+aliases: ["Domaine Bernard Baudry", "Baudry", "Bernard & Matthieu Baudry"]
 country: "France"
 region: "Loire"
-sub_region: ""
-appellations: []
-farming: []
+sub_region: "Chinon"
+appellations: ["Chinon"]
+farming:
+- sustainable
+- traditional
 certifications: []
 importer_us: []
 retailers:
@@ -152,3 +154,34 @@ _Not yet populated._
 ## FASS
 
 _Not yet populated._
+
+## Cross-references
+
+- [[Loire_Producers|Loire]]
+- [[Chinon|Chinon (appellation)]]
+
+## Notes
+
+**Domaine Bernard Baudry** is one of the most consistent and respected producers in Chinon, exemplifying the classical Loire approach to Cabernet Franc: elegant, age-worthy reds with purity of fruit and terroir precision.
+
+**History & Development.** Bernard Baudry founded the domaine in 1982 with just 2 hectares of vineyard. Over the following decades, he built the estate to its current 30 hectares, methodically acquiring prime parcels in various Chinon micro-terroirs. His son Matthieu joined as co-winemaker and partner, now working alongside Bernard in the cellars and vineyards. The estate's consistent presence in CSW's portfolio dating back to 2007 (and continuing unbroken through 2026) reflects the deep commercial and personal relationship built between the Baudrys and Chambers Street ownership.
+
+**Terroir & Vineyard Management.** The Baudry vineyard holdings span multiple soil types and microclimates across Chinon, allowing for sophisticated parcel-by-parcel expression:
+- **Gravel soils** (~80%): produce wines with brighter, more mineral characteristics
+- **Clay-limestone soils** (~20%): contribute depth and structure
+- **Sandy clay and limestone parcels**: each contributing distinct characteristics to the portfolio
+
+This soil diversity is a strategic asset; the Baudrys craft distinct cuvées from different parcels rather than blending everything into a single "house wine."
+
+**Key Wines & Parcels.** The domaine produces five primary Cabernet Franc cuvées:
+1. **Les Granges** — younger-vines expression; approachable, fruit-forward, meant for early drinking
+2. **Cuvée Domaine** — flagship "best value" bottling; 35-year-old vines on mixed gravels and clay-limestone; "lovely fruit and earthy complexity" with 3-5 year aging potential (per 2007 CSW tasting notes)
+3. **Les Grézeaux** — premium parcel selection; age-worthy; consistently highlighted in CSW recommendations since 2010s
+4. **La Croix Boissée** — top-tier cuvée; particularly successful in 2010
+5. **Les Mollières** — newly introduced cuvée; described as "delicate and delicious" in recent vintages
+
+**Winemaking Philosophy.** The Baudrys emphasize **purity and elegance** — wines that express terroir rather than winemaker manipulation. Per CSW: "Each year the Baudry's wines are among the very finest Loire reds, the purity and elegance of the wines reflected by the friendly and thoughtful personalities of Bernard and his son." Traditional fermentation and aging in barrel, with minimal intervention. Matthieu Courault (quoted in 2024) emphasizes "generous fruit and juicy character" as vintage signatures, suggesting a philosophy that respects vintage expression over house style homogenization.
+
+**Scale & Production.** At 30 hectares, Baudry is medium-scale for Chinon — neither boutique nor industrial. Production is estate-bottled and carefully allocated through select importers. Down to Earth (Panzer) carries two cuvées in the $20 price point, making the Baudrys accessible to Evan's cellar philosophy while maintaining quality at scale.
+
+**Regional Significance.** Bernard and Matthieu Baudry are among the defining names in modern Chinon — representing the terroir-driven, sustainable-farming (rather than certified biodynamic) school of Loire winemaking. They've influenced a generation of Loire growers and remain CSW's most-championed Chinon source, featured in 20+ articles spanning nearly two decades.

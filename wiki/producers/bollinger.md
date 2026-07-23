@@ -2,12 +2,14 @@
 type: producer
 name: Bollinger
 slug: bollinger
-aliases: []
+aliases: ["Champagne Bollinger", "Maison Bollinger", "Bollinger R.D."]
 country: France
 region: Champagne
-sub_region: ''
-appellations: []
-farming: []
+sub_region: Aÿ (Montagne de Reims)
+appellations: ["Champagne AOC"]
+farming:
+- sustainable
+- traditional
 certifications: []
 importer_us: []
 retailers:
@@ -248,3 +250,35 @@ Vintages on offer: 2015, NV.
 ## FASS
 
 _Not yet populated._
+
+## Cross-references
+
+- [[Champagne_Producers|Champagne]]
+- [[Ay|Aÿ (village)]]
+
+## Notes
+
+**Bollinger** is a historic, grande-marque Champagne house distinguished by its pursuit of full-bodied, structured Champagnes that age gracefully and express the traditional "goût Anglais" (English taste) — a style favoring power, complexity, and minerality over delicacy.
+
+**History & Significance.** Bollinger is among the most respected of Champagne's major houses, with deep historical roots and a reputation for consistency. The house has maintained its identity across generations and market cycles, particularly through two key cuvées: Grande Année (vintage-dated) and R.D. (Recently Disgorged), which have become reference points for age-worthy Champagne.
+
+**Style & Philosophy.** Bollinger's house style emphasizes:
+- **Full-bodied expressions** — rejecting the trend toward lighter, fresher Champagnes in favor of substantial, complex wines
+- **Pinot Noir dominance** — while other houses prioritize Chardonnay, Bollinger builds its structure and power on Pinot Noir from the Montagne de Reims
+- **Extended aging** — both the Grande Année and R.D. expressions benefit from long maturation before release, developing complexity and tertiary flavors
+- **"Goût Anglais" tradition** — Bollinger explicitly caters to the English-market preference for serious, cellaring-worthy Champagne (a historical relationship dating to 19th-century trade patterns)
+
+**Key Cuvées.** The portfolio centers on two aged expressions:
+1. **Grande Année (Vintage Brut)** — only released in quality vintages, aged extensively before disgorgement; structured, complex, age-worthy (e.g., 2008 vintage released in 2019 generated significant community interest for its quality and availability)
+2. **R.D. (Recently Disgorged)** — an even more age-extreme expression, disgorged later (from extended-aged reserve stocks); a flagship cuvée among connoisseurs (1973 R.D. was cited as a classic reference in Berserkers tastings)
+
+Also produced: Special Cuvée (NV workhorse), and occasional single-vineyard/prestige bottlings.
+
+**Berserkers Community Position.** Bollinger maintains a strong presence in serious wine communities. Berserkers discussions position Bollinger R.D. and Grande Année as benchmarks for age-worthy, structured Champagne — frequently compared to Krug (premium positioning) as aspirational cellaring targets. The 2008 Grande Année release generated sustained discussion among community members about vintage quality and release strategy.
+
+**Influence & Legacy.** Bollinger's influence on champagne connoisseurship is substantial:
+- The house helped define expectations around "aged Champagne" as distinct from fruit-forward NV releases
+- R.D. expressions pioneered late-disgorgement Champagne (a technique now adopted by grower producers)
+- The house has maintained independence and family control through much of the 20th-21st centuries, preserving its distinct house style
+
+**Accessibility & Positioning.** While Bollinger maintains grande-marque pricing and availability (present at Raeders at volume level), the house is strategically positioned for serious collectors rather than casual consumers — its power and complexity demand food pairing or significant cellaring investment. Not present in Evan's cellar or active DTE portfolio, consistent with the curated taste filters (older, aged Bollinger might fit "classical Champagne" profile, but young vintages align more with high-volume, market-driven production).

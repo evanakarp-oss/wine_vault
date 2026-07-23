@@ -2,11 +2,11 @@
 type: producer
 name: Berthaut-Gerbet
 slug: berthaut-gerbet
-aliases: []
+aliases: ["Amélie Berthaut", "Domaine Berthaut-Gerbet", "Domaine Denis Berthaut", "Domaine Francois Gerbet"]
 country: France
 region: Burgundy
-sub_region: Fixin / Gevrey
-appellations: []
+sub_region: "Fixin, Vosne-Romanée"
+appellations: ["Fixin", "Bourgogne Rouge", "Echezeaux"]
 farming:
 - organic
 certifications: []
@@ -130,8 +130,48 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Notes
+
+**Berthaut-Gerbet** represents the new generation of Burgundy winemaking — a young, ambitious domaine under the leadership of Amélie Berthaut, who took over at age 25 and has already earned acclaim for producing "great purity and finesse" Pinot Noirs across multiple appellations from Fixin to Grand Cru Vosne-Romanée.
+
+**Heritage & Structure.** The domaine is a 7th-generation family enterprise, combining:
+- **Domaine Denis Berthaut** (Amélie's father) — historical Fixin holdings
+- **Domaine Francois Gerbet** (Amélie's mother's family) — additional vineyards including Grand Cru parcels in Vosne-Romanée
+
+The family motto, carved into stone at their home since 1693, reads "Bien faire vax miev que dir" ("Doing right is better than talk") — a philosophical touchstone that guides production decisions.
+
+**Amélie Berthaut: Background & Takeover.** Amélie was not initially destined for winemaking. She studied Sciences-Agro engineering in Bordeaux, completing internships at:
+- **La Tour du Bon** (Provence, France) — her first immersion in winery work; where she discovered her passion
+- **Rudd Winery** (Napa, California) — observing American work ethic, precision, and hygiene; noted the experience lacked explanation of "why"
+- **Crater Rim** (New Zealand) — exposure to alternative Pinot Noir approaches
+
+After returning for the 2013 harvest at age 25, she spoke with her father about her vision for the domaine — and he handed over full winemaking responsibilities while remaining supportive. Nicolas Faure, her now-husband, joined as head of cultivation in 2017 with an impeccable resume: JL Chave, Domaine de la Romanée-Conti, Domaine Prieuré Roch.
+
+**Farming & Viticulture.** Amélie transitioned the 18-hectare estate to **certified organic viticulture** upon taking over — a substantial commitment replacing conventional practices with hand-labor-intensive, chemical-free farming.
+
+**Winemaking Philosophy & Changes.** Amélie has modernized while respecting tradition:
+- **Increased whole-stem usage** — varying by vintage and desired extraction; a shift from her father's baseline practice
+- **Delicate extraction** — rejecting heavy-handed approaches in favor of refined, elegant wine styles
+- **Barrel aging** — transitioned from her father's old wooden foudres to traditional Burgundy barrels; oak use: 0-30% new wood depending on the cuvée (a conservative approach reflecting respect for terroir over oak influence)
+
+The cumulative effect: wines described as "great purity and finesse" with "beautiful" complexity—hallmarks of modern, terroir-driven Burgundy.
+
+**Appellations & Scope.** The domaine produces across a remarkably broad spectrum:
+- **Bourgogne Rouge** — entry-level expression
+- **Fixin Villages** — village-level wines from the Côte de Nuits
+- **Fixin Premier Cru** — elevated terroir expressions from the Fixin appellation (where the domaine is anchored)
+- **Grand Cru Vosne-Romanée** — prestige bottlings from exceptional parcels (some shared with the late Gerbet family holdings)
+
+**Community & Industry Recognition.** Despite being a young producer (Amélie took over in 2013), Berthaut-Gerbet has already earned substantial recognition:
+- CSW features the domaine prominently (2025 dedicated article)
+- Berserkers community positions the domaine as a benchmark Fixin producer (William Kelley's forum post recommended Berthaut-Gerbet and Gelin as top Fixin sources)
+- Represents the vanguard of new-generation, organic-farmed, elegance-focused Burgundy
+
+**Regional Position.** Berthaut-Gerbet exemplifies modern Burgundy: young female winemaker (still exceptional in Burgundy), organic farming commitment, precision-oriented, terroir-transparent winemaking, and access to Grand Cru parcels. The domaine bridges classical Burgundy traditions with contemporary sensibilities toward sustainability and refinement.
+
 ## Cross-references
 
 - [[Burgundy_Producers|Burgundy]]
-- [[Fixin / Gevrey]]
-- [[CSW Article Archive]]
+- [[Fixin|Fixin (appellation)]]
+- [[Vosne-Romanee|Vosne-Romanée (appellation)]]
+- [[Bowler|Bowler Wines (importer)]]

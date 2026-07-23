@@ -2,12 +2,14 @@
 type: producer
 name: A.J. Adam
 slug: aj_adam
-aliases: []
+aliases: ["Andreas Adam", "A.J. Adam Estate", "Weingut A.J. Adam"]
 country: Germany
 region: "Mosel"
-sub_region: "Dhron"
-appellations: []
-farming: []
+sub_region: "Dhron (Lower Mosel)"
+appellations: ["Mosel Riesling"]
+farming:
+- organic
+- biodynamic-aligned
 certifications: []
 importer_us:
 - Skurnik
@@ -105,8 +107,32 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Notes
+
+**A.J. Adam** (Andreas Adam) is an exemplary micro-production Mosel winemaker operating at the extreme edge of scale — fewer than 500 cases annually — who pursues old-school, dry Riesling of remarkable purity and complexity through hand-harvested organic farming, minimal intervention, and extended lees contact.
+
+**Background & Philosophy.** Adam operates as a part-time winemaker, holding a parallel position at the renowned Heymann-Löwenstein estate in the Lower Mosel. This dual role reflects his craft commitment; his work at Heymann-Löwenstein provides income security while allowing him to pursue ultra-small-scale, uncompromising production at his own estate. Key influences include Roman Niewodniczanski at Van Volxem, whose philosophy of dry, terroir-driven, minimal-production Mosel Riesling directly shaped Adam's aesthetic.
+
+**Estate & Terroir.** Adam farms just 1 hectare, primarily the **Dhronhofberger** vineyard (a "Hofberg" or "court vineyard" with excellent sun exposure, though not among the Mosel's most celebrated Grand Cru designations — Adam's contentment with this relative anonymity reflects his focus on quality over prestige). The soils are weathered slate with clay substrate — classic Lower Mosel geology that produces spicy, mineral-intense Rieslings.
+
+**Farming & Viticulture.** Organic farming (hand-harvested, no synthetic inputs) with biodynamic-aligned practices. Low yields by design, concentrating flavor and complexity into minimal bottlings.
+
+**Winemaking Approach.** Quintessentially old-school Lower Mosel practice:
+- **Cool fermentation** with native wild yeasts (no inoculation)
+- **Extended lees contact** — extraordinary: 4 months on regular lees, then 6 additional months on fine lees (10 months total) — a technique more common in Burgundy than Mosel
+- **Dry-style production** — Adam ferments to dryness despite high-quality fruit that could support residual sugar
+- **Minimal intervention** philosophy
+
+**Style & Character.** CSW tasting notes (2005 Hofberg Reserve) describe wines that "taste deep and leesy, and never seem sweet, and almost never seem dry, even when in fact either sweet or dry" (per Terry Thiese). The wines combine apparent contradictions: thickness and opalescence, richness on a lithe frame, spice and exotic fruit with juicy pit-fruit complexity. The Hofberg Reserve was compared to Leflaive (Burgundy-like richness and finesse) meets Clemens Busch (elegant dryness) — a striking testament to Adam's ability to balance power with restraint.
+
+**Production Scale.** At ~500 cases annually (Romanée-Conti/Screaming Eagle territory production), A.J. Adam represents the micro-production end of German winemaking. Distribution is highly limited; CSW sourcing reflects deep importerrelationships (Skurnik/Theise networks).
+
+**Regional Position.** A.J. Adam exemplifies the modern Lower Mosel grower movement: small-scale, organic, dry-wine focused, and philosophically aligned with Van Volxem/Heymann-Löwenstein traditions of purity and terroir expression over commercial sweetness. His influence is significant among Mosel connoisseurs and natural-wine enthusiasts despite minimal production.
+
 ## Cross-references
 
 - [[Germany_Producers|Germany]]
-- [[Mosel (Dhron)]]
-- [[CSW Article Archive]]
+- [[Mosel_Producers|Mosel]]
+- [[Dhron|Dhron (village)]]
+- [[Skurnik|Skurnik (importer)]]
+- [[Theise|Terry Thiese (importer)]]

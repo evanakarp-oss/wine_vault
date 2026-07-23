@@ -2,13 +2,15 @@
 type: producer
 name: Allemand
 slug: allemand
-aliases: []
+aliases: ["Thierry Allemand", "Domaine Allemand"]
 country: France
 region: Rhône
 sub_region: Cornas
-appellations: []
+appellations: ["Cornas AOC"]
 farming:
+- organic
 - natural
+- biodynamic
 certifications: []
 importer_us:
 - Kermit Lynch
@@ -174,8 +176,34 @@ _Not yet populated._
 
 _Not yet populated._
 
+## Notes
+
+**Thierry Allemand** is a celebrated natural-wine pioneer and ultra-minimalist winemaker in Cornas (Northern Rhône), recognized as producing "one of the purest expressions of Syrah in the Northern Rhône" through biodynamic farming and near-zero sulfite winemaking.
+
+**Philosophy & Approach.** Allemand operates at the extreme end of natural winemaking: biodynamic viticulture, wild-yeast fermentation, and minimal (often zero) added sulfites — bottlings explicitly labeled "Sans Soufre." This radical approach demands perfect fruit quality and meticulous cellar technique; the payoff is wines of remarkable purity and mineral expression that reward extended cellaring.
+
+**Winemaking & Signature Style.** Allemand's wines are structured for long-term aging:
+- 2015 Cornas described as "built for the long haul" — requiring 15-20+ year cellaring (guidance: cellar until 2035+)
+- Minimal oak intervention; focus on native yeast fermentation and natural maturation
+- Sans Soufre expressions achieve remarkable stability through rigorous sanitation and perfect fruit
+- Wines described as "ethereal" and "elegant" (per Berserkers collectors), distinguishing Allemand from heavier Cornas expressions
+
+**Portfolio.** The domaine produces multiple cuvées, including:
+- **Reynard** — a specific cuvée bottling mentioned in Berserkers discussions
+- **Sans Soufre expressions** — zero-sulfite bottlings for collectors comfortable with that minimal intervention
+- Multiple vineyard parcel selections
+
+**Recent History & Continuity.** Thierry Allemand faced potential retirement in the mid-2010s; however, he recently re-married and his son has renewed interest in the domaine (with work experience at JL Chave under his belt). This succession clarifies the estate's future and suggests continued production of Allemand's signature wines into the next generation.
+
+**Community Recognition.** Allemand ranks #83 in Berserkers' "Top 10 Producers in Cellar" (14 mentions), placing him among the most-respected natural-wine Cornas producers in serious collector circles. Multiple Berserkers posts cite Allemand among the finest 2015 Northern Rhône Syrah expressions, recommended for cellar (not immediate drinking).
+
+**Critic Reception.** CSW has carried Allemand since 2006 (20-year relationship), with cellar-pick designation — indicating sustained enthusiasm and founder-level confidence. The retailer's extended coverage and premium positioning reflect Allemand's status as a benchmark producer.
+
+**Regional Significance.** Allemand exemplifies Cornas' transformation from anonymous regional Syrah to collectible, age-worthy wine through biodynamic farming and natural winemaking. His influence on the appellation's quality trajectory is substantial; his wines are studied and compared by serious collectors.
+
 ## Cross-references
 
-- [[Rhône_Producers|Rhône]]
-- [[Cornas]]
-- [[CSW Article Archive]]
+- [[France_Producers|France]]
+- [[Rhône_Producers|Rhône Valley]]
+- [[Cornas|Cornas (appellation)]]
+- [[Kermit_Lynch|Kermit Lynch (importer)]]
