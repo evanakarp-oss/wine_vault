@@ -100,7 +100,7 @@ DECISION = {
     "steinmetz": 4,
     "melsheimer": 4,
     "laurent_barth": 4,
-    "beck-hartweg": 4,
+    "beck_hartweg": 4,
     "castro_ventosa": 4,
     # --- Burgundy (by level: GC/benchmark high, village mid) ---
     "domaine_leflaive": 10,

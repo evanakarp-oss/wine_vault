@@ -105,7 +105,6 @@ updated: 2026-07-24
 | [[agricola_tiberio|Agricola Tiberio]] | Italy | Abruzzo | 1 | — |
 | [[amelie_berthaut|Amélie Berthaut]] | France | Burgundy | 1 | 1 |
 | [[anthony_thevenet|Anthony Thevenet]] | France | Beaujolais | 1 | 12 |
-| [[boulay|Boulay]] | France | Loire | 1 | 2 |
 | [[castro_ventosa|Castro Ventosa]] | Spain | Bierzo | 1 | 1 |
 | [[ch_de_pibarnon|Ch de Pibarnon]] | France | Provence | 1 | — |
 | [[chateau_de_pibarnon|Chateau de Pibarnon]] | France | Provence | 1 | — |
@@ -118,6 +117,7 @@ updated: 2026-07-24
 | [[eric_et_joel_durand|Eric et Joel Durand]] | France | Rhône | 1 | — |
 | [[francois_chidaine|François Chidaine]] | France | Loire | 1 | 12 |
 | [[georges_vernay|Georges Vernay]] | France | Rhône | 1 | — |
+| [[boulay|Gérard Boulay]] | France | Loire | 1 | 2 |
 | [[istine|Istine]] | Italy | Tuscany | 1 | — |
 | [[jasmin|Jasmin]] | France | Rhône | 1 | 1 |
 | [[jean_masson|Jean Masson]] | France | Savoie | 1 | — |

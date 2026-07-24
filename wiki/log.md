@@ -1159,7 +1159,7 @@ California — Track-1 old-guard ([[dunn|Dunn]], [[corison|Corison]],
 [[philip_togni|Philip Togni]], [[matthiasson|Matthiasson]],
 [[anthill_farms|Anthill Farms]], [[beta|Beta]]) and Track-2 opulent/cult
 ([[bond|BOND]], [[harlan|Harlan]]); Burgundy growers ([[robert_chevillon|R.
-Chevillon]], [[simon_bize|Simon Bize]], [[hubert_lamy|Hubert Lamy]],
+Chevillon]], [[domaine_simon_bize|Simon Bize]], [[hubert_lamy|Hubert Lamy]],
 [[roulot|Roulot]], [[raveneau|Raveneau]], [[dauvissat|Dauvissat]],
 [[sauzet|Sauzet]]); Loire ([[huet|Huet]]); Champagne ([[cedric_bouchard|Cédric
 Bouchard]]); Ribera del Duero ([[dominio_del_aguila|Dominio del Águila]]); Oregon
@@ -1445,3 +1445,36 @@ Made the pipeline complete-by-construction:
   Vinicola Contini) and page-less producers (Galardi/Terra di Lavoro,
   Montevetrano). These need per-producer aliases/pages — a curation follow-up,
   by design (auction sources never auto-create pages).
+
+## [2026-07-24] merge | dedup 6 duplicate producers + disambiguate 3 surname collisions (lint 10 → 0)
+
+Cleared the 10 standing lint issues (2 duplicate_producer + 8
+csw_surname_collision). Two distinct root causes, handled differently:
+
+**Six true duplicates merged** (same producer, two pages — mostly the Campanale
+onboarding colliding with a fuller page from another source):
+- `beck-hartweg` → `beck_hartweg`. Kept the underscore slug but replaced its
+  body: the fuller page had the WRONG sub-region (Pfaffenheim) with hallucinated
+  Steinert/Eichberg grand-cru sections. Beck-Hartweg is Dambach-la-Ville — used
+  the correct CSW-sourced content from the hyphen page.
+- `simon_bize` → `domaine_simon_bize`; `gerard_boulay` → `boulay` (fixed name
+  "Boulay"→"Gérard Boulay", sub_region Chavignol, farming/importer/appellation +
+  Gillman quote); `domaine_charles_joguet` → `charles_joguet`;
+  `principiano` → `ferdinando_principiano`; `g_conterno` → `giacomo_conterno`.
+- Each canonical got the union of aliases (inline), importers, and `_sources`
+  (incl. `campanale_wine_book` for the two Campanale-cohort pages so cohort
+  membership survives). Inbound wikilinks repointed; `compile_aging_backfill.py`
+  decision-table slug fixed (`beck-hartweg`→`beck_hartweg`).
+
+**Three distinct producers disambiguated** (share a surname, NOT the same
+estate — do not merge): Andrea Occhipinti (Lazio) vs Arianna Occhipinti
+(Sicily); Jean-Maurice Raffault vs Domaine Olga Raffault (both Chinon, separate
+domaines); Legrand-Latour (Champagne) vs Louis Latour (Burgundy). Gave each
+page non-empty inline full-name aliases (dropping bare shared surnames) so the
+CSW matcher won't cross-attribute and the collision check clears.
+
+Follow-through: `compile_auction_ratings.py --apply` reattached the "G.
+Conterno" auction lots (Cascina Francia across W26/W28/W30) to
+`giacomo_conterno` — the scattered-ratings symptom flagged earlier is resolved.
+Regenerated rollups + ratings board + signals + index + views. Producers 829 →
+823. lint 10 → 0.

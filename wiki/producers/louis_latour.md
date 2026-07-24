@@ -2,7 +2,7 @@
 type: producer
 name: Louis Latour
 slug: louis_latour
-aliases: []
+aliases: ["Louis Latour", "Maison Louis Latour"]
 country: France
 region: Burgundy
 sub_region: Beaune

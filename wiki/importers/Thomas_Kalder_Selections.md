@@ -4,7 +4,7 @@ name: "Thomas Kalder Selections"
 slug: thomas_kalder_selections
 producer_count: 17
 focus: ['Alsace', 'Beaujolais', 'Burgundy', 'Catalonia', 'Champagne', 'Jura', 'Loire', 'Rhône', 'Valais']
-notable_producers: ['Vincent Paris', 'Stéphane Tissot', 'Barmès Buecher', 'Champagne Bénoit Déhu', 'Champagne Guiborat']
+notable_producers: ['Vincent Paris', 'Stéphane Tissot', 'Gérard Boulay', 'Barmès Buecher', 'Champagne Bénoit Déhu']
 updated: 2026-07-24
 ---
 
@@ -56,6 +56,7 @@ Fine wine importer representing exceptional grower-focused producers across Fran
 |---|---|---|---:|---:|
 | [[vincent_paris|Vincent Paris]] | France | Rhône | 50 | — |
 | [[stephane_tissot|Stéphane Tissot]] | France | Jura | 18 | — |
+| [[boulay|Gérard Boulay]] | France | Loire | 2 | — |
 | [[barmes_buecher|Barmès Buecher]] | France | Alsace | — | — |
 | [[benoit_dehu|Champagne Bénoit Déhu]] | France | Champagne | — | — |
 | [[champagne_guiborat|Champagne Guiborat]] | France | Champagne | — | — |
@@ -65,7 +66,6 @@ Fine wine importer representing exceptional grower-focused producers across Fran
 | [[domaine_du_collier|Domaine du Collier]] | France | Loire | — | — |
 | [[domaine_jean_royer|Domaine Jean Royer]] | France | Rhône | — | — |
 | [[domaine_pattes_loup|Domaine Pattes Loup]] | France | Burgundy | — | — |
-| [[gerard_boulay|Gérard Boulay]] | France | Loire | — | — |
 | [[jean_marc_burgaud|Jean-Marc Burgaud]] | France | Beaujolais | — | — |
 | [[jerome_prevost|La Closerie (Jérôme Prévost)]] | France | Champagne | — | — |
 | [[marie_therese_chappaz|Marie-Thérèse Chappaz]] | Switzerland | Valais | — | — |

@@ -6,9 +6,9 @@ producer_count: 16
 focus: ['Burgundy', 'Jura', 'Loire', 'Rhône', 'Sicily']
 notable_producers: ['Eric Texier', 'Julien Guillot / Vignes du Maynes', 'Arianna Occhipinti', 'Jacques Puffeney', 'Jean-François Ganevat']
 updated: 2026-07-24
+tags: ['natural', 'organic']
 _source: wiki/_resources.md
 url: "https://louisdressner.com"
-tags: ['natural', 'organic']
 ---
 # Louis
 

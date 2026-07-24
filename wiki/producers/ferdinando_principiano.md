@@ -2,7 +2,7 @@
 type: producer
 name: "Ferdinando Principiano"
 slug: ferdinando_principiano
-aliases: []
+aliases: ["Ferdinando Principiano", "Principiano"]
 country: "Italy"
 region: "Piedmont"
 sub_region: "Barolo (Serralunga)"
@@ -28,7 +28,7 @@ retailers:
   fass:
     in_portfolio: false
 tags: []
-_sources: ["short:short__Ferdinando_Principiano.md"]
+_sources: ["short:short__Ferdinando_Principiano.md", "campanale_wine_book"]
 ---
 
 # Ferdinando Principiano

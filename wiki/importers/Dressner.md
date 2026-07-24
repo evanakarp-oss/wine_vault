@@ -2,18 +2,18 @@
 type: importer
 name: "Dressner"
 slug: dressner
-producer_count: 17
+producer_count: 16
 focus: ['Burgundy', 'Jura', 'Loire', 'Rhône', 'Sicily']
 notable_producers: ['Eric Texier', 'Julien Guillot / Vignes du Maynes', 'Arianna Occhipinti', 'Jacques Puffeney', 'Jean-François Ganevat']
 updated: 2026-07-24
+tags: ['natural', 'organic']
 _source: wiki/_resources.md
 url: "https://louisdressner.com"
-tags: ['natural', 'organic']
 ---
 # Dressner
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**17 producer(s)** in the vault imported by Dressner (US).
+**16 producer(s)** in the vault imported by Dressner (US).
 
 | Producer | Country | Region | CSW | Cellar |
 |---|---|---|---:|---:|
@@ -24,7 +24,6 @@ tags: ['natural', 'organic']
 | [[jean_francois_ganevat|Jean-François Ganevat]] | France | Jura | 12 | — |
 | [[benoit_courault|Benoit Courault]] | France | Loire | 11 | — |
 | [[domaine_simon_bize|Domaine Simon Bize]] | France | Burgundy | 10 | — |
-| [[simon_bize|Domaine Simon Bize]] | France | Burgundy | 10 | — |
 | [[michel_gahier|Michel Gahier]] | France | Jura | 8 | — |
 | [[domaine_guillemot-michel|Domaine Guillemot-Michel]] | France | Burgundy | 7 | — |
 | [[domaine_de_la_tournelle|Domaine de la Tournelle]] | France | Jura | 6 | — |

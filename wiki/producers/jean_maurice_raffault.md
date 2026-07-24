@@ -2,7 +2,7 @@
 type: producer
 name: "Jean-Maurice Raffault"
 slug: jean_maurice_raffault
-aliases: ["Raffault"]
+aliases: ["Jean-Maurice Raffault"]
 country: "France"
 region: "Loire"
 sub_region: "Savigny-en-Véron"

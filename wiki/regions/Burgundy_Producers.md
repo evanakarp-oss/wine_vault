@@ -2,12 +2,12 @@
 type: region_index
 region: "Burgundy"
 updated: 2026-07-24
-producer_count: 104
+producer_count: 103
 ---
 
 # Burgundy — Producer Index
 
-**104 producers** tracked.
+**103 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -18,7 +18,6 @@ producer_count: 104
 | [[jean-claude_rateau|Jean-Claude Rateau]] | France | Beaune | 13 | — | — | — | — |
 | [[domaine_de_montille|Domaine de Montille]] | France | Volnay / Pommard | 11 | — | — | — | — |
 | [[domaine_simon_bize|Domaine Simon Bize]] | France | Savigny-lès-Beaune | 10 | — | — | — | — |
-| [[simon_bize|Domaine Simon Bize]] | France | Savigny-lès-Beaune | 10 | — | — | — | — |
 | [[sylvie_esmonin|Sylvie Esmonin]] | France | Gevrey-Chambertin | 8 | — | — | — | — |
 | [[chandon_de_briailles|Chandon de Briailles]] | France | Savigny / Pernand / Corton | 7 | — | 1 | — | — |
 | [[domaine_guillemot-michel|Domaine Guillemot-Michel]] | France | Mâcon-Viré | 7 | — | — | — | — |

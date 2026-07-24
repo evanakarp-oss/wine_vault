@@ -2,12 +2,12 @@
 type: region_index
 region: "Loire"
 updated: 2026-07-24
-producer_count: 40
+producer_count: 38
 ---
 
 # Loire — Producer Index
 
-**40 producers** tracked.
+**38 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -24,14 +24,13 @@ producer_count: 40
 | [[charles_joguet|Charles Joguet]] | France | Chinon (Sazilly) | 3 | — | — | — | — |
 | [[philippe_gilbert|Philippe Gilbert]] | France | Menetou-Salon | 3 | 6 | — | — | — |
 | [[arnaud_lambert|Arnaud Lambert]] | France | Saumur | 2 | — | 3 | — | — |
-| [[boulay|Boulay]] | France | '' | 2 | 1 | — | — | — |
+| [[boulay|Gérard Boulay]] | France | Chavignol | 2 | 1 | — | — | — |
 | [[catherine_pierre_breton|Catherine & Pierre Breton]] | France | Bourgueil / Chinon (Restigné) | 1 | — | — | — | — |
 | [[domaine_des_roches_neuves|Domaine des Roches Neuves]] | France | Saumur-Champigny | 1 | — | — | 0 | — |
 | [[marionnet|Domaine Marionnet]] | France | Sologne | 1 | — | — | — | — |
 | [[philippe_foreau|Philippe Foreau]] | France | Vouvray | 1 | 3 | — | — | — |
 | [[chateau_de_coulaine|Chateau de Coulaine]] | France | Cravant-les-Côteaux | — | — | — | — | — |
 | [[couly_dutheil|Couly-Dutheil]] | France | Chinon | — | — | — | — | — |
-| [[domaine_charles_joguet|Domaine Charles Joguet]] | France | Chinon | — | — | — | — | — |
 | [[domaine_de_la_butte|Domaine de la Butte]] | France | Bourgueil | — | — | — | — | — |
 | [[domaine_de_la_noblaie|Domaine de la Noblaie]] | France | Bourgueil | — | — | — | — | — |
 | [[domaine_de_pallus|Domaine de Pallus]] | France | Bourgueil | — | — | — | — | — |
@@ -40,7 +39,6 @@ producer_count: 40
 | [[domaine_fl|Domaine FL]] | France | Savennières | — | 1 | — | — | — |
 | [[domaine_guiberteau|Domaine Guiberteau]] | France | Saumur-Champigny | — | — | — | — | — |
 | [[freslier|Freslier]] | France | Bourgueil | — | — | — | — | — |
-| [[gerard_boulay|Gérard Boulay]] | France | Chavignol | — | — | — | — | — |
 | [[jean_maurice_raffault|Jean-Maurice Raffault]] | France | Savigny-en-Véron | — | — | — | — | — |
 | [[mabileau|Jean-Paul & Mathieu Mabileau]] | France | St-Nicolas-de-Bourgueil | — | — | — | — | — |
 | [[lame_delisle_boucard|Lamé Delisle Boucard]] | France | Touraine (Ingrandes-de-Touraine) | — | — | — | — | — |

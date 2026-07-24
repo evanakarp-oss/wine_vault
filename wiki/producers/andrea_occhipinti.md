@@ -2,7 +2,7 @@
 type: producer
 name: "Andrea Occhipinti"
 slug: andrea_occhipinti
-aliases: []
+aliases: ["Andrea Occhipinti"]
 country: "Italy"
 region: "Lazio"
 sub_region: "Lazio"

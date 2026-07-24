@@ -2,10 +2,7 @@
 type: producer
 name: "Domaine Olga Raffault"
 slug: olga_raffault
-aliases:
-  - "Olga Raffault"
-  - "Raffault"
-  - "Sylvie Raffault"
+aliases: ["Olga Raffault", "Domaine Olga Raffault", "Sylvie Raffault"]
 country: "France"
 region: "Loire"
 sub_region: "Chinon (Savigny-en-Véron)"

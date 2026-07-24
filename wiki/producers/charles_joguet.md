@@ -2,9 +2,7 @@
 type: producer
 name: "Charles Joguet"
 slug: charles_joguet
-aliases:
-  - "Joguet"
-  - "Domaine Joguet"
+aliases: ["Joguet", "Domaine Joguet", "Charles Joguet", "Domaine Charles Joguet"]
 country: "France"
 region: "Loire"
 sub_region: "Chinon (Sazilly)"
@@ -14,7 +12,7 @@ farming:
   - organic
 certifications: []
 
-importer_us: []
+importer_us: ["Polaner", "Kermit Lynch"]
 
 retailers:
   chambers:
@@ -36,6 +34,7 @@ retailers:
 tags: ["loire", "chinon", "cabernet-franc", "sazilly"]
 _sources:
   - csw_archive:the-wonderful-2009-chinons-from-bernard-and-matthieu-baudry-la-croix-boissee-has-arrived
+  - cellar_tracker
 ---
 
 # Charles Joguet

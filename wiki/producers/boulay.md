@@ -1,16 +1,17 @@
 ---
 type: producer
-name: Boulay
+name: "Gérard Boulay"
 slug: boulay
-aliases: []
+aliases: ["Gérard Boulay", "Gerard Boulay", "Boulay"]
 country: France
 region: Loire
-sub_region: ''
-appellations: []
-farming: []
+sub_region: "Chavignol"
+appellations: ["Sancerre AOC"]
+farming: ["organic"]
 certifications: []
 importer_us:
 - Polaner
+- Thomas Kalder Selections
 retailers:
   chambers:
     championed: false
@@ -36,9 +37,12 @@ retailers:
 tags: []
 _sources:
 - dte_jsx:dte_wines_1.jsx
+- thomas_kalder_selections
 ---
 
-# Boulay
+# Gérard Boulay
+
+> John Gillman (A View from the Cellar): "Gérard Boulay is clearly one of the finest vignerons in all of Sancerre these days … year in and year out, his lineup of stellar Sancerre bottlings are amongst the highlights of all the wines I taste for this annual report."
 
 _Seeded from Down to Earth (Panzer) portfolio. Not yet covered in CSW archive sweep._
 

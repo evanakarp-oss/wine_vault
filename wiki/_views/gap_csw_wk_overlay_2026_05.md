@@ -106,7 +106,7 @@ Sorted by CSW ★ to surface the highest-conviction "WK silent" picks first.
 | [[clos_du_joncuas|Clos du Joncuas]] | Gigondas (France) | 4 | 10 | 2014–2025 | — | biodynamic |
 | [[enderle__moll|Enderle & Moll]] | Baden | 4 | 7 | 2012–2025 | — | biodynamic |
 | [[stephane_magnien|Stéphane Magnien]] | Morey-Saint-Denis (France) | 4 | 6 | 2013–2025 | — | organic |
-| [[beck-hartweg|Beck-Hartweg]] | Dambach-la-Ville (France) | 4 | 4 | 2020–2026 | — | organic |
+| [[beck_hartweg|Beck-Hartweg]] | Dambach-la-Ville (France) | 4 | 4 | 2020–2026 | — | organic |
 | [[knebel|Knebel]] | Winningen (Germany) | 3 | 16 | 2008–2025 | — |  |
 | [[benoit_courault|Benoit Courault]] | Anjou (Loire) (France) | 3 | 11 | 2018–2025 | — | natural |
 | [[marguet|Marguet]] | Champagne | 3 | 10 | 2014–2025 | D |  |

@@ -44,7 +44,7 @@ Columns: ★ dedicated · total CSW articles · year span · also at retailers �
 | [[clos_du_joncuas|Clos du Joncuas]] | Gigondas (France) | 4 | 10 | 2014–2025 | — | — | — |
 | [[enderle__moll|Enderle & Moll]] | '' (Germany) | 4 | 7 | 2012–2025 | — | — | — |
 | [[stephane_magnien|Stéphane Magnien]] | Morey-Saint-Denis (France) | 4 | 6 | 2013–2025 | — | — | — |
-| [[beck-hartweg|Beck-Hartweg]] | '' (Germany) | 4 | 4 | 2020–2026 | — | — | — |
+| [[beck_hartweg|Beck-Hartweg]] | '' (Germany) | 4 | 4 | 2020–2026 | — | — | — |
 | [[domaine_lienhardt|Domaine Lienhardt]] | Côte de Nuits Villages (France) | 4 | 4 | 2017–2025 | — | — | — |
 | [[domaine_trapet|Domaine Trapet]] | Gevrey-Chambertin (France) | 4 | 4 | 2020–2026 | — | — | — |
 | [[knebel|Knebel]] | '' (Germany) | 3 | 16 | 2008–2025 | — | — | — |

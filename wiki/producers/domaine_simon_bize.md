@@ -2,7 +2,7 @@
 type: producer
 name: Domaine Simon Bize
 slug: domaine_simon_bize
-aliases: []
+aliases: ["Simon Bize", "Bize", "Simon Bize et Fils"]
 country: France
 region: Burgundy
 sub_region: Savigny-lès-Beaune
@@ -50,6 +50,7 @@ community:
 tags: []
 _sources:
 - short:short__Domaine_Simon_Bize.md
+- manual_onboard:2026-07-21
 berserkers_kelley_body:
   body_hit_count: 4
   distinct_topics: 4
@@ -154,6 +155,14 @@ berserkers_kelley_body:
 > *Reply to:* James Billy: Jeremy Holmes: They still need plenty of time. '08’s are starting to drink really well. Drink them while you wait Brad. I find 2008s still closed and acidic. Only…
 
 > For me, the real problem with the 2008s is not their acidity, but a correlate: a rusty, evolved quality to many of the wines. My speculation is that malos were sluggish due to high malic acids (an acknowledged fact), and that consequently the wines…
+
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Latricieres Chambertin | 2012 | Burghound | 91-94 | Reduction pushes the seemingly ripe fruit to the background. By contrast there is excellent freshness and energy to the more intensely mineral-driven, precise a… | 261W·W30 lot 28980 |
 
 ## Down to Earth Wines (Panzer)
 

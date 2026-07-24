@@ -1,21 +1,17 @@
 ---
 type: producer
-name: "Beck-Hartweg"
+name: Beck-Hartweg
 slug: beck_hartweg
-aliases:
-  - "Weingut Beck-Hartweg"
-country: "France"
+aliases: ["Florian Beck-Hartweg", "Mathilde Beck-Hartweg", "Domaine Beck-Hartweg", "Weingut Beck-Hartweg", "Beck-Hartweg"]
+country: France
 region: "Alsace"
-sub_region: "Pfaffenheim"
-appellations:
-  - "Alsace Grand Cru"
+sub_region: "Dambach-la-Ville (Bas-Rhin)"
+appellations: ["Alsace AOC"]
 farming:
-  - "biodynamic"
-certifications:
-  - "Demeter"
-importer_us:
-  - "Jenny & François"
-  - "Skurnik"
+- organic
+- biodynamic
+certifications: []
+importer_us: ["Jenny & François"]
 retailers:
   chambers:
     championed: true
@@ -23,6 +19,8 @@ retailers:
     dedicated_count: 4
     first_year: 2020
     last_year: 2026
+    aging_score: 4
+    cellar_pick: false
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -32,95 +30,17 @@ retailers:
     in_portfolio: false
   fass:
     in_portfolio: false
-tags:
-  - "alsace"
-  - "biodynamic"
-  - "demeter-certified"
-  - "organic"
-  - "riesling"
-  - "pinot-gris"
-  - "grand-cru"
-  - "natural-wine"
+  berserkers_kelley:
+    post_count: 0
+    first_year: 0
+    last_year: 0
+    latest_post: ''
+tags: []
+_sources:
+- short:short__Beck-Hartweg.md
 ---
 
 # Beck-Hartweg
-
-Beck-Hartweg (Weingut Beck-Hartweg) represents Alsatian biodynamic winemaking at its most thoughtful: a small, Demeter-certified estate in Pfaffenheim working Grand Cru vineyard sites (Steinert and Eichberg) with commitment to terroir expression through organic and biodynamic farming, minimal-intervention winemaking, and respect for Alsatian tradition while embracing natural-wine philosophy.
-
-## Alsatian Context: Biodynamics & Grand Cru
-
-Alsace occupies a unique position in French wine: geographically and culturally tied to German winemaking traditions, yet administratively part of France. This creates a distinctive aesthetic: Alsatian wines often follow German patterns (off-dry Riesling, emphasis on fruity expressions) while marketed under French AOC regulations.
-
-Beck-Hartweg represents a countercultural moment in Alsace: the shift toward biodynamic/organic farming and natural-wine production in a region traditionally dominated by conventional viticulture and commercial-scale production. The estate's Demeter certification reflects commitment to regenerative farming far more rigorous than most Alsatian neighbors.
-
-## Vineyard Sites: Steinert & Eichberg Grand Crus
-
-Beck-Hartweg works two prestigious Alsace Grand Cru designations:
-
-**Steinert** (Pfaffenheim Grand Cru) — sandy clay and limestone soils; produces refined, mineral-driven Rieslings with good aging potential. Steinert is one of Alsace's most elegant terroirs, favoring aromatic purity over power.
-
-**Eichberg** (Eguisheim Grand Cru) — limestone-dominant soils with clay substrate; typically yields richer, more structured wines than Steinert. Eichberg Rieslings show more stone fruit and spice character.
-
-These Grand Cru designations place Beck-Hartweg among Alsace's most serious producers; the classification system ensures that wines carry prestigious regional validation.
-
-## Biodynamic Farming & Demeter Certification
-
-Beck-Hartweg practices **certified-Demeter biodynamic agriculture**, the most rigorous standard. Certification involves:
-- Complete synthetic-chemical elimination
-- Moon-cycle planting and harvesting protocols
-- Biodynamic compost preparations (fermented plant/animal materials) applied to soils
-- Livestock integration and pasture management
-- Annual third-party audits
-
-This commitment has transformed vineyard health: soils show increased earthworm populations and microbial biodiversity compared to conventional Alsatian vineyards.
-
-## Winemaking: Alsatian Tradition Meets Natural Wine
-
-Beck-Hartweg's winemaking combines Alsatian tradition (off-dry Riesling, aromatic variety focus) with natural-wine methods (wild fermentation, minimal intervention):
-
-**Key Practices:**
-- **Wild yeast fermentation** — no commercial inoculants; fermentation proceeds from ambient vineyard/cellar microbes
-- **Residual sugar management** — fermentations sometimes stop naturally at 10-20 g/L residual sugar (partially dry style), reflecting Alsatian tradition while maintaining natural process
-- **Minimal sulfites** — sulfur dioxide added sparingly, reflecting natural-wine philosophy
-- **Unfined & unfiltered** — wines retain natural cloudiness from fine lees
-- **Extended aging** — wines spend 12+ months in old casks or concrete, developing complexity
-
-**Style:** Beck-Hartweg's Rieslings emphasize aromatic purity, mineral character, and subtle residual sweetness (if present) that balances acidity. They are food-friendly while retaining complexity for serious collectors.
-
-## Production Scale & Economics
-
-Production is modest (40,000-60,000 bottles annually), allowing personal oversight and sustainable economics. The small scale enables focus on quality rather than volume.
-
-## Regional Position & Critical Reception
-
-Beck-Hartweg has achieved respected position among Alsatian biodynamic producers:
-- Recognition by natural-wine communities in France and internationally
-- Presence in European natural-wine markets and specialist retailers
-- Endorsement by biodynamic/organic certification bodies
-- Strong importation to US through Jenny & François and Skurnik networks
-
-## US Importation & Availability
-
-Distributed through Jenny & François (historic Alsace importer) and Skurnik (contemporary natural-wine network). Distribution is selective, primarily through independent retailers with strong French/natural-wine focus.
-
-## Cellar Fit & Taste Alignment
-
-**Good fit.** Beck-Hartweg exemplifies:
-- **Biodynamic-certified:** Demeter certification reflects genuine regenerative-farming commitment
-- **Terroir-driven:** Alsace Grand Cru sites are worked with minimal intervention
-- **Grower-scale:** Small production, personal oversight
-- **Aromatic focus:** Riesling and Pinot Gris emphasize varietal character and mineral expression
-- **Food-wine compatibility:** Partial-dry style suits table accompaniment
-
-Beck-Hartweg's Alsatian context (somewhat distinct from German terroir-focus) and partial-dry style (different from Evan's preference for dry German Riesling) make the fit "good" rather than "excellent" — but the biodynamic commitment and Grand Cru terroir work place it solidly in alignment.
-
-## Cross-references
-
-- [[France_Producers|France]]
-- [[Alsace_Producers|Alsace]]
-- [[Pfaffenheim|Pfaffenheim (village)]]
-- [[Jenny_and_Francois|Jenny & François (importer)]]
-- [[Skurnik|Skurnik (importer)]]
 
 ## CSW Write-ups
 
@@ -144,3 +64,44 @@ Beck-Hartweg's Alsatian context (somewhat distinct from German terroir-focus) an
 
 > 1/7/20 - Whenever I begin speaking about Alsace, I never fail to mention that the region sees over 300 days of sunshine a year. This helps to explain why Alsatians are so friendly and also why the area is so well-suited for making natural wines. Organic and…
 
+## Down to Earth Wines (Panzer)
+
+_Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._
+
+## Raeder's
+
+_Not yet populated._
+
+## FASS
+
+_Not yet populated._
+
+## Notes
+
+**Beck-Hartweg** (Florian and Mathilde Beck-Hartweg) is a young Alsatian natural-wine producer pioneering "terroir-expression" winemaking — moving deliberately away from traditional Alsatian varietal-specific bottlings toward parcel-based blends that capture the intense minerality and granite character of Dambach-la-Ville.
+
+**Founders & Background.** Florian and Mathilde Beck-Hartweg are contemporary winemakers based in Dambach-la-Ville (Bas-Rhin, central Alsace), a granite-dominant terroir. They represent the new generation of Alsatian winemakers influenced by the broader natural-wine movement, prioritizing soil health and terroir expression over commercial consistency.
+
+**Farming Philosophy.** Beck-Hartweg practices organic viticulture with an innovative recent shift in soil management:
+- **Traditional plowing abandoned** — replaced with the "rollofaquer," an organic cover-crop tool that pushes over plants rather than tilling, protecting soil humidity and enhancing biodiversity
+- **Granite terroir focus** — the domaine benefits from a concentrated granite geological zone around Dambach-la-Ville that imparts "fascinating and scintillating minerality and salinity" to finished wines
+- **Minimal input mentality** — building toward natural-wine practices while maintaining quality control
+
+**Winemaking Evolution.** Beck-Hartweg has undergone a significant philosophical shift over the past decade:
+- **Large old barrels** (1000-1500L capacity) for aging, favoring passive oxygen exchange and mineral expression over new-oak influence
+- **Minimal sulfur use** — reducing preservative reliance while managing oxidative risk through careful cellar technique
+- **Parcel-specific blending over varietals** — the signature innovation. Rather than bottling separate Riesling, Pinot Gris, and Pinot Noir from the same granite parcel (traditional Alsatian approach), Beck-Hartweg now produces a single bottling, "Granite," blending all grapes from that parcel. The result: a wine that "expresses the intense granitic structure and spice" more clearly than varietal separation would allow.
+
+**Key Wines.** The portfolio emphasizes terroir-transparent expression:
+- **Granite** — signature bottling; blend of Riesling, Pinot Gris, Pinot Noir from specific granitic parcel; "scintillating minerality and salinity"
+- Multiple single-parcel expressions emphasizing soil character over grape variety
+
+**Reputation & Community.** Beck-Hartweg has "quietly grown a loyal and passionate fan base" in New York since first arriving in the American market a few years ago. CSW repeatedly features the producers (4 dedicated articles spanning 2020-2026), describing them as "our friends" and "old friends" — indicating sustained relationship and philosophical alignment with the retailer's natural-wine preferences.
+
+**Regional Position.** Beck-Hartweg exemplifies modern Alsatian natural winemaking: granite-terroir focused, parcel-expression prioritized, minimal intervention, biodynamic-leaning practices. The move away from varietal-bottling to terroir-blending is philosophically significant, representing a rejection of Alsatian commercial tradition in favor of transparency and individual-site expression.
+
+## Cross-references
+
+- [[France_Producers|France]]
+- [[Alsace_Producers|Alsace]]
+- [[Dambach-la-Ville|Dambach-la-Ville (village)]]

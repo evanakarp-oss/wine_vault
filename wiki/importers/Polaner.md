@@ -6,9 +6,9 @@ producer_count: 31
 focus: ['Beaujolais', 'Burgundy', 'California', 'Champagne', 'Loire', 'Marche', 'Piedmont', 'Rhône', 'Tuscany']
 notable_producers: ['Vincent Paris', 'Domaine Baudry', 'Stéphane Guion', 'Domaine de la Chevalerie', 'Gilles / Jean / Maxime Lafouge']
 updated: 2026-07-24
+tags: []
 _source: wiki/_resources.md
 url: "https://polanerselections.com"
-tags: []
 ---
 # Polaner
 
@@ -35,15 +35,15 @@ tags: []
 | [[domaine_boisson|Domaine Boisson]] | France | Burgundy | 4 | — |
 | [[domaine_trapet|Domaine Trapet]] | France | Burgundy | 4 | — |
 | [[cascina_delle_rose|Cascina delle Rose]] | Italy | Piedmont | 3 | 1 |
+| [[charles_joguet|Charles Joguet]] | France | Loire | 3 | — |
 | [[trediberri|Trediberri]] | Italy | Piedmont | 3 | — |
-| [[boulay|Boulay]] | France | Loire | 2 | — |
+| [[boulay|Gérard Boulay]] | France | Loire | 2 | — |
 | [[montenidoli|Montenidoli]] | Italy | Tuscany | 2 | — |
 | [[georges_glantenay|Georges Glantenay]] | France | Burgundy | 1 | — |
 | [[goisot|Goisot]] | France | Burgundy | 1 | — |
 | [[larmandier_bernier|Larmandier Bernier]] | France | Champagne | 1 | — |
 | [[chateau_de_coulaine|Chateau de Coulaine]] | France | Loire | — | — |
 | [[collestefano|Collestefano]] | Italy | Marche | — | — |
-| [[domaine_charles_joguet|Domaine Charles Joguet]] | France | Loire | — | — |
 | [[jean_maurice_raffault|Jean-Maurice Raffault]] | France | Loire | — | — |
 | [[julien_sunier|Julien Sunier]] | France | Beaujolais | — | — |
 | [[sigaut|Sigaut]] | France | Burgundy | — | — |

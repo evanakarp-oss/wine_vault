@@ -4,15 +4,15 @@ name: "Chambers Street Wines"
 slug: chambers
 url: "https://chambersstwines.com"
 location: "NYC"
-producer_count: 266
+producer_count: 264
 updated: 2026-07-24
-_source: wiki/_resources.md
 tags: []
+_source: wiki/_resources.md
 ---
 # Chambers Street Wines
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**266 producers** from this retailer are tracked in the wiki.
+**264 producers** from this retailer are tracked in the wiki.
 
 ## Most-championed producers
 
@@ -53,7 +53,6 @@ tags: []
 | [[clos_du_joncuas|Clos du Joncuas]] | 4 | 10 | 2014 | 2025 |
 | [[enderle__moll|Enderle & Moll]] | 4 | 7 | 2012 | 2025 |
 | [[rapet_pere_et_fils|Rapet Père et Fils]] | 4 | 7 | 2007 | 2026 |
-| [[beck-hartweg|Beck-Hartweg]] | 4 | 4 | 2020 | 2026 |
 | [[beck_hartweg|Beck-Hartweg]] | 4 | 4 | 2020 | 2026 |
 | [[domaine_lienhardt|Domaine Lienhardt]] | 4 | 4 | 2017 | 2025 |
 | [[domaine_trapet|Domaine Trapet]] | 4 | 4 | 2020 | 2026 |
@@ -68,6 +67,7 @@ tags: []
 | [[domaine_levet|Domaine Levet]] | 3 | 6 | 2014 | 2025 |
 | [[elio_sandri|Elio Sandri]] | 3 | 6 | 2021 | 2025 |
 | [[matthiasson|Matthiasson]] | 3 | 6 | 2013 | 2025 |
+| [[monte_bernardi|Monte Bernardi]] | 3 | 6 | 2014 | 2026 |
 
 *Compiled by `scripts/build_rollups.py`.*
 <!-- END AUTO-GENERATED -->

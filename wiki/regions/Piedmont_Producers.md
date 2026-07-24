@@ -2,12 +2,12 @@
 type: region_index
 region: "Piedmont"
 updated: 2026-07-24
-producer_count: 48
+producer_count: 46
 ---
 
 # Piedmont — Producer Index
 
-**48 producers** tracked.
+**46 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -44,7 +44,6 @@ producer_count: 48
 | [[fabio_gea|Fabio Gea]] | Italy | Piedmont | — | — | — | — | — |
 | [[fernando_vietti|Fernando Vietti]] | Italy | Alto Piemonte | — | — | — | — | — |
 | [[g_rinaldi|G Rinaldi]] | Italy | Piedmont | — | — | — | — | — |
-| [[g_conterno|G. Conterno]] | Italy | Piedmont | — | — | — | — | — |
 | [[gaja|Gaja]] | Italy | Barbaresco / Barolo | — | — | 30 | — | — |
 | [[gb_burlotto|GB Burlotto]] | Italy | Piedmont | — | — | — | — | — |
 | [[giordano_lombardo|Giordano Lombardo]] | Italy | Alba | — | — | — | — | — |
@@ -52,7 +51,6 @@ producer_count: 48
 | [[mascarello|Mascarello]] | Italy | Piedmont | — | — | — | — | — |
 | [[negri_giulia|Negri (Giulia)]] | Italy | Piedmont | — | — | — | — | — |
 | [[pianelle|Pianelle]] | Italy | Alto Piemonte | — | 6 | — | — | — |
-| [[principiano|Principiano]] | Italy | Piedmont | — | — | — | — | — |
 | [[produttori|Produttori]] | Italy | Piedmont | — | — | — | — | — |
 | [[san_fereolo|San Fereolo]] | Italy | Piedmont | — | — | — | — | — |
 | [[sottimano|Sottimano]] | Italy | — | — | 12 | — | — | — |

@@ -2,8 +2,7 @@
 type: producer
 name: "Legrand-Latour"
 slug: legrand_latour
-aliases: 
-- Legrand Latour
+aliases: ["Legrand Latour", "Legrand-Latour"]
 country: "France"
 region: "Champagne"
 sub_region: ""

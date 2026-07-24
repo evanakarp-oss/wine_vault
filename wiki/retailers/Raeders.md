@@ -6,8 +6,8 @@ url: "https://www.raederswine.com"
 location: ""
 producer_count: 59
 updated: 2026-07-24
-_source: wiki/_resources.md
 tags: []
+_source: wiki/_resources.md
 ---
 # Raeder's
 

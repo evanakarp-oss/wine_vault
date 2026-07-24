@@ -6,9 +6,9 @@ producer_count: 31
 focus: ['Burgundy', 'Jura', 'Mendoza', 'Mosel', 'Nahe', 'Patagonia', 'Piedmont', 'Provence', 'Rhône']
 notable_producers: ['Peter Lauer / Weingut Lauer', 'Clemens Busch', 'Stéphane Tissot', 'Knebel', 'Weiser-Künstler']
 updated: 2026-07-24
+tags: ['grower', 'grower-champagne']
 _source: wiki/_resources.md
 url: "https://www.skurnik.com"
-tags: ['grower', 'grower-champagne']
 ---
 # Skurnik
 
