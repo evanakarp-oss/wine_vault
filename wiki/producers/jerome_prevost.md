@@ -23,6 +23,15 @@ _sources: ["thomas_kalder_selections"]
 
 Cumières-based grower Champagne house producing singular, mineral-driven Brut Nature cuvées. Antonio Galloni called this champagne "the ultimate expression of Champagne as wine," emphasizing how Prévost's approach prioritizes terroir over dosage/manipulation.
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Jerome Prevost Champagne La Closerie Fac-Simile, Rose | NV | — | 93 | ...is flat-out beautiful. Crushed flowers, red berries, minerals and spices meld together beautifully in this striking, utterly pure rose Champagne. | 261W·W2026-06 lot 24257 |
+| Jerome Prevost Champagne La Closerie, Les Beguines, Extra Brut | NV | — | 94 | Layers of vibrant, perfumed fruit flow across the palate in this chiseled, beautifully articulated wine. Floral notes round out the sublime, eternal finish. | 261W·W2026-06 lot 24259 |
+
 ## Notes
 
 Small-scale organic viticulture in Cumières (classified 1er Cru) on chalk-heavy soils. Prévost crafts exclusively vintage-dated, non-disgorged Brut Nature wines built for 10-20 year evolution. Minimal intervention philosophy—natural fermentations, extended aging on lees, no malolactic. The result is tensioned, mineral-driven expression of Chardonnay/Pinot Noir that rewards cellaring and reveals complexity with bottle age.

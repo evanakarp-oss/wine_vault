@@ -164,6 +164,21 @@ _sources:
 
 > I certainly am. Just forget it until 2035, unfortunately. I would say the same about the Allemand 2015s, too. Tasted them with Thierry last week and, as you experienced, they are built for the long haul. But the Clape and Allemand 2015s are very…
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Cornas Chaillot | 2009 | — | 94 | ...is a thrilling effort that does everything right. Inky purple in color and offering up notions of sweet cassis, liquid violets, liquefied herbs, graphite and… | 261W·W26 lot 25807 |
+| Cornas Chaillot | 2018 | Vinous | 95-97 | Sharply delineated dark fruit preserve, exotic spice, licorice, olive paste and succulent floral qualities on the hugely perfumed nose. Stains the palate with a… | 261W·W26 lot 26059 |
+| Cornas Chaillot | 2019 | Vinous | 95-97 | Suave, mineral-driven scents of fresh blackberry, cassis and exotic spices are accompanied by a building floral nuance. | 265DE·W2026-06 lot 1022 |
+| Cornas Reynard | 2004 | Vinous | 95 | Dark purple. Ripe, potent cassis and blueberry scents, with a striking floral quality. Lush and creamy, showing impressively pure dark fruit flavors, juicy acid… | 261W·W2026-06 lot 24431 |
+| Cornas Reynard | 2011 | Vinous | 93-94 | Opaque purple. Spicy, highly perfumed aromas of cassis, blueberry, candied violet and smoky minerals. Densely packed, fresh and delineated, offering energetic f… | 261W·W26 lot 25808 |
+| Cornas Reynard | 2014 | Burghound | 94 | outhful violet. Intense, mineral-accented aromas of blackberry and boysenberry, joined by suave Indian spice and incense notes as the wine opens up. Youthfully… | 261W·W26 lot 26060 |
+| Cornas Reynard | 2016 | Vinous | 96-98 | Dark purple. A hugely aromatic bouquet evokes ripe black and blue fruits, candied flowers, Indian spices and a hint of olive. Silky and focused on the palate, o… | 261W·W30 lot 29061 |
+| Cornas Reynard | 2017 | Vinous | 96 | Glass-staining ruby. Powerful, deeply perfumed aromas of black and blue fruit liqueur, licorice, smoked meat and olive, along with a sexy floral overtone that g… | 261W·W26 lot 26151 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._

@@ -73,16 +73,25 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
-| Barbaresco | 1997 | Wine Spectator | 95 | Super Barbaresco. Intense aromas of ripe plums, violets and berries lead to a full-bodied palate with chewy tannins. | 261W·W30 lot 28877 |
+| Barbaresco | 1997 | Wine Spectator | 95 | Super Barbaresco. Intense aromas of ripe plums, violets and berries lead to a full-bodied palate with chewy tannins. | 261W·W25 lot 25004 |
+| Barbaresco | 1998 | — | 91 | The 1998 Barbaresco is a beautiful effort displaying fleshy, oaky, deep black cherry, raspberry, tar, and truffle scents with subtle new oak in the background.… | 261W·W25 lot 24789 |
+| Barbaresco | 2004 | Vinous | 95 | The 2004 Barbaresco is at the beginning of what promises to be a long drinking window. Hints of cedar, cinnamon, earthiness and wild flowers open up in the glas… | 261W·W25 lot 25005 |
+| Barbaresco | 2012 | — | 91 | The nose shows dark fruit follow by cola, garden herb and white pepper. The mouthfeel is silky and firm and edgy. | 261W·W25 lot 25364 |
+| Barbaresco | 2015 | Vinous | 94 | Gaja's 2015 Barbaresco is gorgeous. Deep, pliant and resonant, the 2015 exudes class from the very first taste. Today, the aromatics are not especially open or… | 261W·W25 lot 25336 |
+| Barbaresco | 2018 | — | 94+ | Some of the flashiness we saw in the past is today replaced by subtle Nebbiolo nuances and finesse, with crushed flowers, coriander, wild berry, smoke, tar and… | 261W·W29 lot 28854 |
 | Barbaresco | 2019 | — | 95+ | The 2019 Barbaresco is striking and beautiful as a result, with enormous depth and clarity. This is a generous wine with ample structure, lots of vibrant acidit… | 261W·W30 lot 29185 |
 | Barbaresco | 2021 | Wine Advocate | 96 | WA 96 JD 97 JS 95 This was an epic vintage, and the entire Gaja family is ready to sing its praises. The 2021 Barbaresco sets the tone with sweet cherry flavors… | Raeders 2026-04-25 |
 | Barbaresco | 2021 | James Suckling | 95 |  | Raeders 2026-04-25 |
 | Barbaresco | 2021 | Wine Spectator | 95 |  | Raeders 2026-04-25 |
 | Barbaresco | 2021 | Wine Enthusiast | 95 |  | Raeders 2026-04-25 |
+| Barbaresco Costa Russi | 2003 | Wine Spectator | 94 | Plenty of fresh blackberry and cherry aromas follow through to a full-bodied palate, with fine tannins and a chewy finish. Well-structured for the vintage. Very… | 261W·W25 lot 25326 |
 | Barbaresco Costa Russi | 2020 | James Suckling | 97 |  | Raeders 2026-04-25 |
 | Barbaresco Costa Russi | 2020 | Wine Spectator | 95 |  | Raeders 2026-04-25 |
 | Barbaresco Sori San Lorenzo | 1997 | — | 98 | ...is an elegant, nuanced, and complex Gaja offering. It exhibits a striking perfume of lead pencil, roasted nuts, black fruits, spice box, leather, cedar, and… | 261W·W30 lot 29186 |
 | Barbaresco Sori San Lorenzo | 2000 | Wine Spectator | 97 | Serious dark color, with meaty, earthy aromas that blow off to ultraripe and exotic fruit. Fresh truffles and porcini. Almost Port-like in the end. Full-bodied,… | 261W·W30 lot 29187 |
+| Barbaresco Sori San Lorenzo | 2015 | Vinous | 94 | The 2015 Barbaresco Sor San Lorenzo is endowed with serious concentration and power. In 2015, some of the site signatures that make Sor San Lorenzo so distincti… | 261W·W29 lot 28855 |
+| Barbaresco Sori Tildin | 1978 | JK | 94 | The 1978 Gaja Sori Tilden had browned sugar fruit with tobacco and nutty aromas along with oat and the meal. Its palate was creamy, medium-bodied in a nice way,… | 261W·W2026-06 lot 24440 |
+| Barbaresco Sori Tildin | 1996 | — | 96 | It is hard to argue with those who claim that the finest of these single-vineyard offerings is always the Sori Tilden. The 1996 Sori Tilden reveals a pigmented/… | 261W·W25 lot 25327 |
 | Barbaresco Sori Tildin | 2000 | Vinous | 96 | The 2000 Sor Tild n is like cashmere on the palate. Sweet red berries, flowers, mint and spices flow effortlessly from this beautifully detailed, nuanced wine.… | 261W·W30 lot 29188 |
 | Barolo Conteisa | 2018 | Wine Advocate | 96 | D 95 JS 96 The Gaja 2018 Barolo Conteisa shows very nicely, with ripe aromas of plum, strawberry, grilled herb and chamomile flower. Give the wine time and it s… | Raeders 2026-04-25 |
 | Barolo Conteisa | 2018 | James Suckling | 96 |  | Raeders 2026-04-25 |
@@ -95,10 +104,14 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 | Barolo Langhe Sperss | 2018 | Wine Spectator | 94 |  | Raeders 2026-04-25 |
 | Barolo Langhe Sperss | 2019 | Wine Advocate | 98 |  | Raeders 2026-04-25 |
 | Barolo Langhe Sperss | 2019 | Wine Enthusiast | 97 |  | Raeders 2026-04-25 |
+| Barolo Sperss | 1996 | Vinous | 97 | The flavors are dark, with plenty of melted road tar, lavender, smoke and gravel undertones that add shades of nuance to this potent and imposing Serralunga win… | 261W·W25 lot 25006 |
+| Barolo Sperss | 1998 | Vinous | 95 | Dark tar, smoke, leather, spices, menthol and black cherries all make an appearance in this muscular, full-throttle wine. | 261W·W25 lot 24790 |
 | Barolo Sperss | 2001 | Vinous | 95 | More muscular than the Conteisa, the dark and brooding 2001 Sperss displays much Serralunga character in its complex nose of tar, licorice, underbrush and new o… | 261W·W30 lot 29190 |
 | Brunello di Montalcino Rennina | 2018 | Wine Advocate | 94 |  | Raeders 2026-04-25 |
 | Brunello di Montalcino Rennina | 2018 | James Suckling | 94 |  | Raeders 2026-04-25 |
 | Brunello di Montalcino Rennina | 2018 | Wine Spectator | 94 |  | Raeders 2026-04-25 |
+| Darmagi | 1998 | Vinous | 91 | Saturated medium ruby. Very cabernet aromas of cassis, licorice, smoked meat and game, with hints of truffle, pepper, shoe polish and mint. Rich, sweet and plia… | 261W·W25 lot 24791 |
+| Darmagi Cabernet Sauvignon | 1985 | Wine Spectator | 94 | Dense and concentrated, starting out very firm and tannic but opening up magically on the finish with a burst of plum, berry, leather and toast flavors that ech… | 261W·W25 lot 24795 |
 | Idda Etna Blanco | 2023 | Wine Advocate | 93 |  | Raeders 2026-04-25 |
 | Idda Etna Blanco | 2023 | James Suckling | 92 |  | Raeders 2026-04-25 |
 | Idda Etna Blanco | 2023 | Wine Spectator | 92 |  | Raeders 2026-04-25 |

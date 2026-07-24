@@ -104,6 +104,15 @@ deep dive ([[../_views/wb_northern_rhone_tour_2026_06|view]]).
 
 _None owned yet._
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Cote Rotie | 1988 | — | 95 | This is a profound example of Cote Rotie. | 261W·W25 lot 25124 |
+| Cote Rotie | 1998 | — | 93 | From a vintage that was cooler in the northern part of the Northern Rhone than in the south, the 1998 Cote Rotie offers searing notes of pepper, tobacco leaf, f… | 261W·W26 lot 25806 |
+
 ## Cross-references
 
 - [[Rhône_Producers|Rhône]]

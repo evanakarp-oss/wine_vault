@@ -95,10 +95,17 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
-| Louis Roederer Champagne Collection 242 | NV | — | 92 | ...offering up aromas of pear, orange zest, white flowers, almonds and hazelnuts. Medium to full-bodied, ample and fleshy, with racy acids and a bright, saline… | 261W·W30 lot 28867 |
-| Louis Roederer Vintage Champagne Cristal | 2007 | Vinous | 97+ | The aromatics alone are captivating, but then the wine opens on the palate, revealing layer after layer of flavor to match a multi-dimensional, kaleidoscopic pe… | 261W·W30 lot 29406 |
+| Louis Roederer Champagne Brut | NV | Vinous | 92 | ... ripe pears, smoke, spices, dried flowers and herbs are some of the many nuances that emerge from the glass. | 261W·W29 lot 28830 |
+| Louis Roederer Champagne Collection 242 | NV | — | 92 | ...offering up aromas of pear, orange zest, white flowers, almonds and hazelnuts. Medium to full-bodied, ample and fleshy, with racy acids and a bright, saline… | 261W·W29 lot 28865 |
+| Louis Roederer Vintage Champagne Cristal | 1990 | — | 97 | The Louis Roederer 1990 Cristal is awesome! A classic of power and finesse, richness and delicacy, it may be the greatest Cristal I have ever tasted!... | 265DE·W2026-06 lot 748 |
+| Louis Roederer Vintage Champagne Cristal | 1993 | RJ | 93 | Steely and hard, but with unmistakable Cristal tones. The fruit is rich with tones of caramel and Granny Smith. The taste and mousse are always luxuriously clea… | 261W·W25 lot 24768 |
+| Louis Roederer Vintage Champagne Cristal | 2005 | — | 93 | ...stands out for its exceptional inner perfume and elegance. Soft, delicate and pretty, the 2005 is a relatively immediate Cristal with all of the signatures v… | 261W·W2026-06 lot 24534 |
+| Louis Roederer Vintage Champagne Cristal | 2007 | Vinous | 97+ | The aromatics alone are captivating, but then the wine opens on the palate, revealing layer after layer of flavor to match a multi-dimensional, kaleidoscopic pe… | 261W·W26 lot 25641 |
 | Louis Roederer Vintage Champagne Cristal | 2009 | Vinous | 96 | ...captures all of the natural generosity of the vintage while also retaining a good bit of freshness and aromatic intensity. Immediate and totally sensual in i… | 261W·W30 lot 29407 |
 | Louis Roederer Vintage Champagne Cristal | 2014 | Vinous | 98 | ...feel totally wrapped up in waves of creamy, resonant fruit to the point the mousse is barely perceptible, especially with aeration. The flavors are bright an… | 261W·W30 lot 29141 |
+| Louis Roederer Vintage Champagne Cristal Rose | 2008 | — | 100 | Unfurling in the glass with aromas of wild strawberries, tangerine, warm pastry and crisp green orchard fruit, the 2008 is medium to full-bodied, deep and conce… | 261W·W26 lot 26158 |
+| Louis Roederer Vintage Champagne Cristal Vinotheque Rose | 1995 | — | 97 | ...shows a pale hint of color and opens with rich red fruit along with floral notes on the subtly layered nose. On the palate, this is a rich, round and voluptu… | 265DE·W2026-06 lot 624 |
+| Louis Roederer Vintage Champagne Cristal, Vinotheque | 1996 | Vinous | 100 | What comes through is a Champagne of unforgettable profoundness. Smoke, crushed rocks, white flowers, mint and finely sculpted citrus confit/orchard fruit add s… | 261W·W28 lot 27698 |
 
 ## Down to Earth Wines (Panzer)
 

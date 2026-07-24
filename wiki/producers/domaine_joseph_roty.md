@@ -91,7 +91,9 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
-| Charmes Chambertin Cuvee de Tres Vieilles Vignes | 1991 | Burghound | 93 | High-toned, wonderfully elegant fruit with flavors that are tight yet show outstanding complexity and depth. The tannins are ripe and still quite prominent on t… | 261W·W30 lot 22633 |
+| Charmes Chambertin Cuvee de Tres Vieilles Vignes | 1991 | Burghound | 93 | High-toned, wonderfully elegant fruit with flavors that are tight yet show outstanding complexity and depth. The tannins are ripe and still quite prominent on t… | 261W·W2026-06 lot 22633 |
+| Charmes Chambertin Cuvee de Tres Vieilles Vignes | 2007 | — | 94 | The 2007 Charmes-Chambertin Tres Vieilles Vignes is in a class by itself for the Roty collection of this vintage, or indeed of the combined 2007 and 2008 collec… | 261W·W29 lot 28347 |
+| Charmes Chambertin Cuvee de Tres Vieilles Vignes | 2013 | Burghound | 91-94 | A generous but again not dominant lashing of wood still allows the complex and highly spiced nose of wild and fresh red currant, plum, earth, humus and a hint o… | 261W·W29 lot 28348 |
 | Charmes Chambertin Cuvee de Tres Vieilles Vignes | 2014 | Burghound | 95 | Once again the nose has mostly absorbed its wood treatment on the ultra-spicy, ripe and attractively fresh nose of black cherry, earth, underbrush and soft flor… | 261W·W30 lot 28955 |
 | Charmes Chambertin Cuvee de Tres Vieilles Vignes | 2015 | Burghound | 94 | This is almost as elegant as the Griotte but with a different aromatic profile that runs more toward a slightly darker range of fruit, earth, game and discreet… | 261W·W30 lot 28956 |
 

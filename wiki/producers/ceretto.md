@@ -101,6 +101,7 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 | Barolo Bricco Rocche | 1996 | Wine Advocate | 92 |  | Raeders 2026-04-25 |
 | Barolo Bricco Rocche | 1997 | Wine Advocate | 96 | The ostentatious, staggering 1997 Barolo Bricco Rocche possesses a dark garnet color with amber at the edge. The explosive bouquet of coffee liqueur, licorice,… | Raeders 2026-04-25 |
 | Barolo Bricco Rocche | 1997 | Wine Enthusiast | 92 |  | Raeders 2026-04-25 |
+| Barolo Bricco Rocche | 1998 | Vinous | 92 | Medium-full red. Very sweet aromas of mocha, truffle, game, smoke and flinty minerals. Lush and sweet, with deep, insinuating flavor and perfectly integrated ac… | 261W·W28 lot 27127 |
 | Barolo Bricco Rocche | 2000 | Wine Advocate | 90 |  | Raeders 2026-04-25 |
 | Barolo Prapò | 1997 | Wine Advocate | 95 | Reminiscent of a right bank Pomerol from the late forties, the dark garnet/amber-edged 1997 Barolo Prapo possesses aromas and flavors of singed leather, espress… | Raeders 2026-04-25 |
 | Barolo Prapò | 2000 | Wine Advocate | 91 | The 2000 Barolo Prapo, from a vineyard in Serralunga d’Alba, is muscular. Classic aromas of rose petals, tar, and licorice are followed by a palate which featur… | Raeders 2026-04-25 |

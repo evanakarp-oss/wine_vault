@@ -50,9 +50,18 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
+| Bienvenue Batard Montrachet | 2001 | — | 95 | Smoke, buttered toast, and pears can be found in the nose of the 2001 Bienvenue-B tard-Montrachet. A huge wine of sumptuous richness and breadth, it conquers th… | 261W·W25 lot 24984 |
 | Chevalier Montrachet | 2018 | Burghound | 95 | A discreet whisper of the exotic adds breadth to the aromas of petrol, white flower, green apple, mineral reduction and lovely spice nuances. There is excellent… | 261W·W30 lot 29327 |
-| Montrachet | 2004 | Burghound | 96 | ...the massive flavors offer phenomenal punch, purity and simply phenomenal size and richness plus the fabulous level of dry extract gives this a chewy, rather… | 261W·W30 lot 24003 |
-| Puligny Montrachet Clos de la Mouchere | 2015 | — | 94 | The 2015 Puligny-Montrachet 1er Cru Clos de la Mouchère, Boillot's emblematic cuvée, is one of the highlights of the range in 2015, opening in the glass with no… | 261W·W30 lot 29468 |
+| Corton Charlemagne | 2005 | Burghound | 95 | Here the nose is completely different with pungent and almost aggressively intense green apple aromas infused with an underlying sense of wet stone that is in k… | 261W·W2026-06 lot 24560 |
+| Meursault Les Poruzots | 2017 | Burghound | 92 | ...pink grapefruit, floral, green apple and lemon-lime nuances. The racy and impressively intense medium-bodied flavors possess excellent delineation while disp… | 261W·W26 lot 25510 |
+| Montrachet | 2004 | Burghound | 96 | ...the massive flavors offer phenomenal punch, purity and simply phenomenal size and richness plus the fabulous level of dry extract gives this a chewy, rather… | 261W·W2026-06 lot 24003 |
+| Montrachet | 2005 | Burghound | 96 | ...a beautiful mix of floral and ripe orchard fruit aromas nuanced with hints of spice, honeysuckle and citrus that can also be found on the almost painfully in… | 261W·W2026-06 lot 24004 |
+| Puligny Montrachet Clos de la Mouchere | 2005 | Burghound | 93 | Not surprisingly, this closely resembles the Perrières aromatically though there is just enough extra ripeness where hints of orchard fruit creep into the mix a… | 261W·W28 lot 27562 |
+| Puligny Montrachet Clos de la Mouchere | 2014 | — | 91 | The 2014 Puligny-Montrachet 1er Cru Clos de la Mouchère has a taut and linear, but intense bouquet with attractive apple blossom, flint and orange zest aromas t… | 261W·W2026-06 lot 24005 |
+| Puligny Montrachet Clos de la Mouchere | 2015 | — | 94 | The 2015 Puligny-Montrachet 1er Cru Clos de la Mouchère, Boillot's emblematic cuvée, is one of the highlights of the range in 2015, opening in the glass with no… | 261W·W2026-06 lot 24461 |
+| Puligny Montrachet Clos de la Mouchere | 2017 | Vinous | 94-96 | Lemon drop and oil, peach, hazelnut and flowers on the subtly complex nose. Tactile and brisk on entry, then thick and energetic in the middle palate, conveying… | 261W·W26 lot 25511 |
+| Puligny Montrachet Clos de la Mouchere | 2018 | — | 95 | Boillot's emblematic 2018 Puligny-Montrachet 1er Cru Clos de la Mouchère has turned out brilliantly, wafting from the glass with aromas of pear, hazelnut, dried… | 261W·W26 lot 25512 |
+| Puligny Montrachet Les Pucelles | 2005 | Burghound | 94 | I rarely find the average Pucelles to deliver on its reputation but this one indisputably does with a brilliantly elegant, pure and airy nose of ripe citrus and… | 261W·W28 lot 27563 |
 
 ## Down to Earth Wines (Panzer)
 

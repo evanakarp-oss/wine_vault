@@ -40,7 +40,7 @@ Catalog of every keeper-answer page in `wiki/_views/` — the single read surfac
 | [[ceritas_auction_watch_2026_06|ceritas_auction_watch_2026_06]] | Where does Ceritas show up at auction, and which cuvées can land near $50/bottle? | 2026-06-11 |
 | [[chateau_coutelin_merville_french_sources_2026_06|chateau_coutelin_merville_french_sources_2026_06]] | What do French-language sources say about Château Coutelin-Merville (Saint-Estèphe), and the 2015 in particular? | 2026-06-14 |
 | [[cotes_du_vivarais_terroir_neighbors_2026_06|cotes_du_vivarais_terroir_neighbors_2026_06]] | Côtes du Vivarais & Southern Ardèche — Terroir Neighbors That Haven't Blown Up | 2026-06-19 |
-| [[critic_ratings_board_2026_07|critic_ratings_board_2026_07]] | Across every landed critic rating, what are the highest-scored wines — and which can I actually buy right now? | 2026-07-22 |
+| [[critic_ratings_board_2026_07|critic_ratings_board_2026_07]] | Across every landed critic rating, what are the highest-scored wines — and which can I actually buy right now? | 2026-07-24 |
 | [[csw_aging_language_2026_07|csw_aging_language_2026_07]] | CSW Aging Language — the "affordable wines that will age" thesis, sourced | 2026-07-23 |
 | [[csw_article_archive|csw_article_archive]] | What Chambers Street articles exist, and where can I read each one? | 2026-06-16 |
 | [[data_quality_integration_review_2026_07|data_quality_integration_review_2026_07]] | Data Integration & Quality Review (2026-07) | 2026-07-17 |
@@ -72,7 +72,7 @@ Catalog of every keeper-answer page in `wiki/_views/` — the single read surfac
 | [[offers_2026-05-25|offers_2026-05-25]] | Weekly Offers Roundup — 2026-05-25 |  |
 | [[offers_2026-05-25_csw_flash_top_picks|offers_2026-05-25_csw_flash_top_picks]] | CSW Memorial Day 2026 Flash Sale — Most Essential Picks |  |
 | [[polaner_at_raeders|polaner_at_raeders]] | Polaner × Raeder's — Inventory Cross-Check | 2026-05-21 |
-| [[producer_signals_board_2026_07|producer_signals_board_2026_07]] | Joined per-producer signal graph — land + style + trust + availability + critic + ownership — ranked by conviction. | 2026-07-22 |
+| [[producer_signals_board_2026_07|producer_signals_board_2026_07]] | Joined per-producer signal graph — land + style + trust + availability + critic + ownership — ranked by conviction. | 2026-07-24 |
 | [[r_squared_picks_2026_05_27|r_squared_picks_2026_05_27]] | What looks most compelling from R-Squared Wine's 2026-05-27 offer list? | 2026-05-27 |
 | [[r_squared_picks_2026_06_17|r_squared_picks_2026_06_17]] | What's most interesting on R Squared Selections' 2026-06-17 inventory — especially the obscure regions (Jura, Savoie, Friuli)? | 2026-06-17 |
 | [[racking_2k_cellar|racking_2k_cellar]] | Racking the 2,000-Bottle Cellar — Ladder-Style Single-Bottle | 2026-05-19 |

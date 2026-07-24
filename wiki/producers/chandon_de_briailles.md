@@ -145,6 +145,15 @@ berserkers_kelley_body:
 
 > I loved this wine from barrel (when it was extravagantly fragrant and texturally lavish) and retained my sense of excitement and optimism when I tasted it from bottle in January, I must say. I purchased some for my own cellar. Last month the 1990…
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Corton Bressandes | 2021 | Vinous | 93-95 | ...has a harmonious bouquet with dark plum, licorice and hints of menthol. This blossoms in the glass. The palate is medium-bodied with fine tannins framing the… | 261W·W26 lot 25727 |
+| Corton Clos du Roi | 2019 | — | 93-95 | A beautiful wine in the making that exhibits scents of wild berries, peonies, cinnamon, exotic spices and sweet soil tones. | 261W·W2026-06 lot 22000 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._

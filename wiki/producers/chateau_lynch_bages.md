@@ -151,6 +151,18 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
+| Chateau Lynch Bages | 1961 | — | 95 | Still a spectacular wine, the 1961 defies mortality. It has been at its peak for nearly 15 years, yet it shows no signs of losing its fruit and drying out. The… | 261W·W25 lot 24652 |
+| Chateau Lynch Bages | 1982 | Wine Spectator | 96 | Extremely youthful ruby color, with a hint of garnet. Berry, currant and mint character, with an earth note. Full-bodied, extremely concentrated yet sweet and f… | 261W·W26 lot 25390 |
+| Chateau Lynch Bages | 1983 | JK | 92 | Ripest wine by far - plums, prunes, anise, tobacco, lavender...replaces the Haut-Brion as the biggest finish...a touch missing in the middle, but rounds out - a… | 261W·W25 lot 25076 |
+| Chateau Lynch Bages | 1985 | — | 95 | Tasted single blind at the 1985 Bordeaux horizontal, the 1985 Château Lynch Bages was pitted against two other wines, both First Growths, and it more than held… | 261W·W26 lot 25391 |
+| Chateau Lynch Bages | 1986 | JK | 95+ | It was drinking spectacularly, to be frank, and was in that just right, wine sweet spot that can last for many years, longer than the average American marriage,… | 261W·W25 lot 25322 |
+| Chateau Lynch Bages | 1989 | — | 99+ | The 1989 has taken forever to shed its formidable tannins, but what a great vintage of Lynch Bages! I would rank it at the top of the pyramid although the 1990,… | 261W·W25 lot 25077 |
+| Chateau Lynch Bages | 1999 | — | 90 | Displaying a dense purple color as well as low acidity, this blackberry and cassis-flavored 1999 possesses a fat, juicy mid-section, and outstanding purity, rip… | 261W·W28 lot 27303 |
+| Chateau Lynch Bages | 2000 | — | 97 | Beginning to open magnificently, the still dense purple-colored 2000 reveals a blossoming bouquet of blackberries, cassis, graphite and pen ink. Full-bodied wit… | 261W·W25 lot 24930 |
+| Chateau Lynch Bages | 2001 | Wine Spectator | 90 | Offers gorgeous aromas of currant, chocolate and dried flowers. Full-bodied, with silky tannins and a long finish. Very pretty. Still tight. | 261W·W28 lot 27304 |
+| Chateau Lynch Bages | 2005 | Wine Spectator | 93 | Displays very beautiful aromas of crushed blackberry and dark chocolate, with a hint of coffee. Full-bodied, with a tightly wound palate of ripe tannins. Long a… | 261W·W26 lot 25392 |
+| Chateau Lynch Bages | 2009 | — | 96 | A The medium to deep garnet colored 2009 Lynch Bages is boldly scented of crème de cassis, blackberry pie and baked plums with chocolate box, incense and underb… | 261W·W26 lot 25393 |
+| Chateau Lynch Bages | 2010 | — | 96 | ...is an absolutely brilliant wine, and somewhat reminiscent at this stage in its development of the profound 1989. Jean-Charles Cazes, who took over for his fa… | 261W·W26 lot 25394 |
 | Chateau Lynch Bages | 2016 | — | 97+ | Deep garnet-purple colored, the 2016 Lynch Bages comes charging out of the gate with pronounced cassis, chocolate-covered cherries, mulberries and menthol notio… | 261W·W30 lot 29376 |
 | Chateau Lynch Bages | 2018 | Vinous | 94 | ...has a wonderful bouquet of supremely well-defined blackberry, briar, crushed rock and pencil lead aromas that develop more floral scents with continued aerat… | 261W·W30 lot 29377 |
 | Echo de Lynch Bages | 2019 | Wine Spectator | 90 |  | Raeders 2026-04-25 |

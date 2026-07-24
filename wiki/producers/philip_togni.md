@@ -57,6 +57,9 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 | Cabernet Sauvignon Napa Valley | 2018 | Wine Spectator | 94 |  | Raeders 2026-04-25 |
 | Cabernet Sauvignon Napa Valley | 2019 | Wine Advocate | 95 |  | Raeders 2026-04-25 |
 | Cabernet Sauvignon Napa Valley | 2019 | Wine Spectator | 96 | V 96 The 2019 Cabernet Sauvignon Estate is a classic Togni wine, meant to be laid down for at least a decade and capable of aging well for 20 years beyond that… | Raeders 2026-04-25 |
+| Philip Togni Cabernet Sauvignon | 1992 | — | 95 | ...continues to display the remarkable richness and opulence it possessed from cask. The wine offers a saturated dark purple color, a jammy, plum, black-cherry,… | 261W·W2026-06 lot 24341 |
+| Philip Togni Cabernet Sauvignon | 1996 | — | 96 | Cabernet Sauvignon is king at Togni, and they are wines of extraordinary concentration, flavor dimension, and aging potential. The 1996 Cabernet Sauvignon, whic… | 261W·W28 lot 27881 |
+| Philip Togni Cabernet Sauvignon | 2004 | Vinous | 95 | The 2004 Cabernet Sauvignon has developed beautifully since I last tasted it. The early harvest produced an exotic, ripe wine built on intensity, breadth and po… | 261W·W28 lot 27882 |
 | Philip Togni Cabernet Sauvignon | 2009 | — | 95+ | The 2009 Cabernet Sauvignon is stunningly beautiful and seductive in its red fruit, mint and tobacco. This is a surprisingly accessible vintage for the Cabernet… | 261W·W30 lot 29250 |
 | Philip Togni Cabernet Sauvignon | 2019 | Vinous | 96-99 | Black cherry, plum, graphite, spice and incense build into the palate-staining finish. | 261W·W30 lot 29251 |
 

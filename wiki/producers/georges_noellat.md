@@ -101,7 +101,9 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
-| Gevrey Chambertin Les Fontenys | 2017 | Burghound | 90-93 | This is also restrained but not mute with its background earth scents on the ripe plum and dark cherry scents. | 261W·W30 lot 13487 |
+| Gevrey Chambertin Les Fontenys | 2017 | Burghound | 90-93 | This is also restrained but not mute with its background earth scents on the ripe plum and dark cherry scents. | 261W·W2026-06 lot 13487 |
+| Vosne Romanee Les Petits Monts | 2015 | — | 92-94 | It has a beautiful, nuanced bouquet that effortlessly disguises the new oak, very delineated and pure with vivacious morello cherry, wild strawberry and candied… | 261W·W29 lot 28290 |
+| Vosne Romanee Les Petits Monts | 2022 | Burghound | 93-95 | The nose is very refined, offering brambly red fruit mixed with loam and pressed roses. The palate is medium-bodied with ample black and red fruit, commingling… | 265DE·W2026-06 lot 973 |
 
 ## Down to Earth Wines (Panzer)
 

@@ -55,6 +55,19 @@ _sources: ["short:short__Domaine_David_Moreau.md"]
 
 > 10/14/2022 ##### David Moreau (Courtesy of Michel Joly/Becky Wasserman Selections) From a viticultural standpoint, Santenay can be somewhat unforgiving. Along with its little sibling Maranges, Santenay sits at the very south end of the Cote de Beaune where…
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Batard Montrachet | 2022 | Vinous | 95-97 | ...has a taut, delineated bouquet with crushed stone infusing the green apple and yellow plum fruit. Very focused and it gains intensity with aeration. | 265DE·W2026-06 lot 524 |
+| Chassagne Montrachet | 2021 | Burghound | 89-91 | A more complex if moderately similar nose offers more in the way of white orchard fruit aromas that are trimmed in subtle wood nuances. | 261W·W2026-06 lot 13494 |
+| Chassagne Montrachet Les Caillerets | 2022 | Burghound | 91-94 | ...is a vague whiff of the exotic lurking in the background of the spicy aromas of white peach, wet stone and floral-scented nose. | 265DE·W2026-06 lot 998 |
+| Chassagne Montrachet Les Grandes Ruchottes | 2022 | — | 92-94 | Unwinding in the glass with aromas of sweet stone fruit, orange oil, buttery pastry and toasted nuts, the 2022 Chassagne-Montrachet 1er Cru Les Grandes Ruchotte… | 265DE·W2026-06 lot 524 |
+| Corton Charlemagne | 2023 | Vinous | 94-96 | The palate is well balanced with crisp acidity, fresh and saline, building beautifully toward a slightly nutty finish. | 265DE·W2026-06 lot 999 |
+| Criots Batard Montrachet | 2022 | — | 92-94 | ...has vinified this climat, and the result is a broad, full-bodied, enveloping wine redolent of yellow orchard fruit, apricot and peach mingled with toasted nu… | 265DE·W2026-06 lot 1000 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._

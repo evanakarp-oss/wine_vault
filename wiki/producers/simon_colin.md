@@ -64,6 +64,14 @@ berserkers_kelley_body:
 
 > No, Simon Colin is the son of Philippe Colin.
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Chassagne Montrachet Les Caillerets | 2004 | Burghound | 92 | A step up in elegance with its perfumed and airy white flower and limestone nose that introduces tight, precise and driving flavors that offer good excellent vo… | 261W·W28 lot 27574 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._

@@ -38,6 +38,14 @@ _Seeded from Down to Earth (Panzer) portfolio. Not yet covered in CSW archive sw
 
 _No Chambers Street write-ups on file._
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Cote Rotie Cordeloux | 2011 | Vinous | 90 | Opaque ruby. The nose displays fresh blackberry and bitter cherry scents, along with notes of candied flowers, star anise and cured meat. Nervy and precise on e… | 261W·W26 lot 25797 |
+
 ## Down to Earth Wines (Panzer)
 
 Currently tracked: **5 cuvée/vintage entries**; prices $119–$249.

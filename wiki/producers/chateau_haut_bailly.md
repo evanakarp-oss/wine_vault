@@ -124,8 +124,9 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
-| Chateau Haut Bailly | 2011 | — | 94+ | The saturated ruby/purple-hued 2011 Haut-Bailly exhibits a glorious, subtle, noble set of aromatics consisting of red and black currants, sweet cherries, graphi… | 261W·W30 lot 25856 |
-| Chateau Haut Bailly | 2013 | Vinous | 90-93 | ...possesses lovely balance and plenty of personality. A final burst of new leather, violets red plums and smoke lingers on the close. | 261W·W30 lot 15349 |
+| Chateau Haut Bailly | 2001 | — | 90 | The deep ruby/purple-tinged 2001 Haut-Bailly reveals sweet, pure, elegant aromas of currants, toast, and cigar smoke. With wonderful sweetness, fine tannins, a… | 261W·W26 lot 26198 |
+| Chateau Haut Bailly | 2011 | — | 94+ | The saturated ruby/purple-hued 2011 Haut-Bailly exhibits a glorious, subtle, noble set of aromatics consisting of red and black currants, sweet cherries, graphi… | 261W·W25 lot 25276 |
+| Chateau Haut Bailly | 2013 | Vinous | 90-93 | ...possesses lovely balance and plenty of personality. A final burst of new leather, violets red plums and smoke lingers on the close. | 261W·W2026-06 lot 15349 |
 | Pessac-Leognan | 2018 | Wine Advocate | 96 |  | Raeders 2026-04-25 |
 | Pessac-Leognan | 2018 | Wine Enthusiast | 96 |  | Raeders 2026-04-25 |
 

@@ -120,6 +120,16 @@ Distributed through Skurnik, Empson (Italian specialist), and other major import
 
 However, Feudi's technical/commercial approach differs from Evan's apparent preference for biodynamic, minimal-intervention, grower-scale production. The fit is "good" because of terroir focus and regional specialization, but "not excellent" because the philosophical alignment with natural/biodynamic methods is weaker than producers like Marco Caprai or Arianna Occhipinti.
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Irpinia Serpico | 2005 | Wine Enthusiast | 91 | Give this gorgeous wine a few more years in the bottle so that the evident oak tones become tame and supple. You can count on the wine's aromas of cherry, black… | Raeders 2026-04-25 |
+| Serpico | 2001 | — | 92+ | The 2001 is a powerful Serpico with impressive tannic clout that will require further cellaring to soften. With time, hints of wild cherries, herbs, chocolate a… | 261W·W28 lot 27792 |
+| Serpico | 2003 | Wine Spectator | 90 | A sturdy, chewy Aglianico, with bright berry fruit, mingled with floral, mineral and sweet tobacco notes. Medium- to full-bodied, with an intense bead of fruit,… | 261W·W28 lot 27793 |
+
 ## Cross-references
 
 - [[Italy_Producers|Italy]]

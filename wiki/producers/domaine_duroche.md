@@ -207,8 +207,29 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
-| Echezeaux | 2017 | Burghound | 92 | Noticeable if not dominant wood frames the naturally spicy aromas of both red and dark currant that flash hints of sandalwood and Asian-style tea. The seductive… | 261W·W30 lot 28277 |
+| Chambertin Clos de Beze | 2014 | Burghound | 92-95 | ...more deeply pitched array of dark currant, plum, cassis and plenty of floral and earth characters. There is the same excellent tension and detail to the bigg… | 261W·W29 lot 28275 |
+| Charmes Chambertin | 2018 | Vinous | 91-93 | The 2018 Charmes-Chambertin Grand Cru has a gorgeous bouquet, a mixture of red and blue fruit (very typical of this vineyard) with floral topnotes. While not th… | 261W·W29 lot 28276 |
+| Charmes Chambertin | 2020 | — | 91-93 | ... bursts with aromas of sweet berries, cherries, licorice, orange rind and loamy soil. Medium to full-bodied, perfumed and fine-boned, it's a seamless, elegan… | 265DE·W2026-06 lot 482 |
+| Charmes Chambertin | 2021 | Vinous | 93 | ...is precise and detailed on the nose with raspberry and wild strawberry, iris flower and notes of chalk dust. The palate is medium-bodied with pliant tannins,… | 265DE·W2026-06 lot 482 |
+| Charmes Chambertin | 2022 | Vinous | 94-96 | ...has a superb bouquet of perfumed iris and violet flowers with delineated red berry fruit. This blossoms in the glass. The medium-bodied palate has a sensual… | 265DE·W2026-06 lot 482 |
+| Echezeaux | 2017 | Burghound | 92 | Noticeable if not dominant wood frames the naturally spicy aromas of both red and dark currant that flash hints of sandalwood and Asian-style tea. The seductive… | 261W·W29 lot 28277 |
+| Gevrey Chambertin En Vosne | 2017 | Burghound | 87-90 | Reduction and wood make for a pungent introduction to the bigger and richer medium-bodied flavors that are not particularly complex but they are refreshing and… | 265DE·W2026-06 lot 964 |
+| Gevrey Chambertin Estournelles St. Jacques | 2018 | — | 92-94 | Aromatic and precise, the 2018 Gevrey-Chambertin 1er Cru Estournelles Saint-Jacques reveals lovely aromas of peonies, rose petals, orange rind and red berries.… | 261W·W29 lot 28279 |
+| Gevrey Chambertin Lavaut St. Jacques | 2018 | Vinous | 90-92 |  | 261W·W28 lot 26392 |
+| Gevrey Chambertin Lavaut St. Jacques | 2020 | Vinous | 92-94 | ...has a beguiling, tertiary, wet limestone tinged bouquet with precise red berry fruit and touches of bay leaf. | 261W·W26 lot 25902 |
+| Gevrey Chambertin Lavaux St. Jacques | 2019 | Vinous | 94 | Vibrant red fruit on the nose, redcurrant and cranberry fruit, wilted rose petals and black pepper. The palate is beautifully balanced with a fine bead of acidi… | 265DE·W2026-06 lot 129 |
+| Gevrey Chambertin Lavaux St. Jacques | 2022 | — | 90-93 | ...exhibits aromas of dark berries, licorice, smoked squab and loamy soil, followed by a medium to full-bodied, open and expressive palate framed by powdery tan… | 265DE·W2026-06 lot 965 |
+| Gevrey Chambertin Lavaux St. Jacques, Vieilles Vignes | 2022 | Vinous | 94-96 | ...has a complex bouquet of mineral-laden red fruit, blossoming in the glass with superb delineation. | 265DE·W2026-06 lot 966 |
+| Gevrey Chambertin Les Cazetiers | 2016 | Burghound | 91-93 | An agreeably subtle application of wood serves as a subtle backdrop for the exuberantly floral and spicy aromas of black pinot fruit, warm earth and once again… | 261W·W26 lot 25740 |
+| Gevrey Chambertin Les Cazetiers | 2020 | — | 93-95 | Wafting from the glass with aromas of sweet berries and cherries mingled with rose petals, licorice and sweet spices, it's medium to full-bodied, ample and velv… | 261W·W2026-06 lot 22010 |
+| Gevrey Chambertin Les Jeunes Rois | 2015 | — | 91 | ...wafting from the glass with beautiful aromas of cassis, wild berries, coniferous forest floor and sweet soil. On the palate, the wine is medium to full-bodie… | 261W·W26 lot 25741 |
+| Gevrey Chambertin Les Jeunes Rois | 2016 | — | 90-92 | The 2016 Gevrey-Chambertin Les Jeunes Rois was more reticent on the nose than Pierre Duroché's other nascent 2016s; however, there is fine complexity and minera… | 261W·W26 lot 25742 |
 | Griottes Chambertin | 2012 | — | 97 | It has a highly perfumed bouquet very floral with rose and and violet petals infusing the red and black fruit. One sniff and you'll be hooked. The palate is med… | 261W·W30 lot 29312 |
+| Griottes Chambertin | 2013 | Burghound | 92-94 | Generous wood and menthol notes presently dominate the very floral-inflected red berry fruit and earth scents. I very much like the texture of the refined and v… | 261W·W2026-06 lot 24046 |
+| Griottes Chambertin | 2022 | Vinous | 95-97 | The well-defined nose offers cracked black pepper, clove and more black than red fruit, gaining intensity with aeration. The palate is medium-bodied, with cumin… | 265DE·W2026-06 lot 968 |
+| Latricieres Chambertin | 2018 | — | 94-96+ | One of the highlights of this year's range chez Duroché is the superb 2018 Latricières-Chambertin Grand Cru, a beautifully defined wine that unfurls in the glas… | 261W·W29 lot 28280 |
+| Latricieres Chambertin | 2019 | Vinous | 96 | The 2019 Latricières-Chambertin Grand Cru has a very intense bouquet of beautifully defined dark berry fruit laced with woodland and light ferrous aromas, displ… | 261W·W29 lot 28281 |
+| Latricieres Chambertin | 2023 | — | 94-96 | ...is lovely, wafting from the glass with notes of sweet plums, orange zest, petals and exotic spices. Medium to full-bodied, fleshy and sensual, with an ample… | 265DE·W2026-06 lot 969 |
 
 ## Down to Earth Wines (Panzer)
 

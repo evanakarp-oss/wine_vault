@@ -48,14 +48,16 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Hundred Acre Cabernet Sauvignon Dark Ark | 2015 | — | 99 | ...medium to deep garnet-purple colored and incredibly perfumed with black cherries, violets, earth and rose hip tea plus wafts of oolong and cinnamon stick wit… | 261W·W30 lot 29413 |
-| Hundred Acre Cabernet Sauvignon Deep Time | 2009 | — | 100 | The 2009 Cabernet Sauvignon Deep Time is another perfect wine. Quintessential elegance, seductiveness and ripeness are all present in this full-bodied, gorgeous… | 261W·W30 lot 26689 |
-| Hundred Acre Cabernet Sauvignon Fortunate Son | 2010 | — | 94 | The 2010 Cabernet Sauvignon Fortunate Son, which is defined as selections from the cellar, is a beauty. Woodbridge considers this wine to be a completely separa… | 261W·W30 lot 26696 |
-| Hundred Acre Cabernet Sauvignon Kayli Morgan Vineyard | 2011 | — | 95 | The 2011 Cabernet Sauvignon Kayli Morgan Vineyard has a medium garnet color and gives up redcurrant and cranberry sauce with a core of cassis, red roses and Cey… | 261W·W30 lot 26702 |
+| Hundred Acre Cabernet Sauvignon Deep Time | 2009 | — | 100 | The 2009 Cabernet Sauvignon Deep Time is another perfect wine. Quintessential elegance, seductiveness and ripeness are all present in this full-bodied, gorgeous… | 261W·W28 lot 26689 |
+| Hundred Acre Cabernet Sauvignon Few and Far Between | 2010 | — | 100 | The 2010 Cabernet Sauvignon Few and Far Between has a minerality that is also found in the Howell Mountain cuvee as well as deep, luxurious, beautiful black cur… | 261W·W29 lot 28889 |
+| Hundred Acre Cabernet Sauvignon Fortunate Son | 2010 | — | 94 | The 2010 Cabernet Sauvignon Fortunate Son, which is defined as selections from the cellar, is a beauty. Woodbridge considers this wine to be a completely separa… | 261W·W28 lot 26696 |
+| Hundred Acre Cabernet Sauvignon Kayli Morgan Vineyard | 2011 | — | 95 | The 2011 Cabernet Sauvignon Kayli Morgan Vineyard has a medium garnet color and gives up redcurrant and cranberry sauce with a core of cassis, red roses and Cey… | 261W·W28 lot 26702 |
 | Hundred Acre Cabernet Sauvignon Kayli Morgan Vineyard | 2016 | — | 99 | ...free-flowing, flamboyant crème de cassis, blackberry pie and boysenberry preserves scents, followed by fragrant earth, wet rocks, dried roses and tobacco lea… | 261W·W30 lot 29414 |
 | Hundred Acre Cabernet Sauvignon Precious | 2007 | — | 98 |  | 261W·W30 lot 29439 |
-| Hundred Acre Cabernet Sauvignon Precious | 2009 | — | 94 | The 2009 Cabernet Sauvignon Precious is rich, textured and quite pretty. Dark plums, cherries, menthol and spices are layered into this attractive medium-bodied… | 261W·W30 lot 26707 |
-| Hundred Acre Cabernet Sauvignon Precious | 2012 | — | 96+ | ...is firmer, with the oak showing more than in any of the other cuvées. The wine is very intense and had just been blended, so I suspect it is not completely a… | 261W·W30 lot 26710 |
+| Hundred Acre Cabernet Sauvignon Precious | 2009 | — | 94 | The 2009 Cabernet Sauvignon Precious is rich, textured and quite pretty. Dark plums, cherries, menthol and spices are layered into this attractive medium-bodied… | 261W·W28 lot 26707 |
+| Hundred Acre Cabernet Sauvignon Precious | 2012 | — | 96+ | ...is firmer, with the oak showing more than in any of the other cuvées. The wine is very intense and had just been blended, so I suspect it is not completely a… | 261W·W28 lot 26710 |
 | Hundred Acre Cabernet Sauvignon Wraith | 2016 | — | 100 | ... soars out of the glass with Black Forest cake, Indian spices, tobacco leaf, dried Provence herbs and smoked meats notes, with touches of damp soil, black tr… | 261W·W30 lot 29415 |
+| Hundred Acre Shiraz Ancient Way, Summer Block | 2006 | Vinous | 93 | Deeply pitched dark fruit preserve aromas show a superripe, decadent character, with notes of candied flowers, olive paste and pipe tobacco adding complexity. B… | 261W·W29 lot 28899 |
 
 ## Down to Earth Wines (Panzer)
 

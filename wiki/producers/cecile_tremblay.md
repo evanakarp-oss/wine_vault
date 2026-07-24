@@ -157,6 +157,20 @@ berserkers_kelley_body:
 
 > Cécile’s wines can be beautifully aromatic, but above all they stand out for their filigree structure. Not every year or every cuvée—though more and more consistently since 2009—but when they show well, their textural properties make them very…
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Bourgogne Rouge Cote d'Or | 2018 | — | 88-90 | The wine is medium to full-bodied, velvety and concentrated, with a fleshy core of fruit, elegant structuring tannins and lively acids. | 261W·W2026-06 lot 24188 |
+| Chambolle Musigny Les Cabottes | 2018 | Burghound | 89-91 | A pretty, fresh and ripe nose speaks of aromas of dark cherry, raspberry, pomegranate and plenty of spice suggestions. The finer and more tightly wound flavors… | 261W·W2026-06 lot 24189 |
+| Chambolle Musigny Les Feusselottes | 2018 | Vinous | 92-94 | ...has a tightly wound bouquet that seems to spring forth with aeration, offering blackberry, raspberry and cassis aromas laced with potpourri and subtle earthy… | 261W·W2026-06 lot 24191 |
+| Chambolle Musigny Les Feusselottes | 2022 | — | 93-95 | ...wafts from the glass with aromas of cherries, raspberries and plums mingled with hints of burning embers, orange zest and potpourri framed by a discreet appl… | 265DE·W2026-06 lot 334 |
+| Chapelle Chambertin | 2019 | — | 100 | Bursting with aromas of raspberries and sweet red fruits mingled with rose petals, blood orange, exotic spices and a subtle hint of espresso roast, it's full-bo… | 265DE·W2026-06 lot 869 |
+| Morey St. Denis Tres Girard | 2022 | Vinous | 90-92 | The very delineated bouquet offers blackberry and wild strawberry, hints of crushed stone and iris flower. The palate is medium-bodied with firm tannins, quite… | 265DE·W2026-06 lot 335 |
+| Vosne Romanee Premier Cru | 2022 | Burghound | 91-94 | An overtly floral-suffused nose speaks of both red and dark raspberry, jasmine tea, sandalwood and a plethora of spice elements. | 265DE·W2026-06 lot 336 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._

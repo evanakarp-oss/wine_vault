@@ -23,6 +23,35 @@ _sources: ["campanale_wine_book"]
 
 Italian producer from Campanale wine book.
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Barbaresco Asili, Vecchie Viti | 2014 | — | 97 | ...is a soft and enormously supple expression that shows beautifully integrated tannins, fruit and acidity. There is a note of sweet summer cherry that you noti… | 261W·W26 lot 25836 |
+| Barbaresco Asili, Vecchie Viti | 2016 | Vinous | 95 | The Asili is beautifully perfumed and ethereal, yet also quite deep, in the way only Nebbiolo can be. Crushed red berry fruit, kirsch, orange peel, cedar and ci… | 261W·W30 lot 29203 |
+| Barbaresco Asili, Vecchie Viti | 2020 | Vinous | 96 | ...offers up crushed red berry fruit, spice, menthol, new leather, licorice and blood orange. Hints of kirsch, hard candy and star anise appear later, adding an… | 265DE·W2026-06 lot 1035 |
+| Barbaresco Crichet Paje | 2008 | Vinous | 97 | ...is a gorgeous, translucent wine that shows this cool, late-ripening vintage at its best. Sweet red cherry, mint, kirsch, hard candy and white pepper are all… | 261W·W26 lot 26174 |
+| Barbaresco Crichet Paje | 2011 | Vinous | 98+ | Sweet red cherry, rosewater, mint, dried flowers, pine and kirsch give the 2011 an upper register of perfume that is utterly beguiling. | 261W·W26 lot 25837 |
+| Barbaresco Crichet Paje | 2013 | Vinous | 99 | Rose petals, cinnamon, crushed rocks, mint and white pepper are some of the many notes that emerge from this wonderfully complex, dynamic Barbaresco. | 265DE·W2026-06 lot 652 |
+| Barbaresco Crichet Paje | 2014 | — | 97+ | ... is a slender and extremely delicate wine with fragile floral aromas of roses or fresh violets picked off the forest floor. Those bright aromas are framed by… | 265DE·W2026-06 lot 652 |
+| Barbaresco Montefico, Vecchie Viti | 2014 | — | 97+ | ... is packed with plum, dark cherry, blue flower, campfire smoke and cured tobacco. There is a point of fleeting sweetness on the close followed by rich fiber… | 261W·W26 lot 25840 |
+| Barbaresco Montefico, Vecchie Viti | 2016 | Vinous | 96 | The vertical structure of Montefico is evident, as are the intense tannins. Deeply savory and mineral, the Montefico is a wine for readers who can afford to wai… | 261W·W30 lot 29204 |
+| Barbaresco Montefico, Vecchie Viti | 2019 | Vinous | 97 | Crushed rocks, slate, mint, white pepper, dried cherry and chalk are some of the many notes that inform this taut, vibrant Barbaresco. | 265DE·W2026-06 lot 1036 |
+| Barbaresco Paje | 2016 | Vinous | 95 | ... is one of the highlights in this range, as it offers gorgeous mid-palate depth with super-classic structure. Dark cherry, tobacco, licorice, leather and dee… | 261W·W2026-06 lot 23937 |
+| Barbaresco Paje Vecchie Viti | 2017 | Wine Advocate | 95 |  | Raeders 2026-04-25 |
+| Barbaresco Paje Vecchie Viti | 2017 | Wine Spectator | 95 |  | Raeders 2026-04-25 |
+| Barbaresco Paje Vecchie Viti | 2018 | Wine Spectator | 97 | V 96 This pure red features cherry, raspberry, rose and licorice flavors, underlined by mineral and tobacco elements. Taut and linear, with the essence of fruit… | Raeders 2026-04-25 |
+| Barbaresco Paje, Vecchie Viti | 2014 | Vinous | 96 | ...offers up a striking range of spice, floral and dried fruit character with an expression of weightless power and transparency... | 261W·W26 lot 25842 |
+| Barbaresco Paje, Vecchie Viti | 2016 | Vinous | 96 | ...is an exotic, totally beguiling wine laced with super-classic Nebbiolo notes of rose petal, orange peel, cinnamon and macerated cherry. Aromatic, sensual and… | 261W·W30 lot 29205 |
+| Barbaresco Pajé | 2017 | Wine Advocate | 94 | V 92 Showing a transparent or almost naked quality of fruit, the Roagna 2017 Barbaresco Pajè is a lovely and graceful wine that maintains an exceptional feeling… | Raeders 2026-04-25 |
+| Barbaresco Pajé | 2017 | Wine Spectator | 94 |  | Raeders 2026-04-25 |
+| Barolo Pira | 2016 | Vinous | 95 | Kirsch, sweet red cherry, spice, orange zest, menthol and spice fill out the layers effortlessly. Young Barolo tannins are present, but there is plenty of richn… | 261W·W2026-06 lot 23939 |
+| Barolo Pira | 2019 | Vinous | 97 | Hints of pine, menthol, licorice and dried herbs appear with some reluctance. I would not dream of touching a bottle anytime soon. Superb. | 261W·W2026-06 lot 23940 |
+| Barolo Pira Vecchie Viti | 2017 | Wine Advocate | 97 |  | Raeders 2026-04-25 |
+| Barolo Pira Vecchie Viti | 2017 | Wine Spectator | 94 |  | Raeders 2026-04-25 |
+
 ## Notes
 
 ## CSW Write-ups

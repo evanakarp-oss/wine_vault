@@ -118,6 +118,20 @@ berserkers_kelley_body:
 
 > **Pierre-Yves Colin-Morey Chassagne-Montrachet Les Ancegnières** From 90-year-old vines just below Bâtard-Montrachet, this is an excellent village Chassagne, opening up with a bouquet of poached pear, noble reduction and smoke: on the palate, the…
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Batard Montrachet | 2022 | Vinous | 95-97 | ...crushed limestone, sea cave and touches of shucked oyster shells. The palate is well-balanced and very intense, building in the mouth towards a cerebral, gri… | 265DE·W2026-06 lot 562 |
+| Chassagne Montrachet Les Caillerets | 2022 | — | 92-94 | ...is concentrated and mineral, offering up aromas of pear, orange zest, hazelnut, white flowers and buttered toast, followed by a medium to full-bodied, satiny… | 265DE·W2026-06 lot 562 |
+| Chassagne Montrachet Les Chenevottes | 2020 | — | 94 | Wafting from the glass with aromas of pear, beeswax, orange oil, petrol and white flowers, it's medium to full-bodied, deep and layered, with bright acids, chal… | 265DE·W2026-06 lot 562 |
+| Corton Charlemagne | 2016 | — | 92-94+ | While this bottling is usually a blend of nearly equal parts Pernand- and Aloxe-side fruit, the 2016 Corton-Charlemagne Grand Cru hails almost entirely from the… | 265DE·W2026-06 lot 939 |
+| Meursault Charmes | 2019 | — | 92-94 | ...a lovely wine that exhibits scents of lemon zest, orange oil, fresh peach, pear, white flowers and buttered toast. Medium to full-bodied, layered and broad-s… | 265DE·W2026-06 lot 562 |
+| Meursault Les Perrieres | 2017 | — | 95+ | ...unwinding slowly in the glass with textbook scents of lemon oil, crisp green apple, white flowers and wet stones. Medium to full-bodied, deep and concentrate… | 261W·W26 lot 26137 |
+| St. Aubin En Remilly | 2022 | Burghound | 90-93 | Fresh, bright and cool aromas include those of Granny Smith apple, citrus rind, spice and a hint of spice. The racy, indeed almost painfully intense, middleweig… | 265DE·W2026-06 lot 562 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._

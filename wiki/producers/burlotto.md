@@ -124,6 +124,7 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 |---|---|---|---|---|---|
 | Barolo Acclivi | 2019 | — | 97 | The bouquet opens to elegant floral intensity with wild rose, violet, orange peel and delicate berry. This wine feels very alive thanks to the lifted and delica… | 261W·W30 lot 29167 |
 | Barolo Monvigliero | 2019 | — | 100 | ...definitely spoke to me thanks to its immediate complexity that transcends wild strawberry, aromatic herb, white pepper, orange peel, hazelnut, truffle essenc… | 261W·W30 lot 29168 |
+| Barolo Monvigliero | 2020 | — | 97 | ...opens to a hint of something exotic like Moroccan spice with candied orange, Arabian jasmine or tamarind chutney. | 265DE·W2026-06 lot 1034 |
 
 ## Down to Earth Wines (Panzer)
 

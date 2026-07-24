@@ -209,8 +209,18 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
+| Beaune Rouge Les Perrieres | 2005 | Burghound | 89-92 | This too has a hint of bitter cherry but less of it with raspberry and red pinot fruit aromas that introduce distinctly mineral suffused medium full flavors tha… | 261W·W2026-06 lot 24502 |
+| Chevalier Montrachet | 2022 | Vinous | 96-98 | ...has a supremely gifted bouquet: exquisite definition, wonderful mineralité, and real intensity, but so much purity and tension. The palate is flinty on the e… | 265DE·W2026-06 lot 1006 |
+| Puligny Montrachet Les Caillerets | 1999 | Burghound | 92 | Quite forward on the nose for a young Roulot wine (Jean-Marc made this wine) with gorgeously detailed fruit and intense citrus and mineral notes followed by liv… | 261W·W25 lot 25142 |
+| Volnay Champans | 2019 | Burghound | 91-94 | Slightly riper aromas exhibit nots of plum, black raspberry, spice and violet. There is excellent density to the more voluminous if slightly less refined medium… | 261W·W29 lot 28261 |
+| Volnay Les Mitans | 1996 | Vinous | 91 | Good full red. Penetrating, bright cherry nose. Densely packed and extremely backward in the mouth; in a distinctly clenched stage, and wrapped up in its strong… | 261W·W26 lot 25450 |
+| Volnay Les Mitans | 2020 | Vinous | 92-94 | Touches of white pepper and clove infuse the red fruit, undergrowth and hints of autumn leaves gradually evolving with time. The palate is medium-bodied with sl… | 261W·W28 lot 27429 |
+| Volnay Taillepieds | 2009 | — | 91-93 | The 2009 Volnay Taillepieds is all about minerality and sheer energy. It shows fabulous textural richness in its dark red fruit, not to mention a highly engagin… | 261W·W2026-06 lot 24503 |
 | Vosne Romanee Aux Malconsorts | 2019 | Vinous | 93-95 | A very intense bouquet of red and blue fruit infused with rose petal and violet, touches of clove and blood orange developing with time. The palate is medium-bo… | 261W·W30 lot 28932 |
+| Vosne Romanee Aux Malconsorts | 2020 | Burghound | 92-94 | Moderate reduction pushes the underlying fruit to the background. There is a lovely inner mouth perfume to the sleek, intense and powerful larger-scaled flavors… | 261W·W28 lot 27430 |
+| Vosne Romanee Aux Malconsorts | 2022 | Burghound | 93-95 | At the risk of sounding like a broken record, once again the nose is overtly floral in character with its exuberantly spicy nose of various dark berries, soy, e… | 265DE·W2026-06 lot 963 |
 | Vosne Romanee Aux Malconsorts, Christiane | 2019 | Vinous | 94-96 | A touch more intensity on the nose, while the fruit is a little darker: bilberry and blackberry, plus touches of violet petals. The medium-bodied palate is roun… | 261W·W30 lot 28933 |
+| Vosne Romanee Aux Malconsorts, Christiane | 2022 | Vinous | 95-97 | ...intense black cherries, wild strawberry, crushed limestone/petrichor and dried violets. Excellent delineation - even more crystalline than the regular bottli… | 265DE·W2026-06 lot 964 |
 
 ## Down to Earth Wines (Panzer)
 

@@ -146,7 +146,16 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
+| Pierre Peters Champagne Grande Reserve | NV | Vinous | 92 | The NV Brut Grand Réserve (2015 base), a new wine in the range oriented towards the French domestic and select European markets, is a blend of 2015 L’Esprit wit… | 261W·W28 lot 27701 |
+| Pierre Peters Champagne Heritage | NV | Vinous | 98 | The older vintages confer tremendous layers of nuance to a Champagne that stands out for its creamy resonance, depth and personality. Exhilarating in its beauty… | 265DE·W2026-06 lot 1026 |
+| Pierre Peters Champagne L'Etonnant Monsieur Victor, MK. 11 | NV | — | 93 | ...opens in the glass with a complex bouquet of lemon oil, dried white flowers, chalky soil tones and an elegant top note of fino sherry. On the palate, the win… | 265DE·W2026-06 lot 625 |
+| Pierre Peters Champagne L'Etonnant Monsieur Victor, MK. 12 | NV | — | 96 | ...opening in the glass with aromas of lemon oil, warm bread, white flowers, crushed chalk, oyster shells and wheat toast. On the palate, the wine is medium to… | 265DE·W2026-06 lot 625 |
+| Pierre Peters Champagne L'Etonnant Monsieur Victor, MK. 13 | NV | — | 95 | Scents of citrus oil, mint, peach, toasted walnuts, orange oil and freshly baked sourdough introduce Péters's NV L'Étonnant Monsieur Victor Edition MK 13, a med… | 265DE·W2026-06 lot 625 |
+| Pierre Peters Champagne L'Etonnant Monsieur Victor, MK. 14 | NV | Vinous | 95 | ...is endowed with notable resonance. Lemon confit, marzipan, white flowers, spice, licorice and graphite are amplified in a rich, vinous Champagne that is load… | 265DE·W2026-06 lot 625 |
+| Pierre Peters Champagne L'Etonnant Monsieur Victor, TB. 15 | NV | Vinous | 95 | Hints of dried flowers, marzipan, brioche and hazelnut linger on the delicate, super-refined finish. I would prefer to drink this on the earlier side, as the fi… | 265DE·W2026-06 lot 625 |
+| Pierre Peters Vintage Champagne Cuvee Speciale, Les Chetillons | 2007 | — | 94 | The 2007 Brut Blanc de Blancs Cuvée Spéciale Les Chétillons is the first vintage of this cuvée over which Rodolphe Péters had complete control, and he has groun… | 261W·W2026-06 lot 21988 |
 | Pierre Peters Vintage Champagne Les Chetillons | 2015 | — | 94 | ...has turned out well, unwinding in the glass with aromas of freshly baked bread, crisp orchard fruit, clear honey, warm biscuits and dried white flowers. | 261W·W30 lot 29148 |
+| Pierre Peters Vintage Champagne Les Chetillons, Cuvee Speciale | 2017 | Vinous | 95 | Bright saline notes cut through a core of citrus peel, slate, chalk, mint and white pepper. This is classic Chétillons from start to finish. | 265DE·W2026-06 lot 1027 |
 
 ## Down to Earth Wines (Panzer)
 

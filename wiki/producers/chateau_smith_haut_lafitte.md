@@ -126,7 +126,7 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 | Blanc Pessac-Leognan | 2023 | James Suckling | 98 |  | Raeders 2026-04-25 |
 | Blanc Pessac-Leognan | 2023 | Wine Spectator | 95 |  | Raeders 2026-04-25 |
 | Blanc Pessac-Leognan | 2023 | Wine Enthusiast | 98 |  | Raeders 2026-04-25 |
-| Chateau Smith Haut Lafitte | 2000 | — | 95 | One can't say enough about this winery, which may still fly under the radar of most consumers. The fully mature 2000 displays gorgeous aromas of camphor, lead p… | 261W·W30 lot 29542 |
+| Chateau Smith Haut Lafitte | 2000 | — | 95 | One can't say enough about this winery, which may still fly under the radar of most consumers. The fully mature 2000 displays gorgeous aromas of camphor, lead p… | 261W·W26 lot 26217 |
 | Chateau Smith Haut Lafitte | 2019 | Vinous | 96 | ... has a Burgundian like purity on the nose: raspberry and wild strawberry fruit, touches of pressed rose petal emerging with time. The oak is a little promine… | 261W·W30 lot 29392 |
 | Pessac-Léognan | 2015 | Wine Advocate | 97 |  | Raeders 2026-04-25 |
 | Pessac-Léognan | 2015 | James Suckling | 99 | WA 97 D 98 JD 96 JS 99 This vintage is a blend of 63% Cabernet Sauvignon, 33% Merlot, 2% Cabernet Franc and 2% Petit Verdot, matured in 65% new oak barrels. Med… | Raeders 2026-04-25 |

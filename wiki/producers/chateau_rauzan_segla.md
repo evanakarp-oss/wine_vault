@@ -105,6 +105,9 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
+| Chateau Rauzan Segla | 1983 | — | 91 | Fully mature, this has always been one of the best wines of the vintage. The stunning aromatics soar out of the glass, offering up notes of acacia flower interm… | 261W·W25 lot 25100 |
+| Chateau Rauzan Segla | 1986 | JK | 94 | OK, now we are talking - a step-up here in the nose fantastic balance between its cassis and slate components chocolate dancing around the edges penetrating min… | 261W·W25 lot 25101 |
+| Chateau Rauzan Segla | 2005 | — | 94+ | ...this blend of 55% Cabernet Sauvignon and the rest primarily Merlot and tiny dollops of Cabernet Franc and Petit Verdot exhibits a gorgeous perfume of spring… | 261W·W28 lot 26580 |
 | Chateau Rauzan Segla | 2016 | Vinous | 97+ | The 2016 Rauzan-Ségla is simply stunning. Ample and generous in the glass, the 2016 is a positively stellar wine that will leave readers weak at the knees. The… | 261W·W30 lot 29541 |
 | Margaux | 2014 | Wine Advocate | 93 |  | Raeders 2026-04-25 |
 | Margaux | 2014 | Wine Enthusiast | 95 |  | Raeders 2026-04-25 |

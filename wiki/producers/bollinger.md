@@ -233,6 +233,20 @@ _Pinot-driven Aÿ house. Grande Année (vintage) and R.D. (late-disgorged) are t
 
 > Pity your Clos des Goisses was not on form. That is a really nice '96. Biggest disappointment for me in the vintage has consistently been the Bollinger RD. Interesting the Charles Heiseick elected not to make a Blanc des Millenaires in 1996, having…
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Bollinger Vintage Champagne Grande Annee | 1996 | RJ | 96 | In many respects the wine is reminiscent of the critically acclaimed '90 with its exotically rich fruit and a timbre somewhat less masculine than in the more cl… | 261W·W26 lot 26242 |
+| Bollinger Vintage Champagne La Cote aux Enfants | 2013 | — | 96 | ...with a dosage of four grams per liter, it unfurls from the glass with a deep bouquet of pear, wildflower honey and white peach, mingling with spice and bread… | 265DE·W2026-06 lot 584 |
+| Bollinger Vintage Champagne La Grande Annee | 2004 | Burghound | 93 | It's firm and imparts plenty of punch to the precise middle weight flavors that possess the same complexity and refinement that is displayed by the nose, all wr… | 261W·W28 lot 28044 |
+| Bollinger Vintage Champagne La Grande Annee | 2014 | Vinous | 98 | What comes through most is the wine's sizzling energy and tension, qualities that aren't often associated with Bollinger, where the Champagnes tend to show more… | 261W·W25 lot 25227 |
+| Bollinger Vintage Champagne RD | 1990 | Wine Spectator | 97 | A full-bodied, powerful Champagne featuring biscuit and ginger aromas and flavors, picking up a grilled nut character on the finish. Very firmly structured and… | 261W·W26 lot 25542 |
+| Bollinger Vintage Champagne RD | 1996 | International Wine Cellar | 95 | Light gold. Dramatic aromas of ripe peach, pear, mango, musky yellow plum, fig, buttery brioche, toasted nuts and baking spices. Rich, deep and expansive on the… | 261W·W28 lot 27666 |
+| Bollinger Vintage Champagne RD | 2008 | — | 98+ | ...unwinding in the glass with notes of crisp orchard fruit, orange peel, freshly baked bread, subtle hints of fino sherry, wet stones and macadamia nut. | 265DE·W2026-06 lot 585 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated._

@@ -83,7 +83,6 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
-| Corton Charlemagne | 1997 | — | 91-93 | Latour's Corton-Charlemagne is this negociant's flagship wine. The 1997's nose was rather unyielding on my visit to the firm's Chateau Grancey (in Aloxe-Corton)… | 261W·W30 lot 24748 |
 | Corton Château Corton Grancey | 2022 | James Suckling | 98 |  | Raeders 2026-04-25 |
 | Corton Château Corton Grancey | 2022 | Wine Spectator | 97 |  | Raeders 2026-04-25 |
 | Corton-Charlemagne | 2023 | Wine Advocate | 94 |  | Raeders 2026-04-25 |

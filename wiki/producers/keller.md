@@ -113,6 +113,18 @@ Distributed through Skurnik and Terry Theise networks, reflecting alignment with
 
 Keller's influence in elevating Rheinhessen's reputation, combined with commitment to dry, mineral-driven winemaking, places the producer squarely within Evan's taste parameters.
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Riesling Auslese Abts E | 2017 | Vinous | 93 | More than three-quarters of the fruit for this Auslese was healthy, reported Keller. Scents of quince jelly and white raisin anticipate the rich concentration d… | 261W·W26 lot 26165 |
+| Riesling Hubacker, Grosses Gewachs | 2007 | Vinous | 94 | Bright aromas of white peach, sweet lime and persimmon. The crisp, clean structure of this wine masks its intense, spicy weight and ethereal apricot fruit. A fi… | 261W·W2026-06 lot 24438 |
+| Riesling Kirchspiel, Grosses Gewachs | 2019 | — | 96 | Keller's 2019 Kirchspiel Riesling GG opens puristic and chalky on the nose with lemon oil and woodruff aromas. Juicy, round and rich on the palate, with smooth… | 261W·W26 lot 25825 |
+| Riesling Kirchspiel, Grosses Gewachs | 2020 | Vinous | 94 | Lime, grapefruit, lavender, roux and thyme combine for a haunting fragrance. Crisp, tangy, fresh apple joins the aforementioned elements on a polished, firm pal… | 261W·W26 lot 25826 |
+| Riesling Kirchspiel, Grosses Gewachs | 2021 | Vinous | 95 | The aromas here are enticing and boldly projected: iris, moss, basil and pit-inflected white peach. On the palate, there is gum-coating concentration and a sati… | 261W·W26 lot 25827 |
+
 ## Cross-references
 
 - [[Germany_Producers|Germany]]

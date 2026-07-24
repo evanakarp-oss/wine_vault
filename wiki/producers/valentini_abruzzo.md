@@ -50,6 +50,15 @@ Edoardo Valentini (1927–2006) set out to prove that Abruzzo's native varieties
 
 The winery offers no visits, tastings, or direct sales, adding to its mystique. Wines are released through select import channels. Allocation scarcity and the producer's refusal of commercial pressure have made Valentini bottles objects of veneration in serious cellars worldwide.
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Trebbiano D'Abruzzo | 2013 | Vinous | 95+ | Vivid pale yellow. Mesmerizingly pure aromas of lemon, peach, minerals, jasmine and menthol; this is almost Riesling-like.Then magically combines creamy-sweet a… | 261W·W2026-06 lot 24441 |
+| Trebbiano D'Abruzzo | 2018 | — | 96+ | its best cards in the mouth thanks to its seamless and fluid delivery. The wine is creamy and dense with peach cobbler and bakery aromas... | 261W·W2026-06 lot 23943 |
+
 ## Cross-references
 
 - [[Abruzzo_Producers|Abruzzo]]

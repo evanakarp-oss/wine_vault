@@ -94,7 +94,9 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
-| Gevrey Chambertin Clos St. Jacques | 2002 | Burghound | 90 | This is not far behind the '03 in terms of ripeness but there is much better acidity and freshness with mocha, blackberry and blueberry notes on the nose that l… | 261W·W30 lot 29581 |
+| Gevrey Chambertin Clos St. Jacques | 2002 | Burghound | 90 | This is not far behind the '03 in terms of ripeness but there is much better acidity and freshness with mocha, blackberry and blueberry notes on the nose that l… | 261W·W26 lot 25489 |
+| Gevrey Chambertin Clos St. Jacques | 2016 | Vinous | 94 | The 2016 Gevrey-Chambertin Clos Saint-Jacques 1er Cru is darker in colour than its peers. The bouquet is driven by a lot of new oak (indicating that it is proba… | 261W·W26 lot 25955 |
+| Ruchottes Chambertin | 2002 | Burghound | 92 | The first wine to really display any obvious wood as the nose is quite toasty and this element continues on to the rich, truffle-infused flavors that are beauti… | 261W·W25 lot 24955 |
 
 ## Down to Earth Wines (Panzer)
 

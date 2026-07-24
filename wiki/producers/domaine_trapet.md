@@ -148,7 +148,18 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
+| Chambertin | 1998 | Vinous | 92-96 | Deep ruby. Wild aromas of blackberry, violet, minerals, smoked meat and baking spices. Thick and large-scaled but not at all heavy; seamless and spherical. A wi… | 261W·W25 lot 24951 |
+| Chambertin | 2002 | — | 94 | Supple, pure, silky-textured, and medium to full-bodied, it is a fleshy, lush wine. Its flavor profile, composed of licorice, tar, cassis liqueur, and syrupy da… | 265DE·W2026-06 lot 473 |
+| Chambertin | 2006 | JG | 94-95 | The bouquet is deep and compelling, as it soars from the glass in a blazer of sweet cherries, red plum, cocoa, a bit of grilled meat, woodsmoke, a superb base o… | 265DE·W2026-06 lot 473 |
+| Chambertin | 2007 | Burghound | 92-95 | A floral, cool, reserved and very restrained but highly complex nose offers up impressively fine gradations of fresh pinot fruit and warm earth aromas that merg… | 265DE·W2026-06 lot 473 |
+| Chambertin | 2008 | Vinous | 94+ | Medium red. Blueberry, minerals and spices on the nose, lifted by notes of rose and white pepper. Pure and silky but with terrific inner-mouth tension to the sa… | 265DE·W2026-06 lot 473 |
+| Chambertin | 2012 | — | 94 | Tasted blind at the annual "Burgfest" tasting in Beaune. The 2012 Chambertin Grand Cru from Domaine J-L Trapet has a very perfumed, mint-tinged bouquet with des… | 265DE·W2026-06 lot 473 |
+| Chambertin | 2013 | Vinous | 94+ | Bright medium red. Very complex, subtle aromas of raspberry, flowers, licorice, minerals and menthol opened nicely with air. Boasts terrific inner-mouth menthol… | 261W·W26 lot 25895 |
+| Chambertin | 2018 | Vinous | 95 | There is a really lovely purity to the sleek, dense, intense and markedly powerful large-scaled flavors that exude an almost pungent minerality on the austere,… | 265DE·W2026-06 lot 474 |
+| Chambertin | 2019 | Burghound | 93 | it's even cooler with a bit more earth, floral and spice influences. There is outstanding power to the bigger, richer and more concentrated big-bodied flavors t… | 265DE·W2026-06 lot 474 |
+| Chapelle Chambertin | 2019 | Burghound | 91-94 | Here too the whole cluster vinification is discernible on the ripe and elegant aromas of plum liqueur, violet and a pretty range of spice and soft wood elements… | 265DE·W2026-06 lot 476 |
 | Latricieres Chambertin | 2005 | Burghound | 94 | An exceptionally fresh nose of beautiful red berry fruit and mineral hints trimmed in a subtle touch of wood spice introduces absolutely lovely, classy and pure… | 261W·W30 lot 29320 |
+| Latricieres Chambertin | 2019 | Vinous | 96-98 | ...has a well-defined bouquet of ebullient dark berry fruit laced with light woodland and earthy scents. So much vigor and coiled-up energy! The palate is mediu… | 265DE·W2026-06 lot 476 |
 
 ## Down to Earth Wines (Panzer)
 

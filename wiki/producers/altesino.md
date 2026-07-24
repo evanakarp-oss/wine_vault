@@ -90,10 +90,12 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 | Brunello di Montalcino Montosoli | 2015 | James Suckling | 97 | WA 96+ JS 97 V 96 Altesino's 2015 Brunello di Montalcino Montosoli shows those celebrated characteristics of this special vineyard cru that are always portrayed… | Raeders 2026-04-25 |
 | Brunello di Montalcino Montosoli | 2015 | Wine Spectator | 95 |  | Raeders 2026-04-25 |
 | Brunello di Montalcino Montosoli | 2015 | Wine Enthusiast | 96 |  | Raeders 2026-04-25 |
-| Brunello di Montalcino Riserva | 1995 | — | 91 | Altesino's flagship offering, the 1995 Brunello di Montalcino Riserva, exhibits a dark plum/garnet color in addition to superb, complex aromas of dried flowers,… | 261W·W30 lot 27779 |
+| Brunello di Montalcino Riserva | 1995 | — | 91 | Altesino's flagship offering, the 1995 Brunello di Montalcino Riserva, exhibits a dark plum/garnet color in addition to superb, complex aromas of dried flowers,… | 261W·W28 lot 27779 |
+| Brunello di Montalcino Riserva | 2010 | — | 94 | The 2010 Brunello di Montalcino Riserva is a plump, soft, rich and opulent expression with red fruit aromas of cherry, raspberry and cassis. It's not overtly ov… | 261W·W26 lot 25723 |
 | Brunello di Montalcino Riserva | 2013 | James Suckling | 93 |  | Raeders 2026-04-25 |
 | Brunello di Montalcino Riserva | 2013 | Wine Spectator | 97 |  | Raeders 2026-04-25 |
 | Brunello di Montalcino Riserva | 2013 | Wine Enthusiast | 93 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino Riserva | 2016 | — | 96 |  | 261W·W25 lot 25235 |
 | Brunello di Montalcino Riserva | 2017 | Wine Advocate | 93 |  | Raeders 2026-04-25 |
 | Brunello di Montalcino Riserva | 2017 | James Suckling | 95 |  | Raeders 2026-04-25 |
 | Brunello di Montalcino Riserva | 2017 | Wine Spectator | 93 |  | Raeders 2026-04-25 |

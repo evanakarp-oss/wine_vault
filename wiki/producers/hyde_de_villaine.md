@@ -69,6 +69,14 @@ _Not covered by Chambers Street as of this writing._
 _Pending — drop an Obsidian Web Clipper save into `raw/clippings/vinous/` and run
 `python scripts/compile_clippings.py vinous --apply`._
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| St. Aubin Les Perrieres | 2014 | Burghound | 90 | There is fine volume to the rich but punchy and mineral-inflected medium weight flavors that also possess a highly seductive texture while delivering fine depth… | 261W·W28 lot 27525 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not in portfolio._

@@ -142,8 +142,14 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
-| Domaine de Chevalier | 2012 | — | 92-95 | One of the stars of the vintage, it boasts a dense purple color as well as a big, sweet bouquet of red and black currants, graphite, subtle flowers and well-int… | 261W·W30 lot 17963 |
-| Domaine de Chevalier | 2013 | Vinous | 91-94 | ...opens up beautifully, showing off its multi-faceted personality. What a gorgeous wine this is. Violets, sage and new leather add the final layers of complexi… | 261W·W30 lot 25286 |
+| Domaine de Chevalier | 1978 | — | 92 | One of the great wines of this irregular vintage, this beautifully-scented claret with its penetrating fragrance of wet stones, blackcurrants, cedar, and smoke… | 261W·W29 lot 28811 |
+| Domaine de Chevalier | 1983 | — | 92 | The 1983 Domaine de Chevalier is one of the most seductive, elegant, and compelling wines made at this estate in the last 20 years. It has developed beautifully… | 261W·W25 lot 25110 |
+| Domaine de Chevalier | 2005 | — | 95 |  | 261W·W26 lot 26218 |
+| Domaine de Chevalier | 2009 | — | 95 | ...one of the finest Domaine de Chevaliers yet produced, reveals a striking bouquet of burning embers, sweet cherry, black and red currant fruit, spice box, ced… | 261W·W2026-06 lot 23112 |
+| Domaine de Chevalier | 2012 | — | 92-95 | One of the stars of the vintage, it boasts a dense purple color as well as a big, sweet bouquet of red and black currants, graphite, subtle flowers and well-int… | 261W·W25 lot 17963 |
+| Domaine de Chevalier | 2013 | Vinous | 91-94 | ...opens up beautifully, showing off its multi-faceted personality. What a gorgeous wine this is. Violets, sage and new leather add the final layers of complexi… | 261W·W25 lot 25286 |
+| Domaine de Chevalier Blanc | 2009 | — | 95+ | ...80% Sauvignon Blanc and 20% Semillon from one of the great estates in Pessac-Leognan, the wine has notes of white currants, melon, and flint/crushed rock wit… | 261W·W26 lot 25427 |
+| Domaine de Chevalier Blanc | 2016 | Vinous | 94 | The well-balanced palate leads with quince and orange peel on the entry, revealing a pleasant bitter undertow and fanning out with confidence toward the saline… | 261W·W26 lot 26107 |
 | Pessac-Leognan | 2022 | Wine Advocate | 96 |  | Raeders 2026-04-25 |
 | Pessac-Leognan | 2022 | James Suckling | 98 | WA 96 D 96 JD 98 JS 98 V 96 Commemorating his 40th harvest at the helm of the estate, Olivier Bernard has crafted a wine of abundant promise. Evoking aromas of… | Raeders 2026-04-25 |
 | Pessac-Leognan | 2022 | Wine Spectator | 96 |  | Raeders 2026-04-25 |

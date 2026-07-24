@@ -14,10 +14,17 @@ the compile step's job (same split as scrape/parse vs compile elsewhere).
 Critic initials → publication (auction convention). Unknown initials are kept
 verbatim in `critic` so nothing is silently mis-attributed.
 
+Landing is complete-by-construction: with no --file, EVERY parseable catalog
+in raw/auctions/ is landed (not just the newest), so no week is ever silently
+skipped. 261W is a rolling weekly sale (unsold lots persist week to week);
+that's fine — the compile step dedupes ratings by (wine, vintage, critic,
+score), so overlapping lots across weeks collapse to one row per rating.
+
 Usage:
-    python scripts/parse_auction_ratings.py                       # newest 261W catalog → dry-run summary
-    python scripts/parse_auction_ratings.py --apply               # write raw/ratings/<sale>/ratings_<week>.json
-    python scripts/parse_auction_ratings.py --file raw/auctions/Catalog_261W_30.xlsx --apply
+    python scripts/parse_auction_ratings.py                       # parse ALL catalogs → dry-run summary
+    python scripts/parse_auction_ratings.py --apply               # write raw/ratings/<sale>/ratings_<week>.json for all
+    python scripts/parse_auction_ratings.py --file raw/auctions/Catalog_261W_30.xlsx --apply   # single catalog
+    python scripts/parse_auction_ratings.py --check               # exit 1 if any catalog is unlanded (CI drift guard)
 """
 from __future__ import annotations
 
@@ -70,12 +77,64 @@ def load_rows(path: Path) -> list[dict]:
 
 
 def sale_ident(path: Path) -> tuple[str, str]:
-    """('261W', '30') from Catalog_261W_30.xlsx; ('261W','') fallback."""
-    m = re.search(r"Catalog_([0-9]+[A-Za-z]*)_([0-9]+)", path.stem, re.IGNORECASE)
-    if m:
-        return m.group(1).upper(), m.group(2)
-    m = re.search(r"([0-9]+[A-Za-z]+)", path.stem)
-    return (m.group(1).upper() if m else path.stem), ""
+    """Extract (sale, week) from a catalog filename, robust to naming variants:
+
+        Catalog_261W_30.xlsx              -> ('261W', '30')
+        Catalog_261W_25.xlsx              -> ('261W', '25')
+        catalog_261W_week26_2026-06.xlsx  -> ('261W', '26')      # explicit week token
+        catalog_261W_2026-06.xlsx         -> ('261W', '2026-06') # no week number -> date-keyed
+        catalog_265DE_2026-06.xlsx        -> ('265DE', '2026-06')
+
+    The week is only used to key the output filename; it must be unique per
+    catalog so nothing overwrites another. A date fallback keeps undated-week
+    catalogs lossless instead of colliding on a bare ratings.json.
+    """
+    stem = path.stem
+    sm = re.search(r"(\d{2,4}[A-Za-z]{1,3})", stem)          # sale token e.g. 261W / 265DE
+    sale = sm.group(1).upper() if sm else stem.upper()
+    wm = re.search(r"week[_-]?(\d{1,2})", stem, re.IGNORECASE)
+    if wm:
+        return sale, wm.group(1)
+    # "_<week>" immediately after the sale token (Catalog_261W_30), but not a year
+    m2 = re.search(re.escape(sale) + r"[_-](\d{1,2})(?!\d)", stem, re.IGNORECASE)
+    if m2:
+        return sale, m2.group(1)
+    dm = re.search(r"(\d{4}-\d{2})", stem)                   # date-keyed fallback
+    return sale, (dm.group(1) if dm else "")
+
+
+def out_path_for(sale: str, week: str) -> Path:
+    """Landing path for a (sale, week). Numeric weeks keep the historical
+    `ratings_week<n>.json`; date/other keys use `ratings_<key>.json`."""
+    if week.isdigit():
+        name = f"ratings_week{week}.json"
+    elif week:
+        name = f"ratings_{week}.json"
+    else:
+        name = "ratings.json"
+    return RATINGS / sale / name
+
+
+def discover_catalogs() -> list[Path]:
+    """Every auction catalog we can parse: an .xlsx openpyxl can open that has
+    a WineNote column. Old .xls (e.g. Zachys) and non-catalog sheets are
+    skipped with a warning rather than silently dropped."""
+    out = []
+    for p in sorted(AUCTIONS.glob("*.xls*")):
+        if p.suffix.lower() != ".xlsx":
+            print(f"  ! skipping {p.name}: not .xlsx (needs conversion — landing gap)", file=sys.stderr)
+            continue
+        try:
+            wb = openpyxl.load_workbook(p, read_only=True, data_only=True)
+            hdr = [str(x) for x in next(wb.worksheets[0].iter_rows(min_row=1, max_row=1, values_only=True))]
+        except Exception as e:
+            print(f"  ! skipping {p.name}: unreadable ({e})", file=sys.stderr)
+            continue
+        if "WineNote" not in hdr:
+            print(f"  ! skipping {p.name}: no WineNote column (not an Acker-format catalog)", file=sys.stderr)
+            continue
+        out.append(p)
+    return out
 
 
 def clean_note(note: str) -> str:
@@ -139,33 +198,13 @@ def extract(rows: list[dict], sale: str, week: str, source_file: str) -> list[di
     return out
 
 
-def main() -> int:
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--file", help="Catalog xlsx to parse (default: newest 261W in raw/auctions/)")
-    ap.add_argument("--apply", action="store_true", help="Write JSON. Default is dry-run summary.")
-    args = ap.parse_args()
-
-    if args.file:
-        path = Path(args.file)
-        if not path.is_absolute():
-            path = VAULT / path
-    else:
-        cands = sorted(AUCTIONS.glob("Catalog_261W_*.xlsx"),
-                       key=lambda p: p.stat().st_mtime, reverse=True)
-        if not cands:
-            sys.exit("no Catalog_261W_*.xlsx in raw/auctions/")
-        path = cands[0]
-
+def parse_one(path: Path, apply: bool) -> dict:
+    """Parse a single catalog; write JSON if apply. Returns a summary dict."""
     sale, week = sale_ident(path)
     rel = str(path.relative_to(VAULT)) if path.is_relative_to(VAULT) else str(path)
     rows = load_rows(path)
     ratings = extract(rows, sale, week, rel)
-
-    from collections import Counter
-    crit = Counter(r["critic"] or "(unattributed)" for r in ratings)
-    print(f"{path.name}: {len(rows)} lots → {len(ratings)} scored ratings")
-    for k, v in crit.most_common():
-        print(f"  {v:4d}  {k}")
+    out_path = out_path_for(sale, week)
 
     payload = {
         "sale": sale,
@@ -175,15 +214,56 @@ def main() -> int:
         "count": len(ratings),
         "ratings": ratings,
     }
-    out_dir = RATINGS / sale
-    out_name = f"ratings_week{week}.json" if week else "ratings.json"
-    out_path = out_dir / out_name
-    if args.apply:
-        out_dir.mkdir(parents=True, exist_ok=True)
+    if apply:
+        out_path.parent.mkdir(parents=True, exist_ok=True)
         out_path.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
-        print(f"\nwrote {out_path.relative_to(VAULT)}")
+    return {"path": path, "sale": sale, "week": week, "lots": len(rows),
+            "ratings": len(ratings), "out": out_path}
+
+
+def main() -> int:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--file", help="Single catalog xlsx to parse (default: ALL catalogs in raw/auctions/)")
+    ap.add_argument("--apply", action="store_true", help="Write JSON. Default is dry-run summary.")
+    ap.add_argument("--check", action="store_true",
+                    help="Exit 1 if any parseable catalog has no landed ratings JSON (CI drift guard).")
+    args = ap.parse_args()
+
+    if args.file:
+        path = Path(args.file)
+        if not path.is_absolute():
+            path = VAULT / path
+        catalogs = [path]
     else:
-        print(f"\n(dry-run) would write {out_path.relative_to(VAULT)} — pass --apply")
+        catalogs = discover_catalogs()
+        if not catalogs:
+            sys.exit("no parseable catalogs in raw/auctions/")
+
+    # --check: report any catalog whose landing JSON is missing; change nothing.
+    if args.check:
+        missing = []
+        for p in catalogs:
+            sale, week = sale_ident(p)
+            if not out_path_for(sale, week).exists():
+                missing.append((p.name, sale, week))
+        if missing:
+            print(f"UNLANDED catalogs ({len(missing)}) — run: python scripts/parse_auction_ratings.py --apply")
+            for name, sale, week in missing:
+                print(f"  {name}  ->  {sale} W{week}")
+            return 1
+        print(f"all {len(catalogs)} catalogs landed ✓")
+        return 0
+
+    summaries = [parse_one(p, args.apply) for p in catalogs]
+    print(f"{'wrote' if args.apply else '(dry-run) would write'} {len(summaries)} ratings file(s):\n")
+    total = 0
+    for s in sorted(summaries, key=lambda s: (s["sale"], s["week"])):
+        total += s["ratings"]
+        print(f"  {s['sale']:>6} W{s['week']:<8} {s['lots']:>5} lots -> {s['ratings']:>4} ratings   "
+              f"{s['out'].relative_to(VAULT)}")
+    print(f"\ntotal ratings across catalogs: {total}")
+    if not args.apply:
+        print("(dry-run — pass --apply to write)")
     return 0
 
 

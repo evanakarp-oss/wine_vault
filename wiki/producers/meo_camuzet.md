@@ -107,10 +107,32 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
 | Clos De Vougeot Grand Cru | 2022 | Wine Spectator | 95 |  | Raeders 2026-04-25 |
-| Clos Vougeot | 2019 | Vinous | 95-97 | The palate is medium-bodied with succulent ripe tannins. This is a juicy Clos de Vougeot, a little savory and quite peppery on the finish... | 261W·W30 lot 28388 |
+| Clos Vougeot | 1998 | International Wine Cellar | 91 | Aromas of cherry, licorice and spicy oak, plus a violet topnote. Rich, broad and fleshy, with impressive sweetness and volume for a young Clos Vougeot. Then fin… | 261W·W25 lot 24976 |
+| Clos Vougeot | 2003 | Wine Spectator | 96 | A fruit bomb, this is packed with cassis, plum, violet and mineral notes with freshness and extremely fine tannins. It builds and builds on the palate with inte… | 265DE·W2026-06 lot 737 |
+| Clos Vougeot | 2019 | Vinous | 95-97 | The palate is medium-bodied with succulent ripe tannins. This is a juicy Clos de Vougeot, a little savory and quite peppery on the finish... | 261W·W29 lot 28388 |
+| Clos Vougeot | 2020 | — | 93-95 | ...is very promising, unfurling in the glass with aromas of wild berries, cherries, orange rind, potpourri and loamy soil. Full-bodied, velvety and concentrated… | 261W·W28 lot 27484 |
+| Clos Vougeot | 2021 | — | 91-93 | The 2021 Clos de Vougeot Grand Cru is more structured, unwinding in the glass with aromas of smoky berries, sweet spices, plums and orange zest. Medium to full-… | 261W·W26 lot 25475 |
+| Clos Vougeot | 2022 | Vinous | 92-94 | The well-defined bouquet is initially understated, with red and black fruit mixed with subtle marine scents, oyster shells and sea cave. The palate is medium-bo… | 261W·W26 lot 25476 |
 | Corton Perrieres Grand Cru | 2022 | Wine Spectator | 96 |  | Raeders 2026-04-25 |
 | Echezeaux Grand Cru 'Les Rouges du Bas' | 2020 | Wine Advocate | 95 |  | Raeders 2026-04-25 |
+| Echezeaux Les Rouges Du Bas | 2005 | Burghound | 91-93 | An exuberantly spicy and exotic nose of black pinot, cassis and plum notes combines with hints of anise, cinnamon and clove that dissolve into more elegant and… | 261W·W28 lot 27485 |
+| Echezeaux Les Rouges Du Bas | 2015 | — | 94+ | The 2015 Echézeaux from Domaine Méo-Camuzet is also outstanding, with a deep and very black fruity personality this year showing promise of great refinement at… | 261W·W26 lot 25673 |
+| Nuits St. Georges Aux Boudots | 2011 | Burghound | 91-93 | Mild reduction blocks a clear examination of the nose. There is good volume and plenty of dry extract that imparts a wonderfully seductive texture to the silky… | 261W·W29 lot 28390 |
+| Nuits St. Georges Aux Murgers | 2005 | Burghound | 90-92 | As it usually is, the nose is more reserved and more typical of a classic Nuits with a brooding aromatic profile of red and black fruit, underbrush, game and ir… | 261W·W26 lot 25479 |
+| Nuits St. Georges Aux Murgers | 2013 | Burghound | 91 | There is excellent volume and power to the rich, muscular and vibrant medium weight flavors that possess an abundance of dry extract that imparts an equally sed… | 261W·W29 lot 28391 |
+| Nuits St. Georges Aux Murgers | 2015 | — | 90-92 | The 2015 Nuits Saint Georges 1er Cru Aux Murgers has a clean and precise bouquet with black cherry, wild strawberry and cassis aromas that fight their way throu… | 261W·W29 lot 28393 |
+| Nuits St. Georges Les Boudots | 2009 | Burghound | 91-93 | A very spicy, fresh and overtly sexy nose speaks of ripe black berry fruit and cassis aromas that introduce rich, sappy and imposingly voluminous flavors that p… | 261W·W25 lot 25207 |
 | Nuits-St.-Georges Aux Murgers | 2018 | Wine Spectator | 93 | Dark, rich tones of blackberry, black cherry and blueberry mark this plush red. There is enough lift from the acidity on the finish and a light rasp of tannins.… | Raeders 2026-04-25 |
+| Richebourg | 2003 | — | 96 | Loads of spices, red fruits, and blackberries are found in the nose of the 2003 Richebourg. Massive, rich, and concentrated, this velvety-textured wine displays… | 265DE·W2026-06 lot 738 |
+| Richebourg | 2005 | Burghound | 97 | ...this is presently quite reserved though the reticent aromas of dark pinot fruit, minerals, earth and now more evident spice notes are ripe, stylish and class… | 265DE·W2026-06 lot 739 |
+| Richebourg | 2011 | Vinous | 93-96 | Saturated bright, deep red. Sappy black cherry, wild herbs, tea leaf and exotic spices on the complex but subdued nose. Broad, rich, deep and classically dry, w… | 265DE·W2026-06 lot 950 |
+| Richebourg | 2020 | Burghound | 94-97 | A restrained, elegant and wonderfully fresh nose speaks of a beautiful array of spice and floral elements on the mix of both red and dark fruit, exotic tea and… | 265DE·W2026-06 lot 989 |
+| Vosne Romanee Aux Brulees | 1999 | Burghound | 94 | In contrast to the almost exuberant expressiveness of several vintages of Brulées, the '99 is quite reserved though aggressive swirling coaxes the first hints o… | 261W·W29 lot 28510 |
+| Vosne Romanee Aux Brulees | 2003 | Burghound | 94 | There is still a bit of wood toast framing the notably ripe aromas of roasted plum, spice, earth and Asian-style tea that are trimmed in an interesting smoky no… | 261W·W26 lot 25600 |
+| Vosne Romanee Cros Parantoux | 2005 | Burghound | 96 | As with many '05s after bottling, the nose of extract of black pinot and black cherry fruit that is also spicy and elegant has already begun to shut down and th… | 265DE·W2026-06 lot 740 |
+| Vosne Romanee Les Chaumes | 2014 | Burghound | 90-92 | Once again there is a discreet but not invisible application of wood setting off the very Vosne-like nose of Asian-style tea, sandalwood, violet, dark berry and… | 261W·W29 lot 28394 |
+| Vosne Romanee Les Chaumes | 2020 | Vinous | 92-94 | ... has a very pure and perfumed bouquet with dark cherries, violet and hints of blueberry, the floral component emerging with time. | 261W·W28 lot 27486 |
+| Vosne Romanee Les Chaumes | 2022 | Burghound | 89-92 | An exuberantly spicy and very Vosne nose speaks of ripe black pinot fruit, clove, anise and whiffs of hoisin and jasmine tea. | 261W·W26 lot 25481 |
 
 ## Down to Earth Wines (Panzer)
 

@@ -87,6 +87,21 @@ _A cult grower in the Aube whose Roses de Jeanne cuvées are each single-parcel,
 
 > [Cédric Bouchard] Let’s face it: mass-produced, extensively marketed Champagne is all around us: TV shows, billboards, music videos, glossy magazine ads telling us that expensive bubbly wine in a shiny bottle or box is the ultimate representation of luxury…
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Cedric Bouchard Champagne Roses de Jeanne Blanc de Noirs Cote de Val Vilaine | NV | — | 94 | Officially non-vintaged but based on 2015, the NV Blanc de Noirs "Côte de Val Vilaine" (2015) is pure Pinot Noir sourced from a south-facing 1.41-hectare plot p… | 261W·W26 lot 26062 |
+| Cedric Bouchard Vintage Champagne Cote de Val Vilaine | 2021 | Vinous | 93 | Pear, white flowers, spice and apple tart linger. This is an especially fine edition and a serious wine. | 265DE·W2026-06 lot 586 |
+| Cedric Bouchard Vintage Champagne Cote de Val Vilaine | 2022 | Vinous | 93 | Pear, kirsch, white flowers and mint are beautifully layered. This is an especially fine edition of the Val Vilaine, a Champagne that will give readers a very g… | 265DE·W2026-06 lot 587 |
+| Cedric Bouchard Vintage Champagne Cote de Val Vilaine | 2023 | — | 94+ | ...has turned out beautifully, bursting from the glass with aromas of orange oil, pear, mirabelle plum, peach and freshly baked bread. | 265DE·W2026-06 lot 586 |
+| Cedric Bouchard Vintage Champagne La Boloree | 2008 | — | 97 | ...is also beginning to drink brilliantly, unfurling in the glass with notes of pear, blanched almonds, beeswax and dried white flowers. | 265DE·W2026-06 lot 1024 |
+| Cedric Bouchard Vintage Champagne Roses de Jeanne, La Boloree | 2019 | — | 98 | Unwinding in the glass with notes of white currants, peach and pear mingled with notions of bread dough, dried white flowers and spices, it's medium to full-bod… | 265DE·W2026-06 lot 587 |
+| Cedric Bouchard Vintage Champagne Roses de Jeanne, La Haute-Lemble | 2019 | — | 96+ | ...offers up notes of peach, pear and apple mingled with notions of toasted nuts and anise. Full-bodied, broad and layered, it's rich, dense and concentrated, w… | 265DE·W2026-06 lot 587 |
+| Cedric Bouchard Vintage Champagne Roses de Jeanne, Les Ursules | 2019 | — | 97+ | A medium to full-bodied, taut and chiseled wine redolent of white flowers, crisp green orchard fruit, freshly baked bread, orange blossom and wet stones. Dense… | 265DE·W2026-06 lot 587 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated._

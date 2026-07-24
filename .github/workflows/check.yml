@@ -40,6 +40,12 @@ jobs:
           python scripts/build_signals.py --check
           python scripts/build_ratings_board.py --check
 
+      - name: every auction catalog is landed (no unparsed weeks)
+        # Drift guard: fails if a catalog dropped in raw/auctions/ has no
+        # corresponding raw/ratings/ JSON. Prevents the recurrence of only
+        # the newest week being parsed while earlier weeks silently rot.
+        run: python scripts/parse_auction_ratings.py --check
+
       - name: producer schema + taxonomy lint passes clean
         # Strict gate: any new region taxonomy violation, mojibake
         # filename, surname collision (without aliases), or producer

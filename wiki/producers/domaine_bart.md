@@ -56,7 +56,8 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
-| Bonnes Mares | 2015 | Burghound | 90-93 | A fresh and more complex nose mingles wonderfully fresh aromas of both red and dark currant, violet, lavender and subtle spice wisps. There is excellent volume… | 261W·W30 lot 28217 |
+| Bonnes Mares | 2015 | Burghound | 90-93 | A fresh and more complex nose mingles wonderfully fresh aromas of both red and dark currant, violet, lavender and subtle spice wisps. There is excellent volume… | 261W·W29 lot 28217 |
+| Chambertin Clos de Beze | 2015 | Burghound | 91-92 | A ripe and overtly spicy nose displays notes of plum liqueur, dark currant, spice and plenty of earth. The sleek, intense, mineral-inflected and powerful medium… | 261W·W29 lot 28222 |
 
 ## Down to Earth Wines (Panzer)
 

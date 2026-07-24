@@ -145,7 +145,13 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
+| Riesling Kabinett Oberhauser Leistenberg | 2002 | — | 92 | For the second year in a row, Helmut Donnhoff has established a new Kabinett benchmark. There is an ethereal, Chevalier-Montrachet-like, quality to his 2002 Rie… | 261W·W28 lot 27734 |
+| Riesling Spatlese Kreuznacher Krotenpfuhl | 2007 | — | 95 | I'm tempted to assert that with his second rendition of this parcel (half of which gave its first crop) - namely his 2007 Kreuzncher Krotenpfuhl Riesling Spatle… | 261W·W25 lot 25145 |
 | Riesling Spatlese Niederhauser Hermannshohle | 2002 | — | 96 | ...hovering in that zone bordering perfection in which wines touch the soul. Profound aromas of liquid slate and pepper emanate from the it has flavors reminisc… | 261W·W30 lot 29471 |
+| Riesling Spatlese Niederhauser Hermannshohle | 2007 | — | 96 | Gardenia, peony, and resinous herbs in the nose of Donnhoff's 2007 Niederhauser Hermannshohle Riesling Spatlese give way to a palpably extract-rich palate of vi… | 261W·W25 lot 25146 |
+| Riesling Spatlese Niederhauser Hermannshohle | 2019 | — | 93-95 | The 2019 Riesling Spätlese Niederhäuser Hermannsh hle is ripe and intense as well as precise and flinty on the bright and elegant nose. Juicy yet very fine and… | 261W·W26 lot 25982 |
+| Riesling Spatlese Oberhauser Brucke | 2007 | — | 94 | Lemon, grapefruit, red raspberry and persimmon rise from the glass of 2007 Oberhauser Brucke Riesling Spatlese, whose palate dynamics seem like chamber music af… | 261W·W25 lot 25147 |
+| Riesling Spatlese Schlossbockelheimer Kupfergrube | 2007 | — | 94 | Scents of red and black currant, musk melon, orange, pear, and herbal essences in the nose of Donnhoff's 2007 Schlossbockelheimer Kupfergrube Riesling Spatlese… | 261W·W25 lot 25148 |
 
 ## Down to Earth Wines (Panzer)
 

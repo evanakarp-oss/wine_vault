@@ -101,6 +101,19 @@ Egon Müller is imported to the US through Skurnik and Terry Theise networks, bo
 
 The sweet-wine aesthetic requires its own justification — but in Evan's taste frame (which embraces "terroir-driven, biodynamic-leaning, grower-scale"), Egon Müller's wines fit because they represent mastery of a specific terroir and commitment to traditional craft despite market pressure to modernize.
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Riesling Auslese Scharzhofberger | 2012 | International Wine Cellar | 93 | Flamboyantly ripe aromas of candied peach, acacia blossom and cinnamon, with nary a hint of botrytis. Rich, velvety and sweet, with a texture of apricot preserv… | 265DE·W2026-06 lot 649 |
+| Riesling Auslese Scharzhofberger | 2022 | Vinous | 95 | ...is still closed on the nose. It takes a lot of swirling to awaken passion fruit and citrus hints. The palate is rich and concentrated with grapefruit-edged p… | 265DE·W2026-06 lot 649 |
+| Riesling Auslese Scharzhofberger | 2023 | Vinous | 97 | ...made from botrytized fruit that's juicy but not shriveled, offers a nose of candied orange peel dipped in clear honey with hints of dried apricot and a light… | 265DE·W2026-06 lot 649 |
+| Riesling Kabinett Scharzhofberger | 2022 | Vinous | 93 | ...has a very open but tender nose: ripe greengage is bright and edged with a whisper of chervil. The sweetness on the palate kicks in first, but lightness take… | 261W·W30 lot 29163 |
+| Riesling Kabinett Scharzhofberger | 2023 | Vinous | 94 | ...comes from a completely south-facing gray slate site, always cooled by the west wind. Tender lemon spells tartness on the nose, opening into tart Reine Claud… | 261W·W30 lot 29164 |
+| Riesling Spatlese Scharzhofberger | 2016 | — | 95 | ...a clear and smoky/stony bouquet as well as a very delicate, bright and ripe (yet botrytis-free) Riesling aroma with floral and almost peppery slatey notes fa… | 261W·W30 lot 29165 |
+
 ## Cross-references
 
 - [[Germany_Producers|Germany]]

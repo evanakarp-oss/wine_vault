@@ -109,8 +109,14 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
+| Chateau Ducru Beaucaillou | 1962 | — | 91 | Tasted at the chateau, proprietor Bruno Borie thinks this a wonderful vintage, slightly overshadowed by 1961. The style is very different from the 1961—lacking… | 261W·W25 lot 24623 |
+| Chateau Ducru Beaucaillou | 1982 | — | 96 | ...it exhibits a dense ruby/plum/garnet color to the rim as well as a sweet perfume of forest floor, spice box, cedar, and copious quantities of black fruits. M… | 261W·W29 lot 28771 |
+| Chateau Ducru Beaucaillou | 1983 | JG | 94 | ...soars from the glass is a deep, pure and nascently complex nose of cassis, dark berries, woodsmoke, a touch of Ducru nuttiness, beautifully complex, gravelly… | 261W·W29 lot 28773 |
+| Chateau Ducru Beaucaillou | 1989 | — | 92 | Harvest took place this year from 11th to 24th September. The wine was aged for around 12 months in two-thirds new oak. Pale to medium brick colored, the 1989 D… | 261W·W25 lot 24624 |
+| Chateau Ducru Beaucaillou | 2003 | Wine Spectator | 97 | Intense aromas of blackberry, currant and cherry. Full-bodied, with masses of big, velvety tannins and a finish that lasts for minutes. A blockbuster. A classic… | 261W·W25 lot 24922 |
 | Chateau Ducru Beaucaillou | 2018 | James Suckling | 99 | Aromas of blackberries, blackcurrants, new leather and bark follow through to a full body with a dense, deep palate that goes on and on, but is still shy and re… | 261W·W30 lot 29363 |
-| Chateau Ducru Beaucaillou | 2019 | Vinous | 98 | ... has a glorious bouquet of cigar humidor, cedar, black fruit and a touch of black truffle, very complex and quite compelling. The palate is still very Pauill… | 261W·W30 lot 29365 |
+| Chateau Ducru Beaucaillou | 2019 | Vinous | 98 | ... has a glorious bouquet of cigar humidor, cedar, black fruit and a touch of black truffle, very complex and quite compelling. The palate is still very Pauill… | 261W·W26 lot 25375 |
+| Chateau Ducru Beaucaillou | 2020 | Vinous | 96-98 | It has a very succinct bouquet, not one that leaps from the glass and demands attention, but it unfolds slowly, at its own pace, revealing enticing scents of bl… | 261W·W26 lot 25376 |
 
 ## Down to Earth Wines (Panzer)
 

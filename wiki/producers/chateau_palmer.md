@@ -227,8 +227,18 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 | Alter Ego Margaux | 2020 | Wine Enthusiast | 94 |  | Raeders 2026-04-25 |
 | Alter Ego Margaux | 2022 | Wine Advocate | 93 |  | Raeders 2026-04-25 |
 | Alter Ego Margaux | 2022 | Wine Enthusiast | 95 |  | Raeders 2026-04-25 |
-| Chateau Palmer | 2001 | Wine Spectator | 94 | Extremely pretty, with flowers, berries, chocolate and spices. Full-bodied, with a solid core of fruit and ripe, silky tannins; long and caressing. Beautiful. P… | 261W·W30 lot 26885 |
-| Chateau Palmer | 2018 | Vinous | 100 | The 2018 Palmer is even more impressive from bottle than it was from barrel, and that is saying something. Rich, exotic and beautifully layered, Palmer is a rea… | 261W·W30 lot 29388 |
+| Chateau Palmer | 1982 | International Wine Cellar | 93 | Full, deep red. Spicy aromas of cassis and rose petal, with a whiff of meat. Then wonderfully penetrating and classy, with bright acidity giving the wine superb… | 261W·W29 lot 28600 |
+| Chateau Palmer | 1983 | — | 98 | One of the superb wines of the vintage, the 1983 Palmer continues to display a saturated purple/garnet color, and an intense perfume of jammy black fruits, smok… | 261W·W25 lot 25088 |
+| Chateau Palmer | 1989 | Vinous | 97 | It has a wonderful bouquet of degraded red berry fruit, singed leather and hints of game and mint, beautifully defined and still so fresh, yet undeniably old-sc… | 261W·W29 lot 28535 |
+| Chateau Palmer | 2001 | Wine Spectator | 94 | Extremely pretty, with flowers, berries, chocolate and spices. Full-bodied, with a solid core of fruit and ripe, silky tannins; long and caressing. Beautiful. P… | 261W·W25 lot 24662 |
+| Chateau Palmer | 2003 | Wine Spectator | 90 | Blackberry, licorice and tar follow through to a full-bodied palate, with firm, silky tannins and a medium berry and vanilla aftertaste. | 261W·W25 lot 24663 |
+| Chateau Palmer | 2005 | — | 97 | ...should continue to improve, and may merit an even higher score after additional aging. Stunningly rich and powerful, the dark purple-tinged 2005 Palmer is a… | 261W·W28 lot 26578 |
+| Chateau Palmer | 2006 | — | 94 | Tasted at Bordeaux Index's annual 10-Year On tasting in London. The 2006 Château Palmer was wonderful out of barrel ten years ago and now in bottle, it fulfills… | 261W·W2026-06 lot 24549 |
+| Chateau Palmer | 2009 | — | 98 | Deep garnet colored, the 2009 Palmer delivers a beguiling array of black fruit warm plums, cassis and black cherry compote with kirsch and wild sage sparks plus… | 261W·W29 lot 28536 |
+| Chateau Palmer | 2010 | — | 96+ | This showing did nothing to suggest otherwise. It offers stunning precision on the nose: incredibly fresh and vibrant with the same spine-tingling level of mine… | 261W·W29 lot 28537 |
+| Chateau Palmer | 2014 | Vinous | 95+ | The 2014 Palmer is endowed with serious depth and intensity. Black cherry, bittersweet chocolate, spice, leather, tobacco and menthol ... | 261W·W26 lot 26103 |
+| Chateau Palmer | 2016 | — | 98+ | The 2016 Palmer is a blend of 47% Merlot, 47% Cabernet Sauvignon and 6% Petit Verdot. Opaque garnet-purple colored, it slowly glides out of the glass with compe… | 261W·W26 lot 25404 |
+| Chateau Palmer | 2018 | Vinous | 100 | The 2018 Palmer is even more impressive from bottle than it was from barrel, and that is saying something. Rich, exotic and beautifully layered, Palmer is a rea… | 261W·W26 lot 25406 |
 | Margaux | 2017 | Wine Advocate | 97 |  | Raeders 2026-04-25 |
 | Margaux | 2017 | James Suckling | 98 |  | Raeders 2026-04-25 |
 | Margaux | 2017 | Wine Spectator | 95 |  | Raeders 2026-04-25 |

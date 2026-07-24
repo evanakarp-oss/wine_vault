@@ -52,6 +52,14 @@ _sources:
 
 > *﻿12/12/13 -* This is most likely our last offer of old Piedmont wine this year; there are some interesting wines we want to draw your attention to: Barolo Chinato is a ‘digestivo’ – something you usually drink after a meal, although in Piedmont some people…
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Barolo | 2012 | Vinous | 93 | ... is quite attractive. Tart cherry, tobacco, cedar and dried flowers are all nicely layered. | 261W·W26 lot 26172 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._

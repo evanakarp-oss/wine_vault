@@ -23,5 +23,15 @@ _sources: ["campanale_wine_book"]
 
 Italian producer from Campanale wine book.
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Salco Vino Nobile | 2016 | Wine Advocate | 92 |  | Raeders 2026-04-25 |
+| Salco Vino Nobile | 2016 | Wine Spectator | 96 |  | Raeders 2026-04-25 |
+| Salco Vino Nobile | 2016 | Wine Enthusiast | 93 |  | Raeders 2026-04-25 |
+
 ## Notes
 

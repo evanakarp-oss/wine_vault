@@ -67,6 +67,16 @@ _Seeded from Down to Earth (Panzer) portfolio. Not yet covered in CSW archive sw
 
 **Momentum 2023+:** 0.5× (steady).
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Barolo Ciabot Mentin Ginestra | 2000 | Wine Spectator | 95 | Fantastic aromas of cinnamon, violets and blackberries follow through to a full-bodied palate with supersilky tannins and a beautiful long, long finish. All in… | 261W·W28 lot 27781 |
+| Barolo Ciabot Mentin Ginestra | 2004 | — | 97 | The 2004 Barolo Ciabot Mentin Ginestra sweeps across the palate with stunning depth and expansiveness in its dark cherries, menthol, spices, chocolate and sweet… | 261W·W28 lot 27784 |
+| Barolo Pajana | 1996 | — | 94 | This is a spectacularly powerful, rich, concentrated wine. The sriking resemblance of the 1996 Barolo Pajana to a top-class Pomerol is unmistakable. This massiv… | 261W·W28 lot 27785 |
+
 ## Down to Earth Wines (Panzer)
 
 Currently tracked: **2 cuvée/vintage entries**; prices $75–$349.

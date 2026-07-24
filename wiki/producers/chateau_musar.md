@@ -77,7 +77,8 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
-| Chateau Musar | 1998 | — | 90 | The 1998 Chateau Musar is a rather prototypical Musar lots of acidity, some brett, fine structure. It reveals a more gentle style on opening, but aeration prove… | 261W·W30 lot 29482 |
+| Chateau Musar | 1998 | — | 90 | The 1998 Chateau Musar is a rather prototypical Musar lots of acidity, some brett, fine structure. It reveals a more gentle style on opening, but aeration prove… | 261W·W2026-06 lot 24482 |
+| Chateau Musar | 2003 | Vinous | 92 | ...very pretty, aromatic wine. Rosewater, dried flowers, orange peel and cinnamon all open up in the bouquet. The 2003 is an attractive, translucent Musar that… | 261W·W28 lot 27971 |
 
 ## Down to Earth Wines (Panzer)
 

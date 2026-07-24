@@ -144,9 +144,12 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
+| Chateau Leoville Barton | 1990 | — | 93+ | Believe it or not, the 1990 Leoville Barton can actually be drunk - something that cannot be said about the broodingly backward, still excruciatingly tannic 198… | 265DE·W2026-06 lot 37 |
 | Chateau Leoville Barton | 1996 | JK | 93 | ...more powerful, as it typically is, with a touch of game and exotic boysenberry in there. | 261W·W30 lot 29516 |
+| Chateau Leoville Barton | 2000 | — | 96 | The saturated purple-colored 2000 Leoville Barton is one of the greatest wines ever made at this estate. The wine has smoky, earthy notes intermixed with graphi… | 261W·W25 lot 24927 |
+| Chateau Leoville Barton | 2003 | Wine Spectator | 98 | Intense blackberry and cherry, with hints of currant. Toasted oak and sweet tobacco too. Roses and other flowers, such as lilacs. Full-bodied, with masses of ta… | 261W·W26 lot 26206 |
 | Chateau Leoville Barton | 2004 | — | 92+ | Concentrated, with loads of smoke, creme de cassis, forest floor, and earthy notes emerge from this impressive, but oh, so backward wine. | 261W·W30 lot 29517 |
-| Chateau Leoville Barton | 2005 | Wine Spectator | 96 | Delivers breathtaking aromas of blackberry, currant, licorice and flowers. Full-bodied, with a solid core of fruit and supersilky tannins. Dark chocolate, curra… | 261W·W30 lot 29454 |
+| Chateau Leoville Barton | 2005 | Wine Spectator | 96 | Delivers breathtaking aromas of blackberry, currant, licorice and flowers. Full-bodied, with a solid core of fruit and supersilky tannins. Dark chocolate, curra… | 261W·W2026-06 lot 24448 |
 | Chateau Leoville Barton | 2015 | Vinous | 96+ | ... is going to need quite a bit of time to come together, as it is massively tannic and structured at this stage. | 261W·W30 lot 29519 |
 | St Julien | 2000 | James Suckling | 96 |  | Raeders 2026-04-25 |
 | St Julien | 2000 | Wine Spectator | 97 |  | Raeders 2026-04-25 |

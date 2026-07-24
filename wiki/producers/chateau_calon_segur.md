@@ -113,6 +113,11 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
+| Chateau Calon Segur | 1988 | — | 91 | ... outshines both the 1990 and the 1989. Deeply colored, superbly balanced, rich, and full-bodied, it appears to be a worthy candidate for 20-25 years of longe… | 261W·W25 lot 25032 |
+| Chateau Calon Segur | 1995 | Wine Spectator | 96 | Greatest Calon-Segur ever made. An absolutely amazing red layers of berry, violets and perfume. It's full-bodied and very velvety on the palate, with masses of… | 261W·W25 lot 25198 |
+| Chateau Calon Segur | 1996 | — | 92 | The 1996, a 60% Cabernet Sauvignon, 40% Merlot blend, made from very low yields of 35 hectoliters per hectare (just over 2 tons of fruit per acre), appears to b… | 261W·W25 lot 24917 |
+| Chateau Calon Segur | 2000 | — | 94 | ...gorgeous aromas of creosote intermixed with spring flowers, black cherries, cassis, licorice, and stony, liquid minerals. A powerful, tannic, full-bodied and… | 261W·W25 lot 24918 |
+| Chateau Calon Segur | 2009 | — | 96 | The 2009 Calon-Ségur is deep garnet in color and opens with a beautiful fragrance of redcurrant preserves, cassis, black cherry compote and red roses plus nuanc… | 261W·W25 lot 24919 |
 | Chateau Calon Segur | 2016 | Vinous | 97 | Sweet floral, spice and minty notes add aromatic intensity to a core of sweet red cherry and plum fruit. There is plenty of underlying structure, but the tannin… | 261W·W30 lot 29357 |
 | Saint Estephe | 1995 | Wine Advocate | 94 |  | Raeders 2026-04-25 |
 | Saint Estephe | 1995 | James Suckling | 97 | JS 97 V 91 Tasted from an ex-château bottle at BI Wine & Spirits Calon-Segur dinner in London. The 1995 Calon-Segur was the vintage that raised the profile of t… | Raeders 2026-04-25 |

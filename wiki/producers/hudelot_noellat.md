@@ -136,6 +136,22 @@ berserkers_kelley_body:
 
 > I find this surprising. I haven’t had the Beaux Monts from bottle, but I’ve had the 2012 Chaumes, Petit Monts and Boudots this year, and all were exceptional—and very typical of 2012 Vosne. Ditto the Grands Echezeaux last summer. You could open them…
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Richebourg | 2001 | Burghound | 94 | Deep, complex, intensely sappy old vine, slightly floral aromas that offers almost every black fruit imaginable. Wonderfully harmonious and quite powerful with… | 265DE·W2026-06 lot 724 |
+| Richebourg | 2015 | — | 96+ | The 2015 Richebourg Grand Cru is a prodigious wine in the making, opening in the glass with a deep bouquet of black raspberry, cherry, licorice, orange rind, in… | 261W·W2026-06 lot 24039 |
+| Richebourg | 2022 | — | 95-97 | ...is brilliant, mingling aromas of dark berries and plums with notions of blood orange, rose petals, exotic spices and smoke in an incipiently complex mélange. | 265DE·W2026-06 lot 976 |
+| Romanee St. Vivant | 2001 | Burghound | 93 | What was incredibly expressive from cask is now closed and backward, yet vigorous swirling reveals glimpses of the seductive, very dark and expressive smoky bla… | 265DE·W2026-06 lot 723 |
+| Romanee St. Vivant | 2002 | International Wine Cellar | 93 | Dark red. Youthful raspberry and blackberry aromas accented by gingerbread, along with deeper mocha, smoked meat and candied rose accents. Lush, suave and deep,… | 261W·W25 lot 24963 |
+| Romanee St. Vivant | 2018 | Vinous | 93-95 | The 2018 Romanée-Saint-Vivant Grand Cru, matured in 50% new oak like all the domaine's grand crus, has a tightly wound bouquet of black cherries, raspberry coul… | 265DE·W2026-06 lot 949 |
+| Romanee St. Vivant | 2023 | Vinous | 96-98 | This has a compelling mineral-driven bouquet with intense red berry fruit, razor-sharp delineation and poise. | 265DE·W2026-06 lot 950 |
+| Vosne Romanee | 2020 | — | 90-92 | Aromas of cassis, dark berries, sweet spices and loamy soil introduce the 2020 Vosne-Romanée Village, a medium to full-bodied, lively and concentrated wine ... | 261W·W26 lot 25931 |
+| Vosne Romanee | 2022 | Burghound | 89-92 | This is also wonderfully fresh though with more deeply pitched and spicier aromas. | 261W·W26 lot 25932 |
+
 ## Down to Earth Wines (Panzer)
 
 Currently tracked: **12 cuvée/vintage entries**; prices $49–$1199.

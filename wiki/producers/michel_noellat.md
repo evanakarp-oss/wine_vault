@@ -67,6 +67,14 @@ _Seeded from Down to Earth (Panzer) portfolio. Not yet covered in CSW archive sw
 
 > Michel Noëllat, I think. So, some work to do in the vineyards…
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Clos Vougeot | 2020 | Vinous | 92-94 | The palate is medium-bodied with sappy red fruit, granular in texture with a lively and quite sustained finish. The whole bunch lends a light pepperiness here. | 261W·W2026-06 lot 16359 |
+
 ## Down to Earth Wines (Panzer)
 
 Currently tracked: **1 cuvée/vintage entries**; prices $45–$45.

@@ -148,6 +148,23 @@ _No Chambers Street write-ups on file._
 
 > Thanks for the kind words! It is true that I hesitated to post for the reasons you give. But equally, what with the vineyards being in plain sight, I think it’s only a matter of time before these sorts of exchanges begin to happen. Of course, while…
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Bourgogne Rouge Pinot Fin | 2019 | — | 90 | ... is showing brilliantly in bottle, soaring from the glass with scents of rose petals, sweet berries, Indian spices, orange rind and violets. It's medium to f… | 261W·W2026-06 lot 24187 |
+| Chambolle Musigny | 2019 | Burghound | 90-92 | An ultra-floral and highly spiced nose reflects cool, pure and elegant aromas of mostly red pinot fruit. There is once again an attractively texture to the medi… | 261W·W2026-06 lot 23812 |
+| Echezeaux Les Rouges | 2020 | — | 97 | The 2020 Echezeaux Grand Cru Les Rouges is one of the deepest, most concentrated wines in the range. Mingling aromas of sweet red berries and cherries with noti… | 265DE·W2026-06 lot 328 |
+| Nuits St. Georges | 2020 | — | 90+ | Lachaux's 2020 Nuits-Saint-Georges Village is also built for the cellar, offering up aromas of sweet red berries, plums and pomegranate with subtle hints of pet… | 265DE·W2026-06 lot 328 |
+| Nuits St. Georges Aux Boudots | 2019 | Burghound | 90-93 | A more floral suffused nose combines notes of red and dark pinot fruit with those of spice, earth and an almost but invisible hint of wood. The highly energetic… | 261W·W26 lot 26001 |
+| Nuits St. Georges Clos des Corvees Pagets | 2020 | — | 94 | ...offering up pretty aromas of red berries, orange zest, spices and rose petals, followed by a medium to full-bodied, lively and vibrant palate that's pure, pr… | 265DE·W2026-06 lot 328 |
+| Nuits St. Georges La Petite Charmotte | 2023 | Burghound | 91 | ...has a pretty bouquet with dark berry fruit flecked with blueberry and pressed iris flower. It is open and transparent, as one would expect given that it was… | 261W·W26 lot 26002 |
+| Vosne Romanee | 2009 | Burghound | 88-90 | A ripe and spicy mix of nuanced red and blue fruit plus plum aromas merges into fresh, intense and attractively textured medium-bodied flavors where the support… | 261W·W2026-06 lot 24072 |
+| Vosne Romanee | 2020 | — | 91+ | The 2020 Vosne-Romanée Village unfurls to reveal deep aromas of dark berries and plums mingled with exotic spices, orange zest and a deft touch of oak. Medium t… | 265DE·W2026-06 lot 328 |
+| Vosne Romanee Les Grands Suchots | 2020 | — | 97 | Wafting from the glass with aromas of cassis, dark berries and cherries mingled with vine smoke, rose petals and peonies, it's full-bodied, deep and concentrate… | 265DE·W2026-06 lot 328 |
+
 ## Down to Earth Wines (Panzer)
 
 Currently tracked: **16 cuvée/vintage entries**; prices $299–$6999.

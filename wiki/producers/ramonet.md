@@ -731,6 +731,27 @@ _Created from Raeders compile pass — LLM-curated as a notable terroir-driven p
 
 > Fun to do this. Didn’t realize I had so much white Burgundy, perhaps a foolhardy proposition… Top eight are all pretty much tied: Domaine Bernard Moreau et Fils Domaine Ramonet Domaine Georges Mugneret/Mugneret-Gibourg Tertre Rôteboeuf Domaine du…
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Batard Montrachet | 2001 | Burghound | 95 | Incredibly beautiful and elegant aromas of white flower and citrus softly introduce steely, gorgeously pure and delineated medium full flavors that seem as thou… | 261W·W2026-06 lot 21820 |
+| Bienvenue Batard Montrachet | 2014 | — | 95 | The 2014 Bienvenues-Bâtard-Montrachet Grand Cru is stunning, busting from the glass with a beautiful nose of trademark Ramonet mint, crisp green apple, pear, ci… | 261W·W29 lot 28544 |
+| Chassagne Montrachet | 2017 | — | 90 | ... has opened up a little since I tasted it earlier this year, offering up notes of pastry cream, crisp green orchard fruit, citrus oil, vanilla pod and white… | 261W·W26 lot 26142 |
+| Chassagne Montrachet Clos du Cailleret | 2017 | Burghound | 93 | This is actually quite aromatically similar to the Caillerets but with the interesting difference that the nose is markedly more restrained, which isn't necessa… | 261W·W28 lot 27579 |
+| Chassagne Montrachet La Boudriotte | 2017 | — | 93 | ...is, as usual, the most fragrant and expressive of Ramonet's premiers crus, bursting from the glass with scents of clear honey, white flowers, fresh peach and… | 261W·W26 lot 25522 |
+| Chassagne Montrachet Les Ruchottes | 1988 | Burghound | 91 | As with the best '88s today, this is still aromatically fresh and youthful if no longer young with punchy middle weight and beautifully complex flavors underpin… | 261W·W25 lot 24752 |
+| Chassagne Montrachet Les Ruchottes | 2016 | Burghound | 92 | Smoke-tinged aromas are comprised mostly by white-fleshed fruit, citrus rind and pretty floral elements that are trimmed in just a touch of oak toast. The rich,… | 261W·W29 lot 28441 |
+| Chassagne Montrachet Les Ruchottes | 2017 | Vinous | 93 | Aromas of yellow apple, green pear, Meyer lemon, toasted nuts and honeycomb introduce the 2017 Chassagne-Montrachet 1er Cru Les Ruchottes, a medium to full-bodi… | 261W·W26 lot 25972 |
+| Chassagne Montrachet Les Ruchottes | 2019 | Burghound | 93 | ... is ample petrol influence on the lightly wooded aromas of pear, apple, crushed anise and a whisper of resin character. There is fine volume, richness and po… | 261W·W2026-06 lot 23893 |
+| Chassagne Montrachet Les Vergers | 2014 | — | 93 | The 2014 Chassagne-Montrachet 1er Cru Les Vergers reveals a complex bouquet of pear, white peach, hazelnut and wet stones. On the palate, the wine is taut and p… | 261W·W26 lot 26042 |
+| Chassagne Montrachet Morgeot | 2005 | — | 90 | Bright, light yellow. Reticent aromas of charred oak and white plum, with a fusel quality. Rich, broad and satisfying in the mouth; almost oily in texture witho… | 261W·W28 lot 27581 |
+| Chassagne Montrachet Morgeot | 2017 | Burghound | 90 | ...ripe aromas of white fruit compote that are trimmed in enough resin, rosemary oil and wood toast elements to mention. There is very good mid-palate density t… | 261W·W26 lot 25721 |
+| Montrachet | 1995 | Burghound | 96 | Discreet spearmint and menthol notes frame explosively scented, highly nuanced aromas of honeysuckle and ripe orchard fruits followed by concentrated, impressiv… | 265DE·W2026-06 lot 950 |
+| Puligny Montrachet Champs Canet | 2017 | — | 93 | Bursting with aromas of citrus oil, crisp green pear, fresh apricot and pastry cream, the 2017 Puligny-Montrachet 1er Cru Champs-Canet is medium to full-bodied,… | 261W·W26 lot 26143 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated._

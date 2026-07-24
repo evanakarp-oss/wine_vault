@@ -116,10 +116,27 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 | Carruades De Lafite Pauillac | 2020 | Wine Enthusiast | 95 |  | Raeders 2026-04-25 |
 | Carruades De Lafite Pauillac | 2022 | Wine Advocate | 93 |  | Raeders 2026-04-25 |
 | Carruades De Lafite Pauillac | 2022 | James Suckling | 96 |  | Raeders 2026-04-25 |
-| Chateau Lafite Rothschild | 1975 | — | 93 | ...with scents of sweet red berries, camphor, cigar box and loamy soil. Medium to full-bodied, ample and enveloping, with a generous core of fruit, melting tann… | 261W·W30 lot 29510 |
-| Chateau Lafite Rothschild | 1982 | — | 100 | The 1982 Lafite possesses a dark, dense ruby/purple color with only a subtle lightening at the rim. Spectacular aromatics offer jammy cherry and black fruits in… | 261W·W30 lot 29305 |
+| Chateau Lafite Rothschild | 1961 | Wine Spectator | 94 | A really good, suave example of Lafite from a vintage in which it often tastes harsh and unyielding with tannins. This bottle blends spicy, nutmeg like aromas w… | 261W·W25 lot 24641 |
+| Chateau Lafite Rothschild | 1966 | JK | 90 | There were curds and whey here with sweet and sour fruit. | 261W·W2026-06 lot 24445 |
+| Chateau Lafite Rothschild | 1970 | JK | 93 | The Lafite had a bit of volatile acidity to it, but some nice pencil, cedar and roasted fruit behind it. It was tender and slightly rich in the mouth, with a le… | 261W·W2026-06 lot 24446 |
+| Chateau Lafite Rothschild | 1975 | — | 93 | ...with scents of sweet red berries, camphor, cigar box and loamy soil. Medium to full-bodied, ample and enveloping, with a generous core of fruit, melting tann… | 261W·W29 lot 28570 |
+| Chateau Lafite Rothschild | 1978 | Wine Spectator | 94 | Beautiful deep-garnet color, with classic M doc flavors of plum, spice, earth and mineral. Tannic, well-balanced, mouth-filling, chewy in its intensity... | 261W·W29 lot 28784 |
+| Chateau Lafite Rothschild | 1981 | — | 91 | This wine is close to full maturity, but it is capable of holding for another two decades. It reveals the classic Lafite bouquet of red and black fruits, cedar,… | 261W·W26 lot 25668 |
+| Chateau Lafite Rothschild | 1982 | — | 100 | The 1982 Lafite possesses a dark, dense ruby/purple color with only a subtle lightening at the rim. Spectacular aromatics offer jammy cherry and black fruits in… | 261W·W26 lot 25669 |
 | Chateau Lafite Rothschild | 1983 | — | 93 | Finally, the 1983 Lafite is beginning to shed its tannin. The wine exhibits a deep ruby/garnet color with only a slight lightening at the edge. The intoxicating… | 261W·W30 lot 28905 |
+| Chateau Lafite Rothschild | 1985 | JK | 93+ | Seems like a baby...smells like the 1996 (which was last in the flight, and obviously the 1996) - there is that young, sweet integrated oak and a purple, dank s… | 261W·W25 lot 24645 |
+| Chateau Lafite Rothschild | 1990 | — | 96 | The 1990 Lafite has turned out far better than my early assessment. While it still possesses some firmness, and performs like a late adolescent in terms of its… | 261W·W25 lot 25066 |
+| Chateau Lafite Rothschild | 1994 | Wine Spectator | 93 | A luscious Lafite that is silky and elegant with layers of wonderful violet, berry, cherry and chocolate flavors. It's full-bodied, with racy, refined tannins a… | 261W·W25 lot 24646 |
+| Chateau Lafite Rothschild | 1995 | — | 95 | It exhibits a dark ruby purple color, and a sweet, powdered mineral, smoky, weedy cassis-scented nose. Beautiful sweetness of fruit is present in this medium-bo… | 261W·W29 lot 28528 |
+| Chateau Lafite Rothschild | 1996 | — | 100 | Tasted three times since bottling, the 1996 Lafite-Rothschild is unquestionably this renowned estate's greatest wine. As I indicated last year, only 38% of the… | 261W·W2026-06 lot 24069 |
+| Chateau Lafite Rothschild | 1997 | — | 92 | The 1997 Lafite-Rothschild may turn out to be a modern day replay of the glorious 1976. Complex, with considerable finesse, elegance, and a sexy, approachable s… | 261W·W25 lot 24647 |
 | Chateau Lafite Rothschild | 1999 | — | 95 | ...both elegant and intensely flavored, and almost diaphanous in its layers that unfold with no heaviness. An opaque ruby/purple color is accompanied by a compl… | 261W·W30 lot 29511 |
+| Chateau Lafite Rothschild | 2001 | — | 94 | The 2001 Lafite Rothschild s deep, saturated plum/purple color is accompanied by lead pencil liqueur-like notes intermixed with sweet red and black currants, pl… | 261W·W29 lot 28571 |
+| Chateau Lafite Rothschild | 2002 | Wine Spectator | 95 | Bubbling over with crushed berries, currants and spices, with tobacco notes. Beautiful. Full-bodied, with gorgeously velvety tannins and a long finish of pretty… | 261W·W29 lot 28572 |
+| Chateau Lafite Rothschild | 2003 | — | 100 | Dense purple-colored, with classic notes of graphite intertwined with melted licorice, cr me de cassis, smoke, and flowers, it reveals extraordinary richness, o… | 261W·W29 lot 28573 |
+| Chateau Lafite Rothschild | 2006 | — | 97 | Lafite's severe selection process (42% made it into the grand vin) resulted in a full-bodied wine boasting an extraordinary perfume of charcoal, truffles, lead… | 261W·W25 lot 24648 |
+| Chateau Lafite Rothschild | 2014 | — | 95 | The 2014 Lafite-Rothschild, tasted with head winemaker Eric Kohler, has retained that very opulent and outgoing bouquet that dare I say actually reminded me of… | 261W·W26 lot 25624 |
+| Chateau Lafite Rothschild | 2018 | Vinous | 98 | In the glass, Lafite is rich and exotic, yet it also retains tremendous vibrancy. The interplay of Merlot picked early and Cabernet Sauvignon harvested late mak… | 261W·W26 lot 25384 |
 | Pauillac | 2017 | Wine Advocate | 97 |  | Raeders 2026-04-25 |
 | Pauillac | 2017 | James Suckling | 98 |  | Raeders 2026-04-25 |
 | Pauillac | 2017 | Wine Spectator | 96 |  | Raeders 2026-04-25 |

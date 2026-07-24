@@ -120,6 +120,25 @@ _No Chambers Street write-ups on file._
 
 > They are from Maranges, I don’t think they’re related to either. And Denis Bachelet isn’t related to Bachelet Ramonet.
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Charmes Chambertin Vieilles Vignes | 2016 | — | 96-98 | ...has a very pure and complex bouquet, with scents of black cherry and wild strawberry, cold wet slate, something almost like wild moorland. The palate is medi… | 265DE·W2026-06 lot 364 |
+| Charmes Chambertin Vieilles Vignes | 2017 | Vinous | 95-97 | It gradually opens to reveal exquisitely defined blackberry, hawthorn and crushed stone aromas, hints of rose petal emerging with time. The palate is medium-bod… | 265DE·W2026-06 lot 364 |
+| Charmes Chambertin Vieilles Vignes | 2018 | Vinous | 95-97 | The crystalline, floral bouquet blossoms in the glass, turning very intense and delivering a mixture of red and black fruit laced with rose petals and iris flow… | 265DE·W2026-06 lot 365 |
+| Charmes Chambertin Vieilles Vignes | 2020 | — | 96-98 | Unfurling in the glass with notes of peonies, rose petals, wild berries, loamy soil, black truffle, exotic spices and blood orange, it's full-bodied, layered an… | 265DE·W2026-06 lot 365 |
+| Charmes Chambertin Vieilles Vignes | 2021 | Vinous | 95-97 | It has a complex nose with dark berry fruit, forest floor and pressed flowers, beautifully-defined and gaining intensity in the glass. The palate is (again) sup… | 265DE·W2026-06 lot 365 |
+| Charmes Chambertin Vieilles Vignes | 2022 | Vinous | 96-98 | ...brilliantly defined red and black fruit, hints of sea spray and shucked oyster shell, and a touch of violet. Entrancing. The palate is medium-bodied with a s… | 265DE·W2026-06 lot 365 |
+| Gevrey Chambertin Les Corbeaux, Vieilles Vignes | 2019 | Vinous | 93-95 | ...has a beautifully defined, quite earthy bouquet that blossoms with aeration, touches of truffle and tobacco emerging with time. The palate is medium-bodied w… | 265DE·W2026-06 lot 366 |
+| Gevrey Chambertin Les Corbeaux, Vieilles Vignes | 2021 | Vinous | 92-94 | ...has a very tightly-knit bouquet that is actually less expressive than the Village at the moment. The palate is medium-bodied with brambly red fruit, very pur… | 265DE·W2026-06 lot 366 |
+| Gevrey Chambertin Les Corbeaux, Vieilles Vignes | 2022 | Vinous | 94-96 | Very fine delineation and focus. The palate is medium-bodied with grippy tannins at the moment. Plenty of black fruit, very sapid, gets the saliva flowing on th… | 265DE·W2026-06 lot 366 |
+| Gevrey Chambertin Vieilles Vignes | 2020 | — | 91-93 | Bursting with aromas of cherries, raspberries, spices and licorice, it's medium to full-bodied, deep and concentrated, with velvety tannins, lively acids and an… | 265DE·W2026-06 lot 367 |
+| Gevrey Chambertin Vieilles Vignes | 2021 | Vinous | 90-92 | ...has such a pretty nose that disguises the trauma of the growing season: ebullient redcurrant, white-tipped strawberry and light stony scents. | 265DE·W2026-06 lot 367 |
+| Gevrey Chambertin Vieilles Vignes | 2023 | Burghound | 90-92 | The wood regimen isn't subtle if not dominant on the markedly earth-inflected nose of notably ripe but fresh dark currant and poached plum aromas. | 265DE·W2026-06 lot 367 |
+
 ## Down to Earth Wines (Panzer)
 
 Currently tracked: **1 cuvée/vintage entries**; prices $45–$45.

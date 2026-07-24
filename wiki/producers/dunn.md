@@ -53,12 +53,17 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
+| Dunn Vineyards Cabernet Sauvignon Howell Mountain | 1987 | Wine Spectator | 97 | A powerful, young wine, even at age 10. Dark, ripe, intense and deeply concentrated, this one is years from peaking. Packed with a rich, earthy core of currant,… | 261W·W2026-06 lot 24320 |
+| Dunn Vineyards Cabernet Sauvignon Howell Mountain | 1992 | — | 97 | ...voluptuous, opulent, and succulent nature... | 261W·W2026-06 lot 24321 |
 | Dunn Vineyards Cabernet Sauvignon Howell Mountain | 1994 | — | 96 | This black/purple-colored wine adds a few more nuances (minerals, licorice, and floral scents) to the lavish display of creme de cassis. | 261W·W30 lot 29700 |
-| Dunn Vineyards Cabernet Sauvignon Howell Mountain | 2008 | — | 98+ | ...takes things to another level, as hard as it may seem to believe. This was another difficult vintage for Dunn. Yields were down a full 50%. In exchange, natu… | 261W·W30 lot 29478 |
+| Dunn Vineyards Cabernet Sauvignon Howell Mountain | 2004 | — | 94 | The 2004 Howell Mountain Cabernet Sauvignon should last for 20-25 years. It is a brilliant achievement. | 261W·W2026-06 lot 24322 |
+| Dunn Vineyards Cabernet Sauvignon Howell Mountain | 2008 | — | 98+ | ...takes things to another level, as hard as it may seem to believe. This was another difficult vintage for Dunn. Yields were down a full 50%. In exchange, natu… | 261W·W2026-06 lot 24473 |
+| Dunn Vineyards Cabernet Sauvignon Howell Mountain | 2009 | — | 96+ | ...has more energy and focus than the Napa Valley bottling. Iron, graphite, red fruits, dried flowers are some of the many notes that take shape in this deep, c… | 261W·W26 lot 25678 |
+| Dunn Vineyards Cabernet Sauvignon Napa Valley | 1987 | — | 91 | ...reveals an opaque dark purple color, and a strong yet unevolved bouquet of cassis, minerals, and toasty oak. | 261W·W2026-06 lot 24323 |
 | Dunn Vineyards Cabernet Sauvignon Napa Valley | 1994 | — | 94 | This fruit bomb displays considerable breadth and expansiveness on the palate, in essence revealing only two dimensions - fruit and tannin. | 261W·W30 lot 29701 |
 | Dunn Vineyards Cabernet Sauvignon Napa Valley | 1995 | — | 94 | This mammoth offering displays extraordinary concentration and purity, as well as a thick, unctuous texture with high tannin levels. | 261W·W30 lot 29702 |
 | Dunn Vineyards Cabernet Sauvignon Napa Valley | 1997 | — | 92 | ...exhibits an opaque purple color as well as a gorgeous nose of pure cassis and blackberries with flinty notions in the background. | 261W·W30 lot 29703 |
-| Dunn Vineyards Cabernet Sauvignon Napa Valley | 2005 | — | 92 | The 2005 Cabernet Sauvignon Napa Valley is gorgeous. It is a soft, caressing wine laced with expressive dark fruit, blackberries, spices, leather and flowers, a… | 261W·W30 lot 26658 |
+| Dunn Vineyards Cabernet Sauvignon Napa Valley | 2005 | — | 92 | The 2005 Cabernet Sauvignon Napa Valley is gorgeous. It is a soft, caressing wine laced with expressive dark fruit, blackberries, spices, leather and flowers, a… | 261W·W28 lot 26658 |
 
 ## Down to Earth Wines (Panzer)
 

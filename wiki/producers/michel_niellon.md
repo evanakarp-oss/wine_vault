@@ -81,7 +81,8 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
-| Chassagne Montrachet Les Vergers | 2008 | — | 92 | ... a deep and complex nose of apple, a touch of pineapple, lovely minerality, citrus blossoms and a stylish base of buttery oak. On the palate the wine is deep… | 261W·W30 lot 28440 |
+| Chassagne Montrachet Les Chaumees, Clos de la Truffiere | 2004 | Burghound | 92 | A strikingly elegant and perfumed nose reveals poached pear and fresh peach aromas nuanced by wet stone notes complements the supple, silky and suave mouth coat… | 261W·W28 lot 27576 |
+| Chassagne Montrachet Les Vergers | 2008 | — | 92 | ... a deep and complex nose of apple, a touch of pineapple, lovely minerality, citrus blossoms and a stylish base of buttery oak. On the palate the wine is deep… | 261W·W29 lot 28440 |
 | Chassagne Montrachet Rouge | 2022 | Wine Spectator | 91 | A touch of earthy reduction gives way to cherry, black currant and mint in this intense, resonant red. Very alive midpalate while building to the long, juicy af… | Raeders 2026-04-25 |
 | Chassagne-Montrachet Les Champgains | 2022 | Wine Spectator | 90 | D 94 This white is linear in feel, sporting peach, lemon cake, floral and oak spice flavors. Supple and mouthwatering, with notes of fruit, baking spices and ch… | Raeders 2026-04-25 |
 

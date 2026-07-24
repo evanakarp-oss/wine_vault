@@ -131,6 +131,14 @@ _sources:
 
 > Right. To my palate it’s time to drink both of those vintages up chez Clos des Papes. '96 was admittedly challenging but '97 should still be decent; '94 still is, after all. By contrast, I have had enough experiences similar to your positive…
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Chateauneuf du Pape | 2000 | — | 95 | ...it explodes from the glass. A deep ruby/purple color is accompanied by a sweet nose of creme de cassis, kirsch liqueur, licorice, pepper, and underbrush. Vol… | 261W·W29 lot 28515 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._

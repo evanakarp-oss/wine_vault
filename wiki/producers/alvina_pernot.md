@@ -38,6 +38,14 @@ _Young Puligny-based white domaine launched by Alvina Pernot (of the Paul Pernot
 
 _No Chambers Street write-ups on file._
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Puligny Montrachet Les Pucelles | 2022 | Burghound | 94 | There is a spicy top note to the layered aromas of honeysuckle, acacia blossom, apple compote and Asian-style tea. The racy, intense and utterly delicious mediu… | 261W·W30 lot 29326 |
+
 ## Down to Earth Wines (Panzer)
 
 Currently tracked: **2 cuvée/vintage entries**; prices $49–$899.

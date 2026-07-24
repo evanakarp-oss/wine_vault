@@ -226,6 +226,15 @@ berserkers_kelley_body:
 
 > I’m surprised to find myself in the minority in admiring the 2009s from Raveneau—at least the Clos and MdT that I enjoyed in February. A bit more rounded and approachable than particularly focused vintages such as 2010 or 2012 for sure, but pretty…
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Saumur Champigny | 2015 | Vinous | 93 | Fruity and floral on the nose with an edge of smoke. Big boned and intense, but with a smoothness to this wine, with lots of raspberry, cranberry, and cherry, s… | 261W·W28 lot 28046 |
+| Saumur Champigny Les Poyeux | 2009 | — | 93 | The 2009 Saumur-Champigny Les Poyeux has a discreet, rather floral bouquet with a sweet core that exhibits subtle aromas of mocha, tobacco, black olive tapenade… | 261W·W2026-06 lot 24262 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._

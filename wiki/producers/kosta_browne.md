@@ -107,6 +107,9 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 | Cerise Vineyard Pinot Noir | 2021 | Wine Advocate | 92 |  | Raeders 2026-04-25 |
 | Cerise Vineyard Pinot Noir | 2021 | James Suckling | 97 |  | Raeders 2026-04-25 |
 | Cerise Vineyard Pinot Noir | 2021 | Wine Spectator | 92 |  | Raeders 2026-04-25 |
+| Kosta Browne Pinot Noir Gap's Crown | 2018 | Wine Spectator | 93 | Big, with cooking spice accents to burnished dark plum and dried blackberry flavors that are supported by fresh acidity. Dark chocolate and toffee linger on fin… | 261W·W28 lot 28154 |
+| Kosta Browne Pinot Noir Russian River Valley | 2012 | — | 93 |  | 261W·W28 lot 26858 |
+| Kosta Browne Pinot Noir Sonoma Coast | 2012 | — | 93 | The 2012 Pinot Noir Sonoma Coast is a beautiful wine that comes from four vineyards, Gap's Crown, Griffin's Lair, Terra de Promissio and Walala. It has a deep r… | 261W·W28 lot 26858 |
 | One Sixteen Chardonnay | 2021 | Wine Advocate | 91 |  | Raeders 2026-04-25 |
 | One Sixteen Chardonnay | 2021 | James Suckling | 96 | JD 90 JS 96 The 2021 Chardonnay One Sixteen, matured for 14 months in 34% new French oak, takes some time to shake off its youthful crème brûlée and allspice to… | Raeders 2026-04-25 |
 | One Sixteen Chardonnay | 2021 | Wine Spectator | 92 |  | Raeders 2026-04-25 |

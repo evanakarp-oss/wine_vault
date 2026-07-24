@@ -1419,3 +1419,29 @@ grower-scale, ageworthy value); natural shelf-mate to Guiberteau + Clos Rougeard
   Arnaud rows only — reverted the full `ingest_csw.py` vault-wide CSW re-sync (309
   producer files) and the recurring `build_rollups` frontmatter key-order drift
   (~75 rollup pages), as neither belongs in a single-producer onboarding. lint 0.
+
+## [2026-07-24] fix | auction landing was silently parsing only the newest catalog
+
+Root cause found while answering "which Campanale producers seen at auction
+outside Tuscany/Piedmont": `parse_auction_ratings.py` defaulted to the **newest
+`Catalog_261W_*.xlsx` only**, so 6 of 7 catalogs sitting in `raw/auctions/` had
+never been landed. Only 261W week 30 (784 lots) was parsed — **4,843 of 5,627
+scored lots (86%) were invisible to every scan**, including an entire separate
+sale (265DE, 1,310 ratings) and 261W weeks 25/26/28/29 + a June snapshot.
+
+Made the pipeline complete-by-construction:
+- `parse_auction_ratings.py` now parses **every** parseable catalog by default
+  (robust `sale_ident` handles `week26`/dated filenames; date-keyed fallback so
+  undated weeks don't collide). Added `--check` — exits 1 if any catalog is
+  unlanded — and wired it into `.github/workflows/check.yml`. Added `openpyxl`
+  to `requirements.txt` (was an undeclared manual dep — part of why it only ran
+  ad hoc). Old `.xls` (Zachys) flagged as a conversion gap, not silently dropped.
+- Landed all 7 catalogs, then `compile_auction_ratings.py --apply`: matched
+  producers 72 → **121**, pages with auction ratings 52 → 101, ratings board
+  657 → **1,417 rows across 123 producers**. Rolling-sale overlaps collapse via
+  the compiler's existing (wine, vintage, critic, score) dedup.
+- What stayed missing (now in `build/auction_ratings_report.md`): conservative
+  name-matching still drops multi-word southern names (Dal Forno, Azienda
+  Vinicola Contini) and page-less producers (Galardi/Terra di Lavoro,
+  Montevetrano). These need per-producer aliases/pages — a curation follow-up,
+  by design (auction sources never auto-create pages).

@@ -198,7 +198,15 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
-| Taittinger Vintage Champagne Comtes de Champagne | 2013 | Vinous | 98 | Rich, sumptuous and explosive, the 2013 soars out of the glass with a captivating mix of tropical fruit, apricot, passion fruit, baked apple tart, mint and yell… | 261W·W30 lot 29149 |
+| Taittinger Vintage Champagne Comtes de Champagne | 1995 | — | 96 | The hugely impressive 1995 Comtes de Champagne Blanc de Blancs displays ripe apple and pear scents. Broad, rich, deep, and medium to full-bodied, this dense (ye… | 261W·W26 lot 25635 |
+| Taittinger Vintage Champagne Comtes de Champagne | 2005 | RJ | 94 | A truly wonderful wine from the start. As usual, they succeed particularly well in warm, acid-weak vintages, when the neighbors' wines often appears flat and pu… | 261W·W28 lot 27708 |
+| Taittinger Vintage Champagne Comtes de Champagne | 2006 | Vinous | 97+ | The 2006 Comtes de Champagne is striking, especially in the way it brings together elements of ripeness and freshness in a hypothetical blend of the 2002 and 20… | 261W·W2026-06 lot 23920 |
+| Taittinger Vintage Champagne Comtes de Champagne | 2007 | Vinous | 96 | ...will be nearly impossible to resist upon release. Soaring aromatics, mid-weight structure and soft contours give the 2007 its alluring personality. Lemon oil… | 261W·W25 lot 25234 |
+| Taittinger Vintage Champagne Comtes de Champagne | 2008 | Vinous | 98+ | Taittinger's 2008 Blanc de Blancs Comtes de Champagne is simply breathtaking. I have tasted it many times over the years in various trial disgorgements and it h… | 261W·W2026-06 lot 23921 |
+| Taittinger Vintage Champagne Comtes de Champagne | 2012 | Vinous | 96 | The combination of bright citrus, mineral and floral notes typical of Comtes, enhanced by the soft contours of the vintage, makes for an inviting, open-knit Cha… | 261W·W28 lot 27710 |
+| Taittinger Vintage Champagne Comtes de Champagne | 2013 | Vinous | 98 | Rich, sumptuous and explosive, the 2013 soars out of the glass with a captivating mix of tropical fruit, apricot, passion fruit, baked apple tart, mint and yell… | 261W·W26 lot 25643 |
+| Taittinger Vintage Champagne Comtes de Champagne, Rose | 2007 | — | 96 | This bottle of Taittinger's just-released 2007 Brut Comtes de Champagne Rosé was disgorged in December 2018, and it's showing brilliantly, unfurling in the glas… | 261W·W26 lot 25644 |
+| Taittinger Vintage Champagne Comtes de Champagne, Rose | 2008 | — | 96 | Offering up inviting aromas of red berries, plums, sweet spices, orange rind and freshly baked bread, it's medium to full-bodied, pillowy and vinous, with an am… | 265DE·W2026-06 lot 635 |
 
 ## Down to Earth Wines (Panzer)
 

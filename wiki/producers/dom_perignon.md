@@ -251,13 +251,30 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
-| Dom Perignon Vintage Champagne | 2008 | Vinous | 98+ | What I admire most about the 2008 is the way it shows all the focus, translucence and energy that is such a signature of the year, and yet it is also remarkably… | 261W·W30 lot 29089 |
+| Dom Perignon Vintage Champagne | 1980 | RJ | 91 | One of the best from 1980. Light, but very well developed in its toasty style. Sea and shellfish, along with mint chocolate, are present in the wide spectrum of… | 261W·W26 lot 25676 |
+| Dom Perignon Vintage Champagne | 1983 | JK | 93 | The 1983 s nose was so honeyed and full of cr me br l e that it gave a sinful impression. There was a touch of seltzer and minerals, but the 1983 was definitely… | 261W·W2026-06 lot 24466 |
+| Dom Perignon Vintage Champagne | 1985 | — | 96 | It was a classic bottle, as good as this vintage can get. There were aromas of vanilla, cream, nuts and sweet white sugar. Its palate was long and strong, and I… | 261W·W2026-06 lot 24467 |
+| Dom Perignon Vintage Champagne | 1988 | JK | 94 | The 88 had a sexier, muskier nose with forward bread components and a glazed sweetness in a honeyed, toffee style. There was a peanutty side to its musk, Thai s… | 261W·W25 lot 24988 |
+| Dom Perignon Vintage Champagne | 1990 | — | 96 | ...is a creamy-textured, full styled offering that loses none of its elegance in spite of its flavor authority. | 261W·W25 lot 24989 |
+| Dom Perignon Vintage Champagne | 1996 | — | 98 | Notes of crushed rocks, honeysuckle, lemon oil, orange marmalade, and white pear provide a stunning aromatic display as well as palate impression. Great acidity… | 261W·W25 lot 24991 |
+| Dom Perignon Vintage Champagne | 2002 | Vinous | 98 | The 2002 Dom Pérignon speaks to opulence and intensity. Rich, layered and voluptuous in the glass, the 2002 shows off its flamboyant personality with flair. But… | 261W·W26 lot 26067 |
+| Dom Perignon Vintage Champagne | 2005 | Vinous | 94 | The 2005 Dom Pérignon is a festive way to kick off our 2005 Bordeaux retrospective. Fresh and vibrant, with the classic hints of DP reduction, the 2005 is super… | 261W·W2026-06 lot 24432 |
+| Dom Perignon Vintage Champagne | 2006 | Vinous | 97 | The 2006 Dom Pérignon is a beautifully balanced, harmonious Dom Pérignon that strikes an incredibly appealing stylistic middle ground. Rich, voluptuous and crea… | 265DE·W2026-06 lot 591 |
+| Dom Perignon Vintage Champagne | 2008 | Vinous | 98+ | What I admire most about the 2008 is the way it shows all the focus, translucence and energy that is such a signature of the year, and yet it is also remarkably… | 261W·W26 lot 26068 |
 | Dom Perignon Vintage Champagne | 2010 | — | 92 | The 2010 Dom Pérignon is already expressive, wafting from the glass with aromas of crisp green apple, peach, iodine, freshly baked bread, orange oil and smoke.… | 261W·W30 lot 29091 |
-| Dom Perignon Vintage Champagne | 2012 | Vinous | 97 | ...dense, powerful wine. I am almost shocked by its vinous intensity and raw, unbridled power. The 2012 reminds me of the 2003, but with more finesse and not qu… | 261W·W30 lot 29092 |
+| Dom Perignon Vintage Champagne | 2012 | Vinous | 97 | ...dense, powerful wine. I am almost shocked by its vinous intensity and raw, unbridled power. The 2012 reminds me of the 2003, but with more finesse and not qu… | 261W·W26 lot 25978 |
 | Dom Perignon Vintage Champagne | 2013 | — | 95 | ... is a charming and elegant vintage for this cuvée. It reveals complex aromas of buttery pastry, spices, citrus oil, almonds, honey and, with aeration, a touc… | 261W·W30 lot 29402 |
+| Dom Perignon Vintage Champagne Legacy | 2008 | — | 96+ | The finest release of this iconic cuvée since the 1996 vintage, the 2008 Dom Pérignon wafts from the glass with an incipiently complex bouquet of Meyer lemon, g… | 261W·W26 lot 26156 |
+| Dom Perignon Vintage Champagne P2 | 1996 | Vinous | 98 | The interplay of vintage 1996 tension and the wine's fruit opens up to reveal an intricate latticework of lemon confit, mint, white flowers and crushed rocks, w… | 261W·W29 lot 28486 |
 | Dom Perignon Vintage Champagne P2 | 1998 | Vinous | 95 | ...quite open at this stage. Hints of apricot, almond, white flowers and chamomile add texture on the fleshy, resonant finish. The added time on the lees has gi… | 261W·W30 lot 29096 |
+| Dom Perignon Vintage Champagne P2 | 1999 | Vinous | 94 | The 1999 Dom Pérignon P2 is one of the most intriguing Champagnes I have tasted from Dom Pérignon in recent years. In fact, it was not included in a small verti… | 265DE·W2026-06 lot 594 |
+| Dom Perignon Vintage Champagne P2 | 2000 | Vinous | 96 | Slate, crushed rocks, apricot jam, mint, honeysuckle and mint are some of the notes that run through the 2000 Dom Pérignon P2. Open-knit, racy and seductive, th… | 261W·W29 lot 28487 |
+| Dom Perignon Vintage Champagne P2 | 2002 | — | 97+ | ...is wonderfully open in its aromatics, but a bit less giving on the palate, especially next to the regular release. Lemon confit, white flowers, mint and whit… | 265DE·W2026-06 lot 595 |
 | Dom Perignon Vintage Champagne P2 | 2003 | Vinous | 96 | Power, generosity and volume are all exalted. The P2 balances richness with a greater sense of creaminess that comes through extended time on the cork. Readers… | 261W·W30 lot 29097 |
-| Dom Perignon Vintage Champagne Rose | 2008 | Wine Spectator | 97 | An impeccably balanced and graceful sparkling rosé, with a plushly creamy mousse. It's hard to tell where the firm spine of well-honed acidity and the expressiv… | 261W·W30 lot 29099 |
+| Dom Perignon Vintage Champagne P2 | 2004 | Vinous | 97 | ...is precise and wonderfully refined, just like the first release. There's a hint of reduction from extended time on the cork as well as a feeling of effusiven… | 265DE·W2026-06 lot 596 |
+| Dom Perignon Vintage Champagne Rose | 1980 | — | 96 | The profoundly rich 1990 Dom Perignon is a creamy-textured, full styled offering that loses none of its elegance in spite of its flavor authority. | 261W·W25 lot 24763 |
+| Dom Perignon Vintage Champagne Rose | 1982 | — | 95 |  | 261W·W25 lot 24764 |
+| Dom Perignon Vintage Champagne Rose | 2008 | Wine Spectator | 97 | An impeccably balanced and graceful sparkling rosé, with a plushly creamy mousse. It's hard to tell where the firm spine of well-honed acidity and the expressiv… | 261W·W2026-06 lot 23909 |
 
 ## Down to Earth Wines (Panzer)
 

@@ -149,6 +149,22 @@ berserkers_kelley_body:
 
 > erest and reward drinkers over the next couple of decades at least. Thierry Allemand is never a fan of the large scale, solar vintages, so gave this enthusiasti
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| St. Joseph | 2011 | — | 94 | ...shows the sunny nature of the vintage with its awesome perfume of sweet black raspberries, incense, dried violets and wild herbs. | 261W·W26 lot 25538 |
+| St. Joseph | 2012 | JG | 94 | The Gonon brothers’ 2012 Saint-Joseph is really beginning to drink spectacularly, but has many decades of life still ahead of it. When the wine is first poured… | 261W·W26 lot 26241 |
+| St. Joseph | 2015 | Vinous | 95 | Glass-staining ruby. Heady, mineral-accented dark berry and floral pastille aromas show outstanding clarity and pick up an Indian spice nuance with air. Juicy a… | 261W·W26 lot 26055 |
+| St. Joseph | 2016 | Vinous | 94 | Inky ruby. Pungent black raspberry and cherry cola aromas are complemented by suggestions of potpourri, olive and allspice. Silky and expansive on the palate, o… | 261W·W26 lot 26055 |
+| St. Joseph | 2018 | Vinous | 95 | Deep violet. Intensely perfumed, mineral-accented aromas of red and blue fruit preserves, licorice, exotic spices and potpourri, along with an exotic suggestion… | 261W·W26 lot 26056 |
+| St. Joseph | 2019 | Vinous | 95 | Saturated ruby. A hugely perfumed bouquet evokes spice- and smoke-accented black and blue fruits, pungent flowers, potpourri and olive paste, along with a licor… | 261W·W26 lot 26056 |
+| St. Joseph | 2020 | — | 93-95 | ...is classic Gonon, with a complex nose of crushed stone, violets, cherries and blueberries; a palate that's medium to full-bodied, concentrated and tannic yet… | 261W·W26 lot 26057 |
+| St. Joseph | 2021 | Vinous | 92 | ...unfurls with pretty red fruits paired with leafy undertones and cedar. Orange blossom and rose petal add welcome floral lift. | 261W·W26 lot 26057 |
+| St. Joseph | 2022 | — | 96 | Despite a slightly introverted bouquet, it is bursting with aromas of cherries, black olive, violet, dark berries and blueberry. | 261W·W26 lot 26058 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._

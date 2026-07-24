@@ -172,6 +172,8 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
+| Chateau Pape Clement | 1990 | — | 94 | This complex, dark garnet/plum-tinged wine reveals some bricking at the edge, and its beautiful, smoky, meaty nose exhibits notions of sweet currants, black che… | 261W·W25 lot 25089 |
+| Chateau Pape Clement | 2001 | — | 95 | A brilliant dense purple color is accompanied by an extraordinary perfume of camphor, graphite, plums, cassis, and barbecue spices. A prodigious, multilayered,… | 261W·W2026-06 lot 24484 |
 | Pessac-Léognan | 2006 | Wine Advocate | 94 |  | Raeders 2026-04-25 |
 | Pessac-Léognan | 2006 | Wine Enthusiast | 90 |  | Raeders 2026-04-25 |
 | Pessac-Léognan | 2016 | Wine Advocate | 96 |  | Raeders 2026-04-25 |

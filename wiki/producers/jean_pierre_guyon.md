@@ -53,6 +53,14 @@ _No Chambers Street write-ups on file._
 
 > Consider: François Raquillet Mercurey 1er Cru Les Nauges Faiveley Gevrey-Chambertin 1er Cru Les Cazetiers Henri Jouan Morey-Saint-Denis 1er Cru Clos Sorbées Jean-Pierre Guyon Saivgny-les-Beaune Les Planchots Simon Bize Savingy-les-Beaune 1er Cru Les…
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Echezeaux | 2018 | — | 93-95 | ...wafts from the glass with notes of raspberries, exotic spices, rose petals and grilled game bird. On the palate, it's full-bodied, layered and enveloping, wi… | 261W·W26 lot 26016 |
+
 ## Down to Earth Wines (Panzer)
 
 Currently tracked: **21 cuvée/vintage entries**; prices $59–$1099.

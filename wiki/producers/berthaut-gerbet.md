@@ -118,6 +118,17 @@ berserkers_kelley_body:
 
 > Marsannay and Fixin are Côte de Nuits! But in Marsannay I would strongly recommend Charles Audoin and in Fixin, Berthaut-Gerbet and Gelin. With Maranges, you are still technically in the Côte de Beaune, but Bachelet-Monnot would be my pick. Going to…
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Clos Vougeot | 2023 | Vinous | 93-95 | ...articulating the terroir with greater panache and featuring wonderful red berry fruit, wild hedgerow and light touches of desiccated orange peel. | 265DE·W2026-06 lot 960 |
+| Vosne Romanee Les Petits Monts | 2022 | Vinous | 93-95 | ...dark berry fruit, crushed limestone, rose petals and sea cave - very complex and with wonderful transparency. The palate is medium-bodied with pliant tannins… | 261W·W26 lot 25440 |
+| Vosne Romanee Les Petits Monts | 2023 | Vinous | 93-95 | ...was due for racking and so understandably it is a little sultry on the nose, more introspective than it will be after bottling. The palate is medium-bodied w… | 265DE·W2026-06 lot 961 |
+| Vosne Romanee Les Suchots | 2022 | — | 92-93 | Notes of plums, spices, orange zest, smoke and sweet berry fruit preface the 2022 Vosne-Romanée 1er Cru Les Suchots, a medium to full-bodied, supple and pure pa… | 261W·W26 lot 25884 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._

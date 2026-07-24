@@ -135,6 +135,12 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 | Brunello di Montalcino | 2019 | Wine Advocate | 97 |  | Raeders 2026-04-25 |
 | Brunello di Montalcino | 2019 | James Suckling | 97 |  | Raeders 2026-04-25 |
 | Brunello di Montalcino | 2019 | Wine Spectator | 94 |  | Raeders 2026-04-25 |
+| Brunello di Montalcino Greppo | 1997 | Vinous | 93 | Intense ruby overlaid with garnet. Very fresh aromas of ripe plum, cherry and pipe tobacco. Sweet cherry fruit emerges in the mouth, along with hints of licoric… | 261W·W28 lot 27775 |
+| Brunello di Montalcino Greppo | 2007 | Vinous | 94 | ...is gorgeous. The estate's preference for picking on the early side is one of the factors that help balance some of the fleshiness of the vintage. This is an… | 261W·W26 lot 25559 |
+| Brunello di Montalcino Greppo | 2008 | Vinous | 94+ | Brooding nose opens slowly with aeration to offer delicate hints of lively red cherry, underbrush and flint. Rich, dense and suave, with outstandingly precise r… | 261W·W26 lot 25560 |
+| Brunello di Montalcino Greppo | 2009 | Vinous | 92 | Vivid full red. Red cherry, raspberry, violet, minerals and licorice on the pure, captivating nose. Penetrating, savory and sweet, with terrific energy and puri… | 261W·W26 lot 25561 |
+| Brunello di Montalcino Greppo | 2010 | Vinous | 96 | ... is a real knock-out. Rose petals, mint, sweet spices and flowers are some of the first notes that open up in the glass. Almost indescribably beautiful, the… | 261W·W26 lot 25562 |
+| Brunello di Montalcino Greppo Riserva | 2010 | Vinous | 95+ | Layered, silky and translucent, yet with remarkable depth, the 2010 Riserva is a wine of intensity, power and the classic austerity that has been such a signatu… | 265DE·W2026-06 lot 902 |
 | Brunello di Montalcino Riserva | 2015 | Wine Advocate | 98 |  | Raeders 2026-04-25 |
 | Brunello di Montalcino Riserva | 2015 | Wine Enthusiast | 97 |  | Raeders 2026-04-25 |
 | Brunello di Montalcino Riserva | 2016 | Wine Advocate | 99 | JD 98 JS 98 W&S 95 The 2016 Brunello di Montalcino Riserva is a truly majestic wine. The bouquet is packed with intense fruity notes of black berries, pomegrana… | Raeders 2026-04-25 |

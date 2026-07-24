@@ -72,11 +72,16 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
-| Colgin Red Cariad Vineyard | 2011 | — | 93 | ...deep ruby/purple color along with aromas of tapenade, barbecue smoke, black currants, sweet cherries, baking spices and licorice. Medium-bodied and fleshy wi… | 261W·W30 lot 26643 |
+| Colgin Cabernet Sauvignon Tychson Hill | 2021 | — | 100 | Hints of bay leaf perk up scents of dark chocolate and black cherries on the nose, while the full-bodied, plushly textured palate glides easily into a prolonged… | 265DE·W2026-06 lot 857 |
+| Colgin Red Cariad Vineyard | 2011 | — | 93 | ...deep ruby/purple color along with aromas of tapenade, barbecue smoke, black currants, sweet cherries, baking spices and licorice. Medium-bodied and fleshy wi… | 261W·W28 lot 26643 |
+| Colgin Red Cariad Vineyard | 2021 | Vinous | 99 | ...is explosive, effusive and all charm. All the elements are so well put together. Deep, sweet floral and savory spice nuances lift a core of red/purplish frui… | 265DE·W2026-06 lot 858 |
 | Colgin Red IX Estate | 2003 | — | 96+ | The 2003 IX Estate Proprietary Red is a blend of 64% Cabernet Sauvignon, 31% Merlot and rest Cabernet Franc and Petit Verdot from their steep hillside vineyards… | 261W·W30 lot 29244 |
-| Colgin Red IX Estate | 2006 | — | 100 | ...reveals the noble sweetness of tannin, the extraordinary rich, intense mouthfeel, and sumptuous aromas of flowers, burning embers, blackberries, blueberries,… | 261W·W30 lot 29476 |
-| Colgin Red IX Estate | 2007 | — | 100 | The staggeringly rich, complex, harmonious, impeccably well-balanced 2007 IX Proprietary Red Estate (1,400 case produced) exhibits aromas of spring flowers, ced… | 261W·W30 lot 29477 |
+| Colgin Red IX Estate | 2006 | — | 100 | ...reveals the noble sweetness of tannin, the extraordinary rich, intense mouthfeel, and sumptuous aromas of flowers, burning embers, blackberries, blueberries,… | 261W·W2026-06 lot 24472 |
+| Colgin Red IX Estate | 2007 | — | 100 | The staggeringly rich, complex, harmonious, impeccably well-balanced 2007 IX Proprietary Red Estate (1,400 case produced) exhibits aromas of spring flowers, ced… | 261W·W26 lot 25575 |
 | Colgin Red IX Estate | 2012 | — | 99 | Absolutely spectacular aromatics of spring flowers, blueberry, blackberry and blackcurrant fruit intermixed with creosote, graphite and floral notes are followe… | 261W·W30 lot 29245 |
+| Colgin Red IX Estate | 2021 | — | 99 | ...is a rich, opulent example, with layers of ripe black cherries and dark chocolate punctuated by hints of sage and bay leaf, plus some vaguely floral notes... | 265DE·W2026-06 lot 859 |
+| Colgin Red IX Estate | 2022 | — | 98+ | ...it boasts stunning complexity on the nose: blueberry, boysenberry and loganberry, joined by sage, bay leaf, dusty earth and mocha. Full-bodied, it's tannic a… | 265DE·W2026-06 lot 860 |
+| Colgin Syrah IX Estate | 2014 | — | 95 | ... incredibly fragrant, flowery bouquet that makes it seem as if there were some Viognier co-fermented with it, but it's always 100% Syrah coming from their st… | 261W·W2026-06 lot 24393 |
 | IX Estate Red | 2021 | Wine Advocate | 99 |  | Raeders 2026-04-25 |
 
 ## Down to Earth Wines (Panzer)

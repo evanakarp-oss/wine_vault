@@ -112,6 +112,14 @@ berserkers_kelley_body:
 
 > Has to be Bonneau, Pégaü and Rayas. Pre-1994 or so both Beaucastel and Clos des Papes would have been contenders. And, pre-2009, so would have been Clos du Mont Olivet.
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Chateauneuf du Pape La Cuvee du Papet | 2005 | — | 94+ | Made from 75% Grenache and 15% Syrah, the 2005 Châteauneuf du Pape la Cuvee du Papet is deeper and richer than the classic cuvee. It exhibits gorgeous notes of… | 261W·W28 lot 27594 |
+
 ## Down to Earth Wines (Panzer)
 
 Currently tracked: **1 cuvée/vintage entries**; prices $69–$69.

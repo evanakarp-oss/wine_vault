@@ -48,6 +48,29 @@ Historic Alba-based producer in Piemonte. Bruno Giacosa is a legendary name in B
 
 **Vault Status:** Stub profile from Joe Campanale's comprehensive Italian wine book. Listed as an exceptional producer; requires fuller research for current farming methods, key cuvées, and winemaking philosophy.
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Barbaresco Asili | 2001 | — | 95+ | ...impresses for its gorgeous inner sweetness and inviting, round fruit. The 2001 is pure Asili, but it has begun to shut down mightily over the last 1-2 years.… | 261W·W30 lot 29649 |
+| Barbaresco Asili Riserva | 2011 | Vinous | 96+ | Crushed cherry, raspberry, rose petal and botanical herbs on the tangy nose and palate. If the Santo Stefano is a more masculine, underbrushy style of nebbiolo,… | 261W·W26 lot 26168 |
+| Barbaresco Gallina | 1996 | Vinous | 90 | The 1996 Barbaresco Gallina is now fully mature, which makes it a good choice for drinking now and over the next few years, before the fruit fades too much furt… | 261W·W28 lot 27770 |
+| Barbaresco Rabaja Riserva | 2001 | — | 98 | It is a massively endowed, austere Barbaresco that fully captures the essence of the Rabaja vineyard in its explosive, deeply spiced balsamic nose, layers of sw… | 261W·W26 lot 25606 |
+| Barbaresco Santo Stefano Riserva | 1989 | — | 98 | ...explodes from the glass with an array of soy, spices, menthol, minerals and pine in a profound, kaleidoscopic expression of this great, great vineyard. Endow… | 265DE·W2026-06 lot 930 |
+| Barbaresco Santo Stefano Riserva | 1998 | International Wine Cellar | 94 | Medium red. Deep, expressive aromas of red fruits, minerals, dried flowers, roasted herbs, tar and camphor; I might have picked this blind as Barolo. Complex, p… | 261W·W26 lot 25607 |
+| Barolo Collina Rionda | 1985 | Vinous | 96 | ...was radiant, rich and powerful, very much in the style of the vintage. Generous dark fruit, leather and licorice came together beautifully in a Barolo whose… | 261W·W2026-06 lot 18656 |
+| Barolo Falletto | 2016 | Wine Advocate | 97 | D 94 JS 97 The Bruno Giacosa 2016 Barolo Falletto (white label) brings us another extraordinary expression from a classic vintage. Serralunga d'Alba fruit is fu… | Raeders 2026-04-25 |
+| Barolo Falletto | 2016 | James Suckling | 97 |  | Raeders 2026-04-25 |
+| Barolo Falletto | 2016 | Wine Spectator | 95 |  | Raeders 2026-04-25 |
+| Barolo Falletto di Serralunga | 2000 | Wine Spectator | 97 | Superdecadent and rich, with layers of plums, blackberries, strawberries and raw meat. Then turns floral. Full-bodied, yet fresh and lively, with a silky and ca… | 261W·W28 lot 27771 |
+| Barolo Falletto Vigna Le Rocche | 2013 | Vinous | 91 | Giacosa's 2013 Barolo Falletto Vigna Le Rocche is powerful and intense, with fine overall depth and persistence, but less in the way of finesse. With time in th… | 261W·W26 lot 26169 |
+| Barolo Falletto Vigna Le Rocche Riserva | 2012 | — | 96 | That textural richness is what stands out most. The primary fruit is bold and very well defined. There is a point of dark cherry ripeness, but it adds to the ge… | 261W·W30 lot 29166 |
+| Barolo Le Rocche del Falletto di Serralunga | 1997 | — | 96 | ...emerges from four blocks of his Falletto vineyard with a southeastern exposure. This amazing, deep plum/garnet-colored offering possesses huge body as well a… | 261W·W28 lot 27772 |
+| Barolo Le Rocche del Falletto di Serralunga, Riserva | 2000 | — | 96 | ...is like silk on the palate. Sweet, ripe tannins frame an exquisite core of fruit. The 2000 is remarkably elegant, sensual and polished but it doesn't quite p… | 261W·W26 lot 25608 |
+| Barolo Le Rocche del Falletto di Serralunga, Riserva | 2001 | — | 97 | ...is unbelievably reticent, which is hardly surprising considering how massive the wine was when it was relased. Readers will have to be especially patient her… | 265DE·W2026-06 lot 755 |
+
 ## Cross-references
 
 - [[Piemonte_Producers|Piemonte]]

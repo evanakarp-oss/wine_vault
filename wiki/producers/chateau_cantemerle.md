@@ -117,7 +117,9 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
-| Chateau Cantemerle | 2016 | Vinous | 92 | ...delivers serious flavor intensity without being at all heavy. Smoke, iron and cedar add character to a Haut-Médoc that has a lot to offer. | 261W·W30 lot 25270 |
+| Chateau Cantemerle | 1989 | Wine Spectator | 95 | Huge wine. Dark ruby-colored. Intense aromas of ripe fruit and game. Full-bodied and compacted, with masses of tannins and fruit, yet still closed and not givin… | 261W·W25 lot 25034 |
+| Chateau Cantemerle | 2009 | — | 91+ | Readers looking for the more ethereal, elegant side of Bordeaux need search no further than Cantemerle, one of the estates in the very southern end of the Medoc… | 261W·W28 lot 27263 |
+| Chateau Cantemerle | 2016 | Vinous | 92 | ...delivers serious flavor intensity without being at all heavy. Smoke, iron and cedar add character to a Haut-Médoc that has a lot to offer. | 261W·W25 lot 25270 |
 | Haut Medoc | 2014 | James Suckling | 94 | JS 94 Barrel Sample. While the wine does have a strongly dry element, it also has a creamy, black currant background that shows promise for the future. With gre… | Raeders 2026-04-25 |
 | Haut Medoc | 2014 | Wine Spectator | 90 |  | Raeders 2026-04-25 |
 | Haut Medoc | 2014 | Wine Enthusiast | 93 |  | Raeders 2026-04-25 |

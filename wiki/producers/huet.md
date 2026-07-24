@@ -113,6 +113,7 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
+| Vouvray Cuvee Constance | 2002 | Wine Spectator | 99 | Delivers the panoply of ginger, lemon cream, green tea, honeycomb and mango flavors you expect from a world-class dessert wine, combined with a lacy, filigreed… | 261W·W28 lot 27718 |
 | Vouvray Le Mont Demi Sec | 2008 | — | 91 | White truffle, white pepper, and chalk dust in the nose of the Huet 2008 Vouvray Demi-Sec Le Mont set the stage for another pungent, practically sizzling palate… | 261W·W30 lot 29630 |
 
 ## Down to Earth Wines (Panzer)

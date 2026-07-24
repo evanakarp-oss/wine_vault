@@ -23,6 +23,15 @@ _sources: ["campanale_wine_book"]
 
 Italian producer from Campanale wine book.
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Chianti Classico | 2022 | Wine Advocate | 91 |  | Raeders 2026-04-25 |
+| Toscana Rosso Baron Ugo | 2019 | Wine Advocate | 96 |  | Raeders 2026-04-25 |
+
 ## Notes
 
 ## CSW Write-ups

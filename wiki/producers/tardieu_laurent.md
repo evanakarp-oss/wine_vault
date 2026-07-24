@@ -63,6 +63,19 @@ _sources:
 
 > Featured Northern Rhône négociant selection emphasizing traditional, age-worthy expressions across the region's great appellations...
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Bonnes Mares Vieilles Vignes | 2002 | International Wine Cellar | 90 | Ruby-red. Full-blown aromas of black raspberry, mocha, smoke and earth. Fat, sweet and opulent, with strong earth tones. Appears to want for a bit more grip and… | 261W·W28 lot 27416 |
+| Bonnes Mares Vieilles Vignes | 2011 | Vinous | 96 | As impressive in the mouth as it is on the nose, showing outstanding sappiness and soil-driven saline complexity to its flavors of raspberry, botanical herbs, s… | 261W·W2026-06 lot 15253 |
+| Clos de la Roche Vieilles Vignes | 2011 | Vinous | 92 | Full red. Aromas of musky oak, gingerbread and molasses. Surprisingly juicy and high-toned in the mouth, with densely packed flavors of mocha and underbrush lif… | 261W·W2026-06 lot 15254 |
+| Clos de la Roche Vieilles Vignes, Intra-Muros | 2002 | Vinous | 93 | Medium red. Deep, exotic aromas of cherry skin, cocoa powder, brown spices, humus and faded rose; this smells like dessert! Superconcentrated, velvety and sweet… | 261W·W30 lot 29421 |
+| Clos St. Denis Vieilles Vignes | 2005 | — | 93-95 | The 2005 Clos St.-Denis Vieilles Vignes displays a tightly-knit palate with tiny-berry concentration, brightness and cut. Resin, herbal essences, tobacco and we… | 261W·W28 lot 27418 |
+| Hermitage | 1996 | — | 93 | ...is a wine of massive richness, extraordinary purity, and enormous potential. The saturated opaque purple color is followed by a youthful, unevolved bouquet o… | 261W·W30 lot 29614 |
+
 ## Down to Earth Wines (Panzer)
 
 Currently tracked: **6 cuvée/vintage entries**; prices $45–$125.

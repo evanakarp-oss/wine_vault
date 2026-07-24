@@ -48,7 +48,7 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 | Bond Melbury | 2003 | — | 97 | The 2003 Melbury comes from a slopeside site on the northern side of Lake Hennessey, opposite the Rutherford valley floor. Winemaker Bob Levy compares the 2003… | 261W·W30 lot 29216 |
 | Bond Melbury | 2005 | — | 95 | The 2005 Cabernet Sauvignon Melbury, which comes from the hills east of Rutherford just north of Lake Hennessey and Pritchard Hill, is absolutely spectacular. T… | 261W·W30 lot 29217 |
 | Bond Melbury | 2006 | — | 94 |  | 261W·W30 lot 29218 |
-| Bond Melbury | 2009 | — | 94 |  | 261W·W30 lot 29219 |
+| Bond Melbury | 2009 | — | 94 |  | 261W·W25 lot 25337 |
 | Bond Melbury | 2013 | — | 97 | ...with an opaque purple color, dense blueberry liqueur-like notes along with white flowers, licorice, and camphor followed by a full-bodied, incredibly seamles… | 261W·W30 lot 29220 |
 | Bond Melbury | 2014 | — | 96+ | Deep garnet-purple colored, the 2014 Melbury is profoundly scented of crushed plums, black cherries and cassis with hints of dark chocolate, black pepper, black… | 261W·W30 lot 29221 |
 | Bond Pluribus | 2006 | — | 94 |  | 261W·W30 lot 29222 |
@@ -59,7 +59,7 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 | Bond Quella | 2006 | — | 92 |  | 261W·W30 lot 29227 |
 | Bond Quella | 2007 | — | 97 | A dark brooding wine, the 2009 saturates the palate with black cherries, plums, smoke and incense, all in a firm, brooding style that is highly appealing. Vivid… | 261W·W30 lot 29228 |
 | Bond Quella | 2008 | — | 93 | ...a dark, brooding wine loaded with super-ripe dark black fruit, smoke, tar and licorice. It is a seriously intense wine that will require bottle age. This is… | 261W·W30 lot 29229 |
-| Bond Quella | 2009 | — | 96 | A dark brooding wine, the 2009 saturates the palate with black cherries, plums, smoke and incense, all in a firm, brooding style that is highly appealing. Vivid… | 261W·W30 lot 29230 |
+| Bond Quella | 2009 | — | 96 | A dark brooding wine, the 2009 saturates the palate with black cherries, plums, smoke and incense, all in a firm, brooding style that is highly appealing. Vivid… | 261W·W25 lot 25338 |
 | Bond Quella | 2010 | — | 98 |  | 261W·W30 lot 29231 |
 | Bond Quella | 2013 | — | 96+ | ...exhibits blackberry notes, licorice, some truffle, graphite and damp earth, huge fruit, a muscular, full-bodied mouthfeel, and a long, moderately tannic fini… | 261W·W30 lot 29232 |
 | Bond Quella | 2014 | — | 96 | Deep garnet-purple colored, the 2014 Quella is scented of blackberry preserves, fruitcake and crushed rocks with hints of cigar box, dried Provence herbs and In… | 261W·W30 lot 29233 |

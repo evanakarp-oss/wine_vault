@@ -140,6 +140,14 @@ _sources:
 
 **Momentum 2023+:** 0.0× (dropped off — early-thread producer with no recent mentions).
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Cotes du Jura Blanc Les Vignes de Mon Pere | 2008 | — | 99-100 | ...is pretty stable and should be bottled soon. It has mind-boggling length and persistence, the nose is fascinating, and the balance is gobsmacking, with a sal… | 265DE·W2026-06 lot 791 |
+
 ## Down to Earth Wines (Panzer)
 
 _Not yet populated. Run `ingest_dte_jsx.py` to fold in DTE portfolio data._

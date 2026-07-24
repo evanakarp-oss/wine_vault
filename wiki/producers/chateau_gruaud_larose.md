@@ -114,7 +114,11 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
-| Chateau Gruaud Larose | 1982 | — | 98 | A massive wine that is clearly of first-growth quality in this vintage, the 1982 Gruaud Larose remains a youngster. A broodingly dense, thick, unctuously textur… | 261W·W30 lot 29333 |
+| Chateau Gruaud Larose | 1961 | — | 96 | The 1961 is among the greatest mature wines of Gruaud-Larose I have drunk. This powerful, rich, densely concentrated wine remains young, fresh, and vigorous, wi… | 261W·W25 lot 24628 |
+| Chateau Gruaud Larose | 1970 | JK | 92 | Out of magnum. | 261W·W25 lot 24630 |
+| Chateau Gruaud Larose | 1982 | — | 98 | A massive wine that is clearly of first-growth quality in this vintage, the 1982 Gruaud Larose remains a youngster. A broodingly dense, thick, unctuously textur… | 261W·W2026-06 lot 24427 |
+| Chateau Gruaud Larose | 1983 | — | 92 | Typical of the wines this property made in the late seventies and early eighties, it offers a full throttle style, an opaque dark ruby/purple color with no ambe… | 261W·W29 lot 28777 |
+| Chateau Gruaud Larose | 1986 | — | 96 | Still tasting as if it were only 7-8 years of age, the dense, garnet/purple-colored 1986 Gruaud-Larose is evolving at a glacier pace. The wine still has mammoth… | 261W·W25 lot 25049 |
 | Saint Julien | 2019 | Wine Advocate | 95 | The 2019 Gruaud Larose is performing extremely well in bottle, wafting from the glass with aromas of wild berries and plums mingled with notions of licorice, po… | Raeders 2026-04-25 |
 | Saint Julien | 2020 | Wine Advocate | 96 | D 98 JD 96 JS 96 #25 WINE SPECTATOR TOP 100 2023 | Raeders 2026-04-25 |
 | Saint Julien | 2020 | James Suckling | 96 |  | Raeders 2026-04-25 |

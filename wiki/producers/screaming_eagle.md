@@ -114,7 +114,17 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
-| Screaming Eagle Cabernet Sauvignon | 2020 | Vinous | 96 | All the elements are so well balanced. Dark blue/purplish fruit, lavender, menthol, spice, leather and a soft touch of all fill out the layers effortlessly. | 261W·W30 lot 24891 |
+| Screaming Eagle Cabernet Sauvignon | 2004 | — | 97+ | Aged 20 months in 72% new French oak, this blend of 85% Cabernet Sauvignon, 13% Merlot and 2% Cabernet Franc comes from a great vineyard on the valley floor in… | 261W·W2026-06 lot 24063 |
+| Screaming Eagle Cabernet Sauvignon | 2012 | — | 100 | ...is composed of 79% Cabernet Sauvignon, 17% Merlot and 4% Cabernet Franc. Made in the classic, iconic Screaming Eagle style that the original proprietress, Je… | 265DE·W2026-06 lot 1059 |
+| Screaming Eagle Cabernet Sauvignon | 2013 | Vinous | 98+ | Dark, brooding and quite potent, the 2013 possesses tremendous depth backed by equally serious tannins. Blackberry, graphite, lavender, mocha and dried herbs ar… | 265DE·W2026-06 lot 1061 |
+| Screaming Eagle Cabernet Sauvignon | 2014 | — | 97 | ...sexy, up-front, opaque ruby/purple-colored wine is seamlessly constructed, full-bodied, and has a long finish with silky tannins. This seems to float across… | 265DE·W2026-06 lot 1062 |
+| Screaming Eagle Cabernet Sauvignon | 2016 | — | 100 | The 2016 Screaming Eagle is, as usual, mainly Cabernet Sauvignon with a little Merlot and Cabernet Franc. Deep garnet-purple colored, it leaps from the glass wi… | 265DE·W2026-06 lot 866 |
+| Screaming Eagle Cabernet Sauvignon | 2018 | Vinous | 98+ | Crème de cassis, lavender and spice open first, followed by sage, lavender, rose petal and a whole range of more floral and savory notes that convey freshness a… | 265DE·W2026-06 lot 867 |
+| Screaming Eagle Cabernet Sauvignon | 2019 | Vinous | 100 | ...a wine of mind-blowing elegance and finesse that stand apart from the generally more potent style of so many wines in this vintage. Deep, sensual and beautif… | 265DE·W2026-06 lot 1065 |
+| Screaming Eagle Cabernet Sauvignon | 2020 | Vinous | 96 | All the elements are so well balanced. Dark blue/purplish fruit, lavender, menthol, spice, leather and a soft touch of all fill out the layers effortlessly. | 261W·W25 lot 24891 |
+| Screaming Eagle Cabernet Sauvignon | 2021 | Vinous | 98-100 | Dark cherry, plum, mocha, grilled herbs, leather and a kick of spice all build in this wonderfully vibrant, layered Screaming Eagle. | 261W·W2026-06 lot 24037 |
+| Screaming Eagle Cabernet Sauvignon | 2022 | Vinous | 95 | ...is a decidedly delicate, elegant wine. It offers terrific freshness and verve. Floral and citrus overtones lift a core of red-toned fruit. | 261W·W25 lot 24893 |
+| Screaming Eagle Cabernet Sauvignon | 2023 | Vinous | 98+ | ...opens with a huge bouquet that is immediately captivating. Dark fruit, menthol, licorice, cloves, graphite and dried herbs lend considerable aromatic intensi… | 261W·W2026-06 lot 24038 |
 
 ## Down to Earth Wines (Panzer)
 

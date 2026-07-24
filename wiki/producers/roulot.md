@@ -108,11 +108,33 @@ _Auto-generated from landed critic ratings (auction catalogs + Raeders) by `comp
 
 | Wine | Vintage | Critic | Score | Note | Source |
 |---|---|---|---|---|---|
+| Chevalier Montrachet | 2018 | Burghound | 93-96 | A distinctly cool and highly restrained nose offers up wonderfully pure aromas of essence of white-fleshed fruit, lavender, citrus rind and a whiff of spice. Th… | 265DE·W2026-06 lot 558 |
+| Chevalier Montrachet | 2019 | — | 91-93 | ... opens in the glass with notes of citrus oil, white flowers, almond paste and mint. Medium to full-bodied, crisp and tangy, it's racy and precise, though a l… | 265DE·W2026-06 lot 558 |
+| Chevalier Montrachet | 2020 | Burghound | 95 | This is also exuberantly spicy with its even more floral-suffused nose of cool, pure and restrained Granny Smith apples, citrus confit and anise scents. | 265DE·W2026-06 lot 558 |
 | Corton Charlemagne | 2016 | Burghound | 92-94 | Here the nose is very firmly reduced and impossible to assess. On the plus side, the is both more volume and power to the broad-shouldered flavors that possess… | 261W·W30 lot 29014 |
+| Corton Charlemagne | 2017 | Burghound | 91-94 | Once again there is plenty of floral influence to the essence of pear, Granny Smith apples and lemon-lime scented nose. There is better concentration to the equ… | 265DE·W2026-06 lot 559 |
 | Corton Charlemagne | 2019 | Burghound | 93-95 | Here too there are petrol whiffs on the cooler aromas of green apple, various citrus, anise and elegant floral suggestions. There is impressive intensity; indee… | 261W·W30 lot 29015 |
-| Corton Charlemagne | 2020 | Burghound | 93 | ...with its array of white pepper, menthol, essence of pear and mineral reduction. There is outstanding volume to the stony and powerful larger-scaled flavors..… | 261W·W30 lot 29016 |
+| Corton Charlemagne | 2020 | Burghound | 93 | ...with its array of white pepper, menthol, essence of pear and mineral reduction. There is outstanding volume to the stony and powerful larger-scaled flavors..… | 261W·W2026-06 lot 23891 |
+| Meursault | 2019 | Burghound | 89-91 | A very Meursault-like nose consists of grilled hazelnut, pear and apple compote with hints of acacia blossom. There is excellent underlying tension to the delic… | 261W·W26 lot 25530 |
 | Meursault A Mon Plaisir, Clos du Haut Tesson | 2019 | — | 92-94 | Aromas of crisp orchard fruit, white flowers, toasted almonds, iodine and struck match preface the 2019 Meursault À Mon Plaisir Clos du Haut Tesson, a medium to… | 261W·W30 lot 29027 |
+| Meursault A Mon Plaisir, Clos du Haut Tesson | 2020 | — | 92-94 | A medium to full-bodied, satiny wine that's elegantly fleshy, its nicely concentrated core of crisp but fleshy fruit girdled by racy acids, concluding with a mi… | 261W·W2026-06 lot 23902 |
 | Meursault A Mon Plaisir, Clos du Haut Tesson | 2022 | Burghound | 92-94 | Cool, elegant and layered aromas are comprised by notes of Granny Smith apple, citrus rind and plenty of floral elements are trimmed in a smoky component. | 261W·W30 lot 29028 |
+| Meursault Charmes | 2009 | — | 96 | The 2009 Meursault Charmes comes across as big and quite rich. Layers of fruit totally cover the palate in this textured, seamless Charmes. There is plenty of u… | 261W·W25 lot 25304 |
+| Meursault Clos des Boucheres | 2014 | Burghound | 92-94 | A classic Meursault nose consists of pure and very fresh hazelnut, white orchard fruit and acacia blossom aromas that are trimmed in subtle wood nuances. The bo… | 261W·W26 lot 25782 |
+| Meursault Clos des Boucheres | 2018 | Vinous | 93-95 | Exuberantly fresh and elegant aromas combine notes of acacia blossom, rose petal, white peach, spiced pear and a whisper of just grated lemon zest. The striking… | 265DE·W2026-06 lot 565 |
+| Meursault Clos des Boucheres | 2020 | Vinous | 94-96 | ...positively stunning. The aromatics along are so inviting. Gracious and deceptively light in body, the 2020 has so much to offer. White pepper, crushed rocks,… | 261W·W2026-06 lot 23903 |
+| Meursault Clos des Boucheres | 2021 | Vinous | 94 | The palate is very well-balanced, with a lick of salinity on the entry. This is an extremely capable Meursault that is very poised and mineral-driven with a sus… | 265DE·W2026-06 lot 565 |
+| Meursault Clos des Boucheres | 2022 | Burghound | 93-96 | On the palate though there is a really lovely sense of verve to the refined, elegant and beautifully detailed middle weight flavors that flash evident mineralit… | 265DE·W2026-06 lot 565 |
+| Meursault Clos des Boucheres | 2023 | Vinous | 93-95 | The palate is very well balanced with lovely poise and purity, hints of praline and grilled walnut furnishing the persistent finish that lingers in the mouth. | 265DE·W2026-06 lot 565 |
+| Meursault Les Luchets | 2020 | — | 91-93 | ...a beautifully balanced wine that wafts from the glass with notions of citrus oil, white flowers, nougat and orange oil. Medium to full-bodied, satiny and inc… | 261W·W2026-06 lot 23904 |
+| Meursault Les Luchets | 2021 | Burghound | 91-94 | Smoky, cool and airy aromas of citrus confit, spice, toasted hazelnut and various white fleshed fruit are trimmed in all but imperceptible wood. | 265DE·W2026-06 lot 566 |
+| Meursault Les Luchets | 2022 | — | 90-92 | ... is lovely, unwinding in the glass with gently reductive aromas of pear, green apple, white flowers and bread dough. Medium to full-bodied, layered and textu… | 265DE·W2026-06 lot 566 |
+| Meursault Les Luchets | 2023 | Burghound | 91-93 | Here too the expressive and beautifully layered nose of Granny Smith apple, citrus rind and exotic tea is airy, cool and elegant. | 265DE·W2026-06 lot 566 |
+| Meursault Les Tessons, Clos de Mon Plaisir | 2011 | Burghound | 91 | Like the Meix Chavaux this is softly perfumed with a very floral nose of ripe white orchard fruit aromas. As is the case with the 2012 version, the Tessons is t… | 261W·W26 lot 25786 |
+| Meursault Luchets | 2014 | Vinous | 91+ | Ripe yellow fruits complemented by smoky minerality on the nose. At once rich and taut in the mouth, showing strong mineral and wet stone character but also a g… | 261W·W26 lot 25787 |
+| Meursault Vireuils | 2021 | Vinous | 92 | ...has a crisp, malic, almost terse bouquet reminiscent of a fine Chablis. Very well defined. The palate is focused on the entry, citrus peel mixed with lime an… | 265DE·W2026-06 lot 566 |
+| Meursault Vireuils | 2022 | Vinous | 91-93 | This has an attractive nose: Golden Delicious, lanolin, hints of honeysuckle in the background. The palate is very well-balanced with a waxy texture. | 265DE·W2026-06 lot 566 |
+| Meursault Vireuils | 2023 | Vinous | 91-93 | This is fresh on the nose, with sea spray, flint and petrichor scents blossoming in the glass. The palate is well balanced with fine delineation and plenty of e… | 265DE·W2026-06 lot 566 |
 
 ## Down to Earth Wines (Panzer)
 

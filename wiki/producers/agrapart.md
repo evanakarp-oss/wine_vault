@@ -110,6 +110,14 @@ _Seeded from Down to Earth (Panzer) portfolio. Not yet covered in CSW archive sw
 
 **Momentum 2023+:** new entrant (no earlier-era baseline).
 
+## Critic Ratings
+
+_Auto-generated from landed critic ratings (auction catalogs + Raeders) by `compile_auction_ratings.py`. Don't hand-edit — see `wiki/_SCHEMA.md`._
+
+| Wine | Vintage | Critic | Score | Note | Source |
+|---|---|---|---|---|---|
+| Agrapart & Fils Champagne 7 Crus | NV | — | 91 | The NV Brut Blanc de Blancs 7 Crus is beautiful, wiry and bursting with pure energy. Lemon, mint, white flowers and crushed rocks jump from the glass in a vibra… | 261W·W28 lot 28043 |
+
 ## Down to Earth Wines (Panzer)
 
 Currently tracked: **2 cuvée/vintage entries**; prices $59–$79.
