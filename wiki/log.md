@@ -1398,3 +1398,24 @@ scored 13).
 - Incidental: the rollup regen also cleared pre-existing drift unrelated to Baudry
   (Friuli-Venezia Giulia producer_count 68→67 from an earlier uncommitted deletion,
   + importer-page YAML key ordering) so index and rollups agree on true disk state.
+
+## [2026-07-24] onboard | Arnaud Lambert (Saumur) — new producer page
+
+Created `wiki/producers/arnaud_lambert.md` — the reference grower of Saumur/Brézé
+(organic-certified 2012, ~40 ha Brézé + Saint-Cyr, deep-limestone Chenin + Cab
+Franc; steward of Château de Brézé). Core-fit Loire producer (terroir-driven,
+grower-scale, ageworthy value); natural shelf-mate to Guiberteau + Clos Rougeard.
+
+- CSW: `ingest_csw.py` wired 2 genuine articles — dedicated "A Quiet Storm in
+  Saumur" (2022) + "Loire Valley Wins Gold" (his Crémant). A 3rd match ("Who is
+  Jean-Pierre Robinot?") was a FALSE positive — the alias "Château de Brézé"
+  matched the *château cellars* named as an event venue, not the producer.
+  Dropped the "Château de Brézé"/"Domaine de Saint-Just" aliases (noise-prone) and
+  corrected chambers counts to 2 articles / 1 dedicated / 2022.
+- Raeder's: 3 cuvées landed (Saumur Rouge "Tue-Loup" 2021 $39.99; "La Rue Brézé"
+  Chenin + "Montée des Roches" red, unpriced). US importer not found in any vault
+  source — left `importer_us: []` (flagged in-page; don't fabricate).
+- Rollups/index: Loire 39→40, Raeder's 58→59, index +1. Scoped the commit to the
+  Arnaud rows only — reverted the full `ingest_csw.py` vault-wide CSW re-sync (309
+  producer files) and the recurring `build_rollups` frontmatter key-order drift
+  (~75 rollup pages), as neither belongs in a single-producer onboarding. lint 0.

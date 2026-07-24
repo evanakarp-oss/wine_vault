@@ -1,6 +1,6 @@
 ---
 type: index
-total_pages: 1390
+total_pages: 1391
 generator: scripts/build_wiki_index.py
 ---
 
@@ -10,7 +10,7 @@ generator: scripts/build_wiki_index.py
 
 Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wiki pattern, this is the LLM's first read on any query — find candidate pages here, then drill into them.
 
-**1390 pages indexed.**
+**1391 pages indexed.**
 
 ## Schema & taxonomy
 
@@ -46,7 +46,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 - [[Jura_Producers|Jura Producers]] — **14 producers** tracked.
 - [[Lazio_Producers|Lazio Producers]] — **19 producers** tracked.
 - [[Liguria_Producers|Liguria Producers]] — **17 producers** tracked.
-- [[Loire_Producers|Loire Producers]] — **39 producers** tracked.
+- [[Loire_Producers|Loire Producers]] — **40 producers** tracked.
 - [[Lombardy_Producers|Lombardy Producers]] — **32 producers** tracked.
 - [[Marche_Producers|Marche Producers]] — **21 producers** tracked.
 - [[Mendoza_Producers|Mendoza Producers]] — **62 producers** tracked.
@@ -291,7 +291,7 @@ Catalog of every page in `wiki/` and `cellar/`, grouped by type. Per the LLM-wik
 
 ## Producers
 
-_825 producers across 50 regions._
+_826 producers across 50 regions._
 
 ### Abruzzo
 
@@ -774,6 +774,7 @@ _825 producers across 50 regions._
 
 ### Loire
 
+- [[arnaud_lambert|Arnaud Lambert]] — Loire / Saumur · organic · CSW ★1/2 · Raeder 3
 - [[benoit_courault|Benoit Courault]] — Loire / Anjou · organic, natural · CSW ★3/11
 - [[boulay|Boulay]] — Loire · CSW 2 · DTE 1
 - [[catherine_pierre_breton|Catherine & Pierre Breton]] — Loire / Bourgueil / Chinon (Restigné) · organic, biodynamic · CSW ★1/2

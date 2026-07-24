@@ -1,13 +1,13 @@
 ---
 type: region_index
 region: "Loire"
-updated: 2026-07-23
-producer_count: 39
+updated: 2026-07-24
+producer_count: 40
 ---
 
 # Loire — Producer Index
 
-**39 producers** tracked.
+**40 producers** tracked.
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
@@ -19,6 +19,7 @@ producer_count: 39
 | [[marionnet|Domaine Marionnet]] | France | Sologne | 5 | — | — | — | — |
 | [[olga_raffault|Domaine Olga Raffault]] | France | Chinon (Savigny-en-Véron) | 5 | — | — | — | — |
 | [[domaine_guiberteau|Domaine Guiberteau]] | France | Saumur-Champigny | 3 | — | — | — | — |
+| [[arnaud_lambert|Arnaud Lambert]] | France | Saumur | 2 | — | 3 | — | — |
 | [[boulay|Boulay]] | France | '' | 2 | 1 | — | — | — |
 | [[catherine_pierre_breton|Catherine & Pierre Breton]] | France | Bourgueil / Chinon (Restigné) | 2 | — | — | — | — |
 | [[sablonnettes|Domaine des Sablonnettes]] | France | Anjou | 2 | — | — | — | — |

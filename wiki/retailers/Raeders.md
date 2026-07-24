@@ -4,15 +4,15 @@ name: "Raeder's"
 slug: raeders
 url: "https://www.raederswine.com"
 location: ""
-producer_count: 58
-updated: 2026-07-23
-_source: wiki/_resources.md
+producer_count: 59
+updated: 2026-07-24
 tags: []
+_source: wiki/_resources.md
 ---
 # Raeder's
 
 <!-- BEGIN AUTO-GENERATED (build_rollups.py) -->
-**58 producers** from this retailer are tracked in the wiki.
+**59 producers** from this retailer are tracked in the wiki.
 
 ## Producers in portfolio
 
@@ -46,6 +46,7 @@ tags: []
 | [[chateau_gruaud_larose|Château Gruaud-Larose]] | France | Bordeaux | 4 | 1 |
 | [[hundred_acre|Hundred Acre]] | United States | California | 4 | — |
 | [[jermann|Jermann]] | Italy | Friuli-Venezia Giulia | 4 | — |
+| [[arnaud_lambert|Arnaud Lambert]] | France | Loire | 3 | 2 |
 | [[chateau_calon_segur|Château Calon-Ségur]] | France | Bordeaux | 3 | 1 |
 | [[chateau_pape_clement|Château Pape Clément]] | France | Bordeaux | 3 | — |
 | [[michel_niellon|Michel Niellon]] | France | Burgundy | 3 | — |
