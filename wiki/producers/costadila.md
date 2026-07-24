@@ -20,10 +20,10 @@ importer_us:
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 2
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2011
+    last_year: 2017
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -59,3 +59,16 @@ Natural-wine pioneer founded 2006 by Ernesto Cattel in Tarzo, Treviso province, 
 
 - [[Prosecco_Producers|Prosecco]]
 - [[Veneto_Producers|Veneto]]
+
+## CSW Write-ups
+
+### [Natural Italian Bubbles](https://chambersstwines.com/blogs/articles/natural-italian-bubbles)
+*2017-05*
+
+> 5/19/17 - Of the under-appreciated categories in wine, Italian sparklers might not be the first thing that comes to mind. Sure, Prosecco has always been quite popular and people are starting to realize that not all Lambrusco is sticky sweet, but it's easy to…
+
+### [A Thought Experiment, a Tasting, and an Array of Super Sparklers…](https://chambersstwines.com/blogs/articles/a-thought-experiment-a-tasting-and-an-array-of-super-sparklers)
+*2011-06*
+
+> *6/16/11 -* *(Ernesto of Costadila gives a thumbs up to his healthy vines)* I love Champagne, a love that has taken a greater toll on my wallet than I’d care to admit. There is something singular about the quality of mineral character, bubble, and acid that…
+

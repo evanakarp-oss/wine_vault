@@ -13,10 +13,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 1
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2016
+    last_year: 2016
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -42,7 +42,10 @@ Piero Riccardi and Lorella Reale, who met while working in television, left the 
 
 ## CSW Write-ups
 
-_None found in the CSW corpus (scraped 2026-04)._
+### [Cesanese Explosion!](https://chambersstwines.com/blogs/articles/cesanese-explosion)
+*2016-08*
+
+> 8/9/16 - Suddenly it’s boom-times for Cesanese, the most important red grape in Lazio (the region around Rome). Cesanese was the house wine in many Roman trattorias in the 1970s and 1980s; it could be pretty crude, but we have fond memories of lively wines…
 
 ## Cellar
 

@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Calabria"
-updated: 2026-07-23
+updated: 2026-07-24
 producer_count: 4
 ---
 

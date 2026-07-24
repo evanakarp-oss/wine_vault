@@ -118,3 +118,36 @@ _Not yet populated._
 - [[Rhône_Producers|Rhône]]
 - [[Savoie (Cevins)]]
 - [[CSW Article Archive]]
+
+## CSW Write-ups
+
+### [Savoie and Savoie-adjacent](https://chambersstwines.com/blogs/articles/savoie-and-savoie-adjacent)
+*2025-10*
+
+> 10/4/25 - This weekend's offering started with our excitement over the new arrivals from Domaine des Ardoisières in the Savoie. The Ardoisières wines are favorites of our staff and clientele, expressing their alpine influence from vineyards in the shadow of…
+
+### [A Very Savoie Saturday](https://chambersstwines.com/blogs/articles/a-very-savoie-saturday)
+*2023-11*
+
+> 11/4/23 - It's been a while since we last sent out a big Savoie email blast, and something about the Fall weather, and the deep cuts that we happen to have in stock made us feel like it was finally time again! As our little caption suggests, this is actually…
+
+### [Winegrowing in the Isere, Part 2: Nicolas Gonin and the region's rare grapes!](https://chambersstwines.com/blogs/articles/winegrowing-in-the-isere-part-2-nicolas-gonin-and-the-regions-rare-grapes)
+*2021-08*
+
+> 8/12/21 - On Monday, we featured the innovative Antoine Depierre, of Domaine Mayoussier, who is planting international grapes, like Sauvignon Blanc and Syrah, in the southern part of the Isère near the national park of Vercors. There couldn't be a starker…
+
+### ★ [More Savoie, please! Domaine des Ardoisieres' 2020 Silice Rouge & Silice Blanc](https://chambersstwines.com/blogs/articles/more-savoie-please-domaine-des-ardoisieres-2020-silice-rouge-silice-blanc)
+*2021-07*
+
+> 7/8/21 - Mondeuse, Mondeuse, Mondeuse…These days, I’m finding it hard to resist the low-alcohol red wines made from this staple grape of the Savoie. I featured theBruno Lupin 2019 Mondeusea few weeks ago, from vines around 70 years old and aged in ex-DRC…
+
+### [Let's Bugey from Here to Isere: Wonderful Alpine wines from Les Cortis & Thomas Finot](https://chambersstwines.com/blogs/articles/lets-bugey-from-here-to-isere-wonderful-alpine-wines-from-les-cortis-thomas-finot)
+*2021-07*
+
+> 7/1/21 - According to our friend Wink Lorch, author of *Wines of the French Alps* , Jérémy Decoster of **Les Cortis** took what he learned working at the hallowed Domaine de Moor in Chablis and applied it to his own estate years later in Bugey. He and his…
+
+### [New Bounty in Eastern France!](https://chambersstwines.com/blogs/articles/new-bounty-in-eastern-france)
+*2014-05*
+
+> *﻿5/27/14 -* *(The view of Mont Blanc from Ardoisières vineyards.)* Has this ever happened to you? You visit a wine bar in a foreign city (in this case Avignon); you order something interesting off the list that you’ve never seen before (in this case a white…
+

@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Alsace"
-updated: 2026-07-23
+updated: 2026-07-24
 producer_count: 7
 ---
 
@@ -13,10 +13,10 @@ producer_count: 7
 |---|---|---|---:|---:|---:|---:|---:|
 | [[laurent_barth|Laurent Barth]] | France | Bennwihr | 5 | — | — | — | — |
 | [[beck-hartweg|Beck-Hartweg]] | France | Dambach-la-Ville (Bas-Rhin) | 4 | — | — | — | — |
+| [[beck_hartweg|Beck-Hartweg]] | France | Pfaffenheim | 4 | — | — | — | — |
+| [[dirler_cade|Dirler Cadé]] | France | '' | 1 | 5 | — | — | — |
 | [[agathe_bursin|Agathe Bursin]] | France | — | — | 1 | — | — | — |
 | [[barmes_buecher|Barmès Buecher]] | France | Wettolsheim | — | — | — | — | — |
-| [[beck_hartweg|Beck-Hartweg]] | France | Pfaffenheim | — | — | — | — | — |
-| [[dirler_cade|Dirler Cadé]] | France | '' | — | 5 | — | — | — |
 | [[kientzler|Kientzler]] | France | — | — | 1 | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

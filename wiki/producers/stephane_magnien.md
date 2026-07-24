@@ -14,9 +14,9 @@ importer_us: []
 retailers:
   chambers:
     championed: true
-    article_count: 6
-    dedicated_count: 4
-    first_year: 2013
+    article_count: 7
+    dedicated_count: 5
+    first_year: 2012
     last_year: 2025
     aging_score: 5
     cellar_pick: false
@@ -67,6 +67,11 @@ _sources:
 *2013-07*
 
 > *7/22/13 -* ** In May we returned to Domaine Stéphane Magnien in Morey Saint-Denis to taste the 2011s from this talented young winemaker. We were very happy to find a superb range of wines that retained the bright acidity and mineral character of the 2010s…
+
+### ★ [Morey Saint-Denis: Introducing Domaine Stéphan Magnien! (No Relation to Other Magniens...)](https://chambersstwines.com/blogs/articles/morey-saint-denis-introducing-domaine-stephan-magnien-no-relation-to-other-magniens)
+*2012-05*
+
+> *﻿5/23/12 -* ** *(Stephan Magnien)* The young and very capable Stéphan Magnien is the fourth generation in his family at this four hectare estate in Morey Saint-Denis. The domain has never used herbicides, doing a deep plowing to aerate the soil each winter…
 
 ### ★ [The Beautiful 2022s from Stéphane Magnien in Morey-Saint-Denis!](https://chambersstwines.com/blogs/articles/the-beautiful-2022s-from-stephane-magnien-in-morey-saint-denis)
 *undated*

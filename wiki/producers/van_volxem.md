@@ -86,15 +86,15 @@ _sources:
 
 > *11/20/2008 -* *(Dominick, Lyle, Roman)* Last February I went to Germany with David Weitzenhoffer, president and CEO of Acid Inc, a small boutique wine importing company our goal was to come back with the best estate not available in New York. Well, we did.…
 
-### [2007 Keller and Schonleber](https://chambersstwines.com/blogs/articles/2007-keller-and-schonleber)
-*2008-05*
-
-> *﻿5/17/2008 -* ** The chatter has started and 2007 is turning out to be a spectacular vintage for Germany. I barrel tasted at a few estates in February (Knebel, Heger, Schnaittman & Van Volxem) and I was very excited as to what I tasted, even if the wines…
-
 ### [A.J. Adam - A new Riesling on the Horizon](https://chambersstwines.com/blogs/articles/a-new-riesling-on-the-horizon)
 *2008-05*
 
 > *﻿5/22/2008 -* The amount of high quality wine coming out of Germany right now is at an all time high especially considering that Germany only produces 1% of all the wine in the world. I still have not tasted every great producer . . .yet. So every now and…
+
+### [2007 Keller and Schonleber](https://chambersstwines.com/blogs/articles/2007-keller-and-schonleber)
+*2008-05*
+
+> *﻿5/17/2008 -* ** The chatter has started and 2007 is turning out to be a spectacular vintage for Germany. I barrel tasted at a few estates in February (Knebel, Heger, Schnaittman & Van Volxem) and I was very excited as to what I tasted, even if the wines…
 
 ## CSW Cellar Note
 

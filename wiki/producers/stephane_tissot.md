@@ -19,8 +19,8 @@ importer_us:
 retailers:
   chambers:
     championed: true
-    article_count: 13
-    dedicated_count: 3
+    article_count: 18
+    dedicated_count: 4
     first_year: 2012
     last_year: 2025
     aging_score: 5
@@ -137,15 +137,15 @@ berserkers_kelley_body:
 
 > [Stephane in front of le Clos de la Tour de Couron] “Energetic” is an oft used word to describe Stephane Tissot, bright-eyed and full of vitality. A tireless vigneron, Stephane farms between 45 and 50 hectares biodynamically, travels to distant lands as a…
 
-### ★ [A Handful of Tissot!](https://chambersstwines.com/blogs/articles/a-handful-of-tissot)
-*undated*
-
-> Domaine Andre et Mireille Tissot, begun in 1962, is in Montigny-les-Arsures, just a few kilometers from Arbois. Stéphane, their son, took over in 1990 and has slowly but surely established the Tissot name as an important one in the history of Jura wine. A…
-
 ### [New from the Jura: Les Granges Paquenesses!](https://chambersstwines.com/blogs/articles/new-from-the-jura-les-granges-paquenesses)
 *undated*
 
 > Loreline Laborde is living the fantasy many city dwellers have during rush hour: fleeing the city to live a quiet life in harmony with nature. After completing her formal studies in viticulture, Loreline left the bustling city of Montpellier to make wine in…
+
+### ★ [A Handful of Tissot!](https://chambersstwines.com/blogs/articles/a-handful-of-tissot)
+*undated*
+
+> Domaine Andre et Mireille Tissot, begun in 1962, is in Montigny-les-Arsures, just a few kilometers from Arbois. Stéphane, their son, took over in 1990 and has slowly but surely established the Tissot name as an important one in the history of Jura wine. A…
 
 ## CSW Cellar Note
 

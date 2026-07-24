@@ -12,9 +12,9 @@ certifications: []
 importer_us: ["Regal Wine Imports"]
 retailers:
   chambers:
-    championed: false
-    article_count: 0
-    dedicated_count: 0
+    championed: true
+    article_count: 2
+    dedicated_count: 2
     first_year: 0
     last_year: 0
   dte:
@@ -43,10 +43,15 @@ Luigi Tecce represents the fourth generation of his family to work the vineyards
 
 ## CSW Write-ups
 
-### [Luigi Tecce – Power and Elegance](https://chambersstwines.com/blogs/articles/luigi-tecce-power-and-elegance)
-*2026-01*
+### ★ [Luigi Tecce - Power and Elegance](https://chambersstwines.com/blogs/articles/luigi-tecce-power-and-elegance)
+*undated*
 
-> Luigi Tecce's fourth-generation family winery in Paternopoli, Campania, produces some of the finest Taurasi available. His natural fermentation, chestnut-vat aging, and 80-year-old Aglianico vines create wines of remarkable power and elegance.
+> Before moving to our new digs at 79 Chambers Street, our last staff tasting at 148 Chambers Street was with Luigi Tecce, the charismatic winemaker from Campania (who until this release bottled his wines under the Taurasi DOCG). I had very little experience…
+
+### ★ [Luigi Tecce - The Prince of Taurasi](https://chambersstwines.com/blogs/articles/luigi-tecce-the-prince-of-taurasi)
+*undated*
+
+> [Luigi Tecce pouring his wines. (photo from the PortoVino website)] From John Gilman's View from the Cellar #63: "Luigi Tecce is clearly amongst the very finest, if not the finest, winemakers in Taurasi today and he will be a superstar in the very near…
 
 ## Cellar
 

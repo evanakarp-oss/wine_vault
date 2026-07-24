@@ -25,3 +25,10 @@ Italian producer from Campanale wine book.
 
 ## Notes
 
+## CSW Write-ups
+
+### [Sangiovese with a Sea Breeze](https://chambersstwines.com/blogs/articles/sangiovese-with-a-sea-breeze)
+*2015-09*
+
+> *﻿9/21/15 -* Sangiovese is one of Italy’s most abundant red grape varieties, but it’s not the easiest to work with from a viticultural or enological perspective. At Villa Venti, Davide and Mauro seem to have found the magic formula. Nestled in a lush valley…
+

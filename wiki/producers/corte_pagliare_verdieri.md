@@ -17,10 +17,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 1
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2025
+    last_year: 2025
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -52,3 +52,11 @@ Historic winery in Sabbioneta, Mantua province, producing traditional Lambrusco 
 
 - [[Mantovano_Producers|Mantovano]]
 - [[Lombardy_Producers|Lombardy]]
+
+## CSW Write-ups
+
+### [Vines of Via Emila](https://chambersstwines.com/blogs/articles/vines-of-via-emila)
+*2025-08*
+
+> 8/13/25 - Emilia Romagna is a region renowned for Prosciutto di Parma, Balsamic Vinegar di Modena, Parmigiano Reggiano, Mortadella and more. It’s the region in Italy with the most DOPs (Protected Designation of Origin) for food- but in the countryside there…
+

@@ -54,7 +54,7 @@ offer.
 ### [Friuli!](https://chambersstwines.com/blogs/articles/friuli)
 *2026-01*
 
-> There are a few more wines on offer today from Zidarich, Vodopivec, and Doro Princic.
+> 1/14/26 - Friuli’s Venezia Giulia is Italy's North-Eastern most region and sits in a melting pot zone where Italy, Slovenia and Austria converge. The land has traded hands many times, from Ancient Rome, to the Lombards, to Alpine Slavs, then the Franks, to…
 
 ## Cellar
 

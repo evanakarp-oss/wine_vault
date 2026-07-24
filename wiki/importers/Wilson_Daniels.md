@@ -5,7 +5,7 @@ slug: wilson_daniels
 producer_count: 10
 focus: ['Burgundy', 'California', 'Piedmont', 'Rhône', 'Sicily', 'Tuscany', 'Veneto']
 notable_producers: ['Domaine Leflaive', 'Domaine Laroche', 'Feudo Montoni', 'Biondi-Santi', 'Bergstrom']
-updated: 2026-07-23
+updated: 2026-07-24
 ---
 
 # Wilson Daniels

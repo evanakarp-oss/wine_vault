@@ -180,15 +180,15 @@ berserkers_kelley_body:
 
 > 3/5/2007 - **** **Marc Ollivier** **and Geneviève Cormerais** from the **Domaine de la Pépière** Marc's **Muscadet Sevre et Maine** is our biggest selling wine almost every year, and is one of the world's greatest values. His **Clos des Briords 2005** is an…
 
-### [Jobard, Laguerre and Superb Summer Whites!](https://chambersstwines.com/blogs/articles/jobard-laguerre-and-superb-summer-whites)
-*undated*
-
-> Today's offer features not Remi, Antoine, Charles or François, but rather the superb Côte Chalonnaise and Côte de Beaune wines of Claudie Jobard! The great wines of Eric Laguerre from the mountains of the Roussillon are back, including the wonderful "Le…
-
 ### [New Arrivals from France, featuring the 2022 Chateau Peybonhomme-les-Tours \"le Blanc Bonhomme,\" Beaujolais, Bandol, Sancerre and More!](https://chambersstwines.com/blogs/articles/new-arrivals-from-france-featuring-the-2022-chateau-peybonhomme-les-tours-le-blanc-bonhomme-beaujolais-bandol-sancerre-and-more)
 *undated*
 
 > Château Peybonhomme-les-Tours and Château La Grolet: Back in Stock! Rachel Hubert Chambers Street customers need no introduction to these two over-achieving Bordeaux estates owned by the Hubert family, certified organic and Biodynamic since the 1990s.Jean-Luc…
+
+### [Jobard, Laguerre and Superb Summer Whites!](https://chambersstwines.com/blogs/articles/jobard-laguerre-and-superb-summer-whites)
+*undated*
+
+> Today's offer features not Remi, Antoine, Charles or François, but rather the superb Côte Chalonnaise and Côte de Beaune wines of Claudie Jobard! The great wines of Eric Laguerre from the mountains of the Roussillon are back, including the wonderful "Le…
 
 ### [New Year’s Resolution 2013: Learn about the Wine Business. Here’s how…](https://chambersstwines.com/blogs/articles/new-year-s-resolution-2013-learn-about-the-wine-business-here-s-how)
 *undated*

@@ -12,11 +12,11 @@ certifications: []
 importer_us: ["Kermit Lynch"]
 retailers:
   chambers:
-    championed: false
-    article_count: 0
-    dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    championed: true
+    article_count: 3
+    dedicated_count: 1
+    first_year: 2008
+    last_year: 2025
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -37,7 +37,20 @@ _Vincent Dauvissat farms biodynamically and makes what many consider the co-benc
 
 ## CSW Write-ups
 
-_Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Street coverage._
+### [La Petite Empreinte and Light Reds for Spring and Summer!](https://chambersstwines.com/blogs/articles/la-petite-empreinte-and-light-reds-for-spring-and-summer)
+*2025-05*
+
+> 5/3/25 - I first visited Alice and Olivier De Moor back in 2005, in their tiny cellar in Courgis, tasting the 2004s from barrel and bottled wines going back to the 1999 Rosette. It was an extraordinary experience - organic farming was almost unknown in…
+
+### [Duplessis Chablis '17: Doing It The Hard Way](https://chambersstwines.com/blogs/articles/duplessis-chablis-17-doing-it-the-hard-way)
+*2020-10*
+
+> 10/11/20 - We talk a lot about organic and biodynamic agriculture on this web site. These are practices we believe in, and not just because they are less damaging to the earth and to our bodies. Growing wine is about communicating the personality of a…
+
+### ★ [The Dauvissat 06's Are Here!](https://chambersstwines.com/blogs/articles/the-dauvissat-06s-are-here)
+*2008-07*
+
+> *7/21/2008 -* In Chablis the estates of Raveneau and Dauvissat tower over all other producers. They make classically structured Chablis with the ability to age for up to twenty plus years. Acoording to his comments in Burghound, Vincent Dauvissat says his…
 
 ## Critic Ratings
 

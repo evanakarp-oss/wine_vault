@@ -54,3 +54,11 @@ _sources:
 
 *★ = dedicated article (producer featured in title)*
 *Last updated from full archive sweep — April 2026*
+
+## CSW Write-ups
+
+### ★ [New to the Shelves: Heresztyn-Mazzini Gevrey-Chambertin](https://chambersstwines.com/blogs/articles/new-to-the-shelves-heresztyn-mazzini-gevrey-chambertin)
+*2026-03*
+
+> 3/23/26 - After a recent tasting of the Bourgogne Pinot Noir Champ Franc from Heresztyn-Mazzini, I immediately needed to taste more of the lineup. When a Bourgogne Rouge is this good, it tends to just keep getting better as you move up in vineyard quality,…
+

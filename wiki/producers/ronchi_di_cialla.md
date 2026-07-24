@@ -55,9 +55,7 @@ CSW featured them in the 2026 Friuli offer.
 ### [Friuli!](https://chambersstwines.com/blogs/articles/friuli)
 *2026-01*
 
-> Ronchi di Cialla is a benchmark producer of the Colli Orientali that needs no
-> introduction. Dina and Paolo Rapuzzi are credited with bringing prestige back to
-> native varieties like Ribolla Gialla, Verduzzo, Picolit, Schioppettino, and Pignolo.
+> 1/14/26 - Friuli’s Venezia Giulia is Italy's North-Eastern most region and sits in a melting pot zone where Italy, Slovenia and Austria converge. The land has traded hands many times, from Ancient Rome, to the Lombards, to Alpine Slavs, then the Franks, to…
 
 ## Cellar
 

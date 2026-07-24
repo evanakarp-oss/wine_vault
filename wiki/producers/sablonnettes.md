@@ -18,10 +18,10 @@ importer_us: []
 retailers:
   chambers:
     championed: true
-    article_count: 2
-    dedicated_count: 1
+    article_count: 5
+    dedicated_count: 2
     first_year: 2018
-    last_year: 2026
+    last_year: 2025
     aging_score: 3
     cellar_pick: false
   dte:
@@ -47,10 +47,30 @@ _sources:
 
 ## CSW Write-ups
 
-### [Domaine des Sablonnettes](https://chambersstwines.com/blogs/articles/domaine-des-sablonnettes)
+### ★ [A Loire Weekend: New arrivals from Lise et Bertrand Jousset, Domaine des Sablonnettes and Domaine Tessier](https://chambersstwines.com/blogs/articles/a-loire-weekend-new-arrivals-from-lise-et-bertrand-jousset-domaine-des-sablonnettes-and-domaine-tessier)
+*2025-09*
+
+> 9/13/25 - Today we're excited to offer a slew of new arrivals from some of our favorite Loire Valley estates. Back by popular demand are the wines of Lise and Bertrand Jousset (pictured above), mostly from vines in and around Montlouis-sur-Loire. We are big…
+
+### [Let's Be Franc - Cabernet Franc from Raffault, and Baudry, and new arrivals from Benoit Courault!](https://chambersstwines.com/blogs/articles/lets-be-franc-cabernet-franc-from-raffault-and-baudry-and-new-arrivals-from-benoit-courault)
+*2024-09*
+
+> 9/28/24 - *Photo: Olga Raffault in 1990 (David Lillie)* It was so long ago, I don't remember the year, maybe 1990, when an importer and I visited Domaine Olga Raffault to arrange their first export to the US. Olga's partner and winemaker, the wonderful Ernest…
+
+### [Benoît Courault, simply one of my favorite vignerons - An Article by Pascaline Lepeltier](https://chambersstwines.com/blogs/articles/benoit-courault-simply-one-of-my-favorite-vignerons-an-article-by-pascaline-lepeltier)
+*2020-07*
+
+> 7/2/20 - When asked the question - “which bottles would you take to a desert island?” - you can be sure I would pick a Chenin from Benoît Courault. His wines are among some of my absolute favorites. Whether it be the old-vines and single-vineyard bottlings or…
+
+### [Beni and the Jets: The wines of Benoit Courault](https://chambersstwines.com/blogs/articles/beni-and-the-jets-the-wines-of-benoit-courault)
+*2018-11*
+
+> 11/7/18 - The first time I met Benoit Courault, my hair was wild and desheveled and someone mistook me for him at a wine fair in France. We both had a laugh and I proceeded to taste and chat with him about his wines, vineyards, and philosophy. This was around…
+
+### ★ [Domaine des Sablonnettes](https://chambersstwines.com/blogs/articles/domaine-des-sablonnettes)
 *2018-08*
 
-> 8/4/18 - Back when we first opened Chambers St. Wines in 2001, I didn't have any interest in wine. I had yet to meet Marc Olivier, Catherine Roussel, Didier Barrouilet, or Mathieu and Bernard Baudry...
+> 8/4/18 - Back when we first opened Chambers St. Wines in 2001, I didn't have any interest in wine. I had yet to meet Marc Olivier, Catherine Roussel, Didier Barrouilet, or Mathieu and Bernard Baudry. Contrary to some assumptions, I didn't grow up tasting any…
 
 ## Down to Earth Wines (Panzer)
 

@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Friuli-Venezia Giulia"
-updated: 2026-07-23
+updated: 2026-07-24
 producer_count: 67
 ---
 
@@ -13,12 +13,15 @@ producer_count: 67
 |---|---|---|---:|---:|---:|---:|---:|
 | [[ronchi_di_cialla|Ronchi di Cialla]] | Italy | Colli Orientali (Cialla, Prepotto) | 1 | — | — | — | 15 btl |
 | [[le_due_terre|Le Due Terre]] | Italy | Colli Orientali (Prepotto) | — | — | — | — | 7 btl |
+| [[radikon|Radikon]] | Italy | Collio Goriziano | 5 | — | — | — | 1 btl |
+| [[gravner|Gravner]] | Italy | Collio (Oslavia) | 3 | — | — | — | — |
+| [[vodopivec|Vodopivec]] | Italy | Carso | 3 | — | — | — | — |
 | [[marco_sara|Marco Sara]] | Italy | Colli Orientali (Savorgnano del Torre, Povoletto) | — | — | — | — | 2 btl |
 | [[borgo_del_tiglio|Borgo del Tiglio]] | Italy | Collio (Brazzano di Cormons) | 1 | — | — | — | — |
 | [[dario_princic|Dario Princic]] | Italy | Collio (Oslavia) | — | — | — | — | 1 btl |
 | [[doro_princic|Doro Princic]] | Italy | Collio (Pradis di Cormons) | 1 | — | — | — | — |
-| [[gravner|Gravner]] | Italy | Collio (Oslavia) | 1 | — | — | — | — |
-| [[radikon|Radikon]] | Italy | Collio Goriziano | — | — | — | — | 1 btl |
+| [[jermann|Jermann]] | Italy | Collio / Isonzo (Villanova di Farra) | 1 | — | 4 | — | — |
+| [[ronco_severo|Ronco Severo]] | Italy | Colli Orientali | 1 | — | — | — | — |
 | [[zidarich|Zidarich]] | Italy | Carso (Prepotto, Duino Aurisina) | 1 | — | — | — | — |
 | [[benjamin_zidarich|Benjamin Zidarich]] | Italy | Carso | — | — | — | — | — |
 | [[canus|Canus]] | Italy | Colli Orientali (Corno di Rosazzo) | — | — | — | — | — |
@@ -37,7 +40,6 @@ producer_count: 67
 | [[galliussi|Galliussi]] | Italy | Colli Orientali | — | — | — | — | — |
 | [[adriano_gigante|Gigante (Adriano)]] | Italy | Colli Orientali (Corno di Rosazzo) | — | — | — | — | — |
 | [[isidoro_polencig|Isidoro Polencig]] | Italy | Collio (Plessiva, Cormons) | — | — | — | — | — |
-| [[jermann|Jermann]] | Italy | Collio / Isonzo (Villanova di Farra) | — | — | 4 | — | — |
 | [[kante|Kante]] | Italy | Carso (San Pelagio, Duino Aurisina) | — | — | — | — | — |
 | [[la_castellada|La Castellada]] | Italy | Collio (Oslavia) | — | — | — | — | — |
 | [[la_magnolia|La Magnolia]] | Italy | Colli Orientali | — | — | — | — | — |
@@ -62,7 +64,6 @@ producer_count: 67
 | [[ronco_dei_tassi|Ronco dei Tassi]] | Italy | Collio (Cormons) | — | — | — | — | — |
 | [[ronco_del_gnemiz|Ronco del Gnemiz]] | Italy | Colli Orientali (San Giovanni al Natisone) | — | — | — | — | — |
 | [[ronco_delle_betulle|Ronco delle Betulle]] | Italy | Colli Orientali | — | — | — | — | — |
-| [[ronco_severo|Ronco Severo]] | Italy | Colli Orientali | — | — | — | — | — |
 | [[rosa_bosco|Rosa Bosco]] | Italy | Colli Orientali (Manzano) | — | — | — | — | — |
 | [[russiz_superiore|Russiz Superiore]] | Italy | Collio (Capriva del Friuli) | — | — | — | — | — |
 | [[schiopetto|Schiopetto]] | Italy | Collio | — | — | — | — | — |
@@ -76,7 +77,6 @@ producer_count: 67
 | [[vignai_da_duline|Vignai da Duline]] | Italy | Colli Orientali | — | — | — | — | — |
 | [[villa_job|Villa Job]] | Italy | Carso | — | — | — | — | — |
 | [[villa_russiz|Villa Russiz]] | Italy | Collio (Capriva del Friuli) | — | — | — | — | — |
-| [[vodopivec|Vodopivec]] | Italy | Carso | — | — | — | — | — |
 | [[zuani|Zuani]] | Italy | Collio (San Floriano del Collio) | — | — | — | — | — |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

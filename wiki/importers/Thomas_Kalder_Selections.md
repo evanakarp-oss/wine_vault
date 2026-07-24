@@ -4,8 +4,8 @@ name: "Thomas Kalder Selections"
 slug: thomas_kalder_selections
 producer_count: 17
 focus: ['Alsace', 'Beaujolais', 'Burgundy', 'Catalonia', 'Champagne', 'Jura', 'Loire', 'Rhône', 'Valais']
-notable_producers: ['Stéphane Tissot', 'Vincent Paris', 'Barmès Buecher', 'Champagne Bénoit Déhu', 'Champagne Guiborat']
-updated: 2026-07-23
+notable_producers: ['Vincent Paris', 'Stéphane Tissot', 'Barmès Buecher', 'Champagne Bénoit Déhu', 'Champagne Guiborat']
+updated: 2026-07-24
 ---
 
 # Thomas Kalder Selections
@@ -54,8 +54,8 @@ Fine wine importer representing exceptional grower-focused producers across Fran
 
 | Producer | Country | Region | CSW | Cellar |
 |---|---|---|---:|---:|
-| [[stephane_tissot|Stéphane Tissot]] | France | Jura | 13 | — |
-| [[vincent_paris|Vincent Paris]] | France | Rhône | 2 | — |
+| [[vincent_paris|Vincent Paris]] | France | Rhône | 50 | — |
+| [[stephane_tissot|Stéphane Tissot]] | France | Jura | 18 | — |
 | [[barmes_buecher|Barmès Buecher]] | France | Alsace | — | — |
 | [[benoit_dehu|Champagne Bénoit Déhu]] | France | Champagne | — | — |
 | [[champagne_guiborat|Champagne Guiborat]] | France | Champagne | — | — |

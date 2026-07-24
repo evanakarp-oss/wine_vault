@@ -12,11 +12,11 @@ certifications: []
 importer_us: []
 retailers:
   chambers:
-    championed: false
-    article_count: 0
-    dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    championed: true
+    article_count: 1
+    dedicated_count: 1
+    first_year: 2023
+    last_year: 2023
   dte:
     in_portfolio: true
     cuvee_count: 3

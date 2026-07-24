@@ -25,3 +25,10 @@ Italian producer from Campanale wine book.
 
 ## Notes
 
+## CSW Write-ups
+
+### [Louis/Dressner Treasures of Piedmont: Canonica and Gea](https://chambersstwines.com/blogs/articles/louis-dressner-treasures-of-piedmont-canonica-and-gea)
+*2016-07*
+
+> 7/27/16 - I’ve always had the sensation of stability at Canonica – the calm and contented atmosphere of the old family house, the Canonicas’ positive outlook and gentle good humor, and the consistently very high quality of the wine. But things change, and a…
+

@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Sicily"
-updated: 2026-07-23
+updated: 2026-07-24
 producer_count: 33
 ---
 
@@ -11,7 +11,7 @@ producer_count: 33
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
-| [[arianna_occhipinti|Arianna Occhipinti]] | Italy | Vittoria | 4 | — | 1 | — | 5 btl |
+| [[arianna_occhipinti|Arianna Occhipinti]] | Italy | Vittoria | 12 | — | 1 | — | 5 btl |
 | [[frank_cornelissen|Frank Cornelissen]] | Italy | Etna | 6 | — | — | — | 3 btl |
 | [[bonavita|Bonavita]] | Italy | Faro (Messina) | 3 | — | — | — | — |
 | [[feudo_montoni|Feudo Montoni]] | Italy | — | 3 | — | 7 | — | — |

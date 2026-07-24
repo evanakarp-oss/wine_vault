@@ -25,3 +25,10 @@ Italian producer from Campanale wine book.
 
 ## Notes
 
+## CSW Write-ups
+
+### [Lazio: A Renaissance around Lake Bolsena](https://chambersstwines.com/blogs/articles/lazio-a-renaissance-around-lake-bolsena)
+*2025-07*
+
+> 7/16/25 - Lake Bolsena in Lazio, Italy is one of the most exciting regions for low intervention wine in the past 20 years. The region is experiencing a Renaissance, calling back to ancient grape varieties that the Romans grew. Volcanic soils, more affordable…
+

@@ -13,10 +13,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 1
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2015
+    last_year: 2015
   dte:
     in_portfolio: true
     cuvee_count: 2
@@ -36,7 +36,10 @@ _Historic Beaune domaine (a former négociant turned estate) farming a compact b
 
 ## CSW Write-ups
 
-_No Chambers Street write-ups on file._
+### [Beautiful, Affordable Burgundies from Jean-Claude Rateau and Jane et Sylvain!](https://chambersstwines.com/blogs/articles/beautiful-affordable-burgundies-from-jean-claude-rateau-and-jane-et-sylvain)
+*2015-08*
+
+> *8/16/15 -* ** *(Jean-Claude Rateau in the Hautes-Côtes-de-Beaune -- Photos by Eben Lillie)* New shipments of beautiful, old-fashioned Burgundies have just arrived from Jean-Claude Rateau in Beaune, and Jane et Sylvain in Gevrey-Chambertin. These two estates…
 
 ## Down to Earth Wines (Panzer)
 

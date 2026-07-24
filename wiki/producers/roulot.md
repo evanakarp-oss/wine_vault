@@ -13,10 +13,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 13
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2013
+    last_year: 2025
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -37,7 +37,70 @@ _The benchmark for saline, chiselled Meursault. Jean-Marc Roulot bottles a celeb
 
 ## CSW Write-ups
 
-_Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Street coverage._
+### [Wines that are Mostly from Meursault all on Sale!](https://chambersstwines.com/blogs/articles/wines-that-are-mostly-from-meursault-all-on-sale)
+*2025-02*
+
+> 2/3/2025 I plan to keep this email brief today as the wines on offer today need little introduction. We have compiled a short list of some of our favorite wines from Meursault and nearby (hence “mostly” Meursault) and have **discounted** them! We want you all…
+
+### [New to Chambers Street Wines - A New Generation of Winemakers in Burgundy: Bastian Wolber of Laisse Tomber and Loïc Lamy of Saisons](https://chambersstwines.com/blogs/articles/new-to-chambers-street-wines-a-new-generation-of-winemakers-in-burgundy-bastian-wolber-of-laisse-tomber-and-loic-lamy-of-saisons)
+*2025-02*
+
+> 2/10/2025 In the most simple manner **Bastian Wolber** can be described as everything great happening with new wave Burgundy. But his story is definitely not simple, and nowhere near traditional when it comes to vignerons in Burgundy. Bastian was born in…
+
+### [Aligoté!](https://chambersstwines.com/blogs/articles/aligote)
+*2024-09*
+
+> 9/17/24 - What do you get when you cross Pinot Noir with Gouais Blanc? Only everyone’s second favorite white wine grape in Burgundy, none other than Aligoté. For far too long it has been looked down upon as a lesser grape, however some of the top winemakers…
+
+### [Chenin, Cab Franc and Pineau D'Aunis: New Arrivals and Returning Favorites!](https://chambersstwines.com/blogs/articles/chenin-cab-franc-and-pineau-daunis-new-arrivals-and-returning-favorites)
+*2024-09*
+
+> 9/24/2024 Today's email features new arrivals and returning favorites from the Loire Valley, including essential wines from Domaine Bellivière , Domaine de la Taille aux Loups , François Chidaine , Domaine aux Moines , Le Rocher des Violettes , Domaine Pinon…
+
+### [Introducing the Organic Burgundies of Domaine Céline Perrin, Plus 2020 Auxey-Duresses from Gilles Lafouge!](https://chambersstwines.com/blogs/articles/introducing-the-organic-burgundies-of-domaine-celine-perrin-plus-2020-auxey-duresses-from-gilles-lafouge)
+*2022-10*
+
+> 10/29/22 - Five generations at Domaine Perrin Domaine Céline Perrin, Ladoix **We're always looking for estates in Burgundy that practice organic farming, so we were very happy to find Domaine Céline Perrin in Ladoix which converted to organic agriculture in…
+
+### [Delicious, Affordable Burgundies from Gilles Lafouge in Auxey-Duresses!](https://chambersstwines.com/blogs/articles/delicious-affordable-burgundies-from-gilles-lafouge-in-auxey-duresses)
+*2022-06*
+
+> 6/13/2022 [Gilles Lafouge in the new cellar] While value is relative in the ever more expensive world of Burgundy, perhaps no grower offers as much value as Gilles Lafouge. The wines are precise, honest and satisfying at prices that allow for (nearly)…
+
+### [2021 Burgundies from Gilles Lafouge!](https://chambersstwines.com/blogs/articles/2021-burgundies-from-gilles-lafouge)
+*2021-05*
+
+> 5/31/2021 Gilles Lafouge is the sixth generation at this 10 hectare estate in Auxey-Duresses. The domain includes excellent premier cru vineyards with old vines in Auxey-Duresses as well as small parcels in neighboring Meursault and an old-vine plot in…
+
+### [Chacra: \"Capturing Energy\" in Patagonia](https://chambersstwines.com/blogs/articles/chacra-capturing-energy-in-patagonia)
+*2020-07*
+
+> 7/4/20 - A conversation with Piero Incisa della Rocchetta the winemaker and founder of Chacra is a philosophical and spiritual experience, much like the wines themselves. The grandson of Marchese Mario Incisa della Rocchetta, creator of Sassacaia, Piero felt…
+
+### [The Discreet Charms of Pierre Morey](https://chambersstwines.com/blogs/articles/the-discreet-charms-of-pierre-morey)
+*2019-01*
+
+> 1/10/19 - In Meursault, a village positively overflowing with excellent growers, Domiane Pierre Morey somehow manages to remain a hidden gem. And while Coche, Lafon, and Roulot manage to command the lion's share of attention, Pierre and his talented daughter…
+
+### [Aligoté: Working Class Hero](https://chambersstwines.com/blogs/articles/aligote-working-class-hero)
+*2015-09*
+
+> *9/29/15 -* ** There’s something about an underdog. That is to say, some of us find ourselves rooting for the unlikeliest of heroes. In wine as much as we love the nobility of benchmark wines and appellations, we also find ourselves drawn to the charms of…
+
+### [Pierre-Yves Colin-Morey](https://chambersstwines.com/blogs/articles/pierre-yves-colin-morey)
+*2013-01*
+
+> *﻿1/23/13 -* As we've said in the past... Pierre-Yves Colin-Morey is one of the top producers of white Burgundy, unquestionably in the top tier of producers alongside such luminaries as Jean-Francois Coche-Dury, Dominique Lafon and Jean-Marc Roulot. From his…
+
+### [Another Argentina - Part I](https://chambersstwines.com/blogs/articles/another-argentina-part-i)
+*undated*
+
+> There are several newsletters that I have been meaning to send over the past year. Moving up the street and rolling out the new website may have set back my plans, but I'm finally getting to it! Highlighting my favorite Verdejo producers was on the list,…
+
+### [The Lovely 2022 Burgundies from Jean & Gilles Lafouge in Auxey-Duresses!](https://chambersstwines.com/blogs/articles/the-lovely-2022-burgundies-from-jean-gilles-lafouge-in-auxey-duresses)
+*undated*
+
+> We've been enjoying the wines of the Lafouge family in Auxey-Duresses for more than 25 years. It gives us great pleasure to offer the particularly beautiful 2022s! Very enjoyable current drinking is certainly possible but cellaring of 5 to 10 years is highly…
 
 ## Critic Ratings
 

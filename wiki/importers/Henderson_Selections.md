@@ -5,11 +5,11 @@ slug: henderson_selections
 producer_count: 3
 focus: ['Bordeaux', 'Burgundy', 'California']
 notable_producers: ['Arnot-Roberts', 'Elian Da Ros', 'Hudelot Noellat']
-updated: 2026-07-23
-location: "Austin, TX"
+updated: 2026-07-24
 _source: raw/henderson/producers_2026-06-19.md
-tags: ['natural', 'terroir-driven', 'low-intervention']
+location: "Austin, TX"
 url: "https://www.hendersonselections.com"
+tags: ['natural', 'terroir-driven', 'low-intervention']
 ---
 
 # Henderson Selections
@@ -86,7 +86,7 @@ outside the regions Evan is actively collecting. Revisit if those interest areas
 |---|---|---|---:|---:|
 | [[arnot-roberts|Arnot-Roberts]] | United States | California | 10 | — |
 | [[elian_da_ros|Elian Da Ros]] | France | Bordeaux | 3 | — |
-| [[hudelot_noellat|Hudelot Noellat]] | France | Burgundy | — | — |
+| [[hudelot_noellat|Hudelot Noellat]] | France | Burgundy | 2 | — |
 
 *Compiled by `scripts/build_rollups.py`.*
 <!-- END AUTO-GENERATED -->

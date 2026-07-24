@@ -25,3 +25,10 @@ Italian producer from Campanale wine book.
 
 ## Notes
 
+## CSW Write-ups
+
+### [Abruzzo, Italy: Old and New Favorites](https://chambersstwines.com/blogs/articles/abruzzo-italy-old-and-new-favorites)
+*2025-09*
+
+> 9/8/25 - Today is Abruzzo day at Chambers: featuring three exciting producers. If you're hunting for an everyday bottle for dinner, or an age-worthy bottle for a special occasion- there is something for everyone. These three producers, Emidio Pepe, Amorotti,…
+

@@ -90,15 +90,15 @@ _Pinot-driven Aÿ house. Grande Année (vintage) and R.D. (late-disgorged) are t
 
 > *﻿2/9/14 -* A few days ago our good friend, Mike Carleton of the small Connecticut-based import company, Transatlantic Bubbles, braved the worst snow storm of the season to bring us Champagne to taste. Low and behold, his bag was full of delicious wines that…
 
-### [Brilliant New Champagnes from Alexandre Filaine!](https://chambersstwines.com/blogs/articles/brilliant-new-champagnes-from-alexandre-filaine)
-*undated*
-
-> [Here's where you disgorge the bottles and add the dosage!] Our friends at the tiny, Connecticut based import company: Transatlantic Bubbles recently brought us a couple of new Champagnes to try. TB, as the name suggests, specializes in Champagne (in fact…
-
 ### [One Of Our Favorite Wines: Enter 2006 Cuvèe Lehengoa](https://chambersstwines.com/blogs/articles/one-of-our-favorite-wines-enter-2006-cuvee-lehengoa)
 *undated*
 
 > {cke_protected}{C}%3C!%2D%2D%5Bendif%5D%E2%80%94%2D%2D%3E{cke_protected}{C}%3C!%2D%2D%E2%80%94%5Bif%20gte%20mso%209%5D%2D%2D%3E{cke_protected}{C}%3C!%2D%2D%5Bendif%5D%E2%80%94%2D%2D%3E{cke_protected}{C}%3C!%2D%2D%E2%80%94%5Bif%20!mso%5D%2D%2D%3E…
+
+### [Brilliant New Champagnes from Alexandre Filaine!](https://chambersstwines.com/blogs/articles/brilliant-new-champagnes-from-alexandre-filaine)
+*undated*
+
+> [Here's where you disgorge the bottles and add the dosage!] Our friends at the tiny, Connecticut based import company: Transatlantic Bubbles recently brought us a couple of new Champagnes to try. TB, as the name suggests, specializes in Champagne (in fact…
 
 ### [The Fabulous Wines of Fabrice Gass at Champagne Alexandre Filaine](https://chambersstwines.com/blogs/articles/the-fabulous-wines-of-fabrice-gass-at-champagne-alexandre-filaine)
 *undated*

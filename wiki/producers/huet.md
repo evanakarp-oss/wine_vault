@@ -12,11 +12,11 @@ certifications: ["Demeter"]
 importer_us: []
 retailers:
   chambers:
-    championed: false
-    article_count: 0
-    dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    championed: true
+    article_count: 14
+    dedicated_count: 5
+    first_year: 2009
+    last_year: 2025
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -37,7 +37,75 @@ _The benchmark estate of Vouvray, and one of the great Chenin Blanc addresses on
 
 ## CSW Write-ups
 
-_Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Street coverage._
+### ★ [Domaine Huet 2018-2024, Plus Pinon & Carême!](https://chambersstwines.com/blogs/articles/domaine-huet-2018-2024-plus-pinon-careme)
+*2025-09*
+
+> 9/20/25 - [](https://chambersstwines.com/collections/new-releases-from-domaine-huet-2018-2024-plus-pinon-careme) **Domaine Huet 2018 - 2024** 2024 in the Loire Valley is a vintage of tiny yields, with a trifecta of "filage" and "couloure" limiting the fruit…
+
+### [2022 Pépière Muscadet Cru \"Clisson!\" Returning Favorites from Muscadet, Chinon and Vouvray & Huet Dinner Jan. 21st](https://chambersstwines.com/blogs/articles/2022-pepiere-muscadet-cru-clisson-returning-favorites-from-muscadet-chinon-and-vouvray-huet-dinner-jan-21st)
+*2025-01*
+
+> 1/11/2025 **A new release of 'Clisson' from Domaine de la Pépière is always welcome, even in the middle of a cold-snap in January!** Beginning in 2005, Marc Ollivier at Pépière produced this beautiful cuvée from a small parcel of 50 to 100 year-old vines…
+
+### [Domaine Belargus! And Other Loire Chenins We Love...](https://chambersstwines.com/blogs/articles/domaine-belargus-and-other-loire-chenins-we-love)
+*2024-10*
+
+> 10/28/2024 *"Through a unique collection of grands crus, single-plots and monopoles, some acquired from Jo Pithon, Domaine Belargus explores Anjou through all its micro-climates , using Chenin as its sole instrument. Cultivated in harmony with Nature's…
+
+### [Domaine Pinon 1990 - 2022!](https://chambersstwines.com/blogs/articles/domaine-pinon-1990-2022)
+*2024-08*
+
+> 8/14/2024 **We’re very pleased to offer a superb collection of sweet wines from Domaine Pinon** , direct from the estate, beginning with the **“Goutte D’Or** ” **1990** , through the magnificent “ **Goutte D’Or** ” **2018,** with our favorite current releases…
+
+### ★ [New Arrivals from Domaine Huet 2023 - 1997](https://chambersstwines.com/blogs/articles/new-arrivals-from-domaine-huet-2023-1997)
+*2024-08*
+
+> 8/21/2024 On the heels of our offer of a superb private collection of Vouvray from Domaine Huet, we are happy to offer the just released 2023 vintage wines from this great estate, along with a few older wines and the delicious 2019 Petillant! 2023 was a…
+
+### ★ [2020s from Domaine Huet, a Great Vintage for Moelleux!](https://chambersstwines.com/blogs/articles/2020s-from-domaine-huet-a-great-vintage-for-moelleux)
+*2021-05*
+
+> 5/11/2021 [Clos du Bourg Moelleux] **Although we have not been to France to taste the 2020 vintage Vouvrays from Huet, reports in the various wine media have been very enthusiastic.** The climate was of course, unusual, with a warm wet winter leading to early…
+
+### [François Pinon, A Dear Friend, Has Passed Away](https://chambersstwines.com/blogs/articles/francois-pinon-a-dear-friend-has-passed-away)
+*2021-01*
+
+> 1/31/21 - François Pinon took over the family estate in Vallée de Cousse, Vouvray, from his father Claude in 1987, and over the past 33 years has transformed it into one of the finest domaines in the Loire. More importantly, François was a deeply intelligent,…
+
+### ★ [2019 at Domaine Huet: terrific high octane wines on the dry side!](https://chambersstwines.com/blogs/articles/2019-at-domaine-huet-terrific-high-octane-wines-on-the-dry-side)
+*2020-09*
+
+> 9/13/20 - No need of course to present one of the most iconic estates not only of the Loire Valley, but also in the world. For a century - as Victor & Gaston Huet bottled some 1919 Haut-Lieu after buying the property in 1928 with its stock - Domaine Huet has…
+
+### [La Grange Tiphaine, the Loire's most complete line up!](https://chambersstwines.com/blogs/articles/la-grange-tiphaine-the-loires-most-complete-line-up)
+*2020-07*
+
+> 7/14/20 - How lucky am I! After writing about Benoit Courault in my last article, I have today the great pleasure to talk to you about a very unique couple I consider at the very top of the game, this time in Amboise and Montlouis-sur-Loire in the eastern…
+
+### [John Gilman On Serving Wine](https://chambersstwines.com/blogs/articles/john-gilman-on-serving-wine)
+*2020-04*
+
+> 4/25/20 - (First published in [View from the Cellar](http://www.viewfromthecellar.com) , April 29, 2020; apologies that John's excellent photos are missing from this version!) **Learning From the Past** **Thirty Years Of Evolving Wine Serving Philosophy**…
+
+### [Le Sot de L'Ange](https://chambersstwines.com/blogs/articles/le-sot-de-lange)
+*2015-08*
+
+> *8/27/15 -* ** *(Quentin in a newly acquired parcel.)* Show me a fanatic and I’ll show you a success. Truer words could not be said about Quentin Bourse – the “Idiot Angel” of Azay-Le-Rideau. While this is the rough translation of the name of his label, Le…
+
+### [2010 Loire Whites From Anjou and Touraine; Huet, Chidaine, Belliviere, Puzelat and More!](https://chambersstwines.com/blogs/articles/2010-loire-whites-from-anjou-and-touraine-huet-chidaine-belliviere-puzelat-and-more)
+*2012-03*
+
+> *3/11/12 -* I must admit to being somewhat underwhelmed by the 2010 Loire whites upon first tasting them in January and February of 2011, as some of the wines from the central and eastern Loire seemed a little austere, especially after the ripe and powerful…
+
+### ★ [The Great Vouvrays of Domaine Huet - 2007](https://chambersstwines.com/blogs/articles/the-great-vouvrays-of-domaine-huet-2007)
+*2009-03*
+
+> *3/20/2009 -* *Noel Pinguet of Domaine Huet (Photo J. Dougherty)* We've just received the lovely 2007 Sec and Demi-Sec Vouvrays from Domaine Huet. In respect of economic realities we are selling these great wines at low, net prices. We believe they represent…
+
+### [Private Collection: Huet 1921 - 2022](https://chambersstwines.com/blogs/articles/private-collection-huet-1921-2022)
+*undated*
+
+> We're proud to offer an outstanding collection of Vouvrays from Domaine Huet, from 1921 to 2003, from the cellar of a good friend and true connoisseur. These are among the greatest wines of the Loire Valley - and of the world - from an estate that played an…
 
 ## Critic Ratings
 

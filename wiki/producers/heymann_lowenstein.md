@@ -20,10 +20,10 @@ importer_us:
   - "Theise"
 retailers:
   chambers:
-    championed: true
+    championed: false
     article_count: 3
-    dedicated_count: 1
-    first_year: 2009
+    dedicated_count: 0
+    first_year: 2008
     last_year: 2023
     aging_score: 8
   dte:
@@ -122,3 +122,21 @@ The dry-wine focus aligns with Evan's preference for restrained German Riesling 
 - [[Winningen|Winningen (village)]]
 - [[Skurnik|Skurnik (importer)]]
 - [[Theise|Terry Theise (importer)]]
+
+## CSW Write-ups
+
+### [Heroes of the Terrassen: Mosel's steepest vineyards](https://chambersstwines.com/blogs/articles/heroes-of-the-terrassen-mosels-steepest-vineyards)
+*2023-05*
+
+> 5/15/23 - The Northern stretch of the Mosel from where it empties into the Rhine at Koblenz down about 100km to Punderich is home to Europe's steepest vineyards. The Mosel Terraces form a unique landscape, very different from that of the more famous Middle…
+
+### [German Pre-Arrivals: Schaefer, Dönnhoff and Adam](https://chambersstwines.com/blogs/articles/german-pre-arrivals-schaefer-donnhoff-and-adam)
+*2012-07*
+
+> *﻿7/6/12 -* ** At the end of May I had the privilege of traveling to Germany to meet with some of our favorite growers and to taste the new vintage. While there were some pretty interesting discoveries (more about those later), I came away more excited than…
+
+### [A.J. Adam - A new Riesling on the Horizon](https://chambersstwines.com/blogs/articles/a-new-riesling-on-the-horizon)
+*2008-05*
+
+> *﻿5/22/2008 -* The amount of high quality wine coming out of Germany right now is at an all time high especially considering that Germany only produces 1% of all the wine in the world. I still have not tasted every great producer . . .yet. So every now and…
+

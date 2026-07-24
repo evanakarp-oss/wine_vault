@@ -25,11 +25,11 @@ importer_us:
   - "Banville"
 retailers:
   chambers:
-    championed: true
-    article_count: 8
-    dedicated_count: 2
-    first_year: 2008
-    last_year: 2025
+    championed: false
+    article_count: 0
+    dedicated_count: 0
+    first_year: 0
+    last_year: 0
     aging_score: 5
     cellar_pick: true
   dte:

@@ -25,3 +25,10 @@ Italian producer from Campanale wine book.
 
 ## Notes
 
+## CSW Write-ups
+
+### [Vines of Via Emila](https://chambersstwines.com/blogs/articles/vines-of-via-emila)
+*2025-08*
+
+> 8/13/25 - Emilia Romagna is a region renowned for Prosciutto di Parma, Balsamic Vinegar di Modena, Parmigiano Reggiano, Mortadella and more. It’s the region in Italy with the most DOPs (Protected Designation of Origin) for food- but in the countryside there…
+

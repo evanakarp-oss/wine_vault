@@ -15,10 +15,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 1
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2015
+    last_year: 2015
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -45,3 +45,11 @@ Brescia-based producer in Lombardy. Northern Italian wine producer.
 ## Cross-references
 
 - [[Lombardy_Producers|Lombardy]]
+
+## CSW Write-ups
+
+### [Learning to Love VinItaly](https://chambersstwines.com/blogs/articles/learning-to-love-vinitaly)
+*2015-04*
+
+> *﻿4/13/15 -* *(There are at least 12 buildings like this one – the Emilia-Romagna pavilion. Some kind of wheeled vehicle might be a good idea…)* We’re kind of learning to love VinItaly. Yes, it’s crowded, sometimes with inebriated sightseers who make it…
+

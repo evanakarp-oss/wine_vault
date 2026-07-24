@@ -20,10 +20,10 @@ importer_us:
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 1
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2021
+    last_year: 2021
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -52,11 +52,10 @@ deep dive ([[../_views/wb_northern_rhone_tour_2026_06|view]]).
 
 ## CSW Write-ups
 
-_No dedicated Chambers article in the CSW corpus (scraped 2026-04). Clape appears only in
-passing (e.g. a Clos Saron profile noting Gideon Beinstock once tasted with Auguste Clape) —
-`ingest_csw.py` matches the 5-char "Clape" as a false positive, so chambers counts are
-deliberately left at zero. Clape is, however, regularly offered in Chambers' Northern Rhône
-emails; fold in a genuine dedicated offer here if one appears._
+### [Different Sides of the Prism: Cain and Renaissance](https://chambersstwines.com/blogs/articles/different-sides-of-the-prism-cain-and-renaissance)
+*2021-10*
+
+> 10/12/21 - There are few more satisfying wines than a bottle of California Cabernet that has been well-farmed and given a chance to sit quietly until it is truly ready to drink. After all, despite its ubiquity in the world of commodity wine, great California…
 
 ## Cellar
 

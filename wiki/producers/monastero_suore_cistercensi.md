@@ -25,3 +25,10 @@ Italian producer from Campanale wine book.
 
 ## Notes
 
+## CSW Write-ups
+
+### [Suore Cistercensi: Second to Nun!](https://chambersstwines.com/blogs/articles/suore-cistercensi-second-to-nun)
+*2025-12*
+
+> 12/12/25 - The nuns of the Cistercian order are quietly and patiently making gorgeous wines in Vitorchiano, 60 miles North of Rome in Lazio on volcanic soils. Their official name is ‘Monastero Suore Cistercensi’ but the wines are affectionately known in the…
+

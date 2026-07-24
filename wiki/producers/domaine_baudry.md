@@ -101,15 +101,15 @@ _sources:
 
 > 11/02/2024 **We're ecstatic to have the elegant, complex and amazingly delicious Poirés and Cidre from Jérome Forget back in the store** - with the added attraction of his superb Apéritif de Poire "Pyrus!" La Ferme de L'Yonnière is just south of Domfront in…
 
-### [Chenin, Cab Franc and Pineau D'Aunis: New Arrivals and Returning Favorites!](https://chambersstwines.com/blogs/articles/chenin-cab-franc-and-pineau-daunis-new-arrivals-and-returning-favorites)
-*2024-09*
-
-> 9/24/2024 Today's email features new arrivals and returning favorites from the Loire Valley, including essential wines from Domaine Bellivière , Domaine de la Taille aux Loups , François Chidaine , Domaine aux Moines , Le Rocher des Violettes , Domaine Pinon…
-
 ### ★ [Let's Be Franc - Cabernet Franc from Raffault, and Baudry, and new arrivals from Benoit Courault!](https://chambersstwines.com/blogs/articles/lets-be-franc-cabernet-franc-from-raffault-and-baudry-and-new-arrivals-from-benoit-courault)
 *2024-09*
 
 > 9/28/24 - *Photo: Olga Raffault in 1990 (David Lillie)* It was so long ago, I don't remember the year, maybe 1990, when an importer and I visited Domaine Olga Raffault to arrange their first export to the US. Olga's partner and winemaker, the wonderful Ernest…
+
+### [Chenin, Cab Franc and Pineau D'Aunis: New Arrivals and Returning Favorites!](https://chambersstwines.com/blogs/articles/chenin-cab-franc-and-pineau-daunis-new-arrivals-and-returning-favorites)
+*2024-09*
+
+> 9/24/2024 Today's email features new arrivals and returning favorites from the Loire Valley, including essential wines from Domaine Bellivière , Domaine de la Taille aux Loups , François Chidaine , Domaine aux Moines , Le Rocher des Violettes , Domaine Pinon…
 
 ### ★ [Baudry 2022 Chinon \"Domaine\" and Great Value Chinons from Patrick Lambert](https://chambersstwines.com/blogs/articles/baudry-2022-chinon-domaine-and-great-value-chinons-from-patrick-lambert)
 *2024-05*
@@ -156,15 +156,15 @@ _sources:
 
 > 9/24/18 - **One of our geatest tastings in France last winter was with Stephanie Caslot of Domaine de la Chevalerie in Bourgueil, which included the 2014 and 2015 vintages of each cuvee from this oustanding Biodynamic estate** . The 2015s were lovely wines…
 
-### ★ [2015 - Another Perfect Chinon \"La Croix Boissée\" from Domaine Baudry, and other Essential Loire Reds!](https://chambersstwines.com/blogs/articles/2015-another-perfect-chinon-la-croix-boissee-from-domaine-baudry-and-other-essential-loire-reds)
-*2018-08*
-
-> 8/14/18 - Finally the **2015 Chinon "La Croix Boissée** " has joined the other beautiful Baudry 2015s on our shelves! While all the Baudry 2015s show gorgeous fruit and a round and supple structure, **we especially love the brilliant (and great value) "Cuvée…
-
 ### [Domaine des Sablonnettes](https://chambersstwines.com/blogs/articles/domaine-des-sablonnettes)
 *2018-08*
 
 > 8/4/18 - Back when we first opened Chambers St. Wines in 2001, I didn't have any interest in wine. I had yet to meet Marc Olivier, Catherine Roussel, Didier Barrouilet, or Mathieu and Bernard Baudry. Contrary to some assumptions, I didn't grow up tasting any…
+
+### ★ [2015 - Another Perfect Chinon \"La Croix Boissée\" from Domaine Baudry, and other Essential Loire Reds!](https://chambersstwines.com/blogs/articles/2015-another-perfect-chinon-la-croix-boissee-from-domaine-baudry-and-other-essential-loire-reds)
+*2018-08*
+
+> 8/14/18 - Finally the **2015 Chinon "La Croix Boissée** " has joined the other beautiful Baudry 2015s on our shelves! While all the Baudry 2015s show gorgeous fruit and a round and supple structure, **we especially love the brilliant (and great value) "Cuvée…
 
 ### [Pairing Wine with Steak Tartare (à la Française)](https://chambersstwines.com/blogs/articles/pairing-wine-with-steak-tartare-a-la-francaise)
 *2018-03*
@@ -261,25 +261,25 @@ _sources:
 
 > 10/31/2006 - Recent additions to our Loire Valley portfolio include a unique selection of older wines as well as new arrivals from the lovely 2005 vintage - while it may not rival 1989, the 2005 reds surpasses any recent vintage and the whites are uniformly…
 
+### [Roland Velich: Moric and beyond!](https://chambersstwines.com/blogs/articles/roland-velich-moric-and-beyond)
+*undated*
+
+> One of the most memorable wines I had last year was a 2009 Moric Blaufränkisch from Roland Velich. Mind you, this was the "entry level" wine, not the Reserve, or one of the top tier single vineyard bottlings from old vines in the Lutzmannsburg or Neckenmarkt…
+
 ### [Beautiful Beaunes from Jean-Claude Rateau, 2017-2023!](https://chambersstwines.com/blogs/articles/beautiful-beaunes-from-jean-claude-rateau-2017-2023)
 *undated*
 
 > **Part One of our 2024 allocation From Jean-Claude Rateau has just arrived** , including 2017 and 2020 Beaune 1er Cru “Les Bressandes,” Beaune “village” wines, 2022 Gevrey-Chambertin and our first look at the 2023 vintage in Beaune and the Hautes Côtes. These…
-
-### ★ [Last Call for Stéphane Guion's Superb 2018s, Plus Baudry and Chevalerie!](https://chambersstwines.com/blogs/articles/last-call-for-stephane-guions-superb-2018s-plus-baudry-and-chevalerie)
-*undated*
-
-> Stéphane Guion made sensational Bourgueils in 2018 and we are nearing the end of stock for both the "Cuvée Authentique" and the "Cuvée des Deux Monts." (2019s are on the way!) Organic since 1965 and now certified Biodynamic as well, Domaine Guion produces…
 
 ### ★ [New Arrivals from Domaine Bernard Baudry: 2022 Chinon \"Les Grézeaux\" and 2021 Chinon \"Les Mollières\"](https://chambersstwines.com/blogs/articles/new-arrivals-from-domaine-bernard-baudry-2022-chinon-les-grezeaux-and-2021-chinon-les-mollieres)
 *undated*
 
 > The Baudry Chinon "Les Grézeaux" is one of the most pleasing and versatile red wines of the Loire – the 2022 is absolutely gorgeous! And we love the new cuvee “Les Mollières” which is delicate and delicious in 2021! The Baudry Chinon "Les Grézeaux" is from a…
 
-### [Roland Velich: Moric and beyond!](https://chambersstwines.com/blogs/articles/roland-velich-moric-and-beyond)
+### ★ [Last Call for Stéphane Guion's Superb 2018s, Plus Baudry and Chevalerie!](https://chambersstwines.com/blogs/articles/last-call-for-stephane-guions-superb-2018s-plus-baudry-and-chevalerie)
 *undated*
 
-> One of the most memorable wines I had last year was a 2009 Moric Blaufränkisch from Roland Velich. Mind you, this was the "entry level" wine, not the Reserve, or one of the top tier single vineyard bottlings from old vines in the Lutzmannsburg or Neckenmarkt…
+> Stéphane Guion made sensational Bourgueils in 2018 and we are nearing the end of stock for both the "Cuvée Authentique" and the "Cuvée des Deux Monts." (2019s are on the way!) Organic since 1965 and now certified Biodynamic as well, Domaine Guion produces…
 
 ## CSW Cellar Note
 

@@ -83,3 +83,21 @@ _Not yet populated._
 - [[Burgundy_Producers|Burgundy]]
 - [[Chablis]]
 - [[CSW Article Archive]]
+
+## CSW Write-ups
+
+### [A French Grab Bag! - New Arrivals and Returning Favorites](https://chambersstwines.com/blogs/articles/a-french-grab-bag-new-arrivals-and-returning-favorites)
+*2025-02*
+
+> 2/25/2025 ##### [Alors, une volontaire?] In a general effort to move some wines, but also out of sheer excitement over some new arrivals from many of our favorite producers in France, from the Loire Valley to the Rhone Valley, we offer a veritable grab bag of…
+
+### ★ [Duplessis Chablis '17: Doing It The Hard Way](https://chambersstwines.com/blogs/articles/duplessis-chablis-17-doing-it-the-hard-way)
+*2020-10*
+
+> 10/11/20 - We talk a lot about organic and biodynamic agriculture on this web site. These are practices we believe in, and not just because they are less damaging to the earth and to our bodies. Growing wine is about communicating the personality of a…
+
+### ★ [In a Silent Way: The Quiet Pleasures of Duplessis Chablis](https://chambersstwines.com/blogs/articles/in-a-silent-way-the-quiet-pleasures-of-duplessis-chablis)
+*2018-03*
+
+> 3/8/18 - Under the best of circumstances, organic and biodynamic viticulture is never easy. When you combine that with a marginal climate like that in Chablis the level of difficulty only increases. This is why we have such admiration for father and son…
+

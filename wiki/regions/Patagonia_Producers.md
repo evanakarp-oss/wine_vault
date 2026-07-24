@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Patagonia"
-updated: 2026-07-23
+updated: 2026-07-24
 producer_count: 9
 ---
 
@@ -11,9 +11,9 @@ producer_count: 9
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
+| [[bodega_chacra|Bodega Chacra]] | Argentina | Mainqué, Alto Valle del Río Negro | 1 | — | — | — | — |
 | [[aguijon_de_abeja_durigutti|Aguijón de Abeja (Durigutti)]] | Argentina | Multi-region: Patagonia / Salta / Catamarca / San Juan | — | — | — | — | — |
 | [[andalhue|Andalhue]] | Argentina | Neuquén | — | — | — | — | — |
-| [[bodega_chacra|Bodega Chacra]] | Argentina | Mainqué, Alto Valle del Río Negro | — | — | — | — | — |
 | [[bodega_noemia|Bodega Noemía]] | Argentina | Mainqué, Río Negro Valley | — | — | — | — | — |
 | [[contracorriente|Contracorriente]] | Argentina | Trevelín / Chubut, Atlantic Patagonia | — | — | — | — | — |
 | [[humberto_canale|Humberto Canale]] | Argentina | Mainqué / General Roca, Alto Valle del Río Negro | — | — | — | — | — |

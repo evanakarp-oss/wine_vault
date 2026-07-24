@@ -14,8 +14,8 @@ importer_us: []
 retailers:
   chambers:
     championed: true
-    article_count: 4
-    dedicated_count: 2
+    article_count: 5
+    dedicated_count: 3
     first_year: 2021
     last_year: 2023
     aging_score: 5
@@ -53,11 +53,6 @@ _sources:
 
 > 11/22/21 - A few weeks ago, we took a look at Fabrice Dodane's *Le Dos d'Chat* (VDF) ** lineup of negocient wines. Two bottlings, a Poulsard and a Trousseau, come from his native Jura. Another spectacular bottle is his Syrah made with grapes from the Northern…
 
-### ★ [Domaine de Saint Pierre: Pure Jura Deliciousness](https://chambersstwines.com/blogs/articles/domaine-de-saint-pierre-pure-jura-deliciousness)
-*undated*
-
-> *Fabrice Dodane tasting in his chai. (Photo: Jason Malumed/MFW)* I’ve been a huge fan of the wines made by Domaine de Saint Pierre since I first encountered them in the beginning of 2014. I remember it quite clearly: I walked into my friend’s wine shop and I…
-
 ### ★ [Domaine de Saint-Pierre: The Superb Wines from Fabrice Dodane!](https://chambersstwines.com/blogs/articles/domaine-de-saint-pierre-the-superb-wines-from-fabrice-dodane)
 *undated*
 
@@ -67,6 +62,11 @@ _sources:
 *undated*
 
 > [Got this Trousseau in 750 ml... and half a dozen in magnum! Yes please!!] One of the best wines I drank in 2020 was from Alice & Olivier De Moor, the world famous winegrowing couple in Chablis - but this bottle wasn't an ethereal, limestone-edged Chardonnay.…
+
+### ★ [Domaine de Saint Pierre: Pure Jura Deliciousness](https://chambersstwines.com/blogs/articles/domaine-de-saint-pierre-pure-jura-deliciousness)
+*undated*
+
+> *Fabrice Dodane tasting in his chai. (Photo: Jason Malumed/MFW)* I’ve been a huge fan of the wines made by Domaine de Saint Pierre since I first encountered them in the beginning of 2014. I remember it quite clearly: I walked into my friend’s wine shop and I…
 
 ## Down to Earth Wines (Panzer)
 

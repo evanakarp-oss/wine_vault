@@ -27,3 +27,10 @@ Damery-based family grower recently revitalized by Richard and Karine Foquet. Br
 
 Emerging producer with compelling quality-to-price ratio. Minimal intervention approach and organic/sustainable practices. Damery location (Marne Valley) provides lighter, more elegant fruit profile. Excellent entry point for grower Champagne collectors seeking value and future upside.
 
+## CSW Write-ups
+
+### [Blanc de Blancs Champagne for All Occassions!](https://chambersstwines.com/blogs/articles/blanc-de-blancs-champagne-for-all-occassions)
+*2026-02*
+
+> 2/3/26 - In honor of Valentines day quickly approaching, I thought it would be a great time to highlight some incredible Blanc de Blancs Champagnes, because nothing says "I love you" like sharing a bottle of bubbles. I know it is a special date for going out,…
+

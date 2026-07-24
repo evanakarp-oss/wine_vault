@@ -21,7 +21,7 @@ importer_us:
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 1
     dedicated_count: 0
     first_year: 0
     last_year: 0
@@ -170,3 +170,11 @@ For collectors embracing natural-wine philosophy, this variability is a feature,
 
 - [[Friuli-Venezia-Giulia_Producers|Friuli-Venezia Giulia]]
 - [[Beaune_Imports|Beaune Imports (importer)]]
+
+## CSW Write-ups
+
+### [Native Grapes of Italy](https://chambersstwines.com/blogs/articles/native-grapes-of-italy)
+*undated*
+
+> *[Stefano Novello of Ronco Severo with his son, the next generation of winemakers.]* We all love Italian wine. Grapes like Nebbiolo, Sangiovese, Pinot Grigio and Vermentino are very familiar, but many of the lesser-known indigenous grapes of Italy will soon…
+

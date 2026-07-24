@@ -54,3 +54,11 @@ _sources:
 
 *★ = dedicated article (producer featured in title)*
 *Last updated from full archive sweep — April 2026*
+
+## CSW Write-ups
+
+### ★ [Introducing Champagne Les Freres Mignon](https://chambersstwines.com/blogs/articles/introducing-champagne-les-freres-mignon)
+*2026-04*
+
+> 4/9/26 - During a recent trip to Champagne I saw the wines of Freres Mignons all over the shelves of some of the top wine shops in Reims. They truly are quite eye capturing labels, with thoughtful doodles and a splash of color. I was excited to learn that the…
+

@@ -58,15 +58,15 @@ _sources:
 
 > 7/23/25 - [](https://chambersstwines.com/collections/peybonhomme-and-la-grolet-are-back-more-summer-bordeaux) Mid-summer may not be a time when our thoughts turn to Bordeaux, but a new shipment has just arrived from the Hubert family at Chateau…
 
-### [Bordeaux Biologiques!](https://chambersstwines.com/blogs/articles/bordeaux-biologiques)
-*2025-04*
-
-> 4/12/2025 **We're not sure why the French term for organic is "biologique,"** but whatever you call it, recent data suggests that the percentage of organic certified vineyards in France is somewhere between 15 and 22 percent, depending on who you believe. In…
-
 ### ★ [Celebrating nearly 25 years of the \"Return to Terroir\" Group & In-store tasting with Rachel from Peybonhomme this Saturday 4/19](https://chambersstwines.com/blogs/articles/celebrating-nearly-25-years-of-the-return-to-terroir-group-in-store-tasting-with-rachel-from-peybonhomme-this-saturday-4-19)
 *2025-04*
 
 > 4/17/2025 Back in 2001, the same year we opened Chambers Street Wines, the iconic winemaker N icolas Joly, along with other like-minded producers, started the Renaissance des Appellations group. They formed the group in an effort to support and promote a…
+
+### [Bordeaux Biologiques!](https://chambersstwines.com/blogs/articles/bordeaux-biologiques)
+*2025-04*
+
+> 4/12/2025 **We're not sure why the French term for organic is "biologique,"** but whatever you call it, recent data suggests that the percentage of organic certified vineyards in France is somewhere between 15 and 22 percent, depending on who you believe. In…
 
 ### [Introducing Domaine Tinou, Jurançon and Le Jonc Blanc, Bergerac!](https://chambersstwines.com/blogs/articles/introducing-domaine-tinou-jurancon-and-le-jonc-blanc-bergerac)
 *2016-06*

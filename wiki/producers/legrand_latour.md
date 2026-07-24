@@ -14,10 +14,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 1
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2025
+    last_year: 2025
   dte:
     in_portfolio: true
     cuvee_count: 2
@@ -37,7 +37,10 @@ _Small grower Champagne producer working low-dosage, terroir-driven cuvées (the
 
 ## CSW Write-ups
 
-_No Chambers Street write-ups on file._
+### [New Champagnes at Chambers Street Wines!](https://chambersstwines.com/blogs/articles/new-champagnes-at-chambers-street-wines)
+*2025-12*
+
+> 12/17/25 - Featuring: Vincent Bernard, Vouette & Sorbee, Legrand-Latour, Lamblot, Horiot and More! Although I love to preach about the perfection of Champagne year round, I understand that as the season of celebration is here, it's the time for bottles of…
 
 ## Down to Earth Wines (Panzer)
 

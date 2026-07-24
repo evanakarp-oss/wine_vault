@@ -139,3 +139,21 @@ Own **1 bottle(s)** across 1 cuvée-vintage(s):
 - [[Barbaresco (Neive)]]
 - [[CSW Article Archive]]
 - [[Roscioli_Wine_Club|Roscioli Wine Club (importer)]]
+
+## CSW Write-ups
+
+### ★ [The Ethereal Barbaresco of Cascina delle Rose](https://chambersstwines.com/blogs/articles/the-ethereal-barbaresco-of-cascina-delle-rose)
+*2025-12*
+
+> 12/30/25 - Giovanna Rizzolio of Cascine delle Rose is a benchmark producer for the tiny crus of Rio Sordo and Tre Stelle in Neive, Barbaresco. In the 80's and 90's when women did not often farm (especially organically), she developed a name for her family and…
+
+### [Piemonte 2021 Vintage Spotlight](https://chambersstwines.com/blogs/articles/piemonte-2021-vintage-spotlight)
+*2025-09*
+
+> 9/17/25 - Today's offer aims to highlight the exceptional 2021 vintage in Piemonte, from Barolo and Barbaresco to Barbera, along with a special Timorasso from 2016 that we couldn't resist including! In a region with so many crus, each one rich with its own…
+
+### [Louis/Dressner Treasures of Piedmont: Canonica and Gea](https://chambersstwines.com/blogs/articles/louis-dressner-treasures-of-piedmont-canonica-and-gea)
+*2016-07*
+
+> 7/27/16 - I’ve always had the sensation of stability at Canonica – the calm and contented atmosphere of the old family house, the Canonicas’ positive outlook and gentle good humor, and the consistently very high quality of the wine. But things change, and a…
+

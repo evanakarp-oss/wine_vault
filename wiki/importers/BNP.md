@@ -5,7 +5,7 @@ slug: bnp
 producer_count: 6
 focus: ['Bordeaux']
 notable_producers: ['Château Léoville Barton', 'Château Calon-Ségur', 'Château Gruaud-Larose', 'Château Lafite Rothschild', 'Château Palmer']
-updated: 2026-07-23
+updated: 2026-07-24
 ---
 
 # BNP
@@ -15,7 +15,7 @@ updated: 2026-07-23
 
 | Producer | Country | Region | CSW | Cellar |
 |---|---|---|---:|---:|
-| [[chateau_leoville_barton|Château Léoville Barton]] | France | Bordeaux | 2 | — |
+| [[chateau_leoville_barton|Château Léoville Barton]] | France | Bordeaux | 3 | — |
 | [[chateau_calon_segur|Château Calon-Ségur]] | France | Bordeaux | 1 | — |
 | [[chateau_gruaud_larose|Château Gruaud-Larose]] | France | Bordeaux | 1 | 6 |
 | [[chateau_lafite_rothschild|Château Lafite Rothschild]] | France | Bordeaux | 1 | — |

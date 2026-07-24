@@ -27,3 +27,10 @@ Cumières-based grower Champagne house producing singular, mineral-driven Brut N
 
 Small-scale organic viticulture in Cumières (classified 1er Cru) on chalk-heavy soils. Prévost crafts exclusively vintage-dated, non-disgorged Brut Nature wines built for 10-20 year evolution. Minimal intervention philosophy—natural fermentations, extended aging on lees, no malolactic. The result is tensioned, mineral-driven expression of Chardonnay/Pinot Noir that rewards cellaring and reveals complexity with bottle age.
 
+## CSW Write-ups
+
+### [A Modest Offer for Lovers of Meunier.](https://chambersstwines.com/blogs/articles/a-modest-offer-for-lovers-of-meunier)
+*2013-10*
+
+> *10/20/13 -* Of the three grapes varieties that go into most Champagne, Pinot Meunier is generally considered to be rustic and fruity in comparison to Chardonnay and Pinot Noir. We believe that everything depends on the maker, and top-notch Meunier…
+

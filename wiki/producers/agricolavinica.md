@@ -14,11 +14,11 @@ importer_us:
   - Chambers Street Wines
 retailers:
   chambers:
-    championed: false
-    article_count: 0
-    dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    championed: true
+    article_count: 1
+    dedicated_count: 1
+    first_year: 2017
+    last_year: 2017
   dte:
     in_portfolio: false
   raeders:
@@ -71,3 +71,11 @@ Molise is one of Italy's smallest and least internationally recognized wine regi
 ## Notes
 
 Azienda Agricolavinica represents the emerging-region phenomenon: a producer using contemporary organic farming and natural-wine philosophy to establish a previously overlooked region and its indigenous varietal on the international stage. Rodolfo Gianserra's dedication to Tintilia mirrors similar efforts by producers in Abruzzo, Umbria, and other historically less-known Italian regions to claim parity with established classics. The high-altitude vineyard positioning and organic farming practices place Agricolavinica in the contemporary natural-wine movement while honoring Molise's rustic, terroir-driven tradition.
+
+## CSW Write-ups
+
+### ★ [Introducing the Exciting Wines of Vinica from Molise](https://chambersstwines.com/blogs/articles/introducing-the-exciting-wines-of-vinica-from-molise)
+*2017-08*
+
+> 8/10/17 - Of the many Italian wine regions I've had the chance to explore, the wines of Molise have remained a bit of a mystery to me. Molise is a small and extremely mountainous region south of Abruzzo that is often absent from wine lists and in reference…
+

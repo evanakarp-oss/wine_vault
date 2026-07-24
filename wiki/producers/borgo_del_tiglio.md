@@ -15,7 +15,7 @@ certifications: []
 importer_us: []
 retailers:
   chambers:
-    championed: true
+    championed: false
     article_count: 1
     dedicated_count: 0
     first_year: 2016
@@ -55,10 +55,7 @@ as "Linden Village" (borgo = village, tiglio = linden).
 ### [I Wanna Go Backwards - The Beauty of Aged Collio Whites](https://chambersstwines.com/blogs/articles/i-wanna-go-backwards-the-beauty-of-aged-collio-whites)
 *2016-09*
 
-> One of the finest of these growers is Nicola Manferrari of Borgo del Tiglio in
-> Brazzano in Collio Gozino. A pharmacist by trade, he took over his father's estate in
-> 1981 and set about "to make aromatic wines of flavor and equilibrium that will age
-> well." — offering the 1996 Tocai Friulano and 1994 Studio di Bianco.
+> 9/14/16 - ( Nicola Manferrari takes Tocai Friuliano to majestic heights in Collio. Photo courtesy of Borgo del Tiglio) It’s something of a curiosity that in considering the great wines of Italy and the great whites of the world, the wines of the Friuli's…
 
 ## Cellar
 

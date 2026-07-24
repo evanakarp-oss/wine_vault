@@ -61,15 +61,15 @@ _sources: ["short:short__Schafer-Frohlich.md"]
 
 > *﻿5/17/2008 -* ** The chatter has started and 2007 is turning out to be a spectacular vintage for Germany. I barrel tasted at a few estates in February (Knebel, Heger, Schnaittman & Van Volxem) and I was very excited as to what I tasted, even if the wines…
 
-### ★ [Schafer-Frohlich 2006’s: The Cream of the Crop](https://chambersstwines.com/blogs/articles/schafer-frohlich-2006-s-the-cream-of-the-crop-offer-2)
-*2007-06*
-
-> 6/22/2007 - Tim Frohlich has been on a roll recently and he is definetly a member of the wine elite in the Nahe and maybe all of Germany. All that at the tender age of 32. Tim's wines are akin to the great master of the Nahe, Helmut Donnhoff, but they seems…
-
 ### [The Chambers Street Wine Awards: German Edition!](https://chambersstwines.com/blogs/articles/the-chambers-street-wine-awards-german-edition)
 *2007-06*
 
 > 6/1/2007 - It has been a very exciting year for German wines at CSW with the tail end of the 2005 vintage selling briskly and the extremely limited-production high- quality 2006's arriving mostly with some more to arrive throughout winter/spring 2008. Since I…
+
+### ★ [Schafer-Frohlich 2006’s: The Cream of the Crop](https://chambersstwines.com/blogs/articles/schafer-frohlich-2006-s-the-cream-of-the-crop-offer-2)
+*2007-06*
+
+> 6/22/2007 - Tim Frohlich has been on a roll recently and he is definetly a member of the wine elite in the Nahe and maybe all of Germany. All that at the tender age of 32. Tim's wines are akin to the great master of the Nahe, Helmut Donnhoff, but they seems…
 
 ### ★ [The Final 2006 Offer - The wonderful dry wines of Schafer-Frohlich, Rebholz and Kunstler](https://chambersstwines.com/blogs/articles/the-final-2006-offer-i-the-wonderful-dry-wines-of-schafer-frohlich-rebholz-and-kunstler)
 *2007-04*

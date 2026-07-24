@@ -13,10 +13,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 2
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2025
+    last_year: 2025
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -37,7 +37,15 @@ _Randy Dunn's Howell Mountain Cabernet — the mountain-Cab benchmark. Deliberat
 
 ## CSW Write-ups
 
-_Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Street coverage._
+### [Cab Season: Corison, Ridge, Dunn and More!](https://chambersstwines.com/blogs/articles/cab-season-corison-ridge-dunn-and-more)
+*2025-10*
+
+> 10/17/25 - A change happens in all of us as soon as the temperatures start to dip and the first round of crisp brown leaves skitter across the sidewalks. We put on our favorite sweaters, find a few crumpled up bills that have been hibernating in our jacket…
+
+### [New Arrivals from California: Bedrock, Haarmeyer, and Dunn!](https://chambersstwines.com/blogs/articles/new-arrivals-from-california-bedrock-haarmeyer-and-dunn)
+*2025-04*
+
+> 4/4/2025 With winter shifting into spring, and then back into winter again, I can’t think of a better way to warm our cold and weary souls than to welcome some new arrivals from the great state of California! Of particular note are the outstanding 2023…
 
 ## Critic Ratings
 

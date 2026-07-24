@@ -109,3 +109,21 @@ _Not yet populated._
 - [[Italy_Producers|Italy]]
 - [[Sicily]]
 - [[CSW Article Archive]]
+
+## CSW Write-ups
+
+### ★ [Feudo Montoni - Grand Cru wine from Sicily](https://chambersstwines.com/blogs/articles/feudo-montoni-grand-cru-wine-from-sicily)
+*2019-04*
+
+> 4/15/19 - Feudo Montoni is about 60 miles south and east of Palermo – not very far, but worlds removed from the hustle of Palermo; little has changed at Montoni and in the surrounding countryside, so you could also say that it’s removed from Palermo by…
+
+### [Grand Cru Nero d'Avola](https://chambersstwines.com/blogs/articles/grand-cru-nero-davola)
+*2015-11*
+
+> *11/3/15 -* *(The Savino vines on the Vendicari lagoon, Pachino, Sicily)* Nero d’Avola is the most widely planted red grape in Sicily; it ranges from light and tart to heavy and roasted, the latter type a style that often comes with lots of new oak on top –…
+
+### ★ [Feudo Montoni](https://chambersstwines.com/blogs/articles/a-special-sale-feudo-montoni)
+*2011-09*
+
+> *9/19/11 -* ** Nero d’Avola is the most widely planted grape on Sicily, and its increasing popularity means that it’s now grown all over the island, even in the western provinces of Marsala and Trapani, which were once exclusively places for white wine. With…
+

@@ -15,10 +15,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 1
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2014
+    last_year: 2014
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -45,3 +45,11 @@ Piemonte-based wine producer.
 ## Cross-references
 
 - [[Piemonte_Producers|Piemonte]]
+
+## CSW Write-ups
+
+### [Monuments of Alto Piemonte and Oltrepo Pavese](https://chambersstwines.com/blogs/articles/monuments-of-alto-piemonte-and-oltrepo-pavese)
+*2014-10*
+
+> *10/28/14 -* ** *(Tasting with Lino Maga. Barbacarlo ages very well.)* It seems that there’s been a of renewal of the wines of the Alto Piemonte, the wine district near Milano that includes Gattinara and Ghemme, and the even smaller Boca, Bramaterra, Fara,…
+

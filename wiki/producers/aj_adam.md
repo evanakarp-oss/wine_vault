@@ -17,10 +17,10 @@ importer_us:
 retailers:
   chambers:
     championed: true
-    article_count: 4
+    article_count: 7
     dedicated_count: 1
     first_year: 2008
-    last_year: 2023
+    last_year: 2024
     aging_score: 2
     cellar_pick: true
   dte:
@@ -57,6 +57,11 @@ _sources:
 
 ## CSW Write-ups
 
+### [Mosel Masters: Busch, Vollenweider, Haart, Willi Schaefer, and Stein](https://chambersstwines.com/blogs/articles/mosel-masters-busch-vollenweider-haart-willi-schaefer-and-stein)
+*2024-11*
+
+> 11/18/24 - By no means exhaustive, today's newsletter presents a short list of some of our favorite producers in Germany's Mosel Valley. All of the names above have graced our shelves at various times over the last two decades, and for good reason! They…
+
 ### [Two wines from Stein!](https://chambersstwines.com/blogs/articles/two-wines-from-stein)
 *2023-01*
 
@@ -71,6 +76,16 @@ _sources:
 *2013-07*
 
 > *﻿7/11/13 -* It's that time of the year again! We've been to Germany and tasted the wines, chosen our favorites, and are now happy to offer the 2012s from three shining stars in Germany, Schaefer, Dönnhoff and Adam. The vintage is one to get excited about…
+
+### [Eva and Jutta: Fresh Takes on Feinherb](https://chambersstwines.com/blogs/articles/eva-and-jutta-fresh-takes-on-feinherb)
+*2013-03*
+
+> *﻿3/8/13 -* We've written before about our love for the oft-ignored "third way" between sweet and dry Riesling, a category once described as *halbtrocken,* but more and more frequently referred to as *feinherb* (a slightly more attractive term than…
+
+### [German Pre-Arrivals: Schaefer, Dönnhoff and Adam](https://chambersstwines.com/blogs/articles/german-pre-arrivals-schaefer-donnhoff-and-adam)
+*2012-07*
+
+> *﻿7/6/12 -* ** At the end of May I had the privilege of traveling to Germany to meet with some of our favorite growers and to taste the new vintage. While there were some pretty interesting discoveries (more about those later), I came away more excited than…
 
 ### ★ [A.J. Adam - A new Riesling on the Horizon](https://chambersstwines.com/blogs/articles/a-new-riesling-on-the-horizon)
 *2008-05*

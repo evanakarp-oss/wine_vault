@@ -12,11 +12,11 @@ certifications: []
 importer_us: []
 retailers:
   chambers:
-    championed: false
-    article_count: 0
-    dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    championed: true
+    article_count: 2
+    dedicated_count: 1
+    first_year: 2017
+    last_year: 2020
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -37,7 +37,15 @@ _A high-elevation Spring Mountain estate making a single, ageless Bordeaux-blend
 
 ## CSW Write-ups
 
-_Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Street coverage._
+### [John Gilman On Serving Wine](https://chambersstwines.com/blogs/articles/john-gilman-on-serving-wine)
+*2020-04*
+
+> 4/25/20 - (First published in [View from the Cellar](http://www.viewfromthecellar.com) , April 29, 2020; apologies that John's excellent photos are missing from this version!) **Learning From the Past** **Thirty Years Of Evolving Wine Serving Philosophy**…
+
+### ★ [Philip Togni: A Living Legend of Napa Valley](https://chambersstwines.com/blogs/articles/philip-togni-a-living-legend-of-napa-valley)
+*2017-03*
+
+> 3/2/17 - Philip Togni's winemaking career spans nearly the entire history of Napa Valley's relevance in the second half of the 20th century. A cursory examination of his winemaking resume drops several of the greatest names to produce wines here: Mayacamas,…
 
 ## Critic Ratings
 

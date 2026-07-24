@@ -13,10 +13,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 3
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2008
+    last_year: 2025
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -43,7 +43,20 @@ Gianmarco Antonuzzi and Clémentine Bouveron established Le Coste in 2004, inspi
 
 ## CSW Write-ups
 
-_None found in the CSW corpus (scraped 2026-04)._
+### [Lazio: A Renaissance around Lake Bolsena](https://chambersstwines.com/blogs/articles/lazio-a-renaissance-around-lake-bolsena)
+*2025-07*
+
+> 7/16/25 - Lake Bolsena in Lazio, Italy is one of the most exciting regions for low intervention wine in the past 20 years. The region is experiencing a Renaissance, calling back to ancient grape varieties that the Romans grew. Volcanic soils, more affordable…
+
+### [La Villana - The wines of Joy Kull](https://chambersstwines.com/blogs/articles/la-villana-the-wines-of-joy-kull)
+*2018-08*
+
+> 8/29/18 - I first met Joy Kull in 2013 when I was in Italy with Kevin McKenna, Jules Dressner, and a small team from Louis/Dressner Selections. I was admittedly surprised to meet someone from America (let alone Connecticut) at a tiny natural wine fair in the…
+
+### [Guiseppe Rinaldi and Brovia Barolo, 2004](https://chambersstwines.com/blogs/articles/guiseppe-rinaldi-and-brovia-barolo-2004)
+*2008-10*
+
+> *10/21/2008 -* Guiseppe Rinaldi & Brovia, 2004 Here you have two of the greatest names in Italian wine; both make traditional Barolo that is understated, elegant, long-lived wine, not flashy but classic expressions of exceptional vineyard sites. Both…
 
 ## Cellar
 

@@ -4,8 +4,8 @@ name: "Bowler"
 slug: bowler
 producer_count: 11
 focus: ['Beaujolais', 'Burgundy', 'Champagne', 'Liguria', 'Mendoza', 'Mosel', 'Piedmont', 'San Juan']
-notable_producers: ['Desvignes', 'Steinmetz', 'Clos de la Roilette', 'Bruna', 'Fratelli Alessandria']
-updated: 2026-07-23
+notable_producers: ['Desvignes', 'Steinmetz', 'Clos de la Roilette', 'Bruna', 'Cara Sur']
+updated: 2026-07-24
 ---
 
 # Bowler
@@ -19,10 +19,10 @@ updated: 2026-07-23
 | [[steinmetz|Steinmetz]] | Germany | Mosel | 9 | — |
 | [[clos_de_la_roilette|Clos de la Roilette]] | France | Beaujolais | 8 | — |
 | [[bruna|Bruna]] | Italy | Liguria | 2 | — |
+| [[cara_sur|Cara Sur]] | Argentina | San Juan | 2 | — |
 | [[fratelli_alessandria|Fratelli Alessandria]] | Italy | Piedmont | 2 | — |
 | [[berthaut-gerbet|Berthaut-Gerbet]] | France | Burgundy | 1 | — |
 | [[arnoux_lachaux|Arnoux Lachaux]] | France | Burgundy | — | — |
-| [[cara_sur|Cara Sur]] | Argentina | San Juan | — | — |
 | [[carmelo_patti|Carmelo Patti]] | Argentina | Mendoza | — | — |
 | [[pielihueso|Pielihueso]] | Argentina | Mendoza | — | — |
 | [[ployez_jacquemart|Ployez Jacquemart]] | France | Champagne | — | — |

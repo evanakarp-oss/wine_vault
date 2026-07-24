@@ -12,11 +12,11 @@ certifications: []
 importer_us: []
 retailers:
   chambers:
-    championed: false
-    article_count: 0
-    dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    championed: true
+    article_count: 1
+    dedicated_count: 1
+    first_year: 2023
+    last_year: 2023
   dte:
     in_portfolio: false
   raeders:
@@ -32,7 +32,10 @@ _Historic Nahe estate on the great porphyry and slate crus of the Niederhausen/S
 
 ## CSW Write-ups
 
-_No Chambers Street write-ups on file._
+### ★ [Heroes of the Nahe part 1: Gut Hermannsberg](https://chambersstwines.com/blogs/articles/heroes-of-the-nahe-part-1-gut-hermannsberg)
+*2023-06*
+
+> 6/23/23 - My I am starting a series of articles based on the couple of wine regions I was able to visit in Germany after attending the annual VDP wine fair in Mainz this past April. I shall begin with a nearby region that doesn't get the spotlight like the…
 
 ## FASS
 

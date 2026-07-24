@@ -15,10 +15,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 1
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2024
+    last_year: 2024
   dte:
     in_portfolio: true
     cuvee_count: 3
@@ -38,7 +38,10 @@ _Domaine du Clos Naudin — with Huet, one of the two great addresses of Vouvray
 
 ## CSW Write-ups
 
-_No Chambers Street write-ups on file._
+### [Domaine Pinon 1990 - 2022!](https://chambersstwines.com/blogs/articles/domaine-pinon-1990-2022)
+*2024-08*
+
+> 8/14/2024 **We’re very pleased to offer a superb collection of sweet wines from Domaine Pinon** , direct from the estate, beginning with the **“Goutte D’Or** ” **1990** , through the magnificent “ **Goutte D’Or** ” **2018,** with our favorite current releases…
 
 ## Down to Earth Wines (Panzer)
 

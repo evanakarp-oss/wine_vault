@@ -5,7 +5,7 @@ slug: sager_and_wine
 producer_count: 1
 focus: ['Campania']
 notable_producers: ['Marco Tinessa']
-updated: 2026-07-23
+updated: 2026-07-24
 ---
 
 # Sager and Wine

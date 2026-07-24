@@ -20,10 +20,10 @@ importer_us:
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 1
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2017
+    last_year: 2017
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -129,3 +129,11 @@ However, Feudi's technical/commercial approach differs from Evan's apparent pref
 - [[Fiano_di_Avellino|Fiano di Avellino (appellation)]]
 - [[Taurasi|Taurasi (appellation)]]
 - [[Skurnik|Skurnik (importer)]]
+
+## CSW Write-ups
+
+### [Aglianico Part Two: The Vulture](https://chambersstwines.com/blogs/articles/aglianico-part-two-the-vulture)
+*2017-02*
+
+> 2/8/17 - That’s “vooltooray," in Italian. It’s not a bird, it’s a very large mountain – an extinct volcano, in fact. As you may recall, volcanoes make for very good farming because of the fertile soils produced by past eruptions. Some of the best agricultural…
+

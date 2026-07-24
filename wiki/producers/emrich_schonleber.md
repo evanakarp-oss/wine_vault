@@ -108,3 +108,21 @@ _Not yet populated._
 - [[Germany_Producers|Germany]]
 - [[Nahe]]
 - [[CSW Article Archive]]
+
+## CSW Write-ups
+
+### ★ [Amazing New Arrivals from Emrich-Schönleber!](https://chambersstwines.com/blogs/articles/amazing-new-arrivals-from-emrich-schonleber)
+*2026-01*
+
+> 1/23/26 - Our journey of 2024s from Germany brings us to the Nahe today with the stunning Rieslings from Emrich-Schönleber. The family's history in the region dates back to the mid-18th century but it wasn't until 1965 that Wilhelm Schönleber began to turn…
+
+### ★ [Nahe Nobility: Emrich-Schönleber](https://chambersstwines.com/blogs/articles/nahe-nobility-emrich-schonleber)
+*2022-10*
+
+> 10/22/22 - From the Nahe, it' the 2021 GGs from Emrich-Schönleber: **Frühlingsplätzchen and Halenberg.** To make up for the glaring paucity (just a case of each), I am including his Riesling Mineral. **** A blend of younger vines from both of the Grand Cru…
+
+### [2007 Keller and Schonleber](https://chambersstwines.com/blogs/articles/2007-keller-and-schonleber)
+*2008-05*
+
+> *﻿5/17/2008 -* ** The chatter has started and 2007 is turning out to be a spectacular vintage for Germany. I barrel tasted at a few estates in February (Knebel, Heger, Schnaittman & Van Volxem) and I was very excited as to what I tasted, even if the wines…
+

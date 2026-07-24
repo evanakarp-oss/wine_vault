@@ -218,3 +218,36 @@ _Not yet populated._
 - [[Rhône_Producers|Rhône]]
 - [[Côte-Rôtie]]
 - [[CSW Article Archive]]
+
+## CSW Write-ups
+
+### [Rhône Report: Cornas, Côte-Rotie, Crozes, St. Joseph, CDP, CDR and More!](https://chambersstwines.com/blogs/articles/rhone-report-cornas-cote-rotie-crozes-st-joseph-cdp-cdr-and-more)
+*2025-02*
+
+> 2/13/2025 It seems that winter is not going away anytime soon, so here is a hearty collection of Rhône wines, North and South, to keep you warm over the next few months, or to cellar for winters to come… **We lead off with a superb wine and a sensational…
+
+### ★ [2021 Northern Rhone Wines from Domaine Levet in Côte-Rotie, Guillaume Gilles & Domaine Lionnet in Cornas!](https://chambersstwines.com/blogs/articles/2021-northern-rhone-wines-from-domaine-levet-in-cote-rotie-guillaume-gilles-domaine-lionnet-in-cornas)
+*2021*
+
+> These are among the most authentic and age-worthy wines of the Northern Rhone, imported by Neal Rosenthal. 2021 was a difficult vintage, generally producing wines with lower alcohol and higher acidity than the hot, dry years of 2018-2020. In the hands of…
+
+### [Cornas & Côte-Rôtie 2017: Good Wines from a Hot, Dry Year! Eric Texier Plus 2018s from Vincent Paris...](https://chambersstwines.com/blogs/articles/cornas-cote-rotie-2017-good-wines-from-a-hot-dry-year-eric-texier-plus-2018s-from-vincent-paris)
+*2020-03*
+
+> 3/7/20 - As our friend John Livingstone-Learmonth says in Drink Rhone about the somewhat difficult conditions in this vintage: "The top domaines have still turned out wines of abiding interest, structure and longevity, so 2017 will, in places, be a noble,…
+
+### ★ [New Arrivals from the Northern Rhone: Levet, Lionnet and Gilles](https://chambersstwines.com/blogs/articles/new-arrivals-from-the-northern-rhone-levet-lionnet-and-gilles)
+*2015-10*
+
+> *10/10/15 -* *(Côte-Rotie in winter)* We're proud to offer the lovely 2012s, recently arrived, from these three outstanding producers of traditional Côte-Rotie and Cornas. 2012 was a somewhat difficult year for the vigneron with rainy periods in June and July…
+
+### [Traditional Wines from the Northern Rhone: 2010, 2011 and Before...](https://chambersstwines.com/blogs/articles/traditional-wines-from-the-northern-rhone-2010-2011-and-before)
+*2014-09*
+
+> *﻿9/25/14 -* *(Photo courtesy of Vignobles Levet)* 2010 is a truly exceptional vintage in the Northern Rhone. We are happy to offer three wines from estates whose traditional vineyard work and vinifications have produced superb, age-worthy wines of terroir,…
+
+### ★ [New Arrivals from the Rhône Valley: Clos du Joncuas, Dard and Ribo, Matthieu Dumarcher and Levet!](https://chambersstwines.com/blogs/articles/new-arrivals-from-the-rhone-valley-clos-du-joncuas-dard-and-ribo-matthieu-dumarcher-and-levet)
+*2014-05*
+
+> *5/31/14 -* ** *(Côte-Rotie in winter)* It's become more and more difficult to find "traditional" winemaking in the Rhône Valley, north or south, so we're very happy to re-introduce the wines of Clos du Joncuas to New York. This estate, which has farmed with…
+

@@ -4,11 +4,11 @@ name: "Theise"
 slug: theise
 producer_count: 14
 focus: ['Mosel', 'Nahe']
-notable_producers: ['Clemens Busch', 'Knebel', 'Weiser-Künstler', 'Immich-Batterieberg', 'Hofgut Falkenstein']
-updated: 2026-07-23
+notable_producers: ['Peter Lauer / Weingut Lauer', 'Clemens Busch', 'Knebel', 'Weiser-Künstler', 'Immich-Batterieberg']
+updated: 2026-07-24
 _source: wiki/_resources.md
-tags: []
 url: "https://www.skurnik.com/theise"
+tags: []
 ---
 # Theise
 
@@ -17,20 +17,20 @@ url: "https://www.skurnik.com/theise"
 
 | Producer | Country | Region | CSW | Cellar |
 |---|---|---|---:|---:|
+| [[peter_lauer__weingut_lauer|Peter Lauer / Weingut Lauer]] | Germany | Mosel | 24 | — |
 | [[clemens_busch|Clemens Busch]] | Germany | Mosel | 20 | — |
 | [[knebel|Knebel]] | Germany | Mosel | 16 | — |
-| [[weiser_kunstler|Weiser-Künstler]] | Germany | Mosel | 15 | — |
+| [[weiser_kunstler|Weiser-Künstler]] | Germany | Mosel | 16 | — |
 | [[immich-batterieberg|Immich-Batterieberg]] | Germany | Mosel | 14 | — |
 | [[hofgut_falkenstein|Hofgut Falkenstein]] | Germany | Mosel | 12 | — |
 | [[donnhoff|Dönnhoff]] | Germany | Nahe | 10 | — |
-| [[willi_schaefer|Willi Schaefer]] | Germany | Mosel | 9 | — |
+| [[willi_schaefer|Willi Schaefer]] | Germany | Mosel | 10 | — |
 | [[van_volxem|Van Volxem]] | Germany | Mosel | 8 | — |
+| [[aj_adam|A.J. Adam]] | Germany | Mosel | 7 | — |
 | [[schafer-frohlich|Schafer-Frohlich]] | Germany | Nahe | 6 | — |
 | [[vollenweider|Vollenweider]] | Germany | Mosel | 5 | — |
-| [[aj_adam|A.J. Adam]] | Germany | Mosel | 4 | — |
 | [[zilliken|Zilliken]] | Germany | Mosel | 4 | — |
 | [[emrich_schonleber|Emrich-Schönleber]] | Germany | Nahe | 3 | — |
-| [[peter_lauer__weingut_lauer|Peter Lauer / Weingut Lauer]] | Germany | Mosel | — | — |
 
 *Compiled by `scripts/build_rollups.py`.*
 <!-- END AUTO-GENERATED -->

@@ -16,10 +16,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 3
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2006
+    last_year: 2013
   dte:
     in_portfolio: true
     cuvee_count: 0
@@ -39,7 +39,20 @@ _One of the great addresses of Vosne-Romanée. Founded by Dr. Georges Mugneret a
 
 ## CSW Write-ups
 
-_No Chambers Street write-ups on file._
+### [2011 Red Burgundy Part One](https://chambersstwines.com/blogs/articles/2011-red-burgundy-part-one)
+*2013-11*
+
+> *﻿11/1/13 -* How is the 2011 Red Burgundy vintage? These are wines that are delicious now and have very good aging potential. Michel Lafarge compares it to 1952, which to this day is a great vintage. Marie Christine Mugneret Gibourg compares it to 1985 and…
+
+### [Chambers Street Wine Awards: Red Burgundy Edition](https://chambersstwines.com/blogs/articles/chambers-street-wine-awards-red-burgundy-edition)
+*2007-11*
+
+> *11/29/2007 -* What a year for Burgundy! With the great 2005 vintage upon us there have been a feast of fantastic vinous delights that have passed through CSW this year. With so many wines to choose that we have in stock and others that are long sold out this…
+
+### [Our first 2005 Burgundy Purchase...](https://chambersstwines.com/blogs/articles/our-first-2005-burgundy-purchase)
+*2006-12*
+
+> 12/4/2006 - There’s a lot of buzz around 2005 Burgundy, with news filtering back that it really is a very fine vintage coming from both pro and amateur aficionados – maybe even “very fine indeed”. Certainly the 2005s that I tasted in June (Mugnier, Fourrier,…
 
 ## Down to Earth Wines (Panzer)
 

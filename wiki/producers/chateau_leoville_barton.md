@@ -16,9 +16,9 @@ importer_us:
 retailers:
   chambers:
     championed: false
-    article_count: 2
+    article_count: 3
     dedicated_count: 0
-    first_year: 2022
+    first_year: 2017
     last_year: 2022
     aging_score: 13
   dte:

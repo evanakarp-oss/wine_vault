@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Nahe"
-updated: 2026-07-23
+updated: 2026-07-24
 producer_count: 5
 ---
 
@@ -15,6 +15,6 @@ producer_count: 5
 | [[schafer-frohlich|Schafer-Frohlich]] | Germany | — | 6 | — | — | — | — |
 | [[emrich_schonleber|Emrich-Schönleber]] | Germany | '' | 3 | — | — | — | — |
 | [[diel|Diel]] | Germany | Bad Kreuznach | 2 | — | — | — | — |
-| [[gut_hermannsberg|Gut Hermannsberg]] | Germany | — | — | — | — | 0 | 1 btl |
+| [[gut_hermannsberg|Gut Hermannsberg]] | Germany | — | 1 | — | — | 0 | 1 btl |
 
 *Compiled by `scripts/build_rollups.py` from `wiki/producers/*.md`.*

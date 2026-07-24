@@ -19,11 +19,11 @@ importer_us:
   - "Campania Imports"
 retailers:
   chambers:
-    championed: false
-    article_count: 1
-    dedicated_count: 0
-    first_year: 2023
-    last_year: 2023
+    championed: true
+    article_count: 4
+    dedicated_count: 1
+    first_year: 2013
+    last_year: 2017
     aging_score: 9
   dte:
     in_portfolio: false
@@ -137,3 +137,26 @@ Mastroberardino represents a different aesthetic than strictly organic/biodynami
 - [[Fiano_di_Avellino|Fiano di Avellino (appellation)]]
 - [[Taurasi|Taurasi (appellation)]]
 - [[Skurnik|Skurnik (importer)]]
+
+## CSW Write-ups
+
+### [Aglianico Part Two: The Vulture](https://chambersstwines.com/blogs/articles/aglianico-part-two-the-vulture)
+*2017-02*
+
+> 2/8/17 - That’s “vooltooray," in Italian. It’s not a bird, it’s a very large mountain – an extinct volcano, in fact. As you may recall, volcanoes make for very good farming because of the fertile soils produced by past eruptions. Some of the best agricultural…
+
+### [Dinner at Maialino - What Could Be Finer?](https://chambersstwines.com/blogs/articles/dinner-at-maialino-what-could-be-finer)
+*2015-09*
+
+> *﻿9/24/15 -* We are happy to announce a series of wine dinners at Maialino. We’ve had quite a few very successful dinners in their private room, which is a peaceful and relaxed place to spend the evening. Add fantastic food, great service, and fine old…
+
+### ★ [Mastroberardino, older vintages](https://chambersstwines.com/blogs/articles/mastroberardino-older-vintages)
+*2013-08*
+
+> *﻿8/28/13 -* From the Oxford English Dictionary: “legend n. **1a** a traditional story sometimes popularly regarded as historical but unauthenticated; a myth. **b** . such stories collectively. **c** a popular but unfounded belief.” If there’s one grossly…
+
+### [Luigi Tecce - Power and Elegance](https://chambersstwines.com/blogs/articles/luigi-tecce-power-and-elegance)
+*undated*
+
+> Before moving to our new digs at 79 Chambers Street, our last staff tasting at 148 Chambers Street was with Luigi Tecce, the charismatic winemaker from Campania (who until this release bottled his wines under the Taurasi DOCG). I had very little experience…
+

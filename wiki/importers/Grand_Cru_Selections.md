@@ -5,10 +5,10 @@ slug: grand_cru_selections
 producer_count: 2
 focus: ['Campania', 'Champagne']
 notable_producers: ['Pierre Peters', 'Marco Tinessa']
-updated: 2026-07-23
+updated: 2026-07-24
 _source: wiki/_resources.md
-tags: []
 url: "https://www.grandcruselections.com"
+tags: []
 ---
 
 # Grand Cru Selections

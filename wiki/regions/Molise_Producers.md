@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Molise"
-updated: 2026-07-23
+updated: 2026-07-24
 producer_count: 4
 ---
 
@@ -11,7 +11,7 @@ producer_count: 4
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
-| [[agricolavinica|Azienda Agricolavinica]] | Italy | Ripalimosani | — | — | — | — | — |
+| [[agricolavinica|Azienda Agricolavinica]] | Italy | Ripalimosani | 1 | — | — | — | — |
 | [[borgo_di_colloredo|Borgo di Colloredo]] | Italy | Molise | — | — | — | — | — |
 | [[campi_valerio|Campi Valerio]] | Italy | Molise | — | — | — | — | — |
 | [[claudio_cipressi|Claudio Cipressi]] | Italy | Molise | — | — | — | — | — |

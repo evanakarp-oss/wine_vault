@@ -16,10 +16,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 2
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2014
+    last_year: 2024
   dte:
     in_portfolio: false
   raeders:
@@ -35,7 +35,15 @@ _Cult biodynamic grower in Trépail (Montagne de Reims) farming a few hectares o
 
 ## CSW Write-ups
 
-_No Chambers Street write-ups on file._
+### [The Unexplored Wonders of Unfortified Palomino!](https://chambersstwines.com/blogs/articles/the-unexplored-wonders-of-unfortified-palomino)
+*2024-09*
+
+> 9/7/2024 It has been my intention to write an email about unfortified Palomino from the Sherry region for several years. I can't explain why it hasn't happened until now, but I'm glad that I "waited" (or just never got around to it), as the timing could not…
+
+### [Champagne: What We’re Drinking Now…](https://chambersstwines.com/blogs/articles/champagne-what-we-re-drinking-now)
+*2014-02*
+
+> *﻿2/9/14 -* A few days ago our good friend, Mike Carleton of the small Connecticut-based import company, Transatlantic Bubbles, braved the worst snow storm of the season to bring us Champagne to taste. Low and behold, his bag was full of delicious wines that…
 
 ## FASS
 

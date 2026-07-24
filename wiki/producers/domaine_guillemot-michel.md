@@ -132,3 +132,41 @@ _Not yet populated._
 - [[Burgundy_Producers|Burgundy]]
 - [[Mâcon-Viré]]
 - [[CSW Article Archive]]
+
+## CSW Write-ups
+
+### [Burgundy Weekend: New Arrivals and Best Values!](https://chambersstwines.com/blogs/articles/burgundy-weekend-new-arrivals-and-best-values)
+*2026-01*
+
+> 1/10/26 - [](https://chambersstwines.com/collections/burgundy-weekend-new-arrivals-and-best-values) This weekend we're offering new arrivals from **Domaine Chantal Lescure** in Nuits-Saint-Georges, **Claudie Jobard** in Rully and Pommard and **Les Champs de…
+
+### ★ [French Container New Arrivals - Featuring Peybonhomme/Grolet, Guillemot-Michel, Creve Coeur, Raphaëlle Guyot!](https://chambersstwines.com/blogs/articles/french-container-new-arrivals-featuring-peybonhomme-grolet-guillemot-michel-creve-coeur-raphaelle-guyot)
+*2025-12*
+
+> 12/13/25 - [](https://chambersstwines.com/collections/french-container-dec-2025) French Container New Arrivals - Featuring delicious new wines from Rachel Hubert at Peybonhomme/Grolet, Stunning Maconnais wines from Guillemot Michel, Rhônes from Creve Coeur,…
+
+### ★ [Marvelous Macons from Vignes du Maynes and Guillemot-Michel!](https://chambersstwines.com/blogs/articles/marvelous-macons-from-vignes-du-maynes-and-guillemot-michel)
+*2025-06*
+
+> 6/14/25 - We're happy to announce the arrival of a small new shipment from Julien Guillot at the **Clos des Vignes du Maynes** , along with more inventory from our friends Gautier Roussille and Sophie Michel at **Guillemot-Michel** - two estates that are…
+
+### ★ [New Arrivals from Guillemot-Michel and More Mâcon!](https://chambersstwines.com/blogs/articles/new-arrivals-from-guillemot-michel-and-more-macon)
+*2025-03*
+
+> 3/13/2025 **We're very happy to have a new shipment from Domaine Guillemot-Michel arriving in NY** . These superb Burgundies from the Maconnais, appellation Viré-Clessé, are truly "unique and magical," expressing not only the beautiful biodynamic farming and…
+
+### [New Arrivals for the Holidays!](https://chambersstwines.com/blogs/articles/new-arrivals-for-the-holidays)
+*2024-12*
+
+> 12/14/2024 **New shipments have arrived from some of our favorite estates in France, just in time for your end-of-year festivities!** (Many of these unique and distinctive wines are available in the US only at Chambers Street) **We'd like to lead-off with the…
+
+### [The Living, Breathing Wines of the Bret Brothers](https://chambersstwines.com/blogs/articles/the-living-breathing-wines-of-the-bret-brothers)
+*2022-06*
+
+> 6/22/22 - I recently had a opportunity to spend some time in Burgundy, where I had not been since 2018. It was a wonderful trip. Not only because Burgundy is lovely (it is) but because I spent the majority of my time meeting and tasting with producers whose…
+
+### [Jobard, Laguerre and Superb Summer Whites!](https://chambersstwines.com/blogs/articles/jobard-laguerre-and-superb-summer-whites)
+*undated*
+
+> Today's offer features not Remi, Antoine, Charles or François, but rather the superb Côte Chalonnaise and Côte de Beaune wines of Claudie Jobard! The great wines of Eric Laguerre from the mountains of the Roussillon are back, including the wonderful "Le…
+

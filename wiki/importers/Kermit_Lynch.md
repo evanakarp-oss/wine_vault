@@ -5,10 +5,10 @@ slug: kermit_lynch
 producer_count: 22
 focus: ['Burgundy', 'Friuli-Venezia Giulia', 'Loire', 'Rhône']
 notable_producers: ['Domaine Pierre Gonon', 'Domaine Pierre André', 'Clos du Joncuas', 'Allemand', 'Sylvie Esmonin']
-updated: 2026-07-23
+updated: 2026-07-24
 _source: wiki/_resources.md
-tags: []
 url: "https://kermitlynch.com"
+tags: []
 ---
 # Kermit Lynch
 
@@ -27,15 +27,15 @@ url: "https://kermitlynch.com"
 | [[domaine_levet|Domaine Levet]] | France | Rhône | 6 | — |
 | [[franck_balthazar|Franck Balthazar]] | France | Rhône | 5 | — |
 | [[ferme_saint-martin|Ferme Saint-Martin]] | France | Rhône | 4 | — |
+| [[dauvissat|Domaine Vincent Dauvissat]] | France | Burgundy | 3 | — |
+| [[david_duband|David Duband]] | France | Burgundy | 2 | — |
 | [[jamet|Jamet]] | France | Rhône | 2 | — |
+| [[auguste_clape|Auguste Clape]] | France | Rhône | 1 | — |
 | [[doro_princic|Doro Princic]] | Italy | Friuli-Venezia Giulia | 1 | — |
 | [[meo_camuzet|Méo-Camuzet]] | France | Burgundy | 1 | — |
-| [[auguste_clape|Auguste Clape]] | France | Rhône | — | — |
-| [[david_duband|David Duband]] | France | Burgundy | — | — |
 | [[domaine_charles_joguet|Domaine Charles Joguet]] | France | Loire | — | — |
 | [[domaine_de_la_noblaie|Domaine de la Noblaie]] | France | Loire | — | — |
 | [[domaine_gallety|Domaine Gallety]] | France | Rhône | — | — |
-| [[dauvissat|Domaine Vincent Dauvissat]] | France | Burgundy | — | — |
 | [[jean_maurice_raffault|Jean-Maurice Raffault]] | France | Loire | — | — |
 | [[lucien_boillot|Lucien Boillot]] | France | Burgundy | — | — |
 | [[lucien_le_moine|Lucien Le Moine]] | France | Burgundy | — | — |

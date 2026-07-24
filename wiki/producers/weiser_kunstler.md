@@ -16,7 +16,7 @@ importer_us:
 retailers:
   chambers:
     championed: true
-    article_count: 15
+    article_count: 16
     dedicated_count: 6
     first_year: 2011
     last_year: 2026

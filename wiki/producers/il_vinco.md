@@ -13,10 +13,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 1
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2025
+    last_year: 2025
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -41,7 +41,10 @@ Founded in 2014 by three agricultural friends—Daniele Manoni and Nicola Brenci
 
 ## CSW Write-ups
 
-_None found in the CSW corpus (scraped 2026-04)._
+### [Lazio: A Renaissance around Lake Bolsena](https://chambersstwines.com/blogs/articles/lazio-a-renaissance-around-lake-bolsena)
+*2025-07*
+
+> 7/16/25 - Lake Bolsena in Lazio, Italy is one of the most exciting regions for low intervention wine in the past 20 years. The region is experiencing a Renaissance, calling back to ancient grape varieties that the Romans grew. Volcanic soils, more affordable…
 
 ## Cellar
 

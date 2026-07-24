@@ -13,10 +13,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 2
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2024
+    last_year: 2025
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -37,7 +37,15 @@ _A blue-chip Puligny-Montrachet domaine — premiers crus Les Combettes, Champ C
 
 ## CSW Write-ups
 
-_Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Street coverage._
+### [Incredible New Burgundies on the Shelf: Simon Colin, Yves Boyer-Martenot, Morey-Coffinet!](https://chambersstwines.com/blogs/articles/incredible-new-burgundies-on-the-shelf-simon-colin-yves-boyer-martenot-morey-coffinet)
+*2025-04*
+
+> 4/7/2025 *[Simon Colin (Photo: Bertrand's Wines)]* As many know by now, I often love to write a full profile on a winemaker, but this week small allocations from three winemakers all arrived around the same time and instead of picking one I figured why not…
+
+### [Returning to Chambers St. Wines: Exciting 2022's from Chanterêves](https://chambersstwines.com/blogs/articles/returning-to-chambers-st-wines-exciting-2022s-from-chantereves)
+*2024-09*
+
+> 9/9/2024 [Guillaume and Tomoko (Photo: Grand Cru Selections)] *Since our esteemed colleague Sam Ehrlich moved on from Chambers Street Wines in late 2022, we have not had a dedicated Burgundy buyer at the shop. We did our best to keep up with the allocations,…
 
 ## Critic Ratings
 

@@ -1,7 +1,7 @@
 ---
 type: region_index
 region: "Lombardy"
-updated: 2026-07-23
+updated: 2026-07-24
 producer_count: 32
 ---
 
@@ -11,21 +11,21 @@ producer_count: 32
 
 | Producer | Country | Sub-region | CSW | DTE | Raeder's | FASS | Cellar |
 |---|---|---|---:|---:|---:|---:|---:|
+| [[barbacarlo|Barbacarlo]] | Italy | Oltrepò Pavese | 1 | — | — | — | — |
+| [[chiaretto|Chiaretto]] | Italy | Brescia | 1 | — | — | — | — |
+| [[corte_pagliare_verdieri|Corte Pagliare Verdieri]] | Italy | Mantovano | 1 | — | — | — | — |
 | [[1701_franciacorta|1701 Franciacorta]] | Italy | Franciacorta | — | — | — | — | — |
 | [[arcari_e_danesi|Arcari e Danesi]] | Italy | Franciacorta | — | — | — | — | — |
 | [[areni_e_drizini|Areni e Drizini]] | Italy | Oltrepo Pavese | — | — | — | — | — |
 | [[arpepe|Arpepe]] | Italy | Valtellina | — | — | — | — | — |
 | [[bagera|Bagera]] | Italy | Valtellina | — | — | — | — | — |
 | [[balgera|Balgera]] | Italy | Valtellina | — | — | — | — | — |
-| [[barbacarlo|Barbacarlo]] | Italy | Oltrepò Pavese | — | — | — | — | — |
 | [[barone_pizzini|Barone Pizzini]] | Italy | Franciacorta | — | — | — | — | — |
 | [[bianchi_e_rizini|Bianchi e Rizini]] | Italy | Oltrepo Pavese | — | — | — | — | — |
 | [[bruno_verdi|Bruno Verdi]] | Italy | Oltrepò Pavese | — | — | — | — | — |
 | [[casa_caterina|Casa Caterina]] | Italy | Franciacorta | — | — | — | — | — |
 | [[castello_di_stefanago|Castello di Stefanago]] | Italy | Oltrepò Pavese | — | — | — | — | — |
 | [[castello_di_stefano|Castello di Stefano]] | Italy | Oltrepo Pavese | — | — | — | — | — |
-| [[chiaretto|Chiaretto]] | Italy | Brescia | — | — | — | — | — |
-| [[corte_pagliare_verdieri|Corte Pagliare Verdieri]] | Italy | Mantovano | — | — | — | — | — |
 | [[dirupi|Dirupi]] | Italy | Valtellina | — | — | — | — | — |
 | [[enrico_togni_rebaioli|Enrico Togni Rebaioli]] | Italy | Val Camonica | — | — | — | — | — |
 | [[farruscello_rubio|Farruscello & Rubio]] | Italy | Oltrepo Pavese | — | — | — | — | — |

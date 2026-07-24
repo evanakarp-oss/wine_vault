@@ -5,7 +5,7 @@ slug: dte
 url: ""
 location: "NYC (import portfolio)"
 producer_count: 118
-updated: 2026-07-23
+updated: 2026-07-24
 ---
 
 # Down to Earth Wines (Panzer)
@@ -34,7 +34,7 @@ updated: 2026-07-23
 | [[jean_javillier|Jean Javillier]] | France | Burgundy | 14 | — |
 | [[georges_noellat|Georges Noëllat]] | France | Burgundy | 13 | — |
 | [[michel_rebourgeon|Michel Rebourgeon]] | France | Burgundy | 13 | — |
-| [[hudelot_noellat|Hudelot Noellat]] | France | Burgundy | 12 | — |
+| [[hudelot_noellat|Hudelot Noellat]] | France | Burgundy | 12 | 2 |
 | [[sottimano|Sottimano]] | Italy | Piedmont | 12 | — |
 | [[richter|Richter]] | Germany | Mosel | 11 | — |
 | [[latour_giraud|Latour Giraud]] | France | Burgundy | 10 | — |
@@ -45,7 +45,7 @@ updated: 2026-07-23
 | [[wwe_dr_h_thanisch|Wwe Dr H Thanisch]] | Germany | Mosel | 8 | — |
 | [[collestefano|Collestefano]] | Italy | Marche | 7 | — |
 | [[goisot|Goisot]] | France | Burgundy | 7 | 1 |
-| [[marie_courtin|Marie Courtin]] | France | Champagne | 7 | — |
+| [[marie_courtin|Marie Courtin]] | France | Champagne | 7 | 5 |
 | [[montenidoli|Montenidoli]] | Italy | Tuscany | 7 | 2 |
 | [[thanisch|Thanisch]] | Germany | Mosel | 7 | — |
 | [[bruno_lorenzon|Bruno Lorenzon]] | France | Burgundy | 6 | — |
@@ -53,12 +53,12 @@ updated: 2026-07-23
 | [[gerard_mugneret|Gerard Mugneret]] | France | Burgundy | 6 | 2 |
 | [[laherte|Laherte]] | France | Champagne | 6 | 12 |
 | [[modot_guyon|Modot Guyon]] | France | Burgundy | 6 | — |
-| [[philippe_gilbert|Philippe Gilbert]] | France | Loire | 6 | — |
+| [[philippe_gilbert|Philippe Gilbert]] | France | Loire | 6 | 3 |
 | [[pianelle|Pianelle]] | Italy | Piedmont | 6 | — |
 | [[ployez_jacquemart|Ployez Jacquemart]] | France | Champagne | 6 | — |
-| [[tardieu_laurent|Tardieu-Laurent]] | France | Rhône | 6 | 8 |
+| [[tardieu_laurent|Tardieu-Laurent]] | France | Rhône | 6 | — |
 | [[barraud|Barraud]] | France | Burgundy | 5 | — |
-| [[dirler_cade|Dirler Cadé]] | France | Alsace | 5 | — |
+| [[dirler_cade|Dirler Cadé]] | France | Alsace | 5 | 1 |
 | [[dehu|Déhu]] | France | Champagne | 5 | — |
 | [[francois_bertheau|Francois Bertheau]] | France | Burgundy | 5 | — |
 | [[gerard_julien|Gerard Julien]] | France | Burgundy | 5 | — |
@@ -71,7 +71,7 @@ updated: 2026-07-23
 | [[sirugue|Sirugue]] | France | Burgundy | 4 | 1 |
 | [[alex_loersch|Alex Loersch]] | Germany | Mosel | 3 | — |
 | [[castell_in_villa|Castell'in Villa]] | Italy | Tuscany | 3 | — |
-| [[clusel_roch|Clusel Roch]] | France | Rhône | 3 | — |
+| [[clusel_roch|Clusel Roch]] | France | Rhône | 3 | 1 |
 | [[cyril_audoin|Cyril Audoin]] | France | Burgundy | 3 | — |
 | [[francois_buffet|François Buffet]] | France | Burgundy | 3 | — |
 | [[i_fabbri|I Fabbri]] | Italy | Tuscany | 3 | 2 |
@@ -82,12 +82,12 @@ updated: 2026-07-23
 | [[melsheimer|Melsheimer]] | Germany | Mosel | 3 | 1 |
 | [[nicolas_rossignol|Nicolas Rossignol]] | France | Burgundy | 3 | — |
 | [[patrice_rion|Patrice Rion]] | France | Burgundy | 3 | — |
-| [[philippe_foreau|Philippe Foreau]] | France | Loire | 3 | — |
+| [[philippe_foreau|Philippe Foreau]] | France | Loire | 3 | 1 |
 | [[vaccelli|Vaccelli]] | France | Corsica | 3 | — |
 | [[vauversin|Vauversin]] | France | Champagne | 3 | — |
 | [[wagner_stempel|Wagner Stempel]] | Germany | Rheinhessen | 3 | — |
 | [[agrapart|Agrapart]] | France | Champagne | 2 | 9 |
-| [[albert_morot|Albert Morot]] | France | Burgundy | 2 | — |
+| [[albert_morot|Albert Morot]] | France | Burgundy | 2 | 1 |
 | [[alvina_pernot|Alvina Pernot]] | France | Burgundy | 2 | — |
 | [[chateau_de_la_maltroye|Château de la Maltroye]] | France | Burgundy | 2 | — |
 | [[desvignes|Desvignes]] | France | Beaujolais | 2 | 13 |
@@ -95,7 +95,7 @@ updated: 2026-07-23
 | [[domenico_clerico|Domenico Clerico]] | Italy | Piedmont | 2 | 1 |
 | [[guillot_broux|Guillot-Broux]] | France | Burgundy | 2 | 3 |
 | [[ilarria|Ilarria]] | France | Basque (Irouléguy) | 2 | 5 |
-| [[legrand_latour|Legrand-Latour]] | France | Champagne | 2 | — |
+| [[legrand_latour|Legrand-Latour]] | France | Champagne | 2 | 1 |
 | [[pacherhof|Pacherhof]] | Italy | Alto Adige / Südtirol | 2 | — |
 | [[philippe_lancelot|Philippe Lancelot]] | France | Champagne | 2 | — |
 | [[rings|Rings]] | Germany | Pfalz | 2 | 1 |
@@ -104,7 +104,7 @@ updated: 2026-07-23
 | [[agathe_bursin|Agathe Bursin]] | France | Alsace | 1 | — |
 | [[agricola_tiberio|Agricola Tiberio]] | Italy | Abruzzo | 1 | — |
 | [[amelie_berthaut|Amélie Berthaut]] | France | Burgundy | 1 | 1 |
-| [[anthony_thevenet|Anthony Thevenet]] | France | Beaujolais | 1 | 1 |
+| [[anthony_thevenet|Anthony Thevenet]] | France | Beaujolais | 1 | 12 |
 | [[boulay|Boulay]] | France | Loire | 1 | 2 |
 | [[castro_ventosa|Castro Ventosa]] | Spain | Bierzo | 1 | 1 |
 | [[ch_de_pibarnon|Ch de Pibarnon]] | France | Provence | 1 | — |
@@ -116,7 +116,7 @@ updated: 2026-07-23
 | [[domaine_fl|Domaine FL]] | France | Loire | 1 | — |
 | [[elio_altare|Elio Altare]] | Italy | Piedmont | 1 | — |
 | [[eric_et_joel_durand|Eric et Joel Durand]] | France | Rhône | 1 | — |
-| [[francois_chidaine|François Chidaine]] | France | Loire | 1 | — |
+| [[francois_chidaine|François Chidaine]] | France | Loire | 1 | 12 |
 | [[georges_vernay|Georges Vernay]] | France | Rhône | 1 | — |
 | [[istine|Istine]] | Italy | Tuscany | 1 | — |
 | [[jasmin|Jasmin]] | France | Rhône | 1 | 1 |
@@ -132,9 +132,9 @@ updated: 2026-07-23
 | [[roty|Roty]] | France | Burgundy | 1 | — |
 | [[taupenot_merme|Taupenot-Merme]] | France | Burgundy | 1 | — |
 | [[urkizahar|Urkizahar]] | Spain | Basque Country | 1 | — |
-| [[vincent_paris|Vincent Paris]] | France | Rhône | 1 | 2 |
-| [[david_duband|David Duband]] | France | Burgundy | 0 | — |
-| [[mugneret_gibourg|Mugneret-Gibourg]] | France | Burgundy | 0 | — |
+| [[vincent_paris|Vincent Paris]] | France | Rhône | 1 | 50 |
+| [[david_duband|David Duband]] | France | Burgundy | 0 | 2 |
+| [[mugneret_gibourg|Mugneret-Gibourg]] | France | Burgundy | 0 | 3 |
 
 *Compiled by `scripts/build_rollups.py`.*
 <!-- END AUTO-GENERATED -->

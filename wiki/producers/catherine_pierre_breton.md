@@ -23,10 +23,10 @@ importer_us: []
 retailers:
   chambers:
     championed: true
-    article_count: 2
+    article_count: 1
     dedicated_count: 1
-    first_year: 2008
-    last_year: 2017
+    first_year: 2007
+    last_year: 2007
     aging_score: 14
     cellar_pick: true
   dte:
@@ -51,15 +51,10 @@ Pioneering biodynamic Bourgueil and Chinon producer. Since 1985, the Bretons hav
 
 ## CSW Write-ups
 
-### ★ [Taste Vouvray and Bourgueil with Catherine and Pierre Breton, Saturday, March 11th](https://chambersstwines.com/blogs/articles/taste-vouvray-and-bourgueil-with-catherine-and-pierre-breton-saturday-march-11th)
-*2017-03*
+### ★ [The Best Young Clos Senechal Ever? - The 2006 from Catherine & Pierre Breton](https://chambersstwines.com/blogs/articles/the-best-young-clos-senechal-ever)
+*2007-11*
 
-> Since 1985, the Bretons have been producing some of the most elegant and delicious wines in the Loire Valley, with great farming and brilliant winemaking and with a convivial attitude that has gained them friends everywhere. Their early conversion to organic farming and biodynamic methods helped inspire vignerons all over France and beyond to join the movement to a more sane agriculture and natural methods of winemaking.
-
-### ★ [Transcendent Bourgueil - Catherine and Pierre Breton](https://chambersstwines.com/blogs/articles/transcendent-bourgueil-catherine-and-pierre-breton)
-*2008-04*
-
-> For the last 20 years, Catherine and Pierre Breton have making some of the most elegant and age-worthy reds of the Loire Valley. Day four the fireworks started to happen. We have reached perfect harmony. Yin/Yang and this was approaching a quality level I rarely see in Bourgeuil. Every sip was just amazing. Chewy, sweet ripe tannins with a lovely herbal tint at the edges and in the midpalate. Complexity was off the charts as was the length. I don't wanna pontificate like famous wine critics but this wine had at least a thirty-nine second finish.
+> *﻿11/17/2007 -* So the new vintage of Breton Bourgeuil Clos Sénéchal dropped today and I opened one up instantly. This was some seriously deep purple liquid. Almost black. I knew there was going to be a serious amount of fruit and structure. Well this had…
 
 ## Timeline & Milestones
 

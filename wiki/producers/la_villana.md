@@ -12,11 +12,11 @@ certifications: []
 importer_us: []
 retailers:
   chambers:
-    championed: false
-    article_count: 0
-    dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    championed: true
+    article_count: 2
+    dedicated_count: 1
+    first_year: 2018
+    last_year: 2025
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -41,7 +41,15 @@ Joy Kull, an American from Connecticut, established La Villana in 2016 as a smal
 
 ## CSW Write-ups
 
-_None found in the CSW corpus (scraped 2026-04)._
+### [Lazio: A Renaissance around Lake Bolsena](https://chambersstwines.com/blogs/articles/lazio-a-renaissance-around-lake-bolsena)
+*2025-07*
+
+> 7/16/25 - Lake Bolsena in Lazio, Italy is one of the most exciting regions for low intervention wine in the past 20 years. The region is experiencing a Renaissance, calling back to ancient grape varieties that the Romans grew. Volcanic soils, more affordable…
+
+### ★ [La Villana - The wines of Joy Kull](https://chambersstwines.com/blogs/articles/la-villana-the-wines-of-joy-kull)
+*2018-08*
+
+> 8/29/18 - I first met Joy Kull in 2013 when I was in Italy with Kevin McKenna, Jules Dressner, and a small team from Louis/Dressner Selections. I was admittedly surprised to meet someone from America (let alone Connecticut) at a tiny natural wine fair in the…
 
 ## Cellar
 

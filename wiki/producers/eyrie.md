@@ -13,10 +13,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 3
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2019
+    last_year: 2023
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -37,7 +37,20 @@ _The founding estate of Oregon Pinot Noir. David Lett planted the first Willamet
 
 ## CSW Write-ups
 
-_Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Street coverage._
+### [New Arrivals from Kelley Fox!](https://chambersstwines.com/blogs/articles/new-arrivals-from-kelley-fox)
+*2023-07*
+
+> 7/14/23 - Here at Chambers Street we end up tasting a lot of wine, with a seemingly constant stream of reps shuffling in and out with an endless supply of lovely liquids. It's not often that a tasting generates the type of buzz across the entire staff as when…
+
+### [Kelley Fox Winery: Wines of Emotion in the Willamette Valley](https://chambersstwines.com/blogs/articles/kelley-fox-winery-wines-of-emotion-in-the-willamette-valley)
+*2022-11*
+
+> 11/7/22 - I remember exactly where I was when I tasted a Kelley Fox wine for the first time. It was more or less exactly ten years ago and I was hunched over my laptop, trying in vain to catch up on administrative duties between lunch and dinner services,…
+
+### [West Coast Winemakers for the Win!](https://chambersstwines.com/blogs/articles/west-coast-winemakers-for-the-win)
+*2019-09*
+
+> 9/19/19 - As the buyer for New World wines at Chambers Street, I am having a wonderful time discovering the talented winemakers of the Americas and beyond. Reading Jon Bonné's *The New California* has given me a greater appreciation for the work being done on…
 
 ## Down to Earth Wines (Panzer)
 

@@ -6,8 +6,8 @@ url: "https://www.raederswine.com"
 location: ""
 producer_count: 59
 updated: 2026-07-24
-tags: []
 _source: wiki/_resources.md
+tags: []
 ---
 # Raeder's
 
@@ -42,10 +42,10 @@ _source: wiki/_resources.md
 | [[feudo_montoni|Feudo Montoni]] | Italy | Sicily | 7 | 3 |
 | [[sine_qua_non|Sine Qua Non]] | United States | California | 7 | — |
 | [[chateau_lynch_bages|Château Lynch-Bages]] | France | Bordeaux | 5 | — |
-| [[chateau_smith_haut_lafitte|Château Smith-Haut-Lafitte]] | France | Bordeaux | 5 | 2 |
+| [[chateau_smith_haut_lafitte|Château Smith-Haut-Lafitte]] | France | Bordeaux | 5 | 4 |
 | [[chateau_gruaud_larose|Château Gruaud-Larose]] | France | Bordeaux | 4 | 1 |
 | [[hundred_acre|Hundred Acre]] | United States | California | 4 | — |
-| [[jermann|Jermann]] | Italy | Friuli-Venezia Giulia | 4 | — |
+| [[jermann|Jermann]] | Italy | Friuli-Venezia Giulia | 4 | 1 |
 | [[arnaud_lambert|Arnaud Lambert]] | France | Loire | 3 | 2 |
 | [[chateau_calon_segur|Château Calon-Ségur]] | France | Bordeaux | 3 | 1 |
 | [[chateau_pape_clement|Château Pape Clément]] | France | Bordeaux | 3 | — |
@@ -55,18 +55,18 @@ _source: wiki/_resources.md
 | [[bruno_lorenzon|Bruno Lorenzon]] | France | Burgundy | 2 | — |
 | [[chateau_cantemerle|Château Cantemerle]] | France | Bordeaux | 2 | 1 |
 | [[chateau_ducru_beaucaillou|Château Ducru-Beaucaillou]] | France | Bordeaux | 2 | — |
-| [[chateau_leoville_barton|Château Léoville Barton]] | France | Bordeaux | 2 | 2 |
+| [[chateau_leoville_barton|Château Léoville Barton]] | France | Bordeaux | 2 | 3 |
 | [[chateau_phelan_segur|Château Phélan-Ségur]] | France | Bordeaux | 2 | — |
 | [[chateau_rauzan_segla|Château Rauzan-Ségla]] | France | Bordeaux | 2 | — |
 | [[colgin|Colgin]] | United States | California | 2 | — |
 | [[domaine_de_chevalier|Domaine de Chevalier]] | France | Bordeaux | 2 | 2 |
 | [[pierre_peters|Pierre Peters]] | France | Champagne | 2 | 2 |
-| [[arianna_occhipinti|Arianna Occhipinti]] | Italy | Sicily | 1 | 4 |
+| [[arianna_occhipinti|Arianna Occhipinti]] | Italy | Sicily | 1 | 12 |
 | [[bryant_family_vineyard|Bryant Family Vineyard]] | United States | California | 1 | — |
 | [[chandon_de_briailles|Chandon de Briailles]] | France | Burgundy | 1 | 7 |
 | [[chateau_haut_bailly|Château Haut-Bailly]] | France | Bordeaux | 1 | — |
 | [[chateau_pibran|Château Pibran]] | France | Bordeaux | 1 | — |
-| [[clusel_roch|Clusel Roch]] | France | Rhône | 1 | — |
+| [[clusel_roch|Clusel Roch]] | France | Rhône | 1 | 1 |
 | [[domaine_des_ardoisieres|Domaine des Ardoisières]] | France | Rhône | 1 | 6 |
 | [[domaine_jean_chauvenet|Domaine Jean Chauvenet]] | France | Burgundy | 1 | 2 |
 | [[futo_estate|Futo Estate]] | United States | California | 1 | — |
@@ -74,7 +74,7 @@ _source: wiki/_resources.md
 | [[giacomo_conterno|Giacomo Conterno]] | Italy | Piedmont | 1 | 5 |
 | [[larmandier_bernier|Larmandier Bernier]] | France | Champagne | 1 | 1 |
 | [[livio_felluga|Livio Felluga]] | Italy | Friuli-Venezia Giulia | 1 | — |
-| [[produttori_del_barbaresco|Produttori del Barbaresco]] | Italy | Piedmont | 1 | 10 |
+| [[produttori_del_barbaresco|Produttori del Barbaresco]] | Italy | Piedmont | 1 | 12 |
 | [[screaming_eagle|Screaming Eagle]] | United States | California | 1 | 1 |
 | [[lucien_le_moine|Lucien Le Moine]] | France | Burgundy | 0 | — |
 

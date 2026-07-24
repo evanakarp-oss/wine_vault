@@ -12,11 +12,11 @@ certifications: []
 importer_us: []
 retailers:
   chambers:
-    championed: false
-    article_count: 0
-    dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    championed: true
+    article_count: 3
+    dedicated_count: 1
+    first_year: 2006
+    last_year: 2025
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -37,7 +37,20 @@ _The reference address for traditional Nuits-Saint-Georges. Brothers Bertrand an
 
 ## CSW Write-ups
 
-_Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Street coverage._
+### ★ [Passetoutgrain Excellence - Chevillon, d'Angerville, and Lafarge](https://chambersstwines.com/blogs/articles/passetoutgrain-excellence-chevillon-dangerville-and-lafarge)
+*2025-11*
+
+> 11/17/25 - The world of high end Burgundy can often feel quite daunting, it sure did for me when I first entered the wine industry. What producers are the best? Which vineyard is better than another? Is the wine worth its price? When should I drink it? All of…
+
+### [Pinot Noir from Burgundy - Mugnier, 2004 revisited](https://chambersstwines.com/blogs/articles/pinot-noir-from-burgundy-mugnier-2004-revisited)
+*2009-03*
+
+> *﻿3/28/2009 -* I’m never surprised when I learn that a Burgundy lover is a musician or scientist because the complexity of the subject is in sync with the infinitely variable nature of their professions. In Burgundy the fundamentals are simple: the same…
+
+### [Our first 2005 Burgundy Purchase...](https://chambersstwines.com/blogs/articles/our-first-2005-burgundy-purchase)
+*2006-12*
+
+> 12/4/2006 - There’s a lot of buzz around 2005 Burgundy, with news filtering back that it really is a very fine vintage coming from both pro and amateur aficionados – maybe even “very fine indeed”. Certainly the 2005s that I tasted in June (Mugnier, Fourrier,…
 
 ## Critic Ratings
 

@@ -14,11 +14,11 @@ certifications: []
 importer_us: []
 retailers:
   chambers:
-    championed: false
-    article_count: 0
-    dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    championed: true
+    article_count: 3
+    dedicated_count: 1
+    first_year: 2025
+    last_year: 2025
   dte:
     in_portfolio: false
   raeders:
@@ -57,3 +57,21 @@ The winery offers no visits, tastings, or direct sales, adding to its mystique. 
 ## Notes
 
 Valentini occupies a unique position in Italian wine: a producer of such renown and selectivity that bottles trade on the secondary market with significant premiums. The legendary status of the Trebbiano d'Abruzzo, combined with the estate's refusal to compromise on quality or expand production, makes Valentini a benchmark for understanding Abruzzo's capacity for ageworthy, terroir-driven wine. A bottle of aged Valentini Trebbiano is among the greatest expressions of white wine produced anywhere.
+
+## CSW Write-ups
+
+### [Abruzzo, Italy: Old and New Favorites](https://chambersstwines.com/blogs/articles/abruzzo-italy-old-and-new-favorites)
+*2025-09*
+
+> 9/8/25 - Today is Abruzzo day at Chambers: featuring three exciting producers. If you're hunting for an everyday bottle for dinner, or an age-worthy bottle for a special occasion- there is something for everyone. These three producers, Emidio Pepe, Amorotti,…
+
+### ★ [Private Collection: Spain and Valentini](https://chambersstwines.com/blogs/articles/private-collection-spain-and-valentini)
+*2025-08*
+
+> 8/5/25 - Today's offer mostly comes from quiet an adventurous collection from all regions of Spain (as well as a few for Portugal). We are also fortunate enough to be able to offer an impressive vertical of Valentini Trebbiano d'Abruzzo from 1982 - 2002. ###…
+
+### [The Mystery of Pergola Wines - Walter Speller Dinner](https://chambersstwines.com/blogs/articles/the-mystery-of-pergola-wines-walter-speller-dinner)
+*undated*
+
+> [In the vines at Pranzegg] We are taking advantage of a rare appearance in New York by Walter Speller to offer you a chance to learn about a fascinating and significant aspect of Italian wine. Walter is the Italian wine critic for JancisRobinson.com; he’s…
+

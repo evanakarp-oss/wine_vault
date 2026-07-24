@@ -4,8 +4,8 @@ name: "Polaner Selections"
 slug: polaner_selections
 producer_count: 4
 focus: ['Alto Adige / Südtirol', 'Campania', 'Veneto']
-notable_producers: ['Cenatiempo', 'Ciro Picariello', 'Kuenhof', 'Monte dei Ragni']
-updated: 2026-07-23
+notable_producers: ['Ciro Picariello', 'Cenatiempo', 'Kuenhof', 'Monte dei Ragni']
+updated: 2026-07-24
 ---
 
 # Polaner Selections
@@ -15,8 +15,8 @@ updated: 2026-07-23
 
 | Producer | Country | Region | CSW | Cellar |
 |---|---|---|---:|---:|
+| [[ciro_picariello|Ciro Picariello]] | Italy | Campania | 2 | — |
 | [[cenatiempo|Cenatiempo]] | Italy | Campania | — | — |
-| [[ciro_picariello|Ciro Picariello]] | Italy | Campania | — | — |
 | [[kuenhof|Kuenhof]] | Italy | Alto Adige / Südtirol | — | — |
 | [[monte_dei_ragni|Monte dei Ragni]] | Italy | Veneto | — | — |
 

@@ -59,11 +59,6 @@ berserkers_kelley_body:
 
 > 11/24/25 - One of, if not the most unique domaine in Burgundy is Domaine Robert Ampeau. While we have been receiving mainly the 2023 vintage (and a few 2024s) over the past 6 months, the current release from Ampeau ranges from 1996-2005. Each year it is quite…
 
-### [Champet and Jamet: Cote Rotie and more](https://chambersstwines.com/blogs/articles/champet-and-jamet-cote-rotie-and-more)
-*2018-12*
-
-> 12/20/18 - Jamet is a household name, but Champet remains a bit of a secret. This may be, in part, because the wines aren’t Parkerian, as they lack the requisite gobs and toasty toast*. The conventional line is that little or nothing has changed at Champet -…
-
 ## CSW Cellar Note
 
 > ir ability to age effortlessly over the course of decades while maintaining incredible aromatic complexity, purity of fruit, and just crackling tension. Stored

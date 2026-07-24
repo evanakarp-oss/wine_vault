@@ -18,9 +18,9 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 1
+    article_count: 3
     dedicated_count: 0
-    first_year: 2026
+    first_year: 2007
     last_year: 2026
     aging_score: 12
   dte:
@@ -59,12 +59,17 @@ Rujno. Surfaced for the vault via the 2026-07 Friuli enoteca list
 ### [Friuli!](https://chambersstwines.com/blogs/articles/friuli)
 *2026-01*
 
-> About twenty kilometers South-East from Ronchi di Cialla near the town of Oslavia and
-> hugging the Slovenian border, sits Gravner. Josko Gravner is a man with a clear vision
-> and distinctly simple yet iconic style. After an inspired trip to Georgia in 2000, he
-> adopted the ancient technique of fermenting and aging wine in underground amphora.
+> 1/14/26 - Friuli’s Venezia Giulia is Italy's North-Eastern most region and sits in a melting pot zone where Italy, Slovenia and Austria converge. The land has traded hands many times, from Ancient Rome, to the Lombards, to Alpine Slavs, then the Franks, to…
 
-Also mentioned in passing in CSW's Čotar and Abe Schoener pieces.
+### [East of the Border: Cotar](https://chambersstwines.com/blogs/articles/east-of-the-border-cotar)
+*2012-02*
+
+> *﻿2/21/12 -* ** *(Cellar-Aged Sausages and Barrels at Cotar)* In the store we recently had a tasting of wines from east and west of the Italian/Slovenian border. On the Italian side we tasted two of our favorite Fruilian producers: Josko Gravner and Stanko…
+
+### [The CSW California Wine Awards Start Now!! - Abe Schoener Edition](https://chambersstwines.com/blogs/articles/the-csw-california-wine-awards-start-now-abe-schoener-edition-1)
+*2007-12*
+
+> *12/13/2007 -* We are not really known as a California wine store but we do pay attention to up and coming producers who are making wines in the way we like them. Which is with natural yeasts, low amounts of new oak and minimal spoofilation. So with that…
 
 ## Cellar
 

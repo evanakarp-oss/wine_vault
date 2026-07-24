@@ -21,10 +21,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 1
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2017
+    last_year: 2017
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -59,3 +59,11 @@ Legendary natural wine producer founded 1988 when Angiolino Maule left pizzeria 
 - [[Gambellara_Producers|Gambellara]]
 - [[Veneto_Producers|Veneto]]
 - [[VinNatur|VinNatur Association]]
+
+## CSW Write-ups
+
+### [Natural Italian Bubbles](https://chambersstwines.com/blogs/articles/natural-italian-bubbles)
+*2017-05*
+
+> 5/19/17 - Of the under-appreciated categories in wine, Italian sparklers might not be the first thing that comes to mind. Sure, Prosecco has always been quite popular and people are starting to realize that not all Lambrusco is sticky sweet, but it's easy to…
+

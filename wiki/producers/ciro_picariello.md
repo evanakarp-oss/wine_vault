@@ -12,11 +12,11 @@ certifications: []
 importer_us: ["Polaner Selections"]
 retailers:
   chambers:
-    championed: false
-    article_count: 0
-    dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    championed: true
+    article_count: 2
+    dedicated_count: 1
+    first_year: 2020
+    last_year: 2026
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -43,7 +43,15 @@ Ciro Picariello has become one of the reference points for Fiano di Avellino, th
 
 ## CSW Write-ups
 
-_None found in the CSW corpus (scraped 2026-04)._
+### [Drink More Fiano!](https://chambersstwines.com/blogs/articles/drink-more-fiano)
+*2026-02*
+
+> 2/27/26 - I have always felt like Fiano is sitting on the precipice of notoriety, somewhere in the shadow of the culty spaces that Chenin Blanc and Riesling occupy. Like these two grapes, Fiano has aging potential and complex secondary and tertiary notes.…
+
+### ★ [Ciro Picariello: Two Incredible Whites from Campania](https://chambersstwines.com/blogs/articles/ciro-picariello-two-incredible-whites-from-campania)
+*2020-11*
+
+> 11/6/20 - Over the past six months, I've had a great time exploring the wines of Campania. If you follow our offers diligently, you might remember a couple Piedirosso bottles that I fell head-over-heels for this summer. These days, however, my mind keeps…
 
 ## Cellar
 

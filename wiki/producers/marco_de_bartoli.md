@@ -25,3 +25,10 @@ Italian producer from Campanale wine book.
 
 ## Notes
 
+## CSW Write-ups
+
+### [Sicily Part II: Marsala, Vittoria & Noto](https://chambersstwines.com/blogs/articles/sicily-part-ii-marsala-vittoria-noto)
+*2025-10*
+
+> 10/10/25 - This is Part II of this week’s Sicilian wine focus. On Wednesday we featured three Mount Etna producers and today I am so excited to feature three more producers, each from a different corner of Sicily: Marco De Bartoli to the West, Arianna…
+

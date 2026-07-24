@@ -17,11 +17,11 @@ importer_us:
   - "Kermit Lynch"
 retailers:
   chambers:
-    championed: true
-    article_count: 2
+    championed: false
+    article_count: 0
     dedicated_count: 0
-    first_year: 2012
-    last_year: 2024
+    first_year: 0
+    last_year: 0
     aging_score: 3
     cellar_pick: false
   dte:

@@ -18,10 +18,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 1
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2025
+    last_year: 2025
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -53,7 +53,10 @@ with real Raeders shelf presence.
 
 ## CSW Write-ups
 
-_None found in the CSW corpus (scraped 2026-04)._
+### [New Wines from Cameron!](https://chambersstwines.com/blogs/articles/new-wines-from-cameron)
+*2025-07*
+
+> 7/11/25 - Cameron is a name synonymous with great Oregon Pinot Noir and Chardonnay, and we've sang the praises of the fabulous Nebbiolo for many years. However maybe a bit more under-the-radar are some of winemaker John Paul's other Italian varietal wines,…
 
 ## Critic Ratings
 

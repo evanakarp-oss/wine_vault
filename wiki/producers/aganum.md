@@ -13,10 +13,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 1
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2020
+    last_year: 2020
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -42,7 +42,10 @@ Aganum represents one of the most challenging cases of heroic viticulture in Ita
 
 ## CSW Write-ups
 
-_None found in the CSW corpus (scraped 2026-04)._
+### [Piedirosso, \"In Purity\": Two Campanian Expressions](https://chambersstwines.com/blogs/articles/piedirosso-in-purity-two-campanian-expressions)
+*2020-09*
+
+> 9/12/20 - Piedirosso has an incredible ability to deliver wines of place, with brilliant structure and a full, dynamic palate of flavors true to the grape. If you flip open the treasure that is Wine Grapes, turning to the page dedicated to Piedirosso, you'll…
 
 ## Cellar
 

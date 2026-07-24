@@ -19,11 +19,11 @@ importer_us:
   - "Theise"
 retailers:
   chambers:
-    championed: false
-    article_count: 0
-    dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    championed: true
+    article_count: 7
+    dedicated_count: 1
+    first_year: 2008
+    last_year: 2025
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -120,3 +120,41 @@ Keller's influence in elevating Rheinhessen's reputation, combined with commitme
 - [[Flörsheim-Dalsheim|Flörsheim-Dalsheim (village)]]
 - [[Skurnik|Skurnik (importer)]]
 - [[Theise|Terry Theise (importer)]]
+
+## CSW Write-ups
+
+### [A Love Letter to 2024 German Riesling Featuring Haart, Schaefer and more!](https://chambersstwines.com/blogs/articles/a-love-letter-to-2024-german-riesling-featuring-haart-schaefer-and-more)
+*2025-10*
+
+> 10/18/25 - Each year stories tend to lean the same direction, warmer days, shorter growing seasons, and riper wines. In Germany in 2024 that wasn't necessarily the case. Although the season started out warmer, there was early frost in the end of April that…
+
+### [Mosel Masters: Busch, Vollenweider, Haart, Willi Schaefer, and Stein](https://chambersstwines.com/blogs/articles/mosel-masters-busch-vollenweider-haart-willi-schaefer-and-stein)
+*2024-11*
+
+> 11/18/24 - By no means exhaustive, today's newsletter presents a short list of some of our favorite producers in Germany's Mosel Valley. All of the names above have graced our shelves at various times over the last two decades, and for good reason! They…
+
+### [Wunderwein: German Pinot Noir Part 2!!!](https://chambersstwines.com/blogs/articles/wunderwein-german-pinot-noir-part-2)
+*2024-10*
+
+> 10/25/2024 As seen in the previous article Part 1, the map above doesn’t show all the regions in France where Pinot Noir is grown ( the Jura & Loire to name a few). The idea is more to show how much is grown in Germany for well over 1000 years, being the…
+
+### [Wunderwein: German Pinot Noir!!!](https://chambersstwines.com/blogs/articles/wunderwein-german-pinot-noir)
+*2024-09*
+
+> 9/3/2024 Although the map above doesn’t show all the regions in France where Pinot Noir is grown (the Jura & Loire to name a few), the idea is more to show how much is grown in Germany for well over 1000 years, being the third largest producer worldwide after…
+
+### [Nahe Nobility: Emrich-Schönleber](https://chambersstwines.com/blogs/articles/nahe-nobility-emrich-schonleber)
+*2022-10*
+
+> 10/22/22 - From the Nahe, it' the 2021 GGs from Emrich-Schönleber: **Frühlingsplätzchen and Halenberg.** To make up for the glaring paucity (just a case of each), I am including his Riesling Mineral. **** A blend of younger vines from both of the Grand Cru…
+
+### ★ [2007 Keller and Schonleber](https://chambersstwines.com/blogs/articles/2007-keller-and-schonleber)
+*2008-05*
+
+> *﻿5/17/2008 -* ** The chatter has started and 2007 is turning out to be a spectacular vintage for Germany. I barrel tasted at a few estates in February (Knebel, Heger, Schnaittman & Van Volxem) and I was very excited as to what I tasted, even if the wines…
+
+### [Wittman Gruner Silvaner: A Chambers Street Wines Exclusive](https://chambersstwines.com/blogs/articles/wittman-gruner-silvaner-a-chambers-street-wines-exclusive)
+*2008-02*
+
+> *2/5/2008 -* In Germany last summer I had a lovely visit at the Wittman Estate in Rheinhessen and tasted many wines. I wanted to buy all of them but Jamie and David might not have been too happy with that, so I decided on the 2006 Gruner-Silvaner as it was…
+

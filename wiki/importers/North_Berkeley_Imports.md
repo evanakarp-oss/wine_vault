@@ -5,7 +5,7 @@ slug: north_berkeley_imports
 producer_count: 1
 focus: ['Basilicata']
 notable_producers: ['Azienda Agricola Musto Carmelitano']
-updated: 2026-07-23
+updated: 2026-07-24
 ---
 
 # North Berkeley Imports

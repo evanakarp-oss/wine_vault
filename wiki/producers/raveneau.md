@@ -13,10 +13,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 4
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2008
+    last_year: 2025
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -37,7 +37,25 @@ _The most coveted name in Chablis. Jean-Marie and Isabelle Raveneau farm grand c
 
 ## CSW Write-ups
 
-_Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Street coverage._
+### [La Petite Empreinte and Light Reds for Spring and Summer!](https://chambersstwines.com/blogs/articles/la-petite-empreinte-and-light-reds-for-spring-and-summer)
+*2025-05*
+
+> 5/3/25 - I first visited Alice and Olivier De Moor back in 2005, in their tiny cellar in Courgis, tasting the 2004s from barrel and bottled wines going back to the 1999 Rosette. It was an extraordinary experience - organic farming was almost unknown in…
+
+### [Cha-bliss - End of Summer Chablis Sale!](https://chambersstwines.com/blogs/articles/cha-bliss-end-of-summer-chablis-sale)
+*2024-08*
+
+> 8/20/2024 We didn't want to be the ones to declare it the End of Summer, but what the heck... it is late August already. We'll likely still have some warm weeks in September, as the Fall doesn't really kick in as quickly as it used to, so why not stretch out…
+
+### [Moreau-Naudet Chablis: Le Vrai Truc (The Real Thing)](https://chambersstwines.com/blogs/articles/moreau-naudet-chablis-le-vrai-truc-the-real-thing)
+*2020-08*
+
+> 8/26/2020 *(Virginie Moreau examining a sample (photo courtesy of Grand Cru Selections))* I was recently asked by a friend if I could remember the bottle of Burgundy from which there was no escape. I replied "Of course I can." (For the record, every Burgundy…
+
+### [The Dauvissat 06's Are Here!](https://chambersstwines.com/blogs/articles/the-dauvissat-06s-are-here)
+*2008-07*
+
+> *7/21/2008 -* In Chablis the estates of Raveneau and Dauvissat tower over all other producers. They make classically structured Chablis with the ability to age for up to twenty plus years. Acoording to his comments in Burghound, Vincent Dauvissat says his…
 
 ## Critic Ratings
 

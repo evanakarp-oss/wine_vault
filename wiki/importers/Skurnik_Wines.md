@@ -5,7 +5,7 @@ slug: skurnik_wines
 producer_count: 1
 focus: ['Lombardy']
 notable_producers: ['Arpepe']
-updated: 2026-07-23
+updated: 2026-07-24
 ---
 
 # Skurnik Wines

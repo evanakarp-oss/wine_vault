@@ -12,11 +12,11 @@ certifications: ["Ecocert"]
 importer_us: ["Bowler Ewing", "Kermit Lynch"]
 retailers:
   chambers:
-    championed: false
-    article_count: 0
-    dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    championed: true
+    article_count: 2
+    dedicated_count: 2
+    first_year: 2025
+    last_year: 2025
   dte:
     in_portfolio: true
     cuvee_count: 0
@@ -36,7 +36,15 @@ _Exemplary organic Burgundy grower producing transparent, mineral-driven Pinot N
 
 ## CSW Write-ups
 
-_Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Street coverage._
+### ★ [2018 David Duband Morey-St-Denis 1er Cru Clos Sorbe](https://chambersstwines.com/blogs/articles/2018-david-duband-morey-st-denis-1er-cru-clos-sorbe)
+*2025-06*
+
+> 6/16/25 - As many of you have probably gathered already, I love a good deal, especially when it comes to Burgundy and today's offer is NO JOKE! It is not every day when we can bring enough of a wine to send out offers such as these, but it is also not every…
+
+### ★ [New Arrival but a Familiar Name: Les Terres de Phileandre a New Project from David Duband!](https://chambersstwines.com/blogs/articles/new-arrival-but-a-familiar-name-les-terres-de-phileandre-a-new-project-from-david-duband)
+*2025-03*
+
+> 3/31/2025 *David Duband (Photo: Polaner Selections)* Small Negociant projects seem to pop up left and right these days especially in Burgundy. However, it is fairly less common to see someone with the experience like David Duband start a new project when his…
 
 ## Down to Earth Wines (Panzer)
 

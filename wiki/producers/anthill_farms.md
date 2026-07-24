@@ -13,10 +13,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 1
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2012
+    last_year: 2012
   dte:
     in_portfolio: false
     cuvee_count: 0
@@ -37,7 +37,10 @@ _A cool-climate Pinot Noir (and Syrah) house founded by three Williams Selyem al
 
 ## CSW Write-ups
 
-_Pending — re-run `ingest_csw.py` after creation to pick up any Chambers Street coverage._
+### [Radical Purity: Left Coast Highlights](https://chambersstwines.com/blogs/articles/radical-purity-left-coast-highlights)
+*2012-04*
+
+> *﻿4/07/12 -* ** From the fringes of the Willamette Valley to the foothills of the Sierras, West Coast winemakers are breaking new ground. We're particularly impressed by Olga and Barnaby Tuttle of Teutonic Wine Company, who farm and source fruit from extreme…
 
 ## Critic Ratings
 

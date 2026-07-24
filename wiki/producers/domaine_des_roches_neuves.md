@@ -15,10 +15,10 @@ importer_us: []
 retailers:
   chambers:
     championed: false
-    article_count: 0
+    article_count: 1
     dedicated_count: 0
-    first_year: 0
-    last_year: 0
+    first_year: 2024
+    last_year: 2024
   dte:
     in_portfolio: false
   raeders:
@@ -34,7 +34,10 @@ _Thierry Germain's biodynamic Saumur estate — a reference for Loire Cabernet F
 
 ## CSW Write-ups
 
-_No Chambers Street write-ups on file._
+### [New wine, new producer: Saumur Blanc 'La Peyanne' from Théo Blet](https://chambersstwines.com/blogs/articles/new-wine-new-producer-saumur-blanc-la-peyanne-from-theo-ble)
+*2024-01*
+
+> 1/26/24 - Many years ago, the first Dive Bouteille wine fair took place in 1999 in a cellar of Catherine and Pierre Breton. From what I can tell, there may have been two Americans there: our own David Lillie, and legendary wine importer, Joe Dressner. Jenny…
 
 ## FASS
 
