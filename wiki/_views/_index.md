@@ -9,7 +9,7 @@ generator: scripts/build_views_index.py
 
 Catalog of every keeper-answer page in `wiki/_views/` — the single read surface for saved analyses (gap analysis, drink-window shortlists, cross-retailer comparisons, critic overlays). The main `wiki/index.md` skips this directory, so this is where views are cataloged.
 
-**103 views.**
+**104 views.**
 
 | Page | Question / title | Updated |
 |---|---|---|
@@ -91,6 +91,7 @@ Catalog of every keeper-answer page in `wiki/_views/` — the single read surfac
 | [[skurnik_at_raeders|skurnik_at_raeders]] | Skurnik × Raeder's — Inventory Cross-Check | 2026-05-21 |
 | [[skurnik_raeders_xref_2026-06|skurnik_raeders_xref_2026-06]] | Skurnik × Raeder's — Cross-Reference | 2026-06-13 |
 | [[us_cabernet_producers_wb_2026_07|us_cabernet_producers_wb_2026_07]] | Which US Cabernet (and Bordeaux-variety red) producers appear in the WineBerserkers cellar-mention / momentum dataset — verified outside the vault? | 2026-07-09 |
+| [[value_cellaring_2026_07|value_cellaring_2026_07]] | Low-Cost, High-Aging-Potential Producers in Vault | 2026-07-24 |
 | [[vault_tour_deck|vault_tour_deck]] | Wine Vault |  |
 | [[veritas_wines_raeders_xref_2026-06|veritas_wines_raeders_xref_2026-06]] | Veritas Wines × Raeder's — Cross-Reference | 2026-06-13 |
 | [[vineyard_brands_at_raeders|vineyard_brands_at_raeders]] | Vineyard Brands × Raeder's — Inventory Cross-Check | 2026-05-21 |
