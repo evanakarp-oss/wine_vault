@@ -7,55 +7,66 @@ tags: [cellaring, value, affordable, aging_potential, csw_championed]
 
 # Low-Cost, High-Aging-Potential Producers in Vault
 
-Vault-wide scan for producers tracked in Evan's wiki that combine high `aging_score` (CSW's quantified ageworthy assessment) with low retail prices. These are the "affordable wines that will age" thesis made concrete — buy now at accessible price points, cellar 5–20+ years, drink well.
+Producers tracked in the vault whose **cheapest currently-listed bottle is itself genuinely ageworthy** — the "affordable wines that will age" thesis made concrete. Every row below was verified against the actual cuvée at that price (Raeders `master_2026-04-25.csv`, DTE `dte_portfolio_2026-03-25`), not just the producer's headline `aging_score`.
 
-**Filtering method:** All producers with `aging_score` ≥5 (from `retailers.chambers.aging_score` in frontmatter) that appear in current DTE or Raeders portfolios with published pricing. Sorted by aging_score (desc), then price (asc). Only showing vendors with actual prices listed (price_min > 0).
+> **Methodology note (why this matters).** `aging_score` in producer frontmatter is a *producer-level* signal — it reflects the estate's **flagship**. Naively pairing it with a producer's cheapest bottle is misleading: a great Barolo house's cheapest wine is often a drink-young Arneis, not a cellar candidate. This list only keeps producers where the **entry-priced bottle is the ageworthy one**. Producers whose cheap bottle is *not* their ageworthy wine are called out separately in "Don't be fooled" below.
 
-## The value chart — 20 best buys by aging potential
+## Genuine value cellar picks — the cheap bottle IS the ageworthy wine
 
-| Rank | Producer | Region | Score | Min Price | Vendor | CSW Art / Ded | Notes |
-|---|---|---|---|---|---|---|---|
-| 1 | [[domaine_baudry\|Domaine Baudry]] | Chinon (Loire) | **13** | **$20** | DTE | 45 / 20 ★ | Organic, 45 CSW articles, the single highest-concentration aging thesis in the vault — Loire Cab Franc at drink-now prices. Hold 5–10 years minimum. |
-| 2 | [[ceretto\|Ceretto]] | Barolo / Barbaresco | 9 | **$24.99** | Raeders | 9 CSW | Piedmont classic, structured, built to age. Entry-level Ceretto is legitimately ageworthy. |
-| 3 | [[clos_de_la_roilette\|Clos de la Roilette]] | Beaujolais (Fleurie) | 7 | **$22** | DTE | 8 CSW / 6 ★ | Gang-of-four adjacent (natural-leaning cru Beaujolais), mineral. Cellar 3–7 years. |
-| 4 | [[desvignes\|Desvignes]] | Beaujolais | 6 | **$23** | DTE | 13 CSW | Natural-leaning Beaujolais cru, minimal intervention. Drinks well young but improves 3–5 years. |
-| 5 | [[domaine_pierre_andre\|Domaine Pierre André]] | Gigondas / Châteauneuf-du-Pape | 4 | $49.99 | Raeders | 12 CSW / 5 ★ | Southern Rhône old-vine blend. Built for 15–20 year hold. |
-| 6 | [[jasmin\|Jasmin]] | Côte-Rôtie (N. Rhône) | 7 | **$55** | DTE | 1 CSW | Classic Côte-Rôtie producer, structured, improves 5–10 years. |
-| 7 | [[pierre_peters\|Pierre Peters]] | Champagne (Mesnil) | 7 | $79.99 | Raeders | 2 CSW / 2 ★ | Grower Champagne, chalk-driven, built to age 15+ years (especially aged LD bottlings). |
-| 8 | [[domaine_leflaive\|Domaine Leflaive]] | Puligny-Montrachet | 10 | $89.99 | Raeders | 6 CSW | Burgundy white, structured, improves 5–8 years. |
-| 9 | [[ramonet\|Ramonet]] | Chassagne-Montrachet | 9 | $89.99 | Raeders | 1 CSW | Burgundy white, mineral, cellar 5–10 years. |
-| 10 | [[chateau_cantemerle\|Château Cantemerle]] | Haut-Médoc (Bordeaux) | 9 | $49.99 | Raeders | 1 CSW | Classed growth (5th), affordable entry point for aged Bordeaux. Hold 10–15 years. |
-| 11 | [[meo_camuzet\|Méo-Camuzet]] | Vosne-Romanée | 10 | $109.99 | Raeders | 1 CSW | Burgundy red, structured, improves 5–8 years. |
-| 12 | [[chateau_gruaud_larose\|Château Gruaud-Larose]] | Saint-Julien (Bordeaux) | 12 | $99.99 | Raeders | 1 CSW | Classed growth (2nd), solid aging track record, 15–25 year window. |
-| 13 | [[clos_du_mont_olivet\|Clos du Mont Olivet]] | Châteauneuf-du-Pape | 7 | $69 | DTE | 1 CSW | Traditional CdP, structured old vines, cellar 8–15 years. |
-| 14 | [[domenico_clerico\|Domenico Clerico]] | Piedmont | 9 | $75 | DTE | 1 CSW | Barolo-region producer, improves with age. |
-| 15 | [[rudolf_furst\|Rudolf Furst]] | Franken (Germany) | 6 | $35 | DTE | 5 CSW | German Pinot Noir + Riesling, terroir-driven, ages well. |
-| 16 | [[chateau_smith_haut_lafitte\|Château Smith-Haut-Lafitte]] | Pessac-Léognan (Bordeaux) | 11 | $159.99 | Raeders | 4 CSW | Classed growth, biodynamic farming, ages 15–20+ years. Pricier but legitimately in the value range for its tier. |
-| 17 | [[domaine_de_chevalier\|Domaine de Chevalier]] | Pessac-Léognan (Bordeaux) | 12 | $99.99 | Raeders | 2 CSW | Classed growth red + white, structured, ages 15–25 years. |
-| 18 | [[chateau_palmer\|Château Palmer]] | Margaux (Bordeaux) | 13 | $399.99 | Raeders | 1 CSW | Classed growth (3rd), luxury tier but historically strong ageability (20–40 years). Not "low cost" but included for completeness. |
-| 19 | [[dom_perignon\|Dom Pérignon]] | Champagne | 12 | $499.99 | Raeders | 1 CSW | Iconic Champagne house, ages remarkably well (20–40 years). Luxury tier. |
-| 20 | [[biondi_santi\|Biondi-Santi]] | Montalcino (Tuscany) | 14 | $249.99 | Raeders | 1 CSW | Brunello benchmark, ages 20–50+ years. Premium tier but legitimately among the vault's highest-aging producers. |
+Sorted by price. Every wine named is verified from current retailer data.
 
-## Key observations
+| Producer | The actual bottle | Price | Grape / style | Score | Cellar window | Source |
+|---|---|---|---|---|---|---|
+| [[domaine_baudry\|Domaine Baudry]] | Chinon "Les Granges" 2021 | **$20** | Cabernet Franc | **13** | 5–10 yr | DTE |
+| [[clos_de_la_roilette\|Clos de la Roilette]] | Fleurie 2021 | **$22** | Gamay (cru) | 7 | 5–10 yr | DTE |
+| [[desvignes\|Desvignes]] | Morgon "la Voûte St-Vincent" 2022 | **$23** | Gamay (cru) | 6 | 4–8 yr | DTE |
+| [[rudolf_furst\|Rudolf Fürst]] | Bürgstadter Riesling trocken 2018 | $35 | dry Riesling | 6 | 5–10 yr | DTE |
+| [[chateau_cantemerle\|Château Cantemerle]] | Haut-Médoc 2013 (grand vin) | $49.99 | Bordeaux blend | 9 | 10–15 yr | Raeders |
+| [[jasmin\|Jasmin]] | Côte-Rôtie "la Giroflarie" 2016 | $55 | Syrah | 7 | 10–15 yr | DTE |
+| [[clos_du_mont_olivet\|Clos du Mont-Olivet]] | CdP "Cuvée du Papet" 2015 (**flagship!**) | $69 | Grenache old-vine | 7 | 15–20 yr | DTE |
+| [[domenico_clerico\|Domenico Clerico]] | Barolo "Pajana" 2008 | $75 | Nebbiolo | 9 | 15–20 yr | DTE |
+| [[chateau_gruaud_larose\|Château Gruaud-Larose]] | Saint-Julien 2019 (grand vin) | $99.99 | Bordeaux blend | 12 | 15–25 yr | Raeders |
+| [[domaine_de_chevalier\|Domaine de Chevalier]] | Pessac-Léognan 2022 (grand vin) | $99.99 | Bordeaux blend | 12 | 15–25 yr | Raeders |
+| [[meo_camuzet\|Méo-Camuzet]] | Volnay 2019 (village) | $109.99 | Pinot Noir | 10 | 8–12 yr | Raeders |
+| [[chateau_smith_haut_lafitte\|Ch. Smith-Haut-Lafitte]] | Pessac-Léognan (grand vin) | $159.99 | Bordeaux blend | 11 | 15–20 yr | Raeders |
 
-**Loire Cabernet Franc dominates the real estate:** Domaine Baudry sits atop the entire chart — **aging_score 13 at $20**. This is CSW's thesis made literal. Even without the other Loire Cab Francs in DTE/Raeders portfolios (Catherine & Pierre Breton, Guion, Chevalerie, Raffault lack current retailer data), Baudry alone justifies the "affordable + ageworthy" positioning.
+**Premium tier — ageworthy but not "low cost"** (kept for completeness; these are their real wines, not entry bottles):
 
-**Sub-$25 sweet spots:** Clos de la Roilette ($22), Desvignes ($23), Ceretto ($24.99) — all score 6–7 on aging, all offer 3–8 year cellaring windows, all **acquisition-ready at drink-now prices.**
+| Producer | The actual bottle | Price | Score | Cellar window |
+|---|---|---|---|---|
+| [[biondi_santi\|Biondi-Santi]] | Brunello di Montalcino 2015 | $249.99 | **14** | 20–50 yr |
+| [[chateau_palmer\|Château Palmer]] | Margaux 1981 (already aged) | $399.99 | 13 | drink now–2035 |
 
-**Beaujolais cru as cellar filler:** Clos de la Roilette and Desvignes represent the natural-leaning gang-of-four adjacent tradition. Both age better than their reputation suggests (typically drunk young).
+## The headline: sub-$25 that genuinely cellars
 
-**Burgundy whites in the $90–110 range:** Domaine Leflaive, Ramonet, Méo-Camuzet represent white-wine aging potential often overlooked in cellaring plans. Château Gruaud-Larose (Bordeaux) at $99.99 is the red equivalent — legitimate 12 CSW articles for a 2nd-growth Saint-Julien under $100.
+Three bottles under $25 where the cheap wine is unambiguously built to age:
 
-**Champagne & Bordeaux tiers:** Pierre Peters ($79.99) offers grower Champagne ageability without the Krug/Salon premium. Château Cantemerle and Château de Chevalier ($49.99–$99.99) are classed-growth Bordeaux at accessible prices with proven 15–25 year aging track records.
+- **Domaine Baudry, Chinon "Les Granges" — $20.** aging_score 13, 45 CSW articles / 20 dedicated ★. Organic Loire Cabernet Franc. This is the single best expression of CSW's "affordable + ageworthy" thesis in the whole vault — the entry Chinon, not a flagship, and it still holds 5–10 years.
+- **Clos de la Roilette, Fleurie — $22.** Cru Beaujolais with a real reputation for aging (Roilette drinks like young Burgundy at 8+ years). Natural-leaning, gang-of-four adjacent.
+- **Desvignes, Morgon "la Voûte St-Vincent" — $23.** Old-vine Côte du Py-district Morgon; structured cru Gamay that rewards 4–8 years.
+
+## ⚠️ Don't be fooled — cheap bottle ≠ ageworthy wine
+
+These producers carry a high `aging_score`, but their **cheapest** listed bottle is a drink-young entry wine. The score belongs to a flagship that costs far more. Included so this mistake isn't repeated (the first draft of this view wrongly listed the first four as value cellar picks):
+
+| Producer | Cheapest bottle | Price | Reality | What the score actually reflects |
+|---|---|---|---|---|
+| [[ceretto\|Ceretto]] | Arneis Langhe "Blangé" 2022 | $24.99 | aromatic **white, drink ≤2–3 yr** | Barolo Bricco Rocche / Prapò ($160–$400) |
+| [[ramonet\|Ramonet]] | Bourgogne **Aligoté** 2022 | $89.99 | drink-young aperitif white | Montrachet / Bâtard grand crus |
+| [[domaine_leflaive\|Domaine Leflaive]] | Mâcon-Verzé "Les Chênes" 2020 | $89.99 | village Mâcon, 3–5 yr | Puligny 1ers / Chevalier-Montrachet |
+| [[pierre_peters\|Pierre Peters]] | NV Cuvée de Réserve Blanc de Blancs | $79.99 | entry NV grower fizz | aged vintage "Les Chétillons" |
+| [[dom_perignon\|Dom Pérignon]] | Rosé 2008 "Lady Gaga Edition" | $499.99 | novelty bottling | standard/P2 Plénitude tier |
+
+(Also dropped from the first draft: **Domaine Pierre André** — carried no verified retailer price at all; its $49.99 line was spurious.)
 
 ## Caveats
 
-- **Aging_score coverage is sparse:** 121 of 829 producers carry the field; only 22 score ≥4. This list represents the intersect of that sparse coverage + current retailer portfolio data, so it's biased toward CSW-championed + DTE/Raeders-stocked producers. Many excellent ageworthy producers (Guion, Chevalerie, Raffault, Willi Schaefer) lack current retail pricing.
-- **Prices are snapshot (2026-04-25 for Raeders, March 2026 for DTE).** Check current lists before buying.
-- **Cellar-window estimates are vendor quotes or inference from Notes.** Actual aging depends on vintage, storage, personal taste.
+- **Coverage is sparse.** Of 829 producers, 121 carry `aging_score`, only 22 score ≥4. This list is the intersect of that sparse field with producers actually stocked at DTE/Raeders — so it under-represents ageworthy producers with no current retail pricing (Guion, Chevalerie, Olga Raffault, Catherine & Pierre Breton, Willi Schaefer all score 6–14 but lack a listed price here).
+- **Prices are snapshots** (Raeders 2026-04-25, DTE 2026-03-25). Confirm before buying.
+- **Cellar windows** are vendor quotes or inference from producer Notes; actual aging depends on vintage, storage, and taste.
 
 ## Cross-references
 
-- [[csw_aging_language_2026_07|CSW Aging Language]] — the quantified thesis + full passage citations backing aging_score
-- [[cellar_gap_analysis_2026_05|Cellar Gap Analysis]] — Evan's acquisition targets by region; cross-ref with this value list
-- [[index|Wiki Index]] — find full producer pages for detailed notes, vineyard details, farming
+- [[csw_aging_language_2026_07|CSW Aging Language]] — the quantified aging thesis + full passage citations
+- [[cellar_gap_analysis_2026_05|Cellar Gap Analysis]] — acquisition targets by region
+- [[index|Wiki Index]] — full producer pages with vineyard + farming detail
